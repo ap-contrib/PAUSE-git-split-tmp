@@ -956,7 +956,7 @@ List::Indexed                       1.0  A/AR/ARPADF/List-Indexed-1.0.tar.gz
 List::Intersperse                  1.00  T/TA/TAYERS/List-Intersperse-1.00.tar.gz
 List::Maker                    0.000005  D/DC/DCONWAY/List-Maker-v0.0.5.tar.gz
 List::Maker::OtherModule       0.000001  D/DC/DCONWAY/List-Maker-v0.0.5.tar.gz
-List::MapList                     1.121  R/RJ/RJBS/List-MapList-1.121.tar.gz
+List::MapList                     1.122  R/RJ/RJBS/List-MapList-1.122.tar.gz
 List::MapMulti                    0.001  T/TO/TOBYINK/List-MapMulti-0.001.tar.gz
 List::MapMulti::Iterator          0.001  T/TO/TOBYINK/List-MapMulti-0.001.tar.gz
 List::Member                      0.044  L/LG/LGODDARD/List-Member-0.044-withoutworldwriteables.tar.gz
@@ -1026,7 +1026,7 @@ LLEval                             0.01  G/GF/GFUJI/LLEval-0.01.tar.gz
 LLEval::CLI                       undef  G/GF/GFUJI/LLEval-0.01.tar.gz
 LLg                               undef  Y/YV/YVESP/llg-1.07.tar.gz
 lm                                    0  D/DC/DCMERTENS/PDL-Graphics-Prima-0.05.tar.gz
-load                               0.20  E/EL/ELIZABETH/load-0.20.tar.gz
+load                               0.21  E/EL/ELIZABETH/load-0.21.tar.gz
 Load                           2.000002  M/MP/MPOURASG/FastDB-2.0.2.tar.gz
 LoaderException2                  undef  M/MR/MRAMBERG/Mojolicious-2.58.tar.gz
 LoaderException2_2                undef  M/MR/MRAMBERG/Mojolicious-2.58.tar.gz

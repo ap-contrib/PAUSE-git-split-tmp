@@ -282,7 +282,7 @@ Persistent::Oracle                 0.50  D/DW/DWINTERS/Persistent-Oracle-0.50.ta
 Persistent::Sybase                 0.50  D/DW/DWINTERS/Persistent-Sybase-0.50.tar.gz
 Persistent_Test                   undef  D/DA/DAVIDNICO/Pollute-0.07.tar.gz
 PersistentPerl                     2.22  H/HO/HORROCKS/PersistentPerl-2.22.tar.gz
-persona                            0.10  E/EL/ELIZABETH/persona-0.10.tar.gz
+persona                            0.11  E/EL/ELIZABETH/persona-0.11.tar.gz
 personal                           0.22  O/ON/ONDR/personal-0.22.tar.gz
 personal::Reloader                 0.00  O/ON/ONDR/personal-0.22.tar.gz
 Personality::Type::MBTI            0.05  N/NF/NFERRAZ/Personality-Type-MBTI-0.05.tar.gz
