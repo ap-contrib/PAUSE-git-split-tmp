@@ -1344,6 +1344,7 @@ Dist::Zilla::Plugin::ModuleBuild::RequireXS,DRTECH,f
 Dist::Zilla::Plugin::ModuleBuild::Test,RJBS,f
 Dist::Zilla::Plugin::ModuleBuild::XSOrPP,DROLSKY,f
 Dist::Zilla::Plugin::ModuleBuildTiny,LEONT,f
+Dist::Zilla::Plugin::ModuleIncluder,LEONT,f
 Dist::Zilla::Plugin::ModuleInstall,KENTNL,f
 Dist::Zilla::Plugin::ModuleShareDirs,RJBS,f
 Dist::Zilla::Plugin::MojibakeTest,RUSSOZ,f
@@ -1671,6 +1672,7 @@ Dist::Zilla::Role::MetaProvider,RJBS,f
 Dist::Zilla::Role::MetaProvider::Provider,KENTNL,f
 Dist::Zilla::Role::MintingProfile,RJBS,f
 Dist::Zilla::Role::MintingProfile::ShareDir,RJBS,f
+Dist::Zilla::Role::ModuleIncluder,LEONT,f
 Dist::Zilla::Role::ModuleInfo,CJM,f
 Dist::Zilla::Role::ModuleMaker,RJBS,f
 Dist::Zilla::Role::PPI,RJBS,f
