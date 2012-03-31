@@ -714,6 +714,7 @@ Perl::Tidy::Diagnostics        20101217  S/SH/SHANCOCK/Perl-Tidy-20101217.tar.gz
 Perl::Tidy::HtmlWriter         20101217  S/SH/SHANCOCK/Perl-Tidy-20101217.tar.gz
 Perl::Tidy::IOScalar           20101217  S/SH/SHANCOCK/Perl-Tidy-20101217.tar.gz
 Perl::Tidy::IOScalarArray      20101217  S/SH/SHANCOCK/Perl-Tidy-20101217.tar.gz
+Perl::Tidy::Komodo             1.120910  M/MI/MITHALDU/Perl-Tidy-Komodo-1.120910.tar.gz
 Perl::Tidy::LineSink           20101217  S/SH/SHANCOCK/Perl-Tidy-20101217.tar.gz
 Perl::Tidy::LineSource         20101217  S/SH/SHANCOCK/Perl-Tidy-20101217.tar.gz
 Perl::Tidy::Logger             20101217  S/SH/SHANCOCK/Perl-Tidy-20101217.tar.gz
