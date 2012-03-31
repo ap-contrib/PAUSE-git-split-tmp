@@ -305,7 +305,7 @@ Apache2::Profiler                  0.10  M/MS/MSCHOUT/Apache-Profiler-0.10.tar.g
 Apache2::Protocol                   0.1  M/MD/MDMS/Apache2-Protocol-0.1.tar.gz
 Apache2::Protocol::ESMTP           0.01  M/MD/MDMS/Apache2-Protocol-ESMTP-0.01.tar.gz
 Apache2::reCaptcha                 0.02  A/AN/ANALOG/Apache2-reCaptcha-0.3.tgz
-Apache2::Reload                    0.11  P/PH/PHRED/Apache-Reload-0.11.tar.gz
+Apache2::Reload                    0.12  P/PH/PHRED/Apache-Reload-0.12.tar.gz
 Apache2::Request                   2.13  I/IS/ISAAC/libapreq2-2.13.tar.gz
 Apache2::Request::PageKit          2.15  B/BO/BORISZ/Apache2-PageKit-2.15.tar.gz
 Apache2::Request::Plus             0.10  M/MI/MIKO/Apache2-Request-Plus-0.10.tar.gz
