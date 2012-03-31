@@ -1582,6 +1582,7 @@ Dist::Zilla::PluginBundle::CJFIELDS,CJFIELDS,c
 Dist::Zilla::PluginBundle::CJM,CJM,f
 Dist::Zilla::PluginBundle::CSJEWELL,CSJEWELL,f
 Dist::Zilla::PluginBundle::Classic,RJBS,f
+Dist::Zilla::PluginBundle::ConfigSlicer,RWSTAUNER,f
 Dist::Zilla::PluginBundle::DAGOLDEN,DAGOLDEN,f
 Dist::Zilla::PluginBundle::DANIELP,DANIELP,f
 Dist::Zilla::PluginBundle::DOY,DOY,f
