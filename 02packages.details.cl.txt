@@ -190,7 +190,7 @@ Class::Entity                       0.5  P/PN/PNEWMAN/Class-Entity-0.5.tar.gz
 Class::Error                        2.3  S/SK/SKNPP/OOTools-2.3.tar.gz
 Class::ErrorHandler                0.01  B/BT/BTROTT/Class-ErrorHandler-0.01.tar.gz
 Class::Exporter                    0.03  S/SP/SPLICE/Class-Exporter-0.03.tar.gz
-Class::ExtraAttributes             0.01  E/EL/ELIZABETH/Class-ExtraAttributes-0.01.tar.gz
+Class::ExtraAttributes             0.02  E/EL/ELIZABETH/Class-ExtraAttributes-0.02.tar.gz
 Class::Facade                      0.01  A/AB/ABW/Class-Facade-0.01.tar.gz
 Class::Facet                      undef  G/GR/GRM/CamelPKI/App-CamelPKI-0.07.tar.gz
 Class::Factory                     1.06  P/PH/PHRED/Class-Factory-1.06.tar.gz

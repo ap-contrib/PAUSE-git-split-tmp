@@ -1188,7 +1188,7 @@ Devel::REPL::Plugin::Turtles      undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Profile              undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Profile::Default     undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Script               undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
-Devel::Required                    0.08  E/EL/ELIZABETH/Devel-Required-0.08.tar.gz
+Devel::Required                    0.09  E/EL/ELIZABETH/Devel-Required-0.09.tar.gz
 Devel::RingBuffer                  0.31  D/DA/DARNOLD/Devel-RingBuffer-0.31.tar.gz
 Devel::RingBuffer::Ring            0.31  D/DA/DARNOLD/Devel-RingBuffer-0.31.tar.gz
 Devel::RingBuffer::ThreadFacade    0.31  D/DA/DARNOLD/Devel-RingBuffer-0.31.tar.gz
