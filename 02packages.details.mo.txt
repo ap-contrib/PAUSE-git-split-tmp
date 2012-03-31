@@ -221,6 +221,7 @@ Mojolicious::Plugin::Cache::Page 0.0015  S/SI/SIDD/Mojolicious-Plugin-Cache-0.00
 Mojolicious::Plugin::Captcha::reCAPTCHA 0.03  H/HJ/HJANSEN/Mojolicious-Plugin-Captcha-reCAPTCHA-0.03.tar.gz
 Mojolicious::Plugin::CaptchaRenderer 0.02  D/DM/DMITRYNOD/Mojolicious-Plugin-CaptchaRenderer-0.02.tar.gz
 Mojolicious::Plugin::Charset      undef  S/SR/SRI/Mojolicious-2.70.tar.gz
+Mojolicious::Plugin::Cloudinary    0.01  J/JH/JHTHORSEN/Mojolicious-Plugin-Cloudinary-0.01.tar.gz
 Mojolicious::Plugin::Config       undef  S/SR/SRI/Mojolicious-2.70.tar.gz
 Mojolicious::Plugin::ConsoleLogger 0.03  T/TE/TEMPIRE/Mojolicious-Plugin-ConsoleLogger-0.03.tar.gz
 Mojolicious::Plugin::CountryDropDown 0.04  H/HJ/HJANSEN/Mojolicious-Plugin-CountryDropDown-0.04.tar.gz
