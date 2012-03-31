@@ -1517,6 +1517,7 @@ Dist::Zilla::Plugin::Test::UseAllModules,RUSSOZ,f
 Dist::Zilla::Plugin::Test::Version,XENO,f
 Dist::Zilla::Plugin::TestRelease,RJBS,f
 Dist::Zilla::Plugin::Twitter,DAGOLDEN,f
+Dist::Zilla::Plugin::Twitter,DOHERTY,c
 Dist::Zilla::Plugin::UnusedVarsTests,DOHERTY,c
 Dist::Zilla::Plugin::UnusedVarsTests,MARCEL,f
 Dist::Zilla::Plugin::UnusedVarsTests,XENO,c
