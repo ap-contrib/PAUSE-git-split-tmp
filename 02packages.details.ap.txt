@@ -70,7 +70,6 @@ Apache::Voodoo::Zombie           3.0200  M/MA/MAVERICK/Apache-Voodoo-3.0200.tar.
 Apache::WAP::AutoIndex             0.01  D/DB/DBRIAN/Apache-WAP-AutoIndex-0.01.tar.gz
 Apache::WAP::MailPeek              0.01  D/DB/DBRIAN/Apache-WAP-MailPeek-0.01.tar.gz
 Apache::Watchdog::RunAway          1.00  S/ST/STAS/Apache-Watchdog-RunAway-1.00.tar.gz
-Apache::WebDAO                    undef  Z/ZA/ZAG/WebDAO-1.06.tar.gz
 Apache::WebDAV                     0.01  L/LO/LOZIER/Apache-WebDAV-0.01.tar.gz
 Apache::WebSNMP                    0.11  R/RI/RIGBYC/Apache-WebSNMP-0.11.tar.gz
 Apache::WeSQL                      0.53  W/WA/WARD/WeSQL-0.53.tar.gz

@@ -582,11 +582,6 @@ DBIx::Informix::Perform::DoTable  undef  W/WE/WEAV/DBIx-Informix-Perform-0.01.ta
 DBIx::Informix::Perform::Forms    undef  W/WE/WEAV/DBIx-Informix-Perform-0.01.tar.gz
 DBIx::Informix::Perform::Widgets::ButtonSet undef  W/WE/WEAV/DBIx-Informix-Perform-0.01.tar.gz
 DBIx::Informix::Perform::Widgets::TextField undef  W/WE/WEAV/DBIx-Informix-Perform-0.01.tar.gz
-DBIx::Inline                       0.19  B/BR/BRADH/DBIx-Inline-0.19.tar.gz
-DBIx::Inline::Manual              undef  B/BR/BRADH/DBIx-Inline-0.08.tar.gz
-DBIx::Inline::Result               0.14  B/BR/BRADH/DBIx-Inline-0.19.tar.gz
-DBIx::Inline::ResultSet            0.14  B/BR/BRADH/DBIx-Inline-0.19.tar.gz
-DBIx::Inline::Schema               0.14  B/BR/BRADH/DBIx-Inline-0.19.tar.gz
 DBIx::InsertHash                  0.011  U/UV/UVOELKER/DBIx-InsertHash-0.011.tar.gz
 DBIx::Inspector                    0.06  T/TO/TOKUHIROM/DBIx-Inspector-0.06.tar.gz
 DBIx::Inspector::Column               0  T/TO/TOKUHIROM/DBIx-Inspector-0.06.tar.gz

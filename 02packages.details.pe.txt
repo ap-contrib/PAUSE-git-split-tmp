@@ -150,7 +150,6 @@ Perl6::Pod::Parser::AddHeadLevels undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::AddIds        undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::Context       undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::CustomCodes   undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
-Perl6::Pod::Parser::Doallow       undef  Z/ZA/ZAG/Perl6-Pod-0.24.tar.gz
 Perl6::Pod::Parser::Doformatted   undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::FilterPattern undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::ListLevels    undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
