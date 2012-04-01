@@ -220,7 +220,7 @@ UNIVERSAL::canAUTOLOAD             0.01  R/RC/RCLAMP/UNIVERSAL-canAUTOLOAD-0.01.
 UNIVERSAL::cant                0.000001  D/DM/DMUEY/UNIVERSAL-cant-v0.0.1.tar.gz
 UNIVERSAL::derived_classes         0.02  T/TA/TAMASHIRO/UNIVERSAL-derived_classes-0.02.tar.gz
 UNIVERSAL::DOES                   0.004  G/GF/GFUJI/UNIVERSAL-DOES-0.004.tar.gz
-UNIVERSAL::dump                    0.05  E/EL/ELIZABETH/UNIVERSAL-dump-0.05.tar.gz
+UNIVERSAL::dump                    0.06  E/EL/ELIZABETH/UNIVERSAL-dump-0.06.tar.gz
 UNIVERSAL::isa                 1.20110614  C/CH/CHROMATIC/UNIVERSAL-isa-1.20110614.tar.gz
 UNIVERSAL::moniker                 0.08  K/KA/KASEI/UNIVERSAL-moniker-0.08.tar.gz
 UNIVERSAL::Object::ID            v0.1.2  M/MS/MSCHWERN/Object-ID-v0.1.2.tar.gz
