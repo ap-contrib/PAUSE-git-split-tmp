@@ -276,6 +276,7 @@ FWS::V2::Legacy                   0.003  N/NA/NATELEWIS/FWS-V2-0.006.tar.gz
 FWS::V2::Net                      0.002  N/NA/NATELEWIS/FWS-V2-0.006.tar.gz
 FWS::V2::Safety                   0.001  N/NA/NATELEWIS/FWS-V2-0.006.tar.gz
 FWS::V2::Session                  0.004  N/NA/NATELEWIS/FWS-V2-0.006.tar.gz
+FWS::V2::SocketLabs                0.01  N/NA/NATELEWIS/FWS-V2-SocketLabs-0.01.tar.gz
 Fwtcl::Services::tftp             undef  F/FR/FRAJULAC/Fwctl-0.28.tar.gz
 fytwORM                        0.000001  N/NE/NEOPHENIX/fytwORM-0.0.1.tar.gz
 G                                 undef  M/MO/MOB/Language-GolfScript-0.04.tar.gz
