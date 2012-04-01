@@ -252,6 +252,7 @@ CPAN::Test::Dummy::Perl5::Make::PLExit 1.01  D/DA/DAGOLDEN/CPAN-Test-Dummy-Perl5
 CPAN::Test::Dummy::Perl5::Make::UnsatPrereq 1.00  A/AN/ANDK/CPAN-Test-Dummy-Perl5-Make-UnsatPrereq-1.00.tar.gz
 CPAN::Test::Dummy::Perl5::Make::Zip 1.03  A/AN/ANDK/CPAN-Test-Dummy-Perl5-Make-Zip-1.03.zip
 CPAN::Test::Dummy::Perl5::NoBugTracker 1.00  A/AD/ADAMK/CPAN-Test-Dummy-Perl5-NoBugTracker-1.00.tar.gz
+CPAN::Test::Dummy::Perl5::RecSug  0.001  D/DA/DAGOLDEN/CPAN-Test-Dummy-Perl5-RecSug-0.001.tar.gz
 CPAN::Test::Reporter               0.02  S/SK/SKUD/CPAN-Test-Reporter-0.02.tar.gz
 CPAN::Testers                      0.03  B/BA/BARBIE/CPAN-Testers-0.03.tar.gz
 CPAN::Testers::Common::Article     0.42  B/BA/BARBIE/CPAN-Testers-Common-Article-0.42.tar.gz
