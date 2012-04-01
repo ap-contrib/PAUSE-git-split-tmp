@@ -327,9 +327,9 @@ Test::Vars                        0.001  G/GF/GFUJI/Test-Vars-0.001.tar.gz
 Test::Verbose                      0.01  R/RB/RBS/Test-Verbose-0.01.tar.gz
 Test::Version                  1.002001  X/XE/XENO/Test-Version-1.002001.tar.gz
 Test::Virtual::Filesystem          0.13  C/CD/CDOLAN/Test-Virtual-Filesystem-0.13.tar.gz
-Test::Warn                         0.23  C/CH/CHORNY/Test-Warn-0.23.tar.gz
-Test::Warn::Categorization         0.23  C/CH/CHORNY/Test-Warn-0.23.tar.gz
-Test::Warn::DAG_Node_Tree          0.23  C/CH/CHORNY/Test-Warn-0.23.tar.gz
+Test::Warn                         0.24  C/CH/CHORNY/Test-Warn-0.24.tar.gz
+Test::Warn::Categorization         0.24  C/CH/CHORNY/Test-Warn-0.24.tar.gz
+Test::Warn::DAG_Node_Tree          0.24  C/CH/CHORNY/Test-Warn-0.24.tar.gz
 Test::Weaken                   3.014000  K/KR/KRYDE/Test-Weaken-3.014000.tar.gz
 Test::Weaken::ExtraBits               3  K/KR/KRYDE/Test-VariousBits-3.tar.gz
 Test::Weaken::Gtk2                   45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
