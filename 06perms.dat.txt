@@ -411,7 +411,7 @@ Data::Freezer,JETEVE,f
 Data::Freezer::FreezingBag,JETEVE,f
 Data::Freezer::Steak,JETEVE,f
 Data::Freezer::Tomato,JETEVE,f
-Data::Freq,MAHIRO,f
+Data::Freq,MAHIRO,m
 Data::Freq::Field,MAHIRO,f
 Data::Freq::Node,MAHIRO,f
 Data::Freq::Record,MAHIRO,f

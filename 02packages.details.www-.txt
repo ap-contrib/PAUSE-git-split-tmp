@@ -379,7 +379,7 @@ WWW::Wunderground::API             0.03  N/NE/NEBULOUS/WWW-Wunderground-API-0.03
 WWW::XBoxLive                  1.120730  A/AR/ARJONES/WWW-XBoxLive-1.120730.tar.gz
 WWW::XBoxLive::Game            1.120730  A/AR/ARJONES/WWW-XBoxLive-1.120730.tar.gz
 WWW::XBoxLive::Gamercard       1.120730  A/AR/ARJONES/WWW-XBoxLive-1.120730.tar.gz
-WWW::xkcd                         0.004  X/XS/XSAWYERX/WWW-xkcd-0.004.tar.gz
+WWW::xkcd                         0.005  X/XS/XSAWYERX/WWW-xkcd-0.005.tar.gz
 WWW::XKCD::AsText                 0.002  Z/ZO/ZOFFIX/WWW-XKCD-AsText-0.002.tar.gz
 WWW::Yahoo::Groups                 1.91  S/SP/SPOON/WWW-Yahoo-Groups-1.91.tar.gz
 WWW::Yahoo::Groups::Errors         1.91  S/SP/SPOON/WWW-Yahoo-Groups-1.91.tar.gz
