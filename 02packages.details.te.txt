@@ -221,8 +221,8 @@ Thread::Queue::Monitored           0.10  E/EL/ELIZABETH/Thread-Queue-Monitored-0
 Thread::Queue::Multiplex           0.92  D/DA/DARNOLD/Thread-Queue-Multiplex-0.92.tar.gz
 Thread::Queue::Queueable           0.90  D/DA/DARNOLD/Thread-Queue-Duplex-0.92.tar.gz
 Thread::Queue::TQDContainer       undef  D/DA/DARNOLD/Thread-Queue-Duplex-0.92.tar.gz
-Thread::Rand                       0.06  E/EL/ELIZABETH/Thread-Rand-0.06.tar.gz
-Thread::Rand::Thread               0.06  E/EL/ELIZABETH/Thread-Rand-0.06.tar.gz
+Thread::Rand                       0.07  E/EL/ELIZABETH/Thread-Rand-0.07.tar.gz
+Thread::Rand::Thread               0.07  E/EL/ELIZABETH/Thread-Rand-0.07.tar.gz
 Thread::Resource::RWLock           2.01  D/DA/DARNOLD/Thread-Resource-RWLock-2.01.tar.gz
 Thread::Resource::RWLock::Array    2.01  D/DA/DARNOLD/Thread-Resource-RWLock-2.01.tar.gz
 Thread::Running                    0.07  E/EL/ELIZABETH/Thread-Running-0.07.tar.gz
