@@ -398,6 +398,7 @@ MetaCPAN::API::Module              0.42  X/XS/XSAWYERX/MetaCPAN-API-0.42.tar.gz
 MetaCPAN::API::POD                 0.42  X/XS/XSAWYERX/MetaCPAN-API-0.42.tar.gz
 MetaCPAN::API::Release             0.42  X/XS/XSAWYERX/MetaCPAN-API-0.42.tar.gz
 MetaCPAN::API::Source              0.42  X/XS/XSAWYERX/MetaCPAN-API-0.42.tar.gz
+MetaCPAN::API::Tiny            1.120920  N/NP/NPEREZ/MetaCPAN-API-Tiny-1.120920.tar.gz
 Metadata::Base                     1.10  D/DJ/DJBECKETT/Metadata-0.24.tar.gz
 Metadata::ByInode                  1.17  L/LE/LEOCHARRE/Metadata-ByInode-1.17.tar.gz
 Metadata::ByInode::Indexer         1.08  L/LE/LEOCHARRE/Metadata-ByInode-1.17.tar.gz
