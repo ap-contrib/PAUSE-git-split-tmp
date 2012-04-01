@@ -1,7 +1,7 @@
 MooseX::Constructor::AllErrors::Meta::Class 0.003  H/HD/HDP/MooseX-Constructor-AllErrors-0.003.tar.gz
 MooseX::Constructor::AllErrors::Role::Meta::Class 0.017  E/ET/ETHER/MooseX-Constructor-AllErrors-0.017.tar.gz
 MooseX::Constructor::AllErrors::Role::Meta::Method::Constructor 0.017  E/ET/ETHER/MooseX-Constructor-AllErrors-0.017.tar.gz
-MooseX::Constructor::AllErrors::Role::Object 0.017  E/ET/ETHER/MooseX-Constructor-AllErrors-0.017.tar.gz
+MooseX::Constructor::AllErrors::Role::Object 0.019  E/ET/ETHER/MooseX-Constructor-AllErrors-0.019.tar.gz
 MooseX::Contract                   0.01  B/BP/BPHILLIPS/MooseX-Contract-0.01.tar.gz
 MooseX::Control                    0.03  F/FA/FAYLAND/MooseX-Control-0.03.tar.gz
 MooseX::CoverableModifiers         0.30  C/CL/CLKAO/MooseX-CoverableModifiers-0.30.tar.gz
