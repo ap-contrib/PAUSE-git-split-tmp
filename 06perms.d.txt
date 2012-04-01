@@ -441,6 +441,17 @@ Driver::Sablotron::Handler,PAJAS,c
 Driver::Sablotron::Handler,SHLOMIF,c
 Driver::WrapperLibXSLT,MULL,f
 Driver::Xalan,EDPRATOMO,f
+Drogo,MJFLICK,f
+Drogo::Cookie,MJFLICK,f
+Drogo::Dispatch,MJFLICK,f
+Drogo::Dispatcher,MJFLICK,f
+Drogo::Dispatcher::Attributes,MJFLICK,f
+Drogo::MultiPart,MJFLICK,f
+Drogo::Plugin::DBIx::Class,MJFLICK,f
+Drogo::Server,MJFLICK,f
+Drogo::Server::Nginx,MJFLICK,f
+Drogo::Server::PSGI,MJFLICK,f
+Drogo::Server::Test,MJFLICK,f
 DropTest,ROBERTMAY,f
 Drupal::Admin,DURIST,m
 Drupal::Admin::ModuleCheckbox,DURIST,f
