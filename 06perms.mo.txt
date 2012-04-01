@@ -611,6 +611,7 @@ Moose::Meta::Attribute::Custom::Trait::Reflex::Trait::Emitter,RCAPUTO,f
 Moose::Meta::Attribute::Custom::Trait::Reflex::Trait::Observed,RCAPUTO,f
 Moose::Meta::Attribute::Custom::Trait::Reflex::Trait::Observer,RCAPUTO,f
 Moose::Meta::Attribute::Custom::Trait::Reflex::Trait::Watched,RCAPUTO,f
+Moose::Meta::Attribute::Custom::Trait::RememberHistory,JBERGER,f
 Moose::Meta::Attribute::Custom::Trait::SOAP,BPHILLIPS,f
 Moose::Meta::Attribute::Custom::Trait::Semantic,KBA,f
 Moose::Meta::Attribute::Custom::Trait::Serializable,MAROS,f

@@ -289,6 +289,8 @@ MooseX::Q4MLog                  0.00002  D/DM/DMAKI/MooseX-Q4MLog-0.00002.tar.gz
 MooseX::Q4MLog::CLI::Consume      undef  D/DM/DMAKI/MooseX-Q4MLog-0.00002.tar.gz
 MooseX::Q4MLog::Logger            undef  D/DM/DMAKI/MooseX-Q4MLog-0.00002.tar.gz
 MooseX::RelatedClassRoles         0.004  H/HD/HDP/MooseX-RelatedClassRoles-0.004.tar.gz
+MooseX::RememberHistory           0.001  J/JB/JBERGER/MooseX-RememberHistory-0.001.tar.gz
+MooseX::RememberHistory::Trait::Attribute 0.001  J/JB/JBERGER/MooseX-RememberHistory-0.001.tar.gz
 MooseX::Role::Atom                 0.02  A/AD/ADAMK/MooseX-Atom-0.02.tar.gz
 MooseX::Role::AttributeOverride  v0.0.9  E/EA/EALLENIII/MooseX-Role-AttributeOverride-0.0.9.tar.gz
 MooseX::Role::AttributeOverride::Meta::Trait::Role v0.0.9  E/EA/EALLENIII/MooseX-Role-AttributeOverride-0.0.9.tar.gz

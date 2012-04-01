@@ -576,6 +576,8 @@ MooseX::RelatedClassRoles,FLORA,c
 MooseX::RelatedClassRoles,HDP,f
 MooseX::RelatedClassRoles,PERIGRIN,c
 MooseX::RelatedClassRoles,SARTAK,c
+MooseX::RememberHistory,JBERGER,f
+MooseX::RememberHistory::Trait::Attribute,JBERGER,f
 MooseX::Role::Atom,ADAMK,f
 MooseX::Role::AttributeOverride,EALLENIII,f
 MooseX::Role::AttributeOverride::Meta::Trait::Role,EALLENIII,f
