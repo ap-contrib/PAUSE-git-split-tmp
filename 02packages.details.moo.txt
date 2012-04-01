@@ -95,6 +95,7 @@ MooseX::HasDefaults::Meta::IsRO   undef  S/SA/SARTAK/MooseX-HasDefaults-0.03.tar
 MooseX::HasDefaults::Meta::IsRW   undef  S/SA/SARTAK/MooseX-HasDefaults-0.03.tar.gz
 MooseX::HasDefaults::RO           undef  S/SA/SARTAK/MooseX-HasDefaults-0.03.tar.gz
 MooseX::HasDefaults::RW           undef  S/SA/SARTAK/MooseX-HasDefaults-0.03.tar.gz
+MooseX::hasn::t                   0.001  T/TO/TOBYINK/MooseX-hasn-t-0.001.tar.gz
 MooseX::InsideOut                 0.106  D/DO/DOY/MooseX-InsideOut-0.106.tar.gz
 MooseX::InsideOut::Meta::Class    undef  H/HD/HDP/MooseX-InsideOut-0.003.tar.gz
 MooseX::InsideOut::Meta::Instance undef  H/HD/HDP/MooseX-InsideOut-0.003.tar.gz
