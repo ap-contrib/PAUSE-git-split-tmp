@@ -210,7 +210,7 @@ WWW::Grooveshark::Response         0.02  M/MI/MIOREL/WWW-Grooveshark-0.02.tar.gz
 WWW::GudangAPI                     0.04  S/SH/SHARYANTO/WWW-GudangAPI-0.04.tar.gz
 WWW::Hanako                        0.05  H/HA/HAMANO/WWW-Hanako-0.05.tar.gz
 WWW::Hashbang::Pastebin           0.002  D/DO/DOHERTY/WWW-Hashbang-Pastebin-0.002.tar.gz
-WWW::Hashbang::Pastebin::Client   0.001  D/DO/DOHERTY/WWW-Hashbang-Pastebin-Client-0.001.tar.gz
+WWW::Hashbang::Pastebin::Client   0.002  D/DO/DOHERTY/WWW-Hashbang-Pastebin-Client-0.002.tar.gz
 WWW::Hashbang::Pastebin::Schema   0.002  D/DO/DOHERTY/WWW-Hashbang-Pastebin-0.002.tar.gz
 WWW::Hashbang::Pastebin::Schema::Result::Paste 0.002  D/DO/DOHERTY/WWW-Hashbang-Pastebin-0.002.tar.gz
 WWW::Hashdb                        0.01  B/BO/BOKUTIN/WWW-Hashdb-0.01.tar.gz
