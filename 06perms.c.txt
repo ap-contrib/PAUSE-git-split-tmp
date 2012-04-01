@@ -642,6 +642,7 @@ DB::Batch::Fetch,CLBECKER,f
 DB::Batch::Main,CLBECKER,f
 DB::Batch::Query,CLBECKER,f
 DB::Color,OVID,f
+DB::Color::Config,OVID,f
 DB::Color::Highlight,OVID,f
 DB::CouchDB,ZAPHAR,f
 DB::CouchDB::Iter,ZAPHAR,f
