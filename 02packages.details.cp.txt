@@ -19,7 +19,7 @@ CPAN::Meta::Converter          2.120920  D/DA/DAGOLDEN/CPAN-Meta-2.120920.tar.gz
 CPAN::Meta::Feature            2.120920  D/DA/DAGOLDEN/CPAN-Meta-2.120920.tar.gz
 CPAN::Meta::History            2.120920  D/DA/DAGOLDEN/CPAN-Meta-2.120920.tar.gz
 CPAN::Meta::Prereqs            2.120920  D/DA/DAGOLDEN/CPAN-Meta-2.120920.tar.gz
-CPAN::Meta::Requirements       2.120920  D/DA/DAGOLDEN/CPAN-Meta-2.120920.tar.gz
+CPAN::Meta::Requirements          2.121  D/DA/DAGOLDEN/CPAN-Meta-Requirements-2.121.tar.gz
 CPAN::Meta::Requirements::_Range::Exact 2.120351  D/DA/DAGOLDEN/CPAN-Meta-2.120351.tar.gz
 CPAN::Meta::Requirements::_Range::Range 2.120351  D/DA/DAGOLDEN/CPAN-Meta-2.120351.tar.gz
 CPAN::Meta::Spec               2.120920  D/DA/DAGOLDEN/CPAN-Meta-2.120920.tar.gz

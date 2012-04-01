@@ -674,6 +674,11 @@ WebService::Wedata::Item,KOYACHI,f
 WebService::Wikimapia,MANWAR,m
 WebService::Windows::LiveID::Auth,ZIGOROU,f
 WebService::Windows::LiveID::Auth::User,ZIGOROU,f
+WebService::XING,GRAF,f
+WebService::XING::Error,GRAF,f
+WebService::XING::Function,GRAF,f
+WebService::XING::Function::Parameter,GRAF,f
+WebService::XING::Response,GRAF,f
 WebService::YQL,VIORELS,m
 WebService::Yahoo::BOSS,PHRED,f
 WebService::Yahoo::BOSS::Response,PHRED,f
