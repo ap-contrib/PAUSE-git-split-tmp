@@ -193,7 +193,7 @@ MouseX::Types::Common::String  0.001000  G/GF/GFUJI/MouseX-Types-Common-0.001000
 MouseX::Types::DateTime            0.02  M/MA/MASAKI/MouseX-Types-DateTime-0.02.tar.gz
 MouseX::Types::Moose              undef  G/GF/GFUJI/MouseX-Types-0.06.tar.gz
 MouseX::Types::Mouse              undef  G/GF/GFUJI/MouseX-Types-0.06.tar.gz
-MouseX::Types::Path::Class         0.06  M/MA/MASAKI/MouseX-Types-Path-Class-0.06.tar.gz
+MouseX::Types::Path::Class         0.07  M/MA/MASAKI/MouseX-Types-Path-Class-0.07.tar.gz
 MouseX::Types::TypeDecorator      undef  G/GF/GFUJI/MouseX-Types-0.06.tar.gz
 MouseX::Types::URI                 0.03  M/MA/MASAKI/MouseX-Types-URI-0.03.tar.gz
 MouseX::YAML                      0.001  G/GF/GFUJI/MouseX-YAML-0.001.tar.gz
