@@ -31,6 +31,7 @@ Catalyst::Model::LDAP::Connection undef  D/DA/DANIELTWC/Catalyst-Model-LDAP-0.17
 Catalyst::Model::LDAP::Entry      undef  D/DA/DANIELTWC/Catalyst-Model-LDAP-0.17.tar.gz
 Catalyst::Model::LDAP::FromAuthentication 0.02  B/BO/BOBTFISH/Catalyst-Model-LDAP-FromAuthentication-0.02.tar.gz
 Catalyst::Model::LDAP::Search     undef  D/DA/DANIELTWC/Catalyst-Model-LDAP-0.17.tar.gz
+Catalyst::Model::Lucy             0.001  L/LO/LOGIE/Catalyst-Model-Lucy-0.001.tar.gz
 Catalyst::Model::Memcached     0.002000  C/CA/CATONE/Catalyst-Model-Memcached-0.02.tgz
 Catalyst::Model::MenuGrinder       0.06  A/AR/ARODLAND/Catalyst-Model-MenuGrinder-0.06.tar.gz
 Catalyst::Model::MenuGrinder::Menu 0.06  A/AR/ARODLAND/Catalyst-Model-MenuGrinder-0.06.tar.gz

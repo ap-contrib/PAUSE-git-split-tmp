@@ -100,6 +100,7 @@ Catalyst::Model::LDAP::FromAuthentication,JJNAPIORK,c
 Catalyst::Model::LDAP::FromAuthentication,MSTROUT,c
 Catalyst::Model::LDAP::FromAuthentication,RIBASUSHI,c
 Catalyst::Model::LDAP::Search,DANIELTWC,f
+Catalyst::Model::Lucy,LOGIE,f
 Catalyst::Model::Memcached,CATONE,f
 Catalyst::Model::MenuGrinder,ARODLAND,f
 Catalyst::Model::MenuGrinder::Menu,ARODLAND,f
