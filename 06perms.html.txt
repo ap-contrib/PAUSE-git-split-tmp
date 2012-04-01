@@ -1631,6 +1631,7 @@ HTTP::Sessioniser,EDECA,m
 HTTP::SimpleLinkChecker,BDFOY,m
 HTTP::Size,BDFOY,m
 HTTP::Soup,POTYL,f
+HTTP::Soup::Gnome,POTYL,f
 HTTP::Status,GAAS,c
 HTTP::Status,LWWWP,m
 HTTP::Throwable,RJBS,c

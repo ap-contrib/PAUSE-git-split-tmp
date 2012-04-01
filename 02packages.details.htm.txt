@@ -1422,6 +1422,7 @@ HTTP::Sessioniser                  0.05  E/ED/EDECA/HTTP-Sessioniser-0.05.tar.gz
 HTTP::SimpleLinkChecker            1.16  B/BD/BDFOY/HTTP-SimpleLinkChecker-1.16.tar.gz
 HTTP::Size                         1.13  B/BD/BDFOY/HTTP-Size-1.13.tar.gz
 HTTP::Soup                         0.01  P/PO/POTYL/HTTP-Soup-0.01.tar.gz
+HTTP::Soup::Gnome                  0.01  P/PO/POTYL/HTTP-Soup-Gnome-0.01.tar.gz
 HTTP::Status                       6.03  G/GA/GAAS/HTTP-Message-6.03.tar.gz
 HTTP::Throwable                   0.016  R/RJ/RJBS/HTTP-Throwable-0.016.tar.gz
 HTTP::Throwable::BadGateway       undef  S/ST/STEVAN/HTTP-Throwable-0.004.tar.gz
