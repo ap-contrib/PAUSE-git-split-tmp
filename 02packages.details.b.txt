@@ -581,7 +581,7 @@ Business::Eway                     0.03  F/FA/FAYLAND/Business-Eway-0.03.tar.gz
 Business::FedEx                    0.10  P/PT/PTULLY/FedEx-0.10.tar.gz
 Business::FedEx::Constants         1.01  J/JP/JPOWERS/Business-FedEx-DirectConnect-1.01.tar.gz
 Business::FedEx::DirectConnect     1.01  J/JP/JPOWERS/Business-FedEx-DirectConnect-1.01.tar.gz
-Business::FedEx::RateRequest       0.95  T/TR/TROXEL/Business-FedEx-RateRequest-0.95.tar.gz
+Business::FedEx::RateRequest       0.97  T/TR/TROXEL/Business-FedEx-RateRequest-0.97.tar.gz
 Business::FedEx::ShipAPI           0.01  P/PT/PTULLY/FedEx-0.10.tar.gz
 Business::FedEx::ShipRequest       0.01  P/PT/PTULLY/FedEx-0.10.tar.gz
 Business::FR::RIB                  0.05  L/LD/LDIDRY/Business-FR-RIB-0.05.tar.gz
