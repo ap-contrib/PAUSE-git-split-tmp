@@ -941,6 +941,7 @@ Geo::OSR::CoordinateTransformation,AJOLMA,f
 Geo::OSR::SpatialReference,AJOLMA,f
 Geo::OSRc,AJOLMA,f
 Geo::OpenGeoDB,JKRAMER,m
+Geo::Openstreetmap::Parser,LIOSHA,f
 Geo::Ov2,HPA,f
 Geo::Parse::OSM,LIOSHA,f
 Geo::Parse::OSM::Multipass,LIOSHA,f
