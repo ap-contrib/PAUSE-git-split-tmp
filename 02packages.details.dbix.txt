@@ -811,8 +811,8 @@ Devel::Declare::Parser::Emulate   undef  E/EX/EXODIST/Devel-Declare-Parser-0.017
 Devel::Declare::Parser::Fennec    0.004  E/EX/EXODIST/Devel-Declare-Parser-Fennec-0.004.tar.gz
 Devel::Declare::Parser::Method    undef  E/EX/EXODIST/Devel-Declare-Parser-0.017.tar.gz
 Devel::Declare::Parser::Sublike   undef  E/EX/EXODIST/Devel-Declare-Parser-0.017.tar.gz
-Devel::Decouple                0.000001  M/MC/MCONNER/Devel-Decouple-v0.0.1.tar.gz
-Devel::Decouple::DB            0.000001  M/MC/MCONNER/Devel-Decouple-v0.0.1.tar.gz
+Devel::Decouple                0.000002  M/MC/MCONNER/Devel-Decouple-v0.0.2.tar.gz
+Devel::Decouple::DB            0.000002  M/MC/MCONNER/Devel-Decouple-v0.0.2.tar.gz
 Devel::Depend::Cl                  0.04  N/NK/NKH/Devel-Depend-Cl-0.04.tar.gz
 Devel::Depend::Cpp                 0.09  N/NK/NKH/Devel-Depend-Cpp-0.09.tar.gz
 Devel::Dependencies                1.00  J/JL/JLLEROY/Devel-Dependencies-1.00.tar.gz
