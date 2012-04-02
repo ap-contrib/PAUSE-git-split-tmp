@@ -706,6 +706,7 @@ Data::Timeline::IScrobbler,MARCEL,f
 Data::Timeline::SVK,CODEREPOS,c
 Data::Timeline::SVK,MARCEL,f
 Data::Token,SCOTT,f
+Data::Toolkit,AFINDLAY,f
 Data::Toolkit::Connector,AFINDLAY,f
 Data::Toolkit::Connector::CSV,AFINDLAY,f
 Data::Toolkit::Connector::DBI,AFINDLAY,f
