@@ -107,6 +107,7 @@ OpenGL::Simple,JCHIN,f
 OpenGL::Simple::GLUT,JCHIN,f
 OpenGL::Simple::Viewer,JCHIN,f
 OpenGL::XScreenSaver,PENMA,f
+OpenGuides,BOB,c
 OpenGuides,DOM,f
 OpenGuides,KAKE,c
 OpenGuides::Build,DOM,f
