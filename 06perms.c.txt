@@ -1359,6 +1359,10 @@ DBD::SearchServer::db,SHARI,f
 DBD::SearchServer::dr,SHARI,f
 DBD::SearchServer::st,SHARI,f
 DBD::SimpleDB,DARNOLD,m
+DBD::Simulated,SEWI,f
+DBD::Simulated::db,SEWI,f
+DBD::Simulated::dr,SEWI,f
+DBD::Simulated::st,SEWI,f
 DBD::Solid,JSLAGEL,c
 DBD::Solid,TWENRICH,m
 DBD::Solid::Const,TWENRICH,f

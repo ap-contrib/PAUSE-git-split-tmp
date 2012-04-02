@@ -1458,6 +1458,10 @@ DBD::SearchServer                  0.21  S/SH/SHARI/DBD-SearchServer-0.21.tar.gz
 DBD::SearchServer::db              0.21  S/SH/SHARI/DBD-SearchServer-0.21.tar.gz
 DBD::SearchServer::dr              0.21  S/SH/SHARI/DBD-SearchServer-0.21.tar.gz
 DBD::SearchServer::st              0.21  S/SH/SHARI/DBD-SearchServer-0.21.tar.gz
+DBD::Simulated                     0.01  S/SE/SEWI/DBD-Simulated-0.01.tar.gz
+DBD::Simulated::db                 0.01  S/SE/SEWI/DBD-Simulated-0.01.tar.gz
+DBD::Simulated::dr                 0.01  S/SE/SEWI/DBD-Simulated-0.01.tar.gz
+DBD::Simulated::st                 0.01  S/SE/SEWI/DBD-Simulated-0.01.tar.gz
 DBD::Solid                         0.20  J/JS/JSLAGEL/DBD-Solid-0.20a.tar.gz
 DBD::Solid::Const                  0.03  T/TW/TWENRICH/DBD-Solid-0.11a.tar.gz
 DBD::Solid::db                     0.11  T/TW/TWENRICH/DBD-Solid-0.11a.tar.gz
