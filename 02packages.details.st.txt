@@ -111,7 +111,7 @@ Sub::Lexical                       0.81  B/BR/BROQ/Sub-Lexical-0.81.tar.gz
 Sub::Mage                         0.020  B/BR/BRADH/Sub-Mage-0.020.tar.gz
 Sub::Methodical                   0.002  H/HD/HDP/Sub-Methodical-0.002.tar.gz
 Sub::MicroSig                     0.032  R/RJ/RJBS/Sub-MicroSig-0.032.tar.gz
-Sub::Monkey                       0.003  B/BR/BRADH/Sub-Monkey-0.003.tar.gz
+Sub::Monkey                       0.004  B/BR/BRADH/Sub-Monkey-0.004.tar.gz
 Sub::Multi                        0.003  C/CL/CLKAO/Sub-Multi-0.003.tar.gz
 Sub::Mutate                       0.004  Z/ZE/ZEFRAM/Sub-Mutate-0.004.tar.gz
 Sub::Name                          0.05  F/FL/FLORA/Sub-Name-0.05.tar.gz

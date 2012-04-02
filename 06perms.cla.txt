@@ -619,6 +619,7 @@ Class::ModuleByFile,AHERNIT,f
 Class::Monadic,GFUJI,f
 Class::Monadic::Object,GFUJI,f
 Class::Monadic::Object::Clonable,GFUJI,f
+Class::Monkey,BRADH,f
 Class::Multi,KCODY,f
 Class::Multimethods,DCONWAY,m
 Class::Multimethods::Pure,LPALMER,f
