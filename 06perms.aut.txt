@@ -378,6 +378,7 @@ B::CC,MICB,f
 B::CC,RURBAN,m
 B::CallChecker,ZEFRAM,f
 B::Clobbers,ATOURBIN,f
+B::CodeLines,ROCKY,f
 B::Compiling,ARCANEZ,c
 B::Compiling,ASH,c
 B::Compiling,BOBTFISH,c
