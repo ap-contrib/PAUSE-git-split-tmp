@@ -306,10 +306,10 @@ Sample::AuthCookieHandler           1.2  B/BA/BARTLEY/Apache-AuthCookie-1.4.tar.
 Sample::Schema                    undef  N/NE/NEKOKAK/DBIx-Skinny-0.03.tar.gz
 SampleModule                      undef  C/CT/CTILMES/Log-Log4perl-CommandLine-0.07.tar.gz
 SampleModule2                     undef  C/CT/CTILMES/Log-Log4perl-CommandLine-0.07.tar.gz
-Sane                               0.04  R/RA/RATCLIFFE/Sane-0.04.tar.gz
+Sane                               0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz
 sane                               0.99  P/PU/PUNYTAN/sane-0.99.tar.gz
-Sane::Device                       0.04  R/RA/RATCLIFFE/Sane-0.04.tar.gz
-Sane::Status                       0.04  R/RA/RATCLIFFE/Sane-0.04.tar.gz
+Sane::Device                       0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz
+Sane::Status                       0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz
 SANtricity::SMcli                  0.02  R/RJ/RJB/SMcli/SANtricity-SMcli-0.02.tar.gz
 SAP::BC                            0.03  P/PI/PIERS/SAP-BC-XMLRFC-0.06.tar.gz
 SAP::BC::Iface                     0.03  P/PI/PIERS/SAP-BC-XMLRFC-0.06.tar.gz
