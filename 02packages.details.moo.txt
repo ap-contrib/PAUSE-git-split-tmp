@@ -335,7 +335,7 @@ MooseX::Role::WithOverloading::Meta::Role::Application::ToInstance 0.09  F/FL/FL
 MooseX::Role::WithOverloading::Meta::Role::Application::ToRole 0.09  F/FL/FLORA/MooseX-Role-WithOverloading-0.09.tar.gz
 MooseX::Role::WithOverloading::Meta::Role::Composite 0.09  F/FL/FLORA/MooseX-Role-WithOverloading-0.09.tar.gz
 MooseX::Role::WithWorkingDirectory 0.02  R/RH/RHOELZ/MooseX-Role-WithWorkingDirectory-0.02.tar.gz
-MooseX::Role::XMLRPC::Client       0.04  R/RS/RSRCHBOY/MooseX-Role-XMLRPC-Client-0.04.tar.gz
+MooseX::Role::XMLRPC::Client       0.04  R/RS/RSRCHBOY/MooseX-Role-XMLRPC-Client-0.05.tar.gz
 MooseX::Runnable                   0.03  J/JR/JROCKWAY/MooseX-Runnable-0.03.tar.gz
 MooseX::Runnable::Fuse             0.02  J/JR/JROCKWAY/MooseX-Runnable-Fuse-0.02.tar.gz
 MooseX::Runnable::Invocation      undef  J/JR/JROCKWAY/MooseX-Runnable-0.03.tar.gz
