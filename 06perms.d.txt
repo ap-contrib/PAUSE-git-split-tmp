@@ -441,7 +441,7 @@ Driver::Sablotron::Handler,PAJAS,c
 Driver::Sablotron::Handler,SHLOMIF,c
 Driver::WrapperLibXSLT,MULL,f
 Driver::Xalan,EDPRATOMO,f
-Drogo,MJFLICK,f
+Drogo,MJFLICK,m
 Drogo::Cookie,MJFLICK,f
 Drogo::Dispatch,MJFLICK,f
 Drogo::Dispatcher,MJFLICK,f
