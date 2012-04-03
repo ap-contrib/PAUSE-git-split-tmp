@@ -1655,6 +1655,7 @@ Module::Packer::Rule,YUSUKEBE,f
 Module::Packer::Starter,YUSUKEBE,f
 Module::Packer::Unpack,YUSUKEBE,f
 Module::ParseDeps,RRWO,f
+Module::Patch,SHARYANTO,f
 Module::Phalanx100,RRWO,f
 Module::Plan::Archive,ADAMK,f
 Module::Plan::Base,ADAMK,f
