@@ -342,6 +342,7 @@ Ham::Fldigi::Client               0.002  M/ME/MEH/Ham-Fldigi-0.02.tar.gz
 Ham::Fldigi::Debug                0.002  M/ME/MEH/Ham-Fldigi-0.02.tar.gz
 Ham::Fldigi::Shell                0.001  M/ME/MEH/Ham-Fldigi-0.02.tar.gz
 Ham::Locator                     0.1000  M/ME/MEH/Ham-Locator-0.1000.tar.gz
+Ham::Packet::DXSpider              0.01  C/CU/CUSTARD/Ham-Packet-DXSpider-0.01.tar.gz
 Ham::Reference::Callook            0.02  B/BR/BRADMC/Ham-Reference-Callook-0.02.tar.gz
 Ham::Reference::Phonetics          0.02  B/BR/BRADMC/Ham-Reference-Phonetics-0.02.tar.gz
 Ham::Reference::QRZ                0.03  B/BR/BRADMC/Ham-Reference-QRZ-0.03.tar.gz
