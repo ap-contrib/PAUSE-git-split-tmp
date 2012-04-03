@@ -778,7 +778,6 @@ Moose::Meta::Attribute::Native::MethodProvider::Code 1.14  D/DR/DROLSKY/Moose-1.
 Moose::Meta::Attribute::Native::MethodProvider::Counter 1.14  D/DR/DROLSKY/Moose-1.14.tar.gz
 Moose::Meta::Attribute::Native::MethodProvider::Hash 1.14  D/DR/DROLSKY/Moose-1.14.tar.gz
 Moose::Meta::Attribute::Native::MethodProvider::String 1.14  D/DR/DROLSKY/Moose-1.14.tar.gz
-Moose::Meta::Attribute::Native::Trait 2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Moose::Meta::Attribute::Native::Trait::Array 2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Attribute::Native::Trait::Bool 2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Attribute::Native::Trait::Code 2.0403  D/DO/DOY/Moose-2.0403.tar.gz
@@ -790,7 +789,6 @@ Moose::Meta::Class               2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Class::Custom::Trait::AutoTable undef  J/JH/JHALLOCK/Storm-0.10-withoutworldwriteables.tar.gz
 Moose::Meta::Class::Custom::Trait::NoAutomatic 0  M/MA/MAROS/Games-Lacuna-Task-2.01.tar.gz
 Moose::Meta::Class::Custom::Trait::PRANG 0.14  M/MU/MUTANT/PRANG-0.14.tar.gz
-Moose::Meta::Class::Immutable::Trait 2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Moose::Meta::Instance            2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Method              2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Method::Accessor    2.0403  D/DO/DOY/Moose-2.0403.tar.gz
@@ -802,7 +800,6 @@ Moose::Meta::Method::Accessor::Native::Array::count 1.17  D/DR/DROLSKY/Moose-1.1
 Moose::Meta::Method::Accessor::Native::Array::delete 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::elements 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::first 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
-Moose::Meta::Method::Accessor::Native::Array::first_index 2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::get 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::grep 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::insert 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
@@ -814,7 +811,6 @@ Moose::Meta::Method::Accessor::Native::Array::pop 1.17  D/DR/DROLSKY/Moose-1.17.
 Moose::Meta::Method::Accessor::Native::Array::push 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::reduce 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::set 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
-Moose::Meta::Method::Accessor::Native::Array::shallow_clone 2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::shift 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::shuffle 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Array::sort 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
@@ -848,7 +844,6 @@ Moose::Meta::Method::Accessor::Native::Hash::is_empty 1.17  D/DR/DROLSKY/Moose-1
 Moose::Meta::Method::Accessor::Native::Hash::keys 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Hash::kv 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Hash::set 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
-Moose::Meta::Method::Accessor::Native::Hash::shallow_clone 2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Moose::Meta::Method::Accessor::Native::Hash::values 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Hash::Writer 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
 Moose::Meta::Method::Accessor::Native::Number::abs 1.17  D/DR/DROLSKY/Moose-1.17.tar.gz
@@ -918,7 +913,6 @@ Moose::Tiny                        0.04  P/PE/PERIGRIN/Moose-Tiny-0.04.tar.gz
 Moose::Util                      2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Util::MetaRole            2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Util::TypeConstraints     2.0403  D/DO/DOY/Moose-2.0403.tar.gz
-Moose::Util::TypeConstraints::Builtins 2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Moose::Util::TypeConstraints::OptimizedConstraints 2.0004  D/DO/DOY/Moose-2.0004.tar.gz
 MooseX::ABC                        0.05  D/DO/DOY/MooseX-ABC-0.05.tar.gz
 MooseX::ABC::Role::Object          0.05  D/DO/DOY/MooseX-ABC-0.05.tar.gz

@@ -428,8 +428,6 @@ Class::MOP                       2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Class::MOP::Attribute            2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Class::MOP::Class                2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Class::MOP::Class::Immutable       0.04  S/ST/STEVAN/Class-MOP-0.36.tar.gz
-Class::MOP::Class::Immutable::Trait 2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
-Class::MOP::Deprecated           2.0402  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Class::MOP::Instance             2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Class::MOP::Method               2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Class::MOP::Method::Accessor     2.0403  D/DO/DOY/Moose-2.0403.tar.gz
