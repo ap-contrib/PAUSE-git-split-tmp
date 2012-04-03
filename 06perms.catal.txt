@@ -301,6 +301,7 @@ CatalystX::ComponentsFromConfig::Role::AdaptorRole,DAKKAR,f
 CatalystX::ComponentsFromConfig::Role::PluginRole,DAKKAR,f
 CatalystX::ComponentsFromConfig::ViewAdaptor,DAKKAR,f
 CatalystX::ComponentsFromConfig::ViewPlugin,DAKKAR,f
+CatalystX::ConsumesJMS,DAKKAR,f
 CatalystX::Controller::Auth,CAGAO,f
 CatalystX::Controller::ExtJS::Direct,PERLER,f
 CatalystX::Controller::ExtJS::Direct::API,PERLER,f

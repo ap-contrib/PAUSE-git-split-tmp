@@ -409,7 +409,7 @@ Geo::OGR::FieldDefn               undef  A/AJ/AJOLMA/Geo-GDAL-1.90.tar.gz
 Geo::OGR::Geometry                undef  A/AJ/AJOLMA/Geo-GDAL-1.90.tar.gz
 Geo::OGR::Layer                   undef  A/AJ/AJOLMA/Geo-GDAL-1.90.tar.gz
 Geo::OGRc                         undef  A/AJ/AJOLMA/Geo-GDAL-1.90.tar.gz
-Geo::Openstreetmap::Parser         0.01  L/LI/LIOSHA/Geo-Openstreetmap-Parser-0.01.tar.gz
+Geo::Openstreetmap::Parser        0.011  L/LI/LIOSHA/Geo-Openstreetmap-Parser-0.011.tar.gz
 Geo::OSM::MapFeatures              0.10  B/BO/BOBKARE/Geo-OSM-MapFeatures-0.10.tar.gz
 Geo::OSM::MapFeatures::Error       0.10  B/BO/BOBKARE/Geo-OSM-MapFeatures-0.10.tar.gz
 Geo::OSM::MapFeatures::Error::Network 0.10  B/BO/BOBKARE/Geo-OSM-MapFeatures-0.10.tar.gz
