@@ -8,6 +8,7 @@ DBIx::Class::Graph::Role::Result,PERLER,f
 DBIx::Class::Graph::Role::ResultSet,PERLER,f
 DBIx::Class::Graph::Wrapper,PERLER,f
 DBIx::Class::HTML::FormFu,ANDREMAR,c
+DBIx::Class::HTML::FormFu,BRICAS,c
 DBIx::Class::HTML::FormFu,CFRANKS,f
 DBIx::Class::HTML::FormFu,PERLER,c
 DBIx::Class::HTMLWidget,ANDREMAR,c
