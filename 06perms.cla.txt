@@ -231,6 +231,7 @@ Class::Load,DOY,c
 Class::Load,DROLSKY,c
 Class::Load,PERIGRIN,c
 Class::Load,SARTAK,f
+Class::Load::PP,DOY,c
 Class::Load::PP,DROLSKY,c
 Class::Load::PP,SARTAK,f
 Class::Load::Tiny,ALEXBIO,f
