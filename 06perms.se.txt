@@ -480,6 +480,7 @@ Set::Array,DJBERG,c
 Set::Array,RSAVAGE,m
 Set::ArrayAlt,SBECK,f
 Set::Bag,JHI,m
+Set::CartesianProduct::Lazy,SSCAFFIDI,f
 Set::CheckList,MIKO,m
 Set::Cluster,TONVOON,f
 Set::Cluster::Result,TONVOON,f
