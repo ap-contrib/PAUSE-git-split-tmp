@@ -584,7 +584,7 @@ Test::ModuleVersion::JSON::PP::IncrParser 0.16  K/KI/KIMOTO/Test-ModuleVersion-0
 Test::Mojibake                      0.3  S/SY/SYP/Test-Mojibake-0.3.tar.gz
 Test::Mojo                        undef  T/TE/TEMPIRE/Mojolicious-2.71.tar.gz
 Test::MonitorSites                 0.15  H/HE/HESCO/Test-MonitorSites-0.15.tar.gz
-Test::Moose                      2.0402  D/DO/DOY/Moose-2.0402.tar.gz
+Test::Moose                      2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Test::Moose::MockObjectCompile 0.002001  Z/ZA/ZAPHAR/Test-Moose-MockObjectCompile-0.2.1.tar.gz
 Test::Moose::More                 0.005  R/RS/RSRCHBOY/Test-Moose-More-0.005.tar.gz
 Test::MooseX::Daemonize            0.13  S/ST/STEVAN/MooseX-Daemonize-0.13.tar.gz
