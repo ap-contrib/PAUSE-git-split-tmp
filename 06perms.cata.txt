@@ -55,6 +55,7 @@ Catalyst::Plugin::Textile,SRI,c
 Catalyst::Plugin::Textile,SSCAFFIDI,c
 Catalyst::Plugin::Textile,WSHELDAHL,c
 Catalyst::Plugin::Twitter,EVDB,f
+Catalyst::Plugin::URLMap,JJNAPIORK,f
 Catalyst::Plugin::Unicode,AGRUNDMA,c
 Catalyst::Plugin::Unicode,APEIRON,c
 Catalyst::Plugin::Unicode,ARCANEZ,c

@@ -406,6 +406,7 @@ Catalyst::Plugin::Upload::MD5      0.01  M/MR/MRAMBERG/Catalyst-Plugin-Upload-MD
 Catalyst::Plugin::Upload::MIME     0.01  M/MR/MRAMBERG/Catalyst-Plugin-Upload-MIME-0.01.tar.gz
 Catalyst::Plugin::UploadProgress   0.05  M/MR/MRAMBERG/Catalyst-Plugin-UploadProgress-0.05.tar.gz
 Catalyst::Plugin::UploadProgress::Static undef  M/MR/MRAMBERG/Catalyst-Plugin-UploadProgress-0.05.tar.gz
+Catalyst::Plugin::URLMap          0.001  J/JJ/JJNAPIORK/Catalyst-Plugin-URLMap-0.001.tar.gz
 Catalyst::Plugin::UserAgent        0.01  H/HA/HANENKAMP/Catalyst-Plugin-UserAgent-0.01.tar.gz
 Catalyst::Plugin::VersionedURI   v1.1.1  Y/YA/YANICK/Catalyst-Plugin-VersionedURI-1.1.1.tar.gz
 Catalyst::Plugin::Widget           0.04  L/LO/LONERR/Catalyst-Plugin-Widget-0.04.tar.gz
