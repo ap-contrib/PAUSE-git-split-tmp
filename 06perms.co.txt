@@ -1064,6 +1064,11 @@ Criteria::Compile,ALUCAS,m
 Criteria::Compile::HASH,ALUCAS,f
 Criteria::Compile::OBJECT,ALUCAS,f
 Criteria::DateTime,ALUCAS,f
+Crixa,PERIGRIN,f
+Crixa::Channel,PERIGRIN,f
+Crixa::Exchange,PERIGRIN,f
+Crixa::Queue,PERIGRIN,f
+Crixa::Role::RabbitMQ,PERIGRIN,f
 Crossfire,ELMEX,c
 Crossfire,MLEHMANN,f
 Crossfire::Data,ELMEX,c

@@ -838,6 +838,7 @@ Moose::Meta::Method::Accessor::Native::Array::elements,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::elements,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Array::first,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::first,STEVAN,f
+Moose::Meta::Method::Accessor::Native::Array::first_index,PERIGRIN,f
 Moose::Meta::Method::Accessor::Native::Array::get,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::get,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Array::grep,DROLSKY,c
@@ -860,6 +861,7 @@ Moose::Meta::Method::Accessor::Native::Array::reduce,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::reduce,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Array::set,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::set,STEVAN,f
+Moose::Meta::Method::Accessor::Native::Array::shallow_clone,PERIGRIN,f
 Moose::Meta::Method::Accessor::Native::Array::shift,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::shift,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Array::shuffle,DROLSKY,c
@@ -926,6 +928,7 @@ Moose::Meta::Method::Accessor::Native::Hash::kv,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Hash::kv,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Hash::set,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Hash::set,STEVAN,f
+Moose::Meta::Method::Accessor::Native::Hash::shallow_clone,PERIGRIN,f
 Moose::Meta::Method::Accessor::Native::Hash::values,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Hash::values,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Number::abs,DROLSKY,c
@@ -1352,6 +1355,7 @@ Moose::Util::TypeConstraints,NUFFIN,c
 Moose::Util::TypeConstraints,PERIGRIN,c
 Moose::Util::TypeConstraints,SARTAK,c
 Moose::Util::TypeConstraints,STEVAN,f
+Moose::Util::TypeConstraints::Builtins,PERIGRIN,f
 Moose::Util::TypeConstraints::OptimizedConstraints,DOY,c
 Moose::Util::TypeConstraints::OptimizedConstraints,DROLSKY,c
 Moose::Util::TypeConstraints::OptimizedConstraints,FLORA,c

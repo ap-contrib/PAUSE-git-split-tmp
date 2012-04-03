@@ -623,6 +623,11 @@ Criteria::Compile::HASH               0  A/AL/ALUCAS/Criteria-Compile-0.0455.tar
 Criteria::Compile::OBJECT             0  A/AL/ALUCAS/Criteria-Compile-0.0455.tar.gz
 Criteria::DateTime                    0  A/AL/ALUCAS/Criteria-Compile-0.0455.tar.gz
 criticism                          1.02  T/TH/THALJEF/criticism/criticism-1.02.tar.gz
+Crixa                              0.01  P/PE/PERIGRIN/Crixa-0.01.tar.gz
+Crixa::Channel                     0.01  P/PE/PERIGRIN/Crixa-0.01.tar.gz
+Crixa::Exchange                    0.01  P/PE/PERIGRIN/Crixa-0.01.tar.gz
+Crixa::Queue                       0.01  P/PE/PERIGRIN/Crixa-0.01.tar.gz
+Crixa::Role::RabbitMQ              0.01  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 CrowdControl                       0.01  S/SK/SKUD/CrowdControl-0.01.tar.gz
 CryoTel::CryoCon               0.000006  K/KE/KERR/CryoTel-CryoCon-0.0.6.tar.gz
 Crypt::Affine                      0.02  M/MA/MANWAR/Crypt-Affine-0.02.tar.gz

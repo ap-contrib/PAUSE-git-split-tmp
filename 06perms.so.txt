@@ -88,6 +88,7 @@ Sort::MergeSort,MUIR,f
 Sort::MergeSort::Iterator,MUIR,f
 Sort::MultipleFields,DCANTRELL,f
 Sort::Naturally,JGOFF,f
+Sort::Naturally,PERIGRIN,c
 Sort::Packed,SALVA,f
 Sort::PolySort,DMACKS,m
 Sort::Radix,EWIJAYA,m

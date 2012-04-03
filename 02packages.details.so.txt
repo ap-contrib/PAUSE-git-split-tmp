@@ -80,7 +80,7 @@ Sort::Merge                        0.01  J/JM/JMASTROS/Sort-Merge-0.01.tar.gz
 Sort::MergeSort                     0.3  M/MU/MUIR/modules/Sort-MergeSort-0.3.tar.gz
 Sort::MergeSort::Iterator          0.01  M/MU/MUIR/modules/Sort-MergeSort-0.3.tar.gz
 Sort::MultipleFields                1.0  D/DC/DCANTRELL/Sort-MultipleFields-1.0.tar.gz
-Sort::Naturally                    1.02  S/SB/SBURKE/Sort-Naturally-1.02.tar.gz
+Sort::Naturally                    1.02  P/PE/PERIGRIN/Crixa-0.01.tar.gz
 Sort::Packed                       0.07  S/SA/SALVA/Sort-Packed-0.07.tar.gz
 Sort::Radix                        0.04  E/EW/EWIJAYA/Sort-Radix-0.04.tar.gz
 Sort::Rank                     0.000002  A/AN/ANDYA/Sort-Rank-v0.0.2.tar.gz
