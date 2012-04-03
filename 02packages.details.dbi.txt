@@ -220,7 +220,7 @@ DBIx::QueryByName::Result::Iterator undef  E/ER/ERWAN/DBIx-QueryByName-0.18.tar.
 DBIx::QueryByName::Result::ScalarIterator undef  E/ER/ERWAN/DBIx-QueryByName-0.18.tar.gz
 DBIx::QueryByName::SthPool        undef  E/ER/ERWAN/DBIx-QueryByName-0.18.tar.gz
 DBIx::QueryCursor                  0.03  A/AD/ADRIANWIT/DBIx-Connection-0.08.tar.gz
-DBIx::QueryLog                     0.27  X/XA/XAICRON/DBIx-QueryLog-0.27.tar.gz
+DBIx::QueryLog                     0.28  X/XA/XAICRON/DBIx-QueryLog-0.28.tar.gz
 DBIx::Recordset                    0.26  G/GR/GRICHTER/DBIx-Recordset-0.26.tar.gz
 DBIx::Recordset::Access            0.26  G/GR/GRICHTER/DBIx-Recordset-0.26.tar.gz
 DBIx::Recordset::CurrRow           0.26  G/GR/GRICHTER/DBIx-Recordset-0.26.tar.gz
