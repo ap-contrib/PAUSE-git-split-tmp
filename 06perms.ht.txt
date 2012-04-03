@@ -974,6 +974,9 @@ HTML::Laundry::Rules,STEVECOOK,f
 HTML::Laundry::Rules::Default,STEVECOOK,f
 HTML::Laundry::Rules::Minimal,STEVECOOK,f
 HTML::Leaf,SEYHAN,f
+HTML::Linear,SYP,f
+HTML::Linear::Element,SYP,f
+HTML::Linear::Path,SYP,f
 HTML::LinkAdd,LGODDARD,f
 HTML::LinkChanger,SERGEYCHE,m
 HTML::LinkChanger::Absolutizer,SERGEYCHE,f
