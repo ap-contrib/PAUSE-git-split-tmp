@@ -480,10 +480,10 @@ XML::STX::TrAX::Transformer       undef  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::STX::TrAX::URIResolver       undef  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::STX::Writer                   0.03  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::Table2XML                      1.4  R/RK/RKAPL/XML-Table2XML-1.4.tar.gz
-XML::Tags                         undef  M/MS/MSTROUT/Web-Simple-0.012.tar.gz
-XML::Tags::StringThing            undef  M/MS/MSTROUT/Web-Simple-0.012.tar.gz
-XML::Tags::TIEHANDLE              undef  M/MS/MSTROUT/Web-Simple-0.012.tar.gz
-XML::Tags::Unex                   undef  M/MS/MSTROUT/Web-Simple-0.012.tar.gz
+XML::Tags                         undef  M/MS/MSTROUT/Web-Simple-0.013.tar.gz
+XML::Tags::StringThing            undef  M/MS/MSTROUT/Web-Simple-0.013.tar.gz
+XML::Tags::TIEHANDLE              undef  M/MS/MSTROUT/Web-Simple-0.013.tar.gz
+XML::Tags::Unex                   undef  M/MS/MSTROUT/Web-Simple-0.013.tar.gz
 XML::Tape                           1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
 XML::Tape::Admin                    1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
 XML::Tape::Identifier               1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
