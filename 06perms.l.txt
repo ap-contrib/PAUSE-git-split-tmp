@@ -319,6 +319,7 @@ Lyrics::Fetcher::LyricsOnDemand,REFLOG,c
 Lyrics::Fetcher::LyricsTime,BIGPRESH,f
 Lyrics::Fetcher::LyricsTime,REFLOG,c
 M,EDENC,c
+M,ETHER,c
 M,JJNAPIORK,c
 M,MSTROUT,f
 M,WSHELDAHL,c

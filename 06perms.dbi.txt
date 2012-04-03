@@ -29,6 +29,7 @@ DBIx::Class::Schema::Journal::DB::ChangeLog,APEIRON,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,BOBTFISH,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,DGL,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,EDENC,c
+DBIx::Class::Schema::Journal::DB::ChangeLog,ETHER,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,FLORA,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,FREW,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,JJNAPIORK,c

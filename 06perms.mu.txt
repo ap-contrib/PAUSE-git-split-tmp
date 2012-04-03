@@ -353,6 +353,7 @@ MyDatabase::Main,BOBTFISH,c
 MyDatabase::Main,DGL,c
 MyDatabase::Main,DOY,c
 MyDatabase::Main,EDENC,c
+MyDatabase::Main,ETHER,c
 MyDatabase::Main,FLORA,c
 MyDatabase::Main,FREW,c
 MyDatabase::Main,JJNAPIORK,c
@@ -366,6 +367,7 @@ MyDatabase::Main::Result::Artist,BOBTFISH,c
 MyDatabase::Main::Result::Artist,DGL,c
 MyDatabase::Main::Result::Artist,DOY,c
 MyDatabase::Main::Result::Artist,EDENC,c
+MyDatabase::Main::Result::Artist,ETHER,c
 MyDatabase::Main::Result::Artist,FLORA,c
 MyDatabase::Main::Result::Artist,FREW,c
 MyDatabase::Main::Result::Artist,JJNAPIORK,c
@@ -379,6 +381,7 @@ MyDatabase::Main::Result::Cd,BOBTFISH,c
 MyDatabase::Main::Result::Cd,DGL,c
 MyDatabase::Main::Result::Cd,DOY,c
 MyDatabase::Main::Result::Cd,EDENC,c
+MyDatabase::Main::Result::Cd,ETHER,c
 MyDatabase::Main::Result::Cd,FLORA,c
 MyDatabase::Main::Result::Cd,FREW,c
 MyDatabase::Main::Result::Cd,JJNAPIORK,c
@@ -392,6 +395,7 @@ MyDatabase::Main::Result::Track,BOBTFISH,c
 MyDatabase::Main::Result::Track,DGL,c
 MyDatabase::Main::Result::Track,DOY,c
 MyDatabase::Main::Result::Track,EDENC,c
+MyDatabase::Main::Result::Track,ETHER,c
 MyDatabase::Main::Result::Track,FLORA,c
 MyDatabase::Main::Result::Track,FREW,c
 MyDatabase::Main::Result::Track,JJNAPIORK,c
@@ -636,6 +640,7 @@ MyTest::HasAttrs,BOBTFISH,c
 MyTest::HasAttrs,DGL,c
 MyTest::HasAttrs,DOY,c
 MyTest::HasAttrs,EDENC,c
+MyTest::HasAttrs,ETHER,c
 MyTest::HasAttrs,FLORA,c
 MyTest::HasAttrs,FREW,c
 MyTest::HasAttrs,GRODITI,c
@@ -653,6 +658,7 @@ MyTest::MultiChild,BOBTFISH,c
 MyTest::MultiChild,DGL,c
 MyTest::MultiChild,DOY,c
 MyTest::MultiChild,EDENC,c
+MyTest::MultiChild,ETHER,c
 MyTest::MultiChild,FLORA,c
 MyTest::MultiChild,FREW,c
 MyTest::MultiChild,GRODITI,c
@@ -685,6 +691,7 @@ MyTest::SingleChild,BOBTFISH,c
 MyTest::SingleChild,DGL,c
 MyTest::SingleChild,DOY,c
 MyTest::SingleChild,EDENC,c
+MyTest::SingleChild,ETHER,c
 MyTest::SingleChild,FLORA,c
 MyTest::SingleChild,FREW,c
 MyTest::SingleChild,GRODITI,c
@@ -702,6 +709,7 @@ MyTest::SuperAttrs,BOBTFISH,c
 MyTest::SuperAttrs,DGL,c
 MyTest::SuperAttrs,DOY,c
 MyTest::SuperAttrs,EDENC,c
+MyTest::SuperAttrs,ETHER,c
 MyTest::SuperAttrs,FLORA,c
 MyTest::SuperAttrs,FREW,c
 MyTest::SuperAttrs,GRODITI,c
@@ -719,6 +727,7 @@ MyTest::TopNode,BOBTFISH,c
 MyTest::TopNode,DGL,c
 MyTest::TopNode,DOY,c
 MyTest::TopNode,EDENC,c
+MyTest::TopNode,ETHER,c
 MyTest::TopNode,FLORA,c
 MyTest::TopNode,FREW,c
 MyTest::TopNode,GRODITI,c

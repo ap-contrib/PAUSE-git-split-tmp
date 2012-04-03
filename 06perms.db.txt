@@ -163,6 +163,7 @@ DBIx::Class::Journal::EvalWrap,APEIRON,c
 DBIx::Class::Journal::EvalWrap,BOBTFISH,c
 DBIx::Class::Journal::EvalWrap,DGL,c
 DBIx::Class::Journal::EvalWrap,EDENC,c
+DBIx::Class::Journal::EvalWrap,ETHER,c
 DBIx::Class::Journal::EvalWrap,FLORA,c
 DBIx::Class::Journal::EvalWrap,FREW,c
 DBIx::Class::Journal::EvalWrap,JJNAPIORK,c

@@ -202,6 +202,7 @@ Data::Dumper::Concise,BOBTFISH,c
 Data::Dumper::Concise,DGL,c
 Data::Dumper::Concise,DOY,c
 Data::Dumper::Concise,EDENC,c
+Data::Dumper::Concise,ETHER,c
 Data::Dumper::Concise,FLORA,c
 Data::Dumper::Concise,FREW,c
 Data::Dumper::Concise,JJNAPIORK,c
@@ -216,6 +217,7 @@ Data::Dumper::Concise::Sugar,BOBTFISH,c
 Data::Dumper::Concise::Sugar,DGL,c
 Data::Dumper::Concise::Sugar,DOY,c
 Data::Dumper::Concise::Sugar,EDENC,c
+Data::Dumper::Concise::Sugar,ETHER,c
 Data::Dumper::Concise::Sugar,FLORA,c
 Data::Dumper::Concise::Sugar,FREW,c
 Data::Dumper::Concise::Sugar,JJNAPIORK,c

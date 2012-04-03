@@ -292,6 +292,7 @@ App::TailRabbit::Growl,EDENC,c
 App::TailRabbit::Growl,ETHER,c
 App::TailRabbit::Growl,JJNAPIORK,c
 App::TailRabbit::Growl,RIBASUSHI,c
+App::Tak,ETHER,c
 App::Tak,JJNAPIORK,c
 App::Tak,MSTROUT,f
 App::Tak,WSHELDAHL,c

@@ -1293,6 +1293,7 @@ Module::Install::Catalyst,BRICAS,c
 Module::Install::Catalyst,DGL,c
 Module::Install::Catalyst,DOY,c
 Module::Install::Catalyst,EDENC,c
+Module::Install::Catalyst,ETHER,c
 Module::Install::Catalyst,FLORA,c
 Module::Install::Catalyst,JJNAPIORK,c
 Module::Install::Catalyst,MSTROUT,f
@@ -1548,6 +1549,7 @@ Module::Metadata,DAGOLDEN,c
 Module::Metadata,DGL,c
 Module::Metadata,DOY,c
 Module::Metadata,EDENC,c
+Module::Metadata,ETHER,c
 Module::Metadata,FLORA,c
 Module::Metadata,JJNAPIORK,c
 Module::Metadata,MSTROUT,f
@@ -1564,6 +1566,7 @@ Module::Metadata::Version,DAGOLDEN,c
 Module::Metadata::Version,DGL,c
 Module::Metadata::Version,DOY,c
 Module::Metadata::Version,EDENC,c
+Module::Metadata::Version,ETHER,c
 Module::Metadata::Version,FLORA,c
 Module::Metadata::Version,JJNAPIORK,c
 Module::Metadata::Version,MSTROUT,f

@@ -227,6 +227,7 @@ Class::Lego::Myself,FERREIRA,f
 Class::Light,DAVAZ,f
 Class::List,CROSSWIRE,f
 Class::Listener,MUENALAN,f
+Class::Load,DOY,c
 Class::Load,DROLSKY,c
 Class::Load,PERIGRIN,c
 Class::Load,SARTAK,f
@@ -572,6 +573,7 @@ Class::MethodFilter,BOBTFISH,c
 Class::MethodFilter,DGL,c
 Class::MethodFilter,DOY,c
 Class::MethodFilter,EDENC,c
+Class::MethodFilter,ETHER,c
 Class::MethodFilter,FLORA,c
 Class::MethodFilter,FREW,c
 Class::MethodFilter,GRODITI,c

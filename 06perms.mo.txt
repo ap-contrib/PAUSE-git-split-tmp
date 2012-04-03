@@ -236,6 +236,7 @@ Moo,APEIRON,c
 Moo,BOBTFISH,c
 Moo,DGL,c
 Moo,EDENC,c
+Moo,ETHER,c
 Moo,FLORA,c
 Moo,JJNAPIORK,c
 Moo,MSTROUT,f
@@ -247,6 +248,7 @@ Moo::Object,APEIRON,c
 Moo::Object,BOBTFISH,c
 Moo::Object,DGL,c
 Moo::Object,EDENC,c
+Moo::Object,ETHER,c
 Moo::Object,FLORA,c
 Moo::Object,JJNAPIORK,c
 Moo::Object,MSTROUT,f
@@ -257,6 +259,7 @@ Moo::Role,APEIRON,c
 Moo::Role,BOBTFISH,c
 Moo::Role,DGL,c
 Moo::Role,EDENC,c
+Moo::Role,ETHER,c
 Moo::Role,FLORA,c
 Moo::Role,JJNAPIORK,c
 Moo::Role,MSTROUT,f
@@ -267,6 +270,7 @@ Moo::_Utils,APEIRON,c
 Moo::_Utils,BOBTFISH,c
 Moo::_Utils,DGL,c
 Moo::_Utils,EDENC,c
+Moo::_Utils,ETHER,c
 Moo::_Utils,FLORA,c
 Moo::_Utils,JJNAPIORK,c
 Moo::_Utils,MSTROUT,f
@@ -277,6 +281,7 @@ Moo::_mro,APEIRON,c
 Moo::_mro,BOBTFISH,c
 Moo::_mro,DGL,c
 Moo::_mro,EDENC,c
+Moo::_mro,ETHER,c
 Moo::_mro,FLORA,c
 Moo::_mro,JJNAPIORK,c
 Moo::_mro,MSTROUT,f

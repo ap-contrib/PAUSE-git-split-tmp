@@ -866,6 +866,7 @@ Class::XML,BOBTFISH,c
 Class::XML,DGL,c
 Class::XML,DOY,c
 Class::XML,EDENC,c
+Class::XML,ETHER,c
 Class::XML,FLORA,c
 Class::XML,FREW,c
 Class::XML,GRODITI,c
@@ -884,6 +885,7 @@ Class::XML::DummyLayer,BOBTFISH,c
 Class::XML::DummyLayer,DGL,c
 Class::XML::DummyLayer,DOY,c
 Class::XML::DummyLayer,EDENC,c
+Class::XML::DummyLayer,ETHER,c
 Class::XML::DummyLayer,FLORA,c
 Class::XML::DummyLayer,FREW,c
 Class::XML::DummyLayer,GRODITI,c

@@ -19,6 +19,7 @@ Eval::LineNumbers,MUIR,f
 Eval::WithLexicals,BOBTFISH,c
 Eval::WithLexicals,DGL,c
 Eval::WithLexicals,EDENC,c
+Eval::WithLexicals,ETHER,c
 Eval::WithLexicals,FLORA,c
 Eval::WithLexicals,JJNAPIORK,c
 Eval::WithLexicals,MSTROUT,f
@@ -27,6 +28,7 @@ Eval::WithLexicals,WSHELDAHL,c
 Eval::WithLexicals::Util,BOBTFISH,c
 Eval::WithLexicals::Util,DGL,c
 Eval::WithLexicals::Util,EDENC,c
+Eval::WithLexicals::Util,ETHER,c
 Eval::WithLexicals::Util,FLORA,c
 Eval::WithLexicals::Util,JJNAPIORK,c
 Eval::WithLexicals::Util,MSTROUT,f
@@ -35,6 +37,7 @@ Eval::WithLexicals::Util,WSHELDAHL,c
 Eval::WithLexicals::VarScope,BOBTFISH,c
 Eval::WithLexicals::VarScope,DGL,c
 Eval::WithLexicals::VarScope,EDENC,c
+Eval::WithLexicals::VarScope,ETHER,c
 Eval::WithLexicals::VarScope,FLORA,c
 Eval::WithLexicals::VarScope,JJNAPIORK,c
 Eval::WithLexicals::VarScope,MSTROUT,f

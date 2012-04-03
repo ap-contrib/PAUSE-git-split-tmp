@@ -290,6 +290,7 @@ lib::core::only,BOBTFISH,c
 lib::core::only,DGL,c
 lib::core::only,DOY,c
 lib::core::only,EDENC,c
+lib::core::only,ETHER,c
 lib::core::only,FLORA,c
 lib::core::only,FREW,c
 lib::core::only,GETTY,c
@@ -345,6 +346,7 @@ local::lib,BOBTFISH,c
 local::lib,DGL,c
 local::lib,DOY,c
 local::lib,EDENC,c
+local::lib,ETHER,c
 local::lib,FLORA,c
 local::lib,FREW,c
 local::lib,GETTY,c
@@ -623,6 +625,7 @@ oo,APEIRON,c
 oo,BOBTFISH,c
 oo,DGL,c
 oo,EDENC,c
+oo,ETHER,c
 oo,FLORA,c
 oo,JJNAPIORK,c
 oo,MSTROUT,f

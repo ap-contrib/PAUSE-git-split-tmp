@@ -31,6 +31,7 @@ Catalyst::View::HTML::Template,BOBTFISH,c
 Catalyst::View::HTML::Template,DGL,c
 Catalyst::View::HTML::Template,DOY,c
 Catalyst::View::HTML::Template,EDENC,c
+Catalyst::View::HTML::Template,ETHER,c
 Catalyst::View::HTML::Template,FLORA,c
 Catalyst::View::HTML::Template,FREW,c
 Catalyst::View::HTML::Template,JJNAPIORK,c
@@ -61,6 +62,7 @@ Catalyst::View::Mason,DGL,c
 Catalyst::View::Mason,DOY,c
 Catalyst::View::Mason,DWHEELER,c
 Catalyst::View::Mason,EDENC,c
+Catalyst::View::Mason,ETHER,c
 Catalyst::View::Mason,FLORA,c
 Catalyst::View::Mason,FREW,c
 Catalyst::View::Mason,JJNAPIORK,c
@@ -91,6 +93,7 @@ Catalyst::View::PSP,BRICAS,c
 Catalyst::View::PSP,DGL,c
 Catalyst::View::PSP,DOY,c
 Catalyst::View::PSP,EDENC,c
+Catalyst::View::PSP,ETHER,c
 Catalyst::View::PSP,FLORA,c
 Catalyst::View::PSP,FREW,c
 Catalyst::View::PSP,JJNAPIORK,c
@@ -108,6 +111,7 @@ Catalyst::View::Petal,BOBTFISH,c
 Catalyst::View::Petal,DGL,c
 Catalyst::View::Petal,DOY,c
 Catalyst::View::Petal,EDENC,c
+Catalyst::View::Petal,ETHER,c
 Catalyst::View::Petal,FLORA,c
 Catalyst::View::Petal,FREW,c
 Catalyst::View::Petal,JJNAPIORK,c
@@ -125,6 +129,7 @@ Catalyst::View::REST::XML,BOBTFISH,c
 Catalyst::View::REST::XML,DGL,c
 Catalyst::View::REST::XML,DOY,c
 Catalyst::View::REST::XML,EDENC,c
+Catalyst::View::REST::XML,ETHER,c
 Catalyst::View::REST::XML,FLORA,c
 Catalyst::View::REST::XML,FREW,c
 Catalyst::View::REST::XML,JJNAPIORK,c
@@ -141,6 +146,7 @@ Catalyst::View::REST::YAML,BOBTFISH,c
 Catalyst::View::REST::YAML,DGL,c
 Catalyst::View::REST::YAML,DOY,c
 Catalyst::View::REST::YAML,EDENC,c
+Catalyst::View::REST::YAML,ETHER,c
 Catalyst::View::REST::YAML,FLORA,c
 Catalyst::View::REST::YAML,FREW,c
 Catalyst::View::REST::YAML,JJNAPIORK,c
@@ -168,6 +174,7 @@ Catalyst::View::TT,BOBTFISH,c
 Catalyst::View::TT,DGL,c
 Catalyst::View::TT,DOY,c
 Catalyst::View::TT,EDENC,c
+Catalyst::View::TT,ETHER,c
 Catalyst::View::TT,FLORA,c
 Catalyst::View::TT,FREW,c
 Catalyst::View::TT,JJNAPIORK,c

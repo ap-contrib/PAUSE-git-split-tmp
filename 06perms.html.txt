@@ -741,6 +741,7 @@ HTML::Zoom,BOBTFISH,c
 HTML::Zoom,DGL,c
 HTML::Zoom,DOY,c
 HTML::Zoom,EDENC,c
+HTML::Zoom,ETHER,c
 HTML::Zoom,FLORA,c
 HTML::Zoom,FREW,c
 HTML::Zoom,JJNAPIORK,c
@@ -752,6 +753,7 @@ HTML::Zoom::ArrayStream,APEIRON,c
 HTML::Zoom::ArrayStream,BOBTFISH,c
 HTML::Zoom::ArrayStream,DGL,c
 HTML::Zoom::ArrayStream,EDENC,c
+HTML::Zoom::ArrayStream,ETHER,c
 HTML::Zoom::ArrayStream,FLORA,c
 HTML::Zoom::ArrayStream,JJNAPIORK,c
 HTML::Zoom::ArrayStream,MSTROUT,f
@@ -764,6 +766,7 @@ HTML::Zoom::CodeStream,BOBTFISH,c
 HTML::Zoom::CodeStream,DGL,c
 HTML::Zoom::CodeStream,DOY,c
 HTML::Zoom::CodeStream,EDENC,c
+HTML::Zoom::CodeStream,ETHER,c
 HTML::Zoom::CodeStream,FLORA,c
 HTML::Zoom::CodeStream,FREW,c
 HTML::Zoom::CodeStream,JJNAPIORK,c
@@ -777,6 +780,7 @@ HTML::Zoom::FilterBuilder,BOBTFISH,c
 HTML::Zoom::FilterBuilder,DGL,c
 HTML::Zoom::FilterBuilder,DOY,c
 HTML::Zoom::FilterBuilder,EDENC,c
+HTML::Zoom::FilterBuilder,ETHER,c
 HTML::Zoom::FilterBuilder,FLORA,c
 HTML::Zoom::FilterBuilder,FREW,c
 HTML::Zoom::FilterBuilder,JJNAPIORK,c
@@ -790,6 +794,7 @@ HTML::Zoom::FilterStream,BOBTFISH,c
 HTML::Zoom::FilterStream,DGL,c
 HTML::Zoom::FilterStream,DOY,c
 HTML::Zoom::FilterStream,EDENC,c
+HTML::Zoom::FilterStream,ETHER,c
 HTML::Zoom::FilterStream,FLORA,c
 HTML::Zoom::FilterStream,FREW,c
 HTML::Zoom::FilterStream,JJNAPIORK,c
@@ -801,6 +806,7 @@ HTML::Zoom::FlattenedStream,APEIRON,c
 HTML::Zoom::FlattenedStream,BOBTFISH,c
 HTML::Zoom::FlattenedStream,DGL,c
 HTML::Zoom::FlattenedStream,EDENC,c
+HTML::Zoom::FlattenedStream,ETHER,c
 HTML::Zoom::FlattenedStream,FLORA,c
 HTML::Zoom::FlattenedStream,JJNAPIORK,c
 HTML::Zoom::FlattenedStream,MSTROUT,f
@@ -811,6 +817,7 @@ HTML::Zoom::MappedStream,APEIRON,c
 HTML::Zoom::MappedStream,BOBTFISH,c
 HTML::Zoom::MappedStream,DGL,c
 HTML::Zoom::MappedStream,EDENC,c
+HTML::Zoom::MappedStream,ETHER,c
 HTML::Zoom::MappedStream,FLORA,c
 HTML::Zoom::MappedStream,JJNAPIORK,c
 HTML::Zoom::MappedStream,MSTROUT,f
@@ -823,6 +830,7 @@ HTML::Zoom::MatchWithoutFilter,BOBTFISH,c
 HTML::Zoom::MatchWithoutFilter,DGL,c
 HTML::Zoom::MatchWithoutFilter,DOY,c
 HTML::Zoom::MatchWithoutFilter,EDENC,c
+HTML::Zoom::MatchWithoutFilter,ETHER,c
 HTML::Zoom::MatchWithoutFilter,FLORA,c
 HTML::Zoom::MatchWithoutFilter,FREW,c
 HTML::Zoom::MatchWithoutFilter,JJNAPIORK,c
@@ -834,6 +842,7 @@ HTML::Zoom::MaybeDebug,APEIRON,c
 HTML::Zoom::MaybeDebug,BOBTFISH,c
 HTML::Zoom::MaybeDebug,DGL,c
 HTML::Zoom::MaybeDebug,EDENC,c
+HTML::Zoom::MaybeDebug,ETHER,c
 HTML::Zoom::MaybeDebug,FLORA,c
 HTML::Zoom::MaybeDebug,JJNAPIORK,c
 HTML::Zoom::MaybeDebug,MSTROUT,f
@@ -846,6 +855,7 @@ HTML::Zoom::Parser::BuiltIn,BOBTFISH,c
 HTML::Zoom::Parser::BuiltIn,DGL,c
 HTML::Zoom::Parser::BuiltIn,DOY,c
 HTML::Zoom::Parser::BuiltIn,EDENC,c
+HTML::Zoom::Parser::BuiltIn,ETHER,c
 HTML::Zoom::Parser::BuiltIn,FLORA,c
 HTML::Zoom::Parser::BuiltIn,FREW,c
 HTML::Zoom::Parser::BuiltIn,JJNAPIORK,c
@@ -860,6 +870,7 @@ HTML::Zoom::Producer::BuiltIn,BOBTFISH,c
 HTML::Zoom::Producer::BuiltIn,DGL,c
 HTML::Zoom::Producer::BuiltIn,DOY,c
 HTML::Zoom::Producer::BuiltIn,EDENC,c
+HTML::Zoom::Producer::BuiltIn,ETHER,c
 HTML::Zoom::Producer::BuiltIn,FLORA,c
 HTML::Zoom::Producer::BuiltIn,FREW,c
 HTML::Zoom::Producer::BuiltIn,JJNAPIORK,c
@@ -873,6 +884,7 @@ HTML::Zoom::ReadFH,BOBTFISH,c
 HTML::Zoom::ReadFH,DGL,c
 HTML::Zoom::ReadFH,DOY,c
 HTML::Zoom::ReadFH,EDENC,c
+HTML::Zoom::ReadFH,ETHER,c
 HTML::Zoom::ReadFH,FLORA,c
 HTML::Zoom::ReadFH,FREW,c
 HTML::Zoom::ReadFH,JJNAPIORK,c
@@ -886,6 +898,7 @@ HTML::Zoom::SelectorParser,BOBTFISH,c
 HTML::Zoom::SelectorParser,DGL,c
 HTML::Zoom::SelectorParser,DOY,c
 HTML::Zoom::SelectorParser,EDENC,c
+HTML::Zoom::SelectorParser,ETHER,c
 HTML::Zoom::SelectorParser,FLORA,c
 HTML::Zoom::SelectorParser,FREW,c
 HTML::Zoom::SelectorParser,JJNAPIORK,c
@@ -899,6 +912,7 @@ HTML::Zoom::StreamBase,BOBTFISH,c
 HTML::Zoom::StreamBase,DGL,c
 HTML::Zoom::StreamBase,DOY,c
 HTML::Zoom::StreamBase,EDENC,c
+HTML::Zoom::StreamBase,ETHER,c
 HTML::Zoom::StreamBase,FLORA,c
 HTML::Zoom::StreamBase,FREW,c
 HTML::Zoom::StreamBase,JJNAPIORK,c
@@ -912,6 +926,7 @@ HTML::Zoom::StreamUtils,BOBTFISH,c
 HTML::Zoom::StreamUtils,DGL,c
 HTML::Zoom::StreamUtils,DOY,c
 HTML::Zoom::StreamUtils,EDENC,c
+HTML::Zoom::StreamUtils,ETHER,c
 HTML::Zoom::StreamUtils,FLORA,c
 HTML::Zoom::StreamUtils,FREW,c
 HTML::Zoom::StreamUtils,JJNAPIORK,c
@@ -925,6 +940,7 @@ HTML::Zoom::SubObject,BOBTFISH,c
 HTML::Zoom::SubObject,DGL,c
 HTML::Zoom::SubObject,DOY,c
 HTML::Zoom::SubObject,EDENC,c
+HTML::Zoom::SubObject,ETHER,c
 HTML::Zoom::SubObject,FLORA,c
 HTML::Zoom::SubObject,FREW,c
 HTML::Zoom::SubObject,JJNAPIORK,c
@@ -936,6 +952,7 @@ HTML::Zoom::Transform,APEIRON,c
 HTML::Zoom::Transform,BOBTFISH,c
 HTML::Zoom::Transform,DGL,c
 HTML::Zoom::Transform,EDENC,c
+HTML::Zoom::Transform,ETHER,c
 HTML::Zoom::Transform,FLORA,c
 HTML::Zoom::Transform,JJNAPIORK,c
 HTML::Zoom::Transform,MSTROUT,f
@@ -946,6 +963,7 @@ HTML::Zoom::TransformBuilder,APEIRON,c
 HTML::Zoom::TransformBuilder,BOBTFISH,c
 HTML::Zoom::TransformBuilder,DGL,c
 HTML::Zoom::TransformBuilder,EDENC,c
+HTML::Zoom::TransformBuilder,ETHER,c
 HTML::Zoom::TransformBuilder,FLORA,c
 HTML::Zoom::TransformBuilder,JJNAPIORK,c
 HTML::Zoom::TransformBuilder,MSTROUT,f
@@ -956,6 +974,7 @@ HTML::Zoom::TransformedStream,APEIRON,c
 HTML::Zoom::TransformedStream,BOBTFISH,c
 HTML::Zoom::TransformedStream,DGL,c
 HTML::Zoom::TransformedStream,EDENC,c
+HTML::Zoom::TransformedStream,ETHER,c
 HTML::Zoom::TransformedStream,FLORA,c
 HTML::Zoom::TransformedStream,JJNAPIORK,c
 HTML::Zoom::TransformedStream,MSTROUT,f
@@ -968,6 +987,7 @@ HTML::Zoom::ZConfig,BOBTFISH,c
 HTML::Zoom::ZConfig,DGL,c
 HTML::Zoom::ZConfig,DOY,c
 HTML::Zoom::ZConfig,EDENC,c
+HTML::Zoom::ZConfig,ETHER,c
 HTML::Zoom::ZConfig,FLORA,c
 HTML::Zoom::ZConfig,FREW,c
 HTML::Zoom::ZConfig,JJNAPIORK,c

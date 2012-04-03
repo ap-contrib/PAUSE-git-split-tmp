@@ -159,6 +159,7 @@ XML::Feed::Deduper::DB_File,TOKUHIROM,f
 XML::Feed::Deduper::Role,TOKUHIROM,f
 XML::Feed::Enclosure,DAVECROSS,c
 XML::Feed::Enclosure,EDENC,c
+XML::Feed::Enclosure,ETHER,c
 XML::Feed::Enclosure,JJNAPIORK,c
 XML::Feed::Enclosure,MSTROUT,f
 XML::Feed::Enclosure,SIMONW,c
@@ -1003,6 +1004,7 @@ XML::Overlay,BOBTFISH,c
 XML::Overlay,DGL,c
 XML::Overlay,DOY,c
 XML::Overlay,EDENC,c
+XML::Overlay,ETHER,c
 XML::Overlay,FLORA,c
 XML::Overlay,FREW,c
 XML::Overlay,GRODITI,c
@@ -1021,6 +1023,7 @@ XML::Overlay::action,BOBTFISH,c
 XML::Overlay::action,DGL,c
 XML::Overlay::action,DOY,c
 XML::Overlay::action,EDENC,c
+XML::Overlay::action,ETHER,c
 XML::Overlay::action,FLORA,c
 XML::Overlay::action,FREW,c
 XML::Overlay::action,GRODITI,c
@@ -1039,6 +1042,7 @@ XML::Overlay::target,BOBTFISH,c
 XML::Overlay::target,DGL,c
 XML::Overlay::target,DOY,c
 XML::Overlay::target,EDENC,c
+XML::Overlay::target,ETHER,c
 XML::Overlay::target,FLORA,c
 XML::Overlay::target,FREW,c
 XML::Overlay::target,GRODITI,c

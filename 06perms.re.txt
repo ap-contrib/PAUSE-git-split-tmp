@@ -5,6 +5,7 @@ Reaction::UI::Widget::Value::Collection,BOBTFISH,c
 Reaction::UI::Widget::Value::Collection,DGL,c
 Reaction::UI::Widget::Value::Collection,DOY,c
 Reaction::UI::Widget::Value::Collection,EDENC,c
+Reaction::UI::Widget::Value::Collection,ETHER,c
 Reaction::UI::Widget::Value::Collection,FLORA,c
 Reaction::UI::Widget::Value::Collection,FREW,c
 Reaction::UI::Widget::Value::Collection,GRODITI,c
@@ -21,6 +22,7 @@ Reaction::UI::Widget::Value::DateTime,BOBTFISH,c
 Reaction::UI::Widget::Value::DateTime,DGL,c
 Reaction::UI::Widget::Value::DateTime,DOY,c
 Reaction::UI::Widget::Value::DateTime,EDENC,c
+Reaction::UI::Widget::Value::DateTime,ETHER,c
 Reaction::UI::Widget::Value::DateTime,FLORA,c
 Reaction::UI::Widget::Value::DateTime,FREW,c
 Reaction::UI::Widget::Value::DateTime,GRODITI,c
@@ -37,6 +39,7 @@ Reaction::UI::Widget::Value::Image,BOBTFISH,c
 Reaction::UI::Widget::Value::Image,DGL,c
 Reaction::UI::Widget::Value::Image,DOY,c
 Reaction::UI::Widget::Value::Image,EDENC,c
+Reaction::UI::Widget::Value::Image,ETHER,c
 Reaction::UI::Widget::Value::Image,FLORA,c
 Reaction::UI::Widget::Value::Image,FREW,c
 Reaction::UI::Widget::Value::Image,GRODITI,c
@@ -53,6 +56,7 @@ Reaction::UI::Widget::Value::Number,BOBTFISH,c
 Reaction::UI::Widget::Value::Number,DGL,c
 Reaction::UI::Widget::Value::Number,DOY,c
 Reaction::UI::Widget::Value::Number,EDENC,c
+Reaction::UI::Widget::Value::Number,ETHER,c
 Reaction::UI::Widget::Value::Number,FLORA,c
 Reaction::UI::Widget::Value::Number,FREW,c
 Reaction::UI::Widget::Value::Number,GRODITI,c
@@ -69,6 +73,7 @@ Reaction::UI::Widget::Value::RelatedObject,BOBTFISH,c
 Reaction::UI::Widget::Value::RelatedObject,DGL,c
 Reaction::UI::Widget::Value::RelatedObject,DOY,c
 Reaction::UI::Widget::Value::RelatedObject,EDENC,c
+Reaction::UI::Widget::Value::RelatedObject,ETHER,c
 Reaction::UI::Widget::Value::RelatedObject,FLORA,c
 Reaction::UI::Widget::Value::RelatedObject,FREW,c
 Reaction::UI::Widget::Value::RelatedObject,GRODITI,c
@@ -85,6 +90,7 @@ Reaction::UI::Widget::Value::String,BOBTFISH,c
 Reaction::UI::Widget::Value::String,DGL,c
 Reaction::UI::Widget::Value::String,DOY,c
 Reaction::UI::Widget::Value::String,EDENC,c
+Reaction::UI::Widget::Value::String,ETHER,c
 Reaction::UI::Widget::Value::String,FLORA,c
 Reaction::UI::Widget::Value::String,FREW,c
 Reaction::UI::Widget::Value::String,GRODITI,c
@@ -101,6 +107,7 @@ Reaction::UI::Widget::Value::Text,BOBTFISH,c
 Reaction::UI::Widget::Value::Text,DGL,c
 Reaction::UI::Widget::Value::Text,DOY,c
 Reaction::UI::Widget::Value::Text,EDENC,c
+Reaction::UI::Widget::Value::Text,ETHER,c
 Reaction::UI::Widget::Value::Text,FLORA,c
 Reaction::UI::Widget::Value::Text,FREW,c
 Reaction::UI::Widget::Value::Text,GRODITI,c
@@ -117,6 +124,7 @@ Reaction::UI::WidgetClass,BOBTFISH,c
 Reaction::UI::WidgetClass,DGL,c
 Reaction::UI::WidgetClass,DOY,c
 Reaction::UI::WidgetClass,EDENC,c
+Reaction::UI::WidgetClass,ETHER,c
 Reaction::UI::WidgetClass,FLORA,c
 Reaction::UI::WidgetClass,FREW,c
 Reaction::UI::WidgetClass,GRODITI,c
@@ -133,6 +141,7 @@ Reaction::UI::WidgetClass::_OVER,BOBTFISH,c
 Reaction::UI::WidgetClass::_OVER,DGL,c
 Reaction::UI::WidgetClass::_OVER,DOY,c
 Reaction::UI::WidgetClass::_OVER,EDENC,c
+Reaction::UI::WidgetClass::_OVER,ETHER,c
 Reaction::UI::WidgetClass::_OVER,FLORA,c
 Reaction::UI::WidgetClass::_OVER,FREW,c
 Reaction::UI::WidgetClass::_OVER,GRODITI,c
@@ -149,6 +158,7 @@ Reaction::UI::Window,BOBTFISH,c
 Reaction::UI::Window,DGL,c
 Reaction::UI::Window,DOY,c
 Reaction::UI::Window,EDENC,c
+Reaction::UI::Window,ETHER,c
 Reaction::UI::Window,FLORA,c
 Reaction::UI::Window,FREW,c
 Reaction::UI::Window,GRODITI,c

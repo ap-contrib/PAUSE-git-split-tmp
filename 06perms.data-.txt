@@ -12,6 +12,7 @@ Data::Query,BOBTFISH,c
 Data::Query,DGL,c
 Data::Query,DOY,c
 Data::Query,EDENC,c
+Data::Query,ETHER,c
 Data::Query,FLORA,c
 Data::Query,FREW,c
 Data::Query,JJNAPIORK,c
@@ -526,6 +527,7 @@ Data::Store,BOBTFISH,c
 Data::Store,DGL,c
 Data::Store,DOY,c
 Data::Store,EDENC,c
+Data::Store,ETHER,c
 Data::Store,FLORA,c
 Data::Store,FREW,c
 Data::Store,JJNAPIORK,c
@@ -541,6 +543,7 @@ Data::Stream,BOBTFISH,c
 Data::Stream,DGL,c
 Data::Stream,DOY,c
 Data::Stream,EDENC,c
+Data::Stream,ETHER,c
 Data::Stream,FLORA,c
 Data::Stream,FREW,c
 Data::Stream,JJNAPIORK,c

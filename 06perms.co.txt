@@ -80,6 +80,7 @@ Config::Loader,DGL,c
 Config::Loader,DOY,c
 Config::Loader,DRTECH,c
 Config::Loader,EDENC,c
+Config::Loader,ETHER,c
 Config::Loader,FLORA,c
 Config::Loader,FREW,c
 Config::Loader,GRODITI,c
@@ -98,6 +99,7 @@ Config::Loader::Perl,DGL,c
 Config::Loader::Perl,DOY,c
 Config::Loader::Perl,DRTECH,c
 Config::Loader::Perl,EDENC,c
+Config::Loader::Perl,ETHER,c
 Config::Loader::Perl,FLORA,c
 Config::Loader::Perl,FREW,c
 Config::Loader::Perl,GRODITI,c

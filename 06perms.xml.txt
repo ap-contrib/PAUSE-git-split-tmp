@@ -1073,6 +1073,7 @@ XML::Tags,BOBTFISH,c
 XML::Tags,DGL,c
 XML::Tags,DOY,c
 XML::Tags,EDENC,c
+XML::Tags,ETHER,c
 XML::Tags,FLORA,c
 XML::Tags,FREW,c
 XML::Tags,JJNAPIORK,c
@@ -1086,6 +1087,7 @@ XML::Tags::StringThing,BOBTFISH,c
 XML::Tags::StringThing,DGL,c
 XML::Tags::StringThing,DOY,c
 XML::Tags::StringThing,EDENC,c
+XML::Tags::StringThing,ETHER,c
 XML::Tags::StringThing,FLORA,c
 XML::Tags::StringThing,FREW,c
 XML::Tags::StringThing,JJNAPIORK,c
@@ -1099,6 +1101,7 @@ XML::Tags::TIEHANDLE,BOBTFISH,c
 XML::Tags::TIEHANDLE,DGL,c
 XML::Tags::TIEHANDLE,DOY,c
 XML::Tags::TIEHANDLE,EDENC,c
+XML::Tags::TIEHANDLE,ETHER,c
 XML::Tags::TIEHANDLE,FLORA,c
 XML::Tags::TIEHANDLE,FREW,c
 XML::Tags::TIEHANDLE,JJNAPIORK,c
@@ -1112,6 +1115,7 @@ XML::Tags::Unex,BOBTFISH,c
 XML::Tags::Unex,DGL,c
 XML::Tags::Unex,DOY,c
 XML::Tags::Unex,EDENC,c
+XML::Tags::Unex,ETHER,c
 XML::Tags::Unex,FLORA,c
 XML::Tags::Unex,FREW,c
 XML::Tags::Unex,JJNAPIORK,c

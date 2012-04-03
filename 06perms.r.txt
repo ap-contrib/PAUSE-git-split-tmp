@@ -168,6 +168,7 @@ strictures,BOBTFISH,c
 strictures,DGL,c
 strictures,DOY,c
 strictures,EDENC,c
+strictures,ETHER,c
 strictures,FLORA,c
 strictures,JJNAPIORK,c
 strictures,MSTROUT,f

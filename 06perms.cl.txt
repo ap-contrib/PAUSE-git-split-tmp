@@ -214,6 +214,7 @@ Class::DBI::Frozen::301,BOBTFISH,c
 Class::DBI::Frozen::301,DGL,c
 Class::DBI::Frozen::301,DOY,c
 Class::DBI::Frozen::301,EDENC,c
+Class::DBI::Frozen::301,ETHER,c
 Class::DBI::Frozen::301,FLORA,c
 Class::DBI::Frozen::301,FREW,c
 Class::DBI::Frozen::301,GRODITI,c
@@ -404,6 +405,7 @@ Class::DBI::Sweet::Topping,BOBTFISH,c
 Class::DBI::Sweet::Topping,DGL,c
 Class::DBI::Sweet::Topping,DOY,c
 Class::DBI::Sweet::Topping,EDENC,c
+Class::DBI::Sweet::Topping,ETHER,c
 Class::DBI::Sweet::Topping,FLORA,c
 Class::DBI::Sweet::Topping,FREW,c
 Class::DBI::Sweet::Topping,GRODITI,c

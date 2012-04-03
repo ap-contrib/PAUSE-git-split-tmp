@@ -453,6 +453,7 @@ Sub::Defer,APEIRON,c
 Sub::Defer,BOBTFISH,c
 Sub::Defer,DGL,c
 Sub::Defer,EDENC,c
+Sub::Defer,ETHER,c
 Sub::Defer,FLORA,c
 Sub::Defer,JJNAPIORK,c
 Sub::Defer,MSTROUT,f
@@ -534,6 +535,7 @@ Sub::Quote,APEIRON,c
 Sub::Quote,BOBTFISH,c
 Sub::Quote,DGL,c
 Sub::Quote,EDENC,c
+Sub::Quote,ETHER,c
 Sub::Quote,FLORA,c
 Sub::Quote,JJNAPIORK,c
 Sub::Quote,MSTROUT,f
