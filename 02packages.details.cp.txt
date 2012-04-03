@@ -261,7 +261,7 @@ CPAN::Testers::Common::DBUtils     0.06  B/BA/BARBIE/CPAN-Testers-Common-DBUtils
 CPAN::Testers::Common::Utils      0.002  D/DA/DAGOLDEN/CPAN-Testers-Common-Utils-0.002.tar.gz
 CPAN::Testers::Config             0.001  D/DA/DAGOLDEN/CPAN-Testers-Config-0.001.tar.gz
 CPAN::Testers::Data::Addresses     0.06  B/BA/BARBIE/CPAN-Testers-Data-Addresses-0.06.tar.gz
-CPAN::Testers::Data::Generator     1.01  B/BA/BARBIE/CPAN-Testers-Data-Generator-1.01.tar.gz
+CPAN::Testers::Data::Generator     1.02  B/BA/BARBIE/CPAN-Testers-Data-Generator-1.02.tar.gz
 CPAN::Testers::Data::Release       0.03  B/BA/BARBIE/CPAN-Testers-Data-Release-0.03.tar.gz
 CPAN::Testers::Data::Uploads       0.17  B/BA/BARBIE/CPAN-Testers-Data-Uploads-0.17.tar.gz
 CPAN::Testers::Data::Uploads::Mailer 0.03  B/BA/BARBIE/CPAN-Testers-Data-Uploads-Mailer-0.03.tar.gz
