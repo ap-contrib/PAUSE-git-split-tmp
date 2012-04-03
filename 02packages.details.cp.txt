@@ -471,7 +471,7 @@ CPANPLUS::Shell::Wx::UpdateWizard::ReviewUpdatesPage undef  S/SK/SKAMANSAM/CPANP
 CPANPLUS::Shell::Wx::UpdateWizard::UpdateTypePage undef  S/SK/SKAMANSAM/CPANPLUS-Shell-Wx-0.04.tar.gz
 CPANPLUS::Shell::Wx::util         undef  S/SK/SKAMANSAM/CPANPLUS-Shell-Wx-0.04.tar.gz
 CPANPLUS::Test::Dummy::HasScript 0.0004  B/BI/BINGOS/CPANPLUS-Test-Dummy-HasScript-0.0004.tar.gz
-CPANPLUS::Test::Dummy::UsesScript 0.0002  B/BI/BINGOS/CPANPLUS-Test-Dummy-UsesScript-0.0002.tar.gz
+CPANPLUS::Test::Dummy::UsesScript 0.0004  B/BI/BINGOS/CPANPLUS-Test-Dummy-UsesScript-0.0004.tar.gz
 CPANPLUS::YACSmoke                 0.74  B/BI/BINGOS/CPANPLUS-YACSmoke-0.74.tar.gz
 CPANPLUS::YACSmoke::IniFiles       0.74  B/BI/BINGOS/CPANPLUS-YACSmoke-0.74.tar.gz
 CPANPLUS::YACSmoke::ReAssemble     0.74  B/BI/BINGOS/CPANPLUS-YACSmoke-0.74.tar.gz
