@@ -247,7 +247,7 @@ autobox::JSON::String            0.0003  R/RG/RGE/autobox-JSON-0.0003.tar.gz
 autobox::List::Util            20090629  C/CO/COWENS/autobox-List-Util-20090629.tar.gz
 autobox::Numeric::Bytes            0.02  H/HI/HIROSE/autobox-Numeric-Bytes-0.02.tar.gz
 autobox::Numeric::Time             0.02  H/HI/HIROSE/autobox-Numeric-Time-0.02.tar.gz
-autobox::String::Inflector         0.01  K/KA/KAMIPO/autobox-String-Inflector-0.01.tar.gz
+autobox::String::Inflector         0.02  K/KA/KAMIPO/autobox-String-Inflector-0.02.tar.gz
 Autocache                         0.004  W/WI/WIGGLY/Autocache-0.004.tar.gz
 Autocache::Config                 undef  W/WI/WIGGLY/Autocache-0.004.tar.gz
 Autocache::Config::Node           undef  W/WI/WIGGLY/Autocache-0.004.tar.gz
