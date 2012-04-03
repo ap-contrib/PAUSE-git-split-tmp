@@ -944,7 +944,6 @@ Devel::Events::Handler::ObjectTracker undef  N/NU/NUFFIN/Devel-Events-Objects-0.
 Devel::Events::Match              undef  N/NU/NUFFIN/Devel-Events-0.08.tar.gz
 Devel::Events::Objects             0.05  N/NU/NUFFIN/Devel-Events-Objects-0.05.tar.gz
 Devel::Examine::Subs               0.09  S/ST/STEVEB/Devel-Examine-Subs-0.09.tar.gz
-Devel::ExamineSubs                 0.05  S/ST/STEVEB/Devel-ExamineSubs-0.05.tar.gz
 Devel::Fail::Make                 1.016  M/MT/MTHURN/Devel-Fail-Make-1.016.tar.gz
 Devel::Fail::MakefilePL           1.006  M/MT/MTHURN/Devel-Fail-MakefilePL-1.013.tar.gz
 Devel::Fail::MakeTest             1.013  M/MT/MTHURN/Devel-Fail-MakeTest-1.013.tar.gz

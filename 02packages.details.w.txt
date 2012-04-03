@@ -196,9 +196,6 @@ WWW::2ch::Res                     undef  Y/YA/YAPPO/WWW-2ch-0.07.tar.gz
 WWW::2ch::Setting                 undef  Y/YA/YAPPO/WWW-2ch-0.07.tar.gz
 WWW::2ch::Subject                 undef  Y/YA/YAPPO/WWW-2ch-0.07.tar.gz
 WWW::2ch::UserAgent               undef  Y/YA/YAPPO/WWW-2ch-0.07.tar.gz
-WWW::3172::Crawler                0.002  D/DO/DOHERTY/WWW-3172-Crawler-v0.002.tar.gz
-WWW::3172::Crawler::WebInterface  0.001  D/DO/DOHERTY/WWW-3172-Crawler-WebInterface-0.001.tar.gz
-WWW::3172::SearchEngine           0.001  D/DO/DOHERTY/WWW-3172-SearchEngine-0.001.tar.gz
 WWW::3Taps::API                    0.06  E/ED/EDENC/WWW-3Taps-API-0.06.tar.gz
 WWW::3Taps::API::Types            undef  E/ED/EDENC/WWW-3Taps-API-0.06.tar.gz
 WWW::A9Toolbar                     0.01  J/JR/JROBINSON/WWW-A9Toolbar-0.01.tar.gz
