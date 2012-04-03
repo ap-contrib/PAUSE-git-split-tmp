@@ -724,10 +724,12 @@ Yote::Census,CANID,f
 Yote::ClientObj,CANID,f
 Yote::Cron,CANID,f
 Yote::Hash,CANID,f
+Yote::Login,CANID,f
 Yote::MysqlIO,CANID,f
 Yote::Obj,CANID,f
 Yote::ObjProvider,CANID,f
 Yote::SQLiteIO,CANID,f
+Yote::Sample::Census,CANID,f
 Yote::Sample::SecretCollect,CANID,f
 Yote::SystemObj,CANID,f
 Yote::Test::DummyCache,CANID,f
