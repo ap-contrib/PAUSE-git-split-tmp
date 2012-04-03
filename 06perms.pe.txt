@@ -665,4 +665,10 @@ Physics::Lorentz::Transformation,SMUELLER,f
 Physics::Lorentz::Vector,SMUELLER,f
 Physics::Particles,SMUELLER,m
 Physics::Psychrometry,MIKEM,f
+Physics::RayTransfer,JBERGER,f
+Physics::RayTransfer::Element,JBERGER,f
+Physics::RayTransfer::Lens,JBERGER,f
+Physics::RayTransfer::Mirror,JBERGER,f
+Physics::RayTransfer::Observer,JBERGER,f
+Physics::RayTransfer::Space,JBERGER,f
 Physics::Solar::VSO,ONEIROS,m

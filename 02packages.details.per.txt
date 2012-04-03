@@ -533,3 +533,9 @@ Physics::Lorentz::Transformation   0.01  S/SM/SMUELLER/Physics-Lorentz-0.01.tar.
 Physics::Lorentz::Vector           0.01  S/SM/SMUELLER/Physics-Lorentz-0.01.tar.gz
 Physics::Particles                 1.02  S/SM/SMUELLER/Physics-Particles-1.02.tar.gz
 Physics::Psychrometry               1.1  M/MI/MIKEM/Physics-Psychrometry-1.1.tar.gz
+Physics::RayTransfer              0.002  J/JB/JBERGER/Physics-RayTransfer-0.002.tar.gz
+Physics::RayTransfer::Element     0.002  J/JB/JBERGER/Physics-RayTransfer-0.002.tar.gz
+Physics::RayTransfer::Lens        0.002  J/JB/JBERGER/Physics-RayTransfer-0.002.tar.gz
+Physics::RayTransfer::Mirror      0.002  J/JB/JBERGER/Physics-RayTransfer-0.002.tar.gz
+Physics::RayTransfer::Observer    0.002  J/JB/JBERGER/Physics-RayTransfer-0.002.tar.gz
+Physics::RayTransfer::Space       0.002  J/JB/JBERGER/Physics-RayTransfer-0.002.tar.gz
