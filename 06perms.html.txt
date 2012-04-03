@@ -1127,6 +1127,7 @@ HTTP::Daemon::Threaded::SessionCache,DARNOLD,f
 HTTP::Daemon::Threaded::Socket,DARNOLD,f
 HTTP::Daemon::Threaded::WebClient,DARNOLD,f
 HTTP::Daemon::UNIX,SHARYANTO,f
+HTTP::Daemon::patch::ipv6,SHARYANTO,f
 HTTP::Date,GAAS,c
 HTTP::Date,LWWWP,m
 HTTP::DetectUserAgent,NANZOU,f
