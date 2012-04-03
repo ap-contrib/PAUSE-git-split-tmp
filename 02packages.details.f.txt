@@ -1298,7 +1298,7 @@ Games::Zumbis::Tiro                0.05  G/GA/GARU/Games-Zumbis-0.05.tar.gz
 Games::Zumbis::Zumbi               0.05  G/GA/GARU/Games-Zumbis-0.05.tar.gz
 Ganglia::Gmetric                    0.3  F/FU/FUNGUS/Ganglia-Gmetric-0.3.tar.gz
 Ganglia::Gmetric::PP               1.04  A/AT/ATHOMASON/Ganglia-Gmetric-PP-1.04.tar.gz
-Ganglia::Gmetric::XS               1.03  H/HI/HIROSE/Ganglia-Gmetric-XS-1.03.tar.gz
+Ganglia::Gmetric::XS               1.04  H/HI/HIROSE/Ganglia-Gmetric-XS-1.04.tar.gz
 Gantry                             3.64  T/TK/TKEEFER/Gantry-3.64.tar.gz
 Gantry::Build                     undef  T/TK/TKEEFER/Gantry-3.64.tar.gz
 Gantry::Conf                      undef  T/TK/TKEEFER/Gantry-3.64.tar.gz
