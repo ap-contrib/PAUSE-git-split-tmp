@@ -1247,6 +1247,7 @@ Module::Install::AuthorRequires,ETHER,c
 Module::Install::AuthorRequires,FLORA,f
 Module::Install::AuthorRequires,RIBASUSHI,c
 Module::Install::AuthorTests,RJBS,f
+Module::Install::Authority,BOBTFISH,f
 Module::Install::AutoConf,GAM,f
 Module::Install::AutoInstall,ADAMK,c
 Module::Install::AutoInstall,AUDREYT,f
