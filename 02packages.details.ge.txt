@@ -219,7 +219,7 @@ Geo::Direction::Name::Spec        0.0.4  K/KO/KOKOGIKO/Geo-Direction-Name-0.0.4.
 Geo::Direction::Name::Spec::Bagua 0.0.1  K/KO/KOKOGIKO/Geo-Direction-Name-Spec-Chinese-0.0.1.tar.gz
 Geo::Direction::Name::Spec::Chinese 0.0.1  K/KO/KOKOGIKO/Geo-Direction-Name-Spec-Chinese-0.0.1.tar.gz
 Geo::Direction::Name::Spec::Dizhi 0.0.1  K/KO/KOKOGIKO/Geo-Direction-Name-Spec-Chinese-0.0.1.tar.gz
-Geo::Distance                      0.18  B/BL/BLUEFEET/Geo-Distance-0.18.tar.gz
+Geo::Distance                      0.19  B/BL/BLUEFEET/Geo-Distance-0.19.tar.gz
 Geo::Distance::Google              0.01  L/LC/LCARMICH/Geo-Distance-Google-0.01.tar.gz
 Geo::Distance::XS                  0.09  G/GR/GRAY/Geo-Distance-XS-0.09.tar.gz
 Geo::DNA                           0.33  K/KY/KYLED/Geo-DNA-0.33.tar.gz
