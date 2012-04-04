@@ -594,6 +594,7 @@ Proc::Swarm::Results,DIEDERICH,f
 Proc::SyncExec,ROSCH,m
 Proc::Terminator,MNUNBERG,f
 Proc::Terminator::Ctx,MNUNBERG,f
+Proc::Topus,PRAVUS,f
 Proc::UID,PJF,f
 Proc::UID::EGID,PJF,f
 Proc::UID::EUID,PJF,f
