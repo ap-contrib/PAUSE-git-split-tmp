@@ -273,6 +273,7 @@ Marpa::PP::Recognizer,JKEGL,f
 Marpa::PP::Value,JKEGL,f
 Marpa::Perl,JKEGL,m
 Marpa::R2,JKEGL,m
+Marpa::R3,JKEGL,m
 Marpa::UrHTML,JKEGL,f
 Marpa::XS,JKEGL,m
 Marpa::XS::Grammar,JKEGL,f
