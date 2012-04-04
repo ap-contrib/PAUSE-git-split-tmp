@@ -81,13 +81,13 @@ Data::Range::Compare::Stream::Iterator::Array,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Base,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Compare::Asc,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Compare::Base,AKALINUX,f
-Data::Range::Compare::Stream::Iterator::Compare::ColumnRelations,AKALINUX,c
+Data::Range::Compare::Stream::Iterator::Compare::ColumnRelations,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Compare::LayerCake,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Compare::Result,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Consolidate,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Consolidate::AdjacentAsc,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Consolidate::FileAsc,AKALINUX,f
-Data::Range::Compare::Stream::Iterator::Consolidate::OverlapAsColumn,AKALINUX,c
+Data::Range::Compare::Stream::Iterator::Consolidate::OverlapAsColumn,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Consolidate::Result,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::File,AKALINUX,f
 Data::Range::Compare::Stream::Sort,AKALINUX,f
