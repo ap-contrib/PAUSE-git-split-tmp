@@ -192,8 +192,6 @@ Thread::Conveyor::Monitored        0.14  E/EL/ELIZABETH/Thread-Conveyor-Monitore
 Thread::Conveyor::Throttled        0.19  E/EL/ELIZABETH/Thread-Conveyor-0.19.tar.gz
 Thread::Conveyor::Tied             0.19  E/EL/ELIZABETH/Thread-Conveyor-0.19.tar.gz
 Thread::CriticalSection            0.02  M/ME/MELO/Thread-CriticalSection-0.02.tar.gz
-Thread::Deadlock                   0.06  E/EL/ELIZABETH/Thread-Deadlock-0.06.tar.gz
-Thread::Detach                     0.01  E/EL/ELIZABETH/Thread-Detach-0.01.tar.gz
 Thread::Exit                       0.09  E/EL/ELIZABETH/Thread-Exit-0.09.tar.gz
 Thread::IID                        0.04  W/WR/WROG/Thread-IID-0.04.tar.gz
 Thread::Isolate                    0.05  G/GM/GMPASSOS/Thread-Isolate-0.05.tar.gz
@@ -208,9 +206,7 @@ Thread::Isolate::Pool             undef  G/GM/GMPASSOS/Thread-Isolate-0.05.tar.g
 Thread::Isolate::Thread           undef  G/GM/GMPASSOS/Thread-Isolate-0.05.tar.gz
 Thread::Isolate::Thread::EVAL     undef  G/GM/GMPASSOS/Thread-Isolate-0.05.tar.gz
 Thread::Iterator                    0.1  M/MI/MICB/ThreadIterator-0.1.tar.gz
-Thread::Needs                      0.05  E/EL/ELIZABETH/Thread-Needs-0.05.tar.gz
 Thread::Pool                       0.33  E/EL/ELIZABETH/Thread-Pool-0.33.tar.gz
-Thread::Pool::Resolve              0.10  E/EL/ELIZABETH/Thread-Pool-Resolve-0.10.tar.gz
 Thread::Pool::Simple               0.25  J/JW/JWU/Thread-Pool-Simple/Thread-Pool-Simple-0.25.tar.gz
 Thread::Queue                      2.12  J/JD/JDHEDDEN/Thread-Queue-2.12.tar.gz
 Thread::Queue::Any                 0.10  E/EL/ELIZABETH/Thread-Queue-Any-0.10.tar.gz
@@ -246,7 +242,6 @@ Thread::Tie::Handle                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Hash                  0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Scalar                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Thread                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
-Thread::Use                        0.05  E/EL/ELIZABETH/Thread-Use-0.05.tar.gz
 threads                            1.86  J/JD/JDHEDDEN/threads-1.86.tar.gz
 threads::emulate::async           undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
 threads::emulate::master          undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
