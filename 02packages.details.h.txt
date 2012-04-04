@@ -296,7 +296,7 @@ IEPM::PingER::Statistics::RTT     undef  P/PE/PERFSONAR/perfSONAR_PS-Services-Pi
 IETF::ACE                          0.02  J/JB/JBRIGGS/IETF-ACE-0.02.tar.gz
 If                                undef  F/FG/FGLOCK/v6-0.044.tar.gz
 if                               0.0601  I/IL/ILYAZ/modules/if-0.0601.tar.gz
-ifdef                              0.08  E/EL/ELIZABETH/ifdef-0.08.tar.gz
+ifdef                              0.09  E/EL/ELIZABETH/ifdef-0.09.tar.gz
 Iff                                0.01  G/GM/GMLEWIS/RenderMan-0.04.tar.gz
 IfLoop                             0.03  W/WI/WILLIS/IfLoop-0.03.tar.gz
 ih                                    0  D/DC/DCMERTENS/App-Prima-REPL-0.02.tar.gz
