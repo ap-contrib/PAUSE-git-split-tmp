@@ -407,9 +407,6 @@ CDB_File::BiIndex                 0.030  M/MI/MIKEDLR/CDB_File-BiIndex-0.030.tar
 CDB_File::BiIndex::Generator       1.04  M/MI/MIKEDLR/CDB_File-BiIndex-0.030.tar.gz
 CDB_File::Generator               0.030  M/MI/MIKEDLR/CDB_File-Generator-0.030.tar.gz
 CDB_File_Thawed                   undef  L/LB/LBROCARD/Search-Mousse-0.32.tar.gz
-CDB_Perl                           0.55  P/PL/PLANK/CDB_Perl-0.55.tar.gz
-CDB_Perl::Read                    undef  P/PL/PLANK/CDB_Perl-0.55.tar.gz
-CDB_Perl::Write                   undef  P/PL/PLANK/CDB_Perl-0.55.tar.gz
 CDBI::Example                     undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
 CDBI::Example::example            undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
 CDBI_base                         undef  V/VE/VESELOSKY/CGI-Builder-Auth-0.06.tar.gz

@@ -621,7 +621,6 @@ Image::Heatmap::private           0.565  W/WA/WAZZUTEKE/Image-Heatmap-0.565.tar.
 Image::Identicon                   0.03  H/HI/HIO/Image-Identicon-0.03.tar.gz
 Image::Identicon::Render           0.03  H/HI/HIO/Image-Identicon-0.03.tar.gz
 Image::Imager::Thumbnail           0.01  E/EB/EBRUNI/Image-Imager-Thumbnail-0.01.tar.gz
-Image::ImageShack                  0.04  P/PL/PLANK/Image-ImageShack-0.04.tar.gz
 Image::Imgur                      undef  O/OH/OHWOW/Image-Imgur-0.01.tgz
 Image::Imlib2                      2.03  L/LB/LBROCARD/Image-Imlib2-2.03.tar.gz
 Image::Imlib2::Thumbnail           0.40  L/LB/LBROCARD/Image-Imlib2-Thumbnail-0.40.tar.gz

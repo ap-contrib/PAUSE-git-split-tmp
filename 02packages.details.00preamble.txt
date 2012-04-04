@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
-Line-Count:   115431
-Last-Updated: Wed, 04 Apr 2012 04:35:03 GMT
+Line-Count:   115423
+Last-Updated: Wed, 04 Apr 2012 05:13:41 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -410,7 +410,6 @@ Acme::Holy                         0.03  I/IB/IBB/Acme-Holy-0.03.tar.gz
 Acme::Homer                    0.000002  D/DM/DMUEY/Acme-Homer-v0.0.2.tar.gz
 Acme::Hyde                         0.04  N/NO/NOZZZZZ/Acme-Hyde-0.04.tar.gz
 Acme::Hyperindex                   0.12  B/BE/BERIKV/Acme-Hyperindex-0.12.tar.gz
-Acme::ICHC::Lolcats                0.01  C/CM/CMANTITO/Acme-ICHC-Lolcats-0.01.tar.gz
 Acme::Ikamusume                    0.06  T/TO/TOMITA/Acme-Ikamusume-0.06.tar.gz
 Acme::Ikamusume::MAParser         undef  T/TO/TOMITA/Acme-Ikamusume-0.06.tar.gz
 Acme::Ikamusume::Rule             undef  T/TO/TOMITA/Acme-Ikamusume-0.06.tar.gz

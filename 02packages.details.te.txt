@@ -184,7 +184,6 @@ Thread::Apartment::MuxServer       0.50  D/DA/DARNOLD/Thread-Apartment-0.51.tar.
 Thread::Apartment::Server          0.50  D/DA/DARNOLD/Thread-Apartment-0.51.tar.gz
 Thread::App::Shutdown              0.01  J/JF/JFITZ/Thread-App-Shutdown-0.10.tar.gz
 Thread::Barrier                   0.300  M/MR/MROGASKI/Thread-Barrier-0.300.tar.gz
-Thread::Bless                      0.06  E/EL/ELIZABETH/Thread-Bless-0.06.tar.gz
 Thread::Cancel                     1.13  J/JD/JDHEDDEN/Thread-Cancel-1.13.tar.gz
 Thread::Cleanup                    0.04  V/VP/VPIT/Thread-Cleanup-0.04.tar.gz
 Thread::Conveyor                   0.19  E/EL/ELIZABETH/Thread-Conveyor-0.19.tar.gz
