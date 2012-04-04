@@ -935,6 +935,7 @@ ClearCase::ClearPrompt,DSB,f
 ClearCase::Ct,DSB,f
 ClearCase::CtCmd,ALEVENSO,c
 ClearCase::CtCmd,RATL,f
+ClearCase::FixSrcCont,MGI,f
 ClearCase::ForceLock,MGI,f
 ClearCase::ForceLockSudo,MGI,f
 ClearCase::ForceLockUnix,MGI,f
