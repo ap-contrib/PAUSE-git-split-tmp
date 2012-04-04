@@ -857,7 +857,7 @@ Net::Twitter::Role::RetryOnError  undef  M/MM/MMIMS/Net-Twitter-3.18001.tar.gz
 Net::Twitter::Role::SimulateCursors undef  M/MM/MMIMS/Net-Twitter-3.18001.tar.gz
 Net::Twitter::Role::WrapError     undef  M/MM/MMIMS/Net-Twitter-3.18001.tar.gz
 Net::Twitter::Search            3.18001  M/MM/MMIMS/Net-Twitter-3.18001.tar.gz
-Net::Twitter::Stream               0.28  R/RE/REDS/Net-Twitter-Stream-0.28.tar.gz
+Net::Twitter::Stream               0.28  R/RE/REDS/Net-Stream-0.28.tar.gz
 Net::Twitter::Stream::Follow      undef  R/RE/REDS/Net-Twitter-Stream-0.1.tgz
 Net::Twitter::Stream::Track       undef  R/RE/REDS/Net-Twitter-Stream-0.1.tgz
 Net::UCP                           0.41  N/NE/NEMUX/Net-UCP-0.41.tgz
