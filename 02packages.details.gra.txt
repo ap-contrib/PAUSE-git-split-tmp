@@ -408,7 +408,7 @@ Growl::Tiny                    0.000004  V/VV/VVU/Growl-Tiny-0.0.4.tar.gz
 GSAPI                               0.5  O/OE/OESI/GSAPI-0.5.tar.gz
 gsci                              undef  K/KA/KARASIK/Prima-1.33.tar.gz
 GSM::ARFCN                         0.04  M/MR/MRDVT/GSM-ARFCN-0.04.tar.gz
-GSM::Gnokii                        0.07  H/HM/HMBRAND/GSM-Gnokii-0.07.tgz
+GSM::Gnokii                        0.08  H/HM/HMBRAND/GSM-Gnokii-0.08.tgz
 GSM::Nbit                          0.08  T/TE/TECHCODE/GSM-Nbit-0.08.tar.gz
 GSM::SMS::Config                    0.4  J/JO/JOHANVDB/GSM-SMS-0.160.tar.gz
 GSM::SMS::Config::Default         undef  J/JO/JOHANVDB/GSM-SMS-0.163.tar.gz
