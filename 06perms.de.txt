@@ -1548,6 +1548,7 @@ Dist::Zilla::Plugin::Web::FileHeader,NPLATONOV,f
 Dist::Zilla::Plugin::Web::NPM::Package,NPLATONOV,f
 Dist::Zilla::Plugin::Web::NPM::Publish,NPLATONOV,f
 Dist::Zilla::Plugin::Web::PkgVersion,NPLATONOV,f
+Dist::Zilla::Plugin::Web::RelaxedVersion,NPLATONOV,f
 Dist::Zilla::Plugin::Web::Require,NPLATONOV,f
 Dist::Zilla::Plugin::Web::Role::FileMatcher,NPLATONOV,f
 Dist::Zilla::Plugin::Web::StripBOM,NPLATONOV,f
