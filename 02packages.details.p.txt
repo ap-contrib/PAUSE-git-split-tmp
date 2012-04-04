@@ -812,7 +812,7 @@ RDF::Lazy::Literal                0.062  V/VO/VOJ/RDF-Lazy-0.062.tar.gz
 RDF::Lazy::Nil                    0.062  V/VO/VOJ/RDF-Lazy-0.062.tar.gz
 RDF::Lazy::Node                   0.062  V/VO/VOJ/RDF-Lazy-0.062.tar.gz
 RDF::Lazy::Resource               0.062  V/VO/VOJ/RDF-Lazy-0.062.tar.gz
-RDF::LinkedData                    0.30  K/KJ/KJETILK/RDF-LinkedData-0.30.tar.gz
+RDF::LinkedData                    0.40  K/KJ/KJETILK/RDF-LinkedData-0.40.tar.gz
 RDF::LinkedData::ProviderRole      0.30  K/KJ/KJETILK/RDF-LinkedData-0.30.tar.gz
 RDF::MicroTurtle::Context         0.001  T/TO/TOBYINK/RDF-MicroTurtle-0.001.tar.gz
 RDF::MicroTurtle::Context::StatusNet 0.001  T/TO/TOBYINK/RDF-MicroTurtle-0.001.tar.gz
