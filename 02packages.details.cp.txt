@@ -303,7 +303,7 @@ CPAN::Unwind::Response             0.06  M/MS/MSCHILLI/CPAN-Unwind-0.06.tar.gz
 CPAN::Uploader                 0.103001  R/RJ/RJBS/CPAN-Uploader-0.103001.tar.gz
 CPAN::URL                           5.5  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Version                    5.5001  A/AN/ANDK/CPAN-1.9800.tar.gz
-CPAN::Visitor                     0.002  D/DA/DAGOLDEN/CPAN-Visitor-0.002.tar.gz
+CPAN::Visitor                     0.003  D/DA/DAGOLDEN/CPAN-Visitor-0.003.tar.gz
 CPAN::WAIT                         0.27  U/UL/ULPFR/CPAN-WAIT-0.27-2.tar.gz
 CPAN::Webserver                    0.01  L/LB/LBROCARD/CPAN-Webserver-0.01.tar.gz
 CPAN::WWW::Testers                 0.49  B/BA/BARBIE/CPAN-WWW-Testers-0.49.tar.gz
