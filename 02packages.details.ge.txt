@@ -333,7 +333,7 @@ Geo::IATA                         0.0.3  J/JM/JMELTZER/Geo-IATA-0.0.3.tar.gz
 Geo::ICAO                      1.100140  J/JQ/JQUELIN/Geo-ICAO-1.100140.tar.gz
 Geo::Inverse                       0.05  M/MR/MRDVT/Geo-Inverse-0.05.tar.gz
 Geo::IP                            1.40  B/BO/BORISZ/Geo-IP-1.40.tar.gz
-Geo::IP2Location                   2.10  L/LO/LOCATION/Geo-IP2Location-2.10.tar.gz
+Geo::IP2Location                   4.00  L/LO/LOCATION/Geo-IP2Location-4.00.tar.gz
 Geo::IP::PurePerl                  1.25  B/BO/BORISZ/Geo-IP-PurePerl-1.25.tar.gz
 Geo::IP::Record                   undef  B/BO/BORISZ/Geo-IP-1.40.tar.gz
 Geo::IP::RU::IpGeoBase             0.03  R/RU/RUZ/Geo-IP-RU-IpGeoBase-0.03.tar.gz
