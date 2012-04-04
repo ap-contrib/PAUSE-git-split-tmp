@@ -1633,6 +1633,8 @@ Dist::Zilla::PluginBundle::RSRCHBOY,RSRCHBOY,f
 Dist::Zilla::PluginBundle::RTHOMPSON,RTHOMPSON,f
 Dist::Zilla::PluginBundle::Rakudo,DUFF,f
 Dist::Zilla::PluginBundle::SCHWIGON,SCHWIGON,f
+Dist::Zilla::PluginBundle::SHARYANTO,SHARYANTO,f
+Dist::Zilla::PluginBundle::SHARYANTO::Task,SHARYANTO,f
 Dist::Zilla::PluginBundle::SVK,DRBEAN,f
 Dist::Zilla::PluginBundle::TestingMania,DOHERTY,m
 Dist::Zilla::PluginBundle::WOLVERIAN,WOLVERIAN,f
