@@ -1125,9 +1125,9 @@ DBD::ASAny                         1.14  S/SM/SMIRNIOS/DBD-ASAny-1.14.tar.gz
 DBD::ASAny::db                     1.14  S/SM/SMIRNIOS/DBD-ASAny-1.14.tar.gz
 DBD::ASAny::dr                     1.14  S/SM/SMIRNIOS/DBD-ASAny-1.14.tar.gz
 DBD::ASAny::st                     1.14  S/SM/SMIRNIOS/DBD-ASAny-1.14.tar.gz
-DBD::Cego                      1.001014  C/CO/COMPLX/DBD-cego-1.1.14.tar.gz
-DBD::Cego::db                  1.001014  C/CO/COMPLX/DBD-cego-1.1.14.tar.gz
-DBD::Cego::dr                  1.001014  C/CO/COMPLX/DBD-cego-1.1.14.tar.gz
+DBD::Cego                      1.001015  C/CO/COMPLX/DBD-cego-1.1.15.tar.gz
+DBD::Cego::db                  1.001015  C/CO/COMPLX/DBD-cego-1.1.15.tar.gz
+DBD::Cego::dr                  1.001015  C/CO/COMPLX/DBD-cego-1.1.15.tar.gz
 DBD::Chart                         0.82  D/DA/DARNOLD/DBD-Chart-0.82.tar.gz
 DBD::Chart::db                     0.82  D/DA/DARNOLD/DBD-Chart-0.82.tar.gz
 DBD::Chart::dr                     0.82  D/DA/DARNOLD/DBD-Chart-0.82.tar.gz
