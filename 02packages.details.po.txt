@@ -1,4 +1,4 @@
-POE::Component::IRC::Plugin::RTorrentStatus 0.16  H/HI/HINRIK/POE-Component-IRC-Plugin-RTorrentStatus-0.16.tar.gz
+POE::Component::IRC::Plugin::RTorrentStatus 0.17  H/HI/HINRIK/POE-Component-IRC-Plugin-RTorrentStatus-0.17.tar.gz
 POE::Component::IRC::Plugin::SigFail 0.001  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-SigFail-0.001.tar.gz
 POE::Component::IRC::Plugin::Syntax::Highlight::CSS 0.0101  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-Syntax-Highlight-CSS-0.0101.tar.gz
 POE::Component::IRC::Plugin::Syntax::Highlight::HTML 0.0101  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-Syntax-Highlight-HTML-0.0101.tar.gz
