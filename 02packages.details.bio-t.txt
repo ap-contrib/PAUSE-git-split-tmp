@@ -979,7 +979,7 @@ Bundle::SQL::Translator            1.00  D/DA/DARREN/Bundle-SQL-Translator-1.00.
 Bundle::Starlink::Base             0.02  B/BR/BRADC/Bundle-Starlink-Base-0.02.tar.gz
 Bundle::STBEY                       1.1  S/ST/STBEY/Bundle-STBEY-1.1.tar.gz
 Bundle::STBEY::Favourites           1.2  S/ST/STBEY/Bundle-STBEY-Favourites-1.2.tar.gz
-Bundle::SYP                         1.0  S/SY/SYP/Bundle-SYP-1.0.tar.gz
+Bundle::SYP                         1.1  S/SY/SYP/Bundle-SYP-1.1.tar.gz
 Bundle::Template::Magic           undef  D/DO/DOMIZIO/Template-Magic-1.39.tar.gz
 Bundle::Test                       1.08  S/SZ/SZABGAB/Bundle-Test-1.08.tar.gz
 Bundle::Test::SQL::Statement       1.33  R/RE/REHSACK/Bundle-Test-SQL-Statement-1.33.tar.gz
