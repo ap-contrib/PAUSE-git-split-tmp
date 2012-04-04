@@ -270,14 +270,14 @@ XML::ASX::Repeat                   0.01  A/AL/ALLENDAY/XML-ASX-0.01.tar.gz
 XML::Atom                          0.41  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::App                 0.000005  D/DM/DMUEY/XML-Atom-App-v0.0.5.tar.gz
 XML::Atom::App::Contributor    0.000005  D/DM/DMUEY/XML-Atom-App-v0.0.5.tar.gz
-XML::Atom::Atompub                undef  T/TA/TAKERU/XML-Atom-Service-v0.16.1.tar.gz
+XML::Atom::Atompub                    0  T/TA/TAKERU/XML-Atom-Service-v0.16.2.tar.gz
 XML::Atom::Base                   undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
-XML::Atom::Categories             undef  T/TA/TAKERU/XML-Atom-Service-v0.16.1.tar.gz
+XML::Atom::Categories                 0  T/TA/TAKERU/XML-Atom-Service-v0.16.2.tar.gz
 XML::Atom::Category               undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::Client                 undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
-XML::Atom::Collection             undef  T/TA/TAKERU/XML-Atom-Service-v0.16.1.tar.gz
+XML::Atom::Collection                 0  T/TA/TAKERU/XML-Atom-Service-v0.16.2.tar.gz
 XML::Atom::Content                undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
-XML::Atom::Control                undef  T/TA/TAKERU/XML-Atom-Service-v0.16.1.tar.gz
+XML::Atom::Control                    0  T/TA/TAKERU/XML-Atom-Service-v0.16.2.tar.gz
 XML::Atom::Entry                  undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::ErrorHandler           undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::Ext::Inline             0.02  P/PI/PIN/XML-Atom-Ext-Inline-0.02.tar.gz
@@ -302,7 +302,7 @@ XML::Atom::Namespace               0.41  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::OWL                    0.103  T/TO/TOBYINK/XML-Atom-OWL-0.103.tar.gz
 XML::Atom::Person                 undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::Server                 undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
-XML::Atom::Service              v0.16.1  T/TA/TAKERU/XML-Atom-Service-v0.16.1.tar.gz
+XML::Atom::Service              v0.16.2  T/TA/TAKERU/XML-Atom-Service-v0.16.2.tar.gz
 XML::Atom::SimpleFeed              0.86  A/AR/ARISTOTLE/XML-Atom-SimpleFeed-0.86.tar.gz
 XML::Atom::Stream                  0.11  M/MI/MIYAGAWA/XML-Atom-Stream-0.11.tar.gz
 XML::Atom::Stream::SAXHandler      0.11  M/MI/MIYAGAWA/XML-Atom-Stream-0.11.tar.gz
@@ -326,7 +326,7 @@ XML::Atom::Syndication::Util      undef  T/TI/TIMA/XML-Atom-Syndication-0.942.ta
 XML::Atom::Syndication::Writer    undef  T/TI/TIMA/XML-Atom-Syndication-0.942.tar.gz
 XML::Atom::Thing                  undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::Util                   undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
-XML::Atom::Workspace              undef  T/TA/TAKERU/XML-Atom-Service-v0.16.1.tar.gz
+XML::Atom::Workspace                  0  T/TA/TAKERU/XML-Atom-Service-v0.16.2.tar.gz
 XML::AutoWriter                     0.4  P/PE/PERIGRIN/XML-AutoWriter-0.4.tar.gz
 XML::Bare                          0.47  N/NI/NIGELM/XML-Bare-0.47.tar.gz
 XML::Bare::SAX::Parser             0.01  C/CO/CODECHILD/XML-Bare-SAX-Parser-0.01.tar.gz
