@@ -118,7 +118,7 @@ XML::Filter::Glossary::XBEL         0.1  A/AS/ASCOPE/XML-Filter-Glossary-0.2.tar
 XML::Filter::Hekeln                0.06  K/KR/KRAEHE/XML-Filter-Hekeln-0.06.tar.gz
 XML::Filter::Merger                 0.2  P/PE/PERIGRIN/XML-SAX-Machines-0.42.tar.gz
 XML::Filter::Mode                  0.02  R/RB/RBS/XML-Filter-Mode-0.02.tar.gz
-XML::Filter::Moose                undef  P/PE/PERIGRIN/XML-Toolkit-0.14.tar.gz
+XML::Filter::Moose                 0.15  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 XML::Filter::Namespace             1.03  S/SE/SEMANTICO/XML-Filter-Namespace-1.03.tar.gz
 XML::Filter::Normalize             0.01  H/HD/HDM/XML-Filter-Normalize-0.01.tar.gz
 XML::Filter::NSNormalise           0.04  G/GR/GRANTM/XML-Filter-NSNormalise-0.04.tar.gz
@@ -167,7 +167,7 @@ XML::Generator::DOM                 0.2  B/BH/BHOLZMAN/XML-Generator-1.04.tar.gz
 XML::Generator::DOM::util           0.2  B/BH/BHOLZMAN/XML-Generator-1.04.tar.gz
 XML::Generator::Essex            0.0001  R/RB/RBS/XML-Filter-Essex-0.01.tar.gz
 XML::Generator::final              1.04  B/BH/BHOLZMAN/XML-Generator-1.04.tar.gz
-XML::Generator::Moose             undef  P/PE/PERIGRIN/XML-Toolkit-0.14.tar.gz
+XML::Generator::Moose              0.15  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 XML::Generator::overload           1.04  B/BH/BHOLZMAN/XML-Generator-1.04.tar.gz
 XML::Generator::Pdb                 0.1  J/JO/JOHANVDB/XML-Generator-Pdb-0.1.tar.gz
 XML::Generator::PerlData           0.91  K/KH/KHAMPTON/XML-Generator-PerlData-0.91.tar.gz

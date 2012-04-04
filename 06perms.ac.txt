@@ -1,5 +1,7 @@
 Acme::Umlautify,BENNIE,m
+Acme::Unsubscribe,PERIGRIN,f
 Acme::UseStrict,TOBYINK,f
+Acme::User,PERIGRIN,f
 Acme::Util,CHOCOLATE,f
 Acme::Valid,MEMOWE,f
 Acme::VarMess,XERN,f
@@ -12,6 +14,7 @@ Acme::W,DAMEO,f
 Acme::WWW::Cyborg,SCHUBIGER,f
 Acme::Wabby,POZNICK,m
 Acme::WalkMethods,LLAP,f
+Acme::Web,PERIGRIN,f
 Acme::Web20::Validator,NAOYA,f
 Acme::Web20::Validator::Rule,NAOYA,f
 Acme::Web20::Validator::Rule::HasAnyFeeds,NAOYA,f

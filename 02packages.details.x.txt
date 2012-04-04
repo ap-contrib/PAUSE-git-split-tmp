@@ -221,6 +221,14 @@ XIRCD::Role                       undef  M/MI/MIKIHOSHI/XIRCD-0.0.1.tar.gz
 XIRCD::Server                     undef  M/MI/MIKIHOSHI/XIRCD-0.0.1.tar.gz
 XMail::Ctrl                         2.3  A/AA/AARONJJ/XMail-Ctrl-2.3.tar.gz
 XMail::Install                     1.01  R/RS/RSAVAGE/XMail-Install-1.01.tgz
+XML::AIML::Aiml                   undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XML::AIML::Category               undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XML::AIML::Li                     undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XML::AIML::Pattern                undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XML::AIML::Random                 undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XML::AIML::Srai                   undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XML::AIML::Template               undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XML::AIML::That                   undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 XML::All                           0.02  A/AU/AUDREYT/XML-All-0.02.tar.gz
 XML::Amazon                        0.12  H/HE/HEDWIG/XML-Amazon-0.12.tar.gz
 XML::Amazon::Collection           undef  H/HE/HEDWIG/XML-Amazon-0.12.tar.gz

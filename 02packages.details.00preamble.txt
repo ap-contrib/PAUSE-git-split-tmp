@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
-Line-Count:   115423
-Last-Updated: Wed, 04 Apr 2012 06:39:04 GMT
+Line-Count:   115530
+Last-Updated: Wed, 04 Apr 2012 07:47:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -263,6 +263,7 @@ Acme::Chef::Container              1.00  S/SM/SMUELLER/Acme-Chef-1.01.tar.gz
 Acme::Chef::Ingredient             1.00  S/SM/SMUELLER/Acme-Chef-1.01.tar.gz
 Acme::Chef::Recipe                 1.00  S/SM/SMUELLER/Acme-Chef-1.01.tar.gz
 Acme::ChuckNorris                   0.1  D/DM/DMUEY/Acme-ChuckNorris-0.1.tar.gz
+Acme::City                        undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Class::Std                   0.01  N/NW/NWCLARK/Acme-Class-Std-0.01.tar.gz
 Acme::Code::FreedomFighter       3.1416  G/GM/GMCCAR/Acme-Code-FreedomFighter-3.1416.tar.gz
 Acme::Code::Police              2.18281  O/OV/OVID/Acme-Code-Police-2.18281.tar.gz
@@ -270,8 +271,10 @@ Acme::Colour                       1.06  L/LB/LBROCARD/Acme-Colour-1.06.tar.gz
 Acme::Colour::Fuzzy                0.02  M/MB/MBARBON/Acme-Colour-Fuzzy-0.02.tar.gz
 Acme::ComeFrom                     0.11  A/AU/AUDREYT/Acme-ComeFrom-0.11.tar.gz
 Acme::Comment                      1.04  B/BI/BINGOS/Acme-Comment-1.04.tar.gz
+Acme::Continent                   undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Coro::Suke                   0.01  C/CH/CHIBA/Acme-Coro-Suke-0.01.tar.gz
 Acme::CorpusScrambler              0.04  S/SH/SHELLING/Acme-CorpusScrambler-0.04.tar.gz
+Acme::Country                     undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Cow::Interpreter             0.01  P/PJ/PJACKLAM/Acme-Cow-Interpreter-0.01.tar.gz
 Acme::CPAN::Testers::FAIL          0.02  B/BI/BINGOS/Acme-CPAN-Testers-FAIL-0.02.tar.gz
 Acme::CPAN::Testers::NA            0.02  B/BI/BINGOS/Acme-CPAN-Testers-NA-0.02.tar.gz
@@ -344,10 +347,12 @@ Acme::Dahut::Call                  0.03  P/PE/PERIGRIN/Acme-Dahut-Call-0.03.tar.
 Acme::Dahut::Call::Identifier     undef  P/PE/PERIGRIN/Acme-Dahut-Call-0.03.tar.gz
 Acme::Daily::Fail                  1.06  B/BI/BINGOS/Acme-Daily-Fail-1.06.tar.gz
 Acme::Damn                         0.05  I/IB/IBB/Acme-Damn-0.05.tar.gz
+Acme::Date                        undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::DateTime::Duration::Numeric  0.03  M/MI/MIYAGAWA/Acme-DateTime-Duration-Numeric-0.03.tar.gz
 Acme::Debug                        1.48  R/RF/RFOLEY/Acme-Debug-1.48.tar.gz
 Acme::DeepThoughts                 0.01  P/PO/PODMASTER/Acme-DeepThoughts-0.01.tar.gz
 Acme::DNS::Correct                  0.4  C/CR/CREIN/Acme-DNS-Correct-0.4.tar.gz
+Acme::Domain                      undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Don::t                       1.01  D/DC/DCONWAY/Acme-Don-t-1.01.tar.gz
 Acme::DonMartin                    0.09  D/DL/DLAND/Acme-DonMartin-0.09.tar.gz
 Acme::Dot                          1.10  O/OV/OVID/Acme-Dot-1.10.tar.gz
@@ -359,6 +364,7 @@ Acme::DWIM                         1.05  D/DC/DCONWAY/Acme-Bleach-1.13.tar.gz
 Acme::Echo                         0.02  D/DA/DAVIDRW/Acme-Echo-0.02.tar.gz
 Acme::EdError                      0.01  J/JM/JMATES/Acme-EdError-0.01.tar.gz
 Acme::Elk                         1.001  H/HA/HANENKAMP/Acme-Elk-1.001.tar.gz
+Acme::Email                       undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::emcA                         0.10  A/AU/AUDREYT/Acme-emcA-0.10E0.tar.gz
 Acme::Enc                      0.000001  D/DM/DMUEY/Acme-Enc-v0.0.1.tar.gz
 Acme::eng2kor                     undef  A/AA/AANOAA/Acme-eng2kor-v0.0.2.tar.gz
@@ -396,6 +402,7 @@ Acme::Greek                         1.0  J/JR/JROCKWAY/Acme-Greek-1.0.tar.gz
 Acme::Greeting                 0.000002  G/GU/GUGOD/Acme-Greeting-0.0.2.tar.gz
 Acme::Greeting::en                undef  G/GU/GUGOD/Acme-Greeting-0.0.2.tar.gz
 Acme::Grep2D                       0.01  T/TH/THECRAMPS/Acme-Grep2D-0.01.tar.gz
+Acme::Group                       undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Gtk2::Ex::Builder           0.008  K/KE/KEEDI/Acme-Gtk2-Ex-Builder-0.008.tar.gz
 Acme::GuessNumber                  0.03  I/IM/IMACAT/Acme-GuessNumber-0.03.tar.gz
 Acme::HaltingProblem               1.00  S/SH/SHEVEK/Acme-HaltingProblem-1.00.tar.gz
@@ -476,6 +483,7 @@ Acme::Lambda::Expr::UniOp         undef  G/GF/GFUJI/Acme-Lambda-Expr-0.01.tar.gz
 Acme::Lambda::Expr::Util          undef  G/GF/GFUJI/Acme-Lambda-Expr-0.01.tar.gz
 Acme::Lambda::Expr::Value         undef  G/GF/GFUJI/Acme-Lambda-Expr-0.01.tar.gz
 Acme::landmine                     1.00  D/DA/DAVIDNICO/Acme/Acme-landmine-1.00.tar.gz
+Acme::Latitude                    undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Laugh                    0.000004  P/PO/POLETTIX/Acme-Laugh-0.0.4.tar.gz
 Acme::LAUTER::DEUTSCHER            1.02  I/IA/IAN/Acme-LAUTER-DEUTSCHER-1.02.tar.gz
 Acme::LeetSpeak                    0.01  J/JM/JMADLER/Acme-LeetSpeak-0.01.tar.gz
@@ -488,7 +496,9 @@ Acme::Lingua::Strine::Perl         0.54  S/SI/SIMONW/Acme-Lingua-Strine-Perl-0.5
 Acme::Lingua::ZH::Remix            0.96  G/GU/GUGOD/Acme-Lingua-ZH-Remix-0.96.tar.gz
 Acme::Llama                       undef  A/AL/ALYX/Acme-Llama-0.42.tar.gz
 Acme::Locals                   0.001001  A/AS/ASKSH/Acme-Locals-0.0.1.tar.gz
+Acme::Location                    undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::LOLCAT                   0.000005  K/KC/KCOWGILL/Acme-LOLCAT-0.0.5.tar.gz
+Acme::Longitude                   undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Lou                          0.03  T/TO/TOMITA/Acme-Lou-0.03.tar.gz
 Acme::Lou::Effect                 undef  T/TO/TOMITA/Acme-Lou-0.03.tar.gz
 Acme::Madness                      1.00  U/UR/URI/Acme-Madness-1.00.tar.gz
@@ -497,6 +507,7 @@ Acme::Magic::Pony                  0.03  J/JL/JLAVALLEE/Acme-Magic-Pony-0.03.tar
 Acme::Magpie                       0.06  R/RC/RCLAMP/Acme-Magpie-0.06.tar.gz
 Acme::Magpie::l33t                undef  R/RC/RCLAMP/Acme-Magpie-0.06.tar.gz
 Acme::Mahjong::Rule::CC            0.22  T/TR/TROTSKEY/Acme-Mahjong-Rule-CC-0.22.tar.gz
+Acme::Mailing_list                undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::ManekiNeko                   0.03  G/GM/GMCCAR/Acme-ManekiNeko-0.03.tar.gz
 Acme::Math::Google                 0.02  D/DA/DANKOGAI/Acme-Math-Google-0.02.tar.gz
 Acme::MathProfessor::RandomPrime 2009121001  A/AB/ABIGAIL/Acme-MathProfessor-RandomPrime-2009121001.tar.gz
@@ -689,6 +700,7 @@ Acme::MUDLike::player              0.02  S/SW/SWALTERS/Acme-MUDLike-0.02.tar.gz
 Acme::MUDLike::players             0.02  S/SW/SWALTERS/Acme-MUDLike-0.02.tar.gz
 Acme::MUDLike::room                0.02  S/SW/SWALTERS/Acme-MUDLike-0.02.tar.gz
 Acme::NabeAtzz                     0.01  Y/YA/YAPPO/Acme-NabeAtzz-0.01.tar.gz
+Acme::Name                        undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Nest                         0.02  L/LU/LUKEROSS/Acme-Nest-0.02.tar.gz
 Acme::Net::OdiousPlan             0.001  J/JE/JESSE/Acme-Net-OdiousPlan-0.001.tar.gz
 Acme::NewMath                      0.01  S/ST/STEVIEO/Acme-NewMath-0.01.tar.gz
@@ -715,6 +727,7 @@ Acme::Orange                       0.03  N/NW/NWCLARK/Acme-Orange-0.03.tar.gz
 Acme::OSDc                         1.01  P/PJ/PJF/Acme-OSDc-1.01.tar.gz
 Acme::Padre::PlayCode              0.13  F/FA/FAYLAND/Acme-Padre-PlayCode-0.13.tar.gz
 Acme::Palindrome                    0.1  C/CW/CWEST/Acme-Palindrome-0.1.tar.gz
+Acme::Pause_id                    undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::PDF::rescale                  0.2  H/HE/HERVE/Acme-PDF-rescale-0.2.tar.gz
 Acme::PERL::Autocorrect        1.20110629  C/CH/CHROMATIC/Acme-PERL-Autocorrect-1.20110629.tar.gz
 Acme::Perl::VM                    0.006  G/GF/GFUJI/Acme-Perl-VM-0.006.tar.gz
@@ -742,6 +755,7 @@ Acme::Perl::VM::Scope::Scalar     undef  G/GF/GFUJI/Acme-Perl-VM-0.006.tar.gz
 Acme::Perl::VM::Scope::Scalar::Magical undef  G/GF/GFUJI/Acme-Perl-VM-0.006.tar.gz
 Acme::Perl::VM::Scope::Tmps       undef  G/GF/GFUJI/Acme-Perl-VM-0.006.tar.gz
 Acme::Perl::VM::Scope::Value      undef  G/GF/GFUJI/Acme-Perl-VM-0.006.tar.gz
+Acme::Perl_mongers                undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::PerlML                       1.00  A/AD/ADAMK/Acme-PerlML-1.00.tar.gz
 Acme::PerlTidy                     0.02  X/XE/XERN/Acme-PerlTidy-0.02.tar.gz
 Acme::PETEK::Testkit               1.00  P/PE/PETEK/Acme-PETEK-Testkit-1.00.tar.gz
@@ -852,6 +866,7 @@ Acme::Rant                          0.1  C/CW/CWEST/Acme-Rant-0.1.tar.gz
 Acme::Rautavistic::Sort            0.01  S/SC/SCHWIGON/acme/Acme-Rautavistic-Sort-0.01.tar.gz
 Acme::RedShirt                      0.1  T/TM/TMURRAY/Acme-RedShirt-0.1.tar.gz
 Acme::Ref                          0.03  R/RL/RLZWART/Acme-Ref-0.03.tar.gz
+Acme::Region                      undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Remote::Strangulation::Protocol 0.03  T/TS/TSTANLEY/Acme-Remote-Strangulation-Protocol-0.03.tar.gz
 Acme::RemoteINC                    0.15  B/BI/BILLH/Acme-RemoteINC-0.15.tar.gz
 ACME::Require::Require         0.000001  R/RL/RLB/ACME-Require-Require-v0.0.1.tar.gz
@@ -909,6 +924,7 @@ Acme::StringFormat                 0.04  G/GF/GFUJI/Acme-StringFormat-0.04.tar.g
 Acme::Study::OS::DateLocales       0.03  S/SR/SREZIC/Acme-Study-OS-DateLocales-0.03.tar.gz
 Acme::Study::Perl              0.000002  A/AN/ANDK/Acme-Study-Perl-0.0.2.tar.gz
 Acme::Sub::Parms                   1.02  S/SN/SNOWHARE/Acme-Sub-Parms-1.02.tar.gz
+Acme::Subscribe                   undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::SubstituteSubs               0.02  S/SW/SWALTERS/Acme-SubstituteSubs-0.02.tar.gz
 Acme::SuperCollider::Programming   0.02  A/AD/ADAMK/Acme-SuperCollider-Programming-0.02.tar.gz
 Acme::SvGROW                       0.03  D/DA/DAVIDNICO/Acme/Acme-SvGROW-0.03.tar.gz
@@ -942,5 +958,6 @@ Acme::Time::Donut                     1  R/RB/RBOW/Acme-Time-Asparagus-1.12.tar.
 Acme::Time::FooClock               1.10  R/RB/RBOW/Acme-Time-Asparagus-1.12.tar.gz
 Acme::Tools                        0.13  K/KJ/KJETIL/Acme-Tools-0.13.tar.gz
 Acme::Tools::BloomFilter           0.13  K/KJ/KJETIL/Acme-Tools-0.13.tar.gz
+Acme::Tsar                        undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Turing                       0.02  G/GR/GROMMEL/Acme-Turing-0.02.tar.gz
 Acme::Ukrop                        0.03  K/KA/KARASIK/Acme-Ukrop-0.03.tar.gz

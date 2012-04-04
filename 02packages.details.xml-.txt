@@ -482,6 +482,15 @@ XMLRPC::Transport::POP3::Server   0.714  M/MK/MKUTTER/SOAP-Lite-0.714.tar.gz
 XMLRPC::Transport::TCP            0.714  M/MK/MKUTTER/SOAP-Lite-0.714.tar.gz
 XMLRPC::Transport::TCP::Server    0.714  M/MK/MKUTTER/SOAP-Lite-0.714.tar.gz
 XMLRPCTransaction                  0.05  M/MA/MAHEX/POE-Component-Server-XMLRPC-0.05.tar.gz
+XMLTK::XSPF                       undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::Album                undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::Image                undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::Location             undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::Meta                 undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::Playlist             undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::Title                undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::Track                undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
+XMLTK::XSPF::TrackList            undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 XMLTV::Ask                        undef  E/ED/EDAVIS/xmltv-0.5.33.tar.gz
 XMLTV::AskTerm                    undef  E/ED/EDAVIS/xmltv-0.5.33.tar.gz
 XMLTV::AskTk                      undef  E/ED/EDAVIS/xmltv-0.5.33.tar.gz
