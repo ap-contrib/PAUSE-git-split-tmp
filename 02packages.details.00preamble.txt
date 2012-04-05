@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   115595
-Last-Updated: Thu, 05 Apr 2012 21:31:03 GMT
+Last-Updated: Thu, 05 Apr 2012 22:23:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -303,7 +303,7 @@ Acme::CPANAuthors::Female          0.02  S/SH/SHARYANTO/Acme-CPANAuthors-Female-
 Acme::CPANAuthors::French          0.09  S/SA/SAPER/Acme-CPANAuthors-French-0.09.tar.gz
 Acme::CPANAuthors::GeekHouse       0.02  K/KE/KENTARO/Acme-CPANAuthors-GeekHouse-0.02.tar.gz
 Acme::CPANAuthors::German          0.04  R/RB/RBO/Acme-CPANAuthors-German-0.04.tar.gz
-Acme::CPANAuthors::GitHub          0.05  G/GR/GRAY/Acme-CPANAuthors-GitHub-0.05.tar.gz
+Acme::CPANAuthors::GitHub          0.06  G/GR/GRAY/Acme-CPANAuthors-GitHub-0.06.tar.gz
 Acme::CPANAuthors::Icelandic       0.04  H/HI/HINRIK/Acme-CPANAuthors-Icelandic-0.04.tar.gz
 Acme::CPANAuthors::India           0.05  S/SH/SHANTANU/Acme-CPANAuthors-India-0.05.tar.gz
 Acme::CPANAuthors::Indonesian      0.02  S/SH/SHARYANTO/Acme-CPANAuthors-Indonesian-0.02.tar.gz
