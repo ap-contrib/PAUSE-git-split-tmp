@@ -384,6 +384,7 @@ Pod::Index::Builder,ITUB,f
 Pod::Index::Entry,ITUB,f
 Pod::Index::Extract,ITUB,f
 Pod::Index::Search,ITUB,f
+Pod::Inherit,BBYRD,c
 Pod::Inherit,JMASTROS,f
 Pod::Inherit,RIBASUSHI,c
 Pod::InputObjects,ADAMK,c
