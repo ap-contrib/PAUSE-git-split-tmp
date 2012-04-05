@@ -1157,6 +1157,7 @@ Dist::Zilla::Plugin::BuildSelf,LEONT,f
 Dist::Zilla::Plugin::BumpVersion,RJBS,f
 Dist::Zilla::Plugin::BumpVersionFromGit,DAGOLDEN,f
 Dist::Zilla::Plugin::CPANChangesTests,RWSTAUNER,m
+Dist::Zilla::Plugin::CPANFile,RJBS,f
 Dist::Zilla::Plugin::CSJEWELL::AuthorTest,CSJEWELL,f
 Dist::Zilla::Plugin::CSJEWELL::BeforeBuild,CSJEWELL,f
 Dist::Zilla::Plugin::CSJEWELL::DotFileFix,CSJEWELL,f
