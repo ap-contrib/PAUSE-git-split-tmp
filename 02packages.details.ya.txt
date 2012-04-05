@@ -627,6 +627,7 @@ ZMQ::Constants::V2_1_11           undef  D/DM/DMAKI/ZMQ-Constants-1.00.tar.gz
 ZMQ::Constants::V3_1_1            undef  D/DM/DMAKI/ZMQ-Constants-1.00.tar.gz
 ZMQ::Constants::V3_1_2            undef  D/DM/DMAKI/ZMQ-Constants-1.00.tar.gz
 ZMQ::Context                      undef  D/DM/DMAKI/ZMQ-1.00.tar.gz
+ZMQ::CZMQ                          1.00  D/DM/DMAKI/ZMQ-CZMQ-1.00.tar.gz
 ZMQ::Declare                       0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::Application          0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::Constants            0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
