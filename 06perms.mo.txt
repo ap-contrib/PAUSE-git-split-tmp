@@ -180,6 +180,7 @@ Mongoose::Role::Expander,RODRIGO,f
 Mongrel,AWNCORP,f
 Monit::HTTP,PALLOTRON,m
 Monit::HTTP::API,PALLOTRON,f
+Monitis,DKAMENOV,c
 Monitis,YKO,m
 Monitis::Agents,YKO,f
 Monitis::CPU,YKO,f
