@@ -385,6 +385,7 @@ Pod::Index::Entry,ITUB,f
 Pod::Index::Extract,ITUB,f
 Pod::Index::Search,ITUB,f
 Pod::Inherit,JMASTROS,f
+Pod::Inherit,RIBASUSHI,c
 Pod::InputObjects,ADAMK,c
 Pod::InputObjects,BRADAPP,c
 Pod::InputObjects,MAREKR,f
