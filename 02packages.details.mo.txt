@@ -763,7 +763,7 @@ Moose::Meta::Attribute::Custom::Trait::TAEB::GoodStatus undef  S/SA/SARTAK/TAEB-
 Moose::Meta::Attribute::Custom::Trait::TAEB::Persistent undef  S/SA/SARTAK/TAEB-0.03.tar.gz
 Moose::Meta::Attribute::Custom::Trait::TreeInherit 0.04  C/CJ/CJM/MooseX-AttributeTree-0.04.tar.gz
 Moose::Meta::Attribute::Custom::Trait::XML 0.15  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
-Moose::Meta::Attribute::Custom::Trait::XmlField 0.33  M/ME/MERIXZON/WWW-Google-Contacts-0.33.tar.gz
+Moose::Meta::Attribute::Custom::Trait::XmlField 0.34  M/ME/MERIXZON/WWW-Google-Contacts-0.34.tar.gz
 Moose::Meta::Attribute::Custom::Trait::XPathObject 0.001001  R/RO/ROBINS/XML-Rabbit-0.1.1.tar.gz
 Moose::Meta::Attribute::Custom::Trait::XPathObjectList 0.001001  R/RO/ROBINS/XML-Rabbit-0.1.1.tar.gz
 Moose::Meta::Attribute::Custom::Trait::XPathObjectMap 0.001001  R/RO/ROBINS/XML-Rabbit-0.1.1.tar.gz
