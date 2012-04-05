@@ -771,7 +771,7 @@ Perlbal::Fields                   undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
 Perlbal::HTTPHeaders              undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
 Perlbal::ManageCommand            undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
 Perlbal::Plugin::AccessControl    undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
-Perlbal::Plugin::Addheader         0.01  B/BS/BSM/Perlbal-Plugin-Addheader-0.01.tar.gz
+Perlbal::Plugin::Addheader         0.02  B/BS/BSM/Perlbal-Plugin-Addheader-0.02.tar.gz
 Perlbal::Plugin::AutoRemoveLeadingDir undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
 Perlbal::Plugin::BackendHeaders   undef  V/VI/VICTORI/perlbal-plugin-backendheaders-0.02.tgz
 Perlbal::Plugin::Cgilike          undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
