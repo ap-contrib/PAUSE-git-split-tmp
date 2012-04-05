@@ -621,6 +621,10 @@ ZM::Session                    0.002001  M/MA/MAXICO/ZM-Session-0.2.1.tar.gz
 ZM::SSI                             0.0  M/MA/MAXICO/ZM-SSI-0.0.5.tar.gz
 ZM::Template                   0.007002  M/MA/MAXICO/ZM-Template-0.7.2.tar.gz
 ZML                            0.005004  V/VV/VVELOX/ZML-0.5.4.tar.gz
+ZMQ::Constants                     1.00  D/DM/DMAKI/ZMQ-Constants-1.00.tar.gz
+ZMQ::Constants::V2_1_11           undef  D/DM/DMAKI/ZMQ-Constants-1.00.tar.gz
+ZMQ::Constants::V3_1_1            undef  D/DM/DMAKI/ZMQ-Constants-1.00.tar.gz
+ZMQ::Constants::V3_1_2            undef  D/DM/DMAKI/ZMQ-Constants-1.00.tar.gz
 ZMQ::Declare                       0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::Application          0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::Constants            0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
