@@ -28,6 +28,7 @@ ZM::SSI,MAXICO,f
 ZM::Session,MAXICO,f
 ZM::Template,MAXICO,f
 ZML,VVELOX,f
+ZMQ,DMAKI,f
 ZMQ::AE,MDORMAN,f
 ZMQ::AnyEvent,MDORMAN,f
 ZMQ::AnyEvent::DEALER,MDORMAN,f
@@ -44,6 +45,7 @@ ZMQ::Constants,DMAKI,f
 ZMQ::Constants::V2_1_11,DMAKI,f
 ZMQ::Constants::V3_1_1,DMAKI,f
 ZMQ::Constants::V3_1_2,DMAKI,f
+ZMQ::Context,DMAKI,f
 ZMQ::Declare,SMUELLER,f
 ZMQ::Declare::Application,SMUELLER,f
 ZMQ::Declare::Constants,SMUELLER,f
@@ -58,6 +60,9 @@ ZMQ::Declare::ZDCF::Encoder::JSON,SMUELLER,f
 ZMQ::Declare::ZDCF::Encoder::Storable,SMUELLER,f
 ZMQ::Declare::ZDCF::Validator,SMUELLER,f
 ZMQ::LibZMQ2,DMAKI,f
+ZMQ::Message,DMAKI,f
+ZMQ::Serializer,DMAKI,f
+ZMQ::Socket,DMAKI,f
 ZOOM,MIRK,f
 ZOOM::CCL::Error,MIRK,f
 ZOOM::Connection,MIRK,f
