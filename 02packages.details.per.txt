@@ -128,7 +128,7 @@ PerlIO::via::json                  0.01  S/SL/SLANNING/PerlIO-via-json-0.01.tar.
 PerlIO::via::LAUTER_DEUTSCHER      1.02  I/IA/IAN/Acme-LAUTER-DEUTSCHER-1.02.tar.gz
 PerlIO::via::LineNumber            0.04  E/EL/ELIZABETH/PerlIO-via-LineNumber-0.04.tar.gz
 PerlIO::via::Logger                1.01  A/AK/AKAPLAN/PerlIO-via-Logger-1.01.tar.gz
-PerlIO::via::MD5                   0.06  E/EL/ELIZABETH/PerlIO-via-MD5-0.06.tar.gz
+PerlIO::via::MD5                   0.07  E/EL/ELIZABETH/PerlIO-via-MD5-0.07.tar.gz
 PerlIO::via::PinyinConvert         0.01  X/XE/XERN/Lingua-ZH-PinyinConvert-0.05.tar.gz
 PerlIO::via::Pipe              1.100860  M/MA/MARCEL/PerlIO-via-Pipe-1.100860.tar.gz
 PerlIO::via::Pod                   0.04  E/EL/ELIZABETH/PerlIO-via-Pod-0.04.tar.gz
