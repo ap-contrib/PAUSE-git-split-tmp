@@ -57,6 +57,7 @@ ZMQ::Declare::ZDCF::Encoder::DumpEval,SMUELLER,f
 ZMQ::Declare::ZDCF::Encoder::JSON,SMUELLER,f
 ZMQ::Declare::ZDCF::Encoder::Storable,SMUELLER,f
 ZMQ::Declare::ZDCF::Validator,SMUELLER,f
+ZMQ::LibZMQ2,DMAKI,f
 ZOOM,MIRK,f
 ZOOM::CCL::Error,MIRK,f
 ZOOM::Connection,MIRK,f

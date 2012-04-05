@@ -638,6 +638,7 @@ ZMQ::Declare::ZDCF::Encoder::DumpEval 0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.g
 ZMQ::Declare::ZDCF::Encoder::JSON  0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::ZDCF::Encoder::Storable 0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::ZDCF::Validator      0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
+ZMQ::LibZMQ2                       1.00  D/DM/DMAKI/ZMQ-LibZMQ2-1.00.tar.gz
 ZmqMessage                        undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
 ZmqSocket                         undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
 Zodiac::Chinese                       1  C/CA/CAVAC/Zodiac-Chinese-1.tar.gz
