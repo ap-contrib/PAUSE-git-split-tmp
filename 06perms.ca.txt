@@ -1259,6 +1259,7 @@ Catalyst::Plugin::Email::Japanese,TYPESTER,f
 Catalyst::Plugin::Email::Page,GHENRY,m
 Catalyst::Plugin::EmailMulti,BAYSIDE,f
 Catalyst::Plugin::EmailValid,FRANCKC,f
+Catalyst::Plugin::EnableMiddleware,JJNAPIORK,f
 Catalyst::Plugin::EnhancedParams,NILSONSFJ,f
 Catalyst::Plugin::ErrorCatcher,CHISEL,f
 Catalyst::Plugin::ErrorCatcher::ActiveMQ::Stomp,JTANG,f
