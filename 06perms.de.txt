@@ -1236,7 +1236,8 @@ Dist::Zilla::Plugin::Git::Commit,JQUELIN,f
 Dist::Zilla::Plugin::Git::CommitBuild,JQUELIN,f
 Dist::Zilla::Plugin::Git::DescribeVersion,RWSTAUNER,f
 Dist::Zilla::Plugin::Git::ExcludeUntracked,RHOELZ,f
-Dist::Zilla::Plugin::Git::GatherDir,SSCAFFIDI,f
+Dist::Zilla::Plugin::Git::GatherDir,JQUELIN,f
+Dist::Zilla::Plugin::Git::GatherDir,SSCAFFIDI,c
 Dist::Zilla::Plugin::Git::Init,JQUELIN,f
 Dist::Zilla::Plugin::Git::NextVersion,JQUELIN,f
 Dist::Zilla::Plugin::Git::Push,JQUELIN,f
