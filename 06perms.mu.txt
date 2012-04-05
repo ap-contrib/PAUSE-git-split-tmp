@@ -196,6 +196,7 @@ MyApp::Automata::Static,VTI,c
 MyApp::Automata::TimerOff,VTI,c
 MyApp::Automata::TimerOn,VTI,c
 MyApp::Automata::User,VTI,c
+MyApp::Class,AWNCORP,f
 MyApp::Context,VTI,c
 MyApp::Controller,ZBY,c
 MyApp::Controller::About,SMAN,f
