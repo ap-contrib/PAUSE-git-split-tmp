@@ -191,7 +191,7 @@ App::TailRabbit                   0.003  B/BO/BOBTFISH/App-TailRabbit-0.003.tar.
 App::TailRabbit::Convertor::Null  undef  B/BO/BOBTFISH/App-TailRabbit-0.003.tar.gz
 App::TailRabbit::Growl            0.001  B/BO/BOBTFISH/App-TailRabbit-Growl-0.001.tar.gz
 App::Tak                          undef  M/MS/MSTROUT/Tak-0.001003.tar.gz
-App::TarColor                     0.006  M/MS/MSABRAMO/App-TarColor-0.007.tar.gz
+App::TarColor                     0.008  M/MS/MSABRAMO/App-TarColor-0.008.tar.gz
 App::TaskBuilder                  1.000  H/HD/HDP/App-TaskBuilder-1.000.tar.gz
 App::TemplateCMD                 v0.1.1  I/IV/IVANWILLS/App-TemplateCMD-v0.1.1.tar.gz
 App::TemplateCMD::Command        v0.1.0  I/IV/IVANWILLS/App-TemplateCMD-v0.1.1.tar.gz
