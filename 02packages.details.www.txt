@@ -319,9 +319,6 @@ WWW::Scraper::ZIPplus4             1.09  G/GL/GLENNWOOD/Scraper-3.05.tar.gz
 WWW::Scripter                     0.028  S/SP/SPROUT/WWW-Scripter-0.028.tar.gz
 WWW::Scripter'_about_protocol     0.028  S/SP/SPROUT/WWW-Scripter-0.028.tar.gz
 WWW::Scripter'Location            0.028  S/SP/SPROUT/WWW-Scripter-0.028.tar.gz
-WWW::Scripter::_Mechanize          1.66  S/SP/SPROUT/WWW-Scripter-0.023.tar.gz
-WWW::Scripter::_Mechanize::Image  undef  S/SP/SPROUT/WWW-Scripter-0.023.tar.gz
-WWW::Scripter::_Mechanize::Link   undef  S/SP/SPROUT/WWW-Scripter-0.023.tar.gz
 WWW::Scripter::Frames             0.028  S/SP/SPROUT/WWW-Scripter-0.028.tar.gz
 WWW::Scripter::History            0.028  S/SP/SPROUT/WWW-Scripter-0.028.tar.gz
 WWW::Scripter::Image              0.028  S/SP/SPROUT/WWW-Scripter-0.028.tar.gz

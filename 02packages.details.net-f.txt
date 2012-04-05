@@ -749,9 +749,6 @@ Net::IPTrie::Node                   0.7  C/CV/CVICENTE/Net-IPTrie-0.7.tar.gz
 Net::IPv4Addr                      0.10  F/FR/FRAJULAC/Net-IPv4Addr-0.10.tar.gz
 Net::IPv6Addr                       0.2  T/TM/TMONROE/Net-IPv6Addr-0.2.tar.gz
 Net::IPv6Address                   0.02  J/JJ/JJMB/Net-IPv6Address-0.02.tar.gz
-Net::Irate                          0.3  D/DT/DTHAY/Net-Irate-0.3.tar.gz
-Net::Irate::Downloader            undef  D/DT/DTHAY/Net-Irate-0.3.tar.gz
-Net::Irate::Track                 undef  D/DT/DTHAY/Net-Irate-0.3.tar.gz
 Net::IRC                           0.79  A/AP/APEIRON/Net-IRC-0.79.tar.gz
 Net::IRC2                          0.27  K/KN/KNOTTY/Net-IRC2-0.27.tar.gz
 Net::IRC2::Chan                    0.27  K/KN/KNOTTY/Net-IRC2-0.27.tar.gz
