@@ -109,7 +109,7 @@ PerlIO::Util                       0.72  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::via                        0.12  F/FL/FLORA/perl-5.15.4.tar.gz
 PerlIO::via::ANSIColor             0.05  M/MA/MASANORIH/PerlIO-via-ANSIColor-0.05.tar.gz
 PerlIO::via::Babelfish             0.01  X/XE/XERN/PerlIO-via-Babelfish-0.01.tar.gz
-PerlIO::via::Base64                0.07  E/EL/ELIZABETH/PerlIO-via-Base64-0.07.tar.gz
+PerlIO::via::Base64                0.08  E/EL/ELIZABETH/PerlIO-via-Base64-0.08.tar.gz
 PerlIO::via::Bastardize            0.01  X/XE/XERN/PerlIO-via-Bastardize-0.01.tar.gz
 PerlIO::via::Bzip2                 0.02  A/AR/ARJEN/PerlIO-via-Bzip2-0.02.tar.gz
 PerlIO::via::CBC                   0.08  E/ES/ESSKAR/PerlIO-via-CBC-0.08.tar.gz
