@@ -123,7 +123,7 @@ PerlIO::via::EscStatus::Parser       10  K/KR/KRYDE/PerlIO-via-EscStatus-10.tar.
 PerlIO::via::EscStatus::ShowAll      10  K/KR/KRYDE/PerlIO-via-EscStatus-10.tar.gz
 PerlIO::via::EscStatus::ShowNone     10  K/KR/KRYDE/PerlIO-via-EscStatus-10.tar.gz
 PerlIO::via::gzip                 0.021  M/MA/MAJENSEN/PerlIO-via-gzip-0.021.tar.gz
-PerlIO::via::Include               0.03  E/EL/ELIZABETH/PerlIO-via-Include-0.03.tar.gz
+PerlIO::via::Include               0.04  E/EL/ELIZABETH/PerlIO-via-Include-0.04.tar.gz
 PerlIO::via::json                  0.01  S/SL/SLANNING/PerlIO-via-json-0.01.tar.gz
 PerlIO::via::LAUTER_DEUTSCHER      1.02  I/IA/IAN/Acme-LAUTER-DEUTSCHER-1.02.tar.gz
 PerlIO::via::LineNumber            0.03  E/EL/ELIZABETH/PerlIO-via-LineNumber-0.03.tar.gz
