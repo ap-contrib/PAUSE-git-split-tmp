@@ -41,6 +41,7 @@ ZMQ::AnyEvent::ROUTER,MDORMAN,f
 ZMQ::AnyEvent::Role::Receiver,MDORMAN,f
 ZMQ::AnyEvent::Role::Sender,MDORMAN,f
 ZMQ::AnyEvent::SUB,MDORMAN,f
+ZMQ::CZMQ,DMAKI,f
 ZMQ::Constants,DMAKI,f
 ZMQ::Constants::V2_1_11,DMAKI,f
 ZMQ::Constants::V3_1_1,DMAKI,f
