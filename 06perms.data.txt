@@ -969,6 +969,7 @@ Data::Password::Entropy::Old,STEFANOS,f
 Data::Password::Filter,MANWAR,m
 Data::Password::Filter::Dictionary,MANWAR,f
 Data::Password::Manager,MIKER,f
+Data::Password::passwdqc,SHERWIN,f
 Data::Path,SCHRIECK,f
 Data::Path,ZAPHAR,c
 Data::Peek,HMBRAND,m
