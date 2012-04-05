@@ -373,6 +373,7 @@ Books::Result::Book,PSHANGOV,f
 Books::Result::BookGenre,PSHANGOV,f
 Books::Result::Genre,PSHANGOV,f
 Bool,KHAREC,f
+Boolean::String,EVERYBODY,f
 BooleanLiteral,PERRAD,f
 BooleanType,PERRAD,f
 Boost::Graph,DBURDICK,m

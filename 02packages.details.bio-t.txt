@@ -291,6 +291,7 @@ Bookmarks::Opera                  undef  C/CO/COSIMO/Bookmarks-Parser-0.07.tar.g
 Bookmarks::Parser                  0.07  C/CO/COSIMO/Bookmarks-Parser-0.07.tar.gz
 Bookmarks::XML                    undef  C/CO/COSIMO/Bookmarks-Parser-0.07.tar.gz
 boolean                            0.28  I/IN/INGY/boolean-0.28.tar.gz
+Boolean::String                   undef  E/EV/EVERYBODY/Boolean-String-0.01.tar.gz
 BooleanLiteral                     2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 BooleanType                        2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Boost::Graph                        1.4  D/DB/DBURDICK/BoostGraph/Boost-Graph-1.4.tar.gz
