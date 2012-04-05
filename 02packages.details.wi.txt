@@ -472,6 +472,7 @@ Win32::ShellExt::QueryInfo::Zip     0.1  J/JB/JBNIVOIT/Win32-ShellExt-0.1.zip
 Win32::ShellExt::Search             0.1  J/JB/JBNIVOIT/Win32-ShellExt-0.1.zip
 Win32::ShellExt::Split              0.1  J/JB/JBNIVOIT/Win32-ShellExt-0.1.zip
 Win32::ShellExt::Tgz                0.1  J/JB/JBNIVOIT/Win32-ShellExt-0.1.zip
+Win32::ShellQuote              0.001000  H/HA/HAARG/Win32-ShellQuote-0.001000.tar.gz
 Win32::Shortcut                    0.07  J/JD/JDB/Win32-Shortcut-0.07.tar.gz
 Win32::ShutDown                    0.01  C/CD/CDRAKE/Win32-ShutDown-0.01.tar.gz
 Win32::SimpleProcess              undef  T/TE/TEDK/Win32/SimpleProcess/SimpleProcess_1.0.zip
