@@ -1188,6 +1188,8 @@ Data::Vitals::Util,ADAMK,f
 Data::Vitals::Waist,ADAMK,f
 Data::Walk,GUIDO,f
 Data::Walk::Extracted,JANDREW,m
+Data::Walk::Print,JANDREW,m
+Data::Walk::Prune,JANDREW,m
 Data::Walker,JNOLAN,m
 Data::Webalizer::Hist,YORHEL,f
 Data::WeightedRoundRobin,XAICRON,f
