@@ -95,7 +95,7 @@ PerlIO::flock                     undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::fse                        0.02  G/GF/GFUJI/PerlIO-fse-0.02.tar.gz
 PerlIO::gzip                       0.18  N/NW/NWCLARK/PerlIO-gzip-0.18.tar.gz
 PerlIO::if                        0.003  L/LE/LEONT/PerlIO-if-0.003.tar.gz
-PerlIO::Layers                    0.009  L/LE/LEONT/PerlIO-Layers-0.009.tar.gz
+PerlIO::Layers                    0.010  L/LE/LEONT/PerlIO-Layers-0.010.tar.gz
 PerlIO::locale                     0.08  R/RG/RGARCIA/PerlIO-locale-0.08.tar.gz
 PerlIO::mmap                      0.010  C/CO/CORION/perl-5.15.8.tar.gz
 PerlIO::OnSearchIO                 0.01  R/RK/RKIES/onsearch-0.99.tar.gz
