@@ -835,6 +835,7 @@ Webservice::InterMine::SortOrder,INTERMINE,f
 Webservice::InterMine::TemplateConstraintFactory,INTERMINE,f
 Webservice::InterMine::TemplateFactory,INTERMINE,f
 Webservice::InterMine::Types,INTERMINE,f
+Webservice::InterMine::User,INTERMINE,f
 Webservice::Tesco::API,WBASSON,m
 Webservice::Vtiger,MONSENHOR,m
 Webservice::Yandex::Suggest,STEALTHY,m

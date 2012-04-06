@@ -227,6 +227,7 @@ WWW::Shorten::TinyURL::RU,KSURI,f
 WWW::Shorten::Tinylink,DAVECROSS,f
 WWW::Shorten::URLchen,DATA,m
 WWW::Shorten::URLjr,DAVECROSS,f
+WWW::Shorten::UserAgent,DAVECROSS,f
 WWW::Shorten::V3,DAVECROSS,f
 WWW::Shorten::VGd,DOHERTY,f
 WWW::Shorten::Yahooit,CWIMMER,f
