@@ -372,6 +372,7 @@ Catalyst::Plugin::Session::Store::Memcached::Fast 0.02  B/BW/BWIZARD/Catalyst-Pl
 Catalyst::Plugin::Session::Store::MongoDB 0.02  S/SV/SVOELKEL/Catalyst-Plugin-Session-Store-MongoDB-0.02.tar.gz
 Catalyst::Plugin::Session::Store::PSGI 0.000001  C/CH/CHISEL/Catalyst-Plugin-Session-PSGI-0.0.1.tar.gz
 Catalyst::Plugin::Session::Store::Redis 0.05  G/GP/GPHAT/Catalyst-Plugin-Session-Store-Redis-0.05.tar.gz
+Catalyst::Plugin::Session::Store::TestMemcached 0.001  J/JJ/JJNAPIORK/Catalyst-Plugin-Session-Store-TestMemcached-0.001.tar.gz
 Catalyst::Plugin::Session::Test::Store 123  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.34.tar.gz
 Catalyst::Plugin::SessionStateTest  123  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.20.tar.gz
 Catalyst::Plugin::Setenv           0.03  M/MR/MRAMBERG/Catalyst-Plugin-Setenv-0.03.tar.gz
