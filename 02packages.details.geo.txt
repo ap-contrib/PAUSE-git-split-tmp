@@ -385,6 +385,9 @@ Gitalist::Git::CollectionOfRepositories::FromDirectory undef  B/BR/BROQ/Gitalist
 Gitalist::Git::CollectionOfRepositories::FromDirectory::WhiteList undef  B/BR/BROQ/Gitalist-0.003009.tar.gz
 Gitalist::Git::CollectionOfRepositories::FromDirectoryRecursive undef  B/BR/BROQ/Gitalist-0.003009.tar.gz
 Gitalist::Git::CollectionOfRepositories::FromListOfDirectories undef  B/BR/BROQ/Gitalist-0.003009.tar.gz
+Gitalist::Git::CollectionOfRepositories::Gitolite 0.002  H/HA/HALKEYE/Gitalist-Git-CollectionOfRepositories-Gitolite-0.002.tar.gz
+Gitalist::Git::CollectionOfRepositories::Gitolite::Collection 0.002  H/HA/HALKEYE/Gitalist-Git-CollectionOfRepositories-Gitolite-0.002.tar.gz
+Gitalist::Git::CollectionOfRepositories::Gitolite::Impl 0.002  H/HA/HALKEYE/Gitalist-Git-CollectionOfRepositories-Gitolite-0.002.tar.gz
 Gitalist::Git::CollectionOfRepositories::Role::Context undef  B/BR/BROQ/Gitalist-0.003009.tar.gz
 Gitalist::Git::CollectionOfRepositories::Vhost undef  B/BR/BROQ/Gitalist-0.003009.tar.gz
 Gitalist::Git::CollectionOfRepositoriesWithRequestState undef  B/BR/BROQ/Gitalist-0.003009.tar.gz
