@@ -225,7 +225,7 @@ Catalyst::Plugin::DoCoMoUID        0.01  M/MI/MIYAZAKI/Catalyst-Plugin-DoCoMoUID
 Catalyst::Plugin::Email            0.08  M/MR/MRAMBERG/Catalyst-Plugin-Email-0.08.tar.gz
 Catalyst::Plugin::Email::Japanese  0.07  T/TY/TYPESTER/Catalyst-Plugin-Email-Japanese-0.07.tar.gz
 Catalyst::Plugin::Email::Page      0.22  G/GH/GHENRY/Catalyst-Plugin-Email-Page-0.26.tar.gz
-Catalyst::Plugin::EnableMiddleware 0.001  J/JJ/JJNAPIORK/Catalyst-Plugin-EnableMiddleware-0.001.tar.gz
+Catalyst::Plugin::EnableMiddleware 0.001  J/JJ/JJNAPIORK/Catalyst-Plugin-EnableMiddleware-0.002.tar.gz
 Catalyst::Plugin::ENV              0.02  P/PL/PLCGI/Catalyst-Plugin-ENV-0.02.tar.gz
 Catalyst::Plugin::ErrorCatcher 0.000008012  C/CH/CHISEL/Catalyst-Plugin-ErrorCatcher-0.0.8.12.tar.gz
 Catalyst::Plugin::ErrorCatcher::ActiveMQ::Stomp 0.001005  J/JT/JTANG/Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5.tar.gz
