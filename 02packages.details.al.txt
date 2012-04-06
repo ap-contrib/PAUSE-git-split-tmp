@@ -168,6 +168,7 @@ Alien::Ditaa                      0.002  B/BO/BOBTFISH/Alien-Ditaa-0.002.tar.gz
 Alien::FLTK                    0.07694001  S/SA/SANKO/Alien-FLTK-0.07694001.tar.gz
 Alien::FLTK2                    0.09204  S/SA/SANKO/Alien-FLTK2-0.09204.tar.gz
 Alien::Gearman                  0.01004  P/PL/PLU/Alien-Gearman-0.01004.tar.gz
+Alien::GMP                     0.000006  R/RS/RSIMOES/Alien-GMP-v0.0.6.tar.gz
 Alien::GSL                       0.0305  J/JB/JBERGER/Alien-GSL-0.0305.tar.gz
 Alien::GvaScript                   1.22  D/DA/DAMI/Alien-GvaScript-1.22.tar.gz
 Alien::Iconv                    1.12001  D/DM/DMAKI/Alien-Iconv-1.12001.tar.gz
