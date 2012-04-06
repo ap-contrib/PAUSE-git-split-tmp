@@ -794,6 +794,7 @@ Moose::Meta::Class,PERIGRIN,c
 Moose::Meta::Class,SARTAK,c
 Moose::Meta::Class,STEVAN,f
 Moose::Meta::Class::Custom::Trait::AutoTable,JHALLOCK,f
+Moose::Meta::Class::Custom::Trait::Deprecated,MAROS,f
 Moose::Meta::Class::Custom::Trait::GlobRef,DEXTER,f
 Moose::Meta::Class::Custom::Trait::NoAutomatic,MAROS,f
 Moose::Meta::Class::Custom::Trait::PRANG,CHILTS,c
