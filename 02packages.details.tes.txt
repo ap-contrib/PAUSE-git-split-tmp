@@ -378,7 +378,7 @@ Test::HTML::Content::NoXPath       0.08  C/CO/CORION/Test-HTML-Content-0.08.tar.
 Test::HTML::Content::XPathExtensions 0.08  C/CO/CORION/Test-HTML-Content-0.08.tar.gz
 Test::HTML::Differences            0.03  S/SA/SATOH/Test-HTML-Differences-0.03.tar.gz
 Test::HTML::Form                   0.05  T/TE/TEEJAY/Test-HTML-Form-0.05.tar.gz
-Test::HTML::Lint                   2.12  P/PE/PETDANCE/HTML-Lint-2.12.tar.gz
+Test::HTML::Lint                   2.20  P/PE/PETDANCE/HTML-Lint-2.20.tar.gz
 Test::HTML::Tidy                   1.00  P/PE/PETDANCE/Test-HTML-Tidy-1.00.tar.gz
 Test::HTML::W3C                    0.04  V/VI/VICTORF/Test-HTML-W3C-0.04.tar.gz
 Test::HTTP                         0.16  L/LU/LUKEC/Test-HTTP-0.16.tar.gz
