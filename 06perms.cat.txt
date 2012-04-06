@@ -750,6 +750,7 @@ Catalyst::Plugin::Session::Store::MongoDB,GPHAT,f
 Catalyst::Plugin::Session::Store::MongoDB,SVOELKEL,c
 Catalyst::Plugin::Session::Store::PSGI,CHISEL,f
 Catalyst::Plugin::Session::Store::Redis,GPHAT,f
+Catalyst::Plugin::Session::Store::TestMemcached,JJNAPIORK,f
 Catalyst::Plugin::Session::Test::Store,AGRUNDMA,c
 Catalyst::Plugin::Session::Test::Store,AUDREYT,c
 Catalyst::Plugin::Session::Test::Store,AUTRIJUS,c
