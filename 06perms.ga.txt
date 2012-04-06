@@ -258,7 +258,7 @@ Games::Lacuna::Client::Body,HALKEYE,f
 Games::Lacuna::Client::Buildings,HALKEYE,f
 Games::Lacuna::Client::Buildings::Archaeology,HALKEYE,f
 Games::Lacuna::Client::Buildings::ArtMuseum,HALKEYE,f
-Games::Lacuna::Client::Buildings::BlackHoleGenerator,HALKEYE,c
+Games::Lacuna::Client::Buildings::BlackHoleGenerator,HALKEYE,f
 Games::Lacuna::Client::Buildings::Capitol,HALKEYE,f
 Games::Lacuna::Client::Buildings::CulinaryInstitute,HALKEYE,f
 Games::Lacuna::Client::Buildings::Development,HALKEYE,f
@@ -270,10 +270,10 @@ Games::Lacuna::Client::Buildings::FoodReserve,HALKEYE,f
 Games::Lacuna::Client::Buildings::GeneticsLab,HALKEYE,f
 Games::Lacuna::Client::Buildings::HallsOfVrbansk,HALKEYE,f
 Games::Lacuna::Client::Buildings::IBS,HALKEYE,f
-Games::Lacuna::Client::Buildings::IntelTraining,HALKEYE,c
+Games::Lacuna::Client::Buildings::IntelTraining,HALKEYE,f
 Games::Lacuna::Client::Buildings::Intelligence,HALKEYE,f
 Games::Lacuna::Client::Buildings::LibraryOfJith,HALKEYE,f
-Games::Lacuna::Client::Buildings::MayhemTraining,HALKEYE,c
+Games::Lacuna::Client::Buildings::MayhemTraining,HALKEYE,f
 Games::Lacuna::Client::Buildings::MercenariesGuild,HALKEYE,f
 Games::Lacuna::Client::Buildings::MiningMinistry,HALKEYE,f
 Games::Lacuna::Client::Buildings::MissionCommand,HALKEYE,f
@@ -286,7 +286,7 @@ Games::Lacuna::Client::Buildings::Park,HALKEYE,f
 Games::Lacuna::Client::Buildings::Parliament,HALKEYE,f
 Games::Lacuna::Client::Buildings::PlanetaryCommand,HALKEYE,f
 Games::Lacuna::Client::Buildings::PoliceStation,HALKEYE,f
-Games::Lacuna::Client::Buildings::PoliticsTraining,HALKEYE,c
+Games::Lacuna::Client::Buildings::PoliticsTraining,HALKEYE,f
 Games::Lacuna::Client::Buildings::SSLA,HALKEYE,f
 Games::Lacuna::Client::Buildings::Security,HALKEYE,f
 Games::Lacuna::Client::Buildings::Shipyard,HALKEYE,f
@@ -295,8 +295,8 @@ Games::Lacuna::Client::Buildings::SpacePort,HALKEYE,f
 Games::Lacuna::Client::Buildings::StationCommand,HALKEYE,f
 Games::Lacuna::Client::Buildings::SubspaceSupplyDepot,HALKEYE,f
 Games::Lacuna::Client::Buildings::TempleOfTheDrajilites,HALKEYE,f
-Games::Lacuna::Client::Buildings::TheDillonForge,HALKEYE,c
-Games::Lacuna::Client::Buildings::TheftTraining,HALKEYE,c
+Games::Lacuna::Client::Buildings::TheDillonForge,HALKEYE,f
+Games::Lacuna::Client::Buildings::TheftTraining,HALKEYE,f
 Games::Lacuna::Client::Buildings::ThemePark,HALKEYE,f
 Games::Lacuna::Client::Buildings::Trade,HALKEYE,f
 Games::Lacuna::Client::Buildings::Transporter,HALKEYE,f
