@@ -423,9 +423,9 @@ HTML::LinkExtractor                0.13  P/PO/PODMASTER/HTML-LinkExtractor-0.13.
 HTML::LinkFilter                   0.03  K/KU/KUNIYOSHI/HTML-LinkFilter-0.03.tar.gz
 HTML::LinkList                   0.1503  R/RU/RUBYKAT/HTML-LinkList-0.1503.tar.gz
 HTML::Links::Localize            v0.2.7  S/SH/SHLOMIF/HTML-Links-Localize-v0.2.7.tar.gz
-HTML::Lint                         2.10  P/PE/PETDANCE/HTML-Lint-2.10.tar.gz
-HTML::Lint::Error                 undef  P/PE/PETDANCE/HTML-Lint-2.10.tar.gz
-HTML::Lint::HTML4                 undef  P/PE/PETDANCE/HTML-Lint-2.10.tar.gz
+HTML::Lint                         2.12  P/PE/PETDANCE/HTML-Lint-2.12.tar.gz
+HTML::Lint::Error                 undef  P/PE/PETDANCE/HTML-Lint-2.12.tar.gz
+HTML::Lint::HTML4                 undef  P/PE/PETDANCE/HTML-Lint-2.12.tar.gz
 HTML::Lint::Parser                 2.10  P/PE/PETDANCE/HTML-Lint-2.10.tar.gz
 HTML::Lister                       0.01  D/DO/DODGER/HTML-Lister-0_5.tar.gz
 HTML::ListScraper                  0.05  V/VB/VBAR/HTML-ListScraper-0.05.tar.gz
