@@ -558,6 +558,7 @@ CatalystX::OAuth2::Provider::Error::UnauthorizedClient,ZDK,f
 CatalystX::OAuth2::Provider::Error::UnsupportedGrantType,ZDK,f
 CatalystX::OAuth2::Provider::Error::UnsupportedResourceType,ZDK,f
 CatalystX::OAuth2::Provider::TraitFor::Controller::OAuth::AuthorizationCode,ZDK,f
+CatalystX::PSGIApp,SARGIE,f
 CatalystX::PathContext,ACID,f
 CatalystX::Plugin::Blurb,ASHLEY,f
 CatalystX::Plugin::Blurb::blurb,ASHLEY,f

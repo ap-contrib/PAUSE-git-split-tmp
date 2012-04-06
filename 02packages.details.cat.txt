@@ -250,6 +250,7 @@ CatalystX::Plugin::Blurb::blurb    0.03  A/AS/ASHLEY/CatalystX-Plugin-Blurb-0.03
 CatalystX::Plugin::Engine::FastCGI::Lighttpd 0.001000  Y/YO/YOSHIDA/CatalystX-Plugin-Engine-FastCGI-Lighttpd-0.1.0.tar.gz
 CatalystX::Profile                 0.02  J/JJ/JJNAPIORK/CatalystX-Profile-0.02.tar.gz
 CatalystX::Profile::Controller::ControlProfiling 0.02  J/JJ/JJNAPIORK/CatalystX-Profile-0.02.tar.gz
+CatalystX::PSGIApp                 0.01  S/SA/SARGIE/CatalystX-PSGIApp-0.01.tar.gz
 CatalystX::REPL                    0.04  F/FL/FLORA/CatalystX-REPL-0.04.tar.gz
 CatalystX::Restarter::GTK          0.05  D/DH/DHAVAL/CatalystX-Restarter-GTK-0.05.tar.gz
 CatalystX::RoleApplicator         0.005  H/HD/HDP/CatalystX-RoleApplicator-0.005.tar.gz
