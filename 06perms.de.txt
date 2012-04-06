@@ -1581,6 +1581,7 @@ Dist::Zilla::PluginBundle::Apocalyptic,APOCAL,f
 Dist::Zilla::PluginBundle::Author::ALEXBIO,ALEXBIO,f
 Dist::Zilla::PluginBundle::Author::CJM,CJM,f
 Dist::Zilla::PluginBundle::Author::DOHERTY,DOHERTY,f
+Dist::Zilla::PluginBundle::Author::JQUELIN,JQUELIN,f
 Dist::Zilla::PluginBundle::Author::KENTNL,KENTNL,f
 Dist::Zilla::PluginBundle::Author::KENTNL::Lite,KENTNL,f
 Dist::Zilla::PluginBundle::Author::LESPEA,LESPEA,m
