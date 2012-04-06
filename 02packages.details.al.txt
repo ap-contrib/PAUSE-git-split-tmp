@@ -156,7 +156,7 @@ Alice::Test::MockIRC              undef  L/LE/LEEDO/Alice-0.20.tar.gz
 Alice::Window                     undef  L/LE/LEEDO/Alice-0.20.tar.gz
 Alien                              0.91  A/AB/ABERGMAN/Alien-0.91.tar.gz
 Alien::ActiveMQ                 0.00004  Z/ZS/ZSTEVENS/Alien-ActiveMQ-0.00004.tar.gz
-Alien::Autotools               0.000005  R/RS/RSIMOES/Alien-Autotools-v0.0.5.tar.gz
+Alien::Autotools               0.000006  R/RS/RSIMOES/Alien-Autotools-v0.0.6.tar.gz
 Alien::BatToExeConverter           0.01  A/AD/ADAMK/Alien-BatToExeConverter-0.01.tar.gz
 Alien::Box2D                      0.105  F/FR/FROGGS/Alien-Box2D-0.105.tar.gz
 Alien::BWIPP                      0.006  D/DA/DAXIM/Alien-BWIPP-0.006.tar.gz
