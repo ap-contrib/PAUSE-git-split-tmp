@@ -678,7 +678,7 @@ Log::Dispatch::MacGrowl::Tiny      0.01  R/RY/RYOCHIN/Log-Dispatch-MacGrowl/Log-
 Log::Dispatch::MongoDB            undef  S/ST/STEVAN/Log-Dispatch-MongoDB-0.001.tar.gz
 Log::Dispatch::Null                2.29  D/DR/DROLSKY/Log-Dispatch-2.29.tar.gz
 Log::Dispatch::Output              2.29  D/DR/DROLSKY/Log-Dispatch-2.29.tar.gz
-Log::Dispatch::Perl                0.03  E/EL/ELIZABETH/Log-Dispatch-Perl-0.03.tar.gz
+Log::Dispatch::Perl                0.04  E/EL/ELIZABETH/Log-Dispatch-Perl-0.04.tar.gz
 Log::Dispatch::Prowl              1.000  P/PE/PERLER/Log-Dispatch-Prowl-1.000.tar.gz
 Log::Dispatch::Screen              2.29  D/DR/DROLSKY/Log-Dispatch-2.29.tar.gz
 Log::Dispatch::Screen::Color       0.04  Y/YA/YAPPO/Log-Dispatch-Screen-Color-0.04.tar.gz
