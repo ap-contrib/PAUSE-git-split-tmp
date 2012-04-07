@@ -368,6 +368,7 @@ Apache2::StructureTable           undef  P/PH/PHRED/mod_perl-2.0.5.tar.gz
 Apache2::SubProcess               0.009  P/PH/PHRED/mod_perl-2.0.5.tar.gz
 Apache2::SubRequest               0.009  P/PH/PHRED/mod_perl-2.0.5.tar.gz
 Apache2::Tail                      0.03  G/GO/GOZER/Apache2-Tail-0.03.tar.gz
+Apache2::TaintRequest              0.01  P/PH/PHRED/Apache2-TaintRequest-0.01.tar.gz
 Apache2::Testing::LogUtil         undef  R/RY/RYANGIES/perl-Apache2-LogUtil-00.01001.tgz
 Apache2::TieBucketBrigade          0.07  M/MO/MOCK/Apache2-TieBucketBrigade-0.07.tar.gz
 Apache2::Translation               0.34  O/OP/OPI/Apache2-Translation-0.34.tar.gz
