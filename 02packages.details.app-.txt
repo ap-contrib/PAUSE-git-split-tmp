@@ -12,7 +12,7 @@ App::MessageDispatcher             6783  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App::Metabase::Relayd              0.28  B/BI/BINGOS/metabase-relayd-0.28.tar.gz
 App::Metabase::Relayd::Plugin      0.28  B/BI/BINGOS/metabase-relayd-0.28.tar.gz
 App::Metabase::Relayd::Plugin::IRC 0.04  B/BI/BINGOS/App-Metabase-Relayd-Plugin-IRC-0.04.tar.gz
-App::MetaCPAN::Gtk2::Notify        0.03  Z/ZW/ZWON/App-MetaCPAN-Gtk2-Notify-0.03.tar.gz
+App::MetaCPAN::Gtk2::Notify        0.04  Z/ZW/ZWON/App-MetaCPAN-Gtk2-Notify-0.04.tar.gz
 App::metacpansearch               undef  A/AW/AWWAIID/App-metacpansearch-0.01.tar.gz
 App::mgen                          0.16  L/LA/LAPIS/App-mgen-0.16.tar.gz
 App::Milter::Limit                 0.51  M/MS/MSCHOUT/App-Milter-Limit-0.51.tar.gz
