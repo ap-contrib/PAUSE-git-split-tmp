@@ -72,11 +72,6 @@ Test::Smoke::Database::DB           1.8  A/AL/ALIAN/Test-Smoke-Database-1.16.tar
 Test::Smoke::Database::Display      1.9  A/AL/ALIAN/Test-Smoke-Database-1.17.tar.gz
 Test::Smoke::Database::Graph        1.8  A/AL/ALIAN/Test-Smoke-Database-1.14.tar.gz
 Test::Smoke::Database::Parsing      1.9  A/AL/ALIAN/Test-Smoke-Database-1.14.tar.gz
-Test::Smoke::Fact::Build          0.010  H/HM/HMBRAND/Test-Smoke-Metabase-0.23.tgz
-Test::Smoke::Fact::Config         0.011  H/HM/HMBRAND/Test-Smoke-Metabase-0.23.tgz
-Test::Smoke::Fact::Node           0.011  H/HM/HMBRAND/Test-Smoke-Metabase-0.23.tgz
-Test::Smoke::Fact::Result         0.010  H/HM/HMBRAND/Test-Smoke-Metabase-0.23.tgz
-Test::Smoke::Fact::SmokeID        0.011  H/HM/HMBRAND/Test-Smoke-Metabase-0.23.tgz
 Test::Smoke::FTPClient            0.011  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
 Test::Smoke::Mailer               0.014  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
 Test::Smoke::Mailer::Mail_Sendmail 0.014  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
@@ -84,8 +79,6 @@ Test::Smoke::Mailer::Mail_X       0.014  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
 Test::Smoke::Mailer::MIME_Lite    0.014  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
 Test::Smoke::Mailer::SendEmail    0.014  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
 Test::Smoke::Mailer::Sendmail     0.014  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
-Test::Smoke::Metabase              0.23  H/HM/HMBRAND/Test-Smoke-Metabase-0.23.tgz
-Test::Smoke::Metabase::Transport   0.01  H/HM/HMBRAND/Test-Smoke-Metabase-0.23.tgz
 Test::Smoke::Patcher              0.011  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
 Test::Smoke::Policy               0.004  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
 Test::Smoke::Reporter             0.035  A/AB/ABELTJE/Test-Smoke-1.47.tar.gz
