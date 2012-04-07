@@ -226,6 +226,7 @@ Treex::Core::ScenarioParser,ZABA,c
 Treex::Core::TredView,POPEL,c
 Treex::Core::TredView,TKR,c
 Treex::Core::TredView,ZABA,f
+Treex::Core::TredView::AnnotationCommand,TKR,f
 Treex::Core::TredView::BackendStorable,POPEL,c
 Treex::Core::TredView::BackendStorable,RUR,c
 Treex::Core::TredView::BackendStorable,TKR,f
