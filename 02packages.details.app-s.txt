@@ -734,6 +734,7 @@ Archive::Builder::Archive          1.16  A/AD/ADAMK/Archive-Builder-1.16.tar.gz
 Archive::Builder::File             1.16  A/AD/ADAMK/Archive-Builder-1.16.tar.gz
 Archive::Builder::Generators       1.16  A/AD/ADAMK/Archive-Builder-1.16.tar.gz
 Archive::Builder::Section          1.16  A/AD/ADAMK/Archive-Builder-1.16.tar.gz
+Archive::ByteBoozer                0.01  P/PA/PAWELKROL/Archive-ByteBoozer-0.01.tar.gz
 Archive::Chm                       0.06  A/AP/APALADE/Archive-Chm-0.06.tar.gz
 Archive::Cpio                      0.09  P/PI/PIXEL/Archive-Cpio-0.09.tar.gz
 Archive::Cpio::Common             undef  P/PI/PIXEL/Archive-Cpio-0.09.tar.gz

@@ -443,6 +443,7 @@ Archive::Builder::Archive,ADAMK,f
 Archive::Builder::File,ADAMK,f
 Archive::Builder::Generators,ADAMK,f
 Archive::Builder::Section,ADAMK,f
+Archive::ByteBoozer,PAWELKROL,f
 Archive::Cabinet,BRADD,m
 Archive::Chm,APALADE,m
 Archive::Cpio,PIXEL,m
