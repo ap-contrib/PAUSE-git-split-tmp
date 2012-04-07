@@ -32,7 +32,7 @@ Plack::Middleware::Proxy::RewriteLocation undef  H/HI/HIRATARA/Plack-App-Proxy-0
 Plack::Middleware::ProxyMap        0.12  I/IN/INGY/Plack-Middleware-ProxyMap-0.12.tar.gz
 Plack::Middleware::QRCode          0.02  C/CO/CORNELIUS/Plack-Middleware-QRCode-0.02.tar.gz
 Plack::Middleware::RDF::Flow      0.171  V/VO/VOJ/Plack-Middleware-RDF-Flow-0.171.tar.gz
-Plack::Middleware::RealIP          0.02  S/SH/SHERWIN/Plack-Middleware-RealIP-0.02.tar.gz
+Plack::Middleware::RealIP          0.03  S/SH/SHERWIN/Plack-Middleware-RealIP-0.03.tar.gz
 Plack::Middleware::RearrangeHeaders undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz
 Plack::Middleware::Recorder        0.03  R/RH/RHOELZ/Plack-Middleware-Recorder-0.03.tar.gz
 Plack::Middleware::Recursive      undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz

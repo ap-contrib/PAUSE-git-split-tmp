@@ -223,7 +223,7 @@ JSON::RPC::Constants              undef  D/DM/DMAKI/JSON-RPC-1.01.tar.gz
 JSON::RPC::Dispatch               undef  D/DM/DMAKI/JSON-RPC-1.01.tar.gz
 JSON::RPC::Dispatcher            0.0505  R/RI/RIZEN/JSON-RPC-Dispatcher-0.0505.tar.gz
 JSON::RPC::Dispatcher::App       0.0505  R/RI/RIZEN/JSON-RPC-Dispatcher-0.0505.tar.gz
-JSON::RPC::Dispatcher::ClassMapping 0.01  S/SH/SHERWIN/JSON-RPC-Dispatcher-ClassMapping-0.01.tar.gz
+JSON::RPC::Dispatcher::ClassMapping 0.02  S/SH/SHERWIN/JSON-RPC-Dispatcher-ClassMapping-0.02.tar.gz
 JSON::RPC::Dispatcher::Procedure 0.0505  R/RI/RIZEN/JSON-RPC-Dispatcher-0.0505.tar.gz
 JSON::RPC::Legacy                 undef  D/DM/DMAKI/JSON-RPC-1.01.tar.gz
 JSON::RPC::Legacy::Client          0.93  D/DM/DMAKI/JSON-RPC-1.01.tar.gz
