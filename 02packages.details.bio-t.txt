@@ -532,9 +532,9 @@ Boulder::Swissprot                    1  L/LD/LDS/Boulder-1.30.tar.gz
 Boulder::Unigene               28051999  L/LD/LDS/Boulder-1.15.tar.gz
 Boulder::Util                       0.1  T/TI/TIMA/Boulder-Util-0.1.tar.gz
 Boulder::XML                      undef  L/LD/LDS/Boulder-1.14.tar.gz
-Box2D                              0.06  J/JT/JTPALMER/Box2D-0.06.tar.gz
-Box2D::b2ContactListener              0  J/JT/JTPALMER/Box2D-0.06.tar.gz
-Box2D::b2RayCastCallback              0  J/JT/JTPALMER/Box2D-0.06.tar.gz
+Box2D                              0.07  J/JT/JTPALMER/Box2D-0.07.tar.gz
+Box2D::b2ContactListener              0  J/JT/JTPALMER/Box2D-0.07.tar.gz
+Box2D::b2RayCastCallback              0  J/JT/JTPALMER/Box2D-0.07.tar.gz
 Box2D::b2Vec2                         0  J/JT/JTPALMER/Box2D-0.05.tar.gz
 BoxBackup::Config::Accounts       0.300  P/PT/PTHOMSEN/BoxBackup/BBConfig-0.03.tar.gz
 BoxBackup::Config::BBackupd       0.300  P/PT/PTHOMSEN/BoxBackup/BBConfig-0.03.tar.gz
