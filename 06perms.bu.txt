@@ -1271,11 +1271,13 @@ Business::UPS::Tracking::Element::Package,MAROS,f
 Business::UPS::Tracking::Element::ReferenceNumber,MAROS,f
 Business::UPS::Tracking::Element::Weight,MAROS,f
 Business::UPS::Tracking::Exception,MAROS,f
+Business::UPS::Tracking::Meta::Attribute::Trait::Printable,MAROS,f
 Business::UPS::Tracking::Meta::Attribute::Trait::Serializable,MAROS,f
 Business::UPS::Tracking::Request,MAROS,f
 Business::UPS::Tracking::Response,MAROS,f
 Business::UPS::Tracking::Role::Base,MAROS,f
 Business::UPS::Tracking::Role::Builder,MAROS,f
+Business::UPS::Tracking::Role::Print,MAROS,f
 Business::UPS::Tracking::Role::Serialize,MAROS,f
 Business::UPS::Tracking::Shipment,MAROS,f
 Business::UPS::Tracking::Shipment::Freight,MAROS,f

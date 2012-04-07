@@ -220,6 +220,7 @@ Moose::Meta::Attribute::Custom::Trait::Parsed 0.91  I/ID/IDOPEREL/MongoDBx-Class
 Moose::Meta::Attribute::Custom::Trait::PRANG::Attr 0.14  M/MU/MUTANT/PRANG-0.14.tar.gz
 Moose::Meta::Attribute::Custom::Trait::PRANG::Element 0.14  M/MU/MUTANT/PRANG-0.14.tar.gz
 Moose::Meta::Attribute::Custom::Trait::PrimaryKey undef  J/JH/JHALLOCK/Storm-0.10-withoutworldwriteables.tar.gz
+Moose::Meta::Attribute::Custom::Trait::Printable undef  M/MA/MAROS/Business-UPS-Tracking-1.09.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Private 0.05  F/FR/FRANCKC/MooseX-Privacy-0.05.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Profile 2.003004  A/AW/AWNCORP/Validation-Class-2.3.4.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Protected 0.05  F/FR/FRANCKC/MooseX-Privacy-0.05.tar.gz

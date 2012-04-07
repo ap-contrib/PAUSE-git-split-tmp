@@ -619,6 +619,7 @@ Moose::Meta::Attribute::Custom::Trait::PRANG::Element,MUTANT,c
 Moose::Meta::Attribute::Custom::Trait::PRANG::Element,SAMV,f
 Moose::Meta::Attribute::Custom::Trait::Parsed,IDOPEREL,f
 Moose::Meta::Attribute::Custom::Trait::PrimaryKey,JHALLOCK,f
+Moose::Meta::Attribute::Custom::Trait::Printable,MAROS,f
 Moose::Meta::Attribute::Custom::Trait::Private,FRANCKC,f
 Moose::Meta::Attribute::Custom::Trait::Profile,AWNCORP,f
 Moose::Meta::Attribute::Custom::Trait::Protected,FRANCKC,f
