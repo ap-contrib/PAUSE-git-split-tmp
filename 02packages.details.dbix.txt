@@ -423,7 +423,7 @@ Debian::WNPP::Bug                     0  D/DA/DAM/DhMakePerl-0.75.tar.gz
 Debian::WNPP::Query                   0  D/DA/DAM/DhMakePerl-0.75.tar.gz
 DEBUG                             undef  S/SO/SOREAR/STD-20101111.tar.gz
 Debug                             undef  Y/YV/YVESP/llg-1.07.tar.gz
-Debug::Client                      0.18  B/BO/BOWTIE/Debug-Client-0.18.tar.gz
+Debug::Client                      0.19  B/BO/BOWTIE/Debug-Client-0.19.tar.gz
 Debug::DumpCore                    0.01  S/ST/STAS/Debug-FaultAutoBT-0.02.tar.gz
 Debug::EchoMessage                 1.03  G/GE/GEOTIGER/Debug-EchoMessage-1.03.tar.gz
 Debug::FaultAutoBT                 0.02  S/ST/STAS/Debug-FaultAutoBT-0.02.tar.gz
