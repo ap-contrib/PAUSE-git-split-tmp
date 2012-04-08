@@ -226,7 +226,7 @@ Validation::Class::Exporter        5.90  A/AW/AWNCORP/Validation-Class-5.90.tar.
 Validation::Class::Meta::Attribute::Profile 3.0  A/AW/AWNCORP/Validation-Class-3.0.0.tar.gz
 Validation::Class::Moose           5.90  A/AW/AWNCORP/Validation-Class-5.90.tar.gz
 Validation::Class::MooseRules  4.01003514  A/AW/AWNCORP/Validation-Class-4.01003514.tar.gz
-Validation::Class::Plugin::FormFields 0.30  A/AW/AWNCORP/Validation-Class-Plugin-FormFields-0.30.tar.gz
+Validation::Class::Plugin::FormFields 0.31  A/AW/AWNCORP/Validation-Class-Plugin-FormFields-0.31.tar.gz
 Validation::Class::Simple          5.90  A/AW/AWNCORP/Validation-Class-5.90.tar.gz
 Validation::Class::Sugar       4.01003514  A/AW/AWNCORP/Validation-Class-4.01003514.tar.gz
 Validation::Class::Validator   4.01003514  A/AW/AWNCORP/Validation-Class-4.01003514.tar.gz
