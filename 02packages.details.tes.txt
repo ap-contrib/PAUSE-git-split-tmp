@@ -99,7 +99,7 @@ Test::Continuous::Formatter    0.000002  G/GU/GUGOD/Test-Continuous-0.73.tar.gz
 Test::Continuous::Formatter::Session undef  G/GU/GUGOD/Test-Continuous-0.73.tar.gz
 Test::Continuous::Notifier        undef  G/GU/GUGOD/Test-Continuous-0.73.tar.gz
 Test::Cookbook                     0.05  N/NK/NKH/Test-Cookbook-0.05.2.tar.gz
-Test::Corpus::Audio::MPD       1.113282  J/JQ/JQUELIN/Test-Corpus-Audio-MPD-1.113282.tar.gz
+Test::Corpus::Audio::MPD       1.120990  J/JQ/JQUELIN/Test-Corpus-Audio-MPD-1.120990.tar.gz
 Test::Count                      0.0801  S/SH/SHLOMIF/Test-Count-0.0801.tar.gz
 Test::Count::Base                 undef  S/SH/SHLOMIF/Test-Count-0.0801.tar.gz
 Test::Count::FileMutator         0.0801  S/SH/SHLOMIF/Test-Count-0.0801.tar.gz
