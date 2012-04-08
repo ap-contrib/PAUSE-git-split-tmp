@@ -367,7 +367,6 @@ Catalyst::Plugin::Session::Store::File 0.18  F/FL/FLORA/Catalyst-Plugin-Session-
 Catalyst::Plugin::Session::Store::Jifty::DBI 0.03  I/IS/ISHIGAKI/Catalyst-Plugin-Session-Store-Jifty-DBI-0.03.tar.gz
 Catalyst::Plugin::Session::Store::KiokuDB 0.02  M/MA/MADZ/Catalyst-Plugin-Session-Store-KiokuDB-0.02.tar.gz
 Catalyst::Plugin::Session::Store::KiokuDB::Session 0.02  M/MA/MADZ/Catalyst-Plugin-Session-Store-KiokuDB-0.02.tar.gz
-Catalyst::Plugin::Session::Store::Memcached 0.05  B/BO/BOBTFISH/Catalyst-Plugin-Session-Store-Memcached-0.05.tar.gz
 Catalyst::Plugin::Session::Store::Memcached::Fast 0.02  B/BW/BWIZARD/Catalyst-Plugin-Session-Store-Memcached-Fast-0.02.tar.gz
 Catalyst::Plugin::Session::Store::MongoDB 0.02  S/SV/SVOELKEL/Catalyst-Plugin-Session-Store-MongoDB-0.02.tar.gz
 Catalyst::Plugin::Session::Store::PSGI 0.000001  C/CH/CHISEL/Catalyst-Plugin-Session-PSGI-0.0.1.tar.gz
