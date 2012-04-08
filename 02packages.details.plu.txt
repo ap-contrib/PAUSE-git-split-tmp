@@ -695,7 +695,7 @@ Pod::Man                           2.25  R/RR/RRA/podlators-2.4.0.tar.gz
 Pod::Manual                        0.08  Y/YA/YANICK/Pod-Manual-0.08.tar.gz
 Pod::Manual::Docbook2LaTeX         0.08  Y/YA/YANICK/Pod-Manual-0.08.tar.gz
 Pod::Manual::PodXML2Docbook        0.08  Y/YA/YANICK/Pod-Manual-0.08.tar.gz
-Pod::Markdown                  1.200001  R/RW/RWSTAUNER/Pod-Markdown-1.200001.tar.gz
+Pod::Markdown                  1.300000  R/RW/RWSTAUNER/Pod-Markdown-1.300000.tar.gz
 Pod::Minicpandoc                   0.11  R/RH/RHOELZ/Pod-Minicpandoc-0.11.tar.gz
 Pod::MinimumVersion                  50  K/KR/KRYDE/Pod-MinimumVersion-50.tar.gz
 Pod::MinimumVersion::Parser          50  K/KR/KRYDE/Pod-MinimumVersion-50.tar.gz
