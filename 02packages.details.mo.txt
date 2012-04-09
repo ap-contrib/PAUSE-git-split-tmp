@@ -14,7 +14,7 @@ MooseX::Workers::Engine           undef  J/JH/JHANNAH/MooseX-Workers-0.16.tar.gz
 MooseX::Workers::Job              undef  J/JH/JHANNAH/MooseX-Workers-0.16.tar.gz
 MooseX::YAML                       0.04  N/NU/NUFFIN/MooseX-YAML-0.04.tar.gz
 MooX::Cmd                         0.001  G/GE/GETTY/MooX-Cmd-0.001.tar.gz
-MooX::HasEnv                      0.002  G/GE/GETTY/MooX-HasEnv-0.002.tar.gz
+MooX::HasEnv                      0.003  G/GE/GETTY/MooX-HasEnv-0.003.tar.gz
 MooX::Options                       1.1  C/CE/CELOGEEK/MooX-Options-1.1.tar.gz
 MooX::Types::MooseLike             0.03  M/MA/MATEU/MooX-Types-MooseLike-0.03.tar.gz
 MooX::Types::MooseLike::Base       0.03  M/MA/MATEU/MooX-Types-MooseLike-0.03.tar.gz
