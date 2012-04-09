@@ -52,6 +52,8 @@ Apache::Sling::AuthzUtil,XEONTIME,f
 Apache::Sling::Content,XEONTIME,f
 Apache::Sling::ContentUtil,XEONTIME,f
 Apache::Sling::Group,XEONTIME,f
+Apache::Sling::GroupMember,XEONTIME,f
+Apache::Sling::GroupMemberUtil,XEONTIME,f
 Apache::Sling::GroupUtil,XEONTIME,f
 Apache::Sling::JsonQueryServlet,XEONTIME,f
 Apache::Sling::JsonQueryServletUtil,XEONTIME,f
