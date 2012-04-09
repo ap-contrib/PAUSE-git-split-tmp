@@ -303,6 +303,7 @@ Moo::_mro,SSCAFFIDI,c
 Moo::_mro,WSHELDAHL,c
 MooX,CELOGEEK,m
 MooX::Cmd,GETTY,f
+MooX::HasEnv,GETTY,f
 MooX::Option,CELOGEEK,f
 MooX::Options,CELOGEEK,f
 MooX::Types::MooseLike,MATEU,f
