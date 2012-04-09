@@ -680,7 +680,8 @@ Test::Weaken,KRYDE,m
 Test::Weaken::ExtraBits,KRYDE,f
 Test::Weaken::Gtk2,KRYDE,f
 Test::Weaken::Internal,KRYDE,f
-Test::Wiretap,AIRWAVE,f
+Test::Wiretap,AIRWAVE,c
+Test::Wiretap,BELDEN,f
 Test::Without,RJRAY,f
 Test::Without::GD,KRYDE,f
 Test::Without::Gtk2Things,KRYDE,f

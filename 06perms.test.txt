@@ -491,7 +491,8 @@ Test::Requires::Env,ZIGOROU,f
 Test::Rest,KGRENNAN,f
 Test::Rest::Commands,KGRENNAN,f
 Test::Rest::Context,KGRENNAN,f
-Test::Resub,AIRWAVE,f
+Test::Resub,AIRWAVE,c
+Test::Resub,BELDEN,f
 Test::Role,JFITZ,f
 Test::Routine,RJBS,f
 Test::Routine::Common,RJBS,f
