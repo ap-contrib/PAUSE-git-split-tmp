@@ -376,6 +376,7 @@ Bool,KHAREC,f
 Boolean::String,EVERYBODY,f
 BooleanLiteral,PERRAD,f
 BooleanType,PERRAD,f
+Boost::Geometry::Utils,AAR,f
 Boost::Graph,DBURDICK,m
 Boost::Graph::Directed,DBURDICK,f
 Boost::Graph::Undirected,DBURDICK,f
