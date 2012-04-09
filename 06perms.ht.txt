@@ -656,6 +656,7 @@ HTML::FormHandler::Widget::Wrapper::Table,ZBY,c
 HTML::FormHandler::Widget::Wrapper::TableInline,GSHANK,f
 HTML::FormHandler::Wizard,GSHANK,f
 HTML::FormHandlerX::Field::DateTimeNatural,ROMANF,f
+HTML::FormHandlerX::Field::URI::HTTP,ROMANF,f
 HTML::FormHandlerX::Field::reCAPTCHA,JJNAPIORK,f
 HTML::FormHandlerX::Field::reCAPTCHA,PHAYLON,c
 HTML::FormHandlerX::Form::Login,CAGAO,m
