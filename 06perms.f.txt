@@ -552,6 +552,13 @@ FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Wyse,FUSINV,f
 FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Zebranet,FUSINV,f
 FusionInventory::Agent::Task::NetDiscovery::dico,FUSINV,f
 FusionInventory::Agent::Task::NetDiscovery::dico,GONERI,c
+FusionInventory::Agent::Task::NetInventory,FUSINV,f
+FusionInventory::Agent::Task::NetInventory::Manufacturer,FUSINV,f
+FusionInventory::Agent::Task::NetInventory::Manufacturer::3Com,FUSINV,f
+FusionInventory::Agent::Task::NetInventory::Manufacturer::AlliedTelesis,FUSINV,f
+FusionInventory::Agent::Task::NetInventory::Manufacturer::Cisco,FUSINV,f
+FusionInventory::Agent::Task::NetInventory::Manufacturer::Nortel,FUSINV,f
+FusionInventory::Agent::Task::NetInventory::Manufacturer::Procurve,FUSINV,f
 FusionInventory::Agent::Task::OcsDeploy,FUSINV,f
 FusionInventory::Agent::Task::OcsDeploy,GONERI,c
 FusionInventory::Agent::Task::OcsDeploy::P2P,FUSINV,f
