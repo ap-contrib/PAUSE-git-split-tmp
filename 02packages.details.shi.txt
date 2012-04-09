@@ -487,7 +487,7 @@ Sledge::Plugin::QueryHash          0.01  M/MA/MATSUMOTO/Sledge-Plugin-QueryHash-
 Sledge::Plugin::RedirectReferer    0.04  N/NE/NEKOKAK/Sledge-Plugin-RedirectReferer-0.04.tar.gz
 Sledge::Plugin::ShowText           0.03  T/TA/TAKEFUMI/Sledge-Plugin-ShowText-0.03.tar.gz
 Sledge::Plugin::SNMP               0.01  T/TS/TSUNODA/Sledge-Plugin-SNMP-0.01a.tar.gz
-Sledge::Plugin::Stash              0.03  T/TO/TOKUHIROM/Sledge-Plugin-Stash-0.03.tar.gz
+Sledge::Plugin::Stash              0.04  T/TO/TOKUHIROM/Sledge-Plugin-Stash-0.04.tar.gz
 Sledge::Request::Apache::I18N      0.02  H/HO/HORIUCHI/Sledge-Request-Apache-I18N-0.02.tar.gz
 Sledge::Request::Apache::I18N::Upload undef  H/HO/HORIUCHI/Sledge-Request-Apache-I18N-0.02.tar.gz
 Sledge::SessionManager::Auto       0.04  M/MI/MIKIHOSHI/Sledge-SessionManager-Auto-0.04.tar.gz
