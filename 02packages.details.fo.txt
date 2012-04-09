@@ -607,7 +607,7 @@ FusionInventory::Agent::Network   undef  F/FU/FUSINV/FusionInventory-Agent-2.1.1
 FusionInventory::Agent::REST      undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz
 FusionInventory::Agent::RPC       undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz
 FusionInventory::Agent::Scheduler undef  F/FU/FUSINV/FusionInventory-Agent-2.2.0.tar.gz
-FusionInventory::Agent::SNMP      undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz
+FusionInventory::Agent::SNMP      undef  F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-2.0.tar.gz
 FusionInventory::Agent::Storage   undef  F/FU/FUSINV/FusionInventory-Agent-2.2.0.tar.gz
 FusionInventory::Agent::Target    undef  F/FU/FUSINV/FusionInventory-Agent-2.2.0.tar.gz
 FusionInventory::Agent::Target::Local undef  F/FU/FUSINV/FusionInventory-Agent-2.2.0.tar.gz
