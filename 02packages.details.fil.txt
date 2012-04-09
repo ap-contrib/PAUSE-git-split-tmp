@@ -424,10 +424,10 @@ Finnigan::SeqRow                 0.0204  S/SE/SELKOVJR/Finnigan-0.0204.tar.gz
 Fir                                0.33  L/LB/LBROCARD/Fir-0.33.tar.gz
 Fir::Major                        undef  L/LB/LBROCARD/Fir-0.33.tar.gz
 Fir::Minor                        undef  L/LB/LBROCARD/Fir-0.33.tar.gz
-Firefox::Application               0.64  C/CO/CORION/WWW-Mechanize-Firefox-0.64.tar.gz
-Firefox::Application::API35        0.64  C/CO/CORION/WWW-Mechanize-Firefox-0.64.tar.gz
-Firefox::Application::API36        0.64  C/CO/CORION/WWW-Mechanize-Firefox-0.64.tar.gz
-Firefox::Application::API40        0.64  C/CO/CORION/WWW-Mechanize-Firefox-0.64.tar.gz
+Firefox::Application               0.65  C/CO/CORION/WWW-Mechanize-Firefox-0.65.tar.gz
+Firefox::Application::API35        0.65  C/CO/CORION/WWW-Mechanize-Firefox-0.65.tar.gz
+Firefox::Application::API36        0.65  C/CO/CORION/WWW-Mechanize-Firefox-0.65.tar.gz
+Firefox::Application::API40        0.65  C/CO/CORION/WWW-Mechanize-Firefox-0.65.tar.gz
 first                          0.000001  D/DM/DMUEY/first-v0.0.1.tar.gz
 FirstGoodURL                       1.11  P/PI/PINYAN/FirstGoodURL-1.11.tar.gz
 FixedPtConstType                   2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
