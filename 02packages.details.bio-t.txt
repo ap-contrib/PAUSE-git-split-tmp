@@ -294,7 +294,7 @@ boolean                            0.28  I/IN/INGY/boolean-0.28.tar.gz
 Boolean::String                   undef  E/EV/EVERYBODY/Boolean-String-0.01.tar.gz
 BooleanLiteral                     2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 BooleanType                        2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
-Boost::Geometry::Utils             0.01  A/AA/AAR/Boost-Geometry-Utils-0.03.tar.gz
+Boost::Geometry::Utils             0.04  A/AA/AAR/Boost-Geometry-Utils-0.04.tar.gz
 Boost::Graph                        1.4  D/DB/DBURDICK/BoostGraph/Boost-Graph-1.4.tar.gz
 Boost::Graph::Directed              1.1  D/DB/DBURDICK/BoostGraph/Boost-Graph-1.4.tar.gz
 Boost::Graph::Undirected            1.1  D/DB/DBURDICK/BoostGraph/Boost-Graph-1.4.tar.gz
