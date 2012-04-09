@@ -288,7 +288,7 @@ CPAN::Testers::WWW::Reports::Mailer 0.27  B/BA/BARBIE/CPAN-Testers-WWW-Reports-M
 CPAN::Testers::WWW::Reports::Parser 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Parser-0.03.tar.gz
 CPAN::Testers::WWW::Reports::Parser::JSON 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Parser-0.03.tar.gz
 CPAN::Testers::WWW::Reports::Parser::YAML 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Parser-0.03.tar.gz
-CPAN::Testers::WWW::Reports::Query::AJAX 0.02  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Query-AJAX-0.02.tar.gz
+CPAN::Testers::WWW::Reports::Query::AJAX 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Query-AJAX-0.03.tar.gz
 CPAN::Testers::WWW::Reports::Query::Reports 0.05  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Query-Reports-0.05.tar.gz
 CPAN::Testers::WWW::Reports::Report 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Parser-0.03.tar.gz
 CPAN::Testers::WWW::Statistics     0.97  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.97.tar.gz
