@@ -423,7 +423,7 @@ Class::ModuleByFile                0.01  A/AH/AHERNIT/Class-ModuleByFile-0.01.ta
 Class::Monadic                     0.04  G/GF/GFUJI/Class-Monadic-0.04.tar.gz
 Class::Monadic::Object             0.04  G/GF/GFUJI/Class-Monadic-0.04.tar.gz
 Class::Monadic::Object::Clonable   0.04  G/GF/GFUJI/Class-Monadic-0.04.tar.gz
-Class::Monkey                     0.003  B/BR/BRADH/Class-Monkey-0.003.tar.gz
+Class::Monkey                     0.004  B/BR/BRADH/Class-Monkey-0.004.tar.gz
 Class::MOP                       2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Class::MOP::Attribute            2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Class::MOP::Class                2.0403  D/DO/DOY/Moose-2.0403.tar.gz
