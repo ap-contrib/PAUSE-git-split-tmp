@@ -538,6 +538,7 @@ FusionInventory::Agent::Task::NetDiscovery,FUSINV,f
 FusionInventory::Agent::Task::NetDiscovery,GONERI,c
 FusionInventory::Agent::Task::NetDiscovery::Dico,FUSINV,f
 FusionInventory::Agent::Task::NetDiscovery::Dico,GONERI,c
+FusionInventory::Agent::Task::NetDiscovery::Dictionary,FUSINV,c
 FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Alcatel,FUSINV,f
 FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Axis,FUSINV,f
 FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Ddwrt,FUSINV,f
