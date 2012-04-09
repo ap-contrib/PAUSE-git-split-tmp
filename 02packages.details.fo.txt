@@ -630,7 +630,7 @@ FusionInventory::Agent::Task::Deploy::DiskFree undef  F/FU/FUSINV/FusionInventor
 FusionInventory::Agent::Task::Deploy::File undef  F/FU/FUSINV/FusionInventory-Agent-Task-Deploy-2.0.0.tar.gz
 FusionInventory::Agent::Task::Deploy::Job undef  F/FU/FUSINV/FusionInventory-Agent-Task-Deploy-2.0.0.tar.gz
 FusionInventory::Agent::Task::Deploy::P2P undef  F/FU/FUSINV/FusionInventory-Agent-Task-Deploy-2.0.0.tar.gz
-FusionInventory::Agent::Task::ESX 1.001003  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-1.1.3.tar.gz
+FusionInventory::Agent::Task::ESX 2.001000  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-2.1.0.tar.gz
 FusionInventory::Agent::Task::Inventory 1.0  F/FU/FUSINV/FusionInventory-Agent-2.2.0.tar.gz
 FusionInventory::Agent::Task::Inventory::AccessLog undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz
 FusionInventory::Agent::Task::Inventory::DeviceID undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz

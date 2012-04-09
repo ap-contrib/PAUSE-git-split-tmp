@@ -369,8 +369,8 @@ FusionInventory::Logger           undef  F/FU/FUSINV/FusionInventory-Agent-2.1.1
 FusionInventory::LoggerBackend::File undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz
 FusionInventory::LoggerBackend::Stderr undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz
 FusionInventory::LoggerBackend::Syslog undef  F/FU/FUSINV/FusionInventory-Agent-2.1.14.tar.gz
-FusionInventory::VMware::SOAP     undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-1.1.3.tar.gz
-FusionInventory::VMware::SOAP::Host undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-1.1.3.tar.gz
+FusionInventory::VMware::SOAP     undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-2.1.0.tar.gz
+FusionInventory::VMware::SOAP::Host undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-2.1.0.tar.gz
 FusqlFS                           0.005  K/KS/KSTEPME/FusqlFS-0.005.tar.gz
 FusqlFS::Artifact                 0.005  K/KS/KSTEPME/FusqlFS-0.005.tar.gz
 FusqlFS::Artifact::Table::Lazy    0.005  K/KS/KSTEPME/FusqlFS-0.005.tar.gz
