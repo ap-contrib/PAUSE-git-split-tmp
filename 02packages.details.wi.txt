@@ -288,14 +288,6 @@ Win32::MprApi                      0.02  L/LM/LMASARA/Win32-MprApi-0.02.tar.gz
 Win32::MSAgent                     0.07  J/JO/JOUKE/Win32-MSAgent-0.07.tar.gz
 Win32::MSI::DB                     1.06  P/PM/PMAREK/Win32/MSI/Win32-MSI-DB-1.06.tar.gz
 Win32::MSI::HighLevel            1.0008  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0008.tar.gz
-Win32::MSI::HighLevel::Common    1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
-Win32::MSI::HighLevel::Directory 1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
-Win32::MSI::HighLevel::ErrorTable 1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
-Win32::MSI::HighLevel::Handle    1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
-Win32::MSI::HighLevel::Record    1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
-Win32::MSI::HighLevel::Shortcut  1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
-Win32::MSI::HighLevel::Summary   1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
-Win32::MSI::HighLevel::View      1.0006  G/GR/GRANDPA/Win32-MSI-HighLevel/Win32-MSI-HighLevel-1.0006.tar.gz
 Win32::MultiLanguage               0.72  B/BJ/BJOERN/Win32-MultiLanguage-0.72.tar.gz
 Win32::MultiMedia::Joystick        0.01  T/TH/THAMUS/Win32-MultiMedia-0.01.zip
 Win32::MultiMedia::Mci             0.01  T/TH/THAMUS/Win32-MultiMedia-0.01.zip

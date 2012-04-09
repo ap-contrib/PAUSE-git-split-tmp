@@ -402,7 +402,7 @@ Growl::Any::NetGrowl              undef  M/MA/MATTN/Growl-Any-0.09.tar.gz
 Growl::Any::NetGrowlClient        undef  M/MA/MATTN/Growl-Any-0.09.tar.gz
 Growl::Any::Null                  undef  M/MA/MATTN/Growl-Any-0.09.tar.gz
 Growl::Any::Win32MSAgent          undef  M/MA/MATTN/Growl-Any-0.09.tar.gz
-Growl::GNTP                        0.14  M/MA/MATTN/Growl-GNTP-0.14.tar.gz
+Growl::GNTP                        0.15  M/MA/MATTN/Growl-GNTP-0.15.tar.gz
 Growl::NotifySend                  0.02  G/GF/GFUJI/Growl-NotifySend-0.02.tar.gz
 Growl::Tiny                    0.000004  V/VV/VVU/Growl-Tiny-0.0.4.tar.gz
 GSAPI                               0.5  O/OE/OESI/GSAPI-0.5.tar.gz
