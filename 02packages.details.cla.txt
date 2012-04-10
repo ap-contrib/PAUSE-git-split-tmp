@@ -439,11 +439,11 @@ Cluster::Init::Util               undef  S/ST/STEVEGT/Cluster-Init-0.215.tar.gz
 Cluster::Similarity            0.002000  I/IN/INGRIF/Cluster-Similarity-v0.02.tar.gz
 Clusterize                         0.02  V/VM/VMOISEEV/Clusterize-0.02.tar.gz
 Clusterize::Pattern                0.02  V/VM/VMOISEEV/Clusterize-0.02.tar.gz
-Clutch                             0.04  N/NE/NEKOKAK/Clutch-0.04.tar.gz
+Clutch                             0.05  N/NE/NEKOKAK/Clutch-0.05.tar.gz
 Clutch::Admin                     undef  N/NE/NEKOKAK/Clutch-0.03.tar.gz
-Clutch::Client                    undef  N/NE/NEKOKAK/Clutch-0.04.tar.gz
+Clutch::Client                    undef  N/NE/NEKOKAK/Clutch-0.05.tar.gz
 Clutch::Util                      undef  N/NE/NEKOKAK/Clutch-0.04.tar.gz
-Clutch::Worker                    undef  N/NE/NEKOKAK/Clutch-0.04.tar.gz
+Clutch::Worker                    undef  N/NE/NEKOKAK/Clutch-0.05.tar.gz
 Clutter                           1.002  E/EB/EBASSI/Clutter-1.002.tar.gz
 Clutter::Cogl::Matrix             1.002  E/EB/EBASSI/Clutter-1.002.tar.gz
 Clutter::Color                    1.002  E/EB/EBASSI/Clutter-1.002.tar.gz
