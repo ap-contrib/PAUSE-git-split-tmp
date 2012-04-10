@@ -583,7 +583,8 @@ Catalyst::TraitFor::Model::DBIC::Schema::Caching,WSHELDAHL,c
 Catalyst::TraitFor::Model::DBIC::Schema::ConnectInfo::Several,CUB,f
 Catalyst::TraitFor::Model::DBIC::Schema::FromMigration,JJNAPIORK,f
 Catalyst::TraitFor::Model::DBIC::Schema::FromMigration::_MigrationHelper,JJNAPIORK,f
-Catalyst::TraitFor::Model::DBIC::Schema::PerRequestSchema,RKITOVER,f
+Catalyst::TraitFor::Model::DBIC::Schema::PerRequestSchema,MSTROUT,f
+Catalyst::TraitFor::Model::DBIC::Schema::PerRequestSchema,RKITOVER,c
 Catalyst::TraitFor::Model::DBIC::Schema::QueryLog,FAYLAND,f
 Catalyst::TraitFor::Model::DBIC::Schema::QueryLog::AdoptPlack,JJNAPIORK,f
 Catalyst::TraitFor::Model::DBIC::Schema::QueryLog::AdoptPlack,PHAYLON,c
@@ -604,7 +605,8 @@ Catalyst::TraitFor::Model::DBIC::Schema::Replicated,RKITOVER,c
 Catalyst::TraitFor::Model::DBIC::Schema::Replicated,SSCAFFIDI,c
 Catalyst::TraitFor::Model::DBIC::Schema::Replicated,WSHELDAHL,c
 Catalyst::TraitFor::Model::DBIC::Schema::ResultRoles,LUKAST,f
-Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy,RKITOVER,f
+Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy,MSTROUT,f
+Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy,RKITOVER,c
 Catalyst::TraitFor::Model::DBIC::Schema::WithCurrentUser,AMIRI,f
 Catalyst::TraitFor::Model::DBIC::Shortcut,CUB,f
 Catalyst::TraitFor::Request::BrowserDetect,ARCANEZ,c

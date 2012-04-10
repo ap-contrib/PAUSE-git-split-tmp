@@ -127,10 +127,11 @@ Catalyst::Model::PayPal::IPN,FLORA,c
 Catalyst::Model::PayPal::IPN,JAYK,c
 Catalyst::Model::PayPal::IPN,JROCKWAY,c
 Catalyst::Model::PayPal::IPN,MRAMBERG,c
-Catalyst::Model::PayPal::IPN,MSTROUT,c
+Catalyst::Model::PayPal::IPN,MSTROUT,f
 Catalyst::Model::PayPal::IPN,NUFFIN,c
-Catalyst::Model::PayPal::IPN,RKITOVER,f
-Catalyst::Model::PayPal::IPN::ErrorHandle,RKITOVER,f
+Catalyst::Model::PayPal::IPN,RKITOVER,c
+Catalyst::Model::PayPal::IPN::ErrorHandle,MSTROUT,f
+Catalyst::Model::PayPal::IPN::ErrorHandle,RKITOVER,c
 Catalyst::Model::Plucene,AGRUNDMA,c
 Catalyst::Model::Plucene,APEIRON,c
 Catalyst::Model::Plucene,ARCANEZ,c
