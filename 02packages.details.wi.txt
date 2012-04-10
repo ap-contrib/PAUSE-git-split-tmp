@@ -470,8 +470,8 @@ Win32::ShutDown                    0.01  C/CD/CDRAKE/Win32-ShutDown-0.01.tar.gz
 Win32::SimpleProcess              undef  T/TE/TEDK/Win32/SimpleProcess/SimpleProcess_1.0.zip
 Win32::Snarl                       1.01  A/AB/ABERNDT/Win32-Snarl/win32-snarl-1.01.tar.gz
 Win32::Socketpair                  0.01  S/SA/SALVA/Win32-Socketpair-0.01.tar.gz
-Win32::Sound                       0.49  J/JD/JDB/Win32-Sound-0.49.tar.gz
-Win32::Sound::WaveOut              0.49  J/JD/JDB/Win32-Sound-0.49.tar.gz
+Win32::Sound                       0.51  A/AC/ACALPINI/Win32-Sound-0.51.tar.gz
+Win32::Sound::WaveOut              0.51  A/AC/ACALPINI/Win32-Sound-0.51.tar.gz
 Win32::SoundRec                    0.02  J/JO/JOUKE/Win32-SoundRec-0.02.tar.gz
 Win32::SqlServer                  2.007  S/SO/SOMMAR/Win32-SqlServer-2.007.zip
 Win32::SqlServer::DTS              0.09  A/AR/ARFREITAS/Win32-SqlServer-DTS-0.09.tar.gz
