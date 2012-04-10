@@ -525,6 +525,7 @@ Spreadsheet::WriteExcel::Chart::Pie 2.37  J/JM/JMCNAMARA/Spreadsheet-WriteExcel-
 Spreadsheet::WriteExcel::Chart::Scatter 2.37  J/JM/JMCNAMARA/Spreadsheet-WriteExcel-2.37.tar.gz
 Spreadsheet::WriteExcel::Chart::Stock 2.37  J/JM/JMCNAMARA/Spreadsheet-WriteExcel-2.37.tar.gz
 Spreadsheet::WriteExcel::Examples  2.37  J/JM/JMCNAMARA/Spreadsheet-WriteExcel-2.37.tar.gz
+Spreadsheet::WriteExcel::Extended::FitColumnWidth 1.01  G/GN/GNG/Spreadsheet-WriteExcel-Extended-FitColumnWidth-1.01.tar.gz
 Spreadsheet::WriteExcel::Format    2.37  J/JM/JMCNAMARA/Spreadsheet-WriteExcel-2.37.tar.gz
 Spreadsheet::WriteExcel::Formula   2.37  J/JM/JMCNAMARA/Spreadsheet-WriteExcel-2.37.tar.gz
 Spreadsheet::WriteExcel::FromDB    1.00  T/TM/TMTM/Spreadsheet-WriteExcel-FromDB-1.00.tar.gz
