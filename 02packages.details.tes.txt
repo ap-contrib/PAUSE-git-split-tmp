@@ -733,7 +733,7 @@ Test::Pod::LinkCheck              0.007  A/AP/APOCAL/Test-Pod-LinkCheck-0.007.ta
 Test::Pod::No404s                  0.01  A/AP/APOCAL/Test-Pod-No404s-0.01.tar.gz
 Test::Pod::Snippets                0.06  Y/YA/YANICK/Test-Pod-Snippets-0.06.tar.gz
 Test::Pod::Snippets::Parser        0.06  Y/YA/YANICK/Test-Pod-Snippets-0.06.tar.gz
-Test::Pod::Spelling                 0.3  L/LG/LGODDARD/Pod-Spelling-0.13.tar.gz
+Test::Pod::Spelling                 0.3  L/LG/LGODDARD/Pod-Spelling-0.14.tar.gz
 Test::Pod::Spelling::CommonMistakes 1.000  A/AP/APOCAL/Test-Pod-Spelling-CommonMistakes-1.000.tar.gz
 Test::POE::Client::TCP             1.10  B/BI/BINGOS/Test-POE-Client-TCP-1.10.tar.gz
 Test::POE::Server::TCP             1.16  B/BI/BINGOS/Test-POE-Server-TCP-1.16.tar.gz
