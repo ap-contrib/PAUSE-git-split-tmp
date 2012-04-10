@@ -301,6 +301,7 @@ Apache2::Process                  0.009  P/PH/PHRED/mod_perl-2.0.5.tar.gz
 Apache2::Profiler                  0.10  M/MS/MSCHOUT/Apache-Profiler-0.10.tar.gz
 Apache2::Protocol                   0.1  M/MD/MDMS/Apache2-Protocol-0.1.tar.gz
 Apache2::Protocol::ESMTP           0.01  M/MD/MDMS/Apache2-Protocol-ESMTP-0.01.tar.gz
+Apache2::Proxy                     0.04  P/PH/PHRED/Apache2-Proxy-0.04.tar.gz
 Apache2::reCaptcha                 0.02  A/AN/ANALOG/Apache2-reCaptcha-0.3.tgz
 Apache2::Reload                    0.12  P/PH/PHRED/Apache-Reload-0.12.tar.gz
 Apache2::Request                   2.13  I/IS/ISAAC/libapreq2-2.13.tar.gz
