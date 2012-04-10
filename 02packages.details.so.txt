@@ -341,7 +341,7 @@ Spread::Queue::Manager              0.4  J/JM/JMAY/Spread-Queue-0.4.tar.gz
 Spread::Queue::Sender               0.4  J/JM/JMAY/Spread-Queue-0.4.tar.gz
 Spread::Queue::Worker               0.4  J/JM/JMAY/Spread-Queue-0.4.tar.gz
 Spread::Session                     0.4  J/JM/JMAY/Spread-Session-0.4.tar.gz
-Spreadsheet::BasicRead             1.10  G/GN/GNG/Spreadsheet-BasicRead-1.10.tar.gz
+Spreadsheet::BasicRead             1.11  G/GN/GNG/Spreadsheet-BasicRead-1.11.tar.gz
 Spreadsheet::BasicReadNamedCol     1.03  G/GN/GNG/Spreadsheet-BasicReadNamedCol-1.03.tar.gz
 Spreadsheet::ConvertAA             0.06  N/NK/NKH/Spreadsheet-ConvertAA-0.06.tar.gz
 Spreadsheet::DataFromExcel       0.0101  Z/ZO/ZOFFIX/Spreadsheet-DataFromExcel-0.0101.tar.gz
