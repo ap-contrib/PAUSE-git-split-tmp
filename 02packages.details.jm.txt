@@ -163,7 +163,7 @@ JSON::DWIW                         0.47  D/DO/DOWENS/JSON-DWIW-0.47.tar.gz
 JSON::DWIW::Boolean                1.04  D/DO/DOWENS/JSON-DWIW-0.47.tar.gz
 JSON::DWIW::Exporter               0.47  D/DO/DOWENS/JSON-DWIW-0.47.tar.gz
 JSON::GRDDL                       0.001  T/TO/TOBYINK/JSON-GRDDL-0.001.tar.gz
-JSON::HPack                    0.000001  G/GV/GVENKAT/JSON-HPack-0.0.1.tgz
+JSON::HPack                    0.000002  G/GV/GVENKAT/JSON-HPack-0.0.2.tgz
 JSON::Hyper                       0.010  T/TO/TOBYINK/JSON-Hyper-0.010.tar.gz
 JSON::JOM                         0.501  T/TO/TOBYINK/JSON-JOM-0.501.tar.gz
 JSON::JOM::Array                  0.501  T/TO/TOBYINK/JSON-JOM-0.501.tar.gz
