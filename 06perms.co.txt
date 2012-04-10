@@ -1070,6 +1070,9 @@ Criteria::Compile::OBJECT,ALUCAS,f
 Criteria::DateTime,ALUCAS,f
 Crixa,PERIGRIN,f
 Crixa::Channel,PERIGRIN,f
+Crixa::Engine,PERIGRIN,f
+Crixa::Engine::API,PERIGRIN,f
+Crixa::Engine::RabbitMQ,PERIGRIN,f
 Crixa::Exchange,PERIGRIN,f
 Crixa::Queue,PERIGRIN,f
 Crixa::Role::RabbitMQ,PERIGRIN,f
