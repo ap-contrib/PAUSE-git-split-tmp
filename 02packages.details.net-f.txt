@@ -266,7 +266,6 @@ Net::Google::DocumentsList::Role::EnsureListed undef  D/DA/DANJOU/Net-Google-Doc
 Net::Google::DocumentsList::Role::EntryWithoutEtag undef  D/DA/DANJOU/Net-Google-DocumentsList-0.08.tar.gz
 Net::Google::DocumentsList::Role::Exportable undef  D/DA/DANJOU/Net-Google-DocumentsList-0.08.tar.gz
 Net::Google::DocumentsList::Role::HasItems undef  D/DA/DANJOU/Net-Google-DocumentsList-0.08.tar.gz
-Net::Google::DocumentsList::Role::UpdateWithoutEtag undef  D/DA/DANJOU/Net-Google-DocumentsList-0.04.tar.gz
 Net::Google::DocumentsList::Types undef  D/DA/DANJOU/Net-Google-DocumentsList-0.08.tar.gz
 Net::Google::FederatedLogin    0.007000  C/CE/CEBJYRE/Net-Google-FederatedLogin-0.7.0.tar.gz
 Net::Google::FederatedLogin::Apps::Discoverer 0.007000  C/CE/CEBJYRE/Net-Google-FederatedLogin-0.7.0.tar.gz
