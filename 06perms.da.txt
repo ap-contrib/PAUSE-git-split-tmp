@@ -491,6 +491,7 @@ DateTime::Format::RSS,CODEREPOS,c
 DateTime::Format::RSS,DMAKI,f
 DateTime::Format::Roman,DROLSKY,c
 DateTime::Format::Roman,PIJLL,f
+DateTime::Format::SCTS,DEXTER,f
 DateTime::Format::SQLite,CFAERBER,f
 DateTime::Format::Simple,DROLSKY,f
 DateTime::Format::Span,DMUEY,f
