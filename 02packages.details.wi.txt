@@ -1,4 +1,4 @@
-Win32::API::Type                   0.62  C/CO/COSIMO/Win32-API-0.67.tar.gz
+Win32::API::Type                   0.62  C/CO/COSIMO/Win32-API-0.68.tar.gz
 Win32::App::which                 1.021  D/DO/DOLMEN/Win32-App-which-1.021.tar.gz
 Win32::ASP                         2.15  W/WN/WNODOM/Win32-ASP-2.15.tar.gz
 Win32::ASP::Action                undef  T/TE/TEVERETT/Win32-ASP-DB-0.02.tar.gz
@@ -262,7 +262,7 @@ Win32::IPConfig::Adapter          undef  J/JM/JMACFARLA/Win32-IPConfig-0.10.tar.
 Win32::IPHelper                    0.08  L/LM/LMASARA/Win32-IPHelper-0.08.tar.gz
 Win32::Job                         0.04  J/JD/JDB/Win32-Job-0.04.tar.gz
 Win32::JobAdd                      1.00  D/DJ/DJOOS/Win32-JobAdd-1.00.tar.gz
-Win32::kernel32                    0.50  C/CO/COSIMO/Win32-API-0.67.tar.gz
+Win32::kernel32                    0.50  C/CO/COSIMO/Win32-API-0.68.tar.gz
 Win32::Lanman                       1.1  J/JH/JHELBERG/lanman.1.0.10.0.zip
 Win32::Locale                      0.04  S/SB/SBURKE/Win32-Locale-0.04.tar.gz
 Win32::LockWorkStation             0.01  V/VI/VINSWORLD/Win32-LockWorkStation-0.01.tar.gz
