@@ -477,6 +477,7 @@ MARC::Moose::Formater::Yaml,FREDERICD,f
 MARC::Moose::Parser,FREDERICD,f
 MARC::Moose::Parser::Isis,FREDERICD,f
 MARC::Moose::Parser::Iso2709,FREDERICD,f
+MARC::Moose::Parser::Json,FREDERICD,f
 MARC::Moose::Parser::Legacy,FREDERICD,f
 MARC::Moose::Parser::MARC::MoosexmlSax,FREDERICD,f
 MARC::Moose::Parser::Marcxml,FREDERICD,f
