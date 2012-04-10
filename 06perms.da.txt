@@ -444,6 +444,7 @@ DateTime::Format::HTTP,CKRAS,c
 DateTime::Format::HTTP,DROLSKY,f
 DateTime::Format::Human,JHOBLITT,f
 DateTime::Format::Human::Duration,DMUEY,f
+DateTime::Format::Human::Duration,MSTRAT,c
 DateTime::Format::Human::Duration::Locale,DMUEY,f
 DateTime::Format::Human::Duration::Locale::es,DMUEY,f
 DateTime::Format::Human::Duration::Locale::fr,DMUEY,f
