@@ -1156,7 +1156,7 @@ HTTP::HeaderParser::XS             0.20  M/MA/MARKSMITH/HTTP-HeaderParser-XS-0.2
 HTTP::Headers                      6.00  G/GA/GAAS/HTTP-Message-6.03.tar.gz
 HTTP::Headers::Auth                6.00  G/GA/GAAS/HTTP-Message-6.03.tar.gz
 HTTP::Headers::ETag                6.00  G/GA/GAAS/HTTP-Message-6.03.tar.gz
-HTTP::Headers::Fast                0.14  T/TO/TOKUHIROM/HTTP-Headers-Fast-0.14.tar.gz
+HTTP::Headers::Fast                0.15  T/TO/TOKUHIROM/HTTP-Headers-Fast-0.15.tar.gz
 HTTP::Headers::UserAgent           3.02  N/NE/NEILB/HTTP-Headers-UserAgent-3.02.tar.gz
 HTTP::Headers::Util                6.03  G/GA/GAAS/HTTP-Message-6.03.tar.gz
 HTTP::Link::Parser                0.103  T/TO/TOBYINK/HTTP-Link-Parser-0.103.tar.gz

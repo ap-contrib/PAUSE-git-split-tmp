@@ -332,7 +332,7 @@ Lingua::JA::Regular::Table         0.04  T/TA/TAKEFUMI/Lingua-JA-Regular-0.09.ta
 Lingua::JA::Regular::Table::Kanji  0.02  T/TA/TAKEFUMI/Lingua-JA-Regular-0.09.tar.gz
 Lingua::JA::Regular::Table::Macintosh 0.01  T/TA/TAKEFUMI/Lingua-JA-Regular-0.09.tar.gz
 Lingua::JA::Regular::Table::Windows 0.01  T/TA/TAKEFUMI/Lingua-JA-Regular-0.09.tar.gz
-Lingua::JA::Regular::Unicode       0.06  T/TO/TOKUHIROM/Lingua-JA-Regular-Unicode-0.06.tar.gz
+Lingua::JA::Regular::Unicode       0.07  T/TO/TOKUHIROM/Lingua-JA-Regular-Unicode-0.07.tar.gz
 Lingua::JA::Romaji                 0.03  K/KE/KESINGER/Lingua-JA-Romaji-0.03.tar.gz
 Lingua::JA::Romaji::Valid          0.02  I/IS/ISHIGAKI/Lingua-JA-Romaji-Valid-0.02.tar.gz
 Lingua::JA::Romaji::Valid::Filter::Kana undef  I/IS/ISHIGAKI/Lingua-JA-Romaji-Valid-0.02.tar.gz
