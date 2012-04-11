@@ -147,7 +147,7 @@ Business::DE::KontoCheck           0.12  T/TI/TINITA/Business-DE-KontoCheck-0.12
 Business::DK::CPR                  0.08  J/JO/JONASBN/Business-DK-CPR-0.08.tar.gz
 Business::DK::CVR                  0.06  J/JO/JONASBN/Business-DK-CVR-0.06.tar.gz
 Business::DK::FI                   0.04  J/JO/JONASBN/Business-DK-FI-0.04.tar.gz
-Business::DK::Phonenumber          0.04  J/JO/JONASBN/Business-DK-Phonenumber-0.04.tar.gz
+Business::DK::Phonenumber          0.05  J/JO/JONASBN/Business-DK-Phonenumber-0.05.tar.gz
 Business::DK::PO                   0.05  J/JO/JONASBN/Business-DK-PO-0.05.tar.gz
 Business::DPD                      0.14  D/DO/DOMM/Business-DPD-0.14.tar.gz
 Business::DPD::DBIC               undef  D/DO/DOMM/Business-DPD-0.14.tar.gz
