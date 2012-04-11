@@ -945,6 +945,7 @@ Coro::LocalScalar,NYAKNYAN,f
 Coro::MP,MLEHMANN,f
 Coro::MakeMaker,MLEHMANN,f
 Coro::Mysql,MLEHMANN,f
+Coro::PrioChannel,DMCBRIDE,f
 Coro::Process,MLEHMANN,f
 Coro::RWLock,MLEHMANN,f
 Coro::Select,MLEHMANN,f
