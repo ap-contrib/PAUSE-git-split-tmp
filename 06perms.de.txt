@@ -779,7 +779,7 @@ Digest::Whirlpool,AVAR,c
 Digest::Whirlpool,JCDUQUE,m
 Digest::XSAdler32,ADITYA,f
 Digest::base,GAAS,f
-Digest::combined,ONEGRAY,f
+Digest::combined,ONEGRAY,m
 Digest::file,GAAS,f
 DigitalClock,AWIN,f
 Dimedis::Ddl,JRED,f
