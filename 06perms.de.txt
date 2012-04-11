@@ -1515,6 +1515,7 @@ Dist::Zilla::Plugin::TemplateModule,RJBS,f
 Dist::Zilla::Plugin::Test::AssureDeps,LEONT,f
 Dist::Zilla::Plugin::Test::CPAN::Changes,DOHERTY,f
 Dist::Zilla::Plugin::Test::CPAN::Meta::JSON,DOHERTY,f
+Dist::Zilla::Plugin::Test::ChangesHasContent,DAGOLDEN,f
 Dist::Zilla::Plugin::Test::CheckChanges,DOHERTY,f
 Dist::Zilla::Plugin::Test::CheckDeps,LEONT,f
 Dist::Zilla::Plugin::Test::CheckManifest,ALEXBIO,f
