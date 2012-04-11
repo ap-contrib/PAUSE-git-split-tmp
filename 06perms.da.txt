@@ -446,9 +446,13 @@ DateTime::Format::Human,JHOBLITT,f
 DateTime::Format::Human::Duration,DMUEY,f
 DateTime::Format::Human::Duration,MSTRAT,c
 DateTime::Format::Human::Duration::Locale,DMUEY,f
+DateTime::Format::Human::Duration::Locale,MSTRAT,c
 DateTime::Format::Human::Duration::Locale::es,DMUEY,f
+DateTime::Format::Human::Duration::Locale::es,MSTRAT,c
 DateTime::Format::Human::Duration::Locale::fr,DMUEY,f
+DateTime::Format::Human::Duration::Locale::fr,MSTRAT,c
 DateTime::Format::Human::Duration::Locale::pt,DMUEY,f
+DateTime::Format::Human::Duration::Locale::pt,MSTRAT,c
 DateTime::Format::IBeat,DROLSKY,f
 DateTime::Format::ICal,DROLSKY,f
 DateTime::Format::ISO8601,JHOBLITT,f
