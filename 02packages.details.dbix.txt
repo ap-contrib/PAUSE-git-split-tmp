@@ -1162,6 +1162,7 @@ Devel::REPL::Plugin::DataPrinter  0.003  G/GA/GARU/Devel-REPL-Plugin-DataPrinter
 Devel::REPL::Plugin::DDC          undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::DDS          undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::DumpHistory  undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
+Devel::REPL::Plugin::Editor        0.01  R/RH/RHOELZ/Devel-REPL-Plugin-Editor-0.01.tar.gz
 Devel::REPL::Plugin::FancyPrompt  undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::FindVariable undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::History      undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
