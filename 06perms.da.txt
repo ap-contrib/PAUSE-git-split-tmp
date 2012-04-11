@@ -447,6 +447,7 @@ DateTime::Format::Human::Duration,DMUEY,f
 DateTime::Format::Human::Duration,MSTRAT,c
 DateTime::Format::Human::Duration::Locale,DMUEY,f
 DateTime::Format::Human::Duration::Locale,MSTRAT,c
+DateTime::Format::Human::Duration::Locale::de,MSTRAT,f
 DateTime::Format::Human::Duration::Locale::es,DMUEY,f
 DateTime::Format::Human::Duration::Locale::es,MSTRAT,c
 DateTime::Format::Human::Duration::Locale::fr,DMUEY,f
