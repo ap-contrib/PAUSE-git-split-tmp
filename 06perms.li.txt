@@ -1092,6 +1092,7 @@ Locale::Maketext::Utils::Phrase::Core,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm::Ampersand,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm::BeginUpper,DMUEY,f
+Locale::Maketext::Utils::Phrase::Norm::Compiles,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm::Consider,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm::Ellipsis,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm::EndPunc,DMUEY,f
