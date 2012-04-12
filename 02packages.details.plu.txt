@@ -780,7 +780,7 @@ Pod::POM::View::Pod                1.03  A/AN/ANDREWF/Pod-POM-0.27.tar.gz
 Pod::POM::View::Restructured       0.02  D/DO/DOWENS/Pod-POM-View-Restructured-0.02.tar.gz
 Pod::POM::View::SPIP               0.03  J/JF/JFENAL/Pod-POM-View-SPIP-0.03.tar.gz
 Pod::POM::View::Text               1.03  A/AN/ANDREWF/Pod-POM-0.27.tar.gz
-Pod::POM::View::TextBasic           0.1  L/LG/LGODDARD/Pod-Spelling-0.14.tar.gz
+Pod::POM::View::TextBasic           0.1  L/LG/LGODDARD/Pod-Spelling-0.15.tar.gz
 Pod::POM::View::TOC                0.02  P/PE/PERLER/Pod-POM-View-TOC-0.02.tar.gz
 Pod::POM::Web                      1.17  D/DA/DAMI/Pod-POM-Web-1.17.tar.gz
 Pod::POM::Web::Indexer                0  D/DA/DAMI/Pod-POM-Web-1.17.tar.gz
