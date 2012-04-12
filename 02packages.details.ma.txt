@@ -524,7 +524,7 @@ MARC::SubjectMap::Handler         undef  E/ES/ESUMMERS/MARC-SubjectMap-0.92.tar.
 MARC::SubjectMap::Rule            undef  E/ES/ESUMMERS/MARC-SubjectMap-0.92.tar.gz
 MARC::SubjectMap::Rules           undef  E/ES/ESUMMERS/MARC-SubjectMap-0.92.tar.gz
 MARC::SubjectMap::XML             undef  E/ES/ESUMMERS/MARC-SubjectMap-0.92.tar.gz
-MARC::Transform                0.002004  R/RE/REIVEUNE/MARC-Transform-0.002004.tar.gz
+MARC::Transform                0.003001  R/RE/REIVEUNE/MARC-Transform-0.003001.tar.gz
 MARC::Utils::MARC2Ini              0.02  B/BB/BBAXTER/MARC-Utils-MARC2Ini-0.02.tar.gz
 MARC::Utils::MARC2MARC_in_JSON     0.05  B/BB/BBAXTER/MARC-Utils-MARC2MARC_in_JSON-0.05.tar.gz
 MARC::Utils::MARC2Pairs            0.02  B/BB/BBAXTER/MARC-Utils-MARC2Pairs-0.02.tar.gz

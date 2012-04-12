@@ -1541,6 +1541,12 @@ HTTP::Response,GAAS,c
 HTTP::Response,LWWWP,m
 HTTP::Response::CGI,KTDREYER,f
 HTTP::Response::Encoding,DANKOGAI,f
+HTTP::Response::Maker,MOTEMEN,f
+HTTP::Response::Maker::Base,MOTEMEN,f
+HTTP::Response::Maker::Exception,MOTEMEN,f
+HTTP::Response::Maker::HTTPResponse,MOTEMEN,f
+HTTP::Response::Maker::PSGI,MOTEMEN,f
+HTTP::Response::Maker::Plack,MOTEMEN,f
 HTTP::Response::OnDisk,CODEREPOS,c
 HTTP::Response::OnDisk,DMAKI,f
 HTTP::Response::Parser,MALA,f

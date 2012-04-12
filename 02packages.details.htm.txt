@@ -1345,6 +1345,12 @@ HTTP::Request::StreamingUpload     0.01  Y/YA/YAPPO/HTTP-Request-StreamingUpload
 HTTP::Response                     6.03  G/GA/GAAS/HTTP-Message-6.03.tar.gz
 HTTP::Response::CGI                 1.0  K/KT/KTDREYER/HTTP-Response-CGI-1.0.tar.gz
 HTTP::Response::Encoding           0.06  D/DA/DANKOGAI/HTTP-Response-Encoding-0.06.tar.gz
+HTTP::Response::Maker              0.01  M/MO/MOTEMEN/HTTP-Response-Maker-0.01.tar.gz
+HTTP::Response::Maker::Base       undef  M/MO/MOTEMEN/HTTP-Response-Maker-0.01.tar.gz
+HTTP::Response::Maker::Exception  undef  M/MO/MOTEMEN/HTTP-Response-Maker-0.01.tar.gz
+HTTP::Response::Maker::HTTPResponse undef  M/MO/MOTEMEN/HTTP-Response-Maker-0.01.tar.gz
+HTTP::Response::Maker::Plack      undef  M/MO/MOTEMEN/HTTP-Response-Maker-0.01.tar.gz
+HTTP::Response::Maker::PSGI       undef  M/MO/MOTEMEN/HTTP-Response-Maker-0.01.tar.gz
 HTTP::Response::OnDisk          0.02002  D/DM/DMAKI/HTTP-Response-OnDisk-0.02002.tar.gz
 HTTP::Response::Parser             0.03  M/MA/MALA/HTTP-Response-Parser-0.03.tar.gz
 HTTP::Response::Parser::PP        undef  M/MA/MALA/HTTP-Response-Parser-0.03.tar.gz
