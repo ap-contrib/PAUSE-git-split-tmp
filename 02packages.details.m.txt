@@ -325,7 +325,7 @@ MyInterfaces::FullerData_x0020_Fortune_x0020_Cookie::FullerData_x0020_Fortune_x0
 MyInterfaces::GlobalWeather::GlobalWeatherSoap undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyInterfaces::HelloWorld::HelloWorldSoap undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyInterfaces::TestService::TestPort undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
-MyIterator                        undef  A/AK/AKALINUX/Data-Range-Compare-Stream-3.021.tar.gz
+MyIterator                        undef  A/AK/AKALINUX/Data-Range-Compare-Stream-3.022.tar.gz
 MyLexicalHandler                  undef  P/PC/PCIMPRICH/XML-Directory-1.00.tar.gz
 mylib                              1.02  G/GA/GAAS/mylib-1.02.tar.gz
 MyLib                             undef  D/DU/DUNCAND/Locale-KeyedText-v1.73.0.tar.gz
