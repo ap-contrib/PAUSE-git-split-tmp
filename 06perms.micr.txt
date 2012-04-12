@@ -1291,6 +1291,7 @@ Module::Install::Bundle,INGY,c
 Module::Install::Bundle,JESSE,c
 Module::Install::Bundle::LocalLib,DMAKI,f
 Module::Install::Bundle::Platypus,DMAKI,f
+Module::Install::CPANfile,MIYAGAWA,f
 Module::Install::Can,ADAMK,c
 Module::Install::Can,AUDREYT,f
 Module::Install::Can,AUTRIJUS,c
