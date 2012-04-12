@@ -197,7 +197,7 @@ PostScript::Calendar               1.01  C/CJ/CJM/PostScript-Calendar-1.01.tar.g
 PostScript::CDCover                   1  C/CB/CBOUVI/PostScript-CDCover-1.0.tar.gz
 PostScript::CDCover::Directory        1  C/CB/CBOUVI/PostScript-CDCover-1.0.tar.gz
 PostScript::Columns                1.23  F/FI/FIVE/PostScript-Columns-1.23.tar.gz
-PostScript::Convert                0.01  C/CJ/CJM/PostScript-Convert-0.01.tar.gz
+PostScript::Convert                0.02  C/CJ/CJM/PostScript-Convert-0.02.tar.gz
 PostScript::Document               0.06  S/SH/SHAWNPW/PostScript-0.06.tar.gz
 PostScript::Elements              undef  S/SH/SHAWNPW/PostScript-0.06.tar.gz
 PostScript::EPSF                   0.01  G/GA/GAAS/PostScript-EPSF-0.01.tar.gz
