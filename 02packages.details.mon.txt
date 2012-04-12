@@ -263,8 +263,8 @@ Moose::Meta::Attribute::Native::Trait::Number 2.0403  D/DO/DOY/Moose-2.0403.tar.
 Moose::Meta::Attribute::Native::Trait::String 2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Class               2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Class::Custom::Trait::AutoTable undef  J/JH/JHALLOCK/Storm-0.10-withoutworldwriteables.tar.gz
-Moose::Meta::Class::Custom::Trait::Deprecated 0  M/MA/MAROS/Games-Lacuna-Task-2.04.tar.gz
-Moose::Meta::Class::Custom::Trait::NoAutomatic 0  M/MA/MAROS/Games-Lacuna-Task-2.04.tar.gz
+Moose::Meta::Class::Custom::Trait::Deprecated 0  M/MA/MAROS/Games-Lacuna-Task-2.05.tar.gz
+Moose::Meta::Class::Custom::Trait::NoAutomatic 0  M/MA/MAROS/Games-Lacuna-Task-2.05.tar.gz
 Moose::Meta::Class::Custom::Trait::PRANG 0.14  M/MU/MUTANT/PRANG-0.14.tar.gz
 Moose::Meta::Instance            2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Meta::Method              2.0403  D/DO/DOY/Moose-2.0403.tar.gz
