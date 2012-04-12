@@ -201,8 +201,8 @@ Alien::VideoLAN::LibVLC            0.04  A/AS/ASOKOLOV/Alien-VideoLAN-LibVLC-0.0
 Alien::Win32::LZMA                 4.66  A/AD/ADAMK/Alien-Win32-LZMA-4.66.tar.gz
 Alien::WiX                     1.305419001  C/CS/CSJEWELL/Alien-WiX-Version30-1.305419001.tar.gz
 Alien::WiX::Version30          5419.100  C/CS/CSJEWELL/Alien-WiX-Version30-1.305419001.tar.gz
-Alien::wxWidgets                   0.57  M/MD/MDOOTSON/Alien-wxWidgets-0.57.tar.gz
-Alien::wxWidgets::Utility             0  M/MD/MDOOTSON/Alien-wxWidgets-0.57.tar.gz
+Alien::wxWidgets                   0.58  M/MD/MDOOTSON/Alien-wxWidgets-0.58.tar.gz
+Alien::wxWidgets::Utility             0  M/MD/MDOOTSON/Alien-wxWidgets-0.58.tar.gz
 AlignAid                         v0.0.2  D/DM/DMESSINA/AlignAid-v0.0.2.tar.gz
 Alister::Base::Sums                1.05  L/LE/LEOCHARRE/Alister-Base-Sums-1.05.tar.gz
 all                              0.5101  D/DE/DEXTER/all-0.5101.tar.gz
