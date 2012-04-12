@@ -1475,6 +1475,7 @@ MooseX::App::Plugin::BashCompletion,MAROS,f
 MooseX::App::Plugin::BashCompletion::Command,MAROS,f
 MooseX::App::Plugin::BashCompletion::Meta::Class,MAROS,f
 MooseX::App::Plugin::Color,MAROS,f
+MooseX::App::Plugin::Color::Meta::Class,MAROS,f
 MooseX::App::Plugin::Config,MAROS,f
 MooseX::App::Plugin::ConfigHome,MAROS,f
 MooseX::App::Role,MAROS,f
