@@ -272,7 +272,7 @@ App::GitGot::Outputter::dark       1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
 App::GitGot::Outputter::light      1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
 App::GitGot::Repo                  1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
 App::GitGot::Repo::Git             1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
-App::GitHub                        0.12  W/WO/WORR/App-GitHub-0.12.tar.gz
+App::GitHub                        0.13  W/WO/WORR/App-GitHub-0.13.tar.gz
 App::GitHub::create              0.0012  R/RO/ROKR/App-GitHub-create-0.0012.tar.gz
 App::GitHub::FindRepository        0.06  R/RK/RKRIMEN/App-GitHub-FindRepository-0.06.tar.gz
 App::GitHub::FindRepository::Repository undef  R/RK/RKRIMEN/App-GitHub-FindRepository-0.06.tar.gz
