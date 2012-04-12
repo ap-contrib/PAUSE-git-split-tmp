@@ -502,6 +502,7 @@ Exporter::Simple,CODEREPOS,c
 Exporter::Simple,MARCEL,f
 Exporter::Tidy,JUERD,m
 Exporter::VA,DLUGOSZ,f
+Exporter::WithBase,DOLMEN,f
 ExprNode,TATE,f
 ExprParser,TATE,f
 Expression,PERRAD,f
