@@ -497,7 +497,7 @@ Lyrics::Fetcher::LyricsOnDemand   undef  R/RE/REFLOG/Lyrics-Fetcher-0.3.1.tar.gz
 Lyrics::Fetcher::LyricsTime       undef  R/RE/REFLOG/Lyrics-Fetcher-0.3.1.tar.gz
 Lyrics::Fetcher::LyricWiki         0.10  B/BI/BIGPRESH/Lyrics-Fetcher-LyricWiki-0.10.tar.gz
 LYUMING::Dummy::Dist3              0.02  L/LY/LYUMING/LYUMING-Dummy-Dist3-0.02.tar.gz
-M                                     1  M/MS/MSTROUT/M-1.tar.gz
+M                              1.000001  M/MS/MSTROUT/M-1.000001.tar.gz
 M3::ServerView                     0.04  M/MA/MARWIL/M3-ServerView-0.04.tar.gz
 M3::ServerView::Entry             undef  M/MA/MARWIL/M3-ServerView-0.04.tar.gz
 M3::ServerView::FindJobEntry      undef  M/MA/MARWIL/M3-ServerView-0.04.tar.gz
