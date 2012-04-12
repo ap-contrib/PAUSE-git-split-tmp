@@ -400,8 +400,8 @@ Math::Geometry::Planar::Offset     1.05  E/EW/EWILHELM/Math-Geometry-Planar-Offs
 Math::Geometry::Voronoi             1.3  S/SA/SAMTREGAR/Math-Geometry-Voronoi-1.3.tar.gz
 Math::GMatrix                       0.2  A/AC/ACESTER/Math-GMatrix-0.2.tar.gz
 Math::GMP                          2.06  T/TU/TURNSTEP/Math-GMP-2.06.tar.gz
-Math::GMPf                         0.33  S/SI/SISYPHUS/Math-GMPf-0.33.tar.gz
-Math::GMPf::Random                 0.33  S/SI/SISYPHUS/Math-GMPf-0.33.tar.gz
+Math::GMPf                         0.34  S/SI/SISYPHUS/Math-GMPf-0.34.tar.gz
+Math::GMPf::Random                 0.34  S/SI/SISYPHUS/Math-GMPf-0.34.tar.gz
 Math::GMPn                         0.03  S/SA/SALVA/Math-GMPn-0.03.tar.gz
 Math::GMPq                         0.32  S/SI/SISYPHUS/Math-GMPq-0.32.tar.gz
 Math::GMPq::Random                 0.32  S/SI/SISYPHUS/Math-GMPq-0.32.tar.gz
