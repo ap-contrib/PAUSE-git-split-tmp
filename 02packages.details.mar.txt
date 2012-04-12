@@ -287,8 +287,8 @@ Math::CMA                           0.1  B/BJ/BJOERN/Math-CMA-0.1.tar.gz
 Math::Combination_out              0.13  K/KA/KALEYCHEV/Math-Combination_out-0.13.tar.gz
 Math::Combinatorics                0.09  A/AL/ALLENDAY/Math-Combinatorics-0.09.tar.gz
 Math::Complex                      1.59  Z/ZE/ZEFRAM/Math-Complex-1.59.tar.gz
-Math::Complex_C                    0.04  S/SI/SISYPHUS/Math-Complex_C-0.04.tar.gz
-Math::Complex_C::Long              0.04  S/SI/SISYPHUS/Math-Complex_C-0.04.tar.gz
+Math::Complex_C                    0.05  S/SI/SISYPHUS/Math-Complex_C-0.05.tar.gz
+Math::Complex_C::Long              0.05  S/SI/SISYPHUS/Math-Complex_C-0.05.tar.gz
 Math::ContinuedFraction            0.11  J/JG/JGAMBLE/Math-ContinuedFraction-0.11.tar.gz
 Math::ConvexHull                   1.04  S/SM/SMUELLER/Math-ConvexHull-1.04.tar.gz
 Math::ConvexHull::MonotoneChain    0.01  S/SM/SMUELLER/Math-ConvexHull-MonotoneChain-0.01.tar.gz
