@@ -434,6 +434,7 @@ Perl::Critic::Policy::RegularExpressions::ProhibitUnusualDelimiters 1.117  T/TH/
 Perl::Critic::Policy::RegularExpressions::RequireBracesForMultiline 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::RegularExpressions::RequireDotMatchAnything 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::RegularExpressions::RequireExtendedFormatting 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
+Perl::Critic::Policy::RegularExpressions::RequireExtendedFormattingExceptForSplit 1.117  R/RE/RENEEB/Perl-Critic-RENEEB-0.01.tar.gz
 Perl::Critic::Policy::RegularExpressions::RequireLineBoundaryMatching 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::Storable::ProhibitStoreOrFreeze 0.01  M/MA/MATTD/Perl-Critic-Storable-0.01.tar.gz
 Perl::Critic::Policy::Subroutines::ProhibitAmpersandSigils 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
@@ -533,6 +534,7 @@ Perl::Critic::Pulp::PodParser::ProhibitUnbalancedParens 69  K/KR/KRYDE/Perl-Crit
 Perl::Critic::Pulp::PodParser::RequireLinkedURLs 69  K/KR/KRYDE/Perl-Critic-Pulp-69.tar.gz
 Perl::Critic::Pulp::ProhibitDuplicateHashKeys::Qword 69  K/KR/KRYDE/Perl-Critic-Pulp-69.tar.gz
 Perl::Critic::Pulp::Utils            69  K/KR/KRYDE/Perl-Critic-Pulp-69.tar.gz
+Perl::Critic::RENEEB               0.01  R/RE/RENEEB/Perl-Critic-RENEEB-0.01.tar.gz
 Perl::Critic::Statistics          1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Storable             0.01  M/MA/MATTD/Perl-Critic-Storable-0.01.tar.gz
 Perl::Critic::StricterSubs         0.03  T/TH/THALJEF/strictersubs/Perl-Critic-StricterSubs-0.03.tar.gz
