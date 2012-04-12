@@ -1057,6 +1057,9 @@ Module::CPANTS::Unpack,DOMM,c
 Module::CPANTS::Unpack,LBROCARD,f
 Module::CPANTS::asHash,DOMM,f
 Module::CPANTS::asHash,JQUELIN,c
+Module::CPANfile,MIYAGAWA,f
+Module::CPANfile::Environment,MIYAGAWA,f
+Module::CPANfile::Result,MIYAGAWA,f
 Module::Camel,CELOGEEK,f
 Module::Changes,CODEREPOS,c
 Module::Changes,MARCEL,f
