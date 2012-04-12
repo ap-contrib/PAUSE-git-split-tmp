@@ -959,6 +959,10 @@ Geo::Postcode::Location,LLAP,c
 Geo::Postcode::Location,WROSS,f
 Geo::Postcodes,ARNE,m
 Geo::Postcodes::DK,ARNE,f
+Geo::Postcodes::JP,BKB,f
+Geo::Postcodes::JP::DB,BKB,f
+Geo::Postcodes::JP::Process,BKB,f
+Geo::Postcodes::JP::Update,BKB,f
 Geo::Postcodes::NO,ARNE,f
 Geo::Postcodes::Update,ARNE,f
 Geo::Proj,MARKOV,f
