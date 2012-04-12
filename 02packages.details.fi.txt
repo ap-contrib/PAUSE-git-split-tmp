@@ -79,7 +79,7 @@ File::FDkeeper                     0.06  P/PA/PATL/File-FDkeeper-0.06.tar.gz
 File::FDkeeper::Client            undef  P/PA/PATL/File-FDkeeper-0.06.tar.gz
 File::FDkeeper::Server            undef  P/PA/PATL/File-FDkeeper-0.06.tar.gz
 File::FDpasser                     0.09  A/AD/ADDI/File-FDpasser-0.09.tar.gz
-File::Fetch                        0.32  B/BI/BINGOS/File-Fetch-0.32.tar.gz
+File::Fetch                        0.34  B/BI/BINGOS/File-Fetch-0.34.tar.gz
 File::Fetch::Item                 undef  K/KA/KANE/File-Fetch-0.08.tar.gz
 File::fgets                      v0.0.4  M/MS/MSCHWERN/File-fgets-v0.0.4.tar.gz
 File::Filename                     1.05  L/LE/LEOCHARRE/File-Filename-1.05.tar.gz
