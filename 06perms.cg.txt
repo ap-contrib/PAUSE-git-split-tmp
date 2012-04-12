@@ -966,6 +966,8 @@ CGI::Snapp::Demo::Four::Wrapper,RSAVAGE,f
 CGI::Snapp::Demo::One,RSAVAGE,f
 CGI::Snapp::Demo::Three,RSAVAGE,f
 CGI::Snapp::Demo::Two,RSAVAGE,f
+CGI::Snapp::Dispatch,RSAVAGE,f
+CGI::Snapp::Dispatch::Regexp,RSAVAGE,f
 CGI::Snapp::Plugin::Forward,RSAVAGE,f
 CGI::Snapp::Plugin::Redirect,RSAVAGE,f
 CGI::SocialMedia,NHORNE,f
