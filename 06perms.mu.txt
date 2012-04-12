@@ -597,6 +597,7 @@ MySQL::TableInfo,SHERZODR,m
 MySQL::Util,GRAVATTJ,m
 MySQL::Utils,ASPIERS,f
 MySaxHandler,ALDICKEY,f
+MyScript,AWNCORP,f
 MyServer::HelloWorld::HelloWorldSoap,BAERGAJ,f
 MyServer::HelloWorld::HelloWorldSoap,MKUTTER,c
 MyServer::TestService::TestPort,BAERGAJ,f
