@@ -104,7 +104,7 @@ OpenGL::Simple                     0.03  J/JC/JCHIN/OpenGL-Simple-0.03.tar.gz
 OpenGL::Simple::GLUT               0.03  J/JC/JCHIN/OpenGL-Simple-GLUT-0.03.tar.gz
 OpenGL::Simple::Viewer             0.03  J/JC/JCHIN/OpenGL-Simple-Viewer-0.03.tar.gz
 OpenGL::XScreenSaver               0.04  P/PE/PENMA/OpenGL-XScreenSaver-0.04.tar.gz
-OpenGuides                         0.65  D/DO/DOM/OpenGuides-0.65.tar.gz
+OpenGuides                         0.66  B/BO/BOB/OpenGuides-0.66.tar.gz
 OpenGuides::Build                  0.02  D/DO/DOM/OpenGuides-0.65.tar.gz
 OpenGuides::CGI                    0.09  D/DO/DOM/OpenGuides-0.65.tar.gz
 OpenGuides::Config                 0.06  D/DO/DOM/OpenGuides-0.65.tar.gz
