@@ -112,8 +112,8 @@ App::Donburi::Web::C::Root        undef  M/MI/MIKIHOSHI/App-Donburi-0.03.tar.gz
 App::Donburi::Web::Dispatcher     undef  M/MI/MIKIHOSHI/App-Donburi-0.03.tar.gz
 App::Donburi::Web::Request        undef  M/MI/MIKIHOSHI/App-Donburi-0.03.tar.gz
 App::DoubleUp                    v0.2.4  S/ST/STUIFZAND/App-DoubleUp-v0.2.4.tar.gz
-App::DPath                         0.03  S/SC/SCHWIGON/app-dpath/App-DPath-0.03.tar.gz
-App::DPath::Command::search       undef  S/SC/SCHWIGON/app-dpath/App-DPath-0.03.tar.gz
+App::DPath                         0.04  S/SC/SCHWIGON/App-DPath-0.04.tar.gz
+App::DPath::Command::search        0.04  S/SC/SCHWIGON/App-DPath-0.04.tar.gz
 App::Dthumb                         0.2  D/DE/DERF/dthumb-0.2.tar.gz
 App::Dthumb::Data                   0.2  D/DE/DERF/dthumb-0.2.tar.gz
 App::DualLivedDiff                 1.07  S/SM/SMUELLER/App-DualLivedDiff-1.07.tar.gz
