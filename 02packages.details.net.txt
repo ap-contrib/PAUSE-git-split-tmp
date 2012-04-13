@@ -394,7 +394,7 @@ nfa                               undef  S/SO/SOREAR/STD-20101111.tar.gz
 NFA::Lazy                         undef  S/SO/SOREAR/STD-20101111.tar.gz
 NFA::Node                         undef  S/SO/SOREAR/STD-20101111.tar.gz
 NFA::seq                          undef  S/SO/SOREAR/STD-20101111.tar.gz
-Nginx                          1.001019002  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.2.tar.gz
+Nginx                          1.001019003  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.3.tar.gz
 Nginx::Control                     0.04  N/NA/NACHBAUR/Nginx-Control-0.04.tar.gz
 Nginx::Engine                      0.12  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
 Nginx::Engine::Bufs               undef  Z/ZZ/ZZZ/Nginx-Engine-0.06.tar.gz
@@ -406,7 +406,7 @@ Nginx::Engine::PP::Bufarray        0.03  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
 Nginx::HTTP                        0.03  Z/ZZ/ZZZ/Nginx-HTTP-0.03.tar.gz
 Nginx::Module::Gallery             0.01  R/RS/RSHADOW/Nginx-Module-Gallery-0.01.tar.gz
 Nginx::ParseLog                    1.01  N/NR/NRG/Nginx-ParseLog-1.01.tar.gz
-Nginx::Perl                    1.001019002  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.2.tar.gz
+Nginx::Perl                    1.001019003  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.3.tar.gz
 Nginx::ReadBody                    0.07  T/TP/TPABA/Nginx/Nginx-ReadBody-0.07.tar.gz
 Nginx::Redis                   1.001012004  Z/ZZ/ZZZ/Nginx-Redis-1.1.12.4.tar.gz
 Nginx::Runner                     0.001  U/UN/UNDEF/Nginx-Runner-0.001.tar.gz
@@ -417,9 +417,9 @@ Nginx::Simple::Cookie             undef  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
 Nginx::Simple::Dispatch            0.02  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
 Nginx::Simple::Dispatcher         undef  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
 Nginx::Simple::Dispatcher::Attributes undef  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
-Nginx::Test                    1.001019002  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.2.tar.gz
-Nginx::Test::Child             1.001019002  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.2.tar.gz
-NginxPerlTest                  1.001019002  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.2.tar.gz
+Nginx::Test                    1.001019003  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.3.tar.gz
+Nginx::Test::Child             1.001019003  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.3.tar.gz
+NginxPerlTest                  1.001019003  Z/ZZ/ZZZ/Nginx-Perl-1.1.19.3.tar.gz
 Nice                              undef  T/TO/TOMC/scripts/ADVLABS/nice/Nice.pm.gz
 Nikto::Parser                      0.01  J/JA/JABRA/Nikto-Parser-0.01.tar.gz
 Nikto::Parser::Host                0.01  J/JA/JABRA/Nikto-Parser-0.01.tar.gz
