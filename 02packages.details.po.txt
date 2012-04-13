@@ -122,8 +122,8 @@ POE::Component::PluginManager::PluginAPI 0.67  W/WH/WHOPPIX/POE-Component-Plugin
 POE::Component::Pool::DBI         0.014  T/TA/TAG/POE-Component-Pool-DBI-0.014.tar.gz
 POE::Component::Pool::Thread      0.015  T/TA/TAG/POE-Component-Pool-Thread-0.015.tar.gz
 POE::Component::PreforkDispatch   0.101  E/EW/EWATERS/POE-Component-PreforkDispatch-0.101.tar.gz
-POE::Component::ProcTerminator     0.01  M/MN/MNUNBERG/POE-Component-ProcTerminator-0.01.tar.gz
-POE::Component::ProcTerminator::Batch 0.01  M/MN/MNUNBERG/POE-Component-ProcTerminator-0.01.tar.gz
+POE::Component::ProcTerminator     0.02  M/MN/MNUNBERG/POE-Component-ProcTerminator-0.02.tar.gz
+POE::Component::ProcTerminator::Batch 0.02  M/MN/MNUNBERG/POE-Component-ProcTerminator-0.02.tar.gz
 POE::Component::Proxy::SOCKS       1.02  B/BI/BINGOS/POE-Component-Proxy-SOCKS-1.02.tar.gz
 POE::Component::Proxy::TCP          1.2  A/AN/ANDYPUR/POE-Component-Proxy-TCP-1.2.tgz
 POE::Component::Proxy::TCP::PoeDebug 0.01  A/AN/ANDYPUR/POE-Component-Proxy-TCP-1.2.tgz

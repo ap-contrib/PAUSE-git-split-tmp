@@ -114,8 +114,8 @@ HTML::FormHandler::Field::Weekday  0.01  G/GS/GSHANK/HTML-FormHandler-0.40006.ta
 HTML::FormHandler::Field::Year     0.01  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Fields         undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Foo            undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-HTML::FormHandler::Generator::DBIC 0.04  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.18.tar.gz
-HTML::FormHandler::Generator::DBIC::Cmd 0.04  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.18.tar.gz
+HTML::FormHandler::Generator::DBIC 0.04  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.19.tar.gz
+HTML::FormHandler::Generator::DBIC::Cmd 0.04  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.19.tar.gz
 HTML::FormHandler::I18N           undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::I18N::de_de    undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::I18N::en_us    undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
@@ -128,8 +128,8 @@ HTML::FormHandler::I18N::ua_ua    undef  G/GS/GSHANK/HTML-FormHandler-0.40006.ta
 HTML::FormHandler::InitResult     undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Merge          undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Model          undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-HTML::FormHandler::Model::DBIC     0.18  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.18.tar.gz
-HTML::FormHandler::Model::DBIC::TypeMap undef  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.18.tar.gz
+HTML::FormHandler::Model::DBIC     0.19  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.19.tar.gz
+HTML::FormHandler::Model::DBIC::TypeMap undef  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.19.tar.gz
 HTML::FormHandler::Model::Object  undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Moose          undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Moose::Role    undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
@@ -145,9 +145,9 @@ HTML::FormHandler::Result         undef  G/GS/GSHANK/HTML-FormHandler-0.40006.ta
 HTML::FormHandler::Result::Role   undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Test           undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::TraitFor::Captcha undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-HTML::FormHandler::TraitFor::DBICFields undef  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.18.tar.gz
+HTML::FormHandler::TraitFor::DBICFields undef  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.19.tar.gz
 HTML::FormHandler::TraitFor::I18N undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-HTML::FormHandler::TraitFor::Model::DBIC 0.14  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.18.tar.gz
+HTML::FormHandler::TraitFor::Model::DBIC 0.14  G/GS/GSHANK/HTML-FormHandler-Model-DBIC-0.19.tar.gz
 HTML::FormHandler::TraitFor::Types undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Traits         undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Types           0.01  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
