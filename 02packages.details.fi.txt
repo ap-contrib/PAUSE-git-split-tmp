@@ -398,6 +398,7 @@ File::ShareDir::PAR                0.06  S/SM/SMUELLER/File-ShareDir-PAR-0.06.ta
 File::ShareDir::PathClass      1.112440  J/JQ/JQUELIN/File-ShareDir-PathClass-1.112440.tar.gz
 File::ShareDir::ProjectDistDir   v0.3.1  K/KE/KENTNL/File-ShareDir-ProjectDistDir-0.3.1.tar.gz
 File::SharedNFSLock                0.03  S/SM/SMUELLER/File-SharedNFSLock-0.03.tar.gz
+File::Shuffle                      0.10  K/KU/KUBINA/File-Shuffle-0.10.tar.gz
 File::Signature                   1.009  J/JE/JEREMY/File-Signature-1.009.tar.gz
 File::SimpleQuery                  0.01  B/BT/BTP/File-SimpleQuery-0.01.tar.gz
 File::Slurp                     9999.19  U/UR/URI/File-Slurp-9999.19.tar.gz

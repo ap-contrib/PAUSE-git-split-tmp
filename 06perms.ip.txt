@@ -665,6 +665,7 @@ Image::EXIF,ARC,c
 Image::EXIF,CCPRO,f
 Image::EXIF::DateTime::Parser,PORRIDGE,m
 Image::Embroidery,KBAUCOM,f
+Image::Empty,CAGAO,f
 Image::Epeg,MCURTIS,m
 Image::Epeg,TOKUHIROM,c
 Image::Exif,GAAS,f
