@@ -413,6 +413,13 @@ Exception::Warning,DEXTER,f
 Exceptions,PSEIBEL,f
 ExecCmds,MARKPF,f
 ExecCmds::Utility,MARKPF,f
+Execution::DBI,DANFRU,f
+Execution::Executable,DANFRU,f
+Execution::LinuxSysStatistics,DANFRU,f
+Execution::Perl,DANFRU,f
+Execution::RemoteCommand,DANFRU,f
+Execution::SNMP,DANFRU,f
+Execution::URL,DANFRU,f
 Exherbo::Packager,WORR,m
 Exim::SpoolMessage,KIRILLM,f
 Exodist::Util,EXODIST,f

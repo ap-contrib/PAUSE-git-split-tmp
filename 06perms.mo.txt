@@ -213,6 +213,11 @@ Monitis::Process,YKO,f
 Monitis::SubAccounts,YKO,f
 Monitis::TransactionMonitors,YKO,f
 Monitis::VisitorTrackers,YKO,f
+MonitisConnection::MonitorIDCache,DANFRU,f
+MonitisConnection::QueueItem,DANFRU,f
+MonitisMonitorManager,DANFRU,f
+MonitisMonitorManager::M3PluginCommon,DANFRU,f
+MonitisMonitorManager::MonitisConnection,DANFRU,f
 Monitor,SRIRAM,c
 Monitor::Array,SRIRAM,c
 Monitor::Hash,SRIRAM,c

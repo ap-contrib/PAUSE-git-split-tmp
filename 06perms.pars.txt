@@ -915,6 +915,10 @@ Parser::Table,JWIEGLEY,f
 Parser::TopDown::DFA,JWIEGLEY,f
 Parser::TopDown::PDA,JWIEGLEY,f
 Parser::TopDown::Table,JWIEGLEY,f
+Parsing::JSON,DANFRU,f
+Parsing::LineNumber,DANFRU,f
+Parsing::Regex,DANFRU,f
+Parsing::XPath,DANFRU,f
 Passwd,JRED,f
 Passwd::DB,EESTABROO,f
 Passwd::Linux,EESTABROO,f
