@@ -249,7 +249,7 @@ App::gh::Git::activestate_pipe     0.01  C/CO/CORNELIUS/App-gh-0.57.tar.gz
 App::gh::Git::Error::Command       0.01  C/CO/CORNELIUS/App-gh-0.57.tar.gz
 App::gh::Logger                   undef  C/CO/CORNELIUS/App-gh-0.45.tar.gz
 App::gh::Utils                    undef  C/CO/CORNELIUS/App-gh-0.57.tar.gz
-App::gist                          0.05  A/AL/ALEXBIO/App-gist-0.05.tar.gz
+App::gist                          0.06  A/AL/ALEXBIO/App-gist-0.06.tar.gz
 App::Git::SitePerl                 0.01  N/NU/NUFFIN/App-Git-SitePerl-0.01.tar.gz
 App::gitfancy                     0.003  G/GY/GYPARK/App-gitfancy-0.003.tar.gz
 App::GitGot                        1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
