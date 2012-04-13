@@ -436,6 +436,7 @@ Bio::FeatureIO::vecscreen_simple,BIOPERLML,f
 Bio::FeatureIO::vecscreen_simple,CJFIELDS,c
 Bio::GFF3::LowLevel,RBUELS,f
 Bio::GFF3::LowLevel::Parser,RBUELS,f
+Bio::GFF3::LowLevel::Parser::1_0_backcompat,RBUELS,f
 Bio::GFF3::Transform::FromFasta,RBUELS,f
 Bio::GFF3::Transform::SyncDirectives,RBUELS,f
 Bio::GMOD,TWH,m
