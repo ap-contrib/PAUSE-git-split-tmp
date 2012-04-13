@@ -6,7 +6,6 @@ DateTime::Format::RFC3339      1.000005  I/IK/IKEGAMI/DateTime-Format-RFC3339-v1
 DateTime::Format::RFC3501          0.02  A/AL/ALEXM/DateTime-Format-RFC3501-0.02.tar.gz
 DateTime::Format::Roman            0.03  P/PI/PIJLL/DateTime-Format-Roman-0.03.tar.gz
 DateTime::Format::RSS           0.03000  D/DM/DMAKI/DateTime-Format-RSS-0.03000.tar.gz
-DateTime::Format::SCTS             0.01  D/DE/DEXTER/DateTime-Format-SCTS-0.01.tar.gz
 DateTime::Format::SQLite           0.11  C/CF/CFAERBER/DateTime-Format-SQLite-0.11.tar.gz
 DateTime::Format::Strptime       1.5000  D/DR/DROLSKY/DateTime-Format-Strptime-1.5000.tar.gz
 DateTime::Format::Sybase           0.04  R/RK/RKITOVER/DateTime-Format-Sybase-0.04.tar.gz
