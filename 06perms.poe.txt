@@ -104,6 +104,7 @@ POSIX::AtFork,GFUJI,f
 POSIX::Open3,AMBS,f
 POSIX::RT::Clock,LEONT,f
 POSIX::RT::MQ,ILJATABAC,f
+POSIX::RT::Scheduler,LEONT,f
 POSIX::RT::Semaphore,MJP,f
 POSIX::RT::SharedMem,LEONT,f
 POSIX::RT::Signal,LEONT,f
