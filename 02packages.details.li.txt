@@ -182,6 +182,7 @@ Lingua::EN::Numbers::Years         1.01  S/SB/SBURKE/Lingua-EN-Numbers-Years-1.0
 Lingua::EN::Numericalize           1.52  E/EC/ECALDER/Lingua-EN-Numericalize-1.52.tar.gz
 Lingua::EN::Nums2Words             1.14  H/HI/HIGHTOWE/Lingua-EN-Nums2Words-1.14.zip
 Lingua::EN::Phoneme                0.01  M/MA/MARNANEL/Lingua-EN-Phoneme-0.01.tar.gz
+Lingua::EN::PluralToSingular       0.02  B/BK/BKB/Lingua-EN-PluralToSingular-0.02.tar.gz
 Lingua::EN::Segmenter               0.1  S/SP/SPLICE/Lingua-EN-Segmenter-0.1.tar.gz
 Lingua::EN::Segmenter::Baseline     0.1  S/SP/SPLICE/Lingua-EN-Segmenter-0.1.tar.gz
 Lingua::EN::Segmenter::Evaluator    0.1  S/SP/SPLICE/Lingua-EN-Segmenter-0.1.tar.gz
