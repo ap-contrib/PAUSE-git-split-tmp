@@ -75,6 +75,7 @@ DBIx::Class::InflateColumn,RKINYON,c
 DBIx::Class::InflateColumn,WDH,c
 DBIx::Class::InflateColumn::Authen::Passphrase,EDENC,c
 DBIx::Class::InflateColumn::Authen::Passphrase,FLORA,f
+DBIx::Class::InflateColumn::Authen::Passphrase,MSTROUT,c
 DBIx::Class::InflateColumn::BigFloat,CMCKAY,f
 DBIx::Class::InflateColumn::Boolean,GRAF,m
 DBIx::Class::InflateColumn::Currency,BLBLACK,c
@@ -488,6 +489,7 @@ DBIx::Class::PK::Auto::SQLite,RKINYON,c
 DBIx::Class::PK::Auto::SQLite,WDH,c
 DBIx::Class::PassphraseColumn,EDENC,c
 DBIx::Class::PassphraseColumn,FLORA,f
+DBIx::Class::PassphraseColumn,MSTROUT,c
 DBIx::Class::PhoneticSearch,PERLER,f
 DBIx::Class::PopulateMore,JJNAPIORK,f
 DBIx::Class::PopulateMore,PHAYLON,c
