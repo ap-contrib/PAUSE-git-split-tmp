@@ -907,10 +907,10 @@ Data::Zipper::Hash                 0.02  C/CY/CYCLES/Data-Zipper-0.02.tar.gz
 Data::Zipper::MOP                  0.02  C/CY/CYCLES/Data-Zipper-0.02.tar.gz
 data_file                          2.22  C/CJ/CJONES/Microarray-0.45c.zip
 Database                          undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-Database::Migrator                 0.02  D/DR/DROLSKY/Database-Migrator-0.02.tar.gz
-Database::Migrator::Core           0.02  D/DR/DROLSKY/Database-Migrator-0.02.tar.gz
+Database::Migrator                 0.03  D/DR/DROLSKY/Database-Migrator-0.03.tar.gz
+Database::Migrator::Core           0.03  D/DR/DROLSKY/Database-Migrator-0.03.tar.gz
 Database::Migrator::mysql          0.01  D/DR/DROLSKY/Database-Migrator-mysql-0.01.tar.gz
-Database::Migrator::Types          0.02  D/DR/DROLSKY/Database-Migrator-0.02.tar.gz
+Database::Migrator::Types          0.03  D/DR/DROLSKY/Database-Migrator-0.03.tar.gz
 database::queries                 undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
 Database::Schema::Config            .02  S/SA/SAXJAZMAN/database/Database-Schema-Config-.02.tar.gz
 Database::Schema::Verification     1.02  S/SA/SAXJAZMAN/Database-Schema-Verification-1.02.tar.gz
