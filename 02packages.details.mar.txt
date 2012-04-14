@@ -97,6 +97,7 @@ Marpa::XS::Internal::Recognizer       0  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Internal::Value            0  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Recognizer          1.008000  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Value               1.008000  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
+MarpaX::Simple::Rules            v0.2.0  S/ST/STUIFZAND/MarpaX-Simple-Rules-v0.2.0.tar.gz
 Mason                              2.17  J/JS/JSWARTZ/Mason-2.17.tar.gz
 Mason::App                         2.17  J/JS/JSWARTZ/Mason-2.17.tar.gz
 Mason::CodeCache                   2.17  J/JS/JSWARTZ/Mason-2.17.tar.gz

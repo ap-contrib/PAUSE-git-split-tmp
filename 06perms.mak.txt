@@ -285,6 +285,7 @@ Marpa::XS::Internal::Slot,JKEGL,f
 Marpa::XS::Internal::Value,JKEGL,f
 Marpa::XS::Recognizer,JKEGL,f
 Marpa::XS::Value,JKEGL,f
+MarpaX::Simple::Rules,STUIFZAND,f
 Marshal::Dispatch,MUIR,m
 Marshal::Eval,MUIR,m
 Marshal::Packed,MUIR,m
