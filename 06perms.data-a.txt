@@ -123,6 +123,9 @@ Database::CheckConnectivity,SUNNAVY,f
 Database::CheckConnectivity::Driver::Pg,SUNNAVY,f
 Database::CheckConnectivity::Driver::SQLite,SUNNAVY,f
 Database::CheckConnectivity::Driver::mysql,SUNNAVY,f
+Database::Migrator,DROLSKY,f
+Database::Migrator::Core,DROLSKY,f
+Database::Migrator::Types,DROLSKY,f
 Database::Schema::Config,SAXJAZMAN,f
 Database::Schema::Verification,SAXJAZMAN,f
 Database::Wrapper,JOEYATES,f
