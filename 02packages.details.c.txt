@@ -204,7 +204,7 @@ CSS::Style                         1.02  I/IA/IAMCAL/CSS-1.09.tar.gz
 CSS::Tiny                          1.19  A/AD/ADAMK/CSS-Tiny-1.19.tar.gz
 CSS::Tiny::Style               0.000003  S/SC/SCESANO/CSS-Tiny-Style-v0.0.3.tar.gz
 CSS::Value                         1.03  I/IA/IAMCAL/CSS-1.09.tar.gz
-Csv2Xls                            0.03  C/CL/CLADI/Csv2Xls_v0.3.tar.gz
+Csv2Xls                            0.04  C/CL/CLADI/Csv2Xls_v0.4.tar.gz
 CSV::Template                      0.03  S/ST/STEVAN/CSV-Template-0.03.tar.gz
 ctflags                            0.04  S/SA/SALVA/ctflags-0.04.tar.gz
 ctflags::check                     0.02  S/SA/SALVA/ctflags-0.04.tar.gz
