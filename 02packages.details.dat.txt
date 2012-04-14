@@ -909,6 +909,7 @@ data_file                          2.22  C/CJ/CJONES/Microarray-0.45c.zip
 Database                          undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Database::Migrator                 0.01  D/DR/DROLSKY/Database-Migrator-0.01.tar.gz
 Database::Migrator::Core           0.01  D/DR/DROLSKY/Database-Migrator-0.01.tar.gz
+Database::Migrator::mysql          0.01  D/DR/DROLSKY/Database-Migrator-mysql-0.01.tar.gz
 Database::Migrator::Types          0.01  D/DR/DROLSKY/Database-Migrator-0.01.tar.gz
 database::queries                 undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
 Database::Schema::Config            .02  S/SA/SAXJAZMAN/database/Database-Schema-Config-.02.tar.gz
