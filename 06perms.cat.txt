@@ -171,6 +171,7 @@ Catalyst::Plugin::Images,FLORA,c
 Catalyst::Plugin::Images,GAAL,c
 Catalyst::Plugin::Images,HANK,c
 Catalyst::Plugin::Images,JAYK,c
+Catalyst::Plugin::Images,JJNAPIORK,c
 Catalyst::Plugin::Images,JROBINSON,c
 Catalyst::Plugin::Images,JROCKWAY,c
 Catalyst::Plugin::Images,MRAMBERG,c
@@ -188,6 +189,7 @@ Catalyst::Plugin::LeakTracker,ELLIOTT,c
 Catalyst::Plugin::LeakTracker,FLORA,c
 Catalyst::Plugin::LeakTracker,GAAL,c
 Catalyst::Plugin::LeakTracker,HANK,c
+Catalyst::Plugin::LeakTracker,JJNAPIORK,c
 Catalyst::Plugin::LeakTracker,MRAMBERG,c
 Catalyst::Plugin::LeakTracker,MSTROUT,c
 Catalyst::Plugin::LeakTracker,NUFFIN,f
@@ -272,6 +274,7 @@ Catalyst::Plugin::Params::Nested,FLORA,c
 Catalyst::Plugin::Params::Nested,GAAL,c
 Catalyst::Plugin::Params::Nested,HANK,c
 Catalyst::Plugin::Params::Nested,JAYK,c
+Catalyst::Plugin::Params::Nested,JJNAPIORK,c
 Catalyst::Plugin::Params::Nested,JROBINSON,c
 Catalyst::Plugin::Params::Nested,JROCKWAY,c
 Catalyst::Plugin::Params::Nested,MRAMBERG,c
@@ -290,6 +293,7 @@ Catalyst::Plugin::Params::Nested::Expander,FLORA,c
 Catalyst::Plugin::Params::Nested::Expander,GAAL,c
 Catalyst::Plugin::Params::Nested::Expander,HANK,c
 Catalyst::Plugin::Params::Nested::Expander,JAYK,c
+Catalyst::Plugin::Params::Nested::Expander,JJNAPIORK,c
 Catalyst::Plugin::Params::Nested::Expander,JROBINSON,c
 Catalyst::Plugin::Params::Nested::Expander,JROCKWAY,c
 Catalyst::Plugin::Params::Nested::Expander,MRAMBERG,c
@@ -412,6 +416,7 @@ Catalyst::Plugin::Session,GAAL,c
 Catalyst::Plugin::Session,HANK,c
 Catalyst::Plugin::Session,ISLUE,c
 Catalyst::Plugin::Session,JAYK,c
+Catalyst::Plugin::Session,JJNAPIORK,c
 Catalyst::Plugin::Session,JROBINSON,c
 Catalyst::Plugin::Session,JROCKWAY,c
 Catalyst::Plugin::Session,MRAMBERG,c
@@ -434,6 +439,7 @@ Catalyst::Plugin::Session::Defaults,FLORA,c
 Catalyst::Plugin::Session::Defaults,GAAL,c
 Catalyst::Plugin::Session::Defaults,HANK,c
 Catalyst::Plugin::Session::Defaults,JAYK,c
+Catalyst::Plugin::Session::Defaults,JJNAPIORK,c
 Catalyst::Plugin::Session::Defaults,JROBINSON,c
 Catalyst::Plugin::Session::Defaults,JROCKWAY,c
 Catalyst::Plugin::Session::Defaults,MRAMBERG,c
@@ -501,6 +507,7 @@ Catalyst::Plugin::Session::PerUser,GAAL,c
 Catalyst::Plugin::Session::PerUser,HANK,c
 Catalyst::Plugin::Session::PerUser,ISLUE,c
 Catalyst::Plugin::Session::PerUser,JAYK,c
+Catalyst::Plugin::Session::PerUser,JJNAPIORK,c
 Catalyst::Plugin::Session::PerUser,JROBINSON,c
 Catalyst::Plugin::Session::PerUser,JROCKWAY,c
 Catalyst::Plugin::Session::PerUser,MRAMBERG,c
@@ -522,6 +529,7 @@ Catalyst::Plugin::Session::State,GAAL,c
 Catalyst::Plugin::Session::State,HANK,c
 Catalyst::Plugin::Session::State,ISLUE,c
 Catalyst::Plugin::Session::State,JAYK,c
+Catalyst::Plugin::Session::State,JJNAPIORK,c
 Catalyst::Plugin::Session::State,JROBINSON,c
 Catalyst::Plugin::Session::State,JROCKWAY,c
 Catalyst::Plugin::Session::State,MRAMBERG,c
@@ -544,6 +552,7 @@ Catalyst::Plugin::Session::State::Cookie,GAAL,c
 Catalyst::Plugin::Session::State::Cookie,HANK,c
 Catalyst::Plugin::Session::State::Cookie,ISLUE,c
 Catalyst::Plugin::Session::State::Cookie,JAYK,c
+Catalyst::Plugin::Session::State::Cookie,JJNAPIORK,c
 Catalyst::Plugin::Session::State::Cookie,JROBINSON,c
 Catalyst::Plugin::Session::State::Cookie,JROCKWAY,c
 Catalyst::Plugin::Session::State::Cookie,MRAMBERG,c
@@ -579,6 +588,7 @@ Catalyst::Plugin::Session::State::URI,GAAL,c
 Catalyst::Plugin::Session::State::URI,HANK,c
 Catalyst::Plugin::Session::State::URI,ISLUE,c
 Catalyst::Plugin::Session::State::URI,JAYK,c
+Catalyst::Plugin::Session::State::URI,JJNAPIORK,c
 Catalyst::Plugin::Session::State::URI,JROBINSON,c
 Catalyst::Plugin::Session::State::URI,JROCKWAY,c
 Catalyst::Plugin::Session::State::URI,MRAMBERG,c
@@ -605,6 +615,7 @@ Catalyst::Plugin::Session::Store,GAAL,c
 Catalyst::Plugin::Session::Store,HANK,c
 Catalyst::Plugin::Session::Store,ISLUE,c
 Catalyst::Plugin::Session::Store,JAYK,c
+Catalyst::Plugin::Session::Store,JJNAPIORK,c
 Catalyst::Plugin::Session::Store,JROBINSON,c
 Catalyst::Plugin::Session::Store,JROCKWAY,c
 Catalyst::Plugin::Session::Store,MRAMBERG,c
@@ -645,6 +656,7 @@ Catalyst::Plugin::Session::Store::Delegate,FLORA,c
 Catalyst::Plugin::Session::Store::Delegate,GAAL,c
 Catalyst::Plugin::Session::Store::Delegate,HANK,c
 Catalyst::Plugin::Session::Store::Delegate,JAYK,c
+Catalyst::Plugin::Session::Store::Delegate,JJNAPIORK,c
 Catalyst::Plugin::Session::Store::Delegate,JROBINSON,c
 Catalyst::Plugin::Session::Store::Delegate,JROCKWAY,c
 Catalyst::Plugin::Session::Store::Delegate,MRAMBERG,c
@@ -666,6 +678,7 @@ Catalyst::Plugin::Session::Store::Dummy,GAAL,c
 Catalyst::Plugin::Session::Store::Dummy,HANK,c
 Catalyst::Plugin::Session::Store::Dummy,ISLUE,c
 Catalyst::Plugin::Session::Store::Dummy,JAYK,c
+Catalyst::Plugin::Session::Store::Dummy,JJNAPIORK,c
 Catalyst::Plugin::Session::Store::Dummy,JROBINSON,c
 Catalyst::Plugin::Session::Store::Dummy,JROCKWAY,c
 Catalyst::Plugin::Session::Store::Dummy,MRAMBERG,c
@@ -740,6 +753,7 @@ Catalyst::Plugin::Session::Store::Memcached,GAAL,c
 Catalyst::Plugin::Session::Store::Memcached,HANK,c
 Catalyst::Plugin::Session::Store::Memcached,ISLUE,c
 Catalyst::Plugin::Session::Store::Memcached,JAYK,c
+Catalyst::Plugin::Session::Store::Memcached,JJNAPIORK,c
 Catalyst::Plugin::Session::Store::Memcached,JROBINSON,c
 Catalyst::Plugin::Session::Store::Memcached,JROCKWAY,c
 Catalyst::Plugin::Session::Store::Memcached,MRAMBERG,c
@@ -767,6 +781,7 @@ Catalyst::Plugin::Session::Test::Store,GAAL,c
 Catalyst::Plugin::Session::Test::Store,HANK,c
 Catalyst::Plugin::Session::Test::Store,ISLUE,c
 Catalyst::Plugin::Session::Test::Store,JAYK,c
+Catalyst::Plugin::Session::Test::Store,JJNAPIORK,c
 Catalyst::Plugin::Session::Test::Store,JROBINSON,c
 Catalyst::Plugin::Session::Test::Store,JROCKWAY,c
 Catalyst::Plugin::Session::Test::Store,MRAMBERG,c
@@ -783,6 +798,7 @@ Catalyst::Plugin::SessionStateTest,FLORA,c
 Catalyst::Plugin::SessionStateTest,GAAL,c
 Catalyst::Plugin::SessionStateTest,HANK,c
 Catalyst::Plugin::SessionStateTest,JAYK,c
+Catalyst::Plugin::SessionStateTest,JJNAPIORK,c
 Catalyst::Plugin::SessionStateTest,JROBINSON,c
 Catalyst::Plugin::SessionStateTest,JROCKWAY,c
 Catalyst::Plugin::SessionStateTest,MRAMBERG,c
@@ -828,6 +844,7 @@ Catalyst::Plugin::Snippets,FLORA,c
 Catalyst::Plugin::Snippets,GAAL,c
 Catalyst::Plugin::Snippets,HANK,c
 Catalyst::Plugin::Snippets,JAYK,c
+Catalyst::Plugin::Snippets,JJNAPIORK,c
 Catalyst::Plugin::Snippets,JROBINSON,c
 Catalyst::Plugin::Snippets,JROCKWAY,c
 Catalyst::Plugin::Snippets,MRAMBERG,c

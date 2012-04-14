@@ -83,6 +83,7 @@ Catalyst::Model::Jifty::DBI,JROCKWAY,c
 Catalyst::Model::Jifty::DBI,MRAMBERG,c
 Catalyst::Model::KiokuDB,DOY,c
 Catalyst::Model::KiokuDB,FLORA,c
+Catalyst::Model::KiokuDB,JJNAPIORK,c
 Catalyst::Model::KiokuDB,MRAMBERG,c
 Catalyst::Model::KiokuDB,NUFFIN,f
 Catalyst::Model::LDAP,DANIELTWC,f
@@ -420,6 +421,7 @@ Catalyst::Plugin::Authentication,GAAL,c
 Catalyst::Plugin::Authentication,GPHAT,c
 Catalyst::Plugin::Authentication,HANK,c
 Catalyst::Plugin::Authentication,JAYK,c
+Catalyst::Plugin::Authentication,JJNAPIORK,c
 Catalyst::Plugin::Authentication,JROBINSON,c
 Catalyst::Plugin::Authentication,JROCKWAY,c
 Catalyst::Plugin::Authentication,MARKF,c
@@ -466,6 +468,7 @@ Catalyst::Plugin::Authentication::Credential::HTTP,FLORA,c
 Catalyst::Plugin::Authentication::Credential::HTTP,GAAL,c
 Catalyst::Plugin::Authentication::Credential::HTTP,HANK,c
 Catalyst::Plugin::Authentication::Credential::HTTP,JAYK,c
+Catalyst::Plugin::Authentication::Credential::HTTP,JJNAPIORK,c
 Catalyst::Plugin::Authentication::Credential::HTTP,JROBINSON,c
 Catalyst::Plugin::Authentication::Credential::HTTP,JROCKWAY,c
 Catalyst::Plugin::Authentication::Credential::HTTP,MARKF,c
@@ -485,6 +488,7 @@ Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,FLORA,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,GAAL,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,HANK,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,JAYK,c
+Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,JJNAPIORK,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,JROBINSON,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,JROCKWAY,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,MRAMBERG,c
@@ -547,6 +551,7 @@ Catalyst::Plugin::Authentication::Credential::Password,GAAL,c
 Catalyst::Plugin::Authentication::Credential::Password,GPHAT,c
 Catalyst::Plugin::Authentication::Credential::Password,HANK,c
 Catalyst::Plugin::Authentication::Credential::Password,JAYK,c
+Catalyst::Plugin::Authentication::Credential::Password,JJNAPIORK,c
 Catalyst::Plugin::Authentication::Credential::Password,JROBINSON,c
 Catalyst::Plugin::Authentication::Credential::Password,JROCKWAY,c
 Catalyst::Plugin::Authentication::Credential::Password,MARKF,c
@@ -568,6 +573,7 @@ Catalyst::Plugin::Authentication::Credential::TypeKey,FLORA,c
 Catalyst::Plugin::Authentication::Credential::TypeKey,GAAL,c
 Catalyst::Plugin::Authentication::Credential::TypeKey,HANK,c
 Catalyst::Plugin::Authentication::Credential::TypeKey,JAYK,c
+Catalyst::Plugin::Authentication::Credential::TypeKey,JJNAPIORK,c
 Catalyst::Plugin::Authentication::Credential::TypeKey,JROBINSON,c
 Catalyst::Plugin::Authentication::Credential::TypeKey,JROCKWAY,c
 Catalyst::Plugin::Authentication::Credential::TypeKey,MARKF,c
@@ -668,6 +674,7 @@ Catalyst::Plugin::Authentication::Store::Minimal,GAAL,c
 Catalyst::Plugin::Authentication::Store::Minimal,GPHAT,c
 Catalyst::Plugin::Authentication::Store::Minimal,HANK,c
 Catalyst::Plugin::Authentication::Store::Minimal,JAYK,c
+Catalyst::Plugin::Authentication::Store::Minimal,JJNAPIORK,c
 Catalyst::Plugin::Authentication::Store::Minimal,JROBINSON,c
 Catalyst::Plugin::Authentication::Store::Minimal,JROCKWAY,c
 Catalyst::Plugin::Authentication::Store::Minimal,MARKF,c
@@ -690,6 +697,7 @@ Catalyst::Plugin::Authentication::Store::Minimal::Backend,GAAL,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,GPHAT,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,HANK,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,JAYK,c
+Catalyst::Plugin::Authentication::Store::Minimal::Backend,JJNAPIORK,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,JROBINSON,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,JROCKWAY,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,MARKF,c
@@ -715,6 +723,7 @@ Catalyst::Plugin::Authentication::User,GAAL,c
 Catalyst::Plugin::Authentication::User,GPHAT,c
 Catalyst::Plugin::Authentication::User,HANK,c
 Catalyst::Plugin::Authentication::User,JAYK,c
+Catalyst::Plugin::Authentication::User,JJNAPIORK,c
 Catalyst::Plugin::Authentication::User,JROBINSON,c
 Catalyst::Plugin::Authentication::User,JROCKWAY,c
 Catalyst::Plugin::Authentication::User,MARKF,c
@@ -738,6 +747,7 @@ Catalyst::Plugin::Authentication::User::Hash,GAAL,c
 Catalyst::Plugin::Authentication::User::Hash,GPHAT,c
 Catalyst::Plugin::Authentication::User::Hash,HANK,c
 Catalyst::Plugin::Authentication::User::Hash,JAYK,c
+Catalyst::Plugin::Authentication::User::Hash,JJNAPIORK,c
 Catalyst::Plugin::Authentication::User::Hash,JROBINSON,c
 Catalyst::Plugin::Authentication::User::Hash,JROCKWAY,c
 Catalyst::Plugin::Authentication::User::Hash,MARKF,c
@@ -760,6 +770,7 @@ Catalyst::Plugin::Authorization::ACL,GAAL,c
 Catalyst::Plugin::Authorization::ACL,HANK,c
 Catalyst::Plugin::Authorization::ACL,IVORW,c
 Catalyst::Plugin::Authorization::ACL,JAYK,c
+Catalyst::Plugin::Authorization::ACL,JJNAPIORK,c
 Catalyst::Plugin::Authorization::ACL,JROBINSON,c
 Catalyst::Plugin::Authorization::ACL,JROCKWAY,c
 Catalyst::Plugin::Authorization::ACL,MARKF,c
@@ -782,6 +793,7 @@ Catalyst::Plugin::Authorization::ACL::Engine,GAAL,c
 Catalyst::Plugin::Authorization::ACL::Engine,HANK,c
 Catalyst::Plugin::Authorization::ACL::Engine,IVORW,c
 Catalyst::Plugin::Authorization::ACL::Engine,JAYK,c
+Catalyst::Plugin::Authorization::ACL::Engine,JJNAPIORK,c
 Catalyst::Plugin::Authorization::ACL::Engine,JROBINSON,c
 Catalyst::Plugin::Authorization::ACL::Engine,JROCKWAY,c
 Catalyst::Plugin::Authorization::ACL::Engine,MARKF,c
@@ -806,6 +818,7 @@ Catalyst::Plugin::Authorization::Roles,GAAL,c
 Catalyst::Plugin::Authorization::Roles,HANK,c
 Catalyst::Plugin::Authorization::Roles,IVORW,c
 Catalyst::Plugin::Authorization::Roles,JAYK,c
+Catalyst::Plugin::Authorization::Roles,JJNAPIORK,c
 Catalyst::Plugin::Authorization::Roles,JROBINSON,c
 Catalyst::Plugin::Authorization::Roles,JROCKWAY,c
 Catalyst::Plugin::Authorization::Roles,MARKF,c
@@ -891,6 +904,7 @@ Catalyst::Plugin::Cache,FLORA,c
 Catalyst::Plugin::Cache,GAAL,c
 Catalyst::Plugin::Cache,HANK,c
 Catalyst::Plugin::Cache,JAYK,c
+Catalyst::Plugin::Cache,JJNAPIORK,c
 Catalyst::Plugin::Cache,JROBINSON,c
 Catalyst::Plugin::Cache,JROCKWAY,c
 Catalyst::Plugin::Cache,MRAMBERG,c
@@ -907,6 +921,7 @@ Catalyst::Plugin::Cache::Backend,FLORA,c
 Catalyst::Plugin::Cache::Backend,GAAL,c
 Catalyst::Plugin::Cache::Backend,HANK,c
 Catalyst::Plugin::Cache::Backend,JAYK,c
+Catalyst::Plugin::Cache::Backend,JJNAPIORK,c
 Catalyst::Plugin::Cache::Backend,JROBINSON,c
 Catalyst::Plugin::Cache::Backend,JROCKWAY,c
 Catalyst::Plugin::Cache::Backend,MRAMBERG,c
@@ -923,6 +938,7 @@ Catalyst::Plugin::Cache::Backend::FastMmap,FLORA,c
 Catalyst::Plugin::Cache::Backend::FastMmap,GAAL,c
 Catalyst::Plugin::Cache::Backend::FastMmap,HANK,c
 Catalyst::Plugin::Cache::Backend::FastMmap,JAYK,c
+Catalyst::Plugin::Cache::Backend::FastMmap,JJNAPIORK,c
 Catalyst::Plugin::Cache::Backend::FastMmap,JROBINSON,c
 Catalyst::Plugin::Cache::Backend::FastMmap,JROCKWAY,c
 Catalyst::Plugin::Cache::Backend::FastMmap,MRAMBERG,c
@@ -939,6 +955,7 @@ Catalyst::Plugin::Cache::Backend::Memory,FLORA,c
 Catalyst::Plugin::Cache::Backend::Memory,GAAL,c
 Catalyst::Plugin::Cache::Backend::Memory,HANK,c
 Catalyst::Plugin::Cache::Backend::Memory,JAYK,c
+Catalyst::Plugin::Cache::Backend::Memory,JJNAPIORK,c
 Catalyst::Plugin::Cache::Backend::Memory,JROBINSON,c
 Catalyst::Plugin::Cache::Backend::Memory,JROCKWAY,c
 Catalyst::Plugin::Cache::Backend::Memory,MRAMBERG,c
@@ -956,6 +973,7 @@ Catalyst::Plugin::Cache::Choose::KeyRegexes,FLORA,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,GAAL,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,HANK,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,JAYK,c
+Catalyst::Plugin::Cache::Choose::KeyRegexes,JJNAPIORK,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,JROBINSON,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,JROCKWAY,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,MRAMBERG,c
@@ -972,6 +990,7 @@ Catalyst::Plugin::Cache::Curried,FLORA,c
 Catalyst::Plugin::Cache::Curried,GAAL,c
 Catalyst::Plugin::Cache::Curried,HANK,c
 Catalyst::Plugin::Cache::Curried,JAYK,c
+Catalyst::Plugin::Cache::Curried,JJNAPIORK,c
 Catalyst::Plugin::Cache::Curried,JROBINSON,c
 Catalyst::Plugin::Cache::Curried,JROCKWAY,c
 Catalyst::Plugin::Cache::Curried,MRAMBERG,c
@@ -1050,6 +1069,7 @@ Catalyst::Plugin::Cache::Store::FastMmap,FLORA,c
 Catalyst::Plugin::Cache::Store::FastMmap,GAAL,c
 Catalyst::Plugin::Cache::Store::FastMmap,HANK,c
 Catalyst::Plugin::Cache::Store::FastMmap,JAYK,c
+Catalyst::Plugin::Cache::Store::FastMmap,JJNAPIORK,c
 Catalyst::Plugin::Cache::Store::FastMmap,JROBINSON,c
 Catalyst::Plugin::Cache::Store::FastMmap,JROCKWAY,c
 Catalyst::Plugin::Cache::Store::FastMmap,MRAMBERG,c
@@ -1066,6 +1086,7 @@ Catalyst::Plugin::Cache::Store::Memory,FLORA,c
 Catalyst::Plugin::Cache::Store::Memory,GAAL,c
 Catalyst::Plugin::Cache::Store::Memory,HANK,c
 Catalyst::Plugin::Cache::Store::Memory,JAYK,c
+Catalyst::Plugin::Cache::Store::Memory,JJNAPIORK,c
 Catalyst::Plugin::Cache::Store::Memory,JROBINSON,c
 Catalyst::Plugin::Cache::Store::Memory,JROCKWAY,c
 Catalyst::Plugin::Cache::Store::Memory,MRAMBERG,c
@@ -1210,6 +1231,7 @@ Catalyst::Plugin::Continuation,FLORA,c
 Catalyst::Plugin::Continuation,GAAL,c
 Catalyst::Plugin::Continuation,HANK,c
 Catalyst::Plugin::Continuation,JAYK,c
+Catalyst::Plugin::Continuation,JJNAPIORK,c
 Catalyst::Plugin::Continuation,JROBINSON,c
 Catalyst::Plugin::Continuation,JROCKWAY,c
 Catalyst::Plugin::Continuation,MRAMBERG,c

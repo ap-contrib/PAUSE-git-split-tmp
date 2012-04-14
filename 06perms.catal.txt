@@ -204,6 +204,7 @@ Catalyst::View::TT::FunctionGenerator,FLORA,c
 Catalyst::View::TT::FunctionGenerator,GAAL,c
 Catalyst::View::TT::FunctionGenerator,HANK,c
 Catalyst::View::TT::FunctionGenerator,JAYK,c
+Catalyst::View::TT::FunctionGenerator,JJNAPIORK,c
 Catalyst::View::TT::FunctionGenerator,JROBINSON,c
 Catalyst::View::TT::FunctionGenerator,JROCKWAY,c
 Catalyst::View::TT::FunctionGenerator,MRAMBERG,c
