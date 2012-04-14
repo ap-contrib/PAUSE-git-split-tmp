@@ -179,6 +179,8 @@ App::SimpleScan::Substitution,MCMAHON,f
 App::SimpleScan::Substitution::Line,MCMAHON,f
 App::SimpleScan::TestSpec,MCMAHON,f
 App::SimpleScan::Variables,MCMAHON,f
+App::SimplenoteSync,IOANR,f
+App::SimplenoteSync::Note,IOANR,f
 App::Slackeria::Config,DERF,f
 App::Slackeria::Output,DERF,f
 App::Slackeria::Plugin,DERF,f

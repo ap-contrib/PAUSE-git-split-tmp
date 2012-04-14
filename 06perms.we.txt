@@ -513,6 +513,9 @@ WebService::Simple::Yahoo::JP::API::Shopping,AYANOKOUZ,f
 WebService::SimpleAPI::Wikipedia,YAPPO,f
 WebService::SimpleAPI::Wikipedia::Parser,YAPPO,f
 WebService::SimpleAPI::Wikipedia::ResultSet,YAPPO,f
+WebService::Simplenote,IOANR,f
+WebService::Simplenote::Note,IOANR,f
+WebService::Simplenote::Types,IOANR,f
 WebService::SlimTimer,VADZ,f
 WebService::SlimTimer::Types,VADZ,f
 WebService::SmartFM,NOBJAS,f
