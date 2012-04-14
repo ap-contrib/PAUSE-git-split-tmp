@@ -695,7 +695,7 @@ Image::Placeholder             1.000000  M/MN/MNF/Image-Placeholder-v1.0.0.tar.g
 Image::PNG                         0.11  B/BK/BKB/Image-PNG-0.11.tar.gz
 Image::PNG::Const                 undef  B/BK/BKB/Image-PNG-0.11.tar.gz
 Image::PNG::Container              0.11  B/BK/BKB/Image-PNG-0.11.tar.gz
-Image::PNG::FileConvert            0.05  B/BK/BKB/Image-PNG-FileConvert-0.05.tar.gz
+Image::PNG::FileConvert            0.06  B/BK/BKB/Image-PNG-FileConvert-0.06.tar.gz
 Image::PNG::Libpng                 0.11  B/BK/BKB/Image-PNG-0.11.tar.gz
 Image::PNG::Rewriter                0.9  B/BJ/BJOERN/Image-PNG-Rewriter-0.9.tar.gz
 Image::PNG::Util                  undef  B/BK/BKB/Image-PNG-0.11.tar.gz
