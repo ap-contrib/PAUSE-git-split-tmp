@@ -388,7 +388,7 @@ Lingua::Klingon::Segment           1.03  P/PN/PNE/Lingua-Klingon-Segment-1.03.ta
 Lingua::KO::DateTime               0.02  A/AE/AERO/Lingua-KO-DateTime-0.02.tar.gz
 Lingua::KO::Hangul::Util           0.26  S/SA/SADAHIRO/Lingua-KO-Hangul-Util-0.26.tar.gz
 Lingua::KO::MacKorean              0.20  S/SA/SADAHIRO/Lingua-KO-MacKorean-0.20.tar.gz
-Lingua::KO::Munja                  0.01  B/BK/BKB/Lingua-KO-Munja-0.01.tar.gz
+Lingua::KO::Munja                  0.02  B/BK/BKB/Lingua-KO-Munja-0.02.tar.gz
 Lingua::KO::Romanize::Hangul       0.20  K/KA/KAWASAKI/Lingua-KO-Romanize-Hangul-0.20.tar.gz
 Lingua::KO::TypoCorrector          0.03  J/JE/JEEN/Lingua-KO-TypoCorrector-0.03.tar.gz
 Lingua::LA::Stemmer                0.01  X/XE/XERN/Lingua-LA-Stemmer-0.01.tar.gz
