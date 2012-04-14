@@ -82,6 +82,7 @@ Image::Xpm,BDFOY,f
 Image::Xpm,SREZIC,c
 ImageButton,DHICKLING,f
 ImageIcon,PHILCROW,f
+ImagePNGBuild,BKB,f
 ImagePwd,JLISHEV,f
 Imager,ADDI,m
 Imager,TONYC,c
