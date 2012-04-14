@@ -243,7 +243,7 @@ WWW::ImageSpool::Dictionary       undef  C/CR/CRAKRJACK/WWW-ImageSpool-0.01.tar.
 WWW::ImageSpool::Directory        undef  C/CR/CRAKRJACK/WWW-ImageSpool-0.01.tar.gz
 WWW::ImageSpool::Source           undef  C/CR/CRAKRJACK/WWW-ImageSpool-0.01.tar.gz
 WWW::ImageSpool::Source::Google   undef  C/CR/CRAKRJACK/WWW-ImageSpool-0.01.tar.gz
-WWW::Imgur                         0.02  B/BK/BKB/WWW-Imgur-0.02.tar.gz
+WWW::Imgur                         0.03  B/BK/BKB/WWW-Imgur-0.03.tar.gz
 WWW::Indeed                        0.01  A/AQ/AQUILINA/WWW-Indeed-0.01.tar.gz
 WWW::IndexParser                   0.91  J/JE/JEB/WWW-IndexParser-0.91.tar.gz
 WWW::IndexParser::Entry             0.6  J/JE/JEB/WWW-IndexParser-0.91.tar.gz
