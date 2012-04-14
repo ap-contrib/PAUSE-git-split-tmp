@@ -33,7 +33,7 @@ ImageDelegate                     undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 ImageItem                         undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 ImageItemObject                   undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 ImageModel                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-ImagePNGBuild                     undef  B/BK/BKB/Image-PNG-0.12.tar.gz
+ImagePNGBuild                     undef  B/BK/BKB/Image-PNG-0.14.tar.gz
 ImagePwd                           1.16  J/JL/JLISHEV/WebTools-1.27.tar.gz
 Imager                             0.89  T/TO/TONYC/Imager-0.89.tar.gz
 Imager::Album                      0.06  A/AD/ADDI/Imager-Album-0.06.tar.gz

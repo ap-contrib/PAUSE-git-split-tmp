@@ -493,6 +493,7 @@ Test::Rest::Commands,KGRENNAN,f
 Test::Rest::Context,KGRENNAN,f
 Test::Resub,AIRWAVE,c
 Test::Resub,BELDEN,f
+Test::Reuse,BRADH,f
 Test::Role,JFITZ,f
 Test::Routine,RJBS,f
 Test::Routine::Common,RJBS,f
