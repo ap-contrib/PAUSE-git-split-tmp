@@ -627,6 +627,15 @@ App::RecordStream::Aggregator::Sum,BERNARD,f
 App::RecordStream::Aggregator::UniqConcatenate,BERNARD,f
 App::RecordStream::Aggregator::ValuesToKeys,BERNARD,f
 App::RecordStream::Aggregator::Variance,BERNARD,f
+App::RecordStream::BaseRegistry,BERNARD,f
+App::RecordStream::Clumper,BERNARD,f
+App::RecordStream::Clumper::Base,BERNARD,f
+App::RecordStream::Clumper::CubeKeyPerfect,BERNARD,f
+App::RecordStream::Clumper::Key,BERNARD,f
+App::RecordStream::Clumper::Key::WrappedCallback,BERNARD,f
+App::RecordStream::Clumper::KeyLRU,BERNARD,f
+App::RecordStream::Clumper::KeyPerfect,BERNARD,f
+App::RecordStream::Clumper::Window,BERNARD,f
 App::RecordStream::DBHandle,BERNARD,f
 App::RecordStream::Deaggregator,BERNARD,f
 App::RecordStream::Deaggregator::Base,BERNARD,f
@@ -657,6 +666,8 @@ App::RecordStream::Operation::annotate,BERNARD,f
 App::RecordStream::Operation::chain,BERNARD,f
 App::RecordStream::Operation::chain::PushShim,BERNARD,f
 App::RecordStream::Operation::collate,BERNARD,f
+App::RecordStream::Operation::collate::BaseClumperCallback,BERNARD,f
+App::RecordStream::Operation::collate::WrappedClumperCallback,BERNARD,f
 App::RecordStream::Operation::decollate,BERNARD,f
 App::RecordStream::Operation::delta,BERNARD,f
 App::RecordStream::Operation::eval,BERNARD,f
@@ -679,6 +690,7 @@ App::RecordStream::Operation::sort,BERNARD,f
 App::RecordStream::Operation::stream2table,BERNARD,f
 App::RecordStream::Operation::tocsv,BERNARD,f
 App::RecordStream::Operation::todb,BERNARD,f
+App::RecordStream::Operation::togdgraph,BERNARD,f
 App::RecordStream::Operation::tognuplot,BERNARD,f
 App::RecordStream::Operation::tohtml,BERNARD,f
 App::RecordStream::Operation::topn,BERNARD,f
@@ -686,6 +698,7 @@ App::RecordStream::Operation::toprettyprint,BERNARD,f
 App::RecordStream::Operation::toptable,BERNARD,f
 App::RecordStream::Operation::totable,BERNARD,f
 App::RecordStream::Operation::xform,BERNARD,f
+App::RecordStream::OptionalRequire,BERNARD,f
 App::RecordStream::OutputStream,BERNARD,f
 App::RecordStream::Record,BERNARD,f
 App::RecordStream::ScreenPrinter,BERNARD,f
