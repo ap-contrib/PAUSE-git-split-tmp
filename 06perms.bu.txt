@@ -1354,6 +1354,7 @@ C::StructType,LUKKA,c
 C::TCC,HAMANO,m
 C::Type,CHM,f
 C::Type,LUKKA,c
+C::Utility,BKB,f
 C::Var,CHM,f
 C::Var,LUKKA,c
 CA::AutoSys,SINI,m
