@@ -555,7 +555,11 @@ Sakai::Nakamura::Authz,XEONTIME,f
 Sakai::Nakamura::Content,XEONTIME,f
 Sakai::Nakamura::ContentUtil,XEONTIME,f
 Sakai::Nakamura::Group,XEONTIME,f
+Sakai::Nakamura::GroupMember,XEONTIME,f
+Sakai::Nakamura::GroupMemberUtil,XEONTIME,f
+Sakai::Nakamura::GroupRole,XEONTIME,f
 Sakai::Nakamura::GroupUtil,XEONTIME,f
+Sakai::Nakamura::JsonQueryServlet,XEONTIME,f
 Sakai::Nakamura::LDAPSynch,XEONTIME,f
 Sakai::Nakamura::User,XEONTIME,f
 Sakai::Nakamura::UserUtil,XEONTIME,f
