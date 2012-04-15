@@ -43,7 +43,6 @@ Plack::Middleware::Reproxy      0.00003  D/DM/DMAKI/Plack-Middleware-Reproxy-0.0
 Plack::Middleware::Reproxy::Callback undef  D/DM/DMAKI/Plack-Middleware-Reproxy-0.00003.tar.gz
 Plack::Middleware::Reproxy::Furl  undef  D/DM/DMAKI/Plack-Middleware-Reproxy-0.00003.tar.gz
 Plack::Middleware::RequestHeaders  0.02  W/WR/WREIS/Plack-Middleware-RequestHeaders-0.02.tar.gz
-Plack::Middleware::Restarter      undef  M/MI/MIYAGAWA/Plack-0.9021.tar.gz
 Plack::Middleware::ReverseProxy    0.11  D/DA/DANJOU/Plack-Middleware-ReverseProxy-0.11.tar.gz
 Plack::Middleware::ReverseProxyPath 0.03  B/BO/BOWMANBS/Plack-Middleware-ReverseProxyPath-0.03.tar.gz
 Plack::Middleware::Rewrite        1.004  A/AR/ARISTOTLE/Plack-Middleware-Rewrite-1.004.tar.gz
@@ -112,7 +111,6 @@ Plack::Server::AnyEvent::Writer   undef  M/MI/MIYAGAWA/Plack-Server-AnyEvent-0.0
 Plack::Server::Apache1            undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz
 Plack::Server::Apache2            undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz
 Plack::Server::CGI                undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz
-Plack::Server::CGI::Writer        undef  M/MI/MIYAGAWA/Plack-0.9031.tar.gz
 Plack::Server::Coor              0.1002  M/MI/MIYAGAWA/Corona-0.1002.tar.gz
 Plack::Server::Coro              0.1002  M/MI/MIYAGAWA/Corona-0.1004.tar.gz
 Plack::Server::Coro::Server        0.02  M/MI/MIYAGAWA/Plack-Server-Coro-0.02.tar.gz

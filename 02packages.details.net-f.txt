@@ -134,16 +134,6 @@ Net::GenThrift::Thrift::TransportFactory undef  T/TE/TEODOR/Net-Cassandra-Easy-0
 Net::Geohash                        1.1  S/SO/SOCK/Net-Geohash-1.1.tar.gz
 Net::GeoPlanet                      0.2  S/SK/SKREUZER/Net-GeoPlanet-0.2.tar.gz
 Net::GitHub                        0.44  F/FA/FAYLAND/Net-GitHub-0.44.tar.gz
-Net::GitHub::V1                    0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Project           0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Project::Downloads 0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Project::Info     0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Project::Role     0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Project::Source   0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Project::Wiki     0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Role              0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::Search            0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
-Net::GitHub::V1::User              0.06  F/FA/FAYLAND/Net-GitHub-0.30.tar.gz
 Net::GitHub::V2                    0.08  F/FA/FAYLAND/Net-GitHub-0.44.tar.gz
 Net::GitHub::V2::Commits           0.13  F/FA/FAYLAND/Net-GitHub-0.44.tar.gz
 Net::GitHub::V2::HasRepo           0.14  F/FA/FAYLAND/Net-GitHub-0.44.tar.gz
