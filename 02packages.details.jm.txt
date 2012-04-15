@@ -510,7 +510,7 @@ Key                               undef  G/GR/GROMMIER/Text-Editor-Easy-0.01.tar
 KeyedMutex                         0.06  K/KA/KAZUHO/KeyedMutex-0.06.tar.gz
 KeyedMutex::Lock                  undef  K/KA/KAZUHO/KeyedMutex-0.06.tar.gz
 KeyedMutex::Memcached              0.03  Z/ZI/ZIGOROU/KeyedMutex-Memcached-0.03.tar.gz
-KeyspecRecorder                     3.4  B/BE/BERNARD/App-RecordStream-3.7.2.tar.gz
+KeyspecRecorder                     3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 Keystone::ContentURL::Elsevier    undef  M/MI/MIRK/Keystone-Resolver-1.23.tar.gz
 Keystone::Resolver                 1.23  M/MI/MIRK/Keystone-Resolver-1.23.tar.gz
 Keystone::Resolver::Admin         undef  M/MI/MIRK/Keystone-Resolver-1.23.tar.gz
