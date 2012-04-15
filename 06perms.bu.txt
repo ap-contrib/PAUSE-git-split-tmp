@@ -1352,6 +1352,7 @@ C::StructObj,LUKKA,c
 C::StructType,CHM,f
 C::StructType,LUKKA,c
 C::TCC,HAMANO,m
+C::Template,BKB,f
 C::Type,CHM,f
 C::Type,LUKKA,c
 C::Utility,BKB,f
