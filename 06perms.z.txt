@@ -181,6 +181,7 @@ ZeroMQ::Raw::Message,JROCKWAY,f
 ZeroMQ::Raw::Socket,JROCKWAY,f
 ZeroMQ::Socket,DMAKI,f
 Zeta,ZETA,m
+Zeta::Util,ZETA,f
 ZincExtension,CMERTZ,f
 ZipTie,LBAYER,m
 ZipTie::Client,LBAYER,f
