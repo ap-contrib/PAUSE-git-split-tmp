@@ -948,7 +948,7 @@ C::Sharp::Tokener              0.08062001  S/SI/SIMON/C-Sharp-0.01.tar.gz
 C::StructObj                      undef  C/CH/CHM/PDL-2.4.10.tar.gz
 C::StructType                     undef  C/CH/CHM/PDL-2.4.10.tar.gz
 C::TCC                             0.05  H/HA/HAMANO/C-TCC-0.05.tar.gz
-C::Template                        0.01  B/BK/BKB/C-Template-0.01.tar.gz
+C::Template                        0.02  B/BK/BKB/C-Template-0.02.tar.gz
 C::Type                           undef  C/CH/CHM/PDL-2.4.10.tar.gz
 C::Utility                        0.001  B/BK/BKB/C-Utility-0.001.tar.gz
 C::Var                            undef  C/CH/CHM/PDL-2.4.10.tar.gz
