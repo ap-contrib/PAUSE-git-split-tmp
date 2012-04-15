@@ -402,6 +402,9 @@ DateTime::Format::Duration,RICKM,f
 DateTime::Format::Duration::DurationString,BOLAV,f
 DateTime::Format::Duration::XSD,NUF,f
 DateTime::Format::EMIUCP,DEXTER,f
+DateTime::Format::EMIUCP::DDT,DEXTER,f
+DateTime::Format::EMIUCP::SCTS,DEXTER,f
+DateTime::Format::EMIUCP::VP,DEXTER,f
 DateTime::Format::Epoch,CHORNY,c
 DateTime::Format::Epoch,DROLSKY,c
 DateTime::Format::Epoch,PIJLL,f
