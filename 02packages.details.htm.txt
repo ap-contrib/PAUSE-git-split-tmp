@@ -1373,11 +1373,11 @@ HTTP::Server::Daemon               0.03  C/CH/CHENGANG/HTTP-Server-Encrypt-0.06.
 HTTP::Server::Directory            0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
 HTTP::Server::Directory::UserDirs  0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
 HTTP::Server::Encrypt              0.06  C/CH/CHENGANG/HTTP-Server-Encrypt-0.06.tar.gz
-HTTP::Server::EV                    0.3  N/NY/NYAKNYAN/HTTP-Server-EV-0.30.tar.gz
-HTTP::Server::EV::Buffer            0.3  N/NY/NYAKNYAN/HTTP-Server-EV-0.30.tar.gz
-HTTP::Server::EV::BufTie            0.3  N/NY/NYAKNYAN/HTTP-Server-EV-0.30.tar.gz
-HTTP::Server::EV::CGI               0.3  N/NY/NYAKNYAN/HTTP-Server-EV-0.30.tar.gz
-HTTP::Server::EV::MultipartFile     0.3  N/NY/NYAKNYAN/HTTP-Server-EV-0.30.tar.gz
+HTTP::Server::EV                   0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
+HTTP::Server::EV::Buffer           0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
+HTTP::Server::EV::BufTie           0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
+HTTP::Server::EV::CGI              0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
+HTTP::Server::EV::MultipartFile    0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
 HTTP::Server::Multiplex            0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
 HTTP::Server::PSGI                undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz
 HTTP::Server::PSGI::Net::Server::PreFork undef  M/MI/MIYAGAWA/Starman-0.3000.tar.gz
