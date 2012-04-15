@@ -493,7 +493,7 @@ Dackup::Target::Filesystem        undef  L/LB/LBROCARD/Dackup-0.44.tar.gz
 Dackup::Target::S3                undef  L/LB/LBROCARD/Dackup-0.44.tar.gz
 Dackup::Target::SSH               undef  L/LB/LBROCARD/Dackup-0.44.tar.gz
 Daemon                           0.1300  G/GW/GWYN/POE-Component-Daemon-0.1300.tar.gz
-Daemon::Control                0.000005  S/SY/SYMKAT/Daemon-Control-0.000005.tar.gz
+Daemon::Control                0.000006  S/SY/SYMKAT/Daemon-Control-0.000006.tar.gz
 Daemon::Daemonize                0.0052  R/RO/ROKR/Daemon-Daemonize-0.0052.tar.gz
 Daemon::Easy                       0.02  J/JZ/JZHANG/Daemon-Easy-0.02.tar.gz
 Daemon::Generic                    0.82  M/MU/MUIR/modules/Daemon-Generic-0.82.tar.gz
