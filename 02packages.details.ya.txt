@@ -612,7 +612,8 @@ ZeroMQ::Raw::Install::Files       undef  J/JR/JROCKWAY/ZeroMQ-Raw-0.01.tar.gz
 ZeroMQ::Raw::Message              undef  J/JR/JROCKWAY/ZeroMQ-Raw-0.01.tar.gz
 ZeroMQ::Raw::Socket               undef  J/JR/JROCKWAY/ZeroMQ-Raw-0.01.tar.gz
 ZeroMQ::Socket                    undef  D/DM/DMAKI/ZeroMQ-0.21.tar.gz
-Zeta::Util                         0.02  Z/ZE/ZETA/Zeta-Util-0.02.tar.gz
+Zeta                               0.01  Z/ZE/ZETA/Zeta-0.01.tar.gz
+Zeta::Util                         0.02  Z/ZE/ZETA/Zeta-0.01.tar.gz
 ZincExtension                      1.05  C/CM/CMERTZ/svg-svg2zinc-0.05.tar.gz
 ZipTie::Client                      1.3  L/LB/LBAYER/ZipTie-Client-1.3.tar.gz
 ZipTie::Client::Port                1.3  L/LB/LBAYER/ZipTie-Client-1.3.tar.gz
