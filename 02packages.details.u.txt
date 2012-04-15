@@ -189,7 +189,7 @@ Unicode::UCD                       0.36  F/FL/FLORA/perl-5.15.4.tar.gz
 Unicode::Unihan                    0.04  D/DA/DANKOGAI/Unicode-Unihan-0.04.tar.gz
 Unicode::UTF8                      0.55  C/CH/CHANSEN/Unicode-UTF8-0.55.tar.gz
 Unicode::UTF8simple                1.06  G/GU/GUS/Unicode-UTF8simple-1.06.tar.gz
-Unicode::Util                      0.05  P/PA/PATCH/Unicode-Util-0.05.tar.gz
+Unicode::Util                      0.06  P/PA/PATCH/Unicode-Util-0.06.tar.gz
 unicode::View::TT                 undef  P/PE/PERLER/HTML-FormFu-0.09006.tar.gz
 unicode::View::TT::Alloy          undef  P/PE/PERLER/HTML-FormFu-0.09006.tar.gz
 UnicodeCD                           0.1  J/JH/JHI/perl-5.7.2.tar.gz
