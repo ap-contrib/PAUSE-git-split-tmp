@@ -902,6 +902,7 @@ Bio::Graphics::Glyph::pinsertion,CJFIELDS,c
 Bio::Graphics::Glyph::pinsertion,LDS,f
 Bio::Graphics::Glyph::pinsertion,SENDU,c
 Bio::Graphics::Glyph::pinsertion,STAJICH,c
+Bio::Graphics::Glyph::point_glyph,LDS,f
 Bio::Graphics::Glyph::primers,CJFIELDS,c
 Bio::Graphics::Glyph::primers,LDS,f
 Bio::Graphics::Glyph::primers,SENDU,c
