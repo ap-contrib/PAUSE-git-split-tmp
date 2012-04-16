@@ -18,7 +18,7 @@ Catalyst::View::HTML::Mason        0.18  F/FL/FLORA/Catalyst-View-HTML-Mason-0.1
 Catalyst::View::HTML::Template     0.03  M/MR/MRAMBERG/Catalyst-View-HTML-Template-0.03.tar.gz
 Catalyst::View::HTML::Template::Compiled 0.16  E/ES/ESSKAR/Catalyst-View-HTML-Template-Compiled-0.16.tar.gz
 Catalyst::View::HTML::Zoom        0.003  C/CY/CYCLES/Catalyst-View-HTML-Zoom-0.003.tar.gz
-Catalyst::View::Image::Empty       0.03  C/CA/CAGAO/Catalyst-View-Image-Empty-0.03.tar.gz
+Catalyst::View::Image::Empty       0.04  C/CA/CAGAO/Catalyst-View-Image-Empty-0.04.tar.gz
 Catalyst::View::Image::Text2Image  0.02  G/GI/GILLMAUS/Catalyst-View-Image-Text2Image-0.02.tar.gz
 Catalyst::View::JavaScript        0.995  P/PE/PERLER/Catalyst-View-JavaScript-0.995.tar.gz
 Catalyst::View::JavaScript::Minifier::XS 2.101000  F/FR/FREW/Catalyst-View-JavaScript-Minifier-XS-2.101000.tar.gz
