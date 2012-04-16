@@ -363,6 +363,7 @@ App::Packer::Temp,AUTRIJUS,c
 App::Packer::Temp,NUFFIN,c
 App::Packer::Temp,RSCHUPP,c
 App::Packer::Temp,SMUELLER,c
+App::Padadoy,VOJ,f
 App::PandoraPeriscope,DELON,f
 App::PassManager,OLIVER,f
 App::PassManager::Command::init,OLIVER,f
