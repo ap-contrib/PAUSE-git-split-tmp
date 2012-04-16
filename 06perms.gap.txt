@@ -959,7 +959,7 @@ Geo::Postcode::Location,LLAP,c
 Geo::Postcode::Location,WROSS,f
 Geo::Postcodes,ARNE,m
 Geo::Postcodes::DK,ARNE,f
-Geo::Postcodes::JP,BKB,f
+Geo::Postcodes::JP,BKB,m
 Geo::Postcodes::JP::DB,BKB,f
 Geo::Postcodes::JP::Process,BKB,f
 Geo::Postcodes::JP::Update,BKB,f

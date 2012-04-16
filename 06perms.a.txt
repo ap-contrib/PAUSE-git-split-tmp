@@ -322,6 +322,7 @@ Audio::Analyzer::Chunk,TRIDDLE,f
 Audio::AntiResonator,PETDANCE,f
 Audio::Ao,DBP,f
 Audio::Ardour::Control,JSTOWE,m
+Audio::Ardour::Irc,MCGRUFF,m
 Audio::Audacious,ALYX,m
 Audio::BASSXS,JOUKE,f
 Audio::Beep,GIULIENK,f
