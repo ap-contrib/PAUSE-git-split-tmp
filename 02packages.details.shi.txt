@@ -478,7 +478,7 @@ Sledge::Plugin::DebugMessage       0.03  T/TO/TOKUHIROM/Sledge-Plugin-DebugMessa
 Sledge::Plugin::DebugScreen        0.07  T/TO/TOKUHIROM/Sledge-Plugin-DebugScreen-0.07.tar.gz
 Sledge::Plugin::IfModifiedSince    0.05  H/HO/HORIUCHI/Sledge-Plugin-IfModifiedSince-0.05.tar.gz
 Sledge::Plugin::JSON               0.01  N/NE/NEKOKAK/Sledge-Plugin-JSON-0.01.tar.gz
-Sledge::Plugin::JSON::XS           0.04  T/TO/TOKUHIROM/Sledge-Plugin-JSON-XS-0.04.tar.gz
+Sledge::Plugin::JSON::XS           0.05  T/TO/TOKUHIROM/Sledge-Plugin-JSON-XS-0.05.tar.gz
 Sledge::Plugin::JSONRPC            0.01  N/NE/NEKOKAK/Sledge-Plugin-JSONRPC-0.01.tar.gz
 Sledge::Plugin::Notice             0.03  J/JI/JIRO/Sledge-Plugin-Notice-0.03.tar.gz
 Sledge::Plugin::Paginate           0.01  N/NE/NEKOKAK/Sledge-Plugin-Paginate-0.01.tar.gz
