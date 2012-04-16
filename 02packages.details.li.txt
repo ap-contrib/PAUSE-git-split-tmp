@@ -324,7 +324,7 @@ Lingua::JA::Kana                   0.06  D/DA/DANKOGAI/Lingua-JA-Kana-0.06.tar.g
 Lingua::JA::MacJapanese            0.20  S/SA/SADAHIRO/Lingua-JA-MacJapanese-0.20.tar.gz
 Lingua::JA::Mail                   0.03  H/HA/HATA/Lingua-JA-Mail-0.03.tar.gz
 Lingua::JA::Mail::Header           0.02  H/HA/HATA/Lingua-JA-Mail-0.03.tar.gz
-Lingua::JA::Moji                   0.11  B/BK/BKB/Lingua-JA-Moji-0.11.tar.gz
+Lingua::JA::Moji                   0.12  B/BK/BKB/Lingua-JA-Moji-0.12.tar.gz
 Lingua::JA::Number                 0.01  M/MS/MSCHILLI/Lingua-JA-Number-0.01.tar.gz
 Lingua::JA::Numbers                0.04  D/DA/DANKOGAI/Lingua-JA-Numbers-0.04.tar.gz
 Lingua::JA::OkapiBM25           0.00001  M/MI/MIKI/Lingua-JA-OkapiBM25-0.00001.tar.gz
