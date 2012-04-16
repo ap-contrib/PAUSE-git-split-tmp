@@ -72,7 +72,7 @@ Sort::Key::Merger                  0.08  S/SA/SALVA/Sort-Key-Merger-0.08.tar.gz
 Sort::Key::Multi                   1.25  S/SA/SALVA/Sort-Key-1.28.tar.gz
 Sort::Key::Natural                 0.03  S/SA/SALVA/Sort-Key-1.28.tar.gz
 Sort::Key::OID                     0.05  S/SA/SALVA/Sort-Key-OID-0.05.tar.gz
-Sort::Key::Radix                   0.13  S/SA/SALVA/Sort-Key-Radix-0.13.tar.gz
+Sort::Key::Radix                   0.14  S/SA/SALVA/Sort-Key-Radix-0.14.tar.gz
 Sort::Key::Register                0.14  S/SA/SALVA/Sort-Key-1.28.tar.gz
 Sort::Key::Top                     0.06  S/SA/SALVA/Sort-Key-Top-0.06.tar.gz
 Sort::Maker                        0.06  U/UR/URI/Sort-Maker-0.06.tar.gz
