@@ -574,9 +574,9 @@ Business::EDI::Segment::RFF        0.02  J/JO/JOEATZ/Business-EDI-0.05.tgz
 Business::EDI::Segment_group       0.05  J/JO/JOEATZ/Business-EDI-0.05.tgz
 Business::EDI::Spec                0.02  J/JO/JOEATZ/Business-EDI-0.05.tgz
 Business::EDI::Test                0.02  J/JO/JOEATZ/Business-EDI-0.05.tgz
-Business::Edifact::Interchange     0.02  C/CO/COLINSC/Business-Edifact-Interchange-0.02.tar.gz
-Business::Edifact::Message         0.02  C/CO/COLINSC/Business-Edifact-Interchange-0.02.tar.gz
-Business::Edifact::Message::LineItem 0.02  C/CO/COLINSC/Business-Edifact-Interchange-0.02.tar.gz
+Business::Edifact::Interchange     0.03  C/CO/COLINSC/Business-Edifact-Interchange-0.03.tar.gz
+Business::Edifact::Message         0.03  C/CO/COLINSC/Business-Edifact-Interchange-0.03.tar.gz
+Business::Edifact::Message::LineItem 0.03  C/CO/COLINSC/Business-Edifact-Interchange-0.03.tar.gz
 Business::Eway                     0.03  F/FA/FAYLAND/Business-Eway-0.03.tar.gz
 Business::FedEx                    0.10  P/PT/PTULLY/FedEx-0.10.tar.gz
 Business::FedEx::Constants         1.01  J/JP/JPOWERS/Business-FedEx-DirectConnect-1.01.tar.gz
