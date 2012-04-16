@@ -572,10 +572,10 @@ Chess::Rep::Coverage::Imager     0.0301  G/GE/GENE/Chess-Rep-Coverage-0.1002.tar
 chezlib                           undef  L/LD/LDACHARY/Catalog-1.02.tar.gz
 CHI                                0.52  J/JS/JSWARTZ/CHI-0.52.tar.gz
 CHI::CacheObject                   0.52  J/JS/JSWARTZ/CHI-0.52.tar.gz
-CHI::Cascade                       0.25  P/PE/PERLOVER/CHI-Cascade-0.25.tar.gz
-CHI::Cascade::Rule                undef  P/PE/PERLOVER/CHI-Cascade-0.25.tar.gz
-CHI::Cascade::Target              undef  P/PE/PERLOVER/CHI-Cascade-0.25.tar.gz
-CHI::Cascade::Value               undef  P/PE/PERLOVER/CHI-Cascade-0.25.tar.gz
+CHI::Cascade                    0.25001  P/PE/PERLOVER/CHI-Cascade-0.25001.tar.gz
+CHI::Cascade::Rule                undef  P/PE/PERLOVER/CHI-Cascade-0.25001.tar.gz
+CHI::Cascade::Target              undef  P/PE/PERLOVER/CHI-Cascade-0.25001.tar.gz
+CHI::Cascade::Value               undef  P/PE/PERLOVER/CHI-Cascade-0.25001.tar.gz
 CHI::Constants                     0.43  J/JS/JSWARTZ/CHI-0.43.tar.gz
 CHI::Driver                        0.52  J/JS/JSWARTZ/CHI-0.52.tar.gz
 CHI::Driver::Base::CacheContainer  0.52  J/JS/JSWARTZ/CHI-0.52.tar.gz
