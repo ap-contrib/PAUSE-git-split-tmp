@@ -959,8 +959,8 @@ List::Intersperse                  1.00  T/TA/TAYERS/List-Intersperse-1.00.tar.g
 List::Maker                    0.000005  D/DC/DCONWAY/List-Maker-v0.0.5.tar.gz
 List::Maker::OtherModule       0.000001  D/DC/DCONWAY/List-Maker-v0.0.5.tar.gz
 List::MapList                     1.122  R/RJ/RJBS/List-MapList-1.122.tar.gz
-List::MapMulti                    0.001  T/TO/TOBYINK/List-MapMulti-0.001.tar.gz
-List::MapMulti::Iterator          0.001  T/TO/TOBYINK/List-MapMulti-0.001.tar.gz
+List::MapMulti                    0.002  T/TO/TOBYINK/List-MapMulti-0.002.tar.gz
+List::MapMulti::Iterator          0.002  T/TO/TOBYINK/List-MapMulti-0.002.tar.gz
 List::Member                      0.044  L/LG/LGODDARD/List-Member-0.044-withoutworldwriteables.tar.gz
 List::MergeSorted::XS              1.05  A/AT/ATHOMASON/List-MergeSorted-XS-1.05.tar.gz
 List::MoreUtils                    0.33  A/AD/ADAMK/List-MoreUtils-0.33.tar.gz
