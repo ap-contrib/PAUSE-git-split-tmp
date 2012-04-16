@@ -302,10 +302,10 @@ UMLS::Interface::PathFinder       undef  T/TP/TPEDERSE/UMLS-Interface-1.27.tar.g
 UMLS::Interface::STFinder         undef  T/TP/TPEDERSE/UMLS-Interface-1.27.tar.gz
 UMLS::Norm                         0.01  H/HA/HARSHAG/UMLS-Norm-0.02.tar.gz
 UMLS::PathFinder                  undef  B/BT/BTMCINNES/UMLS-Interface-0.57.tar.gz
-UMLS::SenseRelate                  0.17  T/TP/TPEDERSE/UMLS-SenseRelate-0.17.tar.gz
-UMLS::SenseRelate::AllWords       undef  T/TP/TPEDERSE/UMLS-SenseRelate-0.17.tar.gz
-UMLS::SenseRelate::ErrorHandler   undef  T/TP/TPEDERSE/UMLS-SenseRelate-0.17.tar.gz
-UMLS::SenseRelate::TargetWord      0.03  B/BT/BTMCINNES/UMLS-SenseRelate-0.03.tar.gz
+UMLS::SenseRelate                  0.19  B/BT/BTMCINNES/UMLS-SenseRelate-0.19.tar.gz
+UMLS::SenseRelate::AllWords        0.05  B/BT/BTMCINNES/UMLS-SenseRelate-0.19.tar.gz
+UMLS::SenseRelate::ErrorHandler   undef  B/BT/BTMCINNES/UMLS-SenseRelate-0.19.tar.gz
+UMLS::SenseRelate::TargetWord      0.05  B/BT/BTMCINNES/UMLS-SenseRelate-0.19.tar.gz
 UMLS::Similarity                   1.21  T/TP/TPEDERSE/UMLS-Similarity-1.21.tar.gz
 UMLS::Similarity::cdist            0.07  T/TP/TPEDERSE/UMLS-Similarity-1.21.tar.gz
 UMLS::Similarity::def              0.01  B/BT/BTMCINNES/UMLS-Similarity-0.41.tar.gz
