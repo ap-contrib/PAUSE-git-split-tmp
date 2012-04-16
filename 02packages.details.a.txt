@@ -233,6 +233,7 @@ Audio::Ao                          0.01  D/DB/DBP/Audio-Ao-0.01.tar.gz
 Audio::APE                          1.0  D/DA/DANIEL/Audio-Musepack-1.0.1.tar.gz
 Audio::APETags                      1.0  D/DA/DANIEL/Audio-Musepack-1.0.1.tar.gz
 Audio::Ardour::Control             0.20  J/JS/JSTOWE/Audio-Ardour-Control-0.20.tar.gz
+Audio::Ardour::Irc                 0.10  M/MC/MCGRUFF/Audio-Ardour-Irc-0.10.tar.bz2
 Audio::Audacious                  undef  A/AL/ALYX/Audio-Audacious-0.932.tar.gz
 Audio::Audiere                     0.05  T/TE/TELS/audio/Audio-Audiere-0.05.tar.gz
 Audio::Audiere::Audiere_perl       0.05  T/TE/TELS/audio/Audio-Audiere-0.05.tar.gz
