@@ -44,6 +44,7 @@ Catalyst::View::HTML::Template,WSHELDAHL,c
 Catalyst::View::HTML::Template::Compiled,ESSKAR,f
 Catalyst::View::HTML::Zoom,CYCLES,f
 Catalyst::View::Haml,GARU,f
+Catalyst::View::Image::Empty,CAGAO,f
 Catalyst::View::Image::Text2Image,GILLMAUS,f
 Catalyst::View::JSON,MIYAGAWA,f
 Catalyst::View::JSONRPC,DARKNOS,f
