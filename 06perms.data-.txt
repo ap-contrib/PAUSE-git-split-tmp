@@ -1052,6 +1052,7 @@ Data::URIEncode,RHANDOM,m
 Data::UUID,AGOLOMSH,f
 Data::UUID,RJBS,c
 Data::UUID::Base64URLSafe,LBROCARD,f
+Data::UUID::Concise,NRR,f
 Data::UUID::LibUUID,DOY,c
 Data::UUID::LibUUID,FLORA,c
 Data::UUID::LibUUID,NUFFIN,f
