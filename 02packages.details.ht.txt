@@ -189,7 +189,7 @@ HTML::FormHandler::Widget::Wrapper::SimpleInline undef  G/GS/GSHANK/HTML-FormHan
 HTML::FormHandler::Widget::Wrapper::Table undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Widget::Wrapper::TableInline undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
 HTML::FormHandler::Wizard         undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-HTML::FormHandlerX::Field::DateTimeNatural 0.003000  R/RO/ROMANF/HTML-FormHandlerX-Field-DateTimeNatural-v0.3.tar.gz
+HTML::FormHandlerX::Field::DateTimeNatural 0.004000  R/RO/ROMANF/HTML-FormHandlerX-Field-DateTimeNatural-v0.4.tar.gz
 HTML::FormHandlerX::Field::reCAPTCHA 0.03  J/JJ/JJNAPIORK/HTML-FormHandlerX-Field-reCAPTCHA-0.03.tar.gz
 HTML::FormHandlerX::Field::URI::HTTP 0.002000  R/RO/ROMANF/HTML-FormHandlerX-Field-URI-HTTP-v0.2.tar.gz
 HTML::FormHandlerX::Form::Login    0.13  C/CA/CAGAO/HTML-FormHandlerX-Form-Login-0.13.tar.gz
