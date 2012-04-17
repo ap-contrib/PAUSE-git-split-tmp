@@ -556,7 +556,7 @@ MooseX::AutoDestruct::V2Traits::Method::Accessor 0.008  R/RS/RSRCHBOY/MooseX-Aut
 MooseX::AutoImmute                0.001  E/EX/EXODIST/MooseX-AutoImmute-0.001.tar.gz
 MooseX::BatmanBeforeRobin          0.03  J/JH/JHTHORSEN/MooseX-BatmanBeforeRobin-0.03.tar.gz
 MooseX::Blessed::Reconstruct       0.04  N/NU/NUFFIN/MooseX-Blessed-Reconstruct-0.04.tar.gz
-MooseX::BuildArgs                  0.03  B/BL/BLUEFEET/MooseX-BuildArgs-0.03.tar.gz
+MooseX::BuildArgs                  0.04  B/BL/BLUEFEET/MooseX-BuildArgs-0.04.tar.gz
 MooseX::BuildArgs::Role            0.03  B/BL/BLUEFEET/MooseX-BuildArgs-0.03.tar.gz
 MooseX::Callbacks                  0.01  R/RE/REVMISCHA/MooseX-Callbacks-0.01.tar.gz
 MooseX::CascadeClearing            0.04  R/RS/RSRCHBOY/MooseX-CascadeClearing-0.04.tar.gz
