@@ -369,9 +369,10 @@ ORDB::DebianModules::Generator     0.02  R/RS/RSN/ORDB-DebianModules-Generator-0
 ORDB::JSAN                         0.01  A/AD/ADAMK/ORDB-JSAN-0.01.tar.gz
 ORDB::Unihan                       0.02  F/FA/FAYLAND/ORDB-Unihan-0.02.tar.gz
 OrderedPortConnections             0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
-OrePAN                            undef  T/TO/TOKUHIROM/OrePAN-0.04.tar.gz
-OrePAN::Archive                   undef  T/TO/TOKUHIROM/OrePAN-0.04.tar.gz
-OrePAN::Package::Index            undef  T/TO/TOKUHIROM/OrePAN-0.04.tar.gz
+OrePAN                            undef  T/TO/TOKUHIROM/OrePAN-0.05.tar.gz
+OrePAN::Archive                   undef  T/TO/TOKUHIROM/OrePAN-0.05.tar.gz
+OrePAN::Package::Index            undef  T/TO/TOKUHIROM/OrePAN-0.05.tar.gz
+OrePAN::Package::Whois            undef  T/TO/TOKUHIROM/OrePAN-0.05.tar.gz
 Org::Document                      0.21  S/SH/SHARYANTO/Org-Parser-0.21.tar.gz
 Org::Dump                          0.21  S/SH/SHARYANTO/Org-Parser-0.21.tar.gz
 Org::Element                       0.21  S/SH/SHARYANTO/Org-Parser-0.21.tar.gz

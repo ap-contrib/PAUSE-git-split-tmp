@@ -455,6 +455,7 @@ OreOre::Danjou::HelloWorld,DANJOU,f
 OrePAN,TOKUHIROM,f
 OrePAN::Archive,TOKUHIROM,f
 OrePAN::Package::Index,TOKUHIROM,f
+OrePAN::Package::Whois,TOKUHIROM,f
 Org::Document,SHARYANTO,f
 Org::Dump,SHARYANTO,f
 Org::Element,SHARYANTO,f
