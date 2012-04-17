@@ -623,6 +623,7 @@ Bio::Graphics::Browser2::DataLoader::generic,LDS,f
 Bio::Graphics::Browser2::DataLoader::gff,LDS,f
 Bio::Graphics::Browser2::DataLoader::gff3,LDS,f
 Bio::Graphics::Browser2::DataLoader::sam,LDS,f
+Bio::Graphics::Browser2::DataLoader::wig2bigwig,LDS,f
 Bio::Graphics::Browser2::DataLoader::wiggle,LDS,f
 Bio::Graphics::Browser2::DataSource,LDS,f
 Bio::Graphics::Browser2::ExternalData,LDS,f
