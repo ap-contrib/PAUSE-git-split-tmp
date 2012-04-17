@@ -114,8 +114,8 @@ Test::CPAN::Meta                   0.20  B/BA/BARBIE/Test-CPAN-Meta-0.20.tar.gz
 Test::CPAN::Meta::JSON             0.12  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.12.tar.gz
 Test::CPAN::Meta::JSON::Version    0.12  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.12.tar.gz
 Test::CPAN::Meta::Version          0.20  B/BA/BARBIE/Test-CPAN-Meta-0.20.tar.gz
-Test::CPAN::Meta::YAML             0.18  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.18.tar.gz
-Test::CPAN::Meta::YAML::Version    0.18  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.18.tar.gz
+Test::CPAN::Meta::YAML             0.19  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.19.tar.gz
+Test::CPAN::Meta::YAML::Version    0.19  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.19.tar.gz
 Test::CPANpm                      0.010  C/CR/CRAKRJACK/Test-CPANpm-0.010.tar.gz
 Test::CPANpm::Fake                undef  C/CR/CRAKRJACK/Test-CPANpm-0.010.tar.gz
 Test::Cukes                        0.10  G/GU/GUGOD/Test-Cukes-0.10.tar.gz
