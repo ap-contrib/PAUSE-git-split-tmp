@@ -110,10 +110,10 @@ Test::Count::Lib                  undef  S/SH/SHLOMIF/Test-Count-0.0801.tar.gz
 Test::Count::Parser              0.0801  S/SH/SHLOMIF/Test-Count-0.0801.tar.gz
 Test::CPAN::Changes                0.18  B/BR/BRICAS/CPAN-Changes-0.18.tar.gz
 Test::CPAN::Changes::ReallyStrict v0.1.4  K/KE/KENTNL/Test-CPAN-Changes-ReallyStrict-0.1.4.tar.gz
-Test::CPAN::Meta                   0.19  B/BA/BARBIE/Test-CPAN-Meta-0.19.tar.gz
-Test::CPAN::Meta::JSON             0.11  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.11.tar.gz
-Test::CPAN::Meta::JSON::Version    0.11  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.11.tar.gz
-Test::CPAN::Meta::Version          0.19  B/BA/BARBIE/Test-CPAN-Meta-0.19.tar.gz
+Test::CPAN::Meta                   0.20  B/BA/BARBIE/Test-CPAN-Meta-0.20.tar.gz
+Test::CPAN::Meta::JSON             0.12  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.12.tar.gz
+Test::CPAN::Meta::JSON::Version    0.12  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.12.tar.gz
+Test::CPAN::Meta::Version          0.20  B/BA/BARBIE/Test-CPAN-Meta-0.20.tar.gz
 Test::CPAN::Meta::YAML             0.18  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.18.tar.gz
 Test::CPAN::Meta::YAML::Version    0.18  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.18.tar.gz
 Test::CPANpm                      0.010  C/CR/CRAKRJACK/Test-CPANpm-0.010.tar.gz
