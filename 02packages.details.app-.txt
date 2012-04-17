@@ -382,7 +382,6 @@ App::Pinto::Remote::Command::manual 0.039  T/TH/THALJEF/Pinto-Remote-0.039.tar.g
 App::Pinto::Remote::Command::mirror 0.039  T/TH/THALJEF/Pinto-Remote-0.039.tar.gz
 App::Pinto::Remote::Command::nop  0.039  T/TH/THALJEF/Pinto-Remote-0.039.tar.gz
 App::Pinto::Remote::Command::pin  0.039  T/TH/THALJEF/Pinto-Remote-0.039.tar.gz
-App::Pinto::Remote::Command::ping 0.034  T/TH/THALJEF/Pinto-Remote-0.034.tar.gz
 App::Pinto::Remote::Command::rebuild 0.039  T/TH/THALJEF/Pinto-Remote-0.039.tar.gz
 App::Pinto::Remote::Command::remove 0.039  T/TH/THALJEF/Pinto-Remote-0.039.tar.gz
 App::Pinto::Remote::Command::statistics 0.039  T/TH/THALJEF/Pinto-Remote-0.039.tar.gz
