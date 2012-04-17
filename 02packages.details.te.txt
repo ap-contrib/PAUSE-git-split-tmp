@@ -1061,7 +1061,7 @@ Tk::ChoicesSet                     0.11  L/LA/LAMPRECHT/Tk-EntrySet-0.11.tar.gz
 Tk::ChooseDate                      0.4  D/DU/DUNNIGANJ/Tk-ChooseDate-0.4.tar.gz
 Tk::Clipboard                     4.009  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::CListbox                       1.09  H/HJ/HJHELGE/Tk-MListbox-1.09.tar.gz
-Tk::Clock                          0.32  H/HM/HMBRAND/Tk-Clock-0.32.tgz
+Tk::Clock                          0.33  H/HM/HMBRAND/Tk-Clock-0.33.tgz
 Tk::Cloth                          2.03  S/SR/SREZIC/Tk-GBARR-2.08.tar.gz
 Tk::Cloth::Arc                     2.03  S/SR/SREZIC/Tk-GBARR-2.08.tar.gz
 Tk::Cloth::Bitmap                  2.03  S/SR/SREZIC/Tk-GBARR-2.08.tar.gz
