@@ -141,10 +141,10 @@ AsyncTimeout                       0.10  M/MJ/MJD/Async-0.10.tar.gz
 AtExit                             2.01  B/BR/BRADAPP/AtExit-2.01.tar.gz
 Atheme                           0.0001  S/ST/STEPHANJ/Atheme-0.0001.tar.gz
 Atheme::Fault                    0.0001  S/ST/STEPHANJ/Atheme-0.0001.tar.gz
-AtomBus                          1.0404  I/IR/IRONCAMEL/AtomBus-1.0404.tar.gz
-AtomBus::Schema                   undef  I/IR/IRONCAMEL/AtomBus-1.0404.tar.gz
-AtomBus::Schema::Result::AtomBusEntry undef  I/IR/IRONCAMEL/AtomBus-1.0404.tar.gz
-AtomBus::Schema::Result::AtomBusFeed undef  I/IR/IRONCAMEL/AtomBus-1.0404.tar.gz
+AtomBus                          1.0405  I/IR/IRONCAMEL/AtomBus-1.0405.tar.gz
+AtomBus::Schema                   undef  I/IR/IRONCAMEL/AtomBus-1.0405.tar.gz
+AtomBus::Schema::Result::AtomBusEntry undef  I/IR/IRONCAMEL/AtomBus-1.0405.tar.gz
+AtomBus::Schema::Result::AtomBusFeed undef  I/IR/IRONCAMEL/AtomBus-1.0405.tar.gz
 AtomicParsley::Command         1.120620  A/AR/ARJONES/AtomicParsley-Command-1.120620.tar.gz
 AtomicParsley::Command::Tags   1.120620  A/AR/ARJONES/AtomicParsley-Command-1.120620.tar.gz
 Atompub                        0.003007  T/TA/TAKERU/Atompub-0.3.7.tar.gz
