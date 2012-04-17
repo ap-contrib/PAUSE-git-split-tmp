@@ -394,7 +394,10 @@ OpenURL::referringEntity,TIMBRODY,f
 OpenURL::requester,TIMBRODY,f
 OpenURL::resolver,TIMBRODY,f
 OpenURL::serviceType,TIMBRODY,f
+OpenVZ,AYOUNG,f
 OpenVZ::BC,WILSOND,f
+OpenVZ::Vzctl,AYOUNG,f
+OpenVZ::Vzlist,AYOUNG,f
 Openvatar::URL,GUGOD,f
 Openview::Admin,NHARALE,m
 Openview::Message,LBAXTER,m

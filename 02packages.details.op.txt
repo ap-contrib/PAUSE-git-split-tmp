@@ -295,7 +295,10 @@ OpenTok::API::Session              0.02  M/ME/MEPHIST/OpenTok-API-0.02.tar.gz
 Openview::Message::cliopcmsg       0.02  L/LB/LBAXTER/Openview-Message-0.03.tar.gz
 Openview::Message::opcmsg          0.03  L/LB/LBAXTER/Openview-Message-0.03.tar.gz
 Openview::Message::Sender          0.02  L/LB/LBAXTER/Openview-Message-0.03.tar.gz
+OpenVZ                             0.01  A/AY/AYOUNG/OpenVZ-0.01.tar.gz
 OpenVZ::BC                         0.02  W/WI/WILSOND/OpenVZ-BC-0.02.tar.gz
+OpenVZ::Vzctl                      0.01  A/AY/AYOUNG/OpenVZ-0.01.tar.gz
+OpenVZ::Vzlist                     0.01  A/AY/AYOUNG/OpenVZ-0.01.tar.gz
 Operation                          2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Operator                          1.351  R/RC/RCAPUTO/POE-Test-Loops-1.351.tar.gz
 Operator::Util                     0.05  P/PA/PATCH/Operator-Util-0.05.tar.gz
