@@ -81,9 +81,9 @@ Locale::RecodeData::US_ASCII      undef  G/GU/GUIDO/libintl-perl-1.20.tar.gz
 Locale::RecodeData::UTF_8         undef  G/GU/GUIDO/libintl-perl-1.20.tar.gz
 Locale::RecodeData::VISCII        undef  G/GU/GUIDO/libintl-perl-1.20.tar.gz
 Locale::Script                     3.21  S/SB/SBECK/Locale-Codes-3.21.tar.gz
-Locale::SubCountry                 1.48  K/KI/KIMRYAN/Locale-SubCountry-1.48.tar.gz
-Locale::SubCountry::Data           1.48  K/KI/KIMRYAN/Locale-SubCountry-1.48.tar.gz
-Locale::SubCountry::World          1.48  K/KI/KIMRYAN/Locale-SubCountry-1.48.tar.gz
+Locale::SubCountry                 1.49  K/KI/KIMRYAN/Locale-SubCountry-1.49.tar.gz
+Locale::SubCountry::Data           1.49  K/KI/KIMRYAN/Locale-SubCountry-1.49.tar.gz
+Locale::SubCountry::World          1.49  K/KI/KIMRYAN/Locale-SubCountry-1.49.tar.gz
 Locale::TextDomain                 1.20  G/GU/GUIDO/libintl-perl-1.20.tar.gz
 Locale::TextDomain::OO             0.07  S/ST/STEFFENW/Locale-TextDomain-OO-0.07.tar.gz
 Locale::TextDomain::OO::Extract  v0.4.0  S/ST/STEFFENW/Locale-TextDomain-OO-0.04.tar.gz
