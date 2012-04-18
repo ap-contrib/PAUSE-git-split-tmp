@@ -399,8 +399,8 @@ Lab::Instrument::Yokogawa7651      2.95  A/AK/AKHUETTEL/Lab-Measurement-2.95.tar
 Lab::Instrument::YokogawaGS200     2.94  A/AK/AKHUETTEL/Lab-Measurement-2.94.tar.gz
 Lab::Measurement                   2.95  A/AK/AKHUETTEL/Lab-Measurement-2.95.tar.gz
 Lab::Measurement::Ladediagramm     2.95  A/AK/AKHUETTEL/Lab-Measurement-2.95.tar.gz
-Lab::VISA                          2.06  S/SC/SCHROEER/Lab/Lab-VISA-2.06.tar.gz
-Lab::VISAc                         2.06  S/SC/SCHROEER/Lab/Lab-VISA-2.06.tar.gz
+Lab::VISA                          2.95  A/AK/AKHUETTEL/Lab-VISA-2.95.tar.gz
+Lab::VISAc                         2.95  A/AK/AKHUETTEL/Lab-VISA-2.95.tar.gz
 Labkey::Query                      1.02  B/BB/BBIMBER/Labkey-Query-1.02.tar.gz
 LabmanSoap                          1.0  D/DO/DOSNIBBLE/VMWare-LabmanSoap-1.0.tar.gz
 LaBrea::NetIO                      0.01  M/MI/MIKER/LaBrea-Tarpit-1.36.tar.gz
