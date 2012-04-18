@@ -362,6 +362,7 @@ App::Horris::CLI::Command::me2day undef  A/AA/AANOAA/Horris-v0.1.2.tar.gz
 App::Horris::CLI::Command::run    undef  A/AA/AANOAA/Horris-v0.1.2.tar.gz
 App::Horris::CLI::Command::twitter_stream undef  A/AA/AANOAA/Horris-v0.1.2.tar.gz
 App::HTMLCalendarMonth::Indonesia  0.04  S/SH/SHARYANTO/App-HTMLCalendarMonth-Indonesia-0.04.tar.gz
+App::htmlcat                       0.01  M/MO/MOTEMEN/App-htmlcat-0.01.tar.gz
 App::HTTPThis                     0.002  M/ME/MELO/App-HTTPThis-0.002.tar.gz
 App::HWD                           0.20  P/PE/PETDANCE/hwd-0.20.tar.gz
 App::HWD::Task                    undef  P/PE/PETDANCE/hwd-0.20.tar.gz

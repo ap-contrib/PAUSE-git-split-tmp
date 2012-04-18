@@ -234,6 +234,7 @@ App::gist,ALEXBIO,f
 App::gitfancy,GYPARK,f
 App::grindperl,DAGOLDEN,f
 App::highlight,KAORU,f
+App::htmlcat,MOTEMEN,f
 App::iTan,MAROS,f
 App::iTan::Command::delete,MAROS,f
 App::iTan::Command::get,MAROS,f
