@@ -986,6 +986,10 @@ DBD::Ingres::dr,SREAGLE,c
 DBD::Ingres::st,BUCKSTER,c
 DBD::Ingres::st,HTOUG,f
 DBD::Ingres::st,SREAGLE,c
+DBD::IngresII,XENU,f
+DBD::IngresII::db,XENU,f
+DBD::IngresII::dr,XENU,f
+DBD::IngresII::st,XENU,f
 DBD::InterBase,EDPRATOMO,m
 DBD::InterBase::FAQ,EDPRATOMO,f
 DBD::InterBase::GetInfo,EDPRATOMO,f
