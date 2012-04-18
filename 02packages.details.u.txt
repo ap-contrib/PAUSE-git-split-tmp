@@ -222,7 +222,7 @@ UNIVERSAL::derived_classes         0.02  T/TA/TAMASHIRO/UNIVERSAL-derived_classe
 UNIVERSAL::DOES                   0.004  G/GF/GFUJI/UNIVERSAL-DOES-0.004.tar.gz
 UNIVERSAL::dump                    0.06  E/EL/ELIZABETH/UNIVERSAL-dump-0.06.tar.gz
 UNIVERSAL::filename                0.03  S/SH/SHELLING/UNIVERSAL-filename-0.03.tar.gz
-UNIVERSAL::isa                 1.20110614  C/CH/CHROMATIC/UNIVERSAL-isa-1.20110614.tar.gz
+UNIVERSAL::isa                 1.20120418  C/CH/CHROMATIC/UNIVERSAL-isa-1.20120418.tar.gz
 UNIVERSAL::moniker                 0.08  K/KA/KASEI/UNIVERSAL-moniker-0.08.tar.gz
 UNIVERSAL::Object::ID            v0.1.2  M/MS/MSCHWERN/Object-ID-v0.1.2.tar.gz
 UNIVERSAL::Object::Method         undef  G/GU/GUGOD/Object-Method-0.01.tar.gz
