@@ -1082,7 +1082,7 @@ DB::Pluggable::Role::Initializer 1.112001  M/MA/MARCEL/DB-Pluggable-1.112001.tar
 DB::Pluggable::Role::WatchFunction 1.112001  M/MA/MARCEL/DB-Pluggable-1.112001.tar.gz
 DB::Pluggable::StackTraceAsHTML 1.100850  M/MA/MARCEL/DB-Pluggable-StackTraceAsHTML-1.100850.tar.gz
 DB::Pluggable::TypeAhead       1.101051  M/MA/MARCEL/DB-Pluggable-1.101051.tar.gz
-DB::Skip                       1.113370  M/MI/MITHALDU/DB-Skip-1.113370.tar.gz
+DB::Skip                       1.121090  M/MI/MITHALDU/DB-Skip-1.121090.tar.gz
 DB::Table                         undef  K/KI/KITE/gestalt-0.2.1.tar.gz
 DB::Table::Row                    undef  K/KI/KITE/gestalt-0.2.1.tar.gz
 db_comparison                       1.7  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
