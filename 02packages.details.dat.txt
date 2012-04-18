@@ -812,7 +812,7 @@ Data::UUID::Base64URLSafe          0.34  L/LB/LBROCARD/Data-UUID-Base64URLSafe-0
 Data::UUID::Concise            0.121082  N/NR/NRR/Data-UUID-Concise-0.121082.tar.gz
 Data::UUID::LibUUID                0.05  N/NU/NUFFIN/Data-UUID-LibUUID-0.05.tar.gz
 Data::UUID::LibUUID::DataUUIDCompat undef  N/NU/NUFFIN/Data-UUID-LibUUID-0.05.tar.gz
-Data::UUID::MT                    0.005  D/DA/DAGOLDEN/Data-UUID-MT-0.005.tar.gz
+Data::UUID::MT                    0.006  D/DA/DAGOLDEN/Data-UUID-MT-0.006.tar.gz
 Data::v                            0.03  J/JK/JKUTEJ/Data-Header-Fields-0.04.tar.gz
 Data::v::Calendar                     0  J/JK/JKUTEJ/Data-Header-Fields-0.04.tar.gz
 Data::v::Card                         0  J/JK/JKUTEJ/Data-Header-Fields-0.04.tar.gz
