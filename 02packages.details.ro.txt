@@ -578,7 +578,7 @@ RTSP::Server::Source::Connection  undef  R/RE/REVMISCHA/RTSP-Server-0.06.tar.gz
 RTx::AttachmentZip                  1.0  R/RH/RHARMAN/RTx-AttachmentZip-1.0.tar.gz
 RTx::AuthTool                      0.01  A/AU/AUTRIJUS/RTx-AuthTool-0.01.tar.gz
 RTx::BecomeUser                    0.01  A/AB/ABCDEFGH/RTx-BecomeUser-1.0.tar.gz
-RTx::Calendar                      0.12  F/FA/FALCONE/RTx-Calendar-0.12.tar.gz
+RTx::Calendar                      0.14  F/FA/FALCONE/RTx-Calendar-0.14.tar.gz
 RTx::DDMU                          0.01  H/HC/HCCHIEN/RTx-DDMU-0.03.tgz
 RTx::EmailCompletion               0.06  N/NC/NCHUCHE/RTx-EmailCompletion-0.06.tar.gz
 RTx::EmailCompletion::Ldap        undef  N/NC/NCHUCHE/RTx-EmailCompletion-0.06.tar.gz
