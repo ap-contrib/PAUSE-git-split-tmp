@@ -98,6 +98,14 @@ Marpa::XS::Internal::Value            0  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Recognizer          1.008000  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Value               1.008000  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 MarpaX::Simple::Rules            v0.2.0  S/ST/STUIFZAND/MarpaX-Simple-Rules-v0.2.0.tar.gz
+MAS::TIFF::Compression::LZW       undef  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
+MAS::TIFF::Compression::LZW::State undef  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
+MAS::TIFF::DataType               undef  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
+MAS::TIFF::Field                  undef  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
+MAS::TIFF::File                     0.1  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
+MAS::TIFF::IFD                    undef  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
+MAS::TIFF::IO                     undef  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
+MAS::TIFF::Rational               undef  G/GR/GREGOR/MAS-TIFF-0.1.tar.gz
 Mason                              2.17  J/JS/JSWARTZ/Mason-2.17.tar.gz
 Mason::App                         2.17  J/JS/JSWARTZ/Mason-2.17.tar.gz
 Mason::CodeCache                   2.17  J/JS/JSWARTZ/Mason-2.17.tar.gz
