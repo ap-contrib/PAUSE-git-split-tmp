@@ -559,7 +559,7 @@ SyslogScan::Volume                  0.2  R/RH/RHNELSON/SyslogScan-0.32.tar.gz
 SyslogScan::WhereIs                 0.2  R/RH/RHNELSON/SyslogScan-0.32.tar.gz
 System                             1.01  P/PJ/PJCJ/Devel-Cover-0.72.tar.gz
 System2                            0.84  R/RE/REICHERT/System2-0.84.tar.gz
-System::Command                    1.06  B/BO/BOOK/System-Command-1.06.tar.gz
+System::Command                    1.07  B/BO/BOOK/System-Command-1.07.tar.gz
 System::Command::Reaper            1.01  B/BO/BOOK/System-Command-1.02.tar.gz
 System::Index                       0.1  J/JB/JBRYAN/System-Index-0.1.zip
 System::Timeout                    0.07  C/CH/CHENGANG/System-Timeout-0.07.tar.gz
