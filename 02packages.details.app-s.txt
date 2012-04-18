@@ -179,7 +179,7 @@ App::StaticImageGallery::Style::Simple 0.002  R/RB/RBO/App-StaticImageGallery-0.
 App::StaticImageGallery::Style::Source::Dispatcher 0.002  R/RB/RBO/App-StaticImageGallery-0.002.tar.gz
 App::StaticImageGallery::Style::Source::FromDir 0.002  R/RB/RBO/App-StaticImageGallery-0.002.tar.gz
 App::StaticImageGallery::Style::Source::FromPackage 0.002  R/RB/RBO/App-StaticImageGallery-0.002.tar.gz
-App::Staticperl                   undef  M/ML/MLEHMANN/App-Staticperl-1.42.tar.gz
+App::Staticperl                   undef  M/ML/MLEHMANN/App-Staticperl-1.43.tar.gz
 App::SuperviseMe                  0.001  M/ME/MELO/App-SuperviseMe-0.001.tar.gz
 App::SVN::Bisect                    1.1  I/IN/INFINOID/App-SVN-Bisect-1.1.tar.gz
 App::SweeperBot                    0.03  P/PJ/PJF/App-SweeperBot-0.03.tar.gz
