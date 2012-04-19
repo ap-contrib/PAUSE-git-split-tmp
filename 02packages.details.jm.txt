@@ -434,7 +434,6 @@ kdocAstUtil                       undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
 kdocLib                           undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
 kdocParseDoc                      undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
 kdocUtil                          undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
-Keeper                              3.4  B/BE/BERNARD/App-RecordStream-3.4.tar.gz
 Kephra                         0.004003033  L/LI/LICHTKIND/Kephra-0.4.3.33.tar.gz
 Kephra::API                        0.02  L/LI/LICHTKIND/Kephra-0.4.3.33.tar.gz
 Kephra::App                        0.12  L/LI/LICHTKIND/Kephra-0.4.3.33.tar.gz

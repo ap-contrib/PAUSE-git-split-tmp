@@ -610,7 +610,6 @@ App::RecordStream::Operation::generate 3.4  B/BE/BERNARD/App-RecordStream-3.7.3.
 App::RecordStream::Operation::grep  3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Operation::join  3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Operation::normalizetime 3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
-App::RecordStream::Operation::Printer 3.4  B/BE/BERNARD/App-RecordStream-3.4.tar.gz
 App::RecordStream::Operation::sort  3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Operation::stream2table undef  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Operation::tocsv 3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
@@ -626,7 +625,6 @@ App::RecordStream::Operation::xform 3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar
 App::RecordStream::OptionalRequire  3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::OutputStream     3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Record           3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
-App::RecordStream::ScreenPrinter    3.4  B/BE/BERNARD/App-RecordStream-3.4.tar.gz
 App::RecordStream::Site             3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Stream::Base   undef  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Stream::Printer undef  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
