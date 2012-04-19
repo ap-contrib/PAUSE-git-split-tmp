@@ -508,7 +508,7 @@ App::Raps2                         0.53  D/DE/DERF/App-Raps2-0.53.tar.gz
 App::Raps2::Password               0.53  D/DE/DERF/App-Raps2-0.53.tar.gz
 App::Raps2::UI                     0.53  D/DE/DERF/App-Raps2-0.53.tar.gz
 App::rbinperl                     0.700  R/RW/RWSTAUNER/App-rlibperl-0.700.tar.gz
-App::Rcsync                        0.02  P/PS/PSHANGOV/App-Rcsync-0.02.tar.gz
+App::Rcsync                        0.03  P/PS/PSHANGOV/App-Rcsync-0.03.tar.gz
 App::RecordStream                   3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Accumulator      3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
 App::RecordStream::Aggregator       3.4  B/BE/BERNARD/App-RecordStream-3.7.3.tar.gz
