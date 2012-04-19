@@ -276,6 +276,7 @@ Ubic::Service::Plack,MMCLERIC,c
 Ubic::Service::Plack,TADAM,f
 Ubic::Service::SimpleDaemon,MMCLERIC,f
 Ubic::Service::Skeleton,MMCLERIC,f
+Ubic::Service::Starman,WWOLF,f
 Ubic::Service::Utils,MMCLERIC,f
 Ubic::Service::ZooKeeper,TADAM,f
 Ubic::ServiceLoader,MMCLERIC,f
