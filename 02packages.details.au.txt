@@ -186,7 +186,7 @@ Authen::SASL::SASLprep             1.01  C/CF/CFAERBER/Authen-SASL-SASLprep-1.01
 Authen::SASL::XS                   1.00  G/GB/GBARR/Authen-SASL-XS-1.00.tar.gz
 Authen::SASL::XS::Security        undef  G/GB/GBARR/Authen-SASL-XS-1.00.tar.gz
 Authen::Simple                      0.4  C/CH/CHANSEN/Authen-Simple-0.4.tar.gz
-Authen::Simple::ActiveDirectory     0.2  C/CH/CHANSEN/Authen-Simple-LDAP-0.2.tar.gz
+Authen::Simple::ActiveDirectory     0.3  C/CH/CHANSEN/Authen-Simple-LDAP-0.3.tar.gz
 Authen::Simple::Adapter           undef  C/CH/CHANSEN/Authen-Simple-0.4.tar.gz
 Authen::Simple::Apache            undef  C/CH/CHANSEN/Authen-Simple-0.4.tar.gz
 Authen::Simple::Atheme              0.3  A/AL/ALYX/Authen-Simple-Atheme-0.003.tar.gz
@@ -197,7 +197,7 @@ Authen::Simple::FTP                 0.2  C/CH/CHANSEN/Authen-Simple-Net-0.2.tar.
 Authen::Simple::HTTP                0.2  C/CH/CHANSEN/Authen-Simple-HTTP-0.2.tar.gz
 Authen::Simple::IMAP              0.1.2  D/DM/DMARTIN/Authen-Simple-IMAP-0.1.2.tar.gz
 Authen::Simple::Kerberos            0.1  C/CH/CHANSEN/Authen-Simple-Kerberos-0.1.tar.gz
-Authen::Simple::LDAP                0.2  C/CH/CHANSEN/Authen-Simple-LDAP-0.2.tar.gz
+Authen::Simple::LDAP                0.3  C/CH/CHANSEN/Authen-Simple-LDAP-0.3.tar.gz
 Authen::Simple::Log               undef  C/CH/CHANSEN/Authen-Simple-0.4.tar.gz
 Authen::Simple::NIS                 0.3  C/CH/CHANSEN/Authen-Simple-NIS-0.3.tar.gz
 Authen::Simple::PAM                 0.2  C/CH/CHANSEN/Authen-Simple-PAM-0.2.tar.gz
