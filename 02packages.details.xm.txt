@@ -340,7 +340,7 @@ XML::Handler::XMLWriter            0.08  K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
 XML::Handler::YAWriter             0.23  K/KR/KRAEHE/XML-Handler-YAWriter-0.23.tar.gz
 XML::Hash                          0.95  B/BR/BRACETA/XML-Hash/XML-Hash-0.95.tar.gz
 XML::Hash::LX                    0.0603  M/MO/MONS/XML-Hash-LX-0.0603.tar.gz
-XML::Hash::XS                      0.09  Y/YO/YOREEK/XML-Hash-XS-0.09.tar.gz
+XML::Hash::XS                      0.10  Y/YO/YOREEK/XML-Hash-XS-0.10.tar.gz
 XML::Idiom                         0.02  J/JM/JMINIERI/Net-RDEP-0.03.tar.gz
 XML::IDMEF                         0.11  E/ER/ERWAN/XML-IDMEF-0.11.tar.gz
 XML::IODEF                         0.11  S/SA/SAXJAZMAN/iodef/XML-IODEF-0.11.tar.gz
