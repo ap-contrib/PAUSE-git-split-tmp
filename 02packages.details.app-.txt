@@ -90,6 +90,7 @@ App::Modular                   0.001003  B/BC/BCEVC/App-Modular-0.1.3.tar.gz
 App::Modular::Module           0.001003  B/BC/BCEVC/App-Modular-0.1.3.tar.gz
 App::Module::Lister                0.13  B/BD/BDFOY/App-Module-Lister-0.13.tar.gz
 App::Module::Locate                 0.2  C/CE/CELOGEEK/App-Module-Locate-0.2.tar.gz
+App::module::version              1.003  K/KM/KMX/App-module-version-1.003.tar.gz
 App::moduleshere                   0.08  S/SU/SUNNAVY/App-moduleshere-0.08.tar.gz
 App::moduleswhere                  0.03  S/SU/SUNNAVY/App-moduleswhere-0.03.tar.gz
 App::Monupco::dotCloud             0.05  A/AT/ATODOROV/App-Monupco-dotCloud-0.05.tar.gz

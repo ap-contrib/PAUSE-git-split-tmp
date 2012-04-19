@@ -260,6 +260,7 @@ App::makebeamerinfo::GUI,JBERGER,f
 App::metacpansearch,AWWAIID,f
 App::mgen,LAPIS,f
 App::mkfeyorm,KEEDI,f
+App::module::version,KMX,f
 App::moduleshere,SUNNAVY,f
 App::moduleswhere,SUNNAVY,f
 App::mymeta_requires,DAGOLDEN,f
