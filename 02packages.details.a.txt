@@ -157,7 +157,7 @@ Atompub::MediaType                undef  T/TA/TAKERU/Atompub-0.3.7.tar.gz
 Atompub::Server                   undef  T/TA/TAKERU/Atompub-0.3.7.tar.gz
 Atompub::Util                     undef  T/TA/TAKERU/Atompub-0.3.7.tar.gz
 Attempt                            1.01  M/MA/MARKF/Attempt-1.01.tar.gz
-Attr::Trait                         0.3  I/IN/INGY/Mo-0.30.tar.gz
+Attr::Trait                        0.31  I/IN/INGY/Mo-0.31.tar.gz
 Attribute                          2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Attribute::Abstract                1.01  D/DA/DANKOGAI/Attribute-Util-1.06.tar.gz
 Attribute::Alias                   1.01  D/DA/DANKOGAI/Attribute-Util-1.06.tar.gz
