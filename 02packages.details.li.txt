@@ -150,6 +150,7 @@ Lingua::EN::Alphabet::Deseret      0.01  M/MA/MARNANEL/Lingua-EN-Alphabet-Desere
 Lingua::EN::Alphabet::Shaw         0.64  M/MA/MARNANEL/Lingua-EN-Alphabet-Shaw-0.64.tar.gz
 Lingua::EN::AR                     0.01  M/MO/MOOSA/Lingua-EN-AR-0.01.tar.gz
 Lingua::EN::Bigram                 0.03  E/EM/EMORGAN/Lingua-EN-Bigram-0.03.tar.gz
+Lingua::EN::BioLemmatizer         1.002  T/TO/TOMC/Lingua-EN-BioLemmatizer-1.002.tar.gz
 Lingua::EN::CMUDict                0.05  L/LM/LMETCALF/Lingua-EN-CMUDict-0.05.tar.gz
 Lingua::EN::Conjugate             0.311  R/RW/RWG/Lingua-EN-Conjugate-0.311.tar.gz
 Lingua::EN::Contraction           0.104  R/RW/RWG/Lingua-EN-Contraction-0.104.tar.gz
