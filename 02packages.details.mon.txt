@@ -95,11 +95,11 @@ Monitis::Process                  undef  Y/YK/YKO/Monitis-0.9.tar.gz
 Monitis::SubAccounts              undef  Y/YK/YKO/Monitis-0.9.tar.gz
 Monitis::TransactionMonitors      undef  Y/YK/YKO/Monitis-0.9.tar.gz
 Monitis::VisitorTrackers          undef  Y/YK/YKO/Monitis-0.9.tar.gz
-MonitisConnection::MonitorIDCache undef  D/DA/DANFRU/MonitisMonitorManager-3.0.tar.gz
-MonitisConnection::QueueItem      undef  D/DA/DANFRU/MonitisMonitorManager-3.0.tar.gz
-MonitisMonitorManager               3.0  D/DA/DANFRU/MonitisMonitorManager-3.0.tar.gz
-MonitisMonitorManager::M3PluginCommon undef  D/DA/DANFRU/MonitisMonitorManager-3.0.tar.gz
-MonitisMonitorManager::MonitisConnection undef  D/DA/DANFRU/MonitisMonitorManager-3.0.tar.gz
+MonitisConnection::MonitorIDCache undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
+MonitisConnection::QueueItem      undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
+MonitisMonitorManager               3.1  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
+MonitisMonitorManager::M3PluginCommon undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
+MonitisMonitorManager::MonitisConnection undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
 Monitor                           undef  S/SR/SRIRAM/examples.tar.gz
 Monitor::Array                    undef  S/SR/SRIRAM/examples.tar.gz
 Monitor::Hash                     undef  S/SR/SRIRAM/examples.tar.gz
