@@ -229,7 +229,7 @@ Test::DeepFile                    0.003  G/GA/GAM/Test-DeepFile-0.003.tar.gz
 Test::Dependencies                 0.12  Z/ZE/ZEV/Test-Dependencies-0.12.tar.gz
 Test::Dependencies::Heavy         undef  Z/ZE/ZEV/Test-Dependencies-0.12.tar.gz
 Test::Dependencies::Light         undef  Z/ZE/ZEV/Test-Dependencies-0.12.tar.gz
-Test::DependentModules             0.12  D/DR/DROLSKY/Test-DependentModules-0.12.tar.gz
+Test::DependentModules             0.13  D/DR/DROLSKY/Test-DependentModules-0.13.tar.gz
 Test::Depends                      0.06  S/SA/SAMV/Test-Depends-0.06.tar.gz
 Test::Device::SerialPort           0.05  C/CO/COSIMO/Test-Device-SerialPort-0.05.tar.gz
 Test::Differences                  0.61  O/OV/OVID/Test-Differences-0.61.tar.gz
