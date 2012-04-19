@@ -246,6 +246,9 @@ CPU::Emulator::6502::Op::TSX,BRICAS,f
 CPU::Emulator::6502::Op::TXA,BRICAS,f
 CPU::Emulator::6502::Op::TXS,BRICAS,f
 CPU::Emulator::6502::Op::TYA,BRICAS,f
+CPU::Emulator::DCPU16,SIMONW,f
+CPU::Emulator::DCPU16::Assembler,SIMONW,f
+CPU::Emulator::DCPU16::Disassembler,SIMONW,f
 CPU::Emulator::Memory,DCANTRELL,f
 CPU::Emulator::Memory::Banked,DCANTRELL,f
 CPU::Emulator::Z80,DCANTRELL,f
