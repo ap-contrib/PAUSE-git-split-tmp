@@ -456,6 +456,7 @@ RPM::Update,SHARRISON,f
 RPM::Util::Files,ZIGOROU,f
 RPM::Util::Files::Entry,ZIGOROU,f
 RPM::VersionSort,HAG,f
+RPSL,AASSAD,c
 RPSL,LMC,m
 RPSL::Parser,LMC,f
 RRD::CGI::Image,JOSHUA,f
