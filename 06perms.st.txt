@@ -231,6 +231,8 @@ String::Koremutake,LBROCARD,f
 String::LCSS,DYACOB,f
 String::LCSS_XS,LIMAONE,f
 String::LRC,WHOELSE,f
+String::Lookup,ELIZABETH,f
+String::Lookup::PurePerl,ELIZABETH,f
 String::MFN,MDXI,f
 String::MatchInterpolate,PEVANS,f
 String::MkPasswd,CGRAU,f
