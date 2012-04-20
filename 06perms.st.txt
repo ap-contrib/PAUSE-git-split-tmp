@@ -373,6 +373,7 @@ Stuff::Export,NIXUS,f
 Stuff::Features,NIXUS,f
 Stuff::Object,NIXUS,f
 Stuff::Reload,NIXUS,f
+Stuff::Reload::Modules,NIXUS,f
 Stuff::Reloader,NIXUS,f
 Stuff::Reloader::Modules,NIXUS,f
 Stuff::StackTrace,NIXUS,f
