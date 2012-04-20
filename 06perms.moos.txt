@@ -560,6 +560,8 @@ MooseX::Privacy::Trait::Protected,FRANCKC,f
 MooseX::Privacy::Trait::Role,FRANCKC,f
 MooseX::PrivateSetters,BRIANG,f
 MooseX::PrivateSetters::Role::Attribute,BRIANG,f
+MooseX::Prototype,TOBYINK,f
+MooseX::Prototype::Role::UseAsPrototype,TOBYINK,f
 MooseX::Q4MLog,CODEREPOS,c
 MooseX::Q4MLog,DMAKI,f
 MooseX::Q4MLog::CLI::Consume,CODEREPOS,c
