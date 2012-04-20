@@ -54,7 +54,7 @@ Apache2::AMFLiteDetectionFilter    3.52  I/IF/IFUSCHINI/Apache2-ApacheMobileFilt
 Apache2::AMFMobileCachingMemcached 3.52  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-3.52.tar.gz
 Apache2::AMFSwitcher               3.52  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-3.52.tar.gz
 Apache2::AMFTrace                  3.52  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-3.52.tar.gz
-Apache2::AMFWebService             3.51  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-3.51.tar.gz
+Apache2::AMFWebService             3.52  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-3.52.tar.gz
 Apache2::AMFWURFLFilter            3.52  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-3.52.tar.gz
 Apache2::AMFWURFLFilterMemcached   3.52  I/IF/IFUSCHINI/Apache2-ApacheMobileFilter-3.52.tar.gz
 Apache2::Archive                    0.2  D/DA/DAMOG/Apache2-Archive-0.2.tar.gz
