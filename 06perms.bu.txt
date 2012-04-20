@@ -1219,6 +1219,8 @@ Business::Shipping::USPS_Online::RateRequest,DBROWNING,f
 Business::Shipping::USPS_Online::Shipment,DBROWNING,f
 Business::Shipping::USPS_Online::Tracking,DBROWNING,f
 Business::Shipping::Util,DBROWNING,f
+Business::SiteCatalyst,JPINKHAM,f
+Business::SiteCatalyst::Report,JPINKHAM,f
 Business::Stripe,PHAM,m
 Business::TNTPost::NL,BLOM,f
 Business::TNTPost::NL::Data,BLOM,f
