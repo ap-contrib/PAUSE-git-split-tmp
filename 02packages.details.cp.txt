@@ -565,9 +565,11 @@ CPU::Emulator::6502::Op::TSX      undef  B/BR/BRICAS/Games-NES-Emulator-0.03.tar
 CPU::Emulator::6502::Op::TXA      undef  B/BR/BRICAS/Games-NES-Emulator-0.03.tar.gz
 CPU::Emulator::6502::Op::TXS      undef  B/BR/BRICAS/Games-NES-Emulator-0.03.tar.gz
 CPU::Emulator::6502::Op::TYA      undef  B/BR/BRICAS/Games-NES-Emulator-0.03.tar.gz
-CPU::Emulator::DCPU16               0.1  S/SI/SIMONW/CPU-Emulator-DCPU16-0.1.tar.gz
-CPU::Emulator::DCPU16::Assembler      0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.1.tar.gz
-CPU::Emulator::DCPU16::Disassembler   0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.1.tar.gz
+CPU::Emulator::DCPU16               0.2  S/SI/SIMONW/CPU-Emulator-DCPU16-0.2.tar.gz
+CPU::Emulator::DCPU16::Assembler      0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.2.tar.gz
+CPU::Emulator::DCPU16::Device         0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.2.tar.gz
+CPU::Emulator::DCPU16::Device::Console 0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.2.tar.gz
+CPU::Emulator::DCPU16::Disassembler   0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.2.tar.gz
 CPU::Emulator::Memory            1.1002  D/DC/DCANTRELL/CPU-Emulator-Memory-1.1002.tar.gz
 CPU::Emulator::Memory::Banked    1.1002  D/DC/DCANTRELL/CPU-Emulator-Memory-1.1002.tar.gz
 CPU::Emulator::Z80                  1.0  D/DC/DCANTRELL/CPU-Emulator-Z80-1.0.tar.gz
