@@ -110,6 +110,8 @@ Graph::Traversal                  undef  J/JH/JHI/Graph-0.94.tar.gz
 Graph::Traversal::BFS             undef  J/JH/JHI/Graph-0.94.tar.gz
 Graph::Traversal::DFS             undef  J/JH/JHI/Graph-0.94.tar.gz
 Graph::Undirected                 undef  J/JH/JHI/Graph-0.94.tar.gz
+Graph::Undirected::Components      0.30  K/KU/KUBINA/Graph-Undirected-Components-0.30.tar.gz
+Graph::Undirected::Components::External 0.30  K/KU/KUBINA/Graph-Undirected-Components-0.30.tar.gz
 Graph::UnionFind                  undef  J/JH/JHI/Graph-0.94.tar.gz
 Graph::Usage                       0.12  T/TE/TELS/graph/Graph-Usage-0.12.tar.gz
 Graph::Vertex                     undef  J/JH/JHI/Graph-0.005.tar.gz
