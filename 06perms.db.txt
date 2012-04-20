@@ -1049,6 +1049,7 @@ DBIx::Class::Row,MSTROUT,c
 DBIx::Class::Row,RIBASUSHI,f
 DBIx::Class::Row,RKINYON,c
 DBIx::Class::Row,WDH,c
+DBIx::Class::Row::Delta,JOHANL,f
 DBIx::Class::Row::Slave,TRAVAIL,f
 DBIx::Class::SQLMaker,ABRAXXA,c
 DBIx::Class::SQLMaker,AGRUNDMA,c
