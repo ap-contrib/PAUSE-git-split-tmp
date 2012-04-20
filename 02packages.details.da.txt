@@ -976,7 +976,7 @@ DateTimeX::Lite::TimeZone::UTC    undef  D/DM/DMAKI/DateTimeX-Lite-0.00004.tar.g
 DateTimeX::Lite::Util             undef  D/DM/DMAKI/DateTimeX-Lite-0.00004.tar.gz
 DateTimeX::Seinfeld                0.02  C/CJ/CJM/DateTimeX-Seinfeld-0.02.tar.gz
 DateTimeX::Subspan::Weekly         0.05  J/JK/JKEENAN/DateTimeX-Subspan-Weekly-0.05.tar.gz
-DateTimeX::Web                     0.04  I/IS/ISHIGAKI/DateTimeX-Web-0.04.tar.gz
+DateTimeX::Web                     0.05  I/IS/ISHIGAKI/DateTimeX-Web-0.05.tar.gz
 DayDayUp                           0.95  F/FA/FAYLAND/DayDayUp-0.95.tar.gz
 DayDayUp::Controller               0.95  F/FA/FAYLAND/DayDayUp-0.95.tar.gz
 DayDayUp::Extra                    0.95  F/FA/FAYLAND/DayDayUp-0.95.tar.gz
