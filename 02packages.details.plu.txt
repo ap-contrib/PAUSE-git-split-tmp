@@ -577,7 +577,7 @@ Pod::Coverage::Extractor           0.22  R/RC/RCLAMP/Pod-Coverage-0.22.tar.gz
 Pod::Coverage::MethodSignatures    0.02  D/DA/DAPATRICK/Pod-Coverage-MethodSignatures-0.02.tar.gz
 Pod::Coverage::Moose               0.04  M/MM/MMCLERIC/Pod-Coverage-Moose-0.04.tar.gz
 Pod::Coverage::Overloader         undef  R/RC/RCLAMP/Pod-Coverage-0.22.tar.gz
-Pod::Coverage::TrustPod        0.100001  R/RJ/RJBS/Pod-Coverage-TrustPod-0.100001.tar.gz
+Pod::Coverage::TrustPod        0.100002  R/RJ/RJBS/Pod-Coverage-TrustPod-0.100002.tar.gz
 Pod::Cpandoc                       0.11  S/SA/SARTAK/Pod-Cpandoc-0.11.tar.gz
 Pod::Cpandoc::Scraper             undef  S/SA/SARTAK/Pod-Cpandoc-0.01.tar.gz
 POD::Credentials                   0.04  M/MP/MPG/POD-Credentials-0.04.tgz
