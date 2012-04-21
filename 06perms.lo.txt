@@ -355,6 +355,7 @@ Log::Dispatch::Screen,JSWARTZ,c
 Log::Dispatch::Screen,SARTAK,c
 Log::Dispatch::Screen::Color,YAPPO,f
 Log::Dispatch::Scribe,JJSCHUTZ,f
+Log::Dispatch::Socket,LOSYME,f
 Log::Dispatch::Spread,BRTHOMAS,f
 Log::Dispatch::Syslog,DROLSKY,f
 Log::Dispatch::Syslog,JSWARTZ,c

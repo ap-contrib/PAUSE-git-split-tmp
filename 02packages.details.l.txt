@@ -685,6 +685,7 @@ Log::Dispatch::Screen              2.29  D/DR/DROLSKY/Log-Dispatch-2.29.tar.gz
 Log::Dispatch::Screen::Color       0.04  Y/YA/YAPPO/Log-Dispatch-Screen-Color-0.04.tar.gz
 Log::Dispatch::Scribe              0.05  J/JJ/JJSCHUTZ/Log-Dispatch-Scribe-0.05.tar.gz
 Log::Dispatch::SNMP                0.02  G/GA/GARU/Log-Dispatch-SNMP-0.02.tar.gz
+Log::Dispatch::Socket              0.01  L/LO/LOSYME/Log-Dispatch-Socket-0.01.tar.gz
 Log::Dispatch::Spread               0.9  B/BR/BRTHOMAS/Log-Dispatch-Spread-0.9.tar.gz
 Log::Dispatch::Syslog              2.29  D/DR/DROLSKY/Log-Dispatch-2.29.tar.gz
 Log::Dispatch::TestDiag            0.01  G/GT/GTERMARS/Log-Dispatch-TestDiag-0.01.tar.gz

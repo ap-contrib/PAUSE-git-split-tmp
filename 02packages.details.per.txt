@@ -320,7 +320,7 @@ Petal::Mail                        0.31  B/BP/BPOSTLE/Petal-Mail-0.31.tar.gz
 Petal::Parser                     undef  N/NI/NINE/Petal-2.20.tar.gz
 Petal::Parser::HTB                 1.04  B/BP/BPOSTLE/Petal-Parser-HTB-1.04.tar.gz
 Petal::Parser::XP                  1.02  J/JH/JHIVER/Petal-Parser-XP-1.02.tar.gz
-Petal::Tiny                       undef  J/JH/JHIVER/Petal-Tiny-1.0.tar.gz
+Petal::Tiny                       undef  J/JH/JHIVER/Petal-Tiny-1.01.tar.gz
 Petal::TranslationService::Gettext undef  N/NI/NINE/Petal-2.20.tar.gz
 Petal::TranslationService::h4x0r  undef  N/NI/NINE/Petal-2.20.tar.gz
 Petal::TranslationService::MOFile undef  N/NI/NINE/Petal-2.20.tar.gz
