@@ -84,7 +84,7 @@ Ponfish::News::MyNNTP              2.23  D/DC/DCLEE/ponfish-0.03.tar.gz
 Ponfish::TermSize                  0.01  D/DC/DCLEE/ponfish-0.03.tar.gz
 Ponfish::ThreadHandler             0.01  D/DC/DCLEE/ponfish-0.03.tar.gz
 Ponfish::Utilities                 0.01  D/DC/DCLEE/ponfish-0.03.tar.gz
-Pony::Object                       0.02  B/BU/BUGOV/Pony-Object-0.02.tar.gz
+Pony::Object                       0.03  B/BU/BUGOV/Pony-Object-0.03.tar.gz
 POOF                                1.4  B/BM/BMILLARES/POOF-1.4.tar.gz
 POOF::Collection                    1.2  B/BM/BMILLARES/POOF-1.4.tar.gz
 POOF::DataType                      1.0  B/BM/BMILLARES/POOF-1.4.tar.gz
