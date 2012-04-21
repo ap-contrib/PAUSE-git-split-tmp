@@ -91,6 +91,9 @@ Data::Range::Compare::Stream::Iterator::Consolidate::FillMissing,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Consolidate::OverlapAsColumn,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::Consolidate::Result,AKALINUX,f
 Data::Range::Compare::Stream::Iterator::File,AKALINUX,f
+Data::Range::Compare::Stream::Iterator::File::MergeSortAsc,AKALINUX,f
+Data::Range::Compare::Stream::Iterator::File::MergeSortAsc::Stack,AKALINUX,f
+Data::Range::Compare::Stream::Iterator::Stack,AKALINUX,f
 Data::Range::Compare::Stream::Result::Base,AKALINUX,f
 Data::Range::Compare::Stream::Sort,AKALINUX,f
 Data::Rebuilder,LIEUTAR,f
