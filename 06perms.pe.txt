@@ -499,6 +499,7 @@ Petal::Syntax::Petales,BPOSTLE,f
 Petal::Syntax::Petales,NINE,c
 Petal::Syntax::TAL,BPOSTLE,f
 Petal::Syntax::TAL,NINE,c
+Petal::Tiny,JHIVER,f
 Petal::TranslationService::Gettext,BPOSTLE,f
 Petal::TranslationService::Gettext,NINE,c
 Petal::TranslationService::MOFile,BPOSTLE,f
