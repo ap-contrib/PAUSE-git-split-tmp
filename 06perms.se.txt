@@ -575,6 +575,16 @@ Setup::Unix::Group,SHARYANTO,f
 Setup::Unix::User,SHARYANTO,f
 Sex,MSCHWERN,f
 Shape::RegularPolygon,KZTOMITA,f
+ShardedKV,SMUELLER,f
+ShardedKV::Continuum,SMUELLER,f
+ShardedKV::Continuum::Ketama,SMUELLER,f
+ShardedKV::Storage,SMUELLER,f
+ShardedKV::Storage::Memory,SMUELLER,f
+ShardedKV::Storage::MySQL,SMUELLER,f
+ShardedKV::Storage::MySQL::ActiveKeyMigration,SMUELLER,f
+ShardedKV::Storage::Redis,SMUELLER,f
+ShardedKV::Storage::Redis::Hash,SMUELLER,f
+ShardedKV::Storage::Redis::String,SMUELLER,f
 SharePoint::SOAPHandler,DBMOLESTA,m
 Shared::Queue,IEFREMOV,f
 Shebangml,EWILHELM,f
