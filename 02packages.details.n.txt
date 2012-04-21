@@ -490,6 +490,8 @@ Object::Interface                   1.1  G/GW/GWELCH/Object-Interface-1.1.zip
 Object::InterfaceType              0.01  Y/YA/YAPPO/Object-InterfaceType-0.01.tar.gz
 Object::Iterate                    1.12  B/BD/BDFOY/Object-Iterate-1.12.tar.gz
 Object::Iterate::Tester            1.12  B/BD/BDFOY/Object-Iterate-1.12.tar.gz
+Object::KeyValueCoding              0.1  K/KY/KYLED/Object-KeyValueCoding-0.1.tar.gz
+Object::KeyValueCoding::Key         0.1  K/KY/KYLED/Object-KeyValueCoding-0.1.tar.gz
 Object::KVC                        0.03  T/TJ/TJOHNSON/Object-KVC-0.03.tar.gz
 Object::KVC::Hash                  0.03  T/TJ/TJOHNSON/Object-KVC-0.03.tar.gz
 Object::KVC::HashRef               0.03  T/TJ/TJOHNSON/Object-KVC-0.03.tar.gz

@@ -71,6 +71,8 @@ Object::KVC::Integer,TJOHNSON,f
 Object::KVC::List,TJOHNSON,f
 Object::KVC::Set,TJOHNSON,f
 Object::KVC::String,TJOHNSON,f
+Object::KeyValueCoding,KYLED,f
+Object::KeyValueCoding::Key,KYLED,f
 Object::Lazy,STEFFENW,f
 Object::Lazy::Ref,STEFFENW,f
 Object::Lazy::Validate,STEFFENW,f
