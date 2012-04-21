@@ -246,9 +246,9 @@ Win32::IEAutomation                 0.5  P/PR/PRASHANT/Win32-IEAutomation-0.5.ta
 Win32::IEAutomation::Element        0.5  P/PR/PRASHANT/Win32-IEAutomation-0.5.tar.gz
 Win32::IEAutomation::Table          0.5  P/PR/PRASHANT/Win32-IEAutomation-0.5.tar.gz
 Win32::IEAutomation::WinClicker     0.5  P/PR/PRASHANT/Win32-IEAutomation-0.5.tar.gz
-Win32::IEFavorites                 0.05  I/IS/ISHIGAKI/Win32-IEFavorites-0.05.tar.gz
-Win32::IEFavorites::DateTime       0.01  I/IS/ISHIGAKI/Win32-IEFavorites-0.05.tar.gz
-Win32::IEFavorites::Item           0.02  I/IS/ISHIGAKI/Win32-IEFavorites-0.05.tar.gz
+Win32::IEFavorites                 0.06  I/IS/ISHIGAKI/Win32-IEFavorites-0.06.tar.gz
+Win32::IEFavorites::DateTime       0.06  I/IS/ISHIGAKI/Win32-IEFavorites-0.06.tar.gz
+Win32::IEFavorites::Item           0.06  I/IS/ISHIGAKI/Win32-IEFavorites-0.06.tar.gz
 Win32::IIS::Admin                 1.024  M/MT/MTHURN/Win32-IIS-Admin-1.024.tar.gz
 Win32::INET                        0.03  K/KE/KENWU/Win32-INET-0.03.zip
 Win32::InstallShield                0.7  K/KB/KBAUCOM/Win32-InstallShield-0.7.tar.gz
