@@ -340,8 +340,8 @@ Syntax::X                         undef  V/VM/VMORAL/ikiwiki-plugin-syntax_0.24.
 sys                            0.002000  A/AS/ASKSH/sys-0.2.tar.gz
 Sys::AlarmCall                      1.2  A/AB/ABH/Sys-AlarmCall-1.2.tar.gz
 Sys::Apm                           0.05  R/RL/RLZWART/Sys-Apm-0.05.tar.gz
-Sys::Cmd                           0.05  M/ML/MLAWREN/Sys-Cmd-0.05.tar.gz
-Sys::Cmd::Template                 0.05  M/ML/MLAWREN/Sys-Cmd-0.05.tar.gz
+Sys::Cmd                           0.08  M/ML/MLAWREN/Sys-Cmd-0.08.tar.gz
+Sys::Cmd::Template                 0.08  M/ML/MLAWREN/Sys-Cmd-0.08.tar.gz
 Sys::Config::Manage            0.003000  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
 Sys::Config::Manage::Ownership      0.0  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
 Sys::Config::Manage::Perms          0.0  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
