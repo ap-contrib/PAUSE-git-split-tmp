@@ -368,9 +368,9 @@ JUNOS::Methods                    undef  J/JU/JUNOS/junoscript-perl-6.4I0.tar.gz
 JUNOS::Response                   undef  J/JU/JUNOS/junoscript-perl-6.4I0.tar.gz
 JUNOS::Trace                      undef  J/JU/JUNOS/junoscript-perl-6.4I0.tar.gz
 Jvm                            0.009002  Y/YE/YEWEI/Jvm-0.9.2.tar.gz
-K                                  0.06  W/WH/WHITNEY/K-0.06.tar.gz
-K::Install::Files                 undef  W/WH/WHITNEY/K-0.06.tar.gz
-K::Raw                             0.06  W/WH/WHITNEY/K-0.06.tar.gz
+K                                  0.07  W/WH/WHITNEY/K-0.07.tar.gz
+K::Install::Files                 undef  W/WH/WHITNEY/K-0.07.tar.gz
+K::Raw                             0.07  W/WH/WHITNEY/K-0.07.tar.gz
 Kafka::Client                      0.02  G/GP/GPHAT/Kafka-Client-0.02.tar.gz
 Kaiten::Container                  0.37  M/ME/MEETTYA/Kaiten-Container-0.37.tar.gz
 KALedMeter                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
