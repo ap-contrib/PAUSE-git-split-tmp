@@ -1167,6 +1167,7 @@ Devel::REPL::Plugin::FancyPrompt  undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::FindVariable undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::History      undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::Interrupt    undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
+Devel::REPL::Plugin::LazyLoad      0.01  R/RH/RHOELZ/Devel-REPL-Plugin-LazyLoad-0.01.tar.gz
 Devel::REPL::Plugin::LexEnv       undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::MultiLine::PPI undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
 Devel::REPL::Plugin::NewlineHack  undef  D/DO/DOY/Devel-REPL-1.003012.tar.gz
