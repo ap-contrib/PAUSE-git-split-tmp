@@ -71,6 +71,7 @@ Mongoose::Meta::AttributeTraits    0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz
 Mongoose::Role::Collapser          0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz
 Mongoose::Role::Engine             0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz
 Mongoose::Role::Expander           0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz
+MongooseX::JSMethod                0.01  F/FC/FCO/MongooseX-JSMethod-0.01.tar.gz
 MongoX                             0.05  D/DO/DOGGY/MongoX-0.05.tar.gz
 MongoX::Context                   undef  D/DO/DOGGY/MongoX-0.05.tar.gz
 MongoX::Helper                    undef  D/DO/DOGGY/MongoX-0.05.tar.gz

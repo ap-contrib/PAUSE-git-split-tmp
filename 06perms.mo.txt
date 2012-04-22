@@ -189,6 +189,7 @@ Mongoose::Meta::AttributeTraits,RODRIGO,f
 Mongoose::Role::Collapser,RODRIGO,f
 Mongoose::Role::Engine,RODRIGO,f
 Mongoose::Role::Expander,RODRIGO,f
+MongooseX::JSMethod,FCO,f
 Mongrel,AWNCORP,f
 Monit::HTTP,PALLOTRON,m
 Monit::HTTP::API,PALLOTRON,f
