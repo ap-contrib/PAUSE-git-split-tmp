@@ -460,6 +460,9 @@ MooseX::Getopt::Strict,NUFFIN,c
 MooseX::Getopt::Strict,RJBS,c
 MooseX::Getopt::Strict,STEVAN,f
 MooseX::Getopt::Usage,PITCHLESS,f
+MooseX::Getopt::Usage::Formatter,PITCHLESS,f
+MooseX::Getopt::Usage::Pod::Text,PITCHLESS,f
+MooseX::Getopt::Usage::Role::Man,PITCHLESS,f
 MooseX::GlobRef,DEXTER,f
 MooseX::GlobRef::Meta::Class,DEXTER,f
 MooseX::GlobRef::Meta::Class::Trait::GlobRef,DEXTER,f
