@@ -797,7 +797,7 @@ Text::Decorator::Node               1.0  S/SI/SIMON/Text-Decorator-1.4.tar.gz
 Text::DeDuper                      1.01  J/JA/JANPOM/Text-DeDuper-1.01.tar.gz
 Text::Delimited                    2.06  B/BE/BENNIE/Text-Delimited-v2.06.tar.gz
 Text::DelimMatch                   1.06  N/NW/NWALSH/DelimMatch-1.06a.tar.gz
-Text::Demoroniser                  0.04  B/BA/BARBIE/Text-Demoroniser-0.04.tar.gz
+Text::Demoroniser                  0.05  B/BA/BARBIE/Text-Demoroniser-0.05.tar.gz
 Text::DeSupercite                   0.6  S/SI/SIMONW/Text-DeSupercite-0.6.tar.gz
 Text::DHCPLeases                    0.9  C/CV/CVICENTE/Text-DHCPLeases-0.9.tar.gz
 Text::DHCPLeases::Object            0.9  C/CV/CVICENTE/Text-DHCPLeases-0.9.tar.gz
