@@ -1515,9 +1515,11 @@ HTTP::Range,JHOBLITT,f
 HTTP::RangeSaver,BLGL,f
 HTTP::RecordedSession,CBROOKS,f
 HTTP::Recorder,LEIRA,m
+HTTP::Recorder,SEMUELF,c
 HTTP::Recorder::Httperf,WONKO,f
 HTTP::Recorder::Httperf::Logger,WONKO,f
 HTTP::Recorder::Logger,LEIRA,f
+HTTP::Recorder::Logger,SEMUELF,c
 HTTP::Request,GAAS,c
 HTTP::Request,LWWWP,m
 HTTP::Request::AsCGI,AGRUNDMA,c
