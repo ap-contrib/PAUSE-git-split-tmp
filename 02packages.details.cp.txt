@@ -291,10 +291,10 @@ CPAN::Testers::WWW::Reports::Parser::YAML 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Rep
 CPAN::Testers::WWW::Reports::Query::AJAX 0.04  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Query-AJAX-0.04.tar.gz
 CPAN::Testers::WWW::Reports::Query::Reports 0.06  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Query-Reports-0.06.tar.gz
 CPAN::Testers::WWW::Reports::Report 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Parser-0.03.tar.gz
-CPAN::Testers::WWW::Statistics     0.98  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.98.tar.gz
+CPAN::Testers::WWW::Statistics     0.99  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.99.tar.gz
 CPAN::Testers::WWW::Statistics::Excel 0.02  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-Excel-0.02.tar.gz
-CPAN::Testers::WWW::Statistics::Graphs 0.98  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.98.tar.gz
-CPAN::Testers::WWW::Statistics::Page 0.98  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.98.tar.gz
+CPAN::Testers::WWW::Statistics::Graphs 0.99  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.99.tar.gz
+CPAN::Testers::WWW::Statistics::Page 0.99  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.99.tar.gz
 CPAN::Testers::WWW::Statistics::Pages 0.97  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.97.tar.gz
 CPAN::Testers::WWW::Wiki           1.04  B/BA/BARBIE/CPAN-Testers-WWW-Wiki-1.04.tar.gz
 CPAN::Unpack                       0.31  L/LB/LBROCARD/CPAN-Unpack-0.31.tar.gz
