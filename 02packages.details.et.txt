@@ -69,6 +69,7 @@ ETLp::Types                       undef  D/DH/DHORNE/ETLp-0.03.tar.gz
 ETLp::Utility::Command            undef  D/DH/DHORNE/ETLp-0.03.tar.gz
 EV                                 4.11  M/ML/MLEHMANN/EV-4.11.tar.gz
 EV::ADNS                            2.2  M/ML/MLEHMANN/EV-ADNS-2.2.tar.gz
+EV::Cron                           0.01  L/LO/LOSYME/EV-Cron-0.01.tar.gz
 EV::Glib                           2.01  M/ML/MLEHMANN/EV-Glib-2.01.tar.gz
 EV::Loop::Async                    1.01  M/ML/MLEHMANN/EV-Loop-Async-1.01.tar.gz
 EV::MakeMaker                     undef  M/ML/MLEHMANN/EV-4.11.tar.gz
