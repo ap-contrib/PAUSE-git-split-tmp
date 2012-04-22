@@ -555,7 +555,7 @@ Spreadsheet::XlateExcel            0.02  X/XA/XAV/Spreadsheet-XlateExcel-0.02.ta
 Spreadsheet::XLSX                  0.13  D/DM/DMOW/Spreadsheet-XLSX-0.13-withoutworldwriteables.tar.gz
 Spreadsheet::XLSX::Fmt2007         0.13  D/DM/DMOW/Spreadsheet-XLSX-0.13-withoutworldwriteables.tar.gz
 Spreadsheet::XLSX::Utility2007     0.13  D/DM/DMOW/Spreadsheet-XLSX-0.13-withoutworldwriteables.tar.gz
-Spreadsheet::XML_to_XLS            0.02  U/US/USMANOV/Spreadsheet-XML_to_XLS-0.02.tar.gz
+Spreadsheet::XML_to_XLS            0.02  U/US/USMANOV/Spreadsheet-XML_to_XLS-0.03.tar.gz
 SpringfieldObject                 undef  J/JL/JLLEROY/Tangram-2.04.tar.gz
 SpringGraph                        0.05  T/TE/TEEJAY/SpringGraph-0.05.tar.gz
 Sprite                             3.21  S/SH/SHGUN/Sprite-3.21.tar.gz
