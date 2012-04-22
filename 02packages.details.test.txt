@@ -526,6 +526,7 @@ TestRHBug                         undef  J/JR/JROBINSON/DBIx-Class-0.08009.tar.g
 TestRunner                        undef  N/NI/NIGE/Goo-0.09.tar.gz
 TestServer                        undef  R/RC/RCAPUTO/POE-Component-Client-Keepalive-0.270.tar.gz
 testthread                         0.08  S/SA/SANTEX/Finance-Quant-0.08.tar.gz
+TestXML2                          undef  J/JZ/JZOBEL/Apache2-ModXml2-0.01.tar.gz
 TetrixBoard                       undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 TetrixPiece                       undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 TetrixWindow                      undef  C/CB/CBUREL/Qt-0.96.0.tar.gz

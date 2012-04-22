@@ -981,6 +981,7 @@ TestServer,RCAPUTO,f
 TestSetup,RCAPUTO,f
 TestValidDefaults,JBEVERLY,f
 TestWDAO,ZAG,c
+TestXML2,JZOBEL,f
 Test_class,JRED,f
 Test_t,ZAG,c
 Tester,AKSTE,f

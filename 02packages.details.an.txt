@@ -270,6 +270,7 @@ Apache2::ModLogConfig              0.01  O/OP/OPI/Apache2-ModLogConfig-0.01.tar.
 Apache2::ModProxyPerlHtml           3.2  D/DA/DAROLD/Apache2/ModProxyPerlHtml/Apache2-ModProxyPerlHtml-3.2.tar.gz
 Apache2::ModSSL                    0.08  O/OP/OPI/Apache2-ModSSL-0.08.tar.gz
 Apache2::Module                   0.009  P/PH/PHRED/mod_perl-2.0.5.tar.gz
+Apache2::ModXml2                   0.01  J/JZ/JZOBEL/Apache2-ModXml2-0.01.tar.gz
 Apache2::Mogile::Dispatch           0.2  S/SO/SOCK/Apache2-Mogile-Dispatch-0.2.tar.gz
 Apache2::Mojo                     0.004  U/UV/UVOELKER/Apache2-Mojo-0.004.tar.gz
 Apache2::MPM                      0.009  P/PH/PHRED/mod_perl-2.0.5.tar.gz

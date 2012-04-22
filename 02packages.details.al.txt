@@ -449,6 +449,7 @@ Amon2::Web::Request               undef  T/TO/TOKUHIROM/Amon2-3.35.tar.gz
 Amon2::Web::Response              undef  T/TO/TOKUHIROM/Amon2-3.35.tar.gz
 AMPR::Rip44                        0.03  C/CJ/CJCOLLIER/AMPRRip44/AMPR-Rip44-0.03.tar.gz
 AMSSerializer                      0.02  J/JA/JASHMENN/SOAP-Amazon-MerchantTransport-0.02.tar.gz
+AMX2                              undef  J/JZ/JZOBEL/Apache2-ModXml2-0.01.tar.gz
 AMZ::Test                             1  M/ME/MELEZHIK/AMZ_TEST-0.0.2.tar.gz
 AnalogClock                       undef  A/AW/AWIN/Qt-0.03.tar.gz
 analysis                            1.4  C/CJ/CJONES/Microarray-0.45c.zip
