@@ -639,7 +639,7 @@ SVN::Hooks::Notify                 1.15  G/GN/GNUSTAVO/SVN-Hooks-1.15.tar.gz
 SVN::Hooks::UpdateConfFile         1.15  G/GN/GNUSTAVO/SVN-Hooks-1.15.tar.gz
 SVN::Log                           0.03  N/NI/NIKC/SVN-Log-0.03.tar.gz
 SVN::Log::Index                    0.51  N/NI/NIKC/SVN-Log-Index-0.51.tar.gz
-SVN::Look                          0.34  G/GN/GNUSTAVO/SVN-Look-0.34.tar.gz
+SVN::Look                          0.35  G/GN/GNUSTAVO/SVN-Look-0.35.tar.gz
 SVN::Mirror                        0.75  C/CL/CLKAO/SVN-Mirror-0.75.tar.gz
 SVN::Mirror::Git                   0.62  C/CL/CLKAO/SVN-Mirror-0.75.tar.gz
 SVN::Mirror::Ra                    0.73  C/CL/CLKAO/SVN-Mirror-0.75.tar.gz
