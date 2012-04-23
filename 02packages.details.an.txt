@@ -20,14 +20,14 @@ AnyMongo::MongoSupport             0.03  D/DO/DOGGY/AnyMongo-0.03.tar.gz
 AnyMQ                              0.34  C/CL/CLKAO/AnyMQ-0.34.tar.gz
 AnyMQ::AMQP                        0.30  C/CL/CLKAO/AnyMQ-AMQP-0.30.tar.gz
 AnyMQ::Queue                      undef  C/CL/CLKAO/AnyMQ-0.34.tar.gz
-AnyMQ::RawSocket                   0.01  R/RE/REVMISCHA/AnyMQ-RawSocket-0.01.tar.gz
+AnyMQ::RawSocket                   0.02  R/RE/REVMISCHA/AnyMQ-RawSocket-0.02.tar.gz
 AnyMQ::Topic                       0.01  C/CL/CLKAO/AnyMQ-0.34.tar.gz
 AnyMQ::Topic::Trait::AMQP         undef  C/CL/CLKAO/AnyMQ-AMQP-0.30.tar.gz
-AnyMQ::Topic::Trait::RawSocket    undef  R/RE/REVMISCHA/AnyMQ-RawSocket-0.01.tar.gz
+AnyMQ::Topic::Trait::RawSocket    undef  R/RE/REVMISCHA/AnyMQ-RawSocket-0.02.tar.gz
 AnyMQ::Topic::Trait::WithBacklog  undef  C/CL/CLKAO/AnyMQ-0.34.tar.gz
 AnyMQ::Topic::Trait::ZeroMQ       undef  R/RE/REVMISCHA/AnyMQ-ZeroMQ-0.06.tar.gz
 AnyMQ::Trait::AMQP                undef  C/CL/CLKAO/AnyMQ-AMQP-0.30.tar.gz
-AnyMQ::Trait::RawSocket           undef  R/RE/REVMISCHA/AnyMQ-RawSocket-0.01.tar.gz
+AnyMQ::Trait::RawSocket           undef  R/RE/REVMISCHA/AnyMQ-RawSocket-0.02.tar.gz
 AnyMQ::Trait::ZeroMQ              undef  R/RE/REVMISCHA/AnyMQ-ZeroMQ-0.06.tar.gz
 AnyMQ::ZeroMQ                      0.06  R/RE/REVMISCHA/AnyMQ-ZeroMQ-0.06.tar.gz
 AnySan                             0.06  Y/YA/YAPPO/AnySan-0.06.tar.gz
