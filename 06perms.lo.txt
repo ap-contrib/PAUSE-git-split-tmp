@@ -187,7 +187,7 @@ Log::Any::Test::Adapter::Memory,JSWARTZ,f
 Log::Any::Test::Class,JSWARTZ,f
 Log::Any::Test::InternalOnly,JSWARTZ,f
 Log::Any::Util,JSWARTZ,f
-Log::AutoDump,CAGAO,f
+Log::AutoDump,CAGAO,m
 Log::CSVLogger,GAURAVKH,f
 Log::Cabin,JORVIS,f
 Log::Cabin::Foundation,JORVIS,f

@@ -1568,6 +1568,7 @@ DateTimeX::Lite::TimeZone::Local::Win32,DMAKI,f
 DateTimeX::Lite::TimeZone::OffsetOnly,DMAKI,f
 DateTimeX::Lite::TimeZone::UTC,DMAKI,f
 DateTimeX::Lite::Util,DMAKI,f
+DateTimeX::Mashup::Shiras,JANDREW,m
 DateTimeX::Seinfeld,CJM,f
 DateTimeX::Subspan::Weekly,JKEENAN,f
 DateTimeX::Tie::Hash,METAL,m

@@ -527,7 +527,7 @@ MBC::Controller::FedDB,ROGERHALL,f
 MBC::Controller::Upload,ROGERHALL,f
 MBC::Controller::UploadEG,ROGERHALL,f
 MBKFail,FOTANGO,f
-MCDB_File,GSTRAUSS,f
+MCDB_File,GSTRAUSS,m
 MCDB_File::Make,GSTRAUSS,f
 MCrypt,FKUO,f
 MD5,GAAS,c

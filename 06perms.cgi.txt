@@ -17,7 +17,7 @@ CGI::Untaint::CSP,NHORNE,f
 CGI::Untaint::CSP::GB,NHORNE,f
 CGI::Untaint::CountyStateProvince,NHORNE,m
 CGI::Untaint::CountyStateProvince::GB,NHORNE,m
-CGI::Untaint::CountyStateProvince::US,NHORNE,f
+CGI::Untaint::CountyStateProvince::US,NHORNE,m
 CGI::Untaint::Filenames,DHUDES,m
 CGI::Untaint::Maypole,TEEJAY,f
 CGI::Untaint::Winfilename,DHUDES,f
