@@ -316,6 +316,7 @@ Padre::Wx::Dialog::Replace,PLAVEN,c
 Padre::Wx::Dialog::Replace,RSN,c
 Padre::Wx::Dialog::Replace,SZABGAB,f
 Padre::Wx::Dialog::ReplaceInFiles,PLAVEN,f
+Padre::Wx::Dialog::SLOC,PLAVEN,f
 Padre::Wx::Dialog::Search,ADAMK,c
 Padre::Wx::Dialog::Search,AZAWAWI,c
 Padre::Wx::Dialog::Search,GARU,c
@@ -488,11 +489,13 @@ Padre::Wx::FBP::PluginManager,PLAVEN,f
 Padre::Wx::FBP::Preferences,PLAVEN,f
 Padre::Wx::FBP::Replace,PLAVEN,f
 Padre::Wx::FBP::ReplaceInFiles,PLAVEN,f
+Padre::Wx::FBP::SLOC,PLAVEN,f
 Padre::Wx::FBP::SessionManager,PLAVEN,f
 Padre::Wx::FBP::Snippet,PLAVEN,f
 Padre::Wx::FBP::Special,PLAVEN,f
 Padre::Wx::FBP::Sync,PLAVEN,f
 Padre::Wx::FBP::Syntax,PLAVEN,f
+Padre::Wx::FBP::TaskList,PLAVEN,f
 Padre::Wx::FBP::Text,PLAVEN,f
 Padre::Wx::FBP::VCS,PLAVEN,f
 Padre::Wx::FBP::WhereFrom,PLAVEN,f
@@ -780,6 +783,7 @@ Padre::Wx::Panel::DebugOutput,PLAVEN,f
 Padre::Wx::Panel::Debugger,PLAVEN,f
 Padre::Wx::Panel::FindFast,PLAVEN,f
 Padre::Wx::Panel::FoundInFiles,PLAVEN,f
+Padre::Wx::Panel::TaskList,PLAVEN,f
 Padre::Wx::Pod2HTML,ADAMK,c
 Padre::Wx::Pod2HTML,AZAWAWI,c
 Padre::Wx::Pod2HTML,GARU,c
@@ -878,15 +882,18 @@ Padre::Wx::RightClick,SZABGAB,f
 Padre::Wx::RightClick,THEREK,c
 Padre::Wx::Role::Conduit,PLAVEN,f
 Padre::Wx::Role::Config,PLAVEN,f
+Padre::Wx::Role::Context,PLAVEN,f
 Padre::Wx::Role::Dialog,PLAVEN,f
 Padre::Wx::Role::Dwell,PLAVEN,f
 Padre::Wx::Role::Form,PLAVEN,f
+Padre::Wx::Role::Idle,PLAVEN,f
 Padre::Wx::Role::Main,PLAVEN,f
 Padre::Wx::Role::MainChild,AZAWAWI,c
 Padre::Wx::Role::MainChild,GARU,c
 Padre::Wx::Role::MainChild,PLAVEN,c
 Padre::Wx::Role::MainChild,RSN,c
 Padre::Wx::Role::MainChild,SZABGAB,f
+Padre::Wx::Role::Timer,PLAVEN,f
 Padre::Wx::Role::View,PLAVEN,f
 Padre::Wx::Scintilla,PLAVEN,f
 Padre::Wx::ScrollLock,PLAVEN,f
@@ -932,6 +939,7 @@ Padre::Wx::SyntaxChecker,RSN,c
 Padre::Wx::SyntaxChecker,SMUELLER,c
 Padre::Wx::SyntaxChecker,SZABGAB,f
 Padre::Wx::SyntaxChecker,THEREK,c
+Padre::Wx::TaskList,PLAVEN,f
 Padre::Wx::Text,ADAMK,c
 Padre::Wx::Text,AZAWAWI,c
 Padre::Wx::Text,GARU,c
