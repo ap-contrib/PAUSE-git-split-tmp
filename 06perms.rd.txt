@@ -539,6 +539,10 @@ RT::Action::AddQueueAdminCcs,RUZ,c
 RT::Action::AddQueueAdminCcs,TSIBLEY,c
 RT::Action::AssignUnownedToActor,RUZ,c
 RT::Action::AssignUnownedToActor,TSIBLEY,f
+RT::Action::CIFMinimal_ProcessReport,SAXJAZMAN,f
+RT::Action::CIFMinimal_RejectReport,SAXJAZMAN,f
+RT::Action::CIFMinimal_ReopenReport,SAXJAZMAN,f
+RT::Action::CIFMinimal_SetStatus,SAXJAZMAN,f
 RT::Action::EscalationDates,BHEISIG,f
 RT::Action::ExtractCustomFieldValues,ALEXMV,c
 RT::Action::ExtractCustomFieldValues,FALCONE,c
@@ -682,6 +686,7 @@ RT::BugTracker::Public,FALCONE,c
 RT::BugTracker::Public,JESSE,c
 RT::BugTracker::Public,RUZ,c
 RT::BugTracker::Public,TSIBLEY,f
+RT::CIFMinimal,SAXJAZMAN,f
 RT::CachedGroupMember,ALEXMV,c
 RT::CachedGroupMember,FALCONE,c
 RT::CachedGroupMember,JESSE,c
@@ -822,6 +827,8 @@ RT::ClientX::GrabBugs,TOBYINK,f
 RT::ClientX::GrabBugs::Bug,TOBYINK,f
 RT::Condition::ACNSMessage,RUZ,c
 RT::Condition::ACNSMessage,TSIBLEY,f
+RT::Condition::CIFMinimal_IODEFFieldChange,SAXJAZMAN,f
+RT::Condition::CIFMinimal_Stale,SAXJAZMAN,f
 RT::Condition::Complex,RUZ,c
 RT::Condition::Complex,TSIBLEY,f
 RT::Condition::Complex::Test,RUZ,c

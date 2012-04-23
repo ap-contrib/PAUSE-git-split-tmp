@@ -298,6 +298,10 @@ Rsync::Config::Renderer             0.2  D/DI/DIABLO/Rsync-Config-0.3.1.tar.gz
 RT::ACE                           undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
 RT::Action::AddQueueAdminCcs      undef  T/TS/TSIBLEY/RT-Extension-AddAdminCcsOnQueueChange-0.03.tar.gz
 RT::Action::AssignUnownedToActor   0.01  T/TS/TSIBLEY/RT-Action-AssignUnownedToActor-0.01.tar.gz
+RT::Action::CIFMinimal_ProcessReport undef  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.tar.gz
+RT::Action::CIFMinimal_RejectReport undef  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.tar.gz
+RT::Action::CIFMinimal_ReopenReport undef  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.tar.gz
+RT::Action::CIFMinimal_SetStatus  undef  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.tar.gz
 RT::Action::EscalationDates         0.4  B/BH/BHEISIG/RT-Extension-EscalationDates-0.4.tar.gz
 RT::Action::ExtractCustomFieldValues 2.9901  F/FA/FALCONE/RT-Extension-ExtractCustomFieldValues-3.07.tar.gz
 RT::Action::ExtractCustomFieldValuesWithCodeInTemplate undef  F/FA/FALCONE/RT-Extension-ExtractCustomFieldValues-3.07.tar.gz
@@ -336,6 +340,7 @@ RT::Authen::PAUSE                  0.02  R/RU/RUZ/RT-Authen-PAUSE-0.02.tar.gz
 RT::BugTracker                     0.05  R/RU/RUZ/RT-BugTracker-0.05.tar.gz
 RT::BugTracker::Public             0.02  R/RU/RUZ/RT-BugTracker-Public-0.02.tar.gz
 RT::CachedGroupMember             undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
+RT::CIFMinimal                     0.01  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.tar.gz
 RT::Client                         0.01  A/AU/AUTRIJUS/RT-Client-0.01.tar.gz
 RT::Client::Base                  undef  A/AU/AUTRIJUS/RT-Client-0.01.tar.gz
 RT::Client::Console            0.002000  D/DA/DAMS/RT-Client-Console-0.2.0.tar.gz
@@ -372,6 +377,8 @@ RT::Client::ResultSet             undef  A/AU/AUTRIJUS/RT-Client-0.01.tar.gz
 RT::ClientX::GrabBugs             0.001  T/TO/TOBYINK/RT-ClientX-GrabBugs-0.001.tar.gz
 RT::ClientX::GrabBugs::Bug        0.001  T/TO/TOBYINK/RT-ClientX-GrabBugs-0.001.tar.gz
 RT::Condition::ACNSMessage        undef  R/RU/RUZ/RT-Extension-ACNS-0.01.tar.gz
+RT::Condition::CIFMinimal_IODEFFieldChange undef  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.tar.gz
+RT::Condition::CIFMinimal_Stale   undef  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.tar.gz
 RT::Condition::Complex             0.03  R/RU/RUZ/RT-Condition-Complex-0.03.tar.gz
 RT::Condition::Complex::Test      undef  R/RU/RUZ/RT-Condition-Complex-0.03.tar.gz
 RT::Condition::IODEF              undef  S/SA/SAXJAZMAN/RT/RT-IODEF-0.08.tar.gz
