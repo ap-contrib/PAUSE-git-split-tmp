@@ -95,7 +95,7 @@ File::Find::Match::Sugar          undef  D/DH/DHARDISON/File-Find-Match-1.0.tar.
 File::Find::Match::Util            0.10  D/DH/DHARDISON/File-Find-Match-1.0.tar.gz
 File::Find::Node                   0.03  S/SC/SCL/File-Find-Node-0.03.tar.gz
 File::Find::Object               v0.2.3  S/SH/SHLOMIF/File-Find-Object-v0.2.3.tar.gz
-File::Find::Object::Rule         0.0300  S/SH/SHLOMIF/File-Find-Object-Rule-0.0300.tar.gz
+File::Find::Object::Rule         0.0301  S/SH/SHLOMIF/File-Find-Object-Rule-0.0301.tar.gz
 File::Find::Object::Rule::MMagic v0.0.2  S/SH/SHLOMIF/File-Find-Object-Rule-MMagic-v0.0.2.tar.gz
 File::Find::Object::Rule::VCS    v0.0.2  S/SH/SHLOMIF/File-Find-Object-Rule-VCS-v0.0.2.tar.gz
 File::Find::Parallel               0.52  A/AN/ANDYA/File-Find-Parallel-0.52.tar.gz
