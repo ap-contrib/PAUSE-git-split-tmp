@@ -615,6 +615,7 @@ Moose::Meta::Attribute::Custom::Trait::KiokuDB::DoNotSerialize,NUFFIN,f
 Moose::Meta::Attribute::Custom::Trait::KiokuDB::Lazy,DOY,c
 Moose::Meta::Attribute::Custom::Trait::KiokuDB::Lazy,FLORA,c
 Moose::Meta::Attribute::Custom::Trait::KiokuDB::Lazy,NUFFIN,f
+Moose::Meta::Attribute::Custom::Trait::LCDprocScreen,IOANR,f
 Moose::Meta::Attribute::Custom::Trait::Lvalue,CTBROWN,f
 Moose::Meta::Attribute::Custom::Trait::MergeHashRef,PERLER,f
 Moose::Meta::Attribute::Custom::Trait::MooseX::Getopt::Defanged::Option,ELLIOTJS,f
