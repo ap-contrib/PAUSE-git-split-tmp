@@ -866,6 +866,11 @@ App::CmdDirs,DINOMITE,m
 App::CmdDirs::Traverser::Base,DINOMITE,f
 App::CmdDirs::Traverser::Git,DINOMITE,f
 App::CmdDirs::Traverser::Subversion,DINOMITE,f
+App::Cmdline,TULSOFT,f
+App::Cmdline::Options::Basic,TULSOFT,f
+App::Cmdline::Options::DB,TULSOFT,f
+App::Cmdline::Options::ExtBasic,TULSOFT,f
+App::Cmdline::Options::ExtDB,TULSOFT,f
 App::Colloqueer,LEEDO,m
 App::Colloqueer::Channel,LEEDO,f
 App::Colloqueer::Event,LEEDO,f
