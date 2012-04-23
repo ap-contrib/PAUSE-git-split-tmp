@@ -1327,10 +1327,10 @@ HTTP::QuickBase                    1.53  C/CV/CVONROES/HTTP-QuickBase-1.53.tar.g
 HTTP::Range                        0.02  J/JH/JHOBLITT/HTTP-Range-0.02.tar.gz
 HTTP::RangeSaver                   0.01  B/BL/BLGL/HTTP-RangeSaver-0.01.tar.gz
 HTTP::RecordedSession              0.05  C/CB/CBROOKS/HTTP-RecordedSession-0.05.tar.gz
-HTTP::Recorder                     0.05  L/LE/LEIRA/HTTP-Recorder-0.05.tar.gz
+HTTP::Recorder                     0.06  S/SE/SEMUELF/HTTP-Recorder-0.06.tar.gz
 HTTP::Recorder::Httperf            0.02  W/WO/WONKO/HTTP-Recorder-Httperf-0.02.tar.gz
 HTTP::Recorder::Httperf::Logger    0.01  W/WO/WONKO/HTTP-Recorder-Httperf-0.02.tar.gz
-HTTP::Recorder::Logger            undef  L/LE/LEIRA/HTTP-Recorder-0.05.tar.gz
+HTTP::Recorder::Logger            undef  S/SE/SEMUELF/HTTP-Recorder-0.06.tar.gz
 HTTP::Request                      6.00  G/GA/GAAS/HTTP-Message-6.03.tar.gz
 HTTP::Request::AsCGI                1.2  F/FL/FLORA/HTTP-Request-AsCGI-1.2.tar.gz
 HTTP::Request::Chunked            undef  M/MM/MMORGAN/POE-Filter-HTTPD-Chunked-0.9.tar.gz
