@@ -854,6 +854,11 @@ App::CmdDirs                       1.02  D/DI/DINOMITE/App-CmdDirs-1.02.tar.gz
 App::CmdDirs::Traverser::Base     undef  D/DI/DINOMITE/App-CmdDirs-1.02.tar.gz
 App::CmdDirs::Traverser::Git      undef  D/DI/DINOMITE/App-CmdDirs-1.02.tar.gz
 App::CmdDirs::Traverser::Subversion undef  D/DI/DINOMITE/App-CmdDirs-1.02.tar.gz
+App::Cmdline                   0.001000  T/TU/TULSOFT/App-Cmdline-0.1.0.tar.gz
+App::Cmdline::Options::Basic   0.001000  T/TU/TULSOFT/App-Cmdline-0.1.0.tar.gz
+App::Cmdline::Options::DB      0.001000  T/TU/TULSOFT/App-Cmdline-0.1.0.tar.gz
+App::Cmdline::Options::ExtBasic 0.001000  T/TU/TULSOFT/App-Cmdline-0.1.0.tar.gz
+App::Cmdline::Options::ExtDB   0.001000  T/TU/TULSOFT/App-Cmdline-0.1.0.tar.gz
 App::ColorNamer                  0.0102  Z/ZO/ZOFFIX/App-ColorNamer-0.0102.tar.gz
 App::colourhexdump             0.01011316  K/KE/KENTNL/App-colourhexdump-0.01011316.tar.gz
 App::colourhexdump::ColourProfile 0.01011316  K/KE/KENTNL/App-colourhexdump-0.01011316.tar.gz
