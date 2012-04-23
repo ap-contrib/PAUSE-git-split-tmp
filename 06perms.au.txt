@@ -398,6 +398,7 @@ Authen::NTLM::DES,NBEBOUT,c
 Authen::NTLM::HTTP,BOBTFISH,f
 Authen::NTLM::HTTP,BROQ,c
 Authen::NTLM::HTTP,CHRISA,c
+Authen::NTLM::HTTP,DAMS,c
 Authen::NTLM::HTTP,DHOSS,c
 Authen::NTLM::HTTP,DLAMBLEY,c
 Authen::NTLM::HTTP,DOY,c
@@ -407,12 +408,14 @@ Authen::NTLM::HTTP,FLORA,c
 Authen::NTLM::HTTP,GETTY,c
 Authen::NTLM::HTTP,GSHANK,c
 Authen::NTLM::HTTP,JJNAPIORK,c
+Authen::NTLM::HTTP,MSTROUT,c
 Authen::NTLM::HTTP,RIBASUSHI,c
 Authen::NTLM::HTTP,UMVUE,c
 Authen::NTLM::HTTP,ZBY,c
 Authen::NTLM::HTTP::Base,BOBTFISH,f
 Authen::NTLM::HTTP::Base,BROQ,c
 Authen::NTLM::HTTP::Base,CHRISA,c
+Authen::NTLM::HTTP::Base,DAMS,c
 Authen::NTLM::HTTP::Base,DHOSS,c
 Authen::NTLM::HTTP::Base,DLAMBLEY,c
 Authen::NTLM::HTTP::Base,DOY,c
@@ -422,6 +425,7 @@ Authen::NTLM::HTTP::Base,FLORA,c
 Authen::NTLM::HTTP::Base,GETTY,c
 Authen::NTLM::HTTP::Base,GSHANK,c
 Authen::NTLM::HTTP::Base,JJNAPIORK,c
+Authen::NTLM::HTTP::Base,MSTROUT,c
 Authen::NTLM::HTTP::Base,RIBASUSHI,c
 Authen::NTLM::HTTP::Base,ZBY,c
 Authen::NTLM::MD4,BUZZ,f

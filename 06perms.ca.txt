@@ -91,6 +91,7 @@ Catalyst::Model::LDAP::Cached,DANIELTWC,f
 Catalyst::Model::LDAP::Connection,DANIELTWC,f
 Catalyst::Model::LDAP::Entry,DANIELTWC,f
 Catalyst::Model::LDAP::FromAuthentication,BOBTFISH,f
+Catalyst::Model::LDAP::FromAuthentication,DAMS,c
 Catalyst::Model::LDAP::FromAuthentication,DHOSS,c
 Catalyst::Model::LDAP::FromAuthentication,DLAMBLEY,c
 Catalyst::Model::LDAP::FromAuthentication,DOY,c
@@ -1031,6 +1032,7 @@ Catalyst::Plugin::Cache::FileCache,SSCAFFIDI,c
 Catalyst::Plugin::Cache::FileCache,WSHELDAHL,c
 Catalyst::Plugin::Cache::HTTP,GRAF,f
 Catalyst::Plugin::Cache::MemCached,BOBTFISH,f
+Catalyst::Plugin::Cache::MemCached,DAMS,c
 Catalyst::Plugin::Cache::MemCached,DHOSS,c
 Catalyst::Plugin::Cache::MemCached,DLAMBLEY,c
 Catalyst::Plugin::Cache::MemCached,DOY,c

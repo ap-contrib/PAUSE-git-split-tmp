@@ -1486,6 +1486,7 @@ HTTP::Proxy::HeaderFilter::standard,BOOK,f
 HTTP::Proxy::Selective,BOBTFISH,f
 HTTP::Proxy::Selective,BROQ,c
 HTTP::Proxy::Selective,CHRISA,c
+HTTP::Proxy::Selective,DAMS,c
 HTTP::Proxy::Selective,DHOSS,c
 HTTP::Proxy::Selective,DLAMBLEY,c
 HTTP::Proxy::Selective,DOY,c
@@ -1495,6 +1496,7 @@ HTTP::Proxy::Selective,FLORA,c
 HTTP::Proxy::Selective,GETTY,c
 HTTP::Proxy::Selective,GSHANK,c
 HTTP::Proxy::Selective,JJNAPIORK,c
+HTTP::Proxy::Selective,MSTROUT,c
 HTTP::Proxy::Selective,RIBASUSHI,c
 HTTP::Proxy::Selective,ZBY,c
 HTTP::Proxy::Selective,ZSTEVENS,c

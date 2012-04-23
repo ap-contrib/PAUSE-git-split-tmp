@@ -536,6 +536,7 @@ Math::SymbolicX::ParserExtensionFactory,SMUELLER,f
 Math::SymbolicX::Statistics::Distributions,SMUELLER,f
 Math::Systems,WILL,f
 Math::Tail,CASIANO,f
+Math::TamuAnova,VDANJEAN,f
 Math::Taylor,SMUELLER,m
 Math::Telecom,NICOLAW,m
 Math::Telephony::ErlangB,POLETTIX,m

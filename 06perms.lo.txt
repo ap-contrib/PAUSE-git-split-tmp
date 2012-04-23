@@ -554,6 +554,7 @@ Log::Message::Item,KANE,f
 Log::Message::Simple,BINGOS,c
 Log::Message::Simple,KANE,f
 Log::Message::Structured,BOBTFISH,f
+Log::Message::Structured,DAMS,c
 Log::Message::Structured,DHOSS,c
 Log::Message::Structured,DLAMBLEY,c
 Log::Message::Structured,DOY,c
@@ -562,8 +563,10 @@ Log::Message::Structured,ETHER,c
 Log::Message::Structured,FLORA,c
 Log::Message::Structured,GETTY,c
 Log::Message::Structured,JJNAPIORK,c
+Log::Message::Structured,MSTROUT,c
 Log::Message::Structured,RIBASUSHI,c
 Log::Message::Structured::Event::ScriptRun,BOBTFISH,f
+Log::Message::Structured::Event::ScriptRun,DAMS,c
 Log::Message::Structured::Event::ScriptRun,DHOSS,c
 Log::Message::Structured::Event::ScriptRun,DLAMBLEY,c
 Log::Message::Structured::Event::ScriptRun,DOY,c
@@ -572,8 +575,10 @@ Log::Message::Structured::Event::ScriptRun,ETHER,c
 Log::Message::Structured::Event::ScriptRun,FLORA,c
 Log::Message::Structured::Event::ScriptRun,GETTY,c
 Log::Message::Structured::Event::ScriptRun,JJNAPIORK,c
+Log::Message::Structured::Event::ScriptRun,MSTROUT,c
 Log::Message::Structured::Event::ScriptRun,RIBASUSHI,c
 Log::Message::Structured::Stringify::AsJSON,BOBTFISH,f
+Log::Message::Structured::Stringify::AsJSON,DAMS,c
 Log::Message::Structured::Stringify::AsJSON,DHOSS,c
 Log::Message::Structured::Stringify::AsJSON,DLAMBLEY,c
 Log::Message::Structured::Stringify::AsJSON,DOY,c
@@ -582,8 +587,10 @@ Log::Message::Structured::Stringify::AsJSON,ETHER,c
 Log::Message::Structured::Stringify::AsJSON,FLORA,c
 Log::Message::Structured::Stringify::AsJSON,GETTY,c
 Log::Message::Structured::Stringify::AsJSON,JJNAPIORK,c
+Log::Message::Structured::Stringify::AsJSON,MSTROUT,c
 Log::Message::Structured::Stringify::AsJSON,RIBASUSHI,c
 Log::Message::Structured::Stringify::Sprintf,BOBTFISH,f
+Log::Message::Structured::Stringify::Sprintf,DAMS,c
 Log::Message::Structured::Stringify::Sprintf,DHOSS,c
 Log::Message::Structured::Stringify::Sprintf,DLAMBLEY,c
 Log::Message::Structured::Stringify::Sprintf,DOY,c
@@ -592,6 +599,7 @@ Log::Message::Structured::Stringify::Sprintf,ETHER,c
 Log::Message::Structured::Stringify::Sprintf,FLORA,c
 Log::Message::Structured::Stringify::Sprintf,GETTY,c
 Log::Message::Structured::Stringify::Sprintf,JJNAPIORK,c
+Log::Message::Structured::Stringify::Sprintf,MSTROUT,c
 Log::Message::Structured::Stringify::Sprintf,RIBASUSHI,c
 Log::Minimal,KAZEBURO,f
 Log::NullLogLite,RANI,f

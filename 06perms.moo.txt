@@ -372,6 +372,7 @@ MooseX::Getopt,NUFFIN,c
 MooseX::Getopt,RJBS,c
 MooseX::Getopt,STEVAN,f
 MooseX::Getopt::Basic,BOBTFISH,f
+MooseX::Getopt::Basic,DAMS,c
 MooseX::Getopt::Basic,DHOSS,c
 MooseX::Getopt::Basic,DLAMBLEY,c
 MooseX::Getopt::Basic,DOY,c
@@ -380,6 +381,7 @@ MooseX::Getopt::Basic,ETHER,c
 MooseX::Getopt::Basic,FLORA,c
 MooseX::Getopt::Basic,GETTY,c
 MooseX::Getopt::Basic,JJNAPIORK,c
+MooseX::Getopt::Basic,MSTROUT,c
 MooseX::Getopt::Basic,RIBASUSHI,c
 MooseX::Getopt::Dashes,BOBTFISH,c
 MooseX::Getopt::Dashes,ETHER,c
@@ -393,6 +395,7 @@ MooseX::Getopt::Defanged::Exception::InvalidSpecification,ELLIOTJS,f
 MooseX::Getopt::Defanged::Exception::User,ELLIOTJS,f
 MooseX::Getopt::Defanged::OptionTypeMetadata,ELLIOTJS,f
 MooseX::Getopt::GLD,BOBTFISH,f
+MooseX::Getopt::GLD,DAMS,c
 MooseX::Getopt::GLD,DHOSS,c
 MooseX::Getopt::GLD,DLAMBLEY,c
 MooseX::Getopt::GLD,DOY,c
@@ -401,6 +404,7 @@ MooseX::Getopt::GLD,ETHER,c
 MooseX::Getopt::GLD,FLORA,c
 MooseX::Getopt::GLD,GETTY,c
 MooseX::Getopt::GLD,JJNAPIORK,c
+MooseX::Getopt::GLD,MSTROUT,c
 MooseX::Getopt::GLD,RIBASUSHI,c
 MooseX::Getopt::Meta::Attribute,BLBLACK,c
 MooseX::Getopt::Meta::Attribute,BOBTFISH,c

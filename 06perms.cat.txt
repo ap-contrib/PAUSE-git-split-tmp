@@ -560,6 +560,7 @@ Catalyst::Plugin::Session::State::Cookie,MSTROUT,c
 Catalyst::Plugin::Session::State::Cookie,NUFFIN,m
 Catalyst::Plugin::Session::State::PSGI,CHISEL,f
 Catalyst::Plugin::Session::State::Stash,BOBTFISH,f
+Catalyst::Plugin::Session::State::Stash,DAMS,c
 Catalyst::Plugin::Session::State::Stash,DHOSS,c
 Catalyst::Plugin::Session::State::Stash,DLAMBLEY,c
 Catalyst::Plugin::Session::State::Stash,DOY,c

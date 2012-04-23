@@ -802,6 +802,7 @@ TestApp8,MARKSTOS,c
 TestApp9,JERLBAUM,f
 TestApp9,MARKSTOS,c
 TestApp::Controller::Adaptor,BOBTFISH,f
+TestApp::Controller::Adaptor,DAMS,c
 TestApp::Controller::Adaptor,DHOSS,c
 TestApp::Controller::Adaptor,DLAMBLEY,c
 TestApp::Controller::Adaptor,DOY,c
@@ -810,8 +811,10 @@ TestApp::Controller::Adaptor,ETHER,c
 TestApp::Controller::Adaptor,FLORA,c
 TestApp::Controller::Adaptor,GETTY,c
 TestApp::Controller::Adaptor,JJNAPIORK,c
+TestApp::Controller::Adaptor,MSTROUT,c
 TestApp::Controller::Adaptor,RIBASUSHI,c
 TestApp::Controller::Factory,BOBTFISH,f
+TestApp::Controller::Factory,DAMS,c
 TestApp::Controller::Factory,DHOSS,c
 TestApp::Controller::Factory,DLAMBLEY,c
 TestApp::Controller::Factory,DOY,c
@@ -820,8 +823,10 @@ TestApp::Controller::Factory,ETHER,c
 TestApp::Controller::Factory,FLORA,c
 TestApp::Controller::Factory,GETTY,c
 TestApp::Controller::Factory,JJNAPIORK,c
+TestApp::Controller::Factory,MSTROUT,c
 TestApp::Controller::Factory,RIBASUSHI,c
 TestApp::Controller::PerRequest,BOBTFISH,f
+TestApp::Controller::PerRequest,DAMS,c
 TestApp::Controller::PerRequest,DHOSS,c
 TestApp::Controller::PerRequest,DLAMBLEY,c
 TestApp::Controller::PerRequest,DOY,c
@@ -830,6 +835,7 @@ TestApp::Controller::PerRequest,ETHER,c
 TestApp::Controller::PerRequest,FLORA,c
 TestApp::Controller::PerRequest,GETTY,c
 TestApp::Controller::PerRequest,JJNAPIORK,c
+TestApp::Controller::PerRequest,MSTROUT,c
 TestApp::Controller::PerRequest,RIBASUSHI,c
 TestApp::Controller::Root,BOBTFISH,c
 TestApp::Controller::Root,FLORA,c
@@ -838,6 +844,7 @@ TestApp::Controller::Root,MRAMBERG,c
 TestApp::Controller::Root,MSTROUT,c
 TestApp::Controller::Root,NUFFIN,c
 TestApp::Model::PerRequest,BOBTFISH,f
+TestApp::Model::PerRequest,DAMS,c
 TestApp::Model::PerRequest,DHOSS,c
 TestApp::Model::PerRequest,DLAMBLEY,c
 TestApp::Model::PerRequest,DOY,c
@@ -846,8 +853,10 @@ TestApp::Model::PerRequest,ETHER,c
 TestApp::Model::PerRequest,FLORA,c
 TestApp::Model::PerRequest,GETTY,c
 TestApp::Model::PerRequest,JJNAPIORK,c
+TestApp::Model::PerRequest,MSTROUT,c
 TestApp::Model::PerRequest,RIBASUSHI,c
 TestApp::Model::SomeClass,BOBTFISH,f
+TestApp::Model::SomeClass,DAMS,c
 TestApp::Model::SomeClass,DHOSS,c
 TestApp::Model::SomeClass,DLAMBLEY,c
 TestApp::Model::SomeClass,DOY,c
@@ -855,6 +864,7 @@ TestApp::Model::SomeClass,EDENC,c
 TestApp::Model::SomeClass,ETHER,c
 TestApp::Model::SomeClass,FLORA,c
 TestApp::Model::SomeClass,JJNAPIORK,c
+TestApp::Model::SomeClass,MSTROUT,c
 TestApp::Model::SomeClass,RIBASUSHI,c
 TestBed,DCONWAY,f
 TestBed6,DCONWAY,f

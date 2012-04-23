@@ -1076,6 +1076,7 @@ MooseX::Storage::Util,STEVAN,f
 MooseX::StrictAttributes,BOBTFISH,f
 MooseX::StrictAttributes,BROQ,c
 MooseX::StrictAttributes,CHRISA,c
+MooseX::StrictAttributes,DAMS,c
 MooseX::StrictAttributes,DHOSS,c
 MooseX::StrictAttributes,DLAMBLEY,c
 MooseX::StrictAttributes,DOY,c
@@ -1087,6 +1088,7 @@ MooseX::StrictAttributes,GETTY,c
 MooseX::StrictAttributes,GRODITI,c
 MooseX::StrictAttributes,GSHANK,c
 MooseX::StrictAttributes,JJNAPIORK,c
+MooseX::StrictAttributes,MSTROUT,c
 MooseX::StrictAttributes,NUFFIN,c
 MooseX::StrictAttributes,PERIGRIN,c
 MooseX::StrictAttributes,RIBASUSHI,c
@@ -1097,6 +1099,7 @@ MooseX::StrictAttributes,ZSTEVENS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,BOBTFISH,f
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,BROQ,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,CHRISA,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,DAMS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,DHOSS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,DLAMBLEY,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,DOY,c
@@ -1108,6 +1111,7 @@ MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,GETTY,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,GRODITI,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,GSHANK,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,JJNAPIORK,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,MSTROUT,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,NUFFIN,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,PERIGRIN,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,RIBASUSHI,c
@@ -1118,6 +1122,7 @@ MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,ZSTEVENS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,BOBTFISH,f
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,BROQ,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,CHRISA,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,DAMS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,DHOSS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,DLAMBLEY,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,DOY,c
@@ -1129,6 +1134,7 @@ MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,GETTY,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,GRODITI,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,GSHANK,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,JJNAPIORK,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,MSTROUT,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,NUFFIN,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,PERIGRIN,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,RIBASUSHI,c
@@ -1278,12 +1284,15 @@ MooseX::Types::DateTime,STEVAN,c
 MooseX::Types::DateTime::ButMaintained,ECARROLL,f
 MooseX::Types::DateTime::MoreCoercions,ILMARI,f
 MooseX::Types::DateTime::MySQL,BOBTFISH,f
+MooseX::Types::DateTime::MySQL,DAMS,c
 MooseX::Types::DateTime::MySQL,DHOSS,c
 MooseX::Types::DateTime::MySQL,DLAMBLEY,c
 MooseX::Types::DateTime::MySQL,DOY,c
 MooseX::Types::DateTime::MySQL,EDENC,c
 MooseX::Types::DateTime::MySQL,ETHER,c
+MooseX::Types::DateTime::MySQL,FLORA,c
 MooseX::Types::DateTime::MySQL,JJNAPIORK,c
+MooseX::Types::DateTime::MySQL,MSTROUT,c
 MooseX::Types::DateTime::MySQL,RIBASUSHI,c
 MooseX::Types::DateTime::W3C,AJGB,f
 MooseX::Types::DateTimeX,CODEREPOS,c
@@ -1319,6 +1328,7 @@ MooseX::Types::ISO8601,APEIRON,c
 MooseX::Types::ISO8601,BOBTFISH,f
 MooseX::Types::ISO8601,BROQ,c
 MooseX::Types::ISO8601,CHRISA,c
+MooseX::Types::ISO8601,DAMS,c
 MooseX::Types::ISO8601,DHOSS,c
 MooseX::Types::ISO8601,DLAMBLEY,c
 MooseX::Types::ISO8601,DOY,c
@@ -1330,6 +1340,7 @@ MooseX::Types::ISO8601,GETTY,c
 MooseX::Types::ISO8601,GRODITI,c
 MooseX::Types::ISO8601,GSHANK,c
 MooseX::Types::ISO8601,JJNAPIORK,c
+MooseX::Types::ISO8601,MSTROUT,c
 MooseX::Types::ISO8601,NUFFIN,c
 MooseX::Types::ISO8601,PERIGRIN,c
 MooseX::Types::ISO8601,RIBASUSHI,c
@@ -1340,6 +1351,7 @@ MooseX::Types::Implements,AJGB,f
 MooseX::Types::JSON,MILA,f
 MooseX::Types::LWP::UserAgent,ROBN,f
 MooseX::Types::LoadableClass,BOBTFISH,f
+MooseX::Types::LoadableClass,DAMS,c
 MooseX::Types::LoadableClass,DHOSS,c
 MooseX::Types::LoadableClass,DLAMBLEY,c
 MooseX::Types::LoadableClass,DOY,c
@@ -1348,6 +1360,7 @@ MooseX::Types::LoadableClass,ETHER,c
 MooseX::Types::LoadableClass,FLORA,c
 MooseX::Types::LoadableClass,GETTY,c
 MooseX::Types::LoadableClass,JJNAPIORK,c
+MooseX::Types::LoadableClass,MSTROUT,c
 MooseX::Types::LoadableClass,RIBASUSHI,c
 MooseX::Types::Locale::BR,SHONORIO,f
 MooseX::Types::Locale::Country,MORIYA,f
