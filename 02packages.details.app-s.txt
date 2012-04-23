@@ -103,6 +103,8 @@ App::Siesh::Batch                     0  M/MD/MDOM/App-Siesh-0.21.tar.gz
 App::SilverSplash                  0.02  P/PH/PHRED/App-SilverSplash-0.02.tar.gz
 App::SilverSplash::Apache2        undef  P/PH/PHRED/App-SilverSplash-0.02.tar.gz
 App::SilverSplash::IPTables       undef  P/PH/PHRED/App-SilverSplash-0.02.tar.gz
+App::SimplenoteSync            0.001001  I/IO/IOANR/App-SimplenoteSync-0.1.1.tar.gz
+App::SimplenoteSync::Note      0.001001  I/IO/IOANR/App-SimplenoteSync-0.1.1.tar.gz
 App::SimpleScan                    3.01  M/MC/MCMAHON/App-SimpleScan-3.01.tar.gz
 App::SimpleScan::Plugin::Cache     0.02  M/MC/MCMAHON/App-SimpleScan-Plugin-Cache-0.02.tar.gz
 App::SimpleScan::Plugin::Forget    1.02  M/MC/MCMAHON/App-SimpleScan-Plugin-Forget-1.02.tar.gz
