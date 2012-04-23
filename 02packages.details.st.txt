@@ -561,9 +561,9 @@ SVL::Mirror                       undef  A/AB/ABERGMAN/SVL-0.29.tar.gz
 SVL::OpenDHT                      undef  A/AB/ABERGMAN/SVL-0.29.tar.gz
 SVL::Share                        undef  A/AB/ABERGMAN/SVL-0.29.tar.gz
 SVL::Sharing                      undef  A/AB/ABERGMAN/SVL-0.29.tar.gz
-SVN::Access                        0.07  M/MG/MGREGORO/SVN-Access-0.07.tar.gz
-SVN::Access::Group                 0.07  M/MG/MGREGORO/SVN-Access-0.07.tar.gz
-SVN::Access::Resource              0.07  M/MG/MGREGORO/SVN-Access-0.07.tar.gz
+SVN::Access                        0.08  M/MG/MGREGORO/SVN-Access-0.08.tar.gz
+SVN::Access::Group                 0.08  M/MG/MGREGORO/SVN-Access-0.08.tar.gz
+SVN::Access::Resource              0.08  M/MG/MGREGORO/SVN-Access-0.08.tar.gz
 SVN::ACL                           0.02  H/HC/HCCHIEN/SVN-ACL-0.02.tgz
 SVN::Agent                         0.04  B/BO/BOSU/SVN-Agent-0.04.tar.gz
 SVN::Agent::Dummy                  0.04  Y/YU/YUKI/Sorauta-SVN-Updater-0.01.tar.gz
