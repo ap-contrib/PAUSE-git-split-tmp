@@ -494,7 +494,7 @@ IPC::Run3::ProfLogger             0.044  R/RJ/RJBS/IPC-Run3-0.044.tar.gz
 IPC::Run3::ProfLogReader          0.044  R/RJ/RJBS/IPC-Run3-0.044.tar.gz
 IPC::Run3::ProfPP                 0.044  R/RJ/RJBS/IPC-Run3-0.044.tar.gz
 IPC::Run3::ProfReporter           0.044  R/RJ/RJBS/IPC-Run3-0.044.tar.gz
-IPC::Run3::Simple                 0.010  A/AY/AYOUNG/IPC-Run3-Simple-0.010.tar.gz
+IPC::Run3::Simple                 0.011  A/AY/AYOUNG/IPC-Run3-Simple-0.011.tar.gz
 IPC::Run::Debug                    0.90  T/TO/TODDR/IPC-Run-0.91.tar.gz
 IPC::Run::Fused                0.01028806  K/KE/KENTNL/IPC-Run-Fused-0.01028806.tar.gz
 IPC::Run::IO                       0.90  T/TO/TODDR/IPC-Run-0.91.tar.gz
