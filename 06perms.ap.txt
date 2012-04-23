@@ -553,6 +553,7 @@ App::RabbitTail,EDENC,c
 App::RabbitTail,ETHER,c
 App::RabbitTail,FLORA,c
 App::RabbitTail,GETTY,c
+App::RabbitTail,GHENRY,c
 App::RabbitTail,JJNAPIORK,c
 App::RabbitTail,MSTROUT,c
 App::RabbitTail,RIBASUSHI,c
@@ -565,6 +566,7 @@ App::RabbitTail::FileTailer,EDENC,c
 App::RabbitTail::FileTailer,ETHER,c
 App::RabbitTail::FileTailer,FLORA,c
 App::RabbitTail::FileTailer,GETTY,c
+App::RabbitTail::FileTailer,GHENRY,c
 App::RabbitTail::FileTailer,JJNAPIORK,c
 App::RabbitTail::FileTailer,MSTROUT,c
 App::RabbitTail::FileTailer,RIBASUSHI,c

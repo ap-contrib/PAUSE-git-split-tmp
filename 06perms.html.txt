@@ -1494,6 +1494,7 @@ HTTP::Proxy::Selective,EDENC,c
 HTTP::Proxy::Selective,ETHER,c
 HTTP::Proxy::Selective,FLORA,c
 HTTP::Proxy::Selective,GETTY,c
+HTTP::Proxy::Selective,GHENRY,c
 HTTP::Proxy::Selective,GSHANK,c
 HTTP::Proxy::Selective,JJNAPIORK,c
 HTTP::Proxy::Selective,MSTROUT,c

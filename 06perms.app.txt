@@ -278,6 +278,7 @@ App::TailRabbit,DOY,c
 App::TailRabbit,EDENC,c
 App::TailRabbit,ETHER,c
 App::TailRabbit,FLORA,c
+App::TailRabbit,GHENRY,c
 App::TailRabbit,JJNAPIORK,c
 App::TailRabbit,MSTROUT,c
 App::TailRabbit,RIBASUSHI,c
@@ -289,6 +290,7 @@ App::TailRabbit::Convertor::Null,DOY,c
 App::TailRabbit::Convertor::Null,EDENC,c
 App::TailRabbit::Convertor::Null,ETHER,c
 App::TailRabbit::Convertor::Null,FLORA,c
+App::TailRabbit::Convertor::Null,GHENRY,c
 App::TailRabbit::Convertor::Null,JJNAPIORK,c
 App::TailRabbit::Convertor::Null,MSTROUT,c
 App::TailRabbit::Convertor::Null,RIBASUSHI,c
@@ -300,6 +302,7 @@ App::TailRabbit::Growl,DOY,c
 App::TailRabbit::Growl,EDENC,c
 App::TailRabbit::Growl,ETHER,c
 App::TailRabbit::Growl,FLORA,c
+App::TailRabbit::Growl,GHENRY,c
 App::TailRabbit::Growl,JJNAPIORK,c
 App::TailRabbit::Growl,MSTROUT,c
 App::TailRabbit::Growl,RIBASUSHI,c

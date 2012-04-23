@@ -569,6 +569,7 @@ Catalyst::Plugin::Session::State::Stash,ELPENGUIN,c
 Catalyst::Plugin::Session::State::Stash,ETHER,c
 Catalyst::Plugin::Session::State::Stash,FLORA,c
 Catalyst::Plugin::Session::State::Stash,GETTY,c
+Catalyst::Plugin::Session::State::Stash,GHENRY,c
 Catalyst::Plugin::Session::State::Stash,JJNAPIORK,c
 Catalyst::Plugin::Session::State::Stash,MSTROUT,c
 Catalyst::Plugin::Session::State::Stash,RIBASUSHI,c

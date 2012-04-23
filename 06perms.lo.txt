@@ -562,6 +562,7 @@ Log::Message::Structured,EDENC,c
 Log::Message::Structured,ETHER,c
 Log::Message::Structured,FLORA,c
 Log::Message::Structured,GETTY,c
+Log::Message::Structured,GHENRY,c
 Log::Message::Structured,JJNAPIORK,c
 Log::Message::Structured,MSTROUT,c
 Log::Message::Structured,RIBASUSHI,c
@@ -574,6 +575,7 @@ Log::Message::Structured::Event::ScriptRun,EDENC,c
 Log::Message::Structured::Event::ScriptRun,ETHER,c
 Log::Message::Structured::Event::ScriptRun,FLORA,c
 Log::Message::Structured::Event::ScriptRun,GETTY,c
+Log::Message::Structured::Event::ScriptRun,GHENRY,c
 Log::Message::Structured::Event::ScriptRun,JJNAPIORK,c
 Log::Message::Structured::Event::ScriptRun,MSTROUT,c
 Log::Message::Structured::Event::ScriptRun,RIBASUSHI,c
@@ -586,6 +588,7 @@ Log::Message::Structured::Stringify::AsJSON,EDENC,c
 Log::Message::Structured::Stringify::AsJSON,ETHER,c
 Log::Message::Structured::Stringify::AsJSON,FLORA,c
 Log::Message::Structured::Stringify::AsJSON,GETTY,c
+Log::Message::Structured::Stringify::AsJSON,GHENRY,c
 Log::Message::Structured::Stringify::AsJSON,JJNAPIORK,c
 Log::Message::Structured::Stringify::AsJSON,MSTROUT,c
 Log::Message::Structured::Stringify::AsJSON,RIBASUSHI,c
@@ -598,6 +601,7 @@ Log::Message::Structured::Stringify::Sprintf,EDENC,c
 Log::Message::Structured::Stringify::Sprintf,ETHER,c
 Log::Message::Structured::Stringify::Sprintf,FLORA,c
 Log::Message::Structured::Stringify::Sprintf,GETTY,c
+Log::Message::Structured::Stringify::Sprintf,GHENRY,c
 Log::Message::Structured::Stringify::Sprintf,JJNAPIORK,c
 Log::Message::Structured::Stringify::Sprintf,MSTROUT,c
 Log::Message::Structured::Stringify::Sprintf,RIBASUSHI,c

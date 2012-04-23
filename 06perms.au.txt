@@ -406,6 +406,7 @@ Authen::NTLM::HTTP,EDENC,c
 Authen::NTLM::HTTP,ETHER,c
 Authen::NTLM::HTTP,FLORA,c
 Authen::NTLM::HTTP,GETTY,c
+Authen::NTLM::HTTP,GHENRY,c
 Authen::NTLM::HTTP,GSHANK,c
 Authen::NTLM::HTTP,JJNAPIORK,c
 Authen::NTLM::HTTP,MSTROUT,c
@@ -423,6 +424,7 @@ Authen::NTLM::HTTP::Base,EDENC,c
 Authen::NTLM::HTTP::Base,ETHER,c
 Authen::NTLM::HTTP::Base,FLORA,c
 Authen::NTLM::HTTP::Base,GETTY,c
+Authen::NTLM::HTTP::Base,GHENRY,c
 Authen::NTLM::HTTP::Base,GSHANK,c
 Authen::NTLM::HTTP::Base,JJNAPIORK,c
 Authen::NTLM::HTTP::Base,MSTROUT,c

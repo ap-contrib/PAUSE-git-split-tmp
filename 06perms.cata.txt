@@ -557,6 +557,7 @@ Catalyst::TraitFor::Controller::RenderView,EDENC,c
 Catalyst::TraitFor::Controller::RenderView,ETHER,c
 Catalyst::TraitFor::Controller::RenderView,FLORA,c
 Catalyst::TraitFor::Controller::RenderView,GETTY,c
+Catalyst::TraitFor::Controller::RenderView,GHENRY,c
 Catalyst::TraitFor::Controller::RenderView,JJNAPIORK,c
 Catalyst::TraitFor::Controller::RenderView,MSTROUT,c
 Catalyst::TraitFor::Controller::RenderView,RIBASUSHI,c
@@ -636,6 +637,7 @@ Catalyst::TraitFor::Request::ProxyBase,EDENC,c
 Catalyst::TraitFor::Request::ProxyBase,ETHER,c
 Catalyst::TraitFor::Request::ProxyBase,FLORA,c
 Catalyst::TraitFor::Request::ProxyBase,GETTY,c
+Catalyst::TraitFor::Request::ProxyBase,GHENRY,c
 Catalyst::TraitFor::Request::ProxyBase,GSHANK,c
 Catalyst::TraitFor::Request::ProxyBase,JJNAPIORK,c
 Catalyst::TraitFor::Request::ProxyBase,MSTROUT,c
@@ -653,6 +655,7 @@ Catalyst::TraitFor::Request::REST,EDENC,c
 Catalyst::TraitFor::Request::REST,ETHER,c
 Catalyst::TraitFor::Request::REST,FLORA,c
 Catalyst::TraitFor::Request::REST,GETTY,c
+Catalyst::TraitFor::Request::REST,GHENRY,c
 Catalyst::TraitFor::Request::REST,HDP,c
 Catalyst::TraitFor::Request::REST,HOLOWAY,c
 Catalyst::TraitFor::Request::REST,JJNAPIORK,c
@@ -672,6 +675,7 @@ Catalyst::TraitFor::Request::REST::ForBrowsers,EDENC,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,ETHER,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,FLORA,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,GETTY,c
+Catalyst::TraitFor::Request::REST::ForBrowsers,GHENRY,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,HDP,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,HOLOWAY,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,JJNAPIORK,c
@@ -803,6 +807,7 @@ Catalyst::View::Component::SubInclude::HTTP,DOY,c
 Catalyst::View::Component::SubInclude::HTTP,EDENC,c
 Catalyst::View::Component::SubInclude::HTTP,ETHER,c
 Catalyst::View::Component::SubInclude::HTTP,FLORA,c
+Catalyst::View::Component::SubInclude::HTTP,GHENRY,c
 Catalyst::View::Component::SubInclude::HTTP,JJNAPIORK,c
 Catalyst::View::Component::SubInclude::HTTP,MSTROUT,c
 Catalyst::View::Component::SubInclude::HTTP,RIBASUSHI,c
@@ -815,6 +820,7 @@ Catalyst::View::Component::SubInclude::SSI,EDENC,c
 Catalyst::View::Component::SubInclude::SSI,ETHER,c
 Catalyst::View::Component::SubInclude::SSI,FLORA,c
 Catalyst::View::Component::SubInclude::SSI,GETTY,c
+Catalyst::View::Component::SubInclude::SSI,GHENRY,c
 Catalyst::View::Component::SubInclude::SSI,JJNAPIORK,c
 Catalyst::View::Component::SubInclude::SSI,MSTROUT,c
 Catalyst::View::Component::SubInclude::SSI,RIBASUSHI,c

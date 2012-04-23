@@ -404,6 +404,7 @@ Test::EOL,ETHER,c
 Test::EOL,FLORA,c
 Test::EOL,FREW,c
 Test::EOL,GETTY,c
+Test::EOL,GHENRY,c
 Test::EOL,GPHAT,c
 Test::EOL,GSHANK,c
 Test::EOL,JJNAPIORK,c

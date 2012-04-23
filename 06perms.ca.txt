@@ -99,6 +99,7 @@ Catalyst::Model::LDAP::FromAuthentication,EDENC,c
 Catalyst::Model::LDAP::FromAuthentication,ETHER,c
 Catalyst::Model::LDAP::FromAuthentication,FLORA,c
 Catalyst::Model::LDAP::FromAuthentication,GETTY,c
+Catalyst::Model::LDAP::FromAuthentication,GHENRY,c
 Catalyst::Model::LDAP::FromAuthentication,JJNAPIORK,c
 Catalyst::Model::LDAP::FromAuthentication,MSTROUT,c
 Catalyst::Model::LDAP::FromAuthentication,RIBASUSHI,c
@@ -1040,6 +1041,7 @@ Catalyst::Plugin::Cache::MemCached,EDENC,c
 Catalyst::Plugin::Cache::MemCached,ETHER,c
 Catalyst::Plugin::Cache::MemCached,FLORA,c
 Catalyst::Plugin::Cache::MemCached,GETTY,c
+Catalyst::Plugin::Cache::MemCached,GHENRY,c
 Catalyst::Plugin::Cache::MemCached,JJNAPIORK,c
 Catalyst::Plugin::Cache::MemCached,MSTROUT,c
 Catalyst::Plugin::Cache::MemCached,RIBASUSHI,c

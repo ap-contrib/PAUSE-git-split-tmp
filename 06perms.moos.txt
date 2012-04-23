@@ -1085,6 +1085,7 @@ MooseX::StrictAttributes,EDENC,c
 MooseX::StrictAttributes,ETHER,c
 MooseX::StrictAttributes,FLORA,c
 MooseX::StrictAttributes,GETTY,c
+MooseX::StrictAttributes,GHENRY,c
 MooseX::StrictAttributes,GRODITI,c
 MooseX::StrictAttributes,GSHANK,c
 MooseX::StrictAttributes,JJNAPIORK,c
@@ -1108,6 +1109,7 @@ MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,EDENC,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,ETHER,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,FLORA,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,GETTY,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,GHENRY,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,GRODITI,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,GSHANK,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,JJNAPIORK,c
@@ -1131,6 +1133,7 @@ MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,EDENC,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,ETHER,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,FLORA,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,GETTY,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,GHENRY,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,GRODITI,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,GSHANK,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,JJNAPIORK,c
@@ -1291,6 +1294,7 @@ MooseX::Types::DateTime::MySQL,DOY,c
 MooseX::Types::DateTime::MySQL,EDENC,c
 MooseX::Types::DateTime::MySQL,ETHER,c
 MooseX::Types::DateTime::MySQL,FLORA,c
+MooseX::Types::DateTime::MySQL,GHENRY,c
 MooseX::Types::DateTime::MySQL,JJNAPIORK,c
 MooseX::Types::DateTime::MySQL,MSTROUT,c
 MooseX::Types::DateTime::MySQL,RIBASUSHI,c
@@ -1337,6 +1341,7 @@ MooseX::Types::ISO8601,EDENC,c
 MooseX::Types::ISO8601,ETHER,c
 MooseX::Types::ISO8601,FLORA,c
 MooseX::Types::ISO8601,GETTY,c
+MooseX::Types::ISO8601,GHENRY,c
 MooseX::Types::ISO8601,GRODITI,c
 MooseX::Types::ISO8601,GSHANK,c
 MooseX::Types::ISO8601,JJNAPIORK,c
@@ -1359,6 +1364,7 @@ MooseX::Types::LoadableClass,EDENC,c
 MooseX::Types::LoadableClass,ETHER,c
 MooseX::Types::LoadableClass,FLORA,c
 MooseX::Types::LoadableClass,GETTY,c
+MooseX::Types::LoadableClass,GHENRY,c
 MooseX::Types::LoadableClass,JJNAPIORK,c
 MooseX::Types::LoadableClass,MSTROUT,c
 MooseX::Types::LoadableClass,RIBASUSHI,c

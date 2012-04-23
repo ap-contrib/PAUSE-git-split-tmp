@@ -348,6 +348,7 @@ CatalystX::Debug::RequestHeaders,EDENC,c
 CatalystX::Debug::RequestHeaders,ETHER,c
 CatalystX::Debug::RequestHeaders,FLORA,c
 CatalystX::Debug::RequestHeaders,GETTY,c
+CatalystX::Debug::RequestHeaders,GHENRY,c
 CatalystX::Debug::RequestHeaders,JJNAPIORK,c
 CatalystX::Debug::RequestHeaders,MSTROUT,c
 CatalystX::Debug::RequestHeaders,RIBASUSHI,c
@@ -361,6 +362,7 @@ CatalystX::Debug::ResponseHeaders,EDENC,c
 CatalystX::Debug::ResponseHeaders,ETHER,c
 CatalystX::Debug::ResponseHeaders,FLORA,c
 CatalystX::Debug::ResponseHeaders,GETTY,c
+CatalystX::Debug::ResponseHeaders,GHENRY,c
 CatalystX::Debug::ResponseHeaders,JJNAPIORK,c
 CatalystX::Debug::ResponseHeaders,MSTROUT,c
 CatalystX::Debug::ResponseHeaders,RIBASUSHI,c
@@ -601,6 +603,7 @@ CatalystX::Script::FCGI::Engine,DOY,c
 CatalystX::Script::FCGI::Engine,EDENC,c
 CatalystX::Script::FCGI::Engine,ETHER,c
 CatalystX::Script::FCGI::Engine,FLORA,c
+CatalystX::Script::FCGI::Engine,GHENRY,c
 CatalystX::Script::FCGI::Engine,JJNAPIORK,c
 CatalystX::Script::FCGI::Engine,MSTROUT,c
 CatalystX::Script::FCGI::Engine,RIBASUSHI,c
@@ -611,6 +614,7 @@ CatalystX::Script::Server::Starman,DOY,c
 CatalystX::Script::Server::Starman,EDENC,c
 CatalystX::Script::Server::Starman,ETHER,c
 CatalystX::Script::Server::Starman,FLORA,c
+CatalystX::Script::Server::Starman,GHENRY,c
 CatalystX::Script::Server::Starman,JJNAPIORK,c
 CatalystX::Script::Server::Starman,MSTROUT,c
 CatalystX::Script::Server::Starman,RIBASUSHI,c
@@ -645,6 +649,7 @@ CatalystX::SimpleLogin::Form::LoginOpenID,EDENC,c
 CatalystX::SimpleLogin::Form::LoginOpenID,ETHER,c
 CatalystX::SimpleLogin::Form::LoginOpenID,FLORA,c
 CatalystX::SimpleLogin::Form::LoginOpenID,GETTY,c
+CatalystX::SimpleLogin::Form::LoginOpenID,GHENRY,c
 CatalystX::SimpleLogin::Form::LoginOpenID,JJNAPIORK,c
 CatalystX::SimpleLogin::Form::LoginOpenID,MSTROUT,c
 CatalystX::SimpleLogin::Form::LoginOpenID,RIBASUSHI,c
@@ -664,6 +669,7 @@ CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,EDENC,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,ETHER,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,FLORA,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,GETTY,c
+CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,GHENRY,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,JJNAPIORK,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,MSTROUT,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,RIBASUSHI,c
@@ -676,6 +682,7 @@ CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,EDENC,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,ETHER,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,FLORA,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,GETTY,c
+CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,GHENRY,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,GSHANK,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,JJNAPIORK,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,MSTROUT,c

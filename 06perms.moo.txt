@@ -380,6 +380,7 @@ MooseX::Getopt::Basic,EDENC,c
 MooseX::Getopt::Basic,ETHER,c
 MooseX::Getopt::Basic,FLORA,c
 MooseX::Getopt::Basic,GETTY,c
+MooseX::Getopt::Basic,GHENRY,c
 MooseX::Getopt::Basic,JJNAPIORK,c
 MooseX::Getopt::Basic,MSTROUT,c
 MooseX::Getopt::Basic,RIBASUSHI,c
@@ -403,6 +404,7 @@ MooseX::Getopt::GLD,EDENC,c
 MooseX::Getopt::GLD,ETHER,c
 MooseX::Getopt::GLD,FLORA,c
 MooseX::Getopt::GLD,GETTY,c
+MooseX::Getopt::GLD,GHENRY,c
 MooseX::Getopt::GLD,JJNAPIORK,c
 MooseX::Getopt::GLD,MSTROUT,c
 MooseX::Getopt::GLD,RIBASUSHI,c

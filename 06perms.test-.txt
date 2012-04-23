@@ -810,6 +810,7 @@ TestApp::Controller::Adaptor,EDENC,c
 TestApp::Controller::Adaptor,ETHER,c
 TestApp::Controller::Adaptor,FLORA,c
 TestApp::Controller::Adaptor,GETTY,c
+TestApp::Controller::Adaptor,GHENRY,c
 TestApp::Controller::Adaptor,JJNAPIORK,c
 TestApp::Controller::Adaptor,MSTROUT,c
 TestApp::Controller::Adaptor,RIBASUSHI,c
@@ -822,6 +823,7 @@ TestApp::Controller::Factory,EDENC,c
 TestApp::Controller::Factory,ETHER,c
 TestApp::Controller::Factory,FLORA,c
 TestApp::Controller::Factory,GETTY,c
+TestApp::Controller::Factory,GHENRY,c
 TestApp::Controller::Factory,JJNAPIORK,c
 TestApp::Controller::Factory,MSTROUT,c
 TestApp::Controller::Factory,RIBASUSHI,c
@@ -834,6 +836,7 @@ TestApp::Controller::PerRequest,EDENC,c
 TestApp::Controller::PerRequest,ETHER,c
 TestApp::Controller::PerRequest,FLORA,c
 TestApp::Controller::PerRequest,GETTY,c
+TestApp::Controller::PerRequest,GHENRY,c
 TestApp::Controller::PerRequest,JJNAPIORK,c
 TestApp::Controller::PerRequest,MSTROUT,c
 TestApp::Controller::PerRequest,RIBASUSHI,c
@@ -852,6 +855,7 @@ TestApp::Model::PerRequest,EDENC,c
 TestApp::Model::PerRequest,ETHER,c
 TestApp::Model::PerRequest,FLORA,c
 TestApp::Model::PerRequest,GETTY,c
+TestApp::Model::PerRequest,GHENRY,c
 TestApp::Model::PerRequest,JJNAPIORK,c
 TestApp::Model::PerRequest,MSTROUT,c
 TestApp::Model::PerRequest,RIBASUSHI,c
@@ -863,6 +867,7 @@ TestApp::Model::SomeClass,DOY,c
 TestApp::Model::SomeClass,EDENC,c
 TestApp::Model::SomeClass,ETHER,c
 TestApp::Model::SomeClass,FLORA,c
+TestApp::Model::SomeClass,GHENRY,c
 TestApp::Model::SomeClass,JJNAPIORK,c
 TestApp::Model::SomeClass,MSTROUT,c
 TestApp::Model::SomeClass,RIBASUSHI,c
