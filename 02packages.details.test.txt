@@ -707,6 +707,7 @@ Text::Chord::Piano                0.0.5  B/BA/BAYASHI/Text-Chord-Piano-0.0.5.tar
 Text::Chump                        1.02  S/SI/SIMONW/Text-Chump-1.02.tar.gz
 Text::Cipher                       1.01  C/CH/CHIA/Text-Cipher-1.01.tar.gz
 Text::Cipher::KeywordAlphabet     1.005  J/JO/JOHNA/Text-Cipher-KeywordAlphabet-1.005.tar.gz
+Text::CleanFragment                0.01  C/CO/CORION/Text-CleanFragment-0.01.tar.gz
 Text::ClearSilver              0.010005004  C/CR/CRAFTWORK/Text-ClearSilver-0.10.5.4.tar.gz
 Text::ClearSilver::Compat         undef  C/CR/CRAFTWORK/Text-ClearSilver-0.10.5.4.tar.gz
 Text::ClearSilver::CS             undef  C/CR/CRAFTWORK/Text-ClearSilver-0.10.5.4.tar.gz

@@ -1177,6 +1177,7 @@ Text::Chord::Piano,BAYASHI,f
 Text::Chump,SIMONW,f
 Text::Cipher,CHIA,m
 Text::Cipher::KeywordAlphabet,JOHNA,f
+Text::CleanFragment,CORION,f
 Text::ClearSilver,CRAFTWORK,f
 Text::ClearSilver,GFUJI,c
 Text::ClearSilver::CS,CRAFTWORK,f
