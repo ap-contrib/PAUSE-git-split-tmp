@@ -953,6 +953,11 @@ MenuSelectionManager,PHILCROW,f
 Menus,REEDFISH,f
 Merge::HashRef,STRYTOAST,f
 Merror,SHELLTUX,f
+Mesoderm,GBARR,f
+Mesoderm::Command,GBARR,f
+Mesoderm::Component,GBARR,f
+Mesoderm::Mapping,GBARR,f
+Mesoderm::Relationship,GBARR,f
 Message::Stack,ANELSON,c
 Message::Stack,GPHAT,f
 Message::Stack::DataVerifier,GPHAT,f
