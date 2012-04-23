@@ -1158,7 +1158,7 @@ Wx::Palette,MDOOTSON,c
 Wx::Panel,MBARBON,f
 Wx::Panel,MDOOTSON,c
 Wx::PdfDocument,MDOOTSON,c
-Wx::PdfDocument,MWARDELL,f
+Wx::PdfDocument,MWARDELL,m
 Wx::Pen,MBARBON,f
 Wx::Pen,MDOOTSON,c
 Wx::Perl::BrowseButton,MBARBON,f

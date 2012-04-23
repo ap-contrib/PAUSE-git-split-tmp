@@ -473,6 +473,7 @@ YATT::LRXML::NodeCursor,HKOBA,f
 YATT::LRXML::NodeCursor::Path,HKOBA,f
 YATT::LRXML::Parser,HKOBA,f
 YATT::LRXML::Scanner,HKOBA,f
+YATT::Lite,HKOBA,m
 YATT::Registry,HKOBA,f
 YATT::Registry::Loader,HKOBA,f
 YATT::Registry::Loader::DIR,HKOBA,f
