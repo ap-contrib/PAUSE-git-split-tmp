@@ -614,7 +614,7 @@ Log::Any::Plugin::Levels          0.001  S/SD/SDT/Log-Any-Plugin-0.001.tar.gz
 Log::Any::Plugin::Stringify       0.001  S/SD/SDT/Log-Any-Plugin-0.001.tar.gz
 Log::Any::Plugin::Util            0.001  S/SD/SDT/Log-Any-Plugin-0.001.tar.gz
 Log::Any::Test                     0.14  J/JS/JSWARTZ/Log-Any-0.14.tar.gz
-Log::AutoDump                      0.07  C/CA/CAGAO/Log-AutoDump-0.07.tar.gz
+Log::AutoDump                      0.08  C/CA/CAGAO/Log-AutoDump-0.08.tar.gz
 Log::Cabin                         0.06  J/JO/JORVIS/Log-Cabin/Log-Cabin-0.06.tar.gz
 Log::Cabin::Foundation             0.06  J/JO/JORVIS/Log-Cabin/Log-Cabin-0.06.tar.gz
 Log::Channel                        0.7  J/JM/JMAY/Log-Channel-0.7.tar.gz
