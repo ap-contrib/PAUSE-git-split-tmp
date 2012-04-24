@@ -512,9 +512,9 @@ WWW::SEOmoz                        0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
 WWW::SEOmoz::Link                  0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
 WWW::SEOmoz::Links                 0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
 WWW::SEOmoz::URLMetrics            0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
-WWW::Session                       0.01  H/HO/HOREA/WWW-Session/WWW-Session-0.01.tar.gz
-WWW::Session::Serialization::JSON  0.01  H/HO/HOREA/WWW-Session/WWW-Session-0.01.tar.gz
-WWW::Session::Serialization::Storable 0.01  H/HO/HOREA/WWW-Session/WWW-Session-0.01.tar.gz
-WWW::Session::Storage::File        0.01  H/HO/HOREA/WWW-Session/WWW-Session-0.01.tar.gz
-WWW::Session::Storage::Memcached   0.01  H/HO/HOREA/WWW-Session/WWW-Session-0.01.tar.gz
-WWW::Session::Storage::MySQL       0.01  H/HO/HOREA/WWW-Session/WWW-Session-0.01.tar.gz
+WWW::Session                       0.02  H/HO/HOREA/WWW-Session/WWW-Session-0.02.tar.gz
+WWW::Session::Serialization::JSON  0.02  H/HO/HOREA/WWW-Session/WWW-Session-0.02.tar.gz
+WWW::Session::Serialization::Storable 0.02  H/HO/HOREA/WWW-Session/WWW-Session-0.02.tar.gz
+WWW::Session::Storage::File        0.02  H/HO/HOREA/WWW-Session/WWW-Session-0.02.tar.gz
+WWW::Session::Storage::Memcached   0.02  H/HO/HOREA/WWW-Session/WWW-Session-0.02.tar.gz
+WWW::Session::Storage::MySQL       0.02  H/HO/HOREA/WWW-Session/WWW-Session-0.02.tar.gz
