@@ -502,6 +502,7 @@ Sys::Ramdisk,MSCHILLI,f
 Sys::Ramdisk::Linux,MSCHILLI,f
 Sys::Ramdisk::OSX,MSCHILLI,f
 Sys::RunAlone,ELIZABETH,f
+Sys::RunAlone::User,PEDLAR,f
 Sys::RunAlways,ELIZABETH,f
 Sys::RunUntil,ELIZABETH,f
 Sys::Sendfile,LEONT,f
