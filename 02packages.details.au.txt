@@ -27,6 +27,7 @@ Authen::CAS::External              0.08  D/DO/DOUGDUDE/Authen-CAS-External-0.08.
 Authen::CAS::External::Library     0.08  D/DO/DOUGDUDE/Authen-CAS-External-0.08.tar.gz
 Authen::CAS::External::Response    0.08  D/DO/DOUGDUDE/Authen-CAS-External-0.08.tar.gz
 Authen::CAS::External::UserAgent   0.08  D/DO/DOUGDUDE/Authen-CAS-External-0.08.tar.gz
+Authen::CAS::UserAgent              0.9  D/DF/DFRETT/Authen-CAS-UserAgent-0.9.tar.gz
 Authen::Challenge::Basic            0.1  L/LU/LUISMUNOZ/Authen-Challenge-Basic-0.1.tar.gz
 Authen::Class::HtAuth              0.02  R/RY/RYANM/Authen-Class-HtAuth-0.02.tar.gz
 Authen::Class::HtAuth::Base        0.02  R/RY/RYANM/Authen-Class-HtAuth-0.02.tar.gz
