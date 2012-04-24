@@ -1888,6 +1888,7 @@ MW::ssNA,MSPERL,f
 MY,ABURLISON,f
 MY,ANDK,c
 MY,MSCHWERN,c
+MY::Makefile,CPANEL,f
 MaMGal,PORRIDGE,f
 MaMGal::Base,PORRIDGE,f
 MaMGal::CommandChecker,PORRIDGE,f

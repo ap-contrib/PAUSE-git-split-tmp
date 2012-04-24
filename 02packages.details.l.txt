@@ -97,7 +97,7 @@ Locale::TextDomain::OO::TiedInterface v0.3.0  S/ST/STEFFENW/Locale-TextDomain-OO
 Locale::TextDomain::Ties           0.03  S/ST/STEFFENW/Locale-TextDomain-Ties-0.03.tar.gz
 Locale::US                     2.112150  T/TB/TBONE/Locale-US-2.112150.tar.gz
 Locale::Util                      undef  G/GU/GUIDO/libintl-perl-1.20.tar.gz
-Locale::Utils::PlaceholderMaketext 0.001  S/ST/STEFFENW/Locale-Utils-PlaceholderMaketext-0.001.tar.gz
+Locale::Utils::PlaceholderMaketext 0.002  S/ST/STEFFENW/Locale-Utils-PlaceholderMaketext-0.002.tar.gz
 Locale::Utils::PlaceholderNamed   0.003  S/ST/STEFFENW/Locale-Utils-PlaceholderNamed-0.003.tar.gz
 Locale::Utils::PluralForms        0.001  S/ST/STEFFENW/Locale-Utils-PluralForms-0.001.tar.gz
 Locale::Wolowitz                    0.2  I/ID/IDOPEREL/Locale-Wolowitz-0.2.tar.gz

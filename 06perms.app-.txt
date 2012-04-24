@@ -524,6 +524,11 @@ Archive::Tar,BINGOS,c
 Archive::Tar,CDYBED,c
 Archive::Tar,KANE,m
 Archive::Tar,SRZ,c
+Archive::Tar::Builder,CPANEL,f
+Archive::Tar::Builder::Bits,CPANEL,f
+Archive::Tar::Builder::Header,CPANEL,f
+Archive::Tar::Builder::Inode,CPANEL,f
+Archive::Tar::Builder::Match,CPANEL,f
 Archive::Tar::Constant,BINGOS,c
 Archive::Tar::Constant,KANE,f
 Archive::Tar::File,BINGOS,c
