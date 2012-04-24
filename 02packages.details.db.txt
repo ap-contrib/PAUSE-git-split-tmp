@@ -613,11 +613,11 @@ DBIx::IO::Search                  undef  R/RS/RSANDBERG/DBIx-IO-1.07.tar.gz
 DBIx::IO::Table                   undef  R/RS/RSANDBERG/DBIx-IO-1.07.tar.gz
 DBIx::JCL                          0.12  B/BA/BADKINS/DBIx-JCL-0.12.tar.gz
 DBIx::JSON                         0.02  Y/YO/YOSTY/DBIx-JSON-0.02.tar.gz
-DBIx::Knowledge                    1.12  R/RS/RSANDBERG/DBIx-Knowledge-1.12.tar.gz
-DBIx::Knowledge::OracleSQL        undef  R/RS/RSANDBERG/DBIx-Knowledge-1.12.tar.gz
-DBIx::Knowledge::Output           undef  R/RS/RSANDBERG/DBIx-Knowledge-1.12.tar.gz
-DBIx::Knowledge::Report           undef  R/RS/RSANDBERG/DBIx-Knowledge-1.12.tar.gz
-DBIx::Knowledge::SQL              undef  R/RS/RSANDBERG/DBIx-Knowledge-1.12.tar.gz
+DBIx::Knowledge                    1.13  R/RS/RSANDBERG/DBIx-Knowledge-1.13.tar.gz
+DBIx::Knowledge::OracleSQL        undef  R/RS/RSANDBERG/DBIx-Knowledge-1.13.tar.gz
+DBIx::Knowledge::Output           undef  R/RS/RSANDBERG/DBIx-Knowledge-1.13.tar.gz
+DBIx::Knowledge::Report           undef  R/RS/RSANDBERG/DBIx-Knowledge-1.13.tar.gz
+DBIx::Knowledge::SQL              undef  R/RS/RSANDBERG/DBIx-Knowledge-1.13.tar.gz
 DBIx::LazyMethod                   1.03  W/WA/WARMING/DBIx-LazyMethod-1.03.tar.gz
 DBIx::Librarian                     0.6  J/JM/JMAY/DBIx-Librarian-0.6.tar.gz
 DBIx::Librarian::Statement          0.4  J/JM/JMAY/DBIx-Librarian-0.6.tar.gz
