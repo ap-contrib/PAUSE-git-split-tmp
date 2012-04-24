@@ -159,6 +159,12 @@ WWW::Service::Upcoming::API::Object::State,GKNAUSS,f
 WWW::Service::Upcoming::API::Object::User,GKNAUSS,f
 WWW::Service::Upcoming::API::Object::Venue,GKNAUSS,f
 WWW::Service::Upcoming::API::Object::Watchlist,GKNAUSS,f
+WWW::Session,HOREA,f
+WWW::Session::Serialization::JSON,HOREA,f
+WWW::Session::Serialization::Storable,HOREA,f
+WWW::Session::Storage::File,HOREA,f
+WWW::Session::Storage::Memcached,HOREA,f
+WWW::Session::Storage::MySQL,HOREA,f
 WWW::SherlockSearch,AUDREYT,c
 WWW::SherlockSearch,AUTRIJUS,m
 WWW::SherlockSearch::Results,AUDREYT,f
