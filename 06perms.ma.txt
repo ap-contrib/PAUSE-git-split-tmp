@@ -733,6 +733,7 @@ MediaWiki::Bot::Plugin::Steward,DCOLLINS,f
 MediaWiki::Bot::Plugin::Steward,LIFEGUARD,c
 MediaWiki::Bot::Scripts,LIFEGUARD,m
 MediaWiki::Bot::Shell,LIFEGUARD,m
+MediaWiki::CleanupHTML,SHLOMIF,f
 MediaWiki::DumpFile,TRIDDLE,m
 MediaWiki::DumpFile::Compat,TRIDDLE,f
 MediaWiki::DumpFile::FastPages,TRIDDLE,f
