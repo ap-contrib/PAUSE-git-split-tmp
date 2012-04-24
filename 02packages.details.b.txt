@@ -925,7 +925,7 @@ BZS::Nest1                         0.02  M/MI/MIKER/Crypt-License-2.04.tar.gz
 BZS::TestModule                   undef  M/MI/MIKER/Crypt-License-2.04.tar.gz
 BZS::TESTmodule4Util              undef  M/MI/MIKER/Crypt-License-2.04.tar.gz
 c                                  0.04  J/JR/JROCKWAY/Catalyst-View-Template-Declare-0.04.tar.gz
-C3000                              1.01  X/XY/XYF/C3000-1.01.tar.gz
+C3000                              1.02  X/XY/XYF/C3000-1.02.tar.gz
 C3000::RepUtils                    0.11  X/XY/XYF/C3000-RepUtils-0.11.tar.gz
 C::Analyzer                        0.01  S/SR/SREEKANTH/C-Analyzer-0.02.tar.gz
 C::DebugFile                        0.3  J/JA/JASONS/Devel-DebugInit-0.3.tar.gz
