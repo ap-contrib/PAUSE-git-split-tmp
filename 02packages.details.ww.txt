@@ -326,8 +326,8 @@ WWW::Mailman                       1.05  B/BO/BOOK/WWW-Mailman-1.05.tar.gz
 WWW::MapBlast                      0.02  L/LG/LGODDARD/WWW-MapBlast-0.02.tar.gz
 WWW::Mechanize                     1.72  J/JE/JESSE/WWW-Mechanize-1.72.tar.gz
 WWW::Mechanize::AutoPager          0.02  M/MI/MIYAGAWA/WWW-Mechanize-AutoPager-0.02.tar.gz
-WWW::Mechanize::Boilerplate        0.02  S/SA/SARGIE/WWW-Mechanize-Boilerplate-0.02.tar.gz
-WWW::Mechanize::Boilerplate::BBC  undef  S/SA/SARGIE/WWW-Mechanize-Boilerplate-0.02.tar.gz
+WWW::Mechanize::Boilerplate        0.03  S/SA/SARGIE/WWW-Mechanize-Boilerplate-0.03.tar.gz
+WWW::Mechanize::Boilerplate::BBC  undef  S/SA/SARGIE/WWW-Mechanize-Boilerplate-0.03.tar.gz
 WWW::Mechanize::Cached             1.40  O/OA/OALDERS/WWW-Mechanize-Cached-1.40.tar.gz
 WWW::Mechanize::Cached::GZip       0.12  P/PE/PEGI/WWW-Mechanize-Cached-GZip-0.12.tar.gz
 WWW::Mechanize::CGI                 0.3  M/MR/MRAMBERG/WWW-Mechanize-CGI-0.3.tar.gz
