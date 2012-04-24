@@ -357,7 +357,7 @@ Finance::TW::TAIFEX::Contract     undef  C/CL/CLKAO/Finance-TW-TAIFEX-0.37.tar.g
 Finance::TW::TAIFEX::Product      undef  C/CL/CLKAO/Finance-TW-TAIFEX-0.37.tar.gz
 Finance::TW::TAIFEX::Settlement::SecondWednesday undef  C/CL/CLKAO/Finance-TW-TAIFEX-0.37.tar.gz
 Finance::TW::TAIFEX::Settlement::ThirdWednesday undef  C/CL/CLKAO/Finance-TW-TAIFEX-0.37.tar.gz
-Finance::TW::TSEQuote              0.27  C/CL/CLKAO/Finance-TW-TSEQuote-0.27.tar.gz
+Finance::TW::TSEQuote              0.28  C/CL/CLKAO/Finance-TW-TSEQuote-0.28.tar.gz
 Finance::Wesabe                    0.02  B/BR/BRICAS/Finance-Wesabe-0.02.tar.gz
 Finance::Wesabe::Account          undef  B/BR/BRICAS/Finance-Wesabe-0.02.tar.gz
 Finance::Wesabe::Profile          undef  B/BR/BRICAS/Finance-Wesabe-0.02.tar.gz
