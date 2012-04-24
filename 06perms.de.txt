@@ -1748,6 +1748,7 @@ Dist::Zilla::Tester::_Role,RJBS,f
 Dist::Zilla::Tutorial,RJBS,f
 Dist::Zilla::Types,RJBS,f
 Dist::Zilla::Util,RJBS,f
+Dist::Zilla::Util::AuthorDeps,RJBS,f
 Dist::Zilla::Util::EmulatePhase,KENTNL,f
 Dist::Zilla::Util::EmulatePhase::PrereqCollector,KENTNL,f
 Dist::Zilla::Util::FileGenerator,MITHALDU,f
