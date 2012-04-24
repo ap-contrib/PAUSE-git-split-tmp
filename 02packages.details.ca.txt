@@ -328,7 +328,7 @@ Catalyst::Plugin::Server::XMLRPC::Config undef  J/JL/JLMARTIN/Catalyst-Plugin-Se
 Catalyst::Plugin::Server::XMLRPC::DispatchType::XMLRPCPath undef  J/JL/JLMARTIN/Catalyst-Plugin-Server-0.28.tar.gz
 Catalyst::Plugin::Server::XMLRPC::DispatchType::XMLRPCRegex undef  J/JL/JLMARTIN/Catalyst-Plugin-Server-0.28.tar.gz
 Catalyst::Plugin::Server::XMLRPC::Request undef  J/JL/JLMARTIN/Catalyst-Plugin-Server-0.28.tar.gz
-Catalyst::Plugin::Session          0.34  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.34.tar.gz
+Catalyst::Plugin::Session          0.35  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.35.tar.gz
 Catalyst::Plugin::Session::AsObject 0.04  D/DR/DROLSKY/Catalyst-Plugin-Session-AsObject-0.04.tar.gz
 Catalyst::Plugin::Session::CGISession 0.04  T/TS/TSHINNIC/Catalyst-Plugin-Session-CGISession-0.04.tar.gz
 Catalyst::Plugin::Session::Defaults 0.01  N/NU/NUFFIN/Catalyst-Plugin-Session-Defaults-0.01.tar.gz
@@ -346,13 +346,13 @@ Catalyst::Plugin::Session::Manager::Storage::FastMmap undef  L/LY/LYOKATO/Cataly
 Catalyst::Plugin::Session::Manager::Storage::File undef  L/LY/LYOKATO/Catalyst-Plugin-Session-Manager-0.07.tar.gz
 Catalyst::Plugin::Session::PerUser 0.05  B/BO/BOBTFISH/Catalyst-Plugin-Session-PerUser-0.05.tar.gz
 Catalyst::Plugin::Session::PSGI 0.000001  C/CH/CHISEL/Catalyst-Plugin-Session-PSGI-0.0.1.tar.gz
-Catalyst::Plugin::Session::State  undef  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.34.tar.gz
+Catalyst::Plugin::Session::State  undef  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.35.tar.gz
 Catalyst::Plugin::Session::State::Auth 0.0005  Z/ZD/ZDK/Catalyst-Plugin-Session-State-Auth-0.0005.tar.gz
 Catalyst::Plugin::Session::State::Cookie 0.17  M/MS/MSTROUT/Catalyst-Plugin-Session-State-Cookie-0.17.tar.gz
 Catalyst::Plugin::Session::State::PSGI 0.000001  C/CH/CHISEL/Catalyst-Plugin-Session-PSGI-0.0.1.tar.gz
 Catalyst::Plugin::Session::State::Stash 0.12  B/BO/BOBTFISH/Catalyst-Plugin-Session-State-Stash-0.13.tar.gz
 Catalyst::Plugin::Session::State::URI 0.15  B/BO/BOBTFISH/Catalyst-Plugin-Session-State-URI-0.15.tar.gz
-Catalyst::Plugin::Session::Store  undef  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.34.tar.gz
+Catalyst::Plugin::Session::Store  undef  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.35.tar.gz
 Catalyst::Plugin::Session::Store::BerkeleyDB 0.04  F/FL/FLORA/Catalyst-Plugin-Session-Store-BerkeleyDB-0.04.tar.gz
 Catalyst::Plugin::Session::Store::Cache 0.01  L/LB/LBR/Catalyst-Plugin-Session-Store-Cache-0.01.tar.gz
 Catalyst::Plugin::Session::Store::CDBI 0.03  J/JA/JAOS/Catalyst-Plugin-Session-Store-CDBI-0.03.tar.gz
@@ -361,7 +361,7 @@ Catalyst::Plugin::Session::Store::DBIC 0.12  F/FL/FLORA/Catalyst-Plugin-Session-
 Catalyst::Plugin::Session::Store::DBIC::Delegate undef  F/FL/FLORA/Catalyst-Plugin-Session-Store-DBIC-0.12.tar.gz
 Catalyst::Plugin::Session::Store::Delegate 0.06  B/BO/BOBTFISH/Catalyst-Plugin-Session-Store-Delegate-0.06.tar.gz
 Catalyst::Plugin::Session::Store::DOD 0.01  R/RE/RECORDOND/Catalyst-Plugin-Session-Store-DOD-0.01.tar.gz
-Catalyst::Plugin::Session::Store::Dummy undef  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.34.tar.gz
+Catalyst::Plugin::Session::Store::Dummy undef  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.35.tar.gz
 Catalyst::Plugin::Session::Store::FastMmap 0.16  B/BO/BOBTFISH/Catalyst-Plugin-Session-Store-FastMmap-0.16.tar.gz
 Catalyst::Plugin::Session::Store::File 0.18  F/FL/FLORA/Catalyst-Plugin-Session-Store-File-0.18.tar.gz
 Catalyst::Plugin::Session::Store::Jifty::DBI 0.03  I/IS/ISHIGAKI/Catalyst-Plugin-Session-Store-Jifty-DBI-0.03.tar.gz
