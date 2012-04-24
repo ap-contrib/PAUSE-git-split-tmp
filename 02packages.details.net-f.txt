@@ -577,7 +577,7 @@ Net::ICQ                           0.16  J/JM/JMUHLICH/Net-ICQ-0.16.tar.gz
 Net::ICQV5                         1.20  S/SN/SNEMAROV/Net-ICQV5-1.20.tar.gz
 Net::ICQV5CD                       1.02  S/SN/SNEMAROV/Net-ICQV5CD-1.02.tar.gz
 Net::Ident                         1.23  T/TO/TODDR/Net-Ident-1.23.tar.gz
-Net::Identica                   3.18001  M/MM/MMIMS/Net-Twitter-3.18001.tar.gz
+Net::Identica                   3.18002  M/MM/MMIMS/Net-Twitter-3.18002.tar.gz
 Net::IdentServer                   0.56  J/JE/JETTERO/Net-IdentServer-0.56.tar.gz
 Net::IDN::Encode                  2.003  C/CF/CFAERBER/Net-IDN-Encode-2.003.tar.gz
 Net::IDN::IDNA2003                1.000  C/CF/CFAERBER/Net-IDN-IDNA2003-1.000.tar.gz
