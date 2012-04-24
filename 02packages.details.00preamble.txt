@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   116277
-Last-Updated: Tue, 24 Apr 2012 15:03:04 GMT
+Last-Updated: Tue, 24 Apr 2012 15:11:55 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -367,7 +367,7 @@ Acme::EdError                      0.01  J/JM/JMATES/Acme-EdError-0.01.tar.gz
 Acme::Elk                         1.001  H/HA/HANENKAMP/Acme-Elk-1.001.tar.gz
 Acme::Email                       undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::emcA                         0.10  A/AU/AUDREYT/Acme-emcA-0.10E0.tar.gz
-Acme::Emoticarp                    0.01  R/RH/RHOELZ/Acme-Emoticarp-0.01.tar.gz
+Acme::Emoticarp                    0.02  R/RH/RHOELZ/Acme-Emoticarp-0.02.tar.gz
 Acme::Enc                      0.000001  D/DM/DMUEY/Acme-Enc-v0.0.1.tar.gz
 Acme::eng2kor                     undef  A/AA/AANOAA/Acme-eng2kor-v0.0.2.tar.gz
 ACME::Error                        0.03  C/CW/CWEST/ACME-Error-0.03.tar.gz
