@@ -327,6 +327,7 @@ Authen::CAS::External,DOUGDUDE,f
 Authen::CAS::External::Library,DOUGDUDE,f
 Authen::CAS::External::Response,DOUGDUDE,f
 Authen::CAS::External::UserAgent,DOUGDUDE,f
+Authen::CAS::UserAgent,DFRETT,f
 Authen::Captcha,CHRISRD,c
 Authen::Captcha,UNRTST,f
 Authen::Challenge::Basic,LUISMUNOZ,f
