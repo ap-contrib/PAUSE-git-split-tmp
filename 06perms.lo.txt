@@ -566,8 +566,10 @@ Log::Message::Structured,GHENRY,c
 Log::Message::Structured,JJNAPIORK,c
 Log::Message::Structured,MSTROUT,c
 Log::Message::Structured,RIBASUSHI,c
-Log::Message::Structured::Component::Date,DAMS,f
-Log::Message::Structured::Component::Hostname,DAMS,f
+Log::Message::Structured::Component::Date,BOBTFISH,f
+Log::Message::Structured::Component::Date,DAMS,c
+Log::Message::Structured::Component::Hostname,BOBTFISH,f
+Log::Message::Structured::Component::Hostname,DAMS,c
 Log::Message::Structured::Event::ScriptRun,BOBTFISH,f
 Log::Message::Structured::Event::ScriptRun,DAMS,c
 Log::Message::Structured::Event::ScriptRun,DHOSS,c
