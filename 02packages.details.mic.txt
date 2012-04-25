@@ -373,6 +373,7 @@ MIME::Structure                    0.07  N/NK/NKUITSE/MIME-Structure-0.07.tar.gz
 MIME::Tools                       5.502  D/DS/DSKOLL/MIME-tools-5.502.tar.gz
 MIME::ToolUtils                   5.428  D/DO/DONEILL/MIME-tools-5.428.tar.gz
 MIME::Type                         1.34  M/MA/MARKOV/MIME-Types-1.34.tar.gz
+MIME::Type::FileName              undef  J/JH/JHIVER/MIME-Type-FileName-0.1.tar.gz
 MIME::Type::Simple                 0.02  R/RR/RRWO/Media-Type-Simple-0.02.tar.gz
 MIME::Types                        1.34  M/MA/MARKOV/MIME-Types-1.34.tar.gz
 MIME::Visitor                     0.004  R/RJ/RJBS/MIME-BodyMunger-0.004.tar.gz

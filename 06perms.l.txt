@@ -1011,6 +1011,7 @@ MIME::Tools::ToolkitLogger,DONEILL,c
 MIME::Tools::ToolkitLogger,DSKOLL,f
 MIME::Tools::ToolkitLogger,ERYQ,c
 MIME::Type,MARKOV,f
+MIME::Type::FileName,JHIVER,f
 MIME::Type::Simple,PURDY,c
 MIME::Type::Simple,RRWO,f
 MIME::Types,MARKOV,m
