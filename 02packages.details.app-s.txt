@@ -1125,7 +1125,6 @@ Asterisk::LCR::Importer::RichMedium undef  J/JH/JHIVER/Asterisk-LCR-0.08.tar.gz
 Asterisk::LCR::Importer::VoIPJet  undef  J/JH/JHIVER/Asterisk-LCR-0.08.tar.gz
 Asterisk::LCR::Locale             undef  J/JH/JHIVER/Asterisk-LCR-0.08.tar.gz
 Asterisk::LCR::Object             undef  J/JH/JHIVER/Asterisk-LCR-0.08.tar.gz
-Asterisk::LCR::Rate               undef  J/JH/JHIVER/Asterisk-LCR-0.07.tar.gz
 Asterisk::LCR::Route              undef  J/JH/JHIVER/Asterisk-LCR-0.08.tar.gz
 Asterisk::LCR::Storage            undef  J/JH/JHIVER/Asterisk-LCR-0.08.tar.gz
 Asterisk::LCR::Storage::DiskBlob  undef  J/JH/JHIVER/Asterisk-LCR-0.08.tar.gz
