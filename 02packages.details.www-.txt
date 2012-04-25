@@ -52,9 +52,9 @@ WWW::Sitemap::XML::URL::Interface 1.103500  A/AJ/AJGB/WWW-Sitemap-XML-1.103500.t
 WWW::SitemapIndex::XML         1.103500  A/AJ/AJGB/WWW-Sitemap-XML-1.103500.tar.gz
 WWW::SitemapIndex::XML::Sitemap 1.103500  A/AJ/AJGB/WWW-Sitemap-XML-1.103500.tar.gz
 WWW::SitemapIndex::XML::Sitemap::Interface 1.103500  A/AJ/AJGB/WWW-Sitemap-XML-1.103500.tar.gz
-WWW::Sitemapper                1.110340  A/AJ/AJGB/WWW-Sitemapper-1.110340.tar.gz
-WWW::Sitemapper::Tree          1.110340  A/AJ/AJGB/WWW-Sitemapper-1.110340.tar.gz
-WWW::Sitemapper::Types         1.110340  A/AJ/AJGB/WWW-Sitemapper-1.110340.tar.gz
+WWW::Sitemapper                1.121160  A/AJ/AJGB/WWW-Sitemapper-1.121160.tar.gz
+WWW::Sitemapper::Tree          1.121160  A/AJ/AJGB/WWW-Sitemapper-1.121160.tar.gz
+WWW::Sitemapper::Types         1.121160  A/AJ/AJGB/WWW-Sitemapper-1.121160.tar.gz
 WWW::Slides                    0.000008  P/PO/POLETTIX/WWW-Slides-0.0.9.tar.gz
 WWW::Slides::Attendee          0.000004  P/PO/POLETTIX/WWW-Slides-0.0.9.tar.gz
 WWW::Slides::BasicLogger       0.000005  P/PO/POLETTIX/WWW-Slides-0.0.9.tar.gz
