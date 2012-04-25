@@ -398,9 +398,9 @@ OAuth::Lite::Token                undef  L/LY/LYOKATO/OAuth-Lite-1.31.tar.gz
 OAuth::Lite::Util                 undef  L/LY/LYOKATO/OAuth-Lite-1.31.tar.gz
 OAuthDemo                         undef  O/OA/OALDERS/Net-FreshBooks-API-0.23.tar.gz
 Object::_Initializer               0.08  A/AL/ALDICKEY/XML-DocStats-0.01.tar.gz
-Object::Accessor                   0.42  B/BI/BINGOS/Object-Accessor-0.42.tar.gz
-Object::Accessor::Lvalue           0.42  B/BI/BINGOS/Object-Accessor-0.42.tar.gz
-Object::Accessor::TIE              0.42  B/BI/BINGOS/Object-Accessor-0.42.tar.gz
+Object::Accessor                   0.44  B/BI/BINGOS/Object-Accessor-0.44.tar.gz
+Object::Accessor::Lvalue           0.44  B/BI/BINGOS/Object-Accessor-0.44.tar.gz
+Object::Accessor::TIE              0.44  B/BI/BINGOS/Object-Accessor-0.44.tar.gz
 Object::Accessor::XS               0.03  R/RS/RSOD/Object-Accessor-XS-0.03.tar.gz
 Object::AlreadyBound              undef  U/UA/UARUN/Object-Registrar-0.01.tar.gz
 Object::Annotate                  0.021  R/RJ/RJBS/Object-Annotate-0.021.tar.gz
