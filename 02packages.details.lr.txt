@@ -378,8 +378,8 @@ LWP::Parallel::UserAgent          undef  M/MA/MARCLANG/ParallelUserAgent-2.57.ta
 LWP::Parallel::UserAgent::Entry   undef  M/MA/MARCLANG/ParallelUserAgent-2.57.tar.gz
 LWP::ParallelUA                   undef  M/MA/MARCLANG/ParallelUserAgent-2.57.tar.gz
 LWP::Protocol                      6.00  G/GA/GAAS/libwww-perl-6.04.tar.gz
-LWP::Protocol::AnyEvent::http    v1.0.4  I/IK/IKEGAMI/LWP-Protocol-AnyEvent-http-v1.0.4.tar.gz
-LWP::Protocol::Coro::http        v1.0.3  I/IK/IKEGAMI/LWP-Protocol-Coro-http-v1.0.3.tar.gz
+LWP::Protocol::AnyEvent::http    v1.0.5  I/IK/IKEGAMI/LWP-Protocol-AnyEvent-http-v1.0.5.tar.gz
+LWP::Protocol::Coro::http        v1.0.5  I/IK/IKEGAMI/LWP-Protocol-Coro-http-v1.0.5.tar.gz
 LWP::Protocol::cpan               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::data               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::file               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
