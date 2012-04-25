@@ -92,8 +92,8 @@ Win32::Event                       1.09  C/CJ/CJM/Win32-IPC-1.09.tar.gz
 Win32::EventLog                   0.076  J/JD/JDB/Win32-EventLog-0.076.tar.gz
 Win32::EventLog::Carp              1.42  D/DL/DLAND/Win32-EventLog-Carp-1.42.tar.gz
 Win32::Excel::Refresh              0.02  C/CT/CTBROWN/Win32-Excel-Refresh-0.02.tar.gz
-Win32::ExcelSimple                0.054  X/XY/XYF/Win32-ExcelSimple-0.54.tar.gz
-Win32::ExcelSimple::Sheet         0.054  X/XY/XYF/Win32-ExcelSimple-0.54.tar.gz
+Win32::ExcelSimple                 0.55  X/XY/XYF/Win32-ExcelSimple-0.55.tar.gz
+Win32::ExcelSimple::Sheet          0.55  X/XY/XYF/Win32-ExcelSimple-0.55.tar.gz
 Win32::Exchange                   undef  S/SM/SMANROSS/Win32-Exchange_v0.046a.tar.gz
 Win32::Exchange::Const            undef  S/SM/SMANROSS/Win32-Exchange_v0.046a.tar.gz
 Win32::Exchange::Mailbox          undef  S/SM/SMANROSS/Win32-Exchange_v0.046a.tar.gz
