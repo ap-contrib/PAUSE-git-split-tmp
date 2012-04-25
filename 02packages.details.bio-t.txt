@@ -793,7 +793,7 @@ Bundle::Advent::Year2009           0.05  D/DA/DAVIDRW/Advent-Bundles-0.05.tar.gz
 Bundle::Advent::Year2010           0.05  D/DA/DAVIDRW/Advent-Bundles-0.05.tar.gz
 Bundle::AndyA                      1.12  A/AN/ANDYA/Bundle-AndyA-1.12.tar.gz
 Bundle::Apache                     1.02  G/GO/GOZER/mod_perl-1.31.tar.gz
-Bundle::Apache2                    1.00  P/PH/PHRED/mod_perl-2.0.5.tar.gz
+Bundle::Apache2                    1.00  P/PH/PHRED/mod_perl-2.0.6.tar.gz
 Bundle::Apache2::WebApp::Toolkit   0.09  M/MB/MBROOKS/Bundle-Apache2-WebApp-Toolkit-0.09.tar.gz
 Bundle::Apache::ASP                1.10  C/CH/CHAMAS/Apache-ASP-2.62.tar.gz
 Bundle::Apache::ASP::Extra         1.02  C/CH/CHAMAS/Apache-ASP-2.62.tar.gz
