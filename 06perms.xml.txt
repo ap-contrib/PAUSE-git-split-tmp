@@ -85,6 +85,7 @@ XML::Parser::PerlSAX,JONJ,c
 XML::Parser::PerlSAX,KMACLEOD,f
 XML::Parser::PerlSAX,POPIEL,c
 XML::Parser::PyxParser,OLPA,f
+XML::Parser::REX,JHIVER,f
 XML::Parser::SVG2zinc,CMERTZ,f
 XML::Parser::Stream,COOPERCL,f
 XML::Parser::Stream,MIROD,c
