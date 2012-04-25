@@ -500,9 +500,9 @@ WWW::Search::YahooNews             1.00  J/JS/JSMYSER/WWW-Search-YahooNews-1.00.
 WWW::Search::Yandex                0.05  A/AR/ARTO/WWW-Search-Yandex-0.06.tar.gz
 WWW::SearchResult                 2.078  M/MT/MTHURN/WWW-Search-2.508.tar.gz
 WWW::SearchWikipedia               0.02  M/MA/MANWAR/WWW-SearchWikipedia-0.02.tar.gz
-WWW::Selenium                      1.32  L/LU/LUKEC/Test-WWW-Selenium-1.32.tar.gz
+WWW::Selenium                      1.33  L/LU/LUKEC/Test-WWW-Selenium-1.33.tar.gz
 WWW::Selenium::NetworkCapture      0.01  J/JH/JHERM/WWW-Selenium-NetworkCapture-0.01.tar.gz
-WWW::Selenium::Util                1.32  L/LU/LUKEC/Test-WWW-Selenium-1.32.tar.gz
+WWW::Selenium::Util                1.33  L/LU/LUKEC/Test-WWW-Selenium-1.33.tar.gz
 WWW::Selenium::Utils               0.09  L/LU/LUKEC/WWW-Selenium-Utils-0.09.tar.gz
 WWW::Selenium::Utils::Actions     undef  L/LU/LUKEC/WWW-Selenium-Utils-0.09.tar.gz
 WWW::Selenium::Utils::CGI         undef  L/LU/LUKEC/WWW-Selenium-Utils-0.09.tar.gz
