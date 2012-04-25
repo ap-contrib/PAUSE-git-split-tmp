@@ -360,11 +360,11 @@ Git::Repository::Plugin::Blame   v1.0.2  A/AU/AUBERTG/Git-Repository-Plugin-Blam
 Git::Repository::Plugin::Blame::Line v1.0.2  A/AU/AUBERTG/Git-Repository-Plugin-Blame-1.0.2.tar.gz
 Git::Repository::Plugin::Log       1.01  B/BO/BOOK/Git-Repository-1.25.tar.gz
 Git::SVNReplay                   1.0214  J/JE/JETTERO/Git-SVNReplay-1.0214.tar.gz
-Git::Wrapper                      0.018  G/GE/GENEHACK/Git-Wrapper-0.018.tar.gz
-Git::Wrapper::Exception           0.018  G/GE/GENEHACK/Git-Wrapper-0.018.tar.gz
-Git::Wrapper::Log                 0.018  G/GE/GENEHACK/Git-Wrapper-0.018.tar.gz
-Git::Wrapper::Status              0.018  G/GE/GENEHACK/Git-Wrapper-0.018.tar.gz
-Git::Wrapper::Statuses            0.018  G/GE/GENEHACK/Git-Wrapper-0.018.tar.gz
+Git::Wrapper                      0.019  G/GE/GENEHACK/Git-Wrapper-0.019.tar.gz
+Git::Wrapper::Exception           0.019  G/GE/GENEHACK/Git-Wrapper-0.019.tar.gz
+Git::Wrapper::Log                 0.019  G/GE/GENEHACK/Git-Wrapper-0.019.tar.gz
+Git::Wrapper::Status              0.019  G/GE/GENEHACK/Git-Wrapper-0.019.tar.gz
+Git::Wrapper::Statuses            0.019  G/GE/GENEHACK/Git-Wrapper-0.019.tar.gz
 Git::XS                            0.02  I/IN/INGY/Git-XS-0.02.tar.gz
 Gitalist                       0.003009  B/BR/BROQ/Gitalist-0.003009.tar.gz
 Gitalist::ActionRole::FilenameArgs undef  B/BR/BROQ/Gitalist-0.003009.tar.gz
