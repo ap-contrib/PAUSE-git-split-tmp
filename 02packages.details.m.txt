@@ -120,10 +120,10 @@ MyAtomicSimpleType                undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyBot                             undef  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 MyBuild                           undef  P/PH/PHILCROW/Java-Build-0.05.tar.gz
 mycache                           undef  R/RY/RYBSKEJ/Apache-forks-0.03.tar.gz
-MyCatalystApp                      0.01  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-MyCatalystApp::Controller::Captcha undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-MyCatalystApp::Controller::Captcha::Form undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
-MyCatalystApp::Controller::Root   undef  G/GS/GSHANK/HTML-FormHandler-0.40006.tar.gz
+MyCatalystApp                      0.01  G/GS/GSHANK/HTML-FormHandler-0.40007.tar.gz
+MyCatalystApp::Controller::Captcha undef  G/GS/GSHANK/HTML-FormHandler-0.40007.tar.gz
+MyCatalystApp::Controller::Captcha::Form undef  G/GS/GSHANK/HTML-FormHandler-0.40007.tar.gz
+MyCatalystApp::Controller::Root   undef  G/GS/GSHANK/HTML-FormHandler-0.40007.tar.gz
 MyCDs                             undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
 MyCDs::Artist                     undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
 MyCDs::Disc                       undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
