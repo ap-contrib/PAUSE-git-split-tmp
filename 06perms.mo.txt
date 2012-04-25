@@ -635,6 +635,7 @@ Moose::Meta::Attribute::Custom::Trait::LCDprocScreen,IOANR,f
 Moose::Meta::Attribute::Custom::Trait::Lvalue,CTBROWN,f
 Moose::Meta::Attribute::Custom::Trait::MergeHashRef,PERLER,f
 Moose::Meta::Attribute::Custom::Trait::MooseX::Getopt::Defanged::Option,ELLIOTJS,f
+Moose::Meta::Attribute::Custom::Trait::NoState,IOANR,f
 Moose::Meta::Attribute::Custom::Trait::NoStorm,JHALLOCK,f
 Moose::Meta::Attribute::Custom::Trait::PRANG::Attr,CHILTS,c
 Moose::Meta::Attribute::Custom::Trait::PRANG::Attr,MUTANT,c

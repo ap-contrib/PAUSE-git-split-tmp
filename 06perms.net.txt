@@ -282,6 +282,10 @@ Net::Kotonoha::Koto,MATTN,f
 Net::LCDproc,IOANR,f
 Net::LCDproc::Error,IOANR,f
 Net::LCDproc::Meta::Attribute::LCDproc::Screen,IOANR,f
+Net::LCDproc::Meta::Role::Widget,IOANR,f
+Net::LCDproc::Meta::Screen,IOANR,f
+Net::LCDproc::Meta::Widget,IOANR,f
+Net::LCDproc::Meta::Widget::Trait::NoState,IOANR,f
 Net::LCDproc::Screen,IOANR,f
 Net::LCDproc::Widget,IOANR,f
 Net::LCDproc::Widget::Frame,IOANR,f

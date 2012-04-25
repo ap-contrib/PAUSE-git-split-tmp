@@ -235,10 +235,11 @@ Moose::Meta::Attribute::Custom::Trait::Indexed v1.0.2  K/KE/KENTNL/MooseX-Attrib
 Moose::Meta::Attribute::Custom::Trait::Inherit undef  J/JH/JHALLOCK/Lorem-0.16-withoutworldwriteables.tar.gz
 Moose::Meta::Attribute::Custom::Trait::KiokuDB::DoNotSerialize undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 Moose::Meta::Attribute::Custom::Trait::KiokuDB::Lazy undef  D/DO/DOY/KiokuDB-0.52.tar.gz
-Moose::Meta::Attribute::Custom::Trait::LCDprocScreen 0.001000  I/IO/IOANR/Net-LCDproc-0.1.0.tar.gz
+Moose::Meta::Attribute::Custom::Trait::LCDprocScreen 0.001001  I/IO/IOANR/Net-LCDproc-0.1.1.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Lvalue 0.05  C/CT/CTBROWN/MooseX-Meta-Attribute-Lvalue-0.05.tar.gz
 Moose::Meta::Attribute::Custom::Trait::MergeHashRef 1.002  P/PE/PERLER/MooseX-Traits-Attribute-MergeHashRef-1.002.tar.gz
 Moose::Meta::Attribute::Custom::Trait::MooseX::Getopt::Defanged::Option v1.18.0  E/EL/ELLIOTJS/MooseX-Getopt-Defanged-v1.18.0.tar.gz
+Moose::Meta::Attribute::Custom::Trait::NoState 0.001001  I/IO/IOANR/Net-LCDproc-0.1.1.tar.gz
 Moose::Meta::Attribute::Custom::Trait::NoStorm undef  J/JH/JHALLOCK/Storm-0.10-withoutworldwriteables.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Parsed 0.91  I/ID/IDOPEREL/MongoDBx-Class-0.91.tar.gz
 Moose::Meta::Attribute::Custom::Trait::PRANG::Attr 0.14  M/MU/MUTANT/PRANG-0.14.tar.gz
