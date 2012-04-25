@@ -695,7 +695,7 @@ Business::OnlinePayment::SynapseGateway 0.01  M/MD/MDUNHAM/Business-OnlinePaymen
 Business::OnlinePayment::TCLink    1.03  W/WI/WITTEN/Business-OnlinePayment-TCLink-1.03.tar.gz
 Business::OnlinePayment::TransactionCentral 0.06  I/IV/IVAN/Business-OnlinePayment-TransactionCentral-0.06.tar.gz
 Business::OnlinePayment::TransFirsteLink 0.04  J/JE/JEF/Business-OnlinePayment-TransFirsteLink-0.04.tar.gz
-Business::OnlinePayment::USAePay   0.02  I/IV/IVAN/Business-OnlinePayment-USAePay-0.02.tar.gz
+Business::OnlinePayment::USAePay   0.03  I/IV/IVAN/Business-OnlinePayment-USAePay-0.03.tar.gz
 Business::OnlinePayment::Vanco     0.02  J/JE/JEF/Business-OnlinePayment-Vanco-0.02.tar.gz
 Business::OnlinePayment::viaKLIX   0.02  J/JE/JEF/Business-OnlinePayment-viaKLIX-0.02.tar.gz
 Business::OnlinePayment::VirtualNet 0.02  I/IV/IVAN/Business-OnlinePayment-VirtualNet-0.02.tar.gz
