@@ -670,6 +670,7 @@ WebService::Aladdin::Item::DVD,JEEN,f
 WebService::Aladdin::Item::Music,JEEN,f
 WebService::Aladdin::Items,JEEN,f
 WebService::Aladdin::Parser,JEEN,f
+WebService::Amazon::CloudSearch,SALTBREEZ,m
 WebService::Amazon::Route53,ODYNIEC,m
 WebService::AngelXML::Auth,MRDVT,f
 WebService::Antigate,OLEG,f

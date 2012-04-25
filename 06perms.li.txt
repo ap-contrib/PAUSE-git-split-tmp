@@ -677,6 +677,7 @@ List::Analyse::Sequence,ALTREUS,f
 List::Analyse::Sequence::Analyser::OL::Numbered,ALTREUS,f
 List::Analyse::Sequence::Analyser::OL::RomanNumerals,ALTREUS,f
 List::Any,VPARSEVAL,f
+List::BinarySearch,DAVIDO,m
 List::Bisect,NOTBENH,f
 List::Categorize,WNODOM,f
 List::Compare,JKEENAN,m
