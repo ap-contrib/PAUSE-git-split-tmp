@@ -1209,7 +1209,7 @@ HTTP::MobileAgent::Plugin::Locator::SoftBank::GPS undef  K/KU/KURIHARA/HTTP-Mobi
 HTTP::MobileAgent::Plugin::Locator::Willcom::BasicLocation undef  K/KU/KURIHARA/HTTP-MobileAgent-Plugin-Locator-0.04.tar.gz
 HTTP::MobileAgent::Plugin::RoamingZone 0.000003  K/KO/KOKOGIKO/HTTP-MobileAgent-Plugin-RoamingZone-0.0.3.tar.gz
 HTTP::MobileAgent::Plugin::RoamingZone::CodeHash undef  K/KO/KOKOGIKO/HTTP-MobileAgent-Plugin-RoamingZone-0.0.2.tar.gz
-HTTP::MobileAgent::Plugin::SmartPhone 0.014  S/SO/SONGMU/HTTP-MobileAgent-Plugin-SmartPhone-0.014.tar.gz
+HTTP::MobileAgent::Plugin::SmartPhone 0.02  S/SO/SONGMU/HTTP-MobileAgent-Plugin-SmartPhone-0.02.tar.gz
 HTTP::MobileAgent::Request        undef  K/KU/KURIHARA/HTTP-MobileAgent-0.35.tar.gz
 HTTP::MobileAgent::Request::Apache undef  K/KU/KURIHARA/HTTP-MobileAgent-0.35.tar.gz
 HTTP::MobileAgent::Request::Env   undef  K/KU/KURIHARA/HTTP-MobileAgent-0.35.tar.gz
