@@ -414,9 +414,9 @@ Moose::Util                      2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Util::MetaRole            2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Util::TypeConstraints     2.0403  D/DO/DOY/Moose-2.0403.tar.gz
 Moose::Util::TypeConstraints::OptimizedConstraints 2.0004  D/DO/DOY/Moose-2.0004.tar.gz
-MooseX::ABC                        0.05  D/DO/DOY/MooseX-ABC-0.05.tar.gz
-MooseX::ABC::Role::Object          0.05  D/DO/DOY/MooseX-ABC-0.05.tar.gz
-MooseX::ABC::Trait::Class          0.05  D/DO/DOY/MooseX-ABC-0.05.tar.gz
+MooseX::ABC                        0.06  D/DO/DOY/MooseX-ABC-0.06.tar.gz
+MooseX::ABC::Role::Object          0.06  D/DO/DOY/MooseX-ABC-0.06.tar.gz
+MooseX::ABC::Trait::Class          0.06  D/DO/DOY/MooseX-ABC-0.06.tar.gz
 MooseX::AbstractFactory        0.004000  X/XE/XENO/MooseX-AbstractFactory-0.004000.tar.gz
 MooseX::AbstractFactory::Meta::Class 0.004000  X/XE/XENO/MooseX-AbstractFactory-0.004000.tar.gz
 MooseX::AbstractFactory::Role  0.004000  X/XE/XENO/MooseX-AbstractFactory-0.004000.tar.gz
