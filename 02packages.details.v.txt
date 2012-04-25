@@ -267,7 +267,7 @@ Video::PlaybackMachine::TimeLayout::RangeLayout undef  S/ST/STEPHEN/Video-Playba
 Video::PlaybackMachine::TimeManager undef  S/ST/STEPHEN/Video-PlaybackMachine-0.06.tar.gz
 Video::RTjpeg                     0.012  M/ML/MLEHMANN/Video-Capture-V4l-0.902.tar.gz
 Video::Subtitle::SBV               0.02  B/BK/BKB/Video-Subtitle-SBV-0.02.tar.gz
-Video::Subtitle::SRT               0.02  B/BK/BKB/Video-Subtitle-SRT-0.02.tar.gz
+Video::Subtitle::SRT               0.03  B/BK/BKB/Video-Subtitle-SRT-0.03.tar.gz
 Video::TeletextDB                  0.02  T/TH/THOSPEL/Video-TeletextDB-0.02.tar.gz
 Video::TeletextDB::Access          0.02  T/TH/THOSPEL/Video-TeletextDB-0.02.tar.gz
 Video::TeletextDB::Constants       0.01  T/TH/THOSPEL/Video-TeletextDB-0.02.tar.gz
