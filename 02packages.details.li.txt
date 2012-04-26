@@ -10,7 +10,6 @@ liberty::si2drExprT               undef  Y/YO/YORKWU/Liberty-Parser-0.04.tar.gz
 liberty::si2drExprT_u             undef  Y/YO/YORKWU/Liberty-Parser-0.04.tar.gz
 liberty::si2ObjectIdT             undef  Y/YO/YORKWU/Liberty-Parser-0.04.tar.gz
 libertyc                          undef  Y/YO/YORKWU/Liberty-Parser-0.04.tar.gz
-LibpngInfo                        undef  B/BK/BKB/Image-PNG-0.14.tar.gz
 Library::CallNumber::LC            0.20  D/DB/DBWELLS/Library-CallNumber-LC-0.20.tar.gz
 Libravatar::URL                    1.05  F/FM/FMARIER/Gravatar-URL-1.05.tar.gz
 LibTracker::Client                 0.02  G/GE/GERA/LibTracker-Client-0.02.tar.gz
