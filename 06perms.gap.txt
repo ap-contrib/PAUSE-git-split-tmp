@@ -998,6 +998,7 @@ Geo::Shape,MARKOV,f
 Geo::ShapeFile,JASONK,m
 Geo::ShapeFile::Point,JASONK,f
 Geo::ShapeFile::Shape,JASONK,f
+Geo::Shapefile::Writer,LIOSHA,f
 Geo::Shapelib,AJOLMA,f
 Geo::Space,MARKOV,f
 Geo::SpaceManager,JGIBSON,f
