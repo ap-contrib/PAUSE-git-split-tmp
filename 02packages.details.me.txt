@@ -495,7 +495,7 @@ Method::Workflow::SPEC::It        undef  E/EX/EXODIST/Method-Workflow-SPEC-0.201
 Method::Workflow::SPEC::Task      undef  E/EX/EXODIST/Method-Workflow-SPEC-0.201.tar.gz
 Method::Workflow::SubClass        undef  E/EX/EXODIST/Method-Workflow-0.204.tar.gz
 Method::Workflow::Task            undef  E/EX/EXODIST/Method-Workflow-0.204.tar.gz
-methods                            0.03  A/AU/AUDREYT/methods-0.03.tar.gz
+methods                            0.10  A/AU/AUDREYT/methods-0.10.tar.gz
 Methods::CheckNames                0.06  F/FL/FLORA/Methods-CheckNames-0.06.tar.gz
 Mewsoft::Pagination                0.40  M/ME/MEWSOFT/Mewsoft-Pagination-0.40.tar.gz
 MFor                              0.052  C/CO/CORNELIUS/MFor-0.052.tar.gz
