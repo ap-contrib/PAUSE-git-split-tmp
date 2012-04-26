@@ -10,7 +10,7 @@ App::Control                       1.02  A/AW/AWRIGLEY/App-Control-1.02.tar.gz
 App::Control::Apache              undef  C/CL/CLKAO/RunApp-0.13.tar.gz
 App::CopyProsodyDB                0.007  G/GE/GETTY/Prosody-0.007.tar.gz
 App::cpackage                      1.01  J/JO/JONALLEN/App-cpackage-1.01.tar.gz
-App::Cpan                          1.59  D/DA/DAGOLDEN/App-Cpan-1.59.tar.gz
+App::Cpan                        1.5901  D/DA/DAGOLDEN/App-Cpan-1.5901.tar.gz
 App::CPAN2Pkg                  2.120460  J/JQ/JQUELIN/App-CPAN2Pkg-2.120460.tar.gz
 App::CPAN2Pkg::Controller      2.120460  J/JQ/JQUELIN/App-CPAN2Pkg-2.120460.tar.gz
 App::CPAN2Pkg::Lock            2.120460  J/JQ/JQUELIN/App-CPAN2Pkg-2.120460.tar.gz
