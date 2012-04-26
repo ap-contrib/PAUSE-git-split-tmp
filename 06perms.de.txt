@@ -198,6 +198,7 @@ Devel::TypeCheck::Type::Upsilon,BARGLE,f
 Devel::TypeCheck::Type::Var,BARGLE,f
 Devel::TypeCheck::Type::Zeta,BARGLE,f
 Devel::TypeCheck::Util,BARGLE,f
+Devel::Unicode,TOBYINK,f
 Devel::Unplug,ANDYA,f
 Devel::Unplug::OO,ANDYA,f
 Devel::UseAnyFunc,EVO,f

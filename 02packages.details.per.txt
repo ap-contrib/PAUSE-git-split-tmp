@@ -142,6 +142,7 @@ PerlIO::via::symlink               0.05  C/CL/CLKAO/PerlIO-via-symlink-0.05.tar.
 PerlIO::via::ToFirePHP         1.100860  M/MA/MARCEL/PerlIO-via-ToFirePHP-1.100860.tar.gz
 PerlIO::via::trap                  0.09  C/CL/CLKAO/PerlIO-via-trap-0.09.tar.gz
 PerlIO::via::UnComment             0.04  E/EL/ELIZABETH/PerlIO-via-UnComment-0.04.tar.gz
+PerlIO::via::UnicodeDebug         0.001  T/TO/TOBYINK/Unicode-Debug-0.001.tar.gz
 PerlIO::via::Unidecode             1.01  S/SB/SBURKE/PerlIO-via-Unidecode-1.01.tar.gz
 PerlIO::via::UnPod                 0.05  E/EL/ELIZABETH/PerlIO-via-UnPod-0.05.tar.gz
 Perlipse                           0.02  J/JA/JAE/perlipse/Perlipse-0.02.zip

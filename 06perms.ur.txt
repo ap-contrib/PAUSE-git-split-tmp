@@ -338,6 +338,7 @@ Unicode::Collate::CJK::Pinyin,SADAHIRO,f
 Unicode::Collate::CJK::Stroke,SADAHIRO,f
 Unicode::Collate::Locale,SADAHIRO,f
 Unicode::Collate::Standard::V3_1_1,BBENNETT,f
+Unicode::Debug,TOBYINK,f
 Unicode::Decompose,AUDREYT,f
 Unicode::Decompose,JESSE,c
 Unicode::Decompose,NUFFIN,c
