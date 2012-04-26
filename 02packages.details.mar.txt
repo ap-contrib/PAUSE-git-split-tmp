@@ -301,7 +301,7 @@ Math::Complex_C::Long              0.06  S/SI/SISYPHUS/Math-Complex_C-0.06.tar.g
 Math::ContinuedFraction            0.11  J/JG/JGAMBLE/Math-ContinuedFraction-0.11.tar.gz
 Math::ConvexHull                   1.04  S/SM/SMUELLER/Math-ConvexHull-1.04.tar.gz
 Math::ConvexHull::MonotoneChain    0.01  S/SM/SMUELLER/Math-ConvexHull-MonotoneChain-0.01.tar.gz
-Math::Counting                   0.0904  G/GE/GENE/Math-Counting-0.0904.tar.gz
+Math::Counting                   0.0905  G/GE/GENE/Math-Counting-0.0905.tar.gz
 Math::CPWLF                        0.15  D/DA/DANBOO/Math-CPWLF-0.15.tar.gz
 Math::Currency                     0.47  J/JP/JPEACOCK/Math-Currency-0.47.tar.gz
 Math::Currency::de_DE              0.47  J/JP/JPEACOCK/Math-Currency-0.47.tar.gz
