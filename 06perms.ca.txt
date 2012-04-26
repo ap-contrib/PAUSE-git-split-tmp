@@ -646,8 +646,9 @@ Catalyst::Plugin::Authentication::Store::DBIC::User,WSHELDAHL,c
 Catalyst::Plugin::Authentication::Store::DBIC::User::CDBI,DKAMHOLZ,f
 Catalyst::Plugin::Authentication::Store::DBIx::Class,FLORA,c
 Catalyst::Plugin::Authentication::Store::DBIx::Class,JAYK,m
+Catalyst::Plugin::Authentication::Store::DBIx::Class::User,BOBTFISH,f
 Catalyst::Plugin::Authentication::Store::DBIx::Class::User,FLORA,c
-Catalyst::Plugin::Authentication::Store::DBIx::Class::User,JAYK,f
+Catalyst::Plugin::Authentication::Store::DBIx::Class::User,JAYK,c
 Catalyst::Plugin::Authentication::Store::HTTP,TYPESTER,f
 Catalyst::Plugin::Authentication::Store::HTTP::Backend,TYPESTER,f
 Catalyst::Plugin::Authentication::Store::HTTP::User,TYPESTER,f
