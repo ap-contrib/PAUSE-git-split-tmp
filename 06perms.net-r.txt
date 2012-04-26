@@ -711,6 +711,7 @@ Net::Server::Mail::ESMTP::PIPELINING,GUIMARD,c
 Net::Server::Mail::ESMTP::PIPELINING,RJBS,c
 Net::Server::Mail::ESMTP::PIPELINING,RSOLIV,f
 Net::Server::Mail::ESMTP::SIZE,JLMARTIN,f
+Net::Server::Mail::ESMTP::SIZEpatched,CAVAC,f
 Net::Server::Mail::ESMTP::STARTTLS,DANMOORE,m
 Net::Server::Mail::ESMTP::XFORWARD,GUIMARD,m
 Net::Server::Mail::LMTP,GUIMARD,c
