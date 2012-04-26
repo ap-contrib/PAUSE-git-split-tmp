@@ -687,6 +687,7 @@ SQL::Abstract,RIBASUSHI,c
 SQL::Abstract,RKINYON,c
 SQL::Abstract,SSCAFFIDI,c
 SQL::Abstract,WSHELDAHL,c
+SQL::Abstract::Builder,TRON,f
 SQL::Abstract::Limit,DAVEBAIRD,m
 SQL::Abstract::More,DAMI,f
 SQL::Abstract::Plugin::InsertMulti,ZIGOROU,f
