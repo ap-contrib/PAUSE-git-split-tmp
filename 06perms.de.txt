@@ -1411,6 +1411,7 @@ Dist::Zilla::Plugin::PodTests,RJBS,f
 Dist::Zilla::Plugin::PodVersion,RJBS,f
 Dist::Zilla::Plugin::PodWeaver,RJBS,f
 Dist::Zilla::Plugin::PodWeaver::Eventual,RJBS,f
+Dist::Zilla::Plugin::PodWeaverIfPod,JSWARTZ,f
 Dist::Zilla::Plugin::PortabilityTests,ABRAXXA,c
 Dist::Zilla::Plugin::PortabilityTests,DOHERTY,c
 Dist::Zilla::Plugin::PortabilityTests,MARCEL,f
