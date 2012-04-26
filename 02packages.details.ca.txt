@@ -329,7 +329,7 @@ Catalyst::Plugin::Server::XMLRPC::DispatchType::XMLRPCPath undef  J/JL/JLMARTIN/
 Catalyst::Plugin::Server::XMLRPC::DispatchType::XMLRPCRegex undef  J/JL/JLMARTIN/Catalyst-Plugin-Server-0.28.tar.gz
 Catalyst::Plugin::Server::XMLRPC::Request undef  J/JL/JLMARTIN/Catalyst-Plugin-Server-0.28.tar.gz
 Catalyst::Plugin::Session          0.35  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.35.tar.gz
-Catalyst::Plugin::Session::AsObject 0.04  D/DR/DROLSKY/Catalyst-Plugin-Session-AsObject-0.04.tar.gz
+Catalyst::Plugin::Session::AsObject 0.05  D/DR/DROLSKY/Catalyst-Plugin-Session-AsObject-0.05.tar.gz
 Catalyst::Plugin::Session::CGISession 0.04  T/TS/TSHINNIC/Catalyst-Plugin-Session-CGISession-0.04.tar.gz
 Catalyst::Plugin::Session::Defaults 0.01  N/NU/NUFFIN/Catalyst-Plugin-Session-Defaults-0.01.tar.gz
 Catalyst::Plugin::Session::DynamicExpiry 0.02  N/NU/NUFFIN/Catalyst-Plugin-Session-DynamicExpiry-0.02.tar.gz
