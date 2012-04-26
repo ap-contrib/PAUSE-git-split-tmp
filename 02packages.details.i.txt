@@ -493,7 +493,7 @@ Introspector::TreeCCGenerator     undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
 Introspector::Visitor               0.1  M/MD/MDUPONT/Introspector-0.04.tar.gz
 introspector::XMLParser           undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
 Introspector::XMLPrinter          undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
-invoker                            0.31  C/CL/CLKAO/invoker-0.31.tar.gz
+invoker                            0.32  C/CL/CLKAO/invoker-0.32.tar.gz
 IO                                 1.25  G/GB/GBARR/IO-1.25.tar.gz
 IO::AIO                            4.15  M/ML/MLEHMANN/IO-AIO-4.15.tar.gz
 IO::AIO::Util                      0.09  G/GR/GRAY/IO-AIO-Util-0.09.tar.gz
