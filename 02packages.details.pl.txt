@@ -78,7 +78,7 @@ Plack::Middleware::StackTrace     undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz
 Plack::Middleware::Static         undef  M/MI/MIYAGAWA/Plack-0.9986.tar.gz
 Plack::Middleware::Static::Minifier 0.06  B/BA/BAYASHI/Plack-Middleware-Static-Minifier-0.06.tar.gz
 Plack::Middleware::Static::Range   0.01  A/AU/AUDREYT/Plack-Middleware-Static-Range-0.01.tar.gz
-Plack::Middleware::StaticShared    0.03  S/SA/SATOH/Plack-Middleware-StaticShared-0.03.tar.gz
+Plack::Middleware::StaticShared    0.04  S/SA/SATOH/Plack-Middleware-StaticShared-0.04.tar.gz
 Plack::Middleware::Status      1.101150  P/PD/PDONELAN/Plack-Middleware-Status-1.101150.tar.gz
 Plack::Middleware::TemplateToolkit 0.25  L/LL/LLAP/Plack-Middleware-TemplateToolkit-0.25.tar.gz
 Plack::Middleware::Test::StashWarnings 0.06  A/AL/ALEXMV/Plack-Middleware-Test-StashWarnings-0.06.tar.gz
