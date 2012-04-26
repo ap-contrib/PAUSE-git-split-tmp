@@ -1,4 +1,4 @@
-Catalyst::Model::DBI               0.29  A/AL/ALEXP/Catalyst-Model-DBI-0.29.tar.gz
+Catalyst::Model::DBI               0.30  A/AL/ALEXP/Catalyst-Model-DBI-0.30.tar.gz
 Catalyst::Model::DBI::SQL::Library 0.15  A/AL/ALEXP/Catalyst-Model-DBI-SQL-Library-0.15.tar.gz
 Catalyst::Model::DBIC              0.17  B/BR/BRICAS/Catalyst-Model-DBIC-0.17.tar.gz
 Catalyst::Model::DBIC::ConfigPerSite undef  T/TE/TEEJAY/Catalyst-TraitFor-Component-ConfigPerSite-0.10.tar.gz
