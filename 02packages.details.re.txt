@@ -404,7 +404,7 @@ REST::Google::Translate2       1.000008  M/MO/MOB/REST-Google-Translate2-1.0.8.t
 REST::Request                  0.005002004  F/FR/FROTZ/REST-Resource-0.5.2.4.tar.gz
 REST::RequestFast              0.005002004  F/FR/FROTZ/REST-Resource-0.5.2.4.tar.gz
 REST::Resource                 0.005002004  F/FR/FROTZ/REST-Resource-0.5.2.4.tar.gz
-REST::Utils                         0.5  J/JA/JALDHAR/REST-Utils-0.5.tar.gz
+REST::Utils                         0.6  J/JA/JALDHAR/REST-Utils-0.6.tar.gz
 Result                              0.3  A/AS/ASCOPE/Net-Google-0.62.tar.gz
 Retry                              0.12  T/TJ/TJC/Retry-0.12.tar.gz
 Return::DataButBool            0.000003  D/DM/DMUEY/Return-DataButBool-0.0.3.tar.gz
