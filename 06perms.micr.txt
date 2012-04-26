@@ -1261,6 +1261,7 @@ Module::Install::Authority,BOBTFISH,f
 Module::Install::Authority,DAMS,c
 Module::Install::Authority,FLORA,c
 Module::Install::Authority,GHENRY,c
+Module::Install::Authority,JJNAPIORK,c
 Module::Install::Authority,MSTROUT,c
 Module::Install::AutoConf,GAM,f
 Module::Install::AutoInstall,ADAMK,c
