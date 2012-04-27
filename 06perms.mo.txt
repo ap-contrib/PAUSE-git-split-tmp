@@ -279,6 +279,9 @@ Moo,RIBASUSHI,c
 Moo,SSCAFFIDI,c
 Moo,WSHELDAHL,c
 Moo::Getopt,CELOGEEK,f
+Moo::HandleMoose,MSTROUT,f
+Moo::HandleMoose::FakeConstructor,MSTROUT,f
+Moo::HandleMoose::FakeMetaClass,MSTROUT,f
 Moo::Object,APEIRON,c
 Moo::Object,BOBTFISH,c
 Moo::Object,DGL,c
@@ -323,6 +326,7 @@ Moo::_mro,MSTROUT,f
 Moo::_mro,RIBASUSHI,c
 Moo::_mro,SSCAFFIDI,c
 Moo::_mro,WSHELDAHL,c
+Moo::sification,MSTROUT,f
 MooX,CELOGEEK,m
 MooX::Cmd,GETTY,f
 MooX::HasEnv,GETTY,f
