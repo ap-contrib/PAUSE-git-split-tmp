@@ -1220,6 +1220,9 @@ TAP::Parser::Iterator::FH,ANDYA,f
 TAP::Parser::Iterator::FH,OVID,c
 TAP::Parser::Iterator::Process,ANDYA,f
 TAP::Parser::Iterator::Stream,ANDYA,f
+TAP::Parser::Iterator::Stream::Selectable,LSF,f
+TAP::Parser::Iterator::Worker,LSF,f
+TAP::Parser::Iterator::Worker::LSF,LSF,f
 TAP::Parser::IteratorFactory,ANDYA,f
 TAP::Parser::Multiplexer,ANDYA,f
 TAP::Parser::Result,ANDYA,f
@@ -1254,6 +1257,8 @@ TAP::Parser::SourceHandler::MyTAP,DWHEELER,f
 TAP::Parser::SourceHandler::PHP,PETDANCE,f
 TAP::Parser::SourceHandler::Perl,ANDYA,f
 TAP::Parser::SourceHandler::RawTAP,ANDYA,f
+TAP::Parser::SourceHandler::Worker,LSF,f
+TAP::Parser::SourceHandler::Worker::LSF,LSF,f
 TAP::Parser::SourceHandler::pgTAP,ANDYA,c
 TAP::Parser::SourceHandler::pgTAP,DWHEELER,f
 TAP::Parser::Utils,ANDYA,f

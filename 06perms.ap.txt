@@ -521,6 +521,7 @@ App::Prove::Dist::Command::scan,INGY,f
 App::Prove::Dist::Command::test,INGY,f
 App::Prove::Dist::Command::wipe,INGY,f
 App::Prove::Dist::common_options,INGY,f
+App::Prove::Plugin::Distributed,LSF,f
 App::Prove::Plugin::HTML,SPURKIS,f
 App::Prove::Plugin::Idempotent,SCHWIGON,f
 App::Prove::Plugin::SetEnv,ILMARI,f
