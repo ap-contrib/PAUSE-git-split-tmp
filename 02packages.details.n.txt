@@ -538,8 +538,6 @@ Object::Simple::OldUtil           undef  K/KI/KIMOTO/Object-Simple-3.0101.tar.gz
 Object::Simple::Util              undef  K/KI/KIMOTO/Object-Simple-3.0501.tar.gz
 Object::SpaceBackStr               0.01  S/SH/SHARYANTO/Object-SpaceBackStr-0.01.tar.gz
 Object::Stash                     0.005  T/TO/TOBYINK/Object-Stash-0.005.tar.gz
-Object::Store                      0.01  J/JH/JHIVER/Object-Store-0.01.tar.gz
-Object::Store::Disk               undef  J/JH/JHIVER/Object-Store-0.01.tar.gz
 Object::Tap                       0.001  T/TO/TOBYINK/Object-Tap-0.001.tar.gz
 Object::Tiny                       1.08  A/AD/ADAMK/Object-Tiny-1.08.tar.gz
 Object::Tiny::Lvalue               1.07  A/AR/ARISTOTLE/Object-Tiny-Lvalue-1.07.tar.gz
