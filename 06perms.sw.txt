@@ -698,6 +698,7 @@ Scaffold::Handler::Robots,KESTEB,f
 Scaffold::Handler::Static,KESTEB,f
 Scaffold::Lockmgr,KESTEB,f
 Scaffold::Lockmgr::KeyedMutex,KESTEB,f
+Scaffold::Lockmgr::SharedMem,KESTEB,f
 Scaffold::Lockmgr::UnixMutex,KESTEB,f
 Scaffold::Plugins,KESTEB,f
 Scaffold::Render,KESTEB,f
