@@ -604,7 +604,7 @@ Wing::Connection                    0.2  M/MI/MICB/wing-0.9.tar.gz
 Wing::Login                       undef  M/MI/MICB/wing-0.9.tar.gz
 Wing::Shared                      undef  M/MI/MICB/wing-0.9.tar.gz
 Wing::Util                        undef  M/MI/MICB/wing-0.9.tar.gz
-WinMonitor                         0.06  D/DH/DHAVAL/CatalystX-Restarter-GTK-0.06.tar.gz
+WinMonitor                         0.07  D/DH/DHAVAL/CatalystX-Restarter-GTK-0.07.tar.gz
 with                               0.02  V/VP/VPIT/with-0.02.tar.gz
 WithAccessors                  1.110100  M/MA/MARCEL/App-Benchmark-Accessors-1.110100.tar.gz
 WithClassAccessor              1.110100  M/MA/MARCEL/App-Benchmark-Accessors-1.110100.tar.gz
