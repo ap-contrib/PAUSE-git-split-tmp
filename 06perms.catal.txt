@@ -46,7 +46,8 @@ Catalyst::View::HTML::Zoom,CYCLES,f
 Catalyst::View::Haml,GARU,f
 Catalyst::View::Image::Empty,CAGAO,m
 Catalyst::View::Image::Text2Image,GILLMAUS,f
-Catalyst::View::JSON,MIYAGAWA,f
+Catalyst::View::JSON,BOBTFISH,f
+Catalyst::View::JSON,MIYAGAWA,c
 Catalyst::View::JSONRPC,DARKNOS,f
 Catalyst::View::JSONRPC,JLMARTIN,c
 Catalyst::View::JavaScript,PERLER,f
