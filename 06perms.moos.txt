@@ -573,6 +573,8 @@ MooseX::RW::Reader,FREDERICD,f
 MooseX::RW::Reader::File,FREDERICD,f
 MooseX::RW::Writer,FREDERICD,f
 MooseX::RW::Writer::File,FREDERICD,f
+MooseX::Registry,CAGAO,f
+MooseX::Registry::Role,CAGAO,f
 MooseX::RelatedClassRoles,DOY,c
 MooseX::RelatedClassRoles,FLORA,c
 MooseX::RelatedClassRoles,HDP,f
