@@ -327,6 +327,8 @@ Perlito::Ruby::LexicalBlock,FGLOCK,f
 Perlito::Test,FGLOCK,f
 Perlize,PETDANCE,f
 Perlude,MARCC,f
+Perlude::Lazy,MARCC,f
+Perlude::builtins,MARCC,f
 Perlwikipedia,DCOLLINS,f
 Perlwikipedia,LIFEGUARD,c
 Perlwikipedia::Plugin::ImageTester,DCOLLINS,f
