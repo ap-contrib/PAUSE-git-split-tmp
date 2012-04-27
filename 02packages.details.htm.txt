@@ -192,7 +192,7 @@ HTML::SiteTear::Item               1.43  T/TK/TKURITA/HTML-SiteTear-1.44.tar.gz
 HTML::SiteTear::Page               1.43  T/TK/TKURITA/HTML-SiteTear-1.44.tar.gz
 HTML::SiteTear::PageFilter         1.43  T/TK/TKURITA/HTML-SiteTear-1.44.tar.gz
 HTML::SiteTear::Root               1.43  T/TK/TKURITA/HTML-SiteTear-1.44.tar.gz
-HTML::SocialMedia                  0.18  N/NH/NHORNE/HTML-SocialMedia-0.18.tar.gz
+HTML::SocialMedia                  0.19  N/NH/NHORNE/HTML-SocialMedia-0.19.tar.gz
 HTML::Split                        0.04  Z/ZI/ZIGUZAGU/HTML-Split-0.04.tar.gz
 HTML::Split::Pager                undef  Z/ZI/ZIGUZAGU/HTML-Split-0.04.tar.gz
 HTML::Spry::DataSet                0.01  A/AD/ADAMK/HTML-Spry-DataSet-0.01.tar.gz
