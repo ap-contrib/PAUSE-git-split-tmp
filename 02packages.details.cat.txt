@@ -253,7 +253,7 @@ CatalystX::Profile                 0.02  J/JJ/JJNAPIORK/CatalystX-Profile-0.02.t
 CatalystX::Profile::Controller::ControlProfiling 0.02  J/JJ/JJNAPIORK/CatalystX-Profile-0.02.tar.gz
 CatalystX::PSGIApp                 0.01  S/SA/SARGIE/CatalystX-PSGIApp-0.01.tar.gz
 CatalystX::REPL                    0.04  F/FL/FLORA/CatalystX-REPL-0.04.tar.gz
-CatalystX::Restarter::GTK          0.05  D/DH/DHAVAL/CatalystX-Restarter-GTK-0.05.tar.gz
+CatalystX::Restarter::GTK          0.06  D/DH/DHAVAL/CatalystX-Restarter-GTK-0.06.tar.gz
 CatalystX::RoleApplicator         0.005  H/HD/HDP/CatalystX-RoleApplicator-0.005.tar.gz
 CatalystX::RoseIntegrator          0.02  M/MI/MIDNITE/CatalystX-RoseIntegrator-0.02.tar.gz
 CatalystX::RoseIntegrator::Action undef  M/MI/MIDNITE/CatalystX-RoseIntegrator-0.02.tar.gz
