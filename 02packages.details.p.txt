@@ -617,6 +617,14 @@ RandomFileRecursiveOption         undef  B/BI/BIGJ/File-Random-0.10.tar.gz
 RandomFileSimpleDirOption         undef  B/BI/BIGJ/File-Random-0.10.tar.gz
 RandomFileWithUnknownParameters   undef  B/BI/BIGJ/File-Random-0.17.tar.gz
 Randomize                          1.10  B/BH/BHILTON/Randomize-1.10.tar.gz
+RandomJungle::File::DB             0.05  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
+RandomJungle::File::OOB            0.05  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
+RandomJungle::File::RAW            0.03  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
+RandomJungle::File::XML            0.06  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
+RandomJungle::Jungle               0.05  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
+RandomJungle::TestData             0.01  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
+RandomJungle::Tree                 0.04  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
+RandomJungle::Tree::Node           0.02  R/RF/RFREIMUTH/RandomJungle-0.01.tar.gz
 RandomLine                        undef  B/BI/BIGJ/File-Random-0.17.tar.gz
 Range                             undef  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
 Range::Object                      0.93  T/TO/TOKAREV/Range-Object-0.93.tar.gz
