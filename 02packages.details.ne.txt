@@ -733,7 +733,7 @@ Net::Stripe::Subscription         undef  L/LU/LUKEC/Net-Stripe-0.07.tar.gz
 Net::Stripe::Token                undef  L/LU/LUKEC/Net-Stripe-0.07.tar.gz
 Net::Subnet                        1.02  J/JU/JUERD/Net-Subnet-1.02.tar.gz
 Net::Subnet::Count                 1.20  L/LU/LUISMUNOZ/Net-Subnet-Count-1.20.tar.gz
-Net::SugarCRM                   1.14455  N/NI/NITO/Net-SugarCRM-1.14455.tar.gz
+Net::SugarCRM                   1.15262  N/NI/NITO/Net-SugarCRM-1.15262.tar.gz
 Net::SynchroEdit::Service         0.039  K/KA/KALLEWOOF/Net-SynchroEdit-Service-0.039r2.tar.gz
 Net::Syndic8                       0.04  Z/ZA/ZAG/Net-Syndic8-0.04.tar.gz
 Net::Syndic8::Base                undef  Z/ZA/ZAG/Net-Syndic8-0.04.tar.gz
