@@ -494,7 +494,7 @@ POE::Loop::IO_Async               0.004  B/BI/BINGOS/POE-Loop-IO_Async-0.004.tar
 POE::Loop::IO_Poll                1.352  R/RC/RCAPUTO/POE-1.352.tar.gz
 POE::Loop::Kqueue                  0.02  G/GD/GDSL/POE-Loop-Kqueue-0.02.tar.gz
 POE::Loop::PerlSignals            1.352  R/RC/RCAPUTO/POE-1.352.tar.gz
-POE::Loop::Prima                   1.01  K/KA/KARASIK/POE-Loop-Prima-1.01.tar.gz
+POE::Loop::Prima                   1.02  K/KA/KARASIK/POE-Loop-Prima-1.02.tar.gz
 POE::Loop::Select                 1.352  R/RC/RCAPUTO/POE-1.352.tar.gz
 POE::Loop::Tk                     1.304  R/RC/RCAPUTO/POE-Loop-Tk-1.304.tar.gz
 POE::Loop::TkActiveState          1.304  R/RC/RCAPUTO/POE-Loop-Tk-1.304.tar.gz
