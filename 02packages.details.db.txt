@@ -149,6 +149,8 @@ DBIx::Class::Tree::AdjacencyList::Ordered undef  A/AB/ABRAXXA/DBIx-Class-Tree-0.
 DBIx::Class::Tree::CalculateSets   0.04  B/BE/BERLE/DBIx-Class-Tree-CalculateSets-0.04.tar.gz
 DBIx::Class::Tree::Mobius         undef  V/VD/VDG/DBIx-Class-Tree-Mobius-0.212.tar.gz
 DBIx::Class::Tree::NestedSet       0.10  I/IC/ICYDEE/DBIx-Class-Tree-NestedSet-0.10.tar.gz
+DBIx::Class::UnicornLogger     0.001000  F/FR/FREW/DBIx-Class-UnicornLogger-0.001000.tar.gz
+DBIx::Class::UnicornLogger::FromProfile 0.001000  F/FR/FREW/DBIx-Class-UnicornLogger-0.001000.tar.gz
 DBIx::Class::UserStamp             0.11  J/JG/JGOULAH/DBIx-Class-UserStamp-0.11.tar.gz
 DBIx::Class::UTF8Columns          undef  A/AR/ARODLAND/DBIx-Class-0.08196.tar.gz
 DBIx::Class::UUIDColumns        0.02006  A/AB/ABRAXXA/DBIx-Class-UUIDColumns-0.02006.tar.gz

@@ -1811,6 +1811,8 @@ DBIx::Class::UUIDMaker::Win32API::GUID,LSAUNDERS,c
 DBIx::Class::UUIDMaker::Win32API::GUID,MSTROUT,c
 DBIx::Class::UUIDMaker::Win32API::GUID,RIBASUSHI,f
 DBIx::Class::UUIDMaker::Win32API::GUID,RKINYON,c
+DBIx::Class::UnicornLogger,FREW,f
+DBIx::Class::UnicornLogger::FromProfile,FREW,f
 DBIx::Class::UserStamp,JGOULAH,f
 DBIx::Class::Validation,ABRAXXA,c
 DBIx::Class::Validation,APEIRON,c
