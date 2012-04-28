@@ -184,6 +184,7 @@ FormValidator::Simple::Iterator,LYOKATO,f
 FormValidator::Simple::Messages,LYOKATO,f
 FormValidator::Simple::Plugin::CDBI::Unique,LYOKATO,f
 FormValidator::Simple::Plugin::CreditCard,LYOKATO,f
+FormValidator::Simple::Plugin::CustomConstraint,ALEXP,f
 FormValidator::Simple::Plugin::DBIC::Schema::Unique,NEKOKAK,f
 FormValidator::Simple::Plugin::DBIC::Unique,LYOKATO,f
 FormValidator::Simple::Plugin::HTML,KENTARO,f

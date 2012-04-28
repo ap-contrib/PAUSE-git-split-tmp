@@ -269,6 +269,7 @@ FormValidator::Simple::Iterator   undef  L/LY/LYOKATO/FormValidator-Simple-0.29.
 FormValidator::Simple::Messages   undef  L/LY/LYOKATO/FormValidator-Simple-0.29.tar.gz
 FormValidator::Simple::Plugin::CDBI::Unique 0.03  L/LY/LYOKATO/FormValidator-Simple-Plugin-CDBI-Unique-0.03.tar.gz
 FormValidator::Simple::Plugin::CreditCard 0.03  L/LY/LYOKATO/FormValidator-Simple-Plugin-CreditCard-0.03.tar.gz
+FormValidator::Simple::Plugin::CustomConstraint 0.01  A/AL/ALEXP/FormValidator-Simple-Plugin-CustomConstraint-0.01.tar.gz
 FormValidator::Simple::Plugin::DBIC::Schema::Unique 0.02  N/NE/NEKOKAK/FormValidator-Simple-Plugin-DBIC-Schema-Unique-0.02.tar.gz
 FormValidator::Simple::Plugin::DBIC::Unique 0.05  L/LY/LYOKATO/FormValidator-Simple-Plugin-DBIC-Unique-0.05.tar.gz
 FormValidator::Simple::Plugin::HTML 0.01  K/KE/KENTARO/HTML-ValidationRules-0.01.tar.gz
