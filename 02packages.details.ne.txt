@@ -302,7 +302,7 @@ Net::SFTP::Constants              undef  D/DB/DBROBINS/Net-SFTP-0.10.tar.gz
 Net::SFTP::Foreign                 1.71  S/SA/SALVA/Net-SFTP-Foreign-1.71.tar.gz
 Net::SFTP::Foreign::Attributes     0.51  S/SA/SALVA/Net-SFTP-Foreign-0.61.tar.gz
 Net::SFTP::Foreign::Attributes::Compat 0.01  S/SA/SALVA/Net-SFTP-Foreign-1.71.tar.gz
-Net::SFTP::Foreign::Backend::Net_SSH2 0.08  S/SA/SALVA/Net-SFTP-Foreign-Backend-Net_SSH2-0.08.tar.gz
+Net::SFTP::Foreign::Backend::Net_SSH2 0.09  S/SA/SALVA/Net-SFTP-Foreign-Backend-Net_SSH2-0.09.tar.gz
 Net::SFTP::Foreign::Backend::Unix  1.67  S/SA/SALVA/Net-SFTP-Foreign-1.67.tar.gz
 Net::SFTP::Foreign::Backend::Windows 0.01  S/SA/SALVA/Net-SFTP-Foreign-1.57.tar.gz
 Net::SFTP::Foreign::Buffer         1.52  S/SA/SALVA/Net-SFTP-Foreign-1.67.tar.gz
