@@ -485,7 +485,7 @@ Glib::GenPod                       0.03  X/XA/XAOC/Glib-1.242.tar.gz
 Glib::MakeHelper                   0.03  X/XA/XAOC/Glib-1.242.tar.gz
 Glib::Object                      1.242  X/XA/XAOC/Glib-1.242.tar.gz
 Glib::Object::_LazyLoader         1.242  X/XA/XAOC/Glib-1.242.tar.gz
-Glib::Object::Introspection       0.007  X/XA/XAOC/Glib-Object-Introspection-0.007.tar.gz
+Glib::Object::Introspection       0.008  X/XA/XAOC/Glib-Object-Introspection-0.008.tar.gz
 Glib::Object::Property            1.242  X/XA/XAOC/Glib-1.242.tar.gz
 Glib::Object::Property::Readable  1.242  X/XA/XAOC/Glib-1.242.tar.gz
 Glib::Object::Property::ReadWrite 1.242  X/XA/XAOC/Glib-1.242.tar.gz
