@@ -757,6 +757,7 @@ Log::Info                          2.00  F/FL/FLUFFY/Log-Info-2.00.tar.gz
 Log::Info::Fork                   undef  F/FL/FLUFFY/Log-Info-2.00.tar.gz
 Log::Info::GlobHandle             undef  F/FL/FLUFFY/Log-Info-2.00.tar.gz
 Log::Info::SubAppender            undef  F/FL/FLUFFY/Log-Info-2.00.tar.gz
+Log::JSON                         0.001  K/KA/KABLAMO/Log-JSON-0.001.tar.gz
 Log::Lite                          0.04  C/CH/CHENGANG/Log-Lite-0.04.tar.gz
 Log::Localized                     0.05  E/ER/ERWAN/Log-Localized-0.05.tar.gz
 Log::Log4perl                      1.36  M/MS/MSCHILLI/Log-Log4perl-1.36.tar.gz

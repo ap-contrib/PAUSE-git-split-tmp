@@ -1113,8 +1113,8 @@ SRU::Utils                        undef  B/BR/BRICAS/SRU-0.99.tar.gz
 SRU::Utils::XML                   undef  B/BR/BRICAS/SRU-0.99.tar.gz
 SRU::Utils::XMLTest               undef  B/BR/BRICAS/SRU-0.99.tar.gz
 ss                                undef  K/KA/KARASIK/Prima-1.33.tar.gz
-SSH::Batch                        0.028  A/AG/AGENT/SSH-Batch-0.028.tar.gz
-SSH::Batch::ForNodes              0.028  A/AG/AGENT/SSH-Batch-0.028.tar.gz
+SSH::Batch                        0.029  A/AG/AGENT/SSH-Batch-0.029.tar.gz
+SSH::Batch::ForNodes              0.029  A/AG/AGENT/SSH-Batch-0.029.tar.gz
 SSH::Command                       0.07  N/NR/NRG/SSH-Command-0.07.tar.gz
 SSH::RPC::Client                  1.201  R/RI/RIZEN/SSH-RPC-1.201.tar.gz
 SSH::RPC::Result                  1.201  R/RI/RIZEN/SSH-RPC-1.201.tar.gz
