@@ -583,6 +583,7 @@ Archive::Zip::Parser::Entry::DataDescriptor,HAGGAI,f
 Archive::Zip::Parser::Entry::Header,HAGGAI,f
 Archive::Zip::Parser::Entry::LocalFileHeader,HAGGAI,f
 Archive::Zip::Parser::Exception,HAGGAI,f
+Archive::Zip::SimpleZip,PMQS,f
 Archive::Zip::StringMember,ADAMK,c
 Archive::Zip::StringMember,NEDKONZ,f
 Archive::Zip::Tree,ADAMK,f
