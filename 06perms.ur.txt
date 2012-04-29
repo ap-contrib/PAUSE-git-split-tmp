@@ -342,6 +342,7 @@ Unicode::Debug,TOBYINK,f
 Unicode::Decompose,AUDREYT,f
 Unicode::Decompose,JESSE,c
 Unicode::Decompose,NUFFIN,c
+Unicode::Diacritic::Strip,BKB,f
 Unicode::Digits,COWENS,f
 Unicode::EastAsianWidth,AUDREYT,c
 Unicode::EastAsianWidth,AUTRIJUS,m
