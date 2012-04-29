@@ -388,6 +388,8 @@ Class::MOP::Method::Meta,DOY,c
 Class::MOP::Method::Meta,DROLSKY,c
 Class::MOP::Method::Meta,FLORA,c
 Class::MOP::Method::Meta,STEVAN,f
+Class::MOP::Method::Overload,DOY,c
+Class::MOP::Method::Overload,STEVAN,f
 Class::MOP::Method::Wrapped,DOY,c
 Class::MOP::Method::Wrapped,DROLSKY,c
 Class::MOP::Method::Wrapped,FLORA,c

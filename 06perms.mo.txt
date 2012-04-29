@@ -439,6 +439,10 @@ Moose::Autobox::Value,NUFFIN,c
 Moose::Autobox::Value,RJBS,c
 Moose::Autobox::Value,STEVAN,f
 Moose::Class,CTBROWN,f
+Moose::Cookbook::Legacy::Debugging_BaseClassReplacement,DOY,c
+Moose::Cookbook::Legacy::Debugging_BaseClassReplacement,STEVAN,f
+Moose::Cookbook::Meta::Labeled_AttributeMetaclass,DOY,c
+Moose::Cookbook::Meta::Labeled_AttributeMetaclass,STEVAN,f
 Moose::Deprecated,DOY,c
 Moose::Deprecated,DROLSKY,c
 Moose::Deprecated,STEVAN,f
