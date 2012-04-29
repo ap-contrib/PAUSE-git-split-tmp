@@ -307,8 +307,8 @@ CPAN::Version                    5.5001  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Visitor                     0.003  D/DA/DAGOLDEN/CPAN-Visitor-0.003.tar.gz
 CPAN::WAIT                         0.27  U/UL/ULPFR/CPAN-WAIT-0.27-2.tar.gz
 CPAN::Webserver                    0.01  L/LB/LBROCARD/CPAN-Webserver-0.01.tar.gz
-CPAN::WWW::Testers                 0.49  B/BA/BARBIE/CPAN-WWW-Testers-0.49.tar.gz
-CPAN::WWW::Testers::Generator      0.30  B/BA/BARBIE/CPAN-WWW-Testers-Generator-0.30.tar.gz
+CPAN::WWW::Testers                 0.50  B/BA/BARBIE/CPAN-WWW-Testers-0.50.tar.gz
+CPAN::WWW::Testers::Generator      0.31  B/BA/BARBIE/CPAN-WWW-Testers-Generator-0.31.tar.gz
 CPAN::WWW::Testers::Generator::Article 0.30  B/BA/BARBIE/CPAN-WWW-Testers-Generator-0.30.tar.gz
 CPAN::WWW::Testers::Generator::Database 0.30  B/BA/BARBIE/CPAN-WWW-Testers-Generator-0.30.tar.gz
 CPAN::WWW::Top100::Generator       0.10  A/AD/ADAMK/CPAN-WWW-Top100-Generator-0.10.tar.gz
