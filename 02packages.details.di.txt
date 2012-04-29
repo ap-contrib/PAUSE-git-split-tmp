@@ -310,10 +310,10 @@ DocSet::Source::POD               undef  S/ST/STAS/DocSet-0.19.tar.gz
 DocSet::Source::Text              undef  S/ST/STAS/DocSet-0.19.tar.gz
 DocSet::Template::Plugin::NavigateCache undef  S/ST/STAS/DocSet-0.19.tar.gz
 DocSet::Util                      undef  S/ST/STAS/DocSet-0.19.tar.gz
-DOCSIS::ConfigFile                 0.61  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.61.tar.gz
-DOCSIS::ConfigFile::Decode        undef  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.61.tar.gz
-DOCSIS::ConfigFile::Encode        undef  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.61.tar.gz
-DOCSIS::ConfigFile::Syminfo       undef  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.61.tar.gz
+DOCSIS::ConfigFile                 0.62  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.62.tar.gz
+DOCSIS::ConfigFile::Decode        undef  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.62.tar.gz
+DOCSIS::ConfigFile::Encode        undef  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.62.tar.gz
+DOCSIS::ConfigFile::Syminfo       undef  J/JH/JHTHORSEN/DOCSIS-ConfigFile-0.62.tar.gz
 Document::AST                     undef  I/IN/INGY/Document-Tools-0.11.tar.gz
 Document::AST::Tree               undef  I/IN/INGY/Document-Tools-0.11.tar.gz
 Document::Directory               undef  D/DA/DALEAMON/Document-0.03-3.tar.gz
