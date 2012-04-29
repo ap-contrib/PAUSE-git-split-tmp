@@ -72,7 +72,11 @@ Object::KVC::List,TJOHNSON,f
 Object::KVC::Set,TJOHNSON,f
 Object::KVC::String,TJOHNSON,f
 Object::KeyValueCoding,KYLED,f
+Object::KeyValueCoding::Additions,KYLED,f
+Object::KeyValueCoding::Complex,KYLED,f
 Object::KeyValueCoding::Key,KYLED,f
+Object::KeyValueCoding::Role,KYLED,f
+Object::KeyValueCoding::Simple,KYLED,f
 Object::Lazy,STEFFENW,f
 Object::Lazy::Ref,STEFFENW,f
 Object::Lazy::Validate,STEFFENW,f
