@@ -364,7 +364,12 @@ Test::WWW::Selenium                1.33  L/LU/LUKEC/Test-WWW-Selenium-1.33.tar.g
 Test::WWW::Selenium::Catalyst      0.07  B/BO/BOBTFISH/Test-WWW-Selenium-Catalyst-0.07.tar.gz
 Test::WWW::Selenium::CGIApp        0.10  M/MA/MARKSTOS/Test-WWW-Selenium-CGIApp-0.10.tar.gz
 Test::WWW::Selenium::Conversion::IDE 0.5  S/SE/SETITESUK/Test-WWW-Selenium-Conversion-IDE-0.5.tar.gz
-Test::WWW::Selenium::More          0.08  K/KA/KABLAMO/Test-WWW-Selenium-More-0.08.tar.gz
+Test::WWW::Selenium::More          0.09  K/KA/KABLAMO/Test-WWW-Selenium-More-0.09.tar.gz
+Test::WWW::Selenium::More::Manual  0.09  K/KA/KABLAMO/Test-WWW-Selenium-More-0.09.tar.gz
+Test::WWW::Selenium::More::Manual::BestPractices 0.09  K/KA/KABLAMO/Test-WWW-Selenium-More-0.09.tar.gz
+Test::WWW::Selenium::More::Manual::ForTheImpatient 0.09  K/KA/KABLAMO/Test-WWW-Selenium-More-0.09.tar.gz
+Test::WWW::Selenium::More::Manual::InstallingSeleniumServer 0.09  K/KA/KABLAMO/Test-WWW-Selenium-More-0.09.tar.gz
+Test::WWW::Selenium::More::Manual::RunningTests 0.09  K/KA/KABLAMO/Test-WWW-Selenium-More-0.09.tar.gz
 Test::WWW::Selenium::Sencha       0.001  P/PL/PLYTLE/Test-WWW-Selenium-Sencha-0.001.tar.gz
 Test::WWW::Selenium::Sencha::Component undef  P/PL/PLYTLE/Test-WWW-Selenium-Sencha-0.001.tar.gz
 Test::WWW::Simple                  0.33  M/MC/MCMAHON/Test-WWW-Simple-0.33.tar.gz
