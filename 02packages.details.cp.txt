@@ -361,7 +361,7 @@ CPANPLUS::Configure               undef  B/BI/BINGOS/CPANPLUS-0.9128.tar.gz
 CPANPLUS::Configure::Setup        undef  B/BI/BINGOS/CPANPLUS-0.9128.tar.gz
 CPANPLUS::Daemon                   0.02  K/KA/KANE/CPANPLUS-Daemon-0.02.tar.gz
 CPANPLUS::Dist                    undef  B/BI/BINGOS/CPANPLUS-0.9128.tar.gz
-CPANPLUS::Dist::Arch               1.19  J/JU/JUSTER/CPANPLUS-Dist-Arch-1.19.tar.gz
+CPANPLUS::Dist::Arch               1.20  J/JU/JUSTER/CPANPLUS-Dist-Arch-1.20.tar.gz
 CPANPLUS::Dist::Autobundle        undef  B/BI/BINGOS/CPANPLUS-0.9128.tar.gz
 CPANPLUS::Dist::Base              undef  B/BI/BINGOS/CPANPLUS-0.9128.tar.gz
 CPANPLUS::Dist::Build              0.62  B/BI/BINGOS/CPANPLUS-Dist-Build-0.62.tar.gz
