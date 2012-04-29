@@ -568,7 +568,6 @@ Furl::S3::Error                   undef  I/IK/IKEBE/Furl-S3-0.01.tar.gz
 Furl::ZlibStream                  undef  T/TO/TOKUHIROM/Furl-0.38.tar.gz
 FurlX::Coro                        0.01  G/GF/GFUJI/FurlX-Coro-0.01.tar.gz
 FurlX::Coro::HTTP                 undef  G/GF/GFUJI/FurlX-Coro-0.01.tar.gz
-Fuse                               0.15  D/DP/DPATES/Fuse-0.15.tar.gz
 Fuse::Class                        0.02  T/TO/TOSHIFJW/Fuse-Class-0.02.tar.gz
 FUSE::Client                       1.08  I/IA/IAMCAL/FUSE-Client-1.08.tar.gz
 Fuse::DAAP                         0.01  J/JA/JABLKO/Fuse-DAAP-0.01.tar.gz
