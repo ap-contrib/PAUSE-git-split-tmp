@@ -59,7 +59,7 @@ Imager::File::CUR                 undef  T/TO/TONYC/Imager-0.90.tar.gz
 Imager::File::GIF                  0.83  T/TO/TONYC/Imager-File-GIF-0.83.tar.gz
 Imager::File::ICO                  0.03  T/TO/TONYC/Imager-0.90.tar.gz
 Imager::File::JPEG                 0.83  T/TO/TONYC/Imager-File-JPEG-0.83.tar.gz
-Imager::File::PNG                  0.83  T/TO/TONYC/Imager-File-PNG-0.83.tar.gz
+Imager::File::PNG                  0.84  T/TO/TONYC/Imager-File-PNG-0.84.tar.gz
 Imager::File::SGI                  0.03  T/TO/TONYC/Imager-0.90.tar.gz
 Imager::File::TIFF                 0.83  T/TO/TONYC/Imager-File-TIFF-0.83.tar.gz
 Imager::Fill                      1.011  T/TO/TONYC/Imager-0.90.tar.gz
