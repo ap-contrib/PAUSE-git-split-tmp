@@ -400,7 +400,7 @@ IPA::Point                         0.02  K/KA/KARASIK/IPA-1.08.tar.gz
 IPA::Region                       undef  K/KA/KARASIK/IPA-1.08.tar.gz
 IPC::Cache                         0.02  D/DC/DCLINTON/IPC-Cache-0.02.tar.gz
 IPC::Capture                       0.06  D/DO/DOOM/IPC-Capture-0.06.tar.gz
-IPC::Cmd                           0.76  B/BI/BINGOS/IPC-Cmd-0.76.tar.gz
+IPC::Cmd                           0.78  B/BI/BINGOS/IPC-Cmd-0.78.tar.gz
 IPC::Cmd::Cached                   0.01  M/MS/MSCHILLI/IPC-Cmd-Cached-0.01.tar.gz
 IPC::Cmd::System                  undef  K/KA/KANE/IPC-Cmd-0.22.tar.gz
 IPC::Command::Multiplex        0.008001  M/MS/MSTROUT/IPC-Command-Multiplex-0.008001.tar.gz
