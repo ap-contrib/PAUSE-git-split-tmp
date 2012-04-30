@@ -441,7 +441,7 @@ Log::Info,FLUFFY,f
 Log::Info::Fork,FLUFFY,f
 Log::Info::GlobHandle,FLUFFY,f
 Log::Info::SubAppender,FLUFFY,f
-Log::JSON,KABLAMO,f
+Log::JSON,KABLAMO,m
 Log::Lite,CHENGANG,f
 Log::Localized,ERWAN,m
 Log::Log4perl,KGOESS,c

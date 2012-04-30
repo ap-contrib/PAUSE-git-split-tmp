@@ -1891,7 +1891,7 @@ MooseX::Blessed::Reconstruct,SARTAK,c
 MooseX::Blessed::Reconstruct,STEVAN,c
 MooseX::BuildArgs,BLUEFEET,f
 MooseX::BuildArgs::Role,BLUEFEET,f
-MooseX::CachingProxy,KABLAMO,f
+MooseX::CachingProxy,KABLAMO,m
 MooseX::Callbacks,REVMISCHA,f
 MooseX::CascadeClearing,RSRCHBOY,f
 MooseX::CascadeClearing::Role::Meta::Attribute,RSRCHBOY,f
