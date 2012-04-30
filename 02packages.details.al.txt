@@ -173,7 +173,7 @@ Alien::GSL                       0.0305  J/JB/JBERGER/Alien-GSL-0.0305.tar.gz
 Alien::GvaScript                   1.22  D/DA/DAMI/Alien-GvaScript-1.22.tar.gz
 Alien::Iconv                    1.12001  D/DM/DMAKI/Alien-Iconv-1.12001.tar.gz
 Alien::IE7                        0.9.3  G/GT/GTERMARS/Alien-IE7-0.9.3.tar.gz
-Alien::InteractiveBrokers        9.6601  I/IN/INFIDEL/Alien-InteractiveBrokers-9.6601.tar.gz
+Alien::InteractiveBrokers        9.6602  I/IN/INFIDEL/Alien-InteractiveBrokers-9.6602.tar.gz
 Alien::IUP                        0.305  K/KM/KMX/Alien-IUP-0.305.tar.gz
 Alien::Judy                        0.26  J/JJ/JJORE/Alien-Judy-0.27.tar.gz
 Alien::LibANN                   0.01000  N/NE/NEIKON/Alien-LibANN-0.01000.tar.gz
