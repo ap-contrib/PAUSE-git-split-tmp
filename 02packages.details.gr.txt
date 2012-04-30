@@ -67,6 +67,7 @@ Graph::Maker::Star                 0.01  B/BA/BATZ/Graph-Maker-0.02.zip
 Graph::Maker::Uniform              0.01  B/BA/BATZ/Graph-Maker-0.02.zip
 Graph::Maker::Utils                0.02  B/BA/BATZ/Graph-Maker-0.02.zip
 Graph::Maker::Wheel                0.01  B/BA/BATZ/Graph-Maker-0.02.zip
+Graph::Matching                    0.02  J/JO/JORISVR/Graph-Matching-0.02.tar.gz
 Graph::Matrix                     undef  J/JH/JHI/Graph-0.94.tar.gz
 Graph::MaxFlow                     0.03  W/WA/WALTMAN/Graph-MaxFlow-0.03.tar.gz
 Graph::ModularDecomposition        0.13  A/AZ/AZS/graph/Graph-ModularDecomposition-0.13.tar.gz
