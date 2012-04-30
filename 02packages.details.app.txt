@@ -160,7 +160,7 @@ App::Exceptions                   13304  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App::FastishCGI                   0.002  I/IO/IOANR/App-FastishCGI-0.002.tar.gz
 App::FatPacker                 0.009006  D/DG/DGL/App-FatPacker-0.009006.tar.gz
 App::FatPacker::Trace             undef  D/DG/DGL/App-FatPacker-0.009006.tar.gz
-App::File::Grepper                 0.02  J/JV/JV/App-File-Grepper-0.02.tar.gz
+App::File::Grepper                 0.03  J/JV/JV/App-File-Grepper-0.03.tar.gz
 App::FileSummoner                 0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::CreateFile     0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
 App::FileSummoner::Register       0.005  M/MA/MAIO/App-FileSummoner-0.005.tar.gz
