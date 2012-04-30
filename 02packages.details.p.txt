@@ -586,6 +586,7 @@ RADIUS::Dictionary                  1.0  C/CH/CHRMASTO/RADIUS-1.0.tar.gz
 RADIUS::Packet                      1.0  C/CH/CHRMASTO/RADIUS-1.0.tar.gz
 RADIUS::Parser                     1.00  A/AA/AAMEND/RADIUS-Parser-1.0.tar.gz
 RADIUS::UserFile                   1.01  O/OE/OEVANS/RADIUS-UserFile-1.01.tar.gz
+RADIUS::XMLParser                  1.00  A/AA/AAMEND/RADIUS-XMLParser-1.0.tar.gz
 Railsish                           0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
 Railsish::Bootstrap                0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
 Railsish::Controller               0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
