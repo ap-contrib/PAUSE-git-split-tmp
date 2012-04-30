@@ -125,9 +125,9 @@ IMAP::Admin                    1.006007  E/EE/EESTABROO/IMAP-Admin-1.6.7.tar.gz
 IMAP::BodyStructure                1.01  K/KA/KAPPA/IMAP-BodyStructure-1.01.tar.gz
 IMAP::Client                       0.13  C/CO/CONTEB/IMAP-Client-0.13.tar.gz
 IMAPGet                           undef  U/UG/UGEN/IMAPGet-0.1.tar.gz
-IMDB::BaseClass                    0.51  S/ST/STEPANOV/IMDB-Film-0.51.tar.gz
-IMDB::Film                         0.51  S/ST/STEPANOV/IMDB-Film-0.51.tar.gz
-IMDB::Persons                      0.51  S/ST/STEPANOV/IMDB-Film-0.51.tar.gz
+IMDB::BaseClass                    0.52  S/ST/STEPANOV/IMDB-Film-0.52.tar.gz
+IMDB::Film                         0.52  S/ST/STEPANOV/IMDB-Film-0.52.tar.gz
+IMDB::Persons                      0.52  S/ST/STEPANOV/IMDB-Film-0.52.tar.gz
 implementor                       undef  S/SA/SARTAK/Template-Declare-0.41.tar.gz
 import                             1.01  M/MI/MIKEKING/import-1_01.tgz
 Import                             2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
