@@ -504,6 +504,7 @@ File::Checkm,JAK,f
 File::Checksum,KNORR,f
 File::Class,IVANWILLS,f
 File::CleanupTask,DARKSMO,f
+File::CleanupTask,KAORU,c
 File::Cmp,JNH,f
 File::Coda,MEYERING,f
 File::CodeSearch,IVANWILLS,f
