@@ -556,7 +556,7 @@ List::AllUtils                     0.03  D/DR/DROLSKY/List-AllUtils-0.03.tar.gz
 List::Analyse::Sequence            0.01  A/AL/ALTREUS/List-Analyse-Sequence-0.01.tar.gz
 List::Analyse::Sequence::Analyser::OL::Numbered undef  A/AL/ALTREUS/List-Analyse-Sequence-0.01.tar.gz
 List::Analyse::Sequence::Analyser::OL::RomanNumerals 0.01  A/AL/ALTREUS/List-Analyse-Sequence-Analyser-OL-RomanNumerals-0.01.tar.gz
-List::BinarySearch                 0.03  D/DA/DAVIDO/List-BinarySearch-0.03.tar.gz
+List::BinarySearch                 0.04  D/DA/DAVIDO/List-BinarySearch-0.04.tar.gz
 List::Bisect                      0.002  N/NO/NOTBENH/List-Bisect-0.002.tar.gz
 List::Categorize                   0.03  W/WN/WNODOM/List-Categorize-0.03.tar.gz
 List::Combination                  1.00  C/CO/COOPERCL/List-Combination-1.00.pm.gz
