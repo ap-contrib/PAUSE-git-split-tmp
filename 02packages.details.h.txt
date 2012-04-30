@@ -440,7 +440,7 @@ Image::Delivery::Provider          0.14  A/AD/ADAMK/Image-Delivery-0.14.tar.gz
 Image::Delivery::Provider::File    0.14  A/AD/ADAMK/Image-Delivery-0.14.tar.gz
 Image::Delivery::Provider::IOHandle 0.14  A/AD/ADAMK/Image-Delivery-0.14.tar.gz
 Image::Delivery::Provider::Scalar  0.14  A/AD/ADAMK/Image-Delivery-0.14.tar.gz
-Image::Density::TIFF                0.2  G/GR/GREGOR/Image-Density-0.2.tar.gz
+Image::Density::TIFF                0.3  G/GR/GREGOR/Image-Density-0.3.tar.gz
 Image::Dot                          1.1  R/RG/RGIERSIG/Image-Dot-1.1.tar.gz
 Image::DS9                        0.182  D/DJ/DJERIUS/Image-DS9-0.182.tar.gz
 Image::DS9::Command               undef  D/DJ/DJERIUS/Image-DS9-0.182.tar.gz
