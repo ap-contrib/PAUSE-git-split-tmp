@@ -87,6 +87,17 @@ No::OCRData,KJETILK,c
 No::PersonNr,GAAS,m
 No::Sort,GAAS,m
 No::Telenor,GAAS,m
+No::Worries,LCONS,f
+No::Worries::Date,LCONS,f
+No::Worries::Die,LCONS,f
+No::Worries::Dir,LCONS,f
+No::Worries::File,LCONS,f
+No::Worries::Log,LCONS,f
+No::Worries::Log::Filter,LCONS,f
+No::Worries::PidFile,LCONS,f
+No::Worries::Proc,LCONS,f
+No::Worries::Syslog,LCONS,f
+No::Worries::Warn,LCONS,f
 NoInlineAccessor,SCHWIGON,f
 NoSuchGI_,JONJ,c
 NoSuchGI_,KMACLEOD,f
