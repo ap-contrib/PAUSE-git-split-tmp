@@ -313,6 +313,9 @@ Symphero::Templates,AMALTSEV,f
 Symphero::UsersDB,AMALTSEV,f
 Symphero::Utils,AMALTSEV,f
 Symphero::Web,AMALTSEV,f
+Synapse::CLI::Config,JHIVER,f
+Synapse::CLI::Config::Object,JHIVER,f
+Synapse::CLI::Config::Type,JHIVER,f
 Synapse::MailSender,JHIVER,f
 SyncAbook,DLEIGH,f
 SyncSort,MAGO,m
