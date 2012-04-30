@@ -611,6 +611,7 @@ R::YapRI::Graph::Simple,BOMBARELY,f
 R::YapRI::Interpreter::Perl,BOMBARELY,f
 RADIUS::Dictionary,CHRMASTO,m
 RADIUS::Packet,CHRMASTO,m
+RADIUS::Parser,AAMEND,f
 RADIUS::UserFile,OEVANS,m
 RAPNAP::client,DAVIDNICO,f
 RAS::AS5200,STIGMATA,m
