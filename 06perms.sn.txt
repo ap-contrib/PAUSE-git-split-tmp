@@ -897,6 +897,7 @@ SQL::Eval::Table,JZUCKER,c
 SQL::Eval::Table,REHSACK,f
 SQL::Extended,DARNOLD,m
 SQL::Filter,DAVINCHI,c
+SQL::Format,XAICRON,f
 SQL::Generator,MUENALAN,m
 SQL::Generator::Argument,MUENALAN,f
 SQL::Generator::Command,MUENALAN,f
