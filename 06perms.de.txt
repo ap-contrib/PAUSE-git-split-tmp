@@ -1647,6 +1647,7 @@ Dist::Zilla::PluginBundle::MITHALDU::Templates,MITHALDU,f
 Dist::Zilla::PluginBundle::MSCHOUT,MSCHOUT,f
 Dist::Zilla::PluginBundle::Mercurial,DROLSKY,f
 Dist::Zilla::PluginBundle::NIGELM,NIGELM,f
+Dist::Zilla::PluginBundle::NRR,NRR,f
 Dist::Zilla::PluginBundle::NUFFIN,DOY,c
 Dist::Zilla::PluginBundle::NUFFIN,NUFFIN,f
 Dist::Zilla::PluginBundle::OLIVER,OLIVER,f
