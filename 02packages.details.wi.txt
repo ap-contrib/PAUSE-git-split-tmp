@@ -282,8 +282,8 @@ Win32::MMF                         0.09  R/RO/ROGER/Win32-MMF-0.09e.zip
 Win32::MMF::Shareable              0.05  R/RO/ROGER/Win32-MMF-0.09e.zip
 Win32::Mock                        0.05  S/SA/SAPER/Win32-Mock-0.05.tar.gz
 Win32::Monitoring::DLLInject       0.06  R/RP/RPLESSL/Win32-Monitoring-DLLInject-0.06.tar.gz
-Win32::Monitoring::Session         0.02  R/RP/RPLESSL/Win32-Monitoring-Session-0.02.tar.gz
-Win32::Monitoring::WindowPing      0.04  R/RP/RPLESSL/Win32-Monitoring-WindowPing-0.04.tar.gz
+Win32::Monitoring::Session         0.04  R/RP/RPLESSL/Win32-Monitoring-Session-0.04.tar.gz
+Win32::Monitoring::WindowPing      0.07  R/RP/RPLESSL/Win32-Monitoring-WindowPing-0.07.tar.gz
 Win32::MprApi                      0.02  L/LM/LMASARA/Win32-MprApi-0.02.tar.gz
 Win32::MSAgent                     0.07  J/JO/JOUKE/Win32-MSAgent-0.07.tar.gz
 Win32::MSI::DB                     1.06  P/PM/PMAREK/Win32/MSI/Win32-MSI-DB-1.06.tar.gz
