@@ -197,6 +197,7 @@ Alien::SeleniumRC                  2.91  H/HI/HISSO/Alien-SeleniumRC-2.91.tar.gz
 Alien::SmokeQt                 4.006000  C/CB/CBUREL/Alien-SmokeQt-4.6.0.4.tar.gz
 Alien::SVN                     v1.7.3.1  M/MS/MSCHWERN/Alien-SVN-v1.7.3.1.tar.gz
 Alien::Tidyp                     v1.4.7  K/KM/KMX/Alien-Tidyp-v1.4.7.tar.gz
+Alien::unibilium                   0.01  P/PE/PEVANS/Alien-unibilium-0.01.tar.gz
 Alien::V8                          0.03  R/RC/RCHIBOIS/Alien-V8-0.03.tar.gz
 Alien::VideoLAN::LibVLC            0.04  A/AS/ASOKOLOV/Alien-VideoLAN-LibVLC-0.04.tar.gz
 Alien::Win32::LZMA                 4.66  A/AD/ADAMK/Alien-Win32-LZMA-4.66.tar.gz
