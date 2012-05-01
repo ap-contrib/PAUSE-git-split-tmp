@@ -139,7 +139,6 @@ Kwiki::HtmlBlocks                  0.11  I/IN/INGY/Kwiki-HtmlBlocks-0.11.tar.gz
 Kwiki::HtmlBlocks::Wafl            0.11  I/IN/INGY/Kwiki-HtmlBlocks-0.11.tar.gz
 Kwiki::Hub                        undef  I/IN/INGY/Kwiki-0.39.tar.gz
 Kwiki::Icons                      undef  I/IN/INGY/Kwiki-0.39.tar.gz
-Kwiki::Icons::Crystal              0.12  M/MH/MHOWARD/Kwiki-Icons-Crystal-0.12.tar.gz
 Kwiki::Icons::Gnome                0.15  I/IA/IAN/Kwiki-Icons-Gnome-0.15.tar.gz
 Kwiki::Image                       0.01  D/DM/DMABE/Kwiki-Image-0.01.tar.gz
 Kwiki::Image::Wafl                 0.01  D/DM/DMABE/Kwiki-Image-0.01.tar.gz
