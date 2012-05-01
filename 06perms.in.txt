@@ -42,6 +42,8 @@ Intuit::QuickBase,CVONROES,f
 InventoryItem,AWWAIID,f
 Ioctl,JPRIT,m
 Ioctl,KJALB,c
+Iodef::Pb,SAXJAZMAN,f
+Iodef::_Pb,SAXJAZMAN,f
 Ipernity::API,WNEESSEN,f
 Ipernity::API::Request,WNEESSEN,f
 Ipmitool,MANJUNATH,m
