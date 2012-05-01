@@ -483,7 +483,7 @@ App::Prove::Dist::Command::scan    0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Dist::Command::test    0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Dist::Command::wipe    0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Dist::common_options   0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
-App::Prove::Plugin::Distributed    0.03  L/LS/LSF/App-Prove-Plugin-Distributed-0.03.tar.gz
+App::Prove::Plugin::Distributed    0.04  L/LS/LSF/App-Prove-Plugin-Distributed-0.04.tar.gz
 App::Prove::Plugin::HTML           0.09  S/SP/SPURKIS/TAP-Formatter-HTML-0.09.tar.gz
 App::Prove::Plugin::Idempotent     0.01  S/SC/SCHWIGON/idempotent/App-Prove-Plugin-Idempotent-0.01.tar.gz
 App::Prove::Plugin::SetEnv        0.001  I/IL/ILMARI/App-Prove-Plugin-SetEnv-0.001.tar.gz
