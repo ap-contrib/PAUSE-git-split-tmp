@@ -43,6 +43,10 @@ InventoryItem,AWWAIID,f
 Ioctl,JPRIT,m
 Ioctl,KJALB,c
 Iodef::Pb,SAXJAZMAN,f
+Iodef::Pb::Format,SAXJAZMAN,f
+Iodef::Pb::Format::Csv,SAXJAZMAN,f
+Iodef::Pb::Format::Snort,SAXJAZMAN,f
+Iodef::Pb::Format::Table,SAXJAZMAN,f
 Iodef::Pb::Simple,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::AdditionalData,SAXJAZMAN,f
