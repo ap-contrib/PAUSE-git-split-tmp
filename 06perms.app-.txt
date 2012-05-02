@@ -245,6 +245,7 @@ App::iTan::Command::list,MAROS,f
 App::iTan::Command::reset,MAROS,f
 App::iTan::Utils,MAROS,f
 App::iosdiff,OLIVER,f
+App::livehttperf,AJGB,f
 App::lntree,ROKR,f
 App::local::lib::Win32Helper,CSJEWELL,f
 App::local::lib::helper,JJNAPIORK,f
