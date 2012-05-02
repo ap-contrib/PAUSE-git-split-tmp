@@ -232,6 +232,7 @@ String::LCSS,DYACOB,f
 String::LCSS_XS,LIMAONE,f
 String::LRC,WHOELSE,f
 String::Lookup,ELIZABETH,f
+String::Lookup::AsyncDBI,ELIZABETH,f
 String::Lookup::DBI,ELIZABETH,f
 String::Lookup::FlatFile,ELIZABETH,f
 String::Lookup::PurePerl,ELIZABETH,f
