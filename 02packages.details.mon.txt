@@ -268,6 +268,7 @@ Moose::Meta::Attribute::Custom::Trait::StormArray undef  J/JH/JHALLOCK/Storm-0.1
 Moose::Meta::Attribute::Custom::Trait::TAEB::GoodStatus undef  S/SA/SARTAK/TAEB-0.03.tar.gz
 Moose::Meta::Attribute::Custom::Trait::TAEB::Persistent undef  S/SA/SARTAK/TAEB-0.03.tar.gz
 Moose::Meta::Attribute::Custom::Trait::TreeInherit 0.04  C/CJ/CJM/MooseX-AttributeTree-0.04.tar.gz
+Moose::Meta::Attribute::Custom::Trait::TypeConstraint::CustomizeFatal 0.01  A/AV/AVAR/MooseX-Attribute-TypeConstraint-CustomizeFatal-0.01.tar.gz
 Moose::Meta::Attribute::Custom::Trait::XML 0.15  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Moose::Meta::Attribute::Custom::Trait::XmlField 0.34  M/ME/MERIXZON/WWW-Google-Contacts-0.34.tar.gz
 Moose::Meta::Attribute::Custom::Trait::XPathObject 0.001001  R/RO/ROBINS/XML-Rabbit-0.1.1.tar.gz
@@ -514,6 +515,7 @@ MooseX::Attribute::Prototype::Collection 0.10  C/CT/CTBROWN/MooseX-Attribute-Pro
 MooseX::Attribute::Prototype::Meta 0.10  C/CT/CTBROWN/MooseX-Attribute-Prototype-0.10.tar.gz
 MooseX::Attribute::Prototype::Meta::Attribute::Trait::Prototype undef  C/CT/CTBROWN/MooseX-Attribute-Prototype-0.10.tar.gz
 MooseX::Attribute::Prototype::Object 0.10  C/CT/CTBROWN/MooseX-Attribute-Prototype-0.10.tar.gz
+MooseX::Attribute::TypeConstraint::CustomizeFatal 0.01  A/AV/AVAR/MooseX-Attribute-TypeConstraint-CustomizeFatal-0.01.tar.gz
 MooseX::Attribute::ValidateWithException v0.2.1  K/KE/KENTNL/MooseX-Attribute-ValidateWithException-0.2.1.tar.gz
 MooseX::Attribute::ValidateWithException::AttributeRole v0.2.1  K/KE/KENTNL/MooseX-Attribute-ValidateWithException-0.2.1.tar.gz
 MooseX::Attribute::ValidateWithException::Exception v0.2.1  K/KE/KENTNL/MooseX-Attribute-ValidateWithException-0.2.1.tar.gz
