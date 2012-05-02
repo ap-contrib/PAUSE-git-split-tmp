@@ -407,6 +407,7 @@ App::Info::RDBMS::PostgreSQL       0.57  D/DW/DWHEELER/App-Info-0.57.tar.gz
 App::Info::RDBMS::SQLite           0.57  D/DW/DWHEELER/App-Info-0.57.tar.gz
 App::Info::Request                 0.57  D/DW/DWHEELER/App-Info-0.57.tar.gz
 App::Info::Util                    0.57  D/DW/DWHEELER/App-Info-0.57.tar.gz
+App::Inotify::Hookable             0.01  A/AV/AVAR/App-Inotify-Hookable-0.01.tar.gz
 App::Install                       0.03  S/SK/SKUD/App-Install-0.03.tar.gz
 App::Iops                         0.006  J/JJ/JJORE/App-Iops-0.006.tar.gz
 App::iosdiff                   1.112160  O/OL/OLIVER/App-iosdiff-1.112160.tar.gz

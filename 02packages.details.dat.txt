@@ -330,7 +330,7 @@ Data::ShowTable                   undef  A/AK/AKSTE/Data-ShowTable-3.3.tar.gz
 Data::SimplePaginator               0.5  J/JB/JBUHACOFF/Data-SimplePaginator-0.5.tar.gz
 Data::SimplePassword               0.07  R/RY/RYOCHIN/Data-SimplePassword/Data-SimplePassword-0.07.tar.gz
 Data::SingletonManager             1.00  B/BR/BRADFITZ/Data-SingletonManager-1.00.tar.gz
-Data::Skeleton                     0.01  M/MA/MATEU/Data-Skeleton-0.01.tar.gz
+Data::Skeleton                     0.02  M/MA/MATEU/Data-Skeleton-0.02.tar.gz
 Data::SmartMunge               1.101612  M/MA/MARCEL/Data-SmartMunge-1.101612.tar.gz
 Data::Sofu                          0.3  M/MA/MALUKU/sofu/Sofu-0.3.tar.gz
 Data::Sofu::Binary                  0.3  M/MA/MALUKU/sofu/Sofu-0.3.tar.gz
