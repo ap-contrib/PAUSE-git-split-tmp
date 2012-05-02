@@ -344,6 +344,8 @@ CHI::Driver::Role::SizeAware,JSWARTZ,f
 CHI::Driver::Role::Universal,JSWARTZ,f
 CHI::Driver::TokyoTyrant,JIRA,f
 CHI::Driver::Wrapper,JSWARTZ,f
+CHI::Memoize,JSWARTZ,f
+CHI::Memoize::Info,JSWARTZ,f
 CHI::NullLogger,JSWARTZ,f
 CHI::Serializer::JSON,JSWARTZ,f
 CHI::Serializer::Storable,JSWARTZ,f
