@@ -1275,8 +1275,11 @@ Panotools::Script::Line::Variable,BPOSTLE,f
 Pantry,DAGOLDEN,f
 Pantry::App,DAGOLDEN,f
 Pantry::App::Command,DAGOLDEN,f
+Pantry::App::Command::apply,DAGOLDEN,f
 Pantry::App::Command::create,DAGOLDEN,f
 Pantry::App::Command::edit,DAGOLDEN,f
 Pantry::App::Command::init,DAGOLDEN,f
+Pantry::App::Command::list,DAGOLDEN,f
+Pantry::App::Command::show,DAGOLDEN,f
+Pantry::App::Command::strip,DAGOLDEN,f
 Pantry::App::Command::sync,DAGOLDEN,f
-Paper::Specs,JONALLEN,m
