@@ -207,7 +207,7 @@ Ubic::Service::Plack               1.14  M/MM/MMCLERIC/Ubic-Service-Plack-1.14.t
 Ubic::Service::PSGI                1.14  M/MM/MMCLERIC/Ubic-Service-Plack-1.14.tar.gz
 Ubic::Service::SimpleDaemon        1.38  M/MM/MMCLERIC/Ubic-1.38.tar.gz
 Ubic::Service::Skeleton            1.38  M/MM/MMCLERIC/Ubic-1.38.tar.gz
-Ubic::Service::Starman            0.002  W/WW/WWOLF/Ubic-Service-Starman-0.002.tar.gz
+Ubic::Service::Starman            0.003  W/WW/WWOLF/Ubic-Service-Starman-0.003.tar.gz
 Ubic::Service::Utils               1.38  M/MM/MMCLERIC/Ubic-1.38.tar.gz
 Ubic::Service::ZooKeeper           0.02  T/TA/TADAM/Ubic-Service-ZooKeeper-0.02.tar.gz
 Ubic::ServiceLoader                1.38  M/MM/MMCLERIC/Ubic-1.38.tar.gz
