@@ -381,7 +381,7 @@ MySAX_Breadcrumbs                  0.21  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.21
 MySAX_Image                        0.21  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.21.tar.gz
 MySAX_Scaled                       0.21  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.21.tar.gz
 MySaxHandler                       0.01  A/AL/ALDICKEY/XML-DocStats-0.01.tar.gz
-MyScript                          undef  A/AW/AWNCORP/Command-Do-0.04.tar.gz
+MyScript                          undef  A/AW/AWNCORP/Command-Do-0.07.tar.gz
 MyServer::HelloWorld::HelloWorldSoap undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyServer::TestService::TestPort   undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyService                         undef  C/CL/CLAESJAC/JSON-RPC-Simple-0.05.tar.gz
