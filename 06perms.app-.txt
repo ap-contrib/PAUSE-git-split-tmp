@@ -232,6 +232,7 @@ App::gh::Logger,CORNELIUS,f
 App::gh::Utils,CORNELIUS,f
 App::gist,ALEXBIO,f
 App::gitfancy,GYPARK,f
+App::githook_perltidy,MLAWREN,f
 App::grindperl,DAGOLDEN,f
 App::highlight,KAORU,f
 App::htmlcat,MOTEMEN,f
