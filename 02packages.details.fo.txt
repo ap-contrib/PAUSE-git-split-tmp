@@ -500,8 +500,8 @@ Fry::View::CLI                    undef  B/BO/BOZO/Fry-Shell-0.15.tar.gz
 fs                                undef  K/KA/KARASIK/Prima-1.33.tar.gz
 FSA::Engine                        0.01  I/IC/ICYDEE/FSA-Engine-0.01.tar.gz
 FSA::Engine::Transition           undef  I/IC/ICYDEE/FSA-Engine-0.01.tar.gz
-FSA::Rules                         0.30  D/DW/DWHEELER/FSA-Rules-0.30.tar.gz
-FSA::State                            0  D/DW/DWHEELER/FSA-Rules-0.30.tar.gz
+FSA::Rules                         0.31  D/DW/DWHEELER/FSA-Rules-0.31.tar.gz
+FSA::State                            0  D/DW/DWHEELER/FSA-Rules-0.31.tar.gz
 FServer                           undef  J/JP/JPDURRIOS/FServer.tar.gz
 FSpot::DbTools::Paths               0.2  R/RC/RCL/FSpot-DbTool-0.02.tar.gz
 FSpot::DbTools::Tags                0.2  R/RC/RCL/FSpot-DbTool-0.02.tar.gz
