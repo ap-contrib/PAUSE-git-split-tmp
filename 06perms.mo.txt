@@ -675,6 +675,7 @@ Moose::Meta::Attribute::Custom::Trait::StormArray,JHALLOCK,f
 Moose::Meta::Attribute::Custom::Trait::TAEB::GoodStatus,SARTAK,f
 Moose::Meta::Attribute::Custom::Trait::TAEB::Persistent,SARTAK,f
 Moose::Meta::Attribute::Custom::Trait::TreeInherit,CJM,f
+Moose::Meta::Attribute::Custom::Trait::TypeConstraint::CustomizeFatal,AVAR,f
 Moose::Meta::Attribute::Custom::Trait::XML,PERIGRIN,f
 Moose::Meta::Attribute::Custom::Trait::XPathObject,ROBINS,f
 Moose::Meta::Attribute::Custom::Trait::XPathObjectList,ROBINS,f
@@ -1570,6 +1571,7 @@ MooseX::Attribute::Prototype::Meta::Attribute::Trait::Prototype,CTBROWN,f
 MooseX::Attribute::Prototype::Object,CTBROWN,f
 MooseX::Attribute::Prototypes,CTBROWN,f
 MooseX::Attribute::Role,CTBROWN,f
+MooseX::Attribute::TypeConstraint::CustomizeFatal,AVAR,f
 MooseX::Attribute::ValidateWithException,KENTNL,f
 MooseX::Attribute::ValidateWithException::AttributeRole,KENTNL,f
 MooseX::Attribute::ValidateWithException::Exception,KENTNL,f
