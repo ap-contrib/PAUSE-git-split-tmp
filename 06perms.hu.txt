@@ -30,6 +30,7 @@ Hub::Webapp::Session,RYANGIES,f
 Human,MUENALAN,f
 Human::Group,MUENALAN,f
 Human::Role,MUENALAN,f
+Hypatia,JACKMANEY,m
 Hyper,ACID,m
 Hyper::Application,ACID,f
 Hyper::Application::Default,ACID,f
