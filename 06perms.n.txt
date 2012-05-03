@@ -498,6 +498,7 @@ Number::Tolerant::Type::plus_or_minus,RJBS,f
 Number::Tolerant::Type::plus_or_minus_pct,RJBS,f
 Number::Tolerant::Type::to,RJBS,f
 Number::Tolerant::Union,RJBS,f
+Number::UN,TANTALOR,f
 Number::Uncertainty,AALLAN,f
 Number::WithError,SMUELLER,m
 Number::WithError::LaTeX,SMUELLER,m

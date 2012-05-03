@@ -352,6 +352,7 @@ Number::Tolerant::Type::plus_or_minus 1.700  R/RJ/RJBS/Number-Tolerant-1.700.tar
 Number::Tolerant::Type::plus_or_minus_pct 1.700  R/RJ/RJBS/Number-Tolerant-1.700.tar.gz
 Number::Tolerant::Type::to        1.700  R/RJ/RJBS/Number-Tolerant-1.700.tar.gz
 Number::Tolerant::Union           1.701  R/RJ/RJBS/Number-Tolerant-1.701.tar.gz
+Number::UN                        undef  T/TA/TANTALOR/Number-UN-0.001.tar.gz
 Number::Uncertainty                 1.4  A/AA/AALLAN/Number-Uncertainty-0.1.tar.gz
 Number::WithError                  1.01  S/SM/SMUELLER/Number-WithError-1.01.tar.gz
 Number::WithError::LaTeX           0.06  S/SM/SMUELLER/Number-WithError-LaTeX-0.06.tar.gz
