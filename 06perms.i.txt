@@ -216,6 +216,7 @@ Import,PERRAD,f
 Import::Admin,ANDY,f
 Import::Client,ANDY,f
 Import::Datasource,ANDY,f
+Import::Into,MSTROUT,f
 ImportAllFoos,PFISCHER,f
 ImportTest,DCONWAY,f
 InSilicoSpectro,ALEXMASS,f
