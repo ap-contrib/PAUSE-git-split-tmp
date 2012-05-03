@@ -122,6 +122,8 @@ Finance::Bank::Fubon::TW::Account  0.01  A/AU/AUTRIJUS/Finance-Bank-Fubon-TW-0.0
 Finance::Bank::Halifax::Sharedealing 0.03  R/RA/RAYNERLUC/Finance-Bank-Halifax-Sharedealing/Finance-Bank-Halifax-Sharedealing-0.03.tar.gz
 Finance::Bank::HDFC            0.014000  R/RO/ROHAN/Finance-Bank-HDFC-v0.14.0.tar.gz
 Finance::Bank::HSBC                1.03  C/CH/CHRIS/Finance-Bank-HSBC-1.03.tar.gz
+Finance::Bank::ID::Base            0.25  S/SH/SHARYANTO/Finance-Bank-ID-BCA-0.25.tar.gz
+Finance::Bank::ID::BCA             0.25  S/SH/SHARYANTO/Finance-Bank-ID-BCA-0.25.tar.gz
 Finance::Bank::ID::Mandiri         0.22  S/SH/SHARYANTO/Finance-Bank-ID-Mandiri-0.22.tar.gz
 Finance::Bank::IE                 undef  W/WA/WAIDER/Finance-Bank-IE-0.26.tar.gz
 Finance::Bank::IE::BankOfIreland   0.24  W/WA/WAIDER/Finance-Bank-IE-0.26.tar.gz
@@ -182,6 +184,7 @@ Finance::Bank::Wachovia::DataObtainer::WWW 0.2  J/JG/JGARVIN/Finance-Bank-Wachov
 Finance::Bank::Wachovia::DataObtainer::WWW::Parser 0.2  J/JG/JGARVIN/Finance-Bank-Wachovia-0.3.tar.gz
 Finance::Bank::Wachovia::ErrorHandler 0.1  J/JG/JGARVIN/Finance-Bank-Wachovia-0.3.tar.gz
 Finance::Bank::Wachovia::Transaction 0.3  J/JG/JGARVIN/Finance-Bank-Wachovia-0.3.tar.gz
+Finance::BankUtils::ID::Mechanize  0.25  S/SH/SHARYANTO/Finance-Bank-ID-BCA-0.25.tar.gz
 Finance::BankVal::International::GetABA 0.04  U/UN/UNIFIEDSW/Finance-BankVal-International-GetABA-0.4.tar.gz
 Finance::BankVal::International::GetSWIFT 0.04  U/UN/UNIFIEDSW/Finance-BankVal-International-GetSWIFT-0.4.tar.gz
 Finance::BankVal::International::IBANValidate 0.05  U/UN/UNIFIEDSW/Finance-BankVal-International-IBANValidate-0.5.tar.gz
