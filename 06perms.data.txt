@@ -1087,6 +1087,7 @@ Data::Presenter::SampleHair,JKEENAN,f
 Data::Presenter::SampleMedinsure,JKEENAN,f
 Data::Presenter::SampleSchedule,JKEENAN,f
 Data::PrettyPrintObjects,SBECK,f
+Data::PrintUtils,RHAXTON,f
 Data::Printer,GARU,f
 Data::Printer::Filter,GARU,f
 Data::Printer::Filter::DB,GARU,f

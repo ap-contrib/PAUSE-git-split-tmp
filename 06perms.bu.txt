@@ -476,6 +476,7 @@ Business::CyberSource::Request::FollowOnCredit,XENO,f
 Business::CyberSource::Request::Sale,XENO,f
 Business::CyberSource::Request::StandAloneCredit,XENO,f
 Business::CyberSource::Response,XENO,f
+Business::CyberSource::ResponseFactory,XENO,f
 Business::DE::Konto,JANW,c
 Business::DE::Konto,TINITA,f
 Business::DE::KontoCheck,MICHEL,c
