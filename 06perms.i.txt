@@ -544,7 +544,7 @@ Interpolation::base,JENDA,f
 Interpolation::general,JENDA,f
 Interpolation::internal,JENDA,f
 Interval,KTORP,f
-IntervalNode,BENBOOTH,f
+IntervalNode,BENBOOTH,c
 IntervalTree,BENBOOTH,f
 IntervalTree::Interval,BENBOOTH,f
 IntervalTree::Node,BENBOOTH,f
