@@ -967,7 +967,7 @@ HTTP::Body::UrlEncoded             1.15  G/GE/GETTY/HTTP-Body-1.15.tar.gz
 HTTP::Body::XForms                 1.15  G/GE/GETTY/HTTP-Body-1.15.tar.gz
 HTTP::Body::XFormsMultipart        1.15  G/GE/GETTY/HTTP-Body-1.15.tar.gz
 HTTP::Browscap                     0.01  J/JA/JAMESPO/HTTP-Browscap-0.01.tar.gz
-HTTP::BrowserDetect                1.42  O/OA/OALDERS/HTTP-BrowserDetect-1.42.tar.gz
+HTTP::BrowserDetect                1.43  O/OA/OALDERS/HTTP-BrowserDetect-1.43.tar.gz
 HTTP::Cache::Transparent            1.0  M/MA/MATTIASH/HTTP-Cache-Transparent-1.0.tar.gz
 HTTP::CheckProxy                    0.4  D/DH/DHUDES/HTTP-CheckProxy-0.4.tar.gz
 HTTP::Client                       1.52  N/NE/NEILB/HTTP-Client-1.52.tar.gz
