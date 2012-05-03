@@ -308,6 +308,7 @@ IPC::SysV::SemDS,JACKS,f
 IPC::SysV::SemDSArray,JACKS,f
 IPC::SysV::ShmDS,JACKS,f
 IPC::System::Simple,PJF,f
+IPC::Transit,DIEDERICH,f
 IPC::UDPmsg,RLAUGHLIN,f
 IPC::UPDmsg,RLAUGHLIN,m
 IPC::UdpMsg,RLAUGHLIN,f

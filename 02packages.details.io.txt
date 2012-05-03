@@ -565,6 +565,7 @@ IPC::SysV::MsgDS                  undef  J/JA/JACKS/IPC_SysV.tar.gz
 IPC::SysV::SemDS                  undef  J/JA/JACKS/IPC_SysV.tar.gz
 IPC::SysV::SemDSArray             undef  J/JA/JACKS/IPC_SysV.tar.gz
 IPC::SysV::ShmDS                  undef  J/JA/JACKS/IPC_SysV.tar.gz
+IPC::Transit                        0.1  D/DI/DIEDERICH/IPC-Transit-0.1.tar.gz
 IPC::UdpMsg                       undef  R/RL/RLAUGHLIN/UDPmsg-0.10.tar.gz
 IPC::UDPmsg                       undef  R/RL/RLAUGHLIN/UDPmsg-0.11.tar.gz
 IPC::XPA                           0.10  D/DJ/DJERIUS/IPC-XPA-0.10.tar.gz
