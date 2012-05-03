@@ -462,6 +462,7 @@ Business::CreditCard,JONO,c
 Business::CreditCard,WREIS,c
 Business::CreditCard::Object,TMTM,f
 Business::CyberSource,XENO,f
+Business::CyberSource::Client,XENO,f
 Business::CyberSource::Report,AUBERTG,m
 Business::CyberSource::Report::PaymentEvents,AUBERTG,f
 Business::CyberSource::Report::SingleTransaction,AUBERTG,f
