@@ -317,6 +317,9 @@ Synapse::CLI::Config,JHIVER,f
 Synapse::CLI::Config::Object,JHIVER,f
 Synapse::CLI::Config::Type,JHIVER,f
 Synapse::MailSender,JHIVER,f
+Synapse::Monitor::Listener,JHIVER,f
+Synapse::Monitor::Listener::Action,JHIVER,f
+Synapse::Monitor::Listener::State,JHIVER,f
 SyncAbook,DLEIGH,f
 SyncSort,MAGO,m
 Syndicate::Channel,DRRHO,f

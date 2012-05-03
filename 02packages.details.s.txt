@@ -448,6 +448,9 @@ Synapse::CLI::Config                0.1  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.
 Synapse::CLI::Config::Object      undef  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.gz
 Synapse::CLI::Config::Type        undef  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.gz
 Synapse::MailSender                 1.3  J/JH/JHIVER/Synapse-MailSender-1.3.tar.gz
+Synapse::Monitor::Listener          0.1  J/JH/JHIVER/Synapse-Monitor-Listener-0.1.tar.gz
+Synapse::Monitor::Listener::Action undef  J/JH/JHIVER/Synapse-Monitor-Listener-0.1.tar.gz
+Synapse::Monitor::Listener::State undef  J/JH/JHIVER/Synapse-Monitor-Listener-0.1.tar.gz
 SyncAbook                         undef  D/DL/DLEIGH/AddressBook-0.16.tar.gz
 Syndication::ESF                   0.13  B/BR/BRICAS/Syndication-ESF-0.13.tar.gz
 Syndication::NewsML                0.10  B/BQ/BQUINN/Syndication-NewsML-0.10.tar.gz
