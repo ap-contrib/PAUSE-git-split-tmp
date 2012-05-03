@@ -31,10 +31,10 @@ Authen::CAS::UserAgent              0.9  D/DF/DFRETT/Authen-CAS-UserAgent-0.9.ta
 Authen::Challenge::Basic            0.1  L/LU/LUISMUNOZ/Authen-Challenge-Basic-0.1.tar.gz
 Authen::Class::HtAuth              0.02  R/RY/RYANM/Authen-Class-HtAuth-0.02.tar.gz
 Authen::Class::HtAuth::Base        0.02  R/RY/RYANM/Authen-Class-HtAuth-0.02.tar.gz
-Authen::Credential                  0.5  L/LC/LCONS/Authen-Credential-0.5.tar.gz
-Authen::Credential::none            0.5  L/LC/LCONS/Authen-Credential-0.5.tar.gz
-Authen::Credential::plain           0.5  L/LC/LCONS/Authen-Credential-0.5.tar.gz
-Authen::Credential::x509            0.5  L/LC/LCONS/Authen-Credential-0.5.tar.gz
+Authen::Credential                  0.6  L/LC/LCONS/Authen-Credential-0.6.tar.gz
+Authen::Credential::none            0.6  L/LC/LCONS/Authen-Credential-0.6.tar.gz
+Authen::Credential::plain           0.6  L/LC/LCONS/Authen-Credential-0.6.tar.gz
+Authen::Credential::x509            0.6  L/LC/LCONS/Authen-Credential-0.6.tar.gz
 Authen::CyrusSASL                  0.01  M/MA/MAKLER/Authen-CyrusSASL-0.01.tar.gz
 Authen::DecHpwd                   2.006  Z/ZE/ZEFRAM/Authen-DecHpwd-2.006.tar.gz
 Authen::DigestMD5                  0.04  S/SA/SALVA/Authen-DigestMD5-0.04.tar.gz
