@@ -544,6 +544,8 @@ Interpolation::base,JENDA,f
 Interpolation::general,JENDA,f
 Interpolation::internal,JENDA,f
 Interval,KTORP,f
+IntervalNode,BENBOOTH,f
+IntervalTree,BENBOOTH,f
 Introspector,MDUPONT,f
 Introspector::BaseType,MDUPONT,f
 Introspector::CodeFormatter,MDUPONT,f
