@@ -268,7 +268,6 @@ Net::Server::Mail::ESMTP::Extension 0.14  G/GU/GUIMARD/Net-Server-Mail-0.17.tar.
 Net::Server::Mail::ESMTP::HELP     0.01  D/DA/DANMOORE/Net-Server-Mail-ESMTP-HELP-0.01.tar.gz
 Net::Server::Mail::ESMTP::PIPELINING 0.13  G/GU/GUIMARD/Net-Server-Mail-0.17.tar.gz
 Net::Server::Mail::ESMTP::SIZE     0.02  J/JL/JLMARTIN/Net-Server-Mail-ESMTP-SIZE-0.02.tar.gz
-Net::Server::Mail::ESMTP::SIZEpatched 0.02  C/CA/CAVAC/Net-Server-Mail-ESMTP-SIZEpatched-0.02.tar.gz
 Net::Server::Mail::ESMTP::STARTTLS 0.02  D/DA/DANMOORE/Net-Server-Mail-ESMTP-STARTTLS-0.02.tar.gz
 Net::Server::Mail::ESMTP::XFORWARD 0.05  G/GU/GUIMARD/Net-Server-Mail-0.17.tar.gz
 Net::Server::Mail::LMTP            0.16  G/GU/GUIMARD/Net-Server-Mail-0.17.tar.gz
