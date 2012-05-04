@@ -567,6 +567,8 @@ Log::Message::Structured,GHENRY,c
 Log::Message::Structured,JJNAPIORK,c
 Log::Message::Structured,MSTROUT,c
 Log::Message::Structured,RIBASUSHI,c
+Log::Message::Structured::Component::AttributesFilter,BOBTFISH,f
+Log::Message::Structured::Component::AttributesFilter,DAMS,c
 Log::Message::Structured::Component::Date,BOBTFISH,f
 Log::Message::Structured::Component::Date,DAMS,c
 Log::Message::Structured::Component::Date,JJNAPIORK,c
