@@ -1329,7 +1329,7 @@ WebService::Cache::AbstractCacheManager undef  H/HA/HAOSAN/WebService-Class-0.03
 WebService::Cache::FileCacheManager undef  H/HA/HAOSAN/WebService-Class-0.03.tar.gz
 WebService::Cache::MemcachedCacheManager undef  H/HA/HAOSAN/WebService-Class-0.03.tar.gz
 WebService::CaptchasDotNet         0.06  G/GE/GEOFF/WebService-CaptchasDotNet-0.06.tar.gz
-WebService::Careerjet              0.12  J/JE/JETEVE/WebService-Careerjet-0.12.tar.gz
+WebService::Careerjet              0.13  T/TB/TBUSCH/WebService-Careerjet-0.13.tar.gz
 WebService::Cath::FuncNet          0.11  I/IS/ISILLITOE/WebService-Cath-FuncNet-0.11.tar.gz
 WebService::Cath::FuncNet::Logable undef  I/IS/ISILLITOE/WebService-Cath-FuncNet-0.11.tar.gz
 WebService::Cath::FuncNet::Logger undef  I/IS/ISILLITOE/WebService-Cath-FuncNet-0.11.tar.gz
