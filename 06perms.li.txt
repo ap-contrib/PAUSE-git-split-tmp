@@ -1091,6 +1091,7 @@ Locale::Maketext::TieHash::quant,STEFFENW,f
 Locale::Maketext::Utils,DMUEY,m
 Locale::Maketext::Utils::Mock,DMUEY,f
 Locale::Maketext::Utils::Mock::en,DMUEY,f
+Locale::Maketext::Utils::Phrase,DMUEY,f
 Locale::Maketext::Utils::Phrase::Core,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm,DMUEY,f
 Locale::Maketext::Utils::Phrase::Norm::Ampersand,DMUEY,f
