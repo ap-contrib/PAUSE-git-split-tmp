@@ -457,6 +457,7 @@ Device::RFXCOM::Response::Thermostat,BEANZ,f
 Device::RFXCOM::Response::X10,BEANZ,f
 Device::RFXCOM::TX,BEANZ,f
 Device::Regulator::Plasmatronic,SCOTT,f
+Device::Router::RTX,BKB,f
 Device::SCSI,MOOLI,f
 Device::SCSI::CDROM,MOOLI,f
 Device::SCSI::linux,MOOLI,f
