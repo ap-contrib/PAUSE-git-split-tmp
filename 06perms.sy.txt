@@ -1194,6 +1194,7 @@ TAP::Harness,OVID,c
 TAP::Harness::Archive,WONKO,f
 TAP::Harness::Archive::MultipleHarnesses,JKEENAN,f
 TAP::Harness::Async,TEAM,f
+TAP::Harness::ClusterMaster,BRUMMETT,f
 TAP::Harness::Color,ANDYA,f
 TAP::Harness::Color,OVID,c
 TAP::Harness::Compatible,ANDYA,f
@@ -1216,6 +1217,7 @@ TAP::Parser::Iterator,OVID,c
 TAP::Parser::Iterator::ARRAY,ANDYA,f
 TAP::Parser::Iterator::ARRAY,OVID,c
 TAP::Parser::Iterator::Array,ANDYA,f
+TAP::Parser::Iterator::ClusterSlave,BRUMMETT,f
 TAP::Parser::Iterator::FH,ANDYA,f
 TAP::Parser::Iterator::FH,OVID,c
 TAP::Parser::Iterator::Process,ANDYA,f
@@ -1227,6 +1229,7 @@ TAP::Parser::Iterator::Worker::PBS,LSF,f
 TAP::Parser::Iterator::Worker::SSH,LSF,f
 TAP::Parser::IteratorFactory,ANDYA,f
 TAP::Parser::Multiplexer,ANDYA,f
+TAP::Parser::Multiplexer::ClusterSockets,BRUMMETT,f
 TAP::Parser::Result,ANDYA,f
 TAP::Parser::Result,OVID,c
 TAP::Parser::Result::Bailout,ANDYA,f
