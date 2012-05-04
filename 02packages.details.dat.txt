@@ -112,7 +112,7 @@ Data::ResourceSet::Adaptor        undef  D/DM/DMAKI/Data-ResourceSet-0.00003.tar
 Data::ResultSet                   1.001  D/DO/DONEILL/Data-ResultSet-1.001.tar.gz
 Data::ResultsHelper                1.04  E/EA/EARL/Data-ResultsHelper-1.04.tar.gz
 Data::ResultsHelper::HTML         undef  E/EA/EARL/Data-ResultsHelper-1.04.tar.gz
-Data::Reuse                        0.08  E/EL/ELIZABETH/Data-Reuse-0.08.tar.gz
+Data::Reuse                        0.09  E/EL/ELIZABETH/Data-Reuse-0.09.tar.gz
 Data::Rlist                        1.44  A/AS/ASPINDLER/Data-Rlist-1.44.tar.gz
 Data::Rmap                         0.62  B/BO/BOWMANBS/Data-Rmap-0.62.tar.gz
 Data::RoundRobin                   0.03  G/GU/GUGOD/Data-RoundRobin-0.03.tar.gz
