@@ -1162,6 +1162,7 @@ Catalyst::Plugin::Compress::Gzip,RIBASUSHI,c
 Catalyst::Plugin::Compress::Gzip,SRI,c
 Catalyst::Plugin::Compress::Gzip,SSCAFFIDI,c
 Catalyst::Plugin::Compress::Gzip,WSHELDAHL,c
+Catalyst::Plugin::Compress::WithExclusions,JCLEMENTS,f
 Catalyst::Plugin::Compress::Zlib,AGRUNDMA,c
 Catalyst::Plugin::Compress::Zlib,APEIRON,c
 Catalyst::Plugin::Compress::Zlib,ARCANEZ,c

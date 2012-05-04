@@ -196,6 +196,7 @@ Catalyst::Plugin::Compress        0.005  X/XI/XINMING/Catalyst-Plugin-Compress-0
 Catalyst::Plugin::Compress::Bzip2  0.01  B/BO/BOBTFISH/Catalyst-Plugin-Compress-Bzip2-0.05.tar.gz
 Catalyst::Plugin::Compress::Deflate undef  M/MS/MSTROUT/Catalyst-Plugin-Compress-Zlib-0.06.tar.gz
 Catalyst::Plugin::Compress::Gzip  undef  M/MS/MSTROUT/Catalyst-Plugin-Compress-Zlib-0.06.tar.gz
+Catalyst::Plugin::Compress::WithExclusions 0.01  J/JC/JCLEMENTS/Catalyst-Plugin-Compress-WithExclusions-0.01.tar.gz
 Catalyst::Plugin::Compress::Zlib   0.06  M/MS/MSTROUT/Catalyst-Plugin-Compress-Zlib-0.06.tar.gz
 Catalyst::Plugin::Config::JSON     0.03  S/SA/SAMV/Catalyst-Plugin-Config-JSON-0.03.tar.gz
 Catalyst::Plugin::Config::Multi    0.02  T/TO/TOMYHERO/Catalyst-Plugin-Config-Multi-0.02.tar.gz
