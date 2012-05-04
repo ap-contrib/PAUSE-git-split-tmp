@@ -262,7 +262,7 @@ CatalystX::Routes                  0.02  D/DR/DROLSKY/CatalystX-Routes-0.02.tar.
 CatalystX::Routes::Role::Class     0.01  D/DR/DROLSKY/CatalystX-Routes-0.01.tar.gz
 CatalystX::Routes::Role::Controller 0.01  D/DR/DROLSKY/CatalystX-Routes-0.01.tar.gz
 CatalystX::Script::FCGI::Engine   0.003  B/BO/BOBTFISH/CatalystX-Script-FCGI-Engine-0.003.tar.gz
-CatalystX::Script::Server::Starman 0.01  B/BO/BOBTFISH/CatalystX-Script-Server-Starman-0.01.tar.gz
+CatalystX::Script::Server::Starman 0.02  A/AB/ABRAXXA/CatalystX-Script-Server-Starman-0.02.tar.gz
 CatalystX::self                    0.01  J/JM/JMMILLS/CatalystX-self-0.01.tar.gz
 CatalystX::SimpleAPI               0.04  W/WR/WREIS/CatalystX-SimpleAPI-0.04.tar.gz
 CatalystX::SimpleLogin             0.15  B/BO/BOBTFISH/CatalystX-SimpleLogin-0.15.tar.gz
