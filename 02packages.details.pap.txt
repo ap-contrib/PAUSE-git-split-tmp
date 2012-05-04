@@ -395,7 +395,7 @@ PAR::WebStart::Util                0.19  I/IS/ISHIGAKI/PAR-WebStart-0.20.tar.gz
 ParaDNS                             2.0  M/MS/MSERGEANT/ParaDNS-2.0.tar.gz
 ParaDNS::Resolver                 undef  M/MS/MSERGEANT/ParaDNS-2.0.tar.gz
 ParaDNS::Resolver::Query          undef  M/MS/MSERGEANT/ParaDNS-2.0.tar.gz
-Parallel::Benchmark                0.01  F/FU/FUJIWARA/Parallel-Benchmark-0.01.tar.gz
+Parallel::Benchmark                0.02  F/FU/FUJIWARA/Parallel-Benchmark-0.02.tar.gz
 Parallel::Depend               4.000008  L/LE/LEMBARK/Parallel-Depend-v4.10.1.tar.gz
 Parallel::Depend::Queue        1.002000  L/LE/LEMBARK/Parallel-Depend-v4.10.1.tar.gz
 Parallel::Depend::Util             1.02  L/LE/LEMBARK/Parallel-Depend-v4.10.1.tar.gz
