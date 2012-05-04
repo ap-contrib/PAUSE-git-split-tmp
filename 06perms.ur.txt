@@ -89,6 +89,8 @@ URI::urn::isbn,GAAS,f
 URI::urn::oid,GAAS,f
 URI::urn::uuid,MIYAGAWA,f
 URI::virtual,RPAUL,m
+URI::wsman_Owbem,SHURD,f
+URI::wsman_Owbems,SHURD,f
 URIC,LDACHARY,f
 URICc,LDACHARY,f
 URL::Check,ALEXMASS,f
