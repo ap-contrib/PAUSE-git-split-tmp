@@ -403,6 +403,7 @@ Config::XPath::ConfigNotFoundException,PEVANS,f
 Config::XPath::Exception,PEVANS,f
 Config::XPath::NoDefaultConfigException,PEVANS,f
 Config::XPath::Reloadable,PEVANS,f
+Config::YAARG,ALUCAS,m
 Config::YAML::Modern,MEETTYA,f
 Config::YAML::Tiny,TIMA,f
 Config::YAMLMacros,MUIR,f
