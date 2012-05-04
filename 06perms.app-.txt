@@ -1121,6 +1121,7 @@ Astro::Catalog::USNOA2::Query,LUCARIZZI,c
 Astro::Constants,DUFFEE,m
 Astro::Coord,CPHIL,m
 Astro::Coord::ECI,WYANT,f
+Astro::Coord::ECI::Mixin,WYANT,f
 Astro::Coord::ECI::Moon,WYANT,f
 Astro::Coord::ECI::Star,WYANT,f
 Astro::Coord::ECI::Sun,WYANT,f
