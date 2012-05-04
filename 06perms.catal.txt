@@ -608,6 +608,7 @@ CatalystX::Script::FCGI::Engine,GHENRY,c
 CatalystX::Script::FCGI::Engine,JJNAPIORK,c
 CatalystX::Script::FCGI::Engine,MSTROUT,c
 CatalystX::Script::FCGI::Engine,RIBASUSHI,c
+CatalystX::Script::Server::Starman,ABRAXXA,c
 CatalystX::Script::Server::Starman,BOBTFISH,f
 CatalystX::Script::Server::Starman,DAMS,c
 CatalystX::Script::Server::Starman,DLAMBLEY,c

@@ -227,8 +227,8 @@ IO::Simple                         0.04  E/ER/ERICJH/IO-Simple-0.04.tar.gz
 IO::Sockatmark                     1.00  L/LD/LDS/IO-Sockatmark-1.00.tar.gz
 IO::Socket                         1.31  G/GB/GBARR/IO-1.25.tar.gz
 IO::Socket::ByteCounter        0.000002  D/DM/DMUEY/IO-Socket-ByteCounter-v0.0.2.tar.gz
-IO::Socket::DNS                   0.019  B/BB/BBB/IO-Socket-DNS-0.019.tar.gz
-IO::Socket::DNS::Server           0.019  B/BB/BBB/IO-Socket-DNS-0.019.tar.gz
+IO::Socket::DNS                   0.020  B/BB/BBB/IO-Socket-DNS-0.020.tar.gz
+IO::Socket::DNS::Server           0.020  B/BB/BBB/IO-Socket-DNS-0.020.tar.gz
 IO::Socket::Forwarder              0.02  S/SA/SALVA/IO-Socket-Forwarder-0.02.tar.gz
 IO::Socket::INET                   1.31  G/GB/GBARR/IO-1.25.tar.gz
 IO::Socket::INET6                  2.69  S/SH/SHLOMIF/IO-Socket-INET6-2.69.tar.gz
