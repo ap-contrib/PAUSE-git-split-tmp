@@ -385,7 +385,7 @@ Catalyst::Plugin::Spark::Form  0.01000001  K/KE/KENTNL/Catalyst-Plugin-Spark-For
 Catalyst::Plugin::SpecialAction::Trail 0.01  M/ME/MENDEL/Catalyst-Plugin-SpecialAction-Trail-0.01.tar.gz
 Catalyst::Plugin::StackTrace       0.11  M/MS/MSTROUT/Catalyst-Plugin-StackTrace-0.11.tar.gz
 Catalyst::Plugin::Static           0.11  B/BO/BOBTFISH/Catalyst-Plugin-Static-0.11.tar.gz
-Catalyst::Plugin::Static::Simple   0.29  M/MS/MSTROUT/Catalyst-Plugin-Static-Simple-0.29.tar.gz
+Catalyst::Plugin::Static::Simple   0.30  A/AB/ABRAXXA/Catalyst-Plugin-Static-Simple-0.30.tar.gz
 Catalyst::Plugin::Static::Simple::ByClass 0.004  K/KA/KARMAN/Catalyst-Plugin-Static-Simple-ByClass-0.004.tar.gz
 Catalyst::Plugin::Static::TT      0.002  H/HD/HDP/Catalyst-Plugin-Static-TT-0.002.tar.gz
 Catalyst::Plugin::StatusMessage 0.003000  H/HK/HKCLARK/Catalyst-Plugin-StatusMessage-0.003000.tar.gz
