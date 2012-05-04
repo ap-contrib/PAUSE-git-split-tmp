@@ -105,8 +105,10 @@ App::Modular,BCEVC,m
 App::Modular::Module,BCEVC,f
 App::Module::Lister,BDFOY,f
 App::Module::Locate,CELOGEEK,f
+App::Monupco::OpenShift,ATODOROV,f
 App::Monupco::OpenShift::Express,ATODOROV,f
 App::Monupco::OpenShift::Express::Parser,ATODOROV,f
+App::Monupco::OpenShift::Parser,ATODOROV,f
 App::Monupco::dotCloud,ATODOROV,f
 App::Monupco::dotCloud::Parser,ATODOROV,f
 App::Mowyw,MORITZ,f
