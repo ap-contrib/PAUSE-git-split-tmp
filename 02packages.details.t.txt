@@ -729,7 +729,7 @@ Tripletail::Validator::FilterFactory undef  H/HI/HIO/Tripletail-0.49.tar.gz
 Tripletail::Value                 undef  H/HI/HIO/Tripletail-0.49.tar.gz
 TRTS::Config::Perl::V              0.16  B/BI/BINGOS/Test-Reporter-Transport-Socket-0.16.tar.gz
 true                               0.18  C/CH/CHOCOLATE/true-0.18.tar.gz
-True::Truth                         0.2  N/NO/NORBU/True-Truth-0.2.tar.gz
+True::Truth                         0.3  N/NO/NORBU/True-Truth-0.3.tar.gz
 true::VERSION                      0.18  C/CH/CHOCOLATE/true-0.18.tar.gz
 Trustee                           0.002  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 Try::Tiny                          0.11  D/DO/DOY/Try-Tiny-0.11.tar.gz
