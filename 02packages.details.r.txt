@@ -504,7 +504,7 @@ Scene::Graph::Traverser           undef  G/GP/GPHAT/Scene-Graph-0.01.tar.gz
 SCGI                                0.6  V/VI/VIPERCODE/SCGI-0.6.tar.gz
 SCGI::Request                     undef  V/VI/VIPERCODE/SCGI-0.6.tar.gz
 Schedule::AdaptiveThrottler        0.05  D/DM/DMOR/Schedule-AdaptiveThrottler-0.05.tar.gz
-Schedule::At                       1.14  J/JO/JOSERODR/Schedule-At-1.14.tar.gz
+Schedule::At                       1.15  J/JO/JOSERODR/Schedule-At-1.15.tar.gz
 Schedule::ByClock                  1.01  S/SC/SCHAFFTER/ByClock-1.01.tar.gz
 Schedule::Chronic                 undef  V/VI/VIPUL/Chronic-0.30.tar.gz
 Schedule::Chronic::Base           undef  V/VI/VIPUL/Chronic-0.30.tar.gz
