@@ -30,6 +30,7 @@ Devel::TraceSubs,PARTICLE,f
 Devel::TraceUse,BOOK,c
 Devel::TraceUse,CHROMATIC,f
 Devel::TraceVars,POTYL,f
+Devel::TrackGlobalScalar,SMUELLER,f
 Devel::TrackObjects,SULLR,m
 Devel::TrackSIG,SMUELLER,f
 Devel::Trampoline,LEMBARK,m

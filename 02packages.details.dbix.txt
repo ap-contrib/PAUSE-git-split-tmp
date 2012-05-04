@@ -1258,5 +1258,6 @@ Devel::TraceSAX::DB               undef  R/RB/RBS/Devel-TraceSAX-0.021.tar.gz
 Devel::TraceSubs                   0.02  P/PA/PARTICLE/Devel-TraceSubs-0.02.zip
 Devel::TraceUse                    2.06  B/BO/BOOK/Devel-TraceUse-2.06.tar.gz
 Devel::TraceVars                   0.03  P/PO/POTYL/Devel-TraceVars-0.03.tar.gz
+Devel::TrackGlobalScalar           0.01  S/SM/SMUELLER/Devel-TrackSIG-0.02.tar.gz
 Devel::TrackObjects                 0.5  S/SU/SULLR/Devel-TrackObjects-0.5.tar.gz
-Devel::TrackSIG                    0.01  S/SM/SMUELLER/Devel-TrackSIG-0.01.tar.gz
+Devel::TrackSIG                    0.02  S/SM/SMUELLER/Devel-TrackSIG-0.02.tar.gz
