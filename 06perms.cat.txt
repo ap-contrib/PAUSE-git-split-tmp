@@ -876,8 +876,9 @@ Catalyst::Plugin::Static,RIBASUSHI,c
 Catalyst::Plugin::Static,SRI,c
 Catalyst::Plugin::Static,SSCAFFIDI,c
 Catalyst::Plugin::Static,WSHELDAHL,c
-Catalyst::Plugin::Static::Simple,AGRUNDMA,m
-Catalyst::Plugin::Static::Simple,BOBTFISH,c
+Catalyst::Plugin::Static::Simple,ABRAXXA,c
+Catalyst::Plugin::Static::Simple,AGRUNDMA,c
+Catalyst::Plugin::Static::Simple,BOBTFISH,m
 Catalyst::Plugin::Static::Simple,BRICAS,c
 Catalyst::Plugin::Static::Simple,FLORA,c
 Catalyst::Plugin::Static::Simple,MRAMBERG,c
