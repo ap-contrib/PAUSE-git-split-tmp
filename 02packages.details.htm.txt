@@ -328,9 +328,9 @@ HTML::TagClouder::Render::TT      undef  D/DM/DMAKI/HTML-TagClouder-0.02.tar.gz
 HTML::TagClouder::Tag             undef  D/DM/DMAKI/HTML-TagClouder-0.02.tar.gz
 HTML::TagFilter                    1.03  W/WR/WROSS/HTML-TagFilter-1.03.tar.gz
 HTML::TagHelper                    0.01  M/MA/MAMATUX/HTML-TagHelper-0.01.tar.gz
-HTML::TagParser                    0.16  K/KA/KAWASAKI/HTML-TagParser-0.16.tar.gz
-HTML::TagParser::Element           0.16  K/KA/KAWASAKI/HTML-TagParser-0.16.tar.gz
-HTML::TagParser::Util              0.16  K/KA/KAWASAKI/HTML-TagParser-0.16.tar.gz
+HTML::TagParser                    0.20  K/KA/KAWASAKI/HTML-TagParser-0.20.tar.gz
+HTML::TagParser::Element           0.20  K/KA/KAWASAKI/HTML-TagParser-0.20.tar.gz
+HTML::TagParser::Util              0.20  K/KA/KAWASAKI/HTML-TagParser-0.20.tar.gz
 HTML::TagReader                    1.10  G/GU/GUS/HTML-TagReader-1.10.tar.gz
 HTML::Tags                        undef  M/MS/MSTROUT/Web-Simple-0.014.tar.gz
 HTML::Tagset                       3.20  P/PE/PETDANCE/HTML-Tagset-3.20.tar.gz
