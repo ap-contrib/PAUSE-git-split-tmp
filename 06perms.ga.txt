@@ -39,6 +39,7 @@ Games::Chess::Position,GDR,f
 Games::Chess::Referee,GREGOR,f
 Games::Chess::Rules,GREGOR,f
 Games::Chomp,SZABGAB,f
+Games::Commentator,BKB,f
 Games::ConnectFour,BLAIZER,m
 Games::Construder,ELMEX,f
 Games::Construder::Client,ELMEX,f
