@@ -48,6 +48,7 @@ Tkx::WinIco,SANTERI,f
 Tkx::i,GAAS,f
 Tkx::widget,GAAS,f
 Tkx::widget::_destroy,GAAS,f
+Tlack::Runner,TOKUHIROM,f
 ToBool,PERRAD,f
 ToBoolOp,LTOETSCH,f
 ToBoolOp,PARROTRE,c
