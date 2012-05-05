@@ -123,6 +123,7 @@ Catalyst::Model::Net::Amazon,CFRANKS,f
 Catalyst::Model::NetBlogger,CLACO,f
 Catalyst::Model::Orochi,DMAKI,f
 Catalyst::Model::Oryx,RHUNDT,f
+Catalyst::Model::PayPal::API,DJZORT,f
 Catalyst::Model::PayPal::IPN,AGRUNDMA,c
 Catalyst::Model::PayPal::IPN,BOBTFISH,c
 Catalyst::Model::PayPal::IPN,BRICAS,c
