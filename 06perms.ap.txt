@@ -199,6 +199,7 @@ App::Nopaste::Command,SARTAK,f
 App::Nopaste::Service,SARTAK,f
 App::Nopaste::Service::AnyPastebin,JMMILLS,f
 App::Nopaste::Service::Codepeek,SARTAK,f
+App::Nopaste::Service::Dancebin,WWOLF,f
 App::Nopaste::Service::Debian,SARTAK,f
 App::Nopaste::Service::Gist,SARTAK,f
 App::Nopaste::Service::Hpaste,DRBEAN,f
