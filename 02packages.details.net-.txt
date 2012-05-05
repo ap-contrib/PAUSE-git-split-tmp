@@ -125,6 +125,11 @@ Net::Drizzle::Connection          undef  T/TO/TOKUHIROM/Net-Drizzle-0.07.tar.gz
 Net::Drizzle::Result              undef  T/TO/TOKUHIROM/Net-Drizzle-0.07.tar.gz
 Net::Dropbox                   1.091510  S/SU/SUNGO/Net-Dropbox-1.091510.tar.gz
 Net::Dropbox::API                   1.8  N/NO/NORBU/Net-Dropbox-API-1.8.tar.gz
+Net::DSLProvider                   0.01  C/CL/CLIFFORDJ/Net-DSLProvider-0.01.tar.gz
+Net::DSLProvider::Cerberus        undef  C/CL/CLIFFORDJ/Net-DSLProvider-0.01.tar.gz
+Net::DSLProvider::Cerberus::soap  undef  C/CL/CLIFFORDJ/Net-DSLProvider-0.01.tar.gz
+Net::DSLProvider::Enta            undef  C/CL/CLIFFORDJ/Net-DSLProvider-0.01.tar.gz
+Net::DSLProvider::Murphx          undef  C/CL/CLIFFORDJ/Net-DSLProvider-0.01.tar.gz
 Net::DSML                         0.003  C/CH/CHARDEN/Net-DSML-0.003.tar.gz
 Net::DSML::Control                0.002  C/CH/CHARDEN/Net-DSML-0.003.tar.gz
 Net::DSML::Filter                 0.002  C/CH/CHARDEN/Net-DSML-0.003.tar.gz
