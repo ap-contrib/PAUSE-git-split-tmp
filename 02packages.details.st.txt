@@ -100,7 +100,7 @@ Sub::Identify                      0.04  R/RG/RGARCIA/Sub-Identify-0.04.tar.gz
 Sub::Import                       1.000  R/RJ/RJBS/Sub-Import-1.000.tar.gz
 Sub::Importer::Scratch         0.092800  R/RJ/RJBS/Sub-Import-0.092800.tar.gz
 Sub::Information                   0.10  O/OV/OVID/Sub-Information-0.10.tar.gz
-Sub::Inspector                     0.01  C/CS/CSIDE/Sub-Inspector-0.01.tar.gz
+Sub::Inspector                     0.02  C/CS/CSIDE/Sub-Inspector-0.02.tar.gz
 Sub::Install                      0.926  R/RJ/RJBS/Sub-Install-0.926.tar.gz
 Sub::Installer                 0.000003  D/DC/DCONWAY/Sub-Installer-v0.0.3.tar.gz
 Sub::Installer::Util           0.000003  D/DC/DCONWAY/Sub-Installer-v0.0.3.tar.gz
