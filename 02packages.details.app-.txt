@@ -488,7 +488,7 @@ App::Prove::Dist::common_options   0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Plugin::Cluster       undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.01.tar.gz
 App::Prove::Plugin::ClusterLSF    undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.01.tar.gz
 App::Prove::Plugin::ClusterSlave  undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.01.tar.gz
-App::Prove::Plugin::Distributed    0.06  L/LS/LSF/App-Prove-Plugin-Distributed-0.06.tar.gz
+App::Prove::Plugin::Distributed    0.07  L/LS/LSF/App-Prove-Plugin-Distributed-0.07.tar.gz
 App::Prove::Plugin::HTML           0.09  S/SP/SPURKIS/TAP-Formatter-HTML-0.09.tar.gz
 App::Prove::Plugin::Idempotent     0.01  S/SC/SCHWIGON/idempotent/App-Prove-Plugin-Idempotent-0.01.tar.gz
 App::Prove::Plugin::SetEnv        0.001  I/IL/ILMARI/App-Prove-Plugin-SetEnv-0.001.tar.gz
