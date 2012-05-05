@@ -493,6 +493,7 @@ Sub::Import,RJBS,f
 Sub::Importer::Scratch,RJBS,f
 Sub::Information,OVID,f
 Sub::Information::_Internal,OVID,c
+Sub::Inspector,CSIDE,f
 Sub::Install,RJBS,f
 Sub::Installer,DCONWAY,f
 Sub::Installer::Util,DCONWAY,f
