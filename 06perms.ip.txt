@@ -365,6 +365,7 @@ IPTables::IPv6,DPATES,f
 IPTables::Log,MEH,m
 IPTables::Log::Set,MEH,f
 IPTables::Log::Set::Record,MEH,f
+IPTables::Mangle,MJFLICK,f
 IPTables::Parse,MRASH,f
 IPTables::libiptc,HAWK,m
 IPsonar,GBUDD,m
