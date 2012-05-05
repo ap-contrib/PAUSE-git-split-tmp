@@ -455,6 +455,15 @@ WWW::UsePerl::Journal::Entry,BARBIE,f
 WWW::UsePerl::Journal::Entry,IDORU,c
 WWW::UsePerl::Journal::Post,BARBIE,f
 WWW::UsePerl::Journal::Thread,BARBIE,f
+WWW::UsePerl::Server,LBROCARD,f
+WWW::UsePerl::Server::Controller::Root,LBROCARD,f
+WWW::UsePerl::Server::Model::DB,LBROCARD,f
+WWW::UsePerl::Server::Schema,LBROCARD,f
+WWW::UsePerl::Server::Schema::Result::Comment,LBROCARD,f
+WWW::UsePerl::Server::Schema::Result::Journal,LBROCARD,f
+WWW::UsePerl::Server::Schema::Result::Story,LBROCARD,f
+WWW::UsePerl::Server::Schema::Result::User,LBROCARD,f
+WWW::UsePerl::Server::View::TT,LBROCARD,f
 WWW::UserAgent::Random,MCANTONI,f
 WWW::Velib,DLAND,f
 WWW::Velib::Map,DLAND,f
