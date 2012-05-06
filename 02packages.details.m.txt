@@ -479,6 +479,7 @@ MyTypes::PhoneNumber              undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyTypes::ShowTextPosition         undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyTypes::test2                    undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyTypes::testExtended             undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
+MyUtils                           undef  J/JA/JALYCAI/article_fetcher.zip
 MyWeblog::Model::Post             undef  J/JE/JESSE/Jifty-0.70117.tar.gz
 MyXSLT                             0.22  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.22.tar.gz
 Nabaztag                           0.03  J/JE/JETEVE/Nabaztag-0.03.tar.gz

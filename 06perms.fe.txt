@@ -162,6 +162,7 @@ FestVox,LENZO,m
 Festival::Client,GOSSAMER,m
 Festival::Client::Async,DJHD,m
 Fetch::Image,NOBODY,f
+Fetcher,JALYCAI,f
 Fey,DROLSKY,f
 Fey::Column,DROLSKY,f
 Fey::Column::Alias,DROLSKY,f

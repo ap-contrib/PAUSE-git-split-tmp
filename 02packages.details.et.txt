@@ -417,6 +417,7 @@ ExtJS::AutoForm::Moose::Util      undef  M/ME/MET/ExtJS-AutoForm-Moose-0.01.tar.
 ExtProc                            2.51  J/JH/JHORWITZ/extproc_perl-2.51.tar.gz
 ExtProc::Code                      2.51  J/JH/JHORWITZ/extproc_perl-2.51.tar.gz
 ExtProc::Util                      2.51  J/JH/JHORWITZ/extproc_perl-2.51.tar.gz
+Extractor                         undef  J/JA/JALYCAI/article_fetcher.zip
 ExtUtils::Autoconf                 0.02  F/FL/FLORA/ExtUtils-Autoconf-0.02.tar.gz
 ExtUtils::AutoInstall              0.63  A/AU/AUTRIJUS/ExtUtils-AutoInstall-0.63.tar.gz
 ExtUtils::BuildRC                 0.003  L/LE/LEONT/ExtUtils-BuildRC-0.003.tar.gz

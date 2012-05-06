@@ -929,6 +929,7 @@ ExtUtils::testlib,CHORNY,c
 ExtUtils::testlib,MSCHWERN,f
 ExtUtils::testlib,MSTROUT,c
 ExtValue,PERRAD,f
+Extractor,JALYCAI,f
 FAQ,AWRIGLEY,f
 FAQ::OMatic,ABH,m
 FAQ::OMatic,JHOWELL,c

@@ -790,6 +790,7 @@ MyTypes::test2,BAERGAJ,f
 MyTypes::test2,MKUTTER,c
 MyTypes::testExtended,BAERGAJ,f
 MyTypes::testExtended,MKUTTER,c
+MyUtils,JALYCAI,f
 MyWeblog::Model::Post,ALEXMV,c
 MyWeblog::Model::Post,FALCONE,c
 MyWeblog::Model::Post,JESSE,f
