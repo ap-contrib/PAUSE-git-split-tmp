@@ -251,11 +251,11 @@ JSON::RPC::ServiceObject           0.93  M/MA/MAKAMAKA/JSON-RPC-0.96.tar.gz
 JSON::RPC::Simple                  0.05  C/CL/CLAESJAC/JSON-RPC-Simple-0.05.tar.gz
 JSON::RPC::Simple::Client         undef  C/CL/CLAESJAC/JSON-RPC-Simple-0.05.tar.gz
 JSON::RPC::Simple::Dispatcher     undef  C/CL/CLAESJAC/JSON-RPC-Simple-0.05.tar.gz
-JSON::Schema                      0.011  T/TO/TOBYINK/JSON-Schema-0.011.tar.gz
-JSON::Schema::Error               0.011  T/TO/TOBYINK/JSON-Schema-0.011.tar.gz
-JSON::Schema::Helper              0.011  T/TO/TOBYINK/JSON-Schema-0.011.tar.gz
-JSON::Schema::Null                0.011  T/TO/TOBYINK/JSON-Schema-0.011.tar.gz
-JSON::Schema::Result              0.011  T/TO/TOBYINK/JSON-Schema-0.011.tar.gz
+JSON::Schema                      0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
+JSON::Schema::Error               0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
+JSON::Schema::Helper              0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
+JSON::Schema::Null                0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
+JSON::Schema::Result              0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
 JSON::Shell                         1.0  M/MA/MARKPASC/JSON-Shell-1.0.tar.gz
 JSON::SL                           0.06  M/MN/MNUNBERG/JSON-SL-0.06.tar.gz
 JSON::SL::Boolean                  0.06  M/MN/MNUNBERG/JSON-SL-0.06.tar.gz
