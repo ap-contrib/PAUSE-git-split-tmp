@@ -73,6 +73,7 @@ PHP::Array,KARASIK,f
 PHP::ArrayHandle,KARASIK,f
 PHP::DateTime,BLUEFEET,f
 PHP::Entity,KARASIK,f
+PHP::Functions::File,TNAGA,f
 PHP::Functions::Mail,YAPPO,f
 PHP::HTTPBuildQuery,MSCHILLI,f
 PHP::Include,AMBS,m
