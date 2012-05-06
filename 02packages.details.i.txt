@@ -134,7 +134,7 @@ Import                             2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Import::Admin                     undef  A/AN/ANDY/WWW-Page-1.0.tar.gz
 Import::Client                    undef  A/AN/ANDY/WWW-Page-2.2.tar.gz
 Import::Datasource                undef  A/AN/ANDY/WWW-Page-2.2.tar.gz
-Import::Into                   1.000002  M/MS/MSTROUT/Import-Into-1.000002.tar.gz
+Import::Into                   1.000003  M/MS/MSTROUT/Import-Into-1.000003.tar.gz
 IMS::CP::File                     undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 IMS::CP::Item                     undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 IMS::CP::Manifest              0.000002  R/RO/ROBINS/IMS-CP-Manifest-0.0.2.tar.gz
