@@ -276,7 +276,7 @@ App::GitGot::Outputter::dark       1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
 App::GitGot::Outputter::light      1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
 App::GitGot::Repo                  1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
 App::GitGot::Repo::Git             1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
-App::githook_perltidy          0.010000  M/ML/MLAWREN/App-githook-perltidy-0.10.0.tar.gz
+App::githook_perltidy          0.010001  M/ML/MLAWREN/App-githook-perltidy-0.10.1.tar.gz
 App::GitHub                         1.0  W/WO/WORR/App-GitHub-1.0.tar.gz
 App::GitHub::create              0.0012  R/RO/ROKR/App-GitHub-create-0.0012.tar.gz
 App::GitHub::FindRepository        0.06  R/RK/RKRIMEN/App-GitHub-FindRepository-0.06.tar.gz
