@@ -37,7 +37,7 @@ WWW::Shorten::TinyURL              1.90  D/DA/DAVECROSS/WWW-Shorten-3.03.tar.gz
 WWW::Shorten::URLchen            v0.0.2  D/DA/DATA/WWW-Shorten-URLchen-v0.0.2.tar.gz
 WWW::Shorten::UserAgent               0  D/DA/DAVECROSS/WWW-Shorten-3.03.tar.gz
 WWW::Shorten::VGd                 0.003  D/DO/DOHERTY/WWW-Shorten-VGd-0.003.tar.gz
-WWW::Shorten::Yahooit             0.001  C/CW/CWIMMER/WWW-Shorten-Yahooit-0.001.tar.gz
+WWW::Shorten::Yahooit             0.002  C/CW/CWIMMER/WWW-Shorten-Yahooit-0.002.tar.gz
 WWW::Shorten::Yourls               0.06  P/PJ/PJAIN/WWW-Shorten-Yourls-0.06.tar.gz
 WWW::SimpleRobot                   0.07  A/AW/AWRIGLEY/WWW-SimpleRobot-0.07.tar.gz
 WWW::Simpy                        1.015  B/BE/BEADSLAND/WWW-Simpy-1.015.tar.gz
