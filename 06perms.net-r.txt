@@ -975,6 +975,7 @@ Net::TcpDumpLog,BDGREGG,f
 Net::Telnet,JROGERS,m
 Net::Telnet::Brcd,LBENDAVID,f
 Net::Telnet::Cisco,JOSHUA,m
+Net::Telnet::Cisco,VIFO,c
 Net::Telnet::Cisco::IOS,KRAKEN,m
 Net::Telnet::Gearman,DSCHOEN,c
 Net::Telnet::Gearman,ERICKD,c
