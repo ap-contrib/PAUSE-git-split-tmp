@@ -239,7 +239,7 @@ RRD::Daemon::RRDB::DS             undef  F/FL/FLUFFY/RRD-Daemon-1.01.tar.gz
 RRD::Daemon::RRDB::Graph          undef  F/FL/FLUFFY/RRD-Daemon-1.01.tar.gz
 RRD::Daemon::RRDB::RRA            undef  F/FL/FLUFFY/RRD-Daemon-1.01.tar.gz
 RRD::Daemon::Util                 undef  F/FL/FLUFFY/RRD-Daemon-1.01.tar.gz
-RRD::Editor                        0.11  D/DO/DOUGLEITH/RRD-Editor-0.11.tar.gz
+RRD::Editor                        0.12  D/DO/DOUGLEITH/RRD-Editor-0.12.tar.gz
 RRD::Query                        1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 RRD::Simple                        1.44  N/NI/NICOLAW/RRD-Simple-1.44.tar.gz
 RRD::Threshold                    1.009  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
