@@ -378,8 +378,7 @@ Data::Iterator::EasyObj,TEEJAY,f
 Data::Iterator::Hierarchical,NOBULL,m
 Data::JavaScript,JPIERCE,c
 Data::JavaScript,SCHOP,m
-Data::JavaScript::Anon,ADAMK,c
-Data::JavaScript::Anon,SBURKE,f
+Data::JavaScript::Anon,ADAMK,f
 Data::JavaScript::Compactor,UNRTST,f
 Data::JavaScript::LiteObject,JPIERCE,f
 Data::Kanji::KanjiVG,BKB,f
