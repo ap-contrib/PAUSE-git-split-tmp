@@ -123,6 +123,7 @@ QListBox,AWIN,f
 QListBoxItem,AWIN,f
 QListBoxPixmap,AWIN,f
 QListBoxText,AWIN,f
+QMake::Project,ROHANPM,f
 QMenuBar,AWIN,f
 QMenuData,AWIN,f
 QMessageBox,AWIN,f
