@@ -96,8 +96,6 @@ App::moduleswhere                  0.03  S/SU/SUNNAVY/App-moduleswhere-0.03.tar.
 App::Monupco::dotCloud             0.05  A/AT/ATODOROV/App-Monupco-dotCloud-0.05.tar.gz
 App::Monupco::dotCloud::Parser    undef  A/AT/ATODOROV/App-Monupco-dotCloud-0.05.tar.gz
 App::Monupco::OpenShift            0.10  A/AT/ATODOROV/App-Monupco-OpenShift-0.10.tar.gz
-App::Monupco::OpenShift::Express   0.08  A/AT/ATODOROV/App-Monupco-OpenShift-Express-0.08.tar.gz
-App::Monupco::OpenShift::Express::Parser undef  A/AT/ATODOROV/App-Monupco-OpenShift-Express-0.08.tar.gz
 App::Monupco::OpenShift::Parser   undef  A/AT/ATODOROV/App-Monupco-OpenShift-0.10.tar.gz
 App::Mowyw                       v0.7.1  M/MO/MORITZ/App-Mowyw-v0.7.1.tar.gz
 App::Mowyw::Datasource                0  M/MO/MORITZ/App-Mowyw-v0.7.1.tar.gz

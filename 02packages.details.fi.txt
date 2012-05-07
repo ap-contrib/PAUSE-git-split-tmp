@@ -396,7 +396,7 @@ File::ShareDir                     1.03  A/AD/ADAMK/File-ShareDir-1.03.tar.gz
 File::ShareDir::Install            0.04  G/GW/GWYN/File-ShareDir-Install-0.04.tar.gz
 File::ShareDir::PAR                0.06  S/SM/SMUELLER/File-ShareDir-PAR-0.06.tar.gz
 File::ShareDir::PathClass      1.112440  J/JQ/JQUELIN/File-ShareDir-PathClass-1.112440.tar.gz
-File::ShareDir::ProjectDistDir   v0.3.1  K/KE/KENTNL/File-ShareDir-ProjectDistDir-0.3.1.tar.gz
+File::ShareDir::ProjectDistDir   v0.3.2  K/KE/KENTNL/File-ShareDir-ProjectDistDir-0.3.2.tar.gz
 File::SharedNFSLock                0.03  S/SM/SMUELLER/File-SharedNFSLock-0.03.tar.gz
 File::Shuffle                      0.10  K/KU/KUBINA/File-Shuffle-0.10.tar.gz
 File::Signature                   1.009  J/JE/JEREMY/File-Signature-1.009.tar.gz

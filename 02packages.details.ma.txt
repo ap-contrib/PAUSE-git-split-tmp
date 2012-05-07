@@ -325,7 +325,6 @@ Makefile::Parallel::Scheduler::PBS undef  A/AM/AMBS/Makefile/Makefile-Parallel-0
 Makefile::Parser                  0.215  A/AG/AGENT/Makefile-Parser-0.215.tar.gz
 Makefile::Parser::GmakeDB         0.215  A/AG/AGENT/Makefile-Parser-0.215.tar.gz
 Makefile::Target                  0.215  A/AG/AGENT/Makefile-Parser-0.215.tar.gz
-MakeHelper                        undef  T/TS/TSCH/Cairo-1.060.tar.gz
 Makerelease                         0.1  H/HA/HARDAKER/Makerelease-0.1.tar.gz
 Makerelease::Step                   0.1  H/HA/HARDAKER/Makerelease-0.1.tar.gz
 Makerelease::Step::Command          0.1  H/HA/HARDAKER/Makerelease-0.1.tar.gz
