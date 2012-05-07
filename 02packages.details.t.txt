@@ -38,7 +38,7 @@ TL1ng::Generic                     0.07  S/SS/SSCAFFIDI/TL1ng-0.08.tar.gz
 TL1ng::Parser                      0.07  S/SS/SSCAFFIDI/TL1ng-0.08.tar.gz
 TL1ng::Source                      0.07  S/SS/SSCAFFIDI/TL1ng-0.08.tar.gz
 TL1ng::Source::Telnet              0.07  S/SS/SSCAFFIDI/TL1ng-0.08.tar.gz
-Tlack::Runner                         0  T/TO/TOKUHIROM/nana-0.18.tar.gz
+Tlack::Runner                         0  T/TO/TOKUHIROM/nana-0.19.tar.gz
 TM                                 1.56  D/DR/DRRHO/TM-1.56.tar.gz
 tm                                undef  K/KA/KARASIK/Prima-1.33.tar.gz
 TM::Analysis                       0.91  D/DR/DRRHO/TM-1.56.tar.gz
