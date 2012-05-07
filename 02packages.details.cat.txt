@@ -380,6 +380,7 @@ Catmandu::CLI                         0  N/NI/NICS/Catmandu-0.01.tar.gz
 Catmandu::Cmd                         0  N/NI/NICS/Catmandu-0.01.tar.gz
 Catmandu::Cmd::config                 0  N/NI/NICS/Catmandu-0.01.tar.gz
 Catmandu::Cmd::data                   0  N/NI/NICS/Catmandu-0.01.tar.gz
+Catmandu::Cmd::repl                0.01  N/NI/NICS/Catmandu-Cmd-repl-0.01.tar.gz
 Catmandu::Counter                     0  N/NI/NICS/Catmandu-0.01.tar.gz
 Catmandu::Exporter                    0  N/NI/NICS/Catmandu-0.01.tar.gz
 Catmandu::Exporter::BibTeX            0  N/NI/NICS/Catmandu-0.01.tar.gz

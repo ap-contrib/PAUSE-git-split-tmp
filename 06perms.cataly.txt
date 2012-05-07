@@ -95,6 +95,7 @@ Catmandu::CLI,NICS,f
 Catmandu::Cmd,NICS,f
 Catmandu::Cmd::config,NICS,f
 Catmandu::Cmd::data,NICS,f
+Catmandu::Cmd::repl,NICS,f
 Catmandu::Counter,NICS,f
 Catmandu::Exporter,NICS,f
 Catmandu::Exporter::BibTeX,NICS,f
