@@ -440,6 +440,7 @@ esmith::db,SKUD,c
 esmith::ethernet,SKUD,c
 esmith::event,SKUD,c
 esmith::util,SKUD,c
+eta,BOOK,f
 everywhere,AWWAIID,f
 ex::caution,ARC,c
 ex::caution,YVES,m

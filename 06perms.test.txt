@@ -46,6 +46,7 @@ Test::Memcached,DMAKI,f
 Test::Memory::Cycle,PETDANCE,f
 Test::Memory::Usage,CHISEL,f
 Test::MemoryGrowth,PEVANS,f
+Test::MetaSyntactic,BOOK,f
 Test::Metadata,BRYCE,f
 Test::Metadata,MARKWKM,c
 Test::Mimic,BRENDAN,f
