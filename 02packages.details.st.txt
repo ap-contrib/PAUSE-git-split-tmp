@@ -346,7 +346,7 @@ SVG::TT::Graph::TimeSeries         0.11  I/IA/IANRODDIS/SVG-TT-Graph-0.12.tar.gz
 SVG::XML                           2.51  S/SZ/SZABGAB/SVG-2.51.tar.gz
 SVGExtension                       1.06  C/CM/CMERTZ/svg-svg2zinc-0.10.tar.gz
 SVGGraph                           0.07  T/TE/TEUN/SVGGraph-0.07.tar.gz
-SVGGraph::Pie                      0.05  M/MI/MILANO/SVGGraph-Pie-0.05.tar.gz
+SVGGraph::Pie                      0.06  M/MI/MILANO/SVGGraph-Pie-0.06.tar.gz
 SVGraph                            0.02  C/CO/COMSULTIA/SVGraph-0.02.tar.gz
 SvgTextObject                     undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 SvgView                           undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
