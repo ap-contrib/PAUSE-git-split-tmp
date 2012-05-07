@@ -195,6 +195,7 @@ Example::Views,BEPPU,f
 Example::config,LUSHE,f
 ExampleHelpers,RCAPUTO,f
 ExampleMap,ACDALTON,f
+ExampleMooRoleWithAttribute,MSTROUT,f
 ExampleMooseRoleOne,MSTROUT,f
 ExampleMooseRoleTwo,MSTROUT,f
 ExampleObject,RCAPUTO,f
