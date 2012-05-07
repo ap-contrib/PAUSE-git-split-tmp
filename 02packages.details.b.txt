@@ -123,7 +123,7 @@ Business::CCProcessor              0.09  H/HE/HESCO/Business-CCProcessor-0.09.ta
 Business::CINS                     1.13  T/TA/TAYERS/Business-CINS-1.13.tar.gz
 Business::CN::IdentityCard         0.05  F/FA/FAYLAND/Business-CN-IdentityCard-0.05.tar.gz
 Business::CN::IdentityCard::District 0.01  F/FA/FAYLAND/Business-CN-IdentityCard-0.05.tar.gz
-Business::Colissimo              0.0200  H/HO/HORNBURG/Business-Colissimo-0.0200.tar.gz
+Business::Colissimo              0.1000  H/HO/HORNBURG/Business-Colissimo-0.1000.tar.gz
 Business::CreditCard               0.31  I/IV/IVAN/Business-CreditCard-0.31.tar.gz
 Business::CreditCard::Object       1.00  T/TM/TMTM/Business-CreditCard-Object-1.00.tar.gz
 Business::CUSIP                    1.03  T/TA/TAYERS/Business-CUSIP-1.03.tar.gz
