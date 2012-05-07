@@ -153,6 +153,8 @@ Catmandu::Store::ElasticSearch::Bag,NICS,f
 Catmandu::Store::ElasticSearch::Searcher,NICS,f
 Catmandu::Store::Hash,NICS,f
 Catmandu::Store::Hash::Bag,NICS,f
+Catmandu::Store::MongoDB,NICS,f
+Catmandu::Store::MongoDB::Bag,NICS,f
 Catmandu::Store::SBCatDB,NICS,f
 Catmandu::Store::SBCatDB::Bag,NICS,f
 Catmandu::Store::Solr,NICS,f
