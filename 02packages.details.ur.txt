@@ -111,8 +111,8 @@ URI::urn::uuid                     0.03  M/MI/MIYAGAWA/URI-urn-uuid-0.03.tar.gz
 URI::UTF8::Punycode                0.96  T/TW/TWINKLE/URI-UTF8-Punycode-0.96.tar.gz
 URI::virtual                       0.02  R/RP/RPAUL/LWP-Protocol-virtual-0.02.tar.gz
 URI::WithBase                      2.20  G/GA/GAAS/URI-1.60.tar.gz
-URI::wsman_Owbem               0.003000  S/SH/SHURD/DMTF-CIM-WSMan-v0.03.tar.gz
-URI::wsman_Owbems              0.003000  S/SH/SHURD/DMTF-CIM-WSMan-v0.03.tar.gz
+URI::wsman_Owbem               0.004000  S/SH/SHURD/DMTF-CIM-WSMan-v0.04.tar.gz
+URI::wsman_Owbems              0.004000  S/SH/SHURD/DMTF-CIM-WSMan-v0.04.tar.gz
 uri_t                             undef  L/LD/LDACHARY/URIC-2.02.tar.gz
 uric                              undef  L/LD/LDACHARY/URIC-2.02.tar.gz
 URIC                              undef  L/LD/LDACHARY/URIC-2.02.tar.gz
