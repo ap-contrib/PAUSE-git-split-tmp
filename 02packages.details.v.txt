@@ -724,7 +724,7 @@ VS::RuleEngine::TypeDecl          undef  C/CL/CLAESJAC/VS-RuleEngine-0.09.tar.gz
 VS::RuleEngine::Util              undef  C/CL/CLAESJAC/VS-RuleEngine-0.09.tar.gz
 VS::RuleEngine::Writer::XML        0.03  C/CL/CLAESJAC/VS-RuleEngine-Writer-XML-0.03.tar.gz
 vsDB                           1.004003  J/JH/JHINKLE/vsDB-1.4.3.tar.gz
-VSO                               0.024  J/JO/JOHND/VSO-0.024.tar.gz
+VSO                               0.025  J/JO/JOHND/VSO-0.025.tar.gz
 VSS                                 1.0  B/BP/BPRUDENT/VSS-1.0.4.tar.gz
 VT::API                            0.12  S/SA/SANTERI/VT-API-0.12.tar.gz
 VUser::ACL                     0.003000  R/RS/RSMITH/vuser/vuser-0.5.0.tar.gz
