@@ -379,6 +379,14 @@ Email::Sender::Server,AWNCORP,f
 Email::Sender::Server::Base,AWNCORP,f
 Email::Sender::Server::Client,AWNCORP,f
 Email::Sender::Server::Controller,AWNCORP,f
+Email::Sender::Server::Controller::Cleanup,AWNCORP,f
+Email::Sender::Server::Controller::Config,AWNCORP,f
+Email::Sender::Server::Controller::Copy,AWNCORP,f
+Email::Sender::Server::Controller::Email,AWNCORP,f
+Email::Sender::Server::Controller::Start,AWNCORP,f
+Email::Sender::Server::Controller::Status,AWNCORP,f
+Email::Sender::Server::Controller::Stop,AWNCORP,f
+Email::Sender::Server::Controller::Version,AWNCORP,f
 Email::Sender::Server::Directives,AWNCORP,f
 Email::Sender::Server::Manager,AWNCORP,f
 Email::Sender::Server::Message,AWNCORP,f
