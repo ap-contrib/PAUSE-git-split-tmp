@@ -137,7 +137,7 @@ IO::Lambda::HTTP                  undef  K/KA/KARASIK/IO-Lambda-1.23.tar.gz
 IO::Lambda::HTTP::Authen::Negotiate undef  K/KA/KARASIK/IO-Lambda-1.23.tar.gz
 IO::Lambda::HTTP::Authen::NTLM    undef  K/KA/KARASIK/IO-Lambda-1.23.tar.gz
 IO::Lambda::HTTP::HTTPS           undef  K/KA/KARASIK/IO-Lambda-1.23.tar.gz
-IO::Lambda::Inotify                1.00  K/KA/KARASIK/IO-Lambda-Inotify-1.00.tar.gz
+IO::Lambda::Inotify                1.01  K/KA/KARASIK/IO-Lambda-Inotify-1.01.tar.gz
 IO::Lambda::Loop                   1.23  K/KA/KARASIK/IO-Lambda-1.23.tar.gz
 IO::Lambda::Loop::AnyEvent        undef  K/KA/KARASIK/IO-Lambda-1.23.tar.gz
 IO::Lambda::Loop::POE             undef  K/KA/KARASIK/IO-Lambda-1.23.tar.gz
