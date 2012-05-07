@@ -447,6 +447,7 @@ SymTab                            undef  C/CH/CHM/PDL-2.4.10.tar.gz
 Synapse::CLI::Config                0.1  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.gz
 Synapse::CLI::Config::Object      undef  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.gz
 Synapse::CLI::Config::Type        undef  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.gz
+Synapse::Logger                     0.1  J/JH/JHIVER/Synapse-Logger-0.1.tar.gz
 Synapse::MailSender                 1.3  J/JH/JHIVER/Synapse-MailSender-1.3.tar.gz
 Synapse::Monitor::Listener          0.1  J/JH/JHIVER/Synapse-Monitor-Listener-0.1.tar.gz
 Synapse::Monitor::Listener::Action undef  J/JH/JHIVER/Synapse-Monitor-Listener-0.1.tar.gz

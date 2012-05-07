@@ -316,6 +316,7 @@ Symphero::Web,AMALTSEV,f
 Synapse::CLI::Config,JHIVER,f
 Synapse::CLI::Config::Object,JHIVER,f
 Synapse::CLI::Config::Type,JHIVER,f
+Synapse::Logger,JHIVER,f
 Synapse::MailSender,JHIVER,f
 Synapse::Monitor::Listener,JHIVER,f
 Synapse::Monitor::Listener::Action,JHIVER,f
