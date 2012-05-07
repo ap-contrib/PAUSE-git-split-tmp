@@ -161,6 +161,7 @@ Plack::Session::Store,MIYAGAWA,c
 Plack::Session::Store,STEVAN,f
 Plack::Session::Store::Cache,MIYAGAWA,c
 Plack::Session::Store::Cache,STEVAN,f
+Plack::Session::Store::Catmandu,NICS,f
 Plack::Session::Store::DBI,MIYAGAWA,f
 Plack::Session::Store::File,MIYAGAWA,c
 Plack::Session::Store::File,STEVAN,f

@@ -288,6 +288,7 @@ CQL::AndNode,BRICAS,c
 CQL::AndNode,ESUMMERS,f
 CQL::BooleanNode,BRICAS,c
 CQL::BooleanNode,ESUMMERS,f
+CQL::ElasticSearch,NICS,f
 CQL::Lexer,BRICAS,c
 CQL::Lexer,ESUMMERS,f
 CQL::ModifierSet,BRICAS,c
@@ -309,6 +310,7 @@ CQL::ProxNode,BRICAS,c
 CQL::ProxNode,ESUMMERS,f
 CQL::Relation,BRICAS,c
 CQL::Relation,ESUMMERS,f
+CQL::Solr,NICS,f
 CQL::TermNode,BRICAS,c
 CQL::TermNode,ESUMMERS,f
 CQL::Token,BRICAS,c
