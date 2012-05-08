@@ -128,8 +128,8 @@ Monitor::Simple::Notifier      0.002005  T/TU/TULSOFT/Monitor-Simple-0.2.5.tar.g
 Monitor::Simple::Output        0.002005  T/TU/TULSOFT/Monitor-Simple-0.2.5.tar.gz
 Monitor::Simple::UserAgent     0.002005  T/TU/TULSOFT/Monitor-Simple-0.2.5.tar.gz
 Monitor::Simple::Utils         0.002005  T/TU/TULSOFT/Monitor-Simple-0.2.5.tar.gz
-Monitoring::Availability           0.32  N/NI/NIERLEIN/Monitoring-Availability-0.32.tar.gz
-Monitoring::Availability::Logs    undef  N/NI/NIERLEIN/Monitoring-Availability-0.32.tar.gz
+Monitoring::Availability           0.34  N/NI/NIERLEIN/Monitoring-Availability-0.34.tar.gz
+Monitoring::Availability::Logs    undef  N/NI/NIERLEIN/Monitoring-Availability-0.34.tar.gz
 Monitoring::Generator::TestConfig  0.42  N/NI/NIERLEIN/Monitoring-Generator-TestConfig-0.42.tar.gz
 Monitoring::Generator::TestConfig::HostCheckData undef  N/NI/NIERLEIN/Monitoring-Generator-TestConfig-0.42.tar.gz
 Monitoring::Generator::TestConfig::Modules::Shinken undef  N/NI/NIERLEIN/Monitoring-Generator-TestConfig-0.42.tar.gz
