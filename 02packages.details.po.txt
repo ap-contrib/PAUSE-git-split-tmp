@@ -236,9 +236,9 @@ POE::Component::Server::Syslog::UDP 1.20  B/BI/BINGOS/POE-Component-Server-Syslo
 POE::Component::Server::TacacsPlus 1.11  D/DO/DOUGDUDE/POE-Component-Server-TacacsPlus-1.11.tar.gz
 POE::Component::Server::TCP       1.353  R/RC/RCAPUTO/POE-1.353.tar.gz
 POE::Component::Server::Time       1.14  B/BI/BINGOS/POE-Component-Server-Time-1.14.tar.gz
-POE::Component::Server::Twirc      0.12  M/MM/MMIMS/POE-Component-Server-Twirc-0.12.tar.gz
-POE::Component::Server::Twirc::LogAppender undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.12.tar.gz
-POE::Component::Server::Twirc::State undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.12.tar.gz
+POE::Component::Server::Twirc      0.14  M/MM/MMIMS/POE-Component-Server-Twirc-0.14.tar.gz
+POE::Component::Server::Twirc::LogAppender undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.14.tar.gz
+POE::Component::Server::Twirc::State undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.14.tar.gz
 POE::Component::Server::XMLRPC     0.05  M/MA/MAHEX/POE-Component-Server-XMLRPC-0.05.tar.gz
 POE::Component::SimpleDBI          1.30  A/AP/APOCAL/POE-Component-SimpleDBI-1.30.tar.gz
 POE::Component::SimpleDBI::SubProcess 1.30  A/AP/APOCAL/POE-Component-SimpleDBI-1.30.tar.gz

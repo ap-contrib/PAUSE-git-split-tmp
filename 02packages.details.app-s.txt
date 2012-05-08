@@ -289,10 +289,10 @@ App::Ttyrec                        0.01  D/DO/DOY/App-Ttyrec-0.01.tar.gz
 App::Tweet                         1.02  J/JM/JMCADA/App-Tweet-1.02.tar.gz
 App::Twimap                        0.02  L/LB/LBROCARD/App-Twimap-0.02.tar.gz
 App::Twimap::Tweet                    0  L/LB/LBROCARD/App-Twimap-0.02.tar.gz
-App::Twirc                        undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.12.tar.gz
-App::Twirc::Plugin::BangCommands  undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.12.tar.gz
-App::Twirc::Plugin::SecondaryAccount undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.12.tar.gz
-App::Twirc::Plugin::SquashWhiteSpace undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.12.tar.gz
+App::Twirc                        undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.14.tar.gz
+App::Twirc::Plugin::BangCommands  undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.14.tar.gz
+App::Twirc::Plugin::SecondaryAccount undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.14.tar.gz
+App::Twirc::Plugin::SquashWhiteSpace undef  M/MM/MMIMS/POE-Component-Server-Twirc-0.14.tar.gz
 App::Twitch                       0.904  G/GE/GETTY/App-Twitch-0.904.tar.gz
 App::Twpin                        0.007  R/RE/REDICAPS/App-Twpin-0.007.tar.gz
 App::Uni                              8  A/AU/AUDREYT/App-Uni-8.tar.gz
