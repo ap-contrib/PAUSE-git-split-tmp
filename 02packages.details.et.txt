@@ -360,7 +360,7 @@ Execution::Perl                   undef  D/DA/DANFRU/MonitisMonitorManager-3.1.t
 Execution::RemoteCommand          undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
 Execution::SNMP                   undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
 Execution::URL                    undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
-Exherbo::Packager                 undef  W/WO/WORR/Exherbo-Packager-1.120980.tar.gz
+Exherbo::Packager                 undef  W/WO/WORR/Exherbo-Packager-1.121290.tar.gz
 EXIF                               0.22  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.22.tar.gz
 Exim::SpoolMessage                 0.04  K/KI/KIRILLM/Exim-SpoolMessage-0.04.tgz
 Exodist::Util                     0.007  E/EX/EXODIST/Exodist-Util-0.007.tar.gz
