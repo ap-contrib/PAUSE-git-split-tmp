@@ -514,7 +514,7 @@ Erlang::Parser::Parser            undef  A/AN/ANNELI/Erlang-Parser-0.5.tar.gz
 Erlang::Port                       0.04  H/HI/HIO/Erlang-Port-0.04.tar.gz
 EROOT                             undef  D/DM/DMR/Class-Eroot-19960603.tar.gz
 Errno::AnyString                   1.03  P/PU/PUBNOOP/Errno-AnyString-1.03.tar.gz
-Error                           0.17017  S/SH/SHLOMIF/Error-0.17017.tar.gz
+Error                           0.17018  S/SH/SHLOMIF/Error-0.17018.tar.gz
 Error::Base                      v0.1.4  X/XI/XIONG/developer-tools/Error-Base-v0.1.4.tar.gz
 Error::Base::Cookbook            v0.1.4  X/XI/XIONG/developer-tools/Error-Base-v0.1.4.tar.gz
 Error::Base::Late                     0  X/XI/XIONG/developer-tools/Error-Base-v0.1.4.tar.gz
@@ -567,13 +567,13 @@ Error::RRD::Feature               1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 Error::RRD::isNaN                 1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 Error::RRD::NoSuchDS              1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 Error::RRDs                       1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
-Error::Simple                         0  S/SH/SHLOMIF/Error-0.17017.tar.gz
-Error::subs                           0  S/SH/SHLOMIF/Error-0.17017.tar.gz
+Error::Simple                   0.17018  S/SH/SHLOMIF/Error-0.17018.tar.gz
+Error::subs                           0  S/SH/SHLOMIF/Error-0.17018.tar.gz
 Error::SystemException             0.05  P/PE/PEVANS/Error-Subclasses-0.05.tar.gz
 Error::TryCatch                    0.07  N/NI/NILSONSFJ/Error-TryCatch-0.07.tar.gz
 Error::Unhandled                   1.02  T/TE/TEVERETT/Error-Unhandled-1.02.tar.gz
 Error::Wait                        0.05  G/GR/GRAZZ/Error-Wait-0.05.tar.gz
-Error::WarnDie                        0  S/SH/SHLOMIF/Error-0.17017.tar.gz
+Error::WarnDie                        0  S/SH/SHLOMIF/Error-0.17018.tar.gz
 errors                             0.03  I/IN/INGY/Error-errors-0.03.tar.gz
 Errors::Errors                     1.26  J/JL/JLISHEV/WebTools-1.27.tar.gz
 eSearch                           undef  C/CH/CHI/link_NCBI.zip
