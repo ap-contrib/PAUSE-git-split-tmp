@@ -930,6 +930,7 @@ Rex::Helper::SSH2::Expect,JFRIED,f
 Rex::Helper::System,JFRIED,f
 Rex::Interface::Connection,JFRIED,f
 Rex::Interface::Connection::Base,JFRIED,f
+Rex::Interface::Connection::Fake,JFRIED,f
 Rex::Interface::Connection::Local,JFRIED,f
 Rex::Interface::Connection::SSH,JFRIED,f
 Rex::Interface::Exec,JFRIED,f
