@@ -782,6 +782,7 @@ Convert::Color::Library,PEVANS,f
 Convert::Color::RGB,PEVANS,f
 Convert::Color::RGB16,PEVANS,f
 Convert::Color::RGB8,PEVANS,f
+Convert::Color::ScaleModels,AFFC,f
 Convert::Color::VGA,PEVANS,f
 Convert::Color::X11,PEVANS,f
 Convert::Color::XTerm,PEVANS,f
