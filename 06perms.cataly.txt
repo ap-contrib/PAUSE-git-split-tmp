@@ -136,10 +136,12 @@ Catmandu::Importer::CSV,NICS,f
 Catmandu::Importer::JSON,NICS,f
 Catmandu::Importer::MARC,NICS,f
 Catmandu::Importer::Mock,NICS,f
+Catmandu::Importer::OAI,NICS,f
 Catmandu::Importer::YAML,NICS,f
 Catmandu::Iterable,NICS,f
 Catmandu::Iterator,NICS,f
 Catmandu::MARC,NICS,f
+Catmandu::OAI,NICS,f
 Catmandu::Pager,NICS,f
 Catmandu::Pluggable,NICS,f
 Catmandu::Plugin::Datestamps,NICS,f
