@@ -80,6 +80,7 @@ Perldoc::Writer                   undef  I/IN/INGY/Perldoc-0.20.tar.gz
 perlec                            undef  H/HI/HIO/perlec-0.08.tar.gz
 perlfaq                        5.0150039  L/LL/LLAP/perlfaq-5.0150039.tar.gz
 PerlFM                         0.002000  V/VV/VVELOX/PerlFM-0.2.0.tar.gz
+PerlGSL::Integration::MultiDim    0.001  J/JB/JBERGER/PerlGSL-Integration-MultiDim-0.001.tar.gz
 Perlilog                            0.3  B/BI/BILLAUER/Perlilog-0.3.tar.gz
 Perlilog::PLerror                 undef  B/BI/BILLAUER/Perlilog-0.3.tar.gz
 PerlIO                             1.07  F/FL/FLORA/perl-5.15.4.tar.gz
