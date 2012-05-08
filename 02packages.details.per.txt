@@ -85,6 +85,7 @@ Perlilog                            0.3  B/BI/BILLAUER/Perlilog-0.3.tar.gz
 Perlilog::PLerror                 undef  B/BI/BILLAUER/Perlilog-0.3.tar.gz
 PerlIO                             1.07  F/FL/FLORA/perl-5.15.4.tar.gz
 PerlIO::bitswap                   0.002  Z/ZE/ZEFRAM/PerlIO-bitswap-0.002.tar.gz
+PerlIO::buffersize                0.001  L/LE/LEONT/PerlIO-buffersize-0.001.tar.gz
 PerlIO::code                       0.03  G/GF/GFUJI/PerlIO-code-0.03.tar.gz
 PerlIO::creat                     undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::dir                       undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
