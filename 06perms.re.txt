@@ -192,6 +192,13 @@ RedHat::Kickstart,PATRICK,f
 RedHat::SysConfig,PATRICK,f
 RedHat::XML,PATRICK,f
 Reddit,JON,f
+Reddit::API,JEFFOBER,f
+Reddit::API::Account,JEFFOBER,f
+Reddit::API::Comment,JEFFOBER,f
+Reddit::API::Link,JEFFOBER,f
+Reddit::API::SubReddit,JEFFOBER,f
+Reddit::API::Thing,JEFFOBER,f
+Reddit::API::VotableThing,JEFFOBER,f
 Reddit::Type::User,JON,f
 Redirect,DYACOB,f
 Redirx::Client,IX,f
