@@ -1369,10 +1369,10 @@ HTTP::Router::Route               undef  M/MA/MASAKI/HTTP-Router-0.05.tar.gz
 HTTP::Router::RouteSet            undef  M/MA/MASAKI/HTTP-Router-0.01.tar.gz
 HTTP::Server::Brick              v0.1.4  A/AU/AUFFLICK/HTTP-Server-Brick-0.1.4.tar.gz
 HTTP::Server::Connection           0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
-HTTP::Server::Daemon               0.03  C/CH/CHENGANG/HTTP-Server-Encrypt-0.06.tar.gz
+HTTP::Server::Daemon               0.03  C/CH/CHENGANG/HTTP-Server-Encrypt-0.07.tar.gz
 HTTP::Server::Directory            0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
 HTTP::Server::Directory::UserDirs  0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
-HTTP::Server::Encrypt              0.06  C/CH/CHENGANG/HTTP-Server-Encrypt-0.06.tar.gz
+HTTP::Server::Encrypt              0.07  C/CH/CHENGANG/HTTP-Server-Encrypt-0.07.tar.gz
 HTTP::Server::EV                   0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
 HTTP::Server::EV::Buffer           0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
 HTTP::Server::EV::BufTie           0.31  N/NY/NYAKNYAN/HTTP-Server-EV-0.31.tar.gz
