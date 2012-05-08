@@ -327,7 +327,8 @@ Moo::_mro,RIBASUSHI,c
 Moo::_mro,SSCAFFIDI,c
 Moo::_mro,WSHELDAHL,c
 Moo::sification,MSTROUT,f
-MooX,CELOGEEK,m
+MooX,CELOGEEK,c
+MooX,GETTY,m
 MooX::Cmd,GETTY,f
 MooX::HasEnv,GETTY,f
 MooX::Option,CELOGEEK,f
