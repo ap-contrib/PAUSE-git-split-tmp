@@ -1801,6 +1801,7 @@ Module::Start::Config,INGY,f
 Module::Start::Flavor,INGY,f
 Module::Start::Flavor::Basic,INGY,f
 Module::Starter,XSAWYERX,f
+Module::Starter::AddModule,BDFOY,f
 Module::Starter::App,XSAWYERX,f
 Module::Starter::BuilderSet,XSAWYERX,f
 Module::Starter::CSJEWELL,CSJEWELL,f
