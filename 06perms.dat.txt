@@ -347,6 +347,7 @@ Data::FixedFormat::Tied,PFAUT,f
 Data::FixedFormat::Variants,PFAUT,f
 Data::FlexSerializer,AVAR,c
 Data::FlexSerializer,BURAK,c
+Data::FlexSerializer,CAIO,c
 Data::FlexSerializer,ELIZABETH,c
 Data::FlexSerializer,NPEREZ,c
 Data::FlexSerializer,SMUELLER,f
