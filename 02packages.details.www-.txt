@@ -106,9 +106,9 @@ WWW::Spinn3r::item                undef  V/VI/VIPUL/WWW-Spinn3r-3.00700001.tar.g
 WWW::Spinn3r::link                undef  V/VI/VIPUL/WWW-Spinn3r-3.00700001.tar.gz
 WWW::Spinn3r::next_request_url    undef  V/VI/VIPUL/WWW-Spinn3r-3.00700001.tar.gz
 WWW::Spinn3r::Synced              undef  V/VI/VIPUL/WWW-Spinn3r-3.00700001.tar.gz
-WWW::Splunk                        1.03  L/LK/LKUNDRAK/WWW-Splunk-1.11.tar.gz
-WWW::Splunk::API                   1.10  L/LK/LKUNDRAK/WWW-Splunk-1.11.tar.gz
-WWW::Splunk::XMLParser            undef  L/LK/LKUNDRAK/WWW-Splunk-1.11.tar.gz
+WWW::Splunk                         2.0  L/LK/LKUNDRAK/WWW-Splunk-2.0.tar.gz
+WWW::Splunk::API                    2.0  L/LK/LKUNDRAK/WWW-Splunk-2.0.tar.gz
+WWW::Splunk::XMLParser            undef  L/LK/LKUNDRAK/WWW-Splunk-2.0.tar.gz
 WWW::Spyder                        0.24  A/AS/ASHLEY/WWW-Spyder-0.24.tar.gz
 WWW::Spyder::Enqueue               0.24  A/AS/ASHLEY/WWW-Spyder-0.24.tar.gz
 WWW::Spyder::Exclusions            0.24  A/AS/ASHLEY/WWW-Spyder-0.24.tar.gz
