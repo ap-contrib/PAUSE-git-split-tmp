@@ -367,7 +367,7 @@ Finance::Wesabe::Profile          undef  B/BR/BRICAS/Finance-Wesabe-0.02.tar.gz
 Finance::Wesabe::Transaction      undef  B/BR/BRICAS/Finance-Wesabe-0.02.tar.gz
 Finance::Wesabe::Utils            undef  B/BR/BRICAS/Finance-Wesabe-0.02.tar.gz
 Finance::YahooChart                0.01  D/DJ/DJPADZ/Finance-YahooChart-0.01.tar.gz
-Finance::YahooJPN::Quote           1.01  H/HA/HATA/Finance-YahooJPN-Quote-1.01.tar.gz
+Finance::YahooJPN::Quote           1.02  H/HA/HATA/Finance-YahooJPN-Quote-1.02.tar.gz
 Finance::YahooJPN::QuoteDetail     0.01  T/TA/TAKASHI/Finance-YahooJPN-QuoteDetail-0.01.tar.gz
 Finance::YahooProfile              1.12  S/SM/SMALHOTRA/Finance-YahooProfile-0.12.tar.gz
 Finance::YahooQuote                0.24  E/ED/EDD/Finance-YahooQuote-0.24.tar.gz
