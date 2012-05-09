@@ -438,6 +438,7 @@ Data::Generator::Product,HDAICHI,f
 Data::Generator::Range,HDAICHI,f
 Data::Generator::Repeat,HDAICHI,f
 Data::Generator::Where,HDAICHI,f
+Data::Google::Visualization::DataSource,SARGIE,f
 Data::Google::Visualization::DataTable,SARGIE,m
 Data::GraphViz,LBROCARD,f
 Data::Grouper,FERRANCE,f
