@@ -752,6 +752,7 @@ Logfile::RobotsTxtFilter,TIMBRODY,f
 Logfile::Rotate,PAULG,f
 Logfile::SFgate,ULPFR,f
 Logfile::SmartFilter,KHURT,f
+Logfile::Tail,JANPAZ,m
 Logfile::Wftp,ULPFR,f
 Logfile::Wn,ULPFR,f
 Logfile::WnErr,ULPFR,f
