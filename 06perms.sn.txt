@@ -1217,8 +1217,9 @@ SQL::Template::XMLParser,NICEPERL,f
 SQL::Tidy,DMITRI,c
 SQL::Tidy,JGONZALEZ,m
 SQL::Tokenizer,IZUT,f
-SQL::Translator,JROBINSON,c
-SQL::Translator,KCLARK,m
+SQL::Translator,FREW,c
+SQL::Translator,JROBINSON,m
+SQL::Translator,KCLARK,c
 SQL::Translator,RIBASUSHI,c
 SQL::Translator::AutoCRUD::Quick,OLIVER,f
 SQL::Translator::AutoCRUD::Utils,OLIVER,f
