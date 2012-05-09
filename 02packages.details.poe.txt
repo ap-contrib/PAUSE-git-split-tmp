@@ -61,8 +61,8 @@ Politics::AU::Geo::Polygons        0.01  A/AD/ADAMK/Politics-AU-Geo-0.01.tar.gz
 Pollute                            0.07  D/DA/DAVIDNICO/Pollute-0.07.tar.gz
 Pollute::Persistent                0.07  D/DA/DAVIDNICO/Pollute-0.07.tar.gz
 Pollute::Test                     undef  D/DA/DAVIDNICO/Pollute-0.07.tar.gz
-Polycom::App::Push                 0.03  Z/ZB/ZBLAIR/Polycom-App-Push-0.03.tar.gz
-Polycom::App::URI                  0.01  Z/ZB/ZBLAIR/Polycom-App-Push-0.03.tar.gz
+Polycom::App::Push                 0.04  Z/ZB/ZBLAIR/Polycom-App-Push-0.04.tar.gz
+Polycom::App::URI                  0.01  Z/ZB/ZBLAIR/Polycom-App-Push-0.04.tar.gz
 Polycom::Config::File              0.03  Z/ZB/ZBLAIR/Polycom-Config-File-0.03.tar.gz
 Polycom::Contact                   0.05  Z/ZB/ZBLAIR/Polycom-Contact-Directory-0.05.tar.gz
 Polycom::Contact::Directory        0.05  Z/ZB/ZBLAIR/Polycom-Contact-Directory-0.05.tar.gz
