@@ -21,6 +21,7 @@ DBIx::Class::Helper::JoinTable,FREW,f
 DBIx::Class::Helper::Random,FREW,f
 DBIx::Class::Helper::ResultSet,FREW,f
 DBIx::Class::Helper::ResultSet::AutoRemoveColumns,FREW,f
+DBIx::Class::Helper::ResultSet::CorrelateRelationship,FREW,f
 DBIx::Class::Helper::ResultSet::IgnoreWantarray,FREW,f
 DBIx::Class::Helper::ResultSet::Me,FREW,f
 DBIx::Class::Helper::ResultSet::Random,FREW,f
