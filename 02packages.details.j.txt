@@ -72,7 +72,7 @@ JavaScript::Code::Variable         0.08  E/ES/ESSKAR/JavaScript-Code-0.08.tar.gz
 JavaScript::Context               undef  C/CL/CLAESJAC/JavaScript-1.16.tar.gz
 JavaScript::DataFormValidator      0.50  M/MA/MARKSTOS/JavaScript-DataFormValidator-0.50.tar.gz
 JavaScript::DebugConsole           0.01  E/EN/ENRYS/JavaScript-DebugConsole-0.01.tar.gz
-JavaScript::Dependency::Manager 0.001000  F/FR/FREW/JavaScript-Dependency-Manager-0.001000.tar.gz
+JavaScript::Dependency::Manager 0.001001  F/FR/FREW/JavaScript-Dependency-Manager-0.001001.tar.gz
 JavaScript::Dumper                0.011  P/PE/PERLER/JavaScript-Dumper-0.011.tar.gz
 JavaScript::Ectype                 0.01  H/HD/HDAICHI/JavaScript-Ectype-0.01.tar.gz
 JavaScript::Ectype::Handler::Apache2 0.000001  H/HD/HDAICHI/JavaScript-Ectype-Handler-Apache2-0.0.1.tar.gz
