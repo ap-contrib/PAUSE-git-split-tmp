@@ -735,10 +735,6 @@ Locale::Codes::Script_Retired      3.21  S/SB/SBECK/Locale-Codes-3.21.tar.gz
 Locale::Country                    3.21  S/SB/SBECK/Locale-Codes-3.21.tar.gz
 Locale::Country::Geo               0.01  C/CL/CLKAO/Locale-Country-Geo-0.01.tar.gz
 Locale::Country::Multilingual      0.23  G/GR/GRAF/Locale-Country-Multilingual-0.23.tar.gz
-Locale::Country::SubCountry        1.03  R/RS/RSAVAGE/Locale-Country-SubCountry-1.03.tgz
-Locale::Country::SubCountry::Base  1.03  R/RS/RSAVAGE/Locale-Country-SubCountry-1.03.tgz
-Locale::Country::SubCountry::Database::Export 1.03  R/RS/RSAVAGE/Locale-Country-SubCountry-1.03.tgz
-Locale::Country::SubCountry::Util::Config 1.03  R/RS/RSAVAGE/Locale-Country-SubCountry-1.03.tgz
 Locale::Currency                   3.21  S/SB/SBECK/Locale-Codes-3.21.tar.gz
 Locale::Currency::Format           1.30  T/TN/TNGUYEN/Locale-Currency-Format-1.30.tar.gz
 Locale::File::PO::Header          0.003  S/ST/STEFFENW/Locale-File-PO-Header-0.003.tar.gz
