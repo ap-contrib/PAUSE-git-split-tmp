@@ -61,7 +61,7 @@ Catalyst::Model::REST::Serializer  0.25  K/KA/KAARE/Catalyst-Model-REST-0.25.tar
 Catalyst::Model::Role::RunAfterRequest 0.04  F/FL/FLORA/Catalyst-Plugin-RunAfterRequest-0.04.tar.gz
 Catalyst::Model::S3                0.03  D/DC/DCARDWELL/Catalyst-Model-S3-0.03.tar.gz
 Catalyst::Model::Search            0.03  M/MR/MRAMBERG/Catalyst-Model-Search-0.03.tar.gz
-Catalyst::Model::Search::ElasticSearch 1.120200  D/DH/DHOSS/Catalyst-Model-Search-ElasticSearch-1.120200.tar.gz
+Catalyst::Model::Search::ElasticSearch 1.121300  D/DH/DHOSS/Catalyst-Model-Search-ElasticSearch-1.121300.tar.gz
 Catalyst::Model::Search::Item      0.01  M/MR/MRAMBERG/Catalyst-Model-Search-0.01.tar.gz
 Catalyst::Model::Search::LuceneWebService 0.01  M/MR/MRAMBERG/Catalyst-Model-Search-0.01.tar.gz
 Catalyst::Model::Search::Plucene   0.03  M/MR/MRAMBERG/Catalyst-Model-Search-0.03.tar.gz
