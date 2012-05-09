@@ -121,12 +121,12 @@ POP::Pid_factory                   1.03  B/BH/BHOLZMAN/pop-0.07.tar.gz
 POP::POX_parser                      0.  B/BH/BHOLZMAN/pop-0.07.tar.gz
 POP::Schema_parser                undef  B/BH/BHOLZMAN/pop-0.07.tar.gz
 Poppler                            0.04  C/CO/CORNELIUS/Poppler-0.04.tar.gz
-Portable                           1.16  K/KM/KMX/Portable-1.16.tar.gz
-Portable::Config                   1.15  K/KM/KMX/Portable-1.16.tar.gz
-Portable::CPAN                     1.15  K/KM/KMX/Portable-1.16.tar.gz
+Portable                           1.17  K/KM/KMX/Portable-1.17.tar.gz
+Portable::Config                   1.17  K/KM/KMX/Portable-1.17.tar.gz
+Portable::CPAN                     1.17  K/KM/KMX/Portable-1.17.tar.gz
 Portable::Dist                     1.05  K/KM/KMX/Portable-Dist-1.05.tar.gz
-Portable::HomeDir                  1.15  K/KM/KMX/Portable-1.16.tar.gz
-Portable::minicpan                 1.15  K/KM/KMX/Portable-1.16.tar.gz
+Portable::HomeDir                  1.17  K/KM/KMX/Portable-1.17.tar.gz
+Portable::minicpan                 1.17  K/KM/KMX/Portable-1.17.tar.gz
 Portage::Conf::Packages             1.3  V/VI/VILEDA/Portage-Conf-Packages-1.3.tar.gz
 PortConnector                      0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
 PortDirectionDeclaration           0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
