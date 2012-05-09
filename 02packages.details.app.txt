@@ -496,7 +496,7 @@ App::LDAP::Utils                  undef  S/SH/SHELLING/App-LDAP-0.06.tar.gz
 App::ListOrgAnniversaries          0.11  S/SH/SHARYANTO/App-OrgUtils-0.11.tar.gz
 App::ListOrgHeadlines              0.11  S/SH/SHARYANTO/App-OrgUtils-0.11.tar.gz
 App::ListOrgTodos                  0.11  S/SH/SHARYANTO/App-OrgUtils-0.11.tar.gz
-App::livehttperf                   0.01  A/AJ/AJGB/App-livehttperf-0.01.tar.gz
+App::livehttperf                   0.02  A/AJ/AJGB/App-livehttperf-0.02.tar.gz
 App::lntree                      0.0013  R/RO/ROKR/App-lntree-0.0013.tar.gz
 App::local::lib::helper            0.07  J/JJ/JJNAPIORK/App-local-lib-helper-0.07.tar.gz
 App::local::lib::Win32Helper      0.990  C/CS/CSJEWELL/App-local-lib-Win32Helper-0.990.tar.gz
