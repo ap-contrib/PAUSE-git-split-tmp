@@ -463,6 +463,7 @@ Business::CreditCard,WREIS,c
 Business::CreditCard::Object,TMTM,f
 Business::CyberSource,XENO,f
 Business::CyberSource::Client,XENO,f
+Business::CyberSource::Message,XENO,f
 Business::CyberSource::Report,AUBERTG,m
 Business::CyberSource::Report::PaymentEvents,AUBERTG,f
 Business::CyberSource::Report::SingleTransaction,AUBERTG,f
@@ -475,6 +476,7 @@ Business::CyberSource::Request::DCC,XENO,f
 Business::CyberSource::Request::FollowOnCredit,XENO,f
 Business::CyberSource::Request::Sale,XENO,f
 Business::CyberSource::Request::StandAloneCredit,XENO,f
+Business::CyberSource::RequestFactory,XENO,f
 Business::CyberSource::Response,XENO,f
 Business::CyberSource::ResponseFactory,XENO,f
 Business::DE::Konto,JANW,c
