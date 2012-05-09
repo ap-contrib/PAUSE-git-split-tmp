@@ -128,7 +128,7 @@ DMTF::CIM::Instance::Method    0.004000  S/SH/SHURD/DMTF-CIM-v0.04.tar.gz
 DMTF::CIM::Instance::Method::Parameter 0.004000  S/SH/SHURD/DMTF-CIM-v0.04.tar.gz
 DMTF::CIM::Instance::Property  0.004000  S/SH/SHURD/DMTF-CIM-v0.04.tar.gz
 DMTF::CIM::MOF                 0.004000  S/SH/SHURD/DMTF-CIM-MOF-v0.04.tar.gz
-DMTF::CIM::WSMan               0.005000  S/SH/SHURD/DMTF-CIM-WSMan-v0.05.tar.gz
+DMTF::CIM::WSMan               0.006000  S/SH/SHURD/DMTF-CIM-WSMan-v0.06.tar.gz
 DMTF::WSMan                    0.004000  S/SH/SHURD/DMTF-WSMan-v0.04.tar.gz
 DMTF::WSMan::PRIVATE::RequestAgent 0.004000  S/SH/SHURD/DMTF-WSMan-v0.04.tar.gz
 DNA                                0.03  M/MS/MSCHWERN/DNA-0.03.tar.gz
