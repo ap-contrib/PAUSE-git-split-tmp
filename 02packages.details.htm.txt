@@ -338,10 +338,10 @@ HTML::TagTree                  1.000000  D/DD/DDEBRITO/HTML-TagTree-v1.00.tar.gz
 HTML::TagUtil                      1.43  L/LI/LINC/HTML-TagUtil-1.45.tar.gz
 HTML::Tempi                        0.01  R/RF/RFAUST/HTML-Tempi-0.01.tar.gz
 HTML::Template                     2.91  W/WO/WONKO/HTML-Template-2.91.tar.gz
-HTML::Template::Associate          2.00  A/AL/ALEXP/HTML-Template-Associate-2.00.tar.gz
-HTML::Template::Associate::DBI     2.00  A/AL/ALEXP/HTML-Template-Associate-2.00.tar.gz
+HTML::Template::Associate          2.01  A/AL/ALEXP/HTML-Template-Associate-2.01.tar.gz
+HTML::Template::Associate::DBI     2.01  A/AL/ALEXP/HTML-Template-Associate-2.01.tar.gz
 HTML::Template::Associate::FormField 0.12  L/LU/LUSHE/HTML-Template-Associate-FormField-0.12.tar.gz
-HTML::Template::Associate::FormValidator 2.00  A/AL/ALEXP/HTML-Template-Associate-2.00.tar.gz
+HTML::Template::Associate::FormValidator 2.01  A/AL/ALEXP/HTML-Template-Associate-2.01.tar.gz
 HTML::Template::Compiled           0.97  T/TI/TINITA/HTML-Template-Compiled-0.97.tar.gz
 HTML::Template::Compiled::Classic  0.05  T/TI/TINITA/HTML-Template-Compiled-0.97.tar.gz
 HTML::Template::Compiled::Compiler 0.18  T/TI/TINITA/HTML-Template-Compiled-0.97.tar.gz
