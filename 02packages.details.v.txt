@@ -1100,6 +1100,15 @@ Web::Hippie::Handle::MXHR         undef  C/CL/CLKAO/Web-Hippie-0.40.tar.gz
 Web::Hippie::Handle::WebSocket    undef  C/CL/CLKAO/Web-Hippie-0.40.tar.gz
 Web::Hippie::Pipe                  0.01  C/CL/CLKAO/Web-Hippie-0.40.tar.gz
 Web::Hippie::PubSub                0.08  R/RE/REVMISCHA/Web-Hippie-PubSub-0.08.tar.gz
+Web::ID                           1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::Certificate              1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::Certificate::Generator   1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::RSAKey                   1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::SAN                      1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::SAN::Email               1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::SAN::URI                 1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::Types                    undef  T/TO/TOBYINK/Web-ID-1.920.tar.gz
+Web::ID::Util                     1.920  T/TO/TOBYINK/Web-ID-1.920.tar.gz
 Web::Magic                        0.008  T/TO/TOBYINK/Web-Magic-0.008.tar.gz
 Web::Magic::Async                 0.008  T/TO/TOBYINK/Web-Magic-0.008.tar.gz
 Web::Magic::Util                  0.008  T/TO/TOBYINK/Web-Magic-0.008.tar.gz

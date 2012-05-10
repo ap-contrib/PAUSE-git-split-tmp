@@ -408,6 +408,15 @@ Web::Hippie::Handle::MXHR,CLKAO,f
 Web::Hippie::Handle::WebSocket,CLKAO,f
 Web::Hippie::Pipe,CLKAO,f
 Web::Hippie::PubSub,REVMISCHA,f
+Web::ID,TOBYINK,f
+Web::ID::Certificate,TOBYINK,f
+Web::ID::Certificate::Generator,TOBYINK,f
+Web::ID::RSAKey,TOBYINK,f
+Web::ID::SAN,TOBYINK,f
+Web::ID::SAN::Email,TOBYINK,f
+Web::ID::SAN::URI,TOBYINK,f
+Web::ID::Types,TOBYINK,f
+Web::ID::Util,TOBYINK,f
 Web::Light,INFRARED,f
 Web::Magic,TOBYINK,f
 Web::Magic::Async,TOBYINK,f
