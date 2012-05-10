@@ -413,7 +413,7 @@ Catalyst::Plugin::AuthenCookie,DROLSKY,f
 Catalyst::Plugin::Authentication,AGRUNDMA,c
 Catalyst::Plugin::Authentication,AUDREYT,c
 Catalyst::Plugin::Authentication,AUTRIJUS,c
-Catalyst::Plugin::Authentication,BOBTFISH,c
+Catalyst::Plugin::Authentication,BOBTFISH,m
 Catalyst::Plugin::Authentication,BRICAS,c
 Catalyst::Plugin::Authentication,CODEREPOS,c
 Catalyst::Plugin::Authentication,DKAMHOLZ,c
@@ -431,7 +431,7 @@ Catalyst::Plugin::Authentication,JROCKWAY,c
 Catalyst::Plugin::Authentication,MARKF,c
 Catalyst::Plugin::Authentication,MRAMBERG,c
 Catalyst::Plugin::Authentication,MSTROUT,c
-Catalyst::Plugin::Authentication,NUFFIN,m
+Catalyst::Plugin::Authentication,NUFFIN,c
 Catalyst::Plugin::Authentication,RKITOVER,c
 Catalyst::Plugin::Authentication::AuthTkt,KARMAN,f
 Catalyst::Plugin::Authentication::Basic::Remote,TYPESTER,f
