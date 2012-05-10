@@ -214,7 +214,7 @@ App::Framework::Feature::Sql      2.016  S/SD/SDPRICE/App-Framework-1.06.tar.gz
 App::Framework::Lite               1.08  S/SD/SDPRICE/App-Framework-Lite-1.08.tar.gz
 App::Framework::Lite::Object      2.002  S/SD/SDPRICE/App-Framework-Lite-1.08.tar.gz
 App::Framework::Settings          1.000  S/SD/SDPRICE/App-Framework-1.06.tar.gz
-App::gcal                      1.120860  A/AR/ARJONES/App-gcal-1.120860.tar.gz
+App::gcal                      1.121310  A/AR/ARJONES/App-gcal-1.121310.tar.gz
 App::Genpass                       2.30  X/XS/XSAWYERX/App-Genpass-2.30.tar.gz
 App::gh                            0.57  C/CO/CORNELIUS/App-gh-0.57.tar.gz
 App::gh::API                      undef  C/CO/CORNELIUS/App-gh-0.57.tar.gz
