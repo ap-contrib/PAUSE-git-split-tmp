@@ -176,6 +176,7 @@ ICal::Component::Vfreebusy,EBUSBOOM,f
 ICal::Component::Vjournal,EBUSBOOM,f
 ICal::Component::Vtimezone,EBUSBOOM,f
 ICal::Component::Vtodo,EBUSBOOM,f
+ICal::Format::Natural,ARJONES,f
 ICal::Parameter,EBUSBOOM,f
 ICal::Parameter::Altrep,EBUSBOOM,f
 ICal::Parameter::Cn,EBUSBOOM,f
