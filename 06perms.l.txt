@@ -246,9 +246,10 @@ Lucy::Test,CREAMYG,c
 Lucy::Test,DWHEELER,c
 Lucy::Test,KARMAN,f
 Lucy::Test,LOGIE,c
-Lucy::Test::TestCharmonizer,CREAMYG,f
+Lucy::Test::TestCharmonizer,CREAMYG,c
 Lucy::Test::TestCharmonizer,DWHEELER,c
-Lucy::Test::TestCharmonizer,KARMAN,c
+Lucy::Test::TestCharmonizer,KARMAN,f
+Lucy::Test::TestCharmonizer,LOGIE,c
 Lucy::Test::Util::BBSortEx,CREAMYG,c
 Lucy::Test::Util::BBSortEx,DWHEELER,c
 Lucy::Test::Util::BBSortEx,KARMAN,f
