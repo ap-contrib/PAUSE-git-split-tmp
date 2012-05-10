@@ -420,6 +420,7 @@ Test::EasyMock::MockControl,KISEKI,f
 Test::EasyMock::MockObject,KISEKI,f
 Test::Effects,DCONWAY,f
 Test::Effects::ONLY,DCONWAY,f
+Test::Effects::TIME,DCONWAY,f
 Test::Effects::VERBOSE,DCONWAY,f
 Test::Email,JAMES,f
 Test::Env,BDFOY,m
