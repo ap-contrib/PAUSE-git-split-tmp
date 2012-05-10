@@ -225,7 +225,7 @@ Lucy::Store::RAMFile           0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
 Lucy::Store::RAMFileHandle     0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
 Lucy::Store::RAMFolder         0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
 Lucy::Test                     0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
-Lucy::Test::TestCharmonizer       undef  K/KA/KARMAN/Lucy-0.3.0.tar.gz
+Lucy::Test::TestCharmonizer    0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
 Lucy::Test::Util::BBSortEx     0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
 Lucy::Util::Debug              0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
 Lucy::Util::IndexFileNames     0.003001  L/LO/LOGIE/Lucy-0.3.1.tar.gz
