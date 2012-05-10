@@ -265,9 +265,9 @@ Test::EasyMock::Expectation       undef  K/KI/KISEKI/Test-EasyMock-0.01.tar.gz
 Test::EasyMock::ExpectationSetters undef  K/KI/KISEKI/Test-EasyMock-0.01.tar.gz
 Test::EasyMock::MockControl       undef  K/KI/KISEKI/Test-EasyMock-0.01.tar.gz
 Test::EasyMock::MockObject        undef  K/KI/KISEKI/Test-EasyMock-0.01.tar.gz
-Test::Effects                  0.000004  D/DC/DCONWAY/Test-Effects-0.000004.tar.gz
-Test::Effects::ONLY            0.000001  D/DC/DCONWAY/Test-Effects-0.000004.tar.gz
-Test::Effects::VERBOSE         0.000001  D/DC/DCONWAY/Test-Effects-0.000004.tar.gz
+Test::Effects                  0.000005  D/DC/DCONWAY/Test-Effects-0.000005.tar.gz
+Test::Effects::ONLY            0.000001  D/DC/DCONWAY/Test-Effects-0.000005.tar.gz
+Test::Effects::VERBOSE         0.000001  D/DC/DCONWAY/Test-Effects-0.000005.tar.gz
 Test::Email                        0.04  J/JA/JAMES/Test-Email-0.04.tar.gz
 Test::Env                          1.08  B/BD/BDFOY/Test-Env-1.08.tar.gz
 Test::Environment                  0.06  J/JK/JKUTEJ/Test-Environment-0.06.tar.gz
