@@ -49,8 +49,9 @@ Test::SOAP::WSDL::Expat::WSDLParser,BAERGAJ,f
 Test::SOAP::WSDL::Generator::Iterator::WSDL11,BAERGAJ,f
 Test::SOAP::WSDL::Generator::Visitor::Typemap,BAERGAJ,f
 Test::SOAP::WSDL::Tester,BAERGAJ,f
-Test::SQL::Translator,JROBINSON,c
-Test::SQL::Translator,KCLARK,f
+Test::SQL::Translator,FREW,c
+Test::SQL::Translator,JROBINSON,f
+Test::SQL::Translator,KCLARK,c
 Test::SQL::Translator,RIBASUSHI,c
 Test::STD::Check,SOFTDIA,f
 Test::STD::FileGen,SOFTDIA,f
