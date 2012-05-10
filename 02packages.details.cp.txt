@@ -902,7 +902,7 @@ Crypt::OpenSSL::Common              0.1  S/SO/SORTIZ/Crypt-OpenSSL-Common-0.1.ta
 Crypt::OpenSSL::DSA                0.13  T/TJ/TJMATHER/Crypt-OpenSSL-DSA-0.13.tar.gz
 Crypt::OpenSSL::PBKDF2             0.02  S/SK/SKUPSY/OpenSSL/Crypt-OpenSSL-PBKDF2-0.02.tar.gz
 Crypt::OpenSSL::PKCS10             0.06  J/JO/JONOZZZ/Crypt-OpenSSL-PKCS10-0.06.tar.gz
-Crypt::OpenSSL::PKCS12              0.5  D/DA/DANIEL/Crypt-OpenSSL-PKCS12-0.5.tar.gz
+Crypt::OpenSSL::PKCS12              0.6  D/DA/DANIEL/Crypt-OpenSSL-PKCS12-0.6.tar.gz
 Crypt::OpenSSL::Random             0.04  I/IR/IROBERTS/Crypt-OpenSSL-Random-0.04.tar.gz
 Crypt::OpenSSL::RC4                0.03  T/TO/TOKUHIROM/Crypt-OpenSSL-RC4-0.03.tar.gz
 Crypt::OpenSSL::RSA                0.28  P/PE/PERLER/Crypt-OpenSSL-RSA-0.28.tar.gz
