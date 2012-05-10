@@ -710,7 +710,7 @@ Sniffer::Connection                0.23  C/CO/CORION/Sniffer-HTTP-0.23.tar.gz
 Sniffer::Connection::HTTP          0.23  C/CO/CORION/Sniffer-HTTP-0.23.tar.gz
 Sniffer::HTTP                      0.23  C/CO/CORION/Sniffer-HTTP-0.23.tar.gz
 SNMP                             5.0401  H/HA/HARDAKER/SNMP-5.0401.tar.gz
-SNMP::Agent                        0.05  A/AE/AELSE/SNMP-Agent-0.05.tar.gz
+SNMP::Agent                        0.06  A/AE/AELSE/SNMP-Agent-0.06.tar.gz
 SNMP::BridgeQuery                  0.61  J/JS/JSHEARER/SNMP-BridgeQuery-0.61.tar.gz
 SNMP::Class                        0.15  A/AD/ADUITSIS/SNMP-Class-0.15.tar.gz
 SNMP::Class::Cache                 0.09  A/AD/ADUITSIS/SNMP-Class-0.15.tar.gz
