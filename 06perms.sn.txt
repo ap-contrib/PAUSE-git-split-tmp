@@ -1248,6 +1248,14 @@ SQL::Translator::Filter::Names,FREW,c
 SQL::Translator::Filter::Names,JROBINSON,f
 SQL::Translator::Filter::Names,KCLARK,c
 SQL::Translator::Filter::Names,RIBASUSHI,c
+SQL::Translator::Generator::DDL::SQLServer,FREW,c
+SQL::Translator::Generator::DDL::SQLServer,JROBINSON,f
+SQL::Translator::Generator::DDL::SQLite,FREW,c
+SQL::Translator::Generator::DDL::SQLite,JROBINSON,f
+SQL::Translator::Generator::Role::DDL,FREW,c
+SQL::Translator::Generator::Role::DDL,JROBINSON,f
+SQL::Translator::Generator::Role::Quote,FREW,c
+SQL::Translator::Generator::Role::Quote,JROBINSON,f
 SQL::Translator::Parser,FREW,c
 SQL::Translator::Parser,JROBINSON,f
 SQL::Translator::Parser,KCLARK,c
