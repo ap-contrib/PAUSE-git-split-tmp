@@ -53,7 +53,7 @@ Authen::HTTP::Signature::Method::RSA 0.02  M/MA/MALLEN/Authen-HTTP-Signature-0.0
 Authen::HTTP::Signature::Parser    0.02  M/MA/MALLEN/Authen-HTTP-Signature-0.02.tar.gz
 Authen::Krb4                        1.1  J/JH/JHORWITZ/Krb4-1.1.tar.gz
 Authen::Krb5                        1.9  J/JH/JHORWITZ/Krb5-1.9.tar.gz
-Authen::Krb5::Admin                0.11  K/KO/KORTY/Authen-Krb5-Admin-0.11.tar.gz
+Authen::Krb5::Admin                0.13  S/SJ/SJQUINNEY/Authen-Krb5-Admin-0.13.tar.gz
 Authen::Krb5::Easy                 0.90  S/SC/SCHALLEE/Authen-Krb5-Easy-0.90.tar.gz
 Authen::Krb5::KDB                  1.10  D/DK/DKS/Authen-Krb5-KDB-0.09.tar.gz
 Authen::Krb5::KDB::Key             1.03  D/DK/DKS/Authen-Krb5-KDB-0.09.tar.gz
