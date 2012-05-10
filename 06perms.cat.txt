@@ -161,7 +161,7 @@ Catalyst::Plugin::I18N::Request,ADAPAY,f
 Catalyst::Plugin::I18N::Request,BRICAS,c
 Catalyst::Plugin::Imager,DAMBAR,m
 Catalyst::Plugin::Images,AUDREYT,c
-Catalyst::Plugin::Images,BOBTFISH,c
+Catalyst::Plugin::Images,BOBTFISH,f
 Catalyst::Plugin::Images,BRICAS,c
 Catalyst::Plugin::Images,CODEREPOS,c
 Catalyst::Plugin::Images,DOY,c
@@ -176,12 +176,12 @@ Catalyst::Plugin::Images,JROBINSON,c
 Catalyst::Plugin::Images,JROCKWAY,c
 Catalyst::Plugin::Images,MRAMBERG,c
 Catalyst::Plugin::Images,MSTROUT,c
-Catalyst::Plugin::Images,NUFFIN,f
+Catalyst::Plugin::Images,NUFFIN,c
 Catalyst::Plugin::InflateMore,PJFL,m
 Catalyst::Plugin::JSONRPC,MIYAGAWA,f
 Catalyst::Plugin::JSONRPC,RHOELZ,c
 Catalyst::Plugin::LeakTracker,AUDREYT,c
-Catalyst::Plugin::LeakTracker,BOBTFISH,c
+Catalyst::Plugin::LeakTracker,BOBTFISH,f
 Catalyst::Plugin::LeakTracker,CODEREPOS,c
 Catalyst::Plugin::LeakTracker,DOY,c
 Catalyst::Plugin::LeakTracker,EILARA,c
@@ -192,7 +192,7 @@ Catalyst::Plugin::LeakTracker,HANK,c
 Catalyst::Plugin::LeakTracker,JJNAPIORK,c
 Catalyst::Plugin::LeakTracker,MRAMBERG,c
 Catalyst::Plugin::LeakTracker,MSTROUT,c
-Catalyst::Plugin::LeakTracker,NUFFIN,f
+Catalyst::Plugin::LeakTracker,NUFFIN,c
 Catalyst::Plugin::LeakTracker,WREIS,c
 Catalyst::Plugin::Localize::Simple,WEHR,f
 Catalyst::Plugin::Log4perl::Simple,MOOLI,f
@@ -282,7 +282,7 @@ Catalyst::Plugin::Params::Nested,MSTROUT,c
 Catalyst::Plugin::Params::Nested,NUFFIN,m
 Catalyst::Plugin::Params::Nested::Expander,AUDREYT,c
 Catalyst::Plugin::Params::Nested::Expander,AUTRIJUS,c
-Catalyst::Plugin::Params::Nested::Expander,BOBTFISH,c
+Catalyst::Plugin::Params::Nested::Expander,BOBTFISH,f
 Catalyst::Plugin::Params::Nested::Expander,BRICAS,c
 Catalyst::Plugin::Params::Nested::Expander,CODEREPOS,c
 Catalyst::Plugin::Params::Nested::Expander,DKAMHOLZ,c
@@ -298,7 +298,7 @@ Catalyst::Plugin::Params::Nested::Expander,JROBINSON,c
 Catalyst::Plugin::Params::Nested::Expander,JROCKWAY,c
 Catalyst::Plugin::Params::Nested::Expander,MRAMBERG,c
 Catalyst::Plugin::Params::Nested::Expander,MSTROUT,c
-Catalyst::Plugin::Params::Nested::Expander,NUFFIN,f
+Catalyst::Plugin::Params::Nested::Expander,NUFFIN,c
 Catalyst::Plugin::Params::Profile,KANE,c
 Catalyst::Plugin::Params::Profile,MICHIEL,m
 Catalyst::Plugin::ParseDateTime,SHIRAIWA,f
@@ -429,7 +429,7 @@ Catalyst::Plugin::Session::Client::Cookie,LYOKATO,f
 Catalyst::Plugin::Session::Client::Rewrite,LYOKATO,f
 Catalyst::Plugin::Session::Client::StickyQuery,LYOKATO,f
 Catalyst::Plugin::Session::Defaults,AUDREYT,c
-Catalyst::Plugin::Session::Defaults,BOBTFISH,c
+Catalyst::Plugin::Session::Defaults,BOBTFISH,f
 Catalyst::Plugin::Session::Defaults,BRICAS,c
 Catalyst::Plugin::Session::Defaults,CODEREPOS,c
 Catalyst::Plugin::Session::Defaults,DOY,c
@@ -444,7 +444,7 @@ Catalyst::Plugin::Session::Defaults,JROBINSON,c
 Catalyst::Plugin::Session::Defaults,JROCKWAY,c
 Catalyst::Plugin::Session::Defaults,MRAMBERG,c
 Catalyst::Plugin::Session::Defaults,MSTROUT,c
-Catalyst::Plugin::Session::Defaults,NUFFIN,f
+Catalyst::Plugin::Session::Defaults,NUFFIN,c
 Catalyst::Plugin::Session::DynamicExpiry,AGRUNDMA,c
 Catalyst::Plugin::Session::DynamicExpiry,APEIRON,c
 Catalyst::Plugin::Session::DynamicExpiry,ARCANEZ,c
@@ -516,7 +516,7 @@ Catalyst::Plugin::Session::PerUser,NUFFIN,m
 Catalyst::Plugin::Session::State,AGRUNDMA,c
 Catalyst::Plugin::Session::State,AUDREYT,c
 Catalyst::Plugin::Session::State,AUTRIJUS,c
-Catalyst::Plugin::Session::State,BOBTFISH,c
+Catalyst::Plugin::Session::State,BOBTFISH,f
 Catalyst::Plugin::Session::State,BRICAS,c
 Catalyst::Plugin::Session::State,CODEREPOS,c
 Catalyst::Plugin::Session::State,DKAMHOLZ,c
@@ -534,7 +534,7 @@ Catalyst::Plugin::Session::State,JROBINSON,c
 Catalyst::Plugin::Session::State,JROCKWAY,c
 Catalyst::Plugin::Session::State,MRAMBERG,c
 Catalyst::Plugin::Session::State,MSTROUT,c
-Catalyst::Plugin::Session::State,NUFFIN,f
+Catalyst::Plugin::Session::State,NUFFIN,c
 Catalyst::Plugin::Session::State::Auth,ZDK,f
 Catalyst::Plugin::Session::State::Cookie,AGRUNDMA,c
 Catalyst::Plugin::Session::State::Cookie,AUDREYT,c
@@ -576,7 +576,7 @@ Catalyst::Plugin::Session::State::Stash,RIBASUSHI,c
 Catalyst::Plugin::Session::State::URI,AGRUNDMA,c
 Catalyst::Plugin::Session::State::URI,AUDREYT,c
 Catalyst::Plugin::Session::State::URI,AUTRIJUS,c
-Catalyst::Plugin::Session::State::URI,BOBTFISH,c
+Catalyst::Plugin::Session::State::URI,BOBTFISH,f
 Catalyst::Plugin::Session::State::URI,BRICAS,c
 Catalyst::Plugin::Session::State::URI,CODEREPOS,c
 Catalyst::Plugin::Session::State::URI,DKAMHOLZ,c
@@ -595,7 +595,7 @@ Catalyst::Plugin::Session::State::URI,JROBINSON,c
 Catalyst::Plugin::Session::State::URI,JROCKWAY,c
 Catalyst::Plugin::Session::State::URI,MRAMBERG,c
 Catalyst::Plugin::Session::State::URI,MSTROUT,c
-Catalyst::Plugin::Session::State::URI,NUFFIN,f
+Catalyst::Plugin::Session::State::URI,NUFFIN,c
 Catalyst::Plugin::Session::State::URIhook,ZDK,f
 Catalyst::Plugin::Session::Storage,LYOKATO,f
 Catalyst::Plugin::Session::Storage::CDBI,LYOKATO,f
@@ -604,7 +604,7 @@ Catalyst::Plugin::Session::Storage::File,LYOKATO,f
 Catalyst::Plugin::Session::Store,AGRUNDMA,c
 Catalyst::Plugin::Session::Store,AUDREYT,c
 Catalyst::Plugin::Session::Store,AUTRIJUS,c
-Catalyst::Plugin::Session::Store,BOBTFISH,c
+Catalyst::Plugin::Session::Store,BOBTFISH,f
 Catalyst::Plugin::Session::Store,BRICAS,c
 Catalyst::Plugin::Session::Store,CODEREPOS,c
 Catalyst::Plugin::Session::Store,DKAMHOLZ,c
@@ -622,7 +622,7 @@ Catalyst::Plugin::Session::Store,JROBINSON,c
 Catalyst::Plugin::Session::Store,JROCKWAY,c
 Catalyst::Plugin::Session::Store,MRAMBERG,c
 Catalyst::Plugin::Session::Store,MSTROUT,c
-Catalyst::Plugin::Session::Store,NUFFIN,f
+Catalyst::Plugin::Session::Store,NUFFIN,c
 Catalyst::Plugin::Session::Store::BerkeleyDB,BOBTFISH,c
 Catalyst::Plugin::Session::Store::BerkeleyDB,FLORA,c
 Catalyst::Plugin::Session::Store::BerkeleyDB,JROCKWAY,f
@@ -648,7 +648,7 @@ Catalyst::Plugin::Session::Store::DBIC::Delegate,JHANNAH,c
 Catalyst::Plugin::Session::Store::DBIC_Foorum,FAYLAND,f
 Catalyst::Plugin::Session::Store::DOD,RECORDOND,f
 Catalyst::Plugin::Session::Store::Delegate,AUDREYT,c
-Catalyst::Plugin::Session::Store::Delegate,BOBTFISH,c
+Catalyst::Plugin::Session::Store::Delegate,BOBTFISH,f
 Catalyst::Plugin::Session::Store::Delegate,BRICAS,c
 Catalyst::Plugin::Session::Store::Delegate,CODEREPOS,c
 Catalyst::Plugin::Session::Store::Delegate,DOY,c
@@ -663,11 +663,11 @@ Catalyst::Plugin::Session::Store::Delegate,JROBINSON,c
 Catalyst::Plugin::Session::Store::Delegate,JROCKWAY,c
 Catalyst::Plugin::Session::Store::Delegate,MRAMBERG,c
 Catalyst::Plugin::Session::Store::Delegate,MSTROUT,c
-Catalyst::Plugin::Session::Store::Delegate,NUFFIN,f
+Catalyst::Plugin::Session::Store::Delegate,NUFFIN,c
 Catalyst::Plugin::Session::Store::Dummy,AGRUNDMA,c
 Catalyst::Plugin::Session::Store::Dummy,AUDREYT,c
 Catalyst::Plugin::Session::Store::Dummy,AUTRIJUS,c
-Catalyst::Plugin::Session::Store::Dummy,BOBTFISH,c
+Catalyst::Plugin::Session::Store::Dummy,BOBTFISH,f
 Catalyst::Plugin::Session::Store::Dummy,BRICAS,c
 Catalyst::Plugin::Session::Store::Dummy,CODEREPOS,c
 Catalyst::Plugin::Session::Store::Dummy,DKAMHOLZ,c
@@ -685,7 +685,7 @@ Catalyst::Plugin::Session::Store::Dummy,JROBINSON,c
 Catalyst::Plugin::Session::Store::Dummy,JROCKWAY,c
 Catalyst::Plugin::Session::Store::Dummy,MRAMBERG,c
 Catalyst::Plugin::Session::Store::Dummy,MSTROUT,c
-Catalyst::Plugin::Session::Store::Dummy,NUFFIN,f
+Catalyst::Plugin::Session::Store::Dummy,NUFFIN,c
 Catalyst::Plugin::Session::Store::FastMmap,AGRUNDMA,c
 Catalyst::Plugin::Session::Store::FastMmap,APEIRON,c
 Catalyst::Plugin::Session::Store::FastMmap,AUDREYT,c
@@ -770,7 +770,7 @@ Catalyst::Plugin::Session::Store::TestMemcached,JJNAPIORK,f
 Catalyst::Plugin::Session::Test::Store,AGRUNDMA,c
 Catalyst::Plugin::Session::Test::Store,AUDREYT,c
 Catalyst::Plugin::Session::Test::Store,AUTRIJUS,c
-Catalyst::Plugin::Session::Test::Store,BOBTFISH,c
+Catalyst::Plugin::Session::Test::Store,BOBTFISH,f
 Catalyst::Plugin::Session::Test::Store,BRICAS,c
 Catalyst::Plugin::Session::Test::Store,CODEREPOS,c
 Catalyst::Plugin::Session::Test::Store,DKAMHOLZ,c
@@ -788,9 +788,9 @@ Catalyst::Plugin::Session::Test::Store,JROBINSON,c
 Catalyst::Plugin::Session::Test::Store,JROCKWAY,c
 Catalyst::Plugin::Session::Test::Store,MRAMBERG,c
 Catalyst::Plugin::Session::Test::Store,MSTROUT,c
-Catalyst::Plugin::Session::Test::Store,NUFFIN,f
+Catalyst::Plugin::Session::Test::Store,NUFFIN,c
 Catalyst::Plugin::SessionStateTest,AUDREYT,c
-Catalyst::Plugin::SessionStateTest,BOBTFISH,c
+Catalyst::Plugin::SessionStateTest,BOBTFISH,f
 Catalyst::Plugin::SessionStateTest,BRICAS,c
 Catalyst::Plugin::SessionStateTest,CODEREPOS,c
 Catalyst::Plugin::SessionStateTest,DOY,c
@@ -805,7 +805,7 @@ Catalyst::Plugin::SessionStateTest,JROBINSON,c
 Catalyst::Plugin::SessionStateTest,JROCKWAY,c
 Catalyst::Plugin::SessionStateTest,MRAMBERG,c
 Catalyst::Plugin::SessionStateTest,MSTROUT,c
-Catalyst::Plugin::SessionStateTest,NUFFIN,f
+Catalyst::Plugin::SessionStateTest,NUFFIN,c
 Catalyst::Plugin::Setenv,BOBTFISH,c
 Catalyst::Plugin::Setenv,BRICAS,c
 Catalyst::Plugin::Setenv,FLORA,c
@@ -836,7 +836,7 @@ Catalyst::Plugin::Singleton,WSHELDAHL,c
 Catalyst::Plugin::Sitemap,YANICK,f
 Catalyst::Plugin::SmartURI,RKITOVER,f
 Catalyst::Plugin::Snippets,AUDREYT,c
-Catalyst::Plugin::Snippets,BOBTFISH,c
+Catalyst::Plugin::Snippets,BOBTFISH,f
 Catalyst::Plugin::Snippets,BRICAS,c
 Catalyst::Plugin::Snippets,CODEREPOS,c
 Catalyst::Plugin::Snippets,DOY,c
@@ -851,7 +851,7 @@ Catalyst::Plugin::Snippets,JROBINSON,c
 Catalyst::Plugin::Snippets,JROCKWAY,c
 Catalyst::Plugin::Snippets,MRAMBERG,c
 Catalyst::Plugin::Snippets,MSTROUT,c
-Catalyst::Plugin::Snippets,NUFFIN,f
+Catalyst::Plugin::Snippets,NUFFIN,c
 Catalyst::Plugin::Spark::Form,KENTNL,f
 Catalyst::Plugin::SpecialAction::Trail,MENDEL,f
 Catalyst::Plugin::StackTrace,AGRUNDMA,m
