@@ -251,11 +251,11 @@ IO::Socket::Socks                  0.62  O/OL/OLEG/IO-Socket-Socks-0.62.tar.gz
 IO::Socket::Socks::Debug           0.62  O/OL/OLEG/IO-Socket-Socks-0.62.tar.gz
 IO::Socket::Socks::Error           0.62  O/OL/OLEG/IO-Socket-Socks-0.62.tar.gz
 IO::Socket::Socks::Wrapper         0.06  O/OL/OLEG/IO-Socket-Socks-Wrapper-0.06.tar.gz
-IO::Socket::SSL                    1.71  S/SU/SULLR/IO-Socket-SSL-1.71.tar.gz
+IO::Socket::SSL                    1.72  S/SU/SULLR/IO-Socket-SSL-1.72.tar.gz
 IO::Socket::SSL::SafeAccept         1.0  M/MK/MKUL/Net-Daemon-SSL-1.0.tar.gz
-IO::Socket::SSL::Session_Cache     1.71  S/SU/SULLR/IO-Socket-SSL-1.71.tar.gz
-IO::Socket::SSL::SSL_Context       1.71  S/SU/SULLR/IO-Socket-SSL-1.71.tar.gz
-IO::Socket::SSL::SSL_HANDLE        1.71  S/SU/SULLR/IO-Socket-SSL-1.71.tar.gz
+IO::Socket::SSL::Session_Cache     1.72  S/SU/SULLR/IO-Socket-SSL-1.72.tar.gz
+IO::Socket::SSL::SSL_Context       1.72  S/SU/SULLR/IO-Socket-SSL-1.72.tar.gz
+IO::Socket::SSL::SSL_HANDLE        1.72  S/SU/SULLR/IO-Socket-SSL-1.72.tar.gz
 IO::Socket::Telnet                 0.04  S/SA/SARTAK/IO-Socket-Telnet-0.04.tar.gz
 IO::Socket::Telnet::HalfDuplex     0.02  D/DO/DOY/IO-Socket-Telnet-HalfDuplex-0.02.tar.gz
 IO::Socket::TIPC                   1.08  I/IN/INFINOID/IO-Socket-TIPC-1.08.tar.gz
