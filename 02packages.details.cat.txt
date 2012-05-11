@@ -69,7 +69,7 @@ Catalyst::View::XML::Feed          0.05  M/MS/MSTRAT/Catalyst-View-XML-Feed-0.05
 Catalyst::View::XML::Generator     0.02  N/NA/NACHBAUR/Catalyst-View-XML-Generator-0.02.tar.gz
 Catalyst::View::XML::Hash::LX      0.04  G/GU/GUGU/Catalyst-View-XML-Hash-LX-0.04.tar.gz
 Catalyst::View::XML::Simple       0.022  L/LO/LORN/Catalyst-View-XML-Simple-0.022.tar.gz
-Catalyst::View::Xslate          0.00014  D/DM/DMAKI/Catalyst-View-Xslate-0.00014.tar.gz
+Catalyst::View::Xslate          0.00015  D/DM/DMAKI/Catalyst-View-Xslate-0.00015.tar.gz
 Catalyst::View::XSLT               0.08  J/JA/JANUS/Catalyst-View-XSLT-0.08.tar.gz
 Catalyst::View::XSLT::XML::LibXSLT 0.08  J/JA/JANUS/Catalyst-View-XSLT-0.08.tar.gz
 Catalyst::Wizard                  undef  D/DE/DESPAIR/Catalyst-Action-Wizard-0.007.tar.gz
