@@ -199,8 +199,6 @@ Unicorn::Manager               0.006008  M/MU/MUGENKEN/Unicorn-Manager-0.006008.
 Unicorn::Manager::CLI          0.006008  M/MU/MUGENKEN/Unicorn-Manager-0.006008.tar.gz
 Unicorn::Manager::CLI::Proc    0.006008  M/MU/MUGENKEN/Unicorn-Manager-0.006008.tar.gz
 Unicorn::Manager::CLI::Proc::Table    0  M/MU/MUGENKEN/Unicorn-Manager-0.006008.tar.gz
-Unicorn::Manager::Proc         0.005007  M/MU/MUGENKEN/Unicorn-Manager-0.005007.tar.gz
-Unicorn::Manager::Proc::Table         0  M/MU/MUGENKEN/Unicorn-Manager-0.005007.tar.gz
 Unicorn::Manager::Server       0.006008  M/MU/MUGENKEN/Unicorn-Manager-0.006008.tar.gz
 Unicorn::Manager::Server::PreFork     0  M/MU/MUGENKEN/Unicorn-Manager-0.006008.tar.gz
 Unicorn::Manager::Types        0.006008  M/MU/MUGENKEN/Unicorn-Manager-0.006008.tar.gz
