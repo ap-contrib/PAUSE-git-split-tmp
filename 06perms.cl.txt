@@ -27,6 +27,7 @@ Class::Business::DK::Phonenumber,JONASBN,f
 Class::ByOS,PEVANS,f
 Class::C3,BLBLACK,c
 Class::C3,FLORA,c
+Class::C3,MSTROUT,c
 Class::C3,NUFFIN,c
 Class::C3,RKINYON,c
 Class::C3,STEVAN,f
