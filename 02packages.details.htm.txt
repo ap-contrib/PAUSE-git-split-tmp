@@ -514,6 +514,7 @@ HTML::Tested::Value::TextArea     undef  B/BO/BOSU/HTML-Tested-0.58.tar.gz
 HTML::Tested::Value::Tree         undef  B/BO/BOSU/HTML-Tested-0.58.tar.gz
 HTML::Tested::Value::Upload       undef  B/BO/BOSU/HTML-Tested-0.58.tar.gz
 HTML::Testing                     undef  F/FJ/FJH/FormatNroff-0.11.tar.gz
+HTML::TextToHTML                   2.52  R/RU/RUBYKAT/txt2html-2.52.tar.gz
 HTML::Tidy                         1.54  P/PE/PETDANCE/HTML-Tidy-1.54.tar.gz
 HTML::Tidy::libXML                 0.02  D/DA/DANKOGAI/HTML-Tidy-libXML-0.02.tar.gz
 HTML::Tidy::Message               undef  P/PE/PETDANCE/HTML-Tidy-1.54.tar.gz
