@@ -1066,11 +1066,12 @@ Net::YahooMessenger::SendMessage  undef  A/AS/ASPRILLIA/Net-YahooMessenger-0.19.
 Net::YahooMessenger::ServerIsAlive undef  A/AS/ASPRILLIA/Net-YahooMessenger-0.19.tar.gz
 Net::YahooMessenger::UnImplementEvent undef  A/AS/ASPRILLIA/Net-YahooMessenger-0.19.tar.gz
 Net::YAP                            0.6  F/FR/FRIFFIN/Net-YAP-0.6.tar.gz
-Net::YAR                          1.082  R/RH/RHANDOM/Net-YAR-1.082.tar.gz
-Net::YAR::_ChainProxy             1.082  R/RH/RHANDOM/Net-YAR-1.082.tar.gz
-Net::YAR::Fault                   1.082  R/RH/RHANDOM/Net-YAR-1.082.tar.gz
-Net::YAR::Iter                    1.082  R/RH/RHANDOM/Net-YAR-1.082.tar.gz
-Net::YAR::Response                1.082  R/RH/RHANDOM/Net-YAR-1.082.tar.gz
+Net::YAR                          1.083  R/RH/RHANDOM/Net-YAR-1.083.tar.gz
+Net::YAR::_ChainProxy             1.083  R/RH/RHANDOM/Net-YAR-1.083.tar.gz
+Net::YAR::DomainCheck             undef  R/RH/RHANDOM/Net-YAR-1.083.tar.gz
+Net::YAR::Fault                   1.083  R/RH/RHANDOM/Net-YAR-1.083.tar.gz
+Net::YAR::Iter                    1.083  R/RH/RHANDOM/Net-YAR-1.083.tar.gz
+Net::YAR::Response                1.083  R/RH/RHANDOM/Net-YAR-1.083.tar.gz
 Net::YASA                          0.03  C/CL/CLSUNG/Net-YASA-0.03.tar.gz
 Net::YMSG                           1.2  V/VA/VARUNK/Net-YMSG-1.2.tar.gz
 Net::YMSG::Buddy                  undef  V/VA/VARUNK/Net-YMSG-1.2.tar.gz
