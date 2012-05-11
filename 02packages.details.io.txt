@@ -458,10 +458,10 @@ IPC::LDT::Filter::MeTrace             1  J/JS/JSTENZEL/IPC-LDT-2.03.tgz
 IPC::Lite                      0.004037  E/EA/EARONESTY/IPC-Lite-0.4.37.tar.gz
 IPC::Lock                          0.20  E/EA/EARL/IPC-Lock-0.20.tar.gz
 IPC::Lock::Memcached              undef  E/EA/EARL/IPC-Lock-0.20.tar.gz
-IPC::Lock::RabbitMQ               0.006  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.006.tar.gz
-IPC::Lock::RabbitMQ::HasTimeout   undef  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.006.tar.gz
-IPC::Lock::RabbitMQ::Lock         undef  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.006.tar.gz
-IPC::Lock::RabbitMQ::Types        undef  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.006.tar.gz
+IPC::Lock::RabbitMQ               0.007  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.007.tar.gz
+IPC::Lock::RabbitMQ::HasTimeout   undef  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.007.tar.gz
+IPC::Lock::RabbitMQ::Lock         undef  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.007.tar.gz
+IPC::Lock::RabbitMQ::Types        undef  B/BO/BOBTFISH/IPC-Lock-RabbitMQ-0.007.tar.gz
 IPC::Locker                       1.491  W/WS/WSNYDER/IPC-Locker-1.491.tar.gz
 IPC::Locker::Server               1.491  W/WS/WSNYDER/IPC-Locker-1.491.tar.gz
 IPC::MM                            0.03  A/AC/ACHOUNG/IPC-MM-0.03.tar.gz

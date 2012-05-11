@@ -27,6 +27,7 @@ DBIx::Class::Helper::ResultSet::Me,FREW,f
 DBIx::Class::Helper::ResultSet::Random,FREW,f
 DBIx::Class::Helper::ResultSet::RemoveColumns,FREW,f
 DBIx::Class::Helper::ResultSet::ResultClassDWIM,FREW,f
+DBIx::Class::Helper::ResultSet::SearchOr,FREW,f
 DBIx::Class::Helper::ResultSet::SetOperations,FREW,f
 DBIx::Class::Helper::ResultSet::Union,FREW,f
 DBIx::Class::Helper::ResultSet::VirtualView,FREW,f
