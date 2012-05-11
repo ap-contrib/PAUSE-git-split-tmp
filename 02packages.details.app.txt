@@ -41,7 +41,7 @@ App::cpanlistchanges               0.05  M/MI/MIYAGAWA/cpan-listchanges-0.05.tar
 App::cpanmigrate                   0.04  P/PU/PUNYTAN/App-cpanmigrate-0.04.tar.gz
 App::cpanmigrate::bash            undef  P/PU/PUNYTAN/App-cpanmigrate-0.04.tar.gz
 App::cpanmigrate::csh             undef  P/PU/PUNYTAN/App-cpanmigrate-0.04.tar.gz
-App::cpanminus                   1.5011  M/MI/MIYAGAWA/App-cpanminus-1.5011.tar.gz
+App::cpanminus                   1.5012  M/MI/MIYAGAWA/App-cpanminus-1.5012.tar.gz
 App::cpanoutdated                  0.20  T/TO/TOKUHIROM/App-cpanoutdated-0.20.tar.gz
 App::Cppref                       undef  K/KA/KAZUHO/cppref-0.09.tar.gz
 App::Cronjob                   1.102311  R/RJ/RJBS/App-Cronjob-1.102311.tar.gz
