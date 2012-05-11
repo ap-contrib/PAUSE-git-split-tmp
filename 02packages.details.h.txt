@@ -453,7 +453,7 @@ Image::DS9::PConsts               undef  D/DJ/DJERIUS/Image-DS9-0.182.tar.gz
 Image::Embroidery                   1.2  K/KB/KBAUCOM/Image-Embroidery-1.2.tar.gz
 Image::Empty                       0.20  C/CA/CAGAO/Image-Empty-0.20.tar.gz
 Image::Epeg                        0.12  T/TO/TOKUHIROM/Image-Epeg-0.12.tar.gz
-Image::EXIF                        2.00  A/AR/ARC/Image-EXIF-2.00.tar.gz
+Image::EXIF                        2.01  A/AR/ARC/Image-EXIF-2.01.tar.gz
 Image::EXIF::DateTime::Parser       1.2  P/PO/PORRIDGE/Image-EXIF-DateTime-Parser-1.2.tar.gz
 Image::ExifTool                    8.90  E/EX/EXIFTOOL/Image-ExifTool-8.90.tar.gz
 Image::ExifTool::AES               1.01  E/EX/EXIFTOOL/Image-ExifTool-8.90.tar.gz
