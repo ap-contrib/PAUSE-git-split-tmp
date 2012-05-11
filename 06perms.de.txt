@@ -1486,6 +1486,7 @@ Dist::Zilla::Plugin::Run::Test,DRTECH,c
 Dist::Zilla::Plugin::Run::Test,GETTY,f
 Dist::Zilla::Plugin::Run::Test,NPLATONOV,c
 Dist::Zilla::Plugin::Run::Test,RWSTAUNER,c
+Dist::Zilla::Plugin::RunExtraTests,DAGOLDEN,f
 Dist::Zilla::Plugin::SVK,DRBEAN,f
 Dist::Zilla::Plugin::SVK::Check,DRBEAN,f
 Dist::Zilla::Plugin::SVK::Commit,DRBEAN,f
