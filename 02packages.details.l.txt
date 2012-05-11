@@ -964,6 +964,7 @@ Logfile::Read                       0.6  J/JA/JANPAZ/Logfile-Read-0.6.tar.gz
 Logfile::Rotate                    1.05  P/PA/PAULG/Logfile-Rotate-1.04.tar.gz
 Logfile::SFgate                   undef  U/UL/ULPFR/Logfile-0.300.tar.gz
 Logfile::SmartFilter               0.01  K/KH/KHURT/Logfile-SmartFilter-0.01.tar.gz
+Logfile::Tail                       0.7  J/JA/JANPAZ/Logfile-Tail-0.7.tar.gz
 Logfile::Wftp                     undef  U/UL/ULPFR/Logfile-0.300.tar.gz
 Logfile::Wn                       undef  U/UL/ULPFR/Logfile-0.300.tar.gz
 Logfile::WnErr                    undef  U/UL/ULPFR/Logfile-0.300.tar.gz
