@@ -322,7 +322,7 @@ autodie::exception                 2.11  P/PJ/PJF/autodie-2.11.tar.gz
 autodie::exception::system         2.11  P/PJ/PJF/autodie-2.11.tar.gz
 autodie::hints                     2.11  P/PJ/PJF/autodie-2.11.tar.gz
 autodie::Scope::Guard              2.11  P/PJ/PJF/autodie-2.11.tar.gz
-autodie::variables                0.002  L/LE/LEONT/autodie-variables-0.002.tar.gz
+autodie::variables                0.003  L/LE/LEONT/autodie-variables-0.003.tar.gz
 autodynaload                       0.08  P/PA/PATL/autorequire-0.08.tar.gz
 AutoLoad                           0.01  B/BB/BBB/Module-AutoLoad-0.01.tar.gz
 AutoloadComponent                 undef  H/HO/HOLT/makepp-1.19.tar.gz
