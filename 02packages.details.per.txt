@@ -509,7 +509,7 @@ PHP::Array                         0.12  K/KA/KARASIK/PHP-0.12.tar.gz
 PHP::ArrayHandle                   0.12  K/KA/KARASIK/PHP-0.12.tar.gz
 PHP::DateTime                      0.05  B/BL/BLUEFEET/PHP-DateTime-0.06.tar.gz
 PHP::Entity                        0.12  K/KA/KARASIK/PHP-0.12.tar.gz
-PHP::Functions::File               0.02  T/TN/TNAGA/PHP-Functions-File-0.03.tar.gz
+PHP::Functions::File               0.04  T/TN/TNAGA/PHP-Functions-File-0.04.tar.gz
 PHP::Functions::Mail               0.04  Y/YA/YAPPO/PHP-Functions-Mail-0.04.tar.gz
 PHP::HTTPBuildQuery                0.05  M/MS/MSCHILLI/PHP-HTTPBuildQuery-0.05.tar.gz
 PHP::Include                       0.34  A/AM/AMBS/PHP/PHP-Include-0.34.tar.gz
