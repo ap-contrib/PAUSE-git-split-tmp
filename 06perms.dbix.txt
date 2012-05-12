@@ -848,6 +848,7 @@ DBIx::Schema,JMAC,f
 DBIx::Schema::UpToDate,RWSTAUNER,f
 DBIx::SchemaChecksum,DOMM,f
 DBIx::SchemaView,MILSO,m
+DBIx::ScopedTransaction,AUBERTG,f
 DBIx::SearchBuilder,ALEXMV,c
 DBIx::SearchBuilder,FALCONE,c
 DBIx::SearchBuilder,JESSE,f
