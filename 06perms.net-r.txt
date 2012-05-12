@@ -1015,6 +1015,10 @@ Net::TiVo::Folder,BOUMENOT,f
 Net::TiVo::Show,BOUMENOT,f
 Net::Time,GBARR,m
 Net::TinyIp,KUNIYOSHI,f
+Net::TinyIp::Address,KUNIYOSHI,f
+Net::TinyIp::Address::v4,KUNIYOSHI,c
+Net::TinyIp::Address::v6,KUNIYOSHI,c
+Net::TinyIp::Util,KUNIYOSHI,f
 Net::Todoist,FAYLAND,f
 Net::Topsy,LETO,f
 Net::Topsy::Result,LETO,c
