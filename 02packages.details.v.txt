@@ -1215,7 +1215,7 @@ WebFS::FileCopy::Response          1.04  B/BZ/BZAJAC/WebFS-FileCopy-1.04.tar.gz
 WebFS::FileCopy::UA                1.04  B/BZ/BZAJAC/WebFS-FileCopy-1.04.tar.gz
 WebGUI::PSGI::Middleware::Session   0.2  F/FR/FRODWITH/WebGUI-PSGI-0.2.tar.gz
 WebGUI::URL::PSGI                   0.2  F/FR/FRODWITH/WebGUI-PSGI-0.2.tar.gz
-Webinject                          1.72  N/NI/NIERLEIN/Webinject-1.72.tar.gz
+Webinject                          1.74  N/NI/NIERLEIN/Webinject-1.74.tar.gz
 Webinject::Gui                     1.56  N/NI/NIERLEIN/Webinject-Gui-1.56.tar.gz
 Weblogic::UserAdmin                1.03  D/DA/DAVIDP/Weblogic-UserAdmin-1.03.tar.gz
 Weblogic::WLST                     0.01  D/DA/DAVIDP/Weblogic-WLST-0.01.tar.gz
