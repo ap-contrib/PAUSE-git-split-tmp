@@ -735,6 +735,14 @@ MealMaster::KinoSearch::Schema::NoAnalNoVector,PJFL,c
 MealMaster::Recipe,LBROCARD,f
 Media::DateTime,MGRIMES,f
 Media::DateTime::JPEG,MGRIMES,f
+Media::LibMTP::API,CJM,f
+Media::LibMTP::API::AlbumList,CJM,f
+Media::LibMTP::API::FileList,CJM,f
+Media::LibMTP::API::Filetypes,CJM,f
+Media::LibMTP::API::FolderList,CJM,f
+Media::LibMTP::API::MTPDeviceList,CJM,f
+Media::LibMTP::API::PlaylistList,CJM,f
+Media::LibMTP::API::TrackList,CJM,f
 Media::Type::Simple,PURDY,c
 Media::Type::Simple,RRWO,f
 MediaWiki,SPECTRUM,f
