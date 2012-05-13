@@ -113,7 +113,7 @@ Unicode::Decompose                 0.02  S/SI/SIMON/Unicode-Decompose-0.02.tar.g
 Unicode::Diacritic::Strip          0.01  B/BK/BKB/Unicode-Diacritic-Strip-0.01.tar.gz
 Unicode::Digits                20090607  C/CO/COWENS/Unicode-Digits-20090607.tar.gz
 unicode::distinct                 undef  J/JH/JHI/perl-5.7.1.tar.gz
-Unicode::EastAsianWidth            1.30  A/AU/AUDREYT/Unicode-EastAsianWidth-1.30.tar.gz
+Unicode::EastAsianWidth            1.31  A/AU/AUDREYT/Unicode-EastAsianWidth-1.31.tar.gz
 Unicode::Emoji::Base               0.03  K/KA/KAWASAKI/Unicode-Emoji-E4U-0.03.tar.gz
 Unicode::Emoji::Base::Emoji        0.03  K/KA/KAWASAKI/Unicode-Emoji-E4U-0.03.tar.gz
 Unicode::Emoji::Base::Emoji::CP932 0.03  K/KA/KAWASAKI/Unicode-Emoji-E4U-0.03.tar.gz
