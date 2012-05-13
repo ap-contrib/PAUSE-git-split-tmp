@@ -3,6 +3,7 @@ Games::Checkers::CreateVergeMove,MIGO,f
 Games::Checkers::DeclareConstant,MIGO,f
 Games::Checkers::ExpandMoveList,MIGO,f
 Games::Checkers::FigureIterator,MIGO,f
+Games::Checkers::Game,MIGO,f
 Games::Checkers::IteratorConstants,MIGO,f
 Games::Checkers::Iterators,MIGO,f
 Games::Checkers::KingBeatIterator,MIGO,f
@@ -19,6 +20,7 @@ Games::Checkers::PawnStepIterator,MIGO,f
 Games::Checkers::PieceRuleIterator,MIGO,f
 Games::Checkers::Player,MIGO,f
 Games::Checkers::PlayerConstants,MIGO,f
+Games::Checkers::SDL,MIGO,f
 Games::Checkers::UserPlayer,MIGO,f
 Games::Checkers::ValidKingBeatIterator,MIGO,f
 Games::Chess,GDR,f

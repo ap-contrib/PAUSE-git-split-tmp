@@ -225,8 +225,8 @@ WWW::Scraper::ISBN                 0.25  A/AS/ASCHAMP/WWW-Scraper-ISBN-0.25.tar.
 WWW::Scraper::ISBN::A1Books_Driver 0.05  B/BA/BARBIE/WWW-Scraper-ISBN-A1Books_Driver-0.05.tar.gz
 WWW::Scraper::ISBN::AmazonDE_Driver 0.23  R/RE/RENEEB/WWW-Scraper-ISBN-AmazonDE_Driver-0.23.tar.gz
 WWW::Scraper::ISBN::AmazonFR_Driver 0.02  G/GA/GALAND/WWW-Scraper-ISBN-AmazonFR_Driver-0.02.tar.gz
-WWW::Scraper::ISBN::AmazonUK_Driver 0.26  B/BA/BARBIE/WWW-Scraper-ISBN-Amazon_Driver-0.26.tar.gz
-WWW::Scraper::ISBN::AmazonUS_Driver 0.26  B/BA/BARBIE/WWW-Scraper-ISBN-Amazon_Driver-0.26.tar.gz
+WWW::Scraper::ISBN::AmazonUK_Driver 0.27  B/BA/BARBIE/WWW-Scraper-ISBN-Amazon_Driver-0.27.tar.gz
+WWW::Scraper::ISBN::AmazonUS_Driver 0.27  B/BA/BARBIE/WWW-Scraper-ISBN-Amazon_Driver-0.27.tar.gz
 WWW::Scraper::ISBN::BarnesNoble_Driver 0.10  B/BA/BARBIE/WWW-Scraper-ISBN-BarnesNoble_Driver-0.10.tar.gz
 WWW::Scraper::ISBN::Blackwell_Driver 0.01  B/BA/BARBIE/WWW-Scraper-ISBN-Blackwell_Driver-0.01.tar.gz
 WWW::Scraper::ISBN::BookDepository_Driver 0.05  B/BA/BARBIE/WWW-Scraper-ISBN-BookDepository_Driver-0.05.tar.gz
