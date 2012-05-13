@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   116785
-Last-Updated: Sun, 13 May 2012 06:39:03 GMT
+Last-Updated: Sun, 13 May 2012 08:19:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -382,7 +382,7 @@ Acme::ESP::Scanner             1.002007  T/TY/TYEMQ/Acme-ESP-1.002007.tar.gz
 Acme::Everything                   1.01  A/AD/ADAMK/Acme-Everything-1.01.tar.gz
 Acme::EvilLicense                  0.02  K/KI/KIRILLM/Acme-EvilLicense-0.02.tgz
 Acme::ExceptionEater           0.000001  K/KY/KYLE/Acme-ExceptionEater-v0.0.1.tar.gz
-Acme::EyeDrops                     1.55  A/AS/ASAVIGE/Acme-EyeDrops-1.55.tar.gz
+Acme::EyeDrops                     1.60  A/AS/ASAVIGE/Acme-EyeDrops-1.60.tar.gz
 Acme::Fatal                        0.01  S/SW/SWALTERS/Acme-Fatal-0.01.tar.gz
 Acme::Filter::Kenny                1.01  A/AL/ALGERNON/Acme-Filter-Kenny-1.01.tar.gz
 Acme::FizzBuzz                     0.03  Y/YA/YAPPO/Acme-FizzBuzz-0.03.tar.gz
