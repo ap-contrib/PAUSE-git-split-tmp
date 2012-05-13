@@ -261,7 +261,7 @@ WWW::Scraper::ISBN::TWSrbook_Driver 0.01  I/IJ/IJLIAO/WWW-Scraper-ISBN-TWSrbook_
 WWW::Scraper::ISBN::TWTenlong_Driver 0.01  I/IJ/IJLIAO/WWW-Scraper-ISBN-TWTenlong_Driver-0.01.tar.gz
 WWW::Scraper::ISBN::TWYlib_Driver  0.01  I/IJ/IJLIAO/WWW-Scraper-ISBN-TWYlib_Driver-0.01.tar.gz
 WWW::Scraper::ISBN::Waterstones_Driver 0.02  B/BA/BARBIE/WWW-Scraper-ISBN-Waterstones_Driver-0.02.tar.gz
-WWW::Scraper::ISBN::Wheelers_Driver 0.07  B/BA/BARBIE/WWW-Scraper-ISBN-Wheelers_Driver-0.07.tar.gz
+WWW::Scraper::ISBN::Wheelers_Driver 0.08  B/BA/BARBIE/WWW-Scraper-ISBN-Wheelers_Driver-0.08.tar.gz
 WWW::Scraper::ISBN::WHSmith_Driver 0.01  B/BA/BARBIE/WWW-Scraper-ISBN-WHSmith_Driver-0.01.tar.gz
 WWW::Scraper::ISBN::WordPower_Driver 0.05  B/BA/BARBIE/WWW-Scraper-ISBN-WordPower_Driver-0.05.tar.gz
 WWW::Scraper::ISBN::Yahoo_Driver   0.18  B/BA/BARBIE/WWW-Scraper-ISBN-Yahoo_Driver-0.18.tar.gz
