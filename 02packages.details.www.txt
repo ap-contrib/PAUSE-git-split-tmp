@@ -508,10 +508,10 @@ WWW::Selenium::Utils::Actions     undef  L/LU/LUKEC/WWW-Selenium-Utils-0.09.tar.
 WWW::Selenium::Utils::CGI         undef  L/LU/LUKEC/WWW-Selenium-Utils-0.09.tar.gz
 WWW::Selenium::Utils::PostResults undef  L/LU/LUKEC/WWW-Selenium-Utils-0.09.tar.gz
 WWW::Selenium::XMLParseUtils      undef  L/LU/LUKEC/Test-WWW-Selenium-1.24.tar.gz
-WWW::SEOmoz                        0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
-WWW::SEOmoz::Link                  0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
-WWW::SEOmoz::Links                 0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
-WWW::SEOmoz::URLMetrics            0.01  A/AJ/AJCT/WWW-SEOmoz-0.01.tar.gz
+WWW::SEOmoz                        0.02  A/AJ/AJCT/WWW-SEOmoz-0.02.tar.gz
+WWW::SEOmoz::Link                  0.02  A/AJ/AJCT/WWW-SEOmoz-0.02.tar.gz
+WWW::SEOmoz::Links                 0.02  A/AJ/AJCT/WWW-SEOmoz-0.02.tar.gz
+WWW::SEOmoz::URLMetrics            0.02  A/AJ/AJCT/WWW-SEOmoz-0.02.tar.gz
 WWW::Session                       0.07  H/HO/HOREA/WWW-Session/WWW-Session-0.07.tar.gz
 WWW::Session::Serialization::JSON  0.07  H/HO/HOREA/WWW-Session/WWW-Session-0.07.tar.gz
 WWW::Session::Serialization::Storable 0.07  H/HO/HOREA/WWW-Session/WWW-Session-0.07.tar.gz
