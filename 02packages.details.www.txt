@@ -247,7 +247,7 @@ WWW::Scraper::ISBN::Pearson_Driver 0.18  B/BA/BARBIE/WWW-Scraper-ISBN-Pearson_Dr
 WWW::Scraper::ISBN::PickABook_Driver 0.02  B/BA/BARBIE/WWW-Scraper-ISBN-PickABook_Driver-0.02.tar.gz
 WWW::Scraper::ISBN::Record         0.17  A/AS/ASCHAMP/WWW-Scraper-ISBN-Record-0.17.tar.gz
 WWW::Scraper::ISBN::Siciliano_Driver 0.02  J/JO/JOENIO/WWW-Scraper-ISBN-Siciliano_Driver-0.02.tar.gz
-WWW::Scraper::ISBN::TheNile_Driver 0.09  B/BA/BARBIE/WWW-Scraper-ISBN-TheNile_Driver-0.09.tar.gz
+WWW::Scraper::ISBN::TheNile_Driver 0.10  B/BA/BARBIE/WWW-Scraper-ISBN-TheNile_Driver-0.10.tar.gz
 WWW::Scraper::ISBN::TWApexbook_Driver 0.02  I/IJ/IJLIAO/WWW-Scraper-ISBN-TWApexbook_Driver-0.02.tar.gz
 WWW::Scraper::ISBN::TWBooks_Driver 0.02  I/IJ/IJLIAO/WWW-Scraper-ISBN-TWBooks_Driver-0.02.tar.gz
 WWW::Scraper::ISBN::TWCwbook_Driver 0.02  I/IJ/IJLIAO/WWW-Scraper-ISBN-TWCwbook_Driver-0.02.tar.gz
