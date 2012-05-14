@@ -605,7 +605,7 @@ CPU::Z80::Disassembler::Labels     0.04  P/PS/PSCUST/CPU-Z80-Disassembler-0.04.t
 CPU::Z80::Disassembler::Memory     0.04  P/PS/PSCUST/CPU-Z80-Disassembler-0.04.tar.gz
 CQL::AndNode                      undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::BooleanNode                  undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
-CQL::ElasticSearch                    0  N/NI/NICS/Catmandu-0.0102.tar.gz
+CQL::ElasticSearch                    0  N/NI/NICS/Catmandu-0.0103.tar.gz
 CQL::Lexer                        undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::ModifierSet                  undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Node                         undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
@@ -617,7 +617,7 @@ CQL::PrefixNode                   undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::ProxModifierSet              undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::ProxNode                     undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Relation                     undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
-CQL::Solr                             0  N/NI/NICS/Catmandu-0.0102.tar.gz
+CQL::Solr                             0  N/NI/NICS/Catmandu-0.0103.tar.gz
 CQL::TermNode                     undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Token                        undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Utils                        undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz

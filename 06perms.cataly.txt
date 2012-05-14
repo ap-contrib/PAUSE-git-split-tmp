@@ -147,6 +147,7 @@ Catmandu::OAI,NICS,f
 Catmandu::Pager,NICS,f
 Catmandu::Pluggable,NICS,f
 Catmandu::Plugin::Datestamps,NICS,f
+Catmandu::Plugin::Versioning,NICS,f
 Catmandu::Plugin::Versions,NICS,f
 Catmandu::Sane,NICS,f
 Catmandu::Searchable,NICS,f
