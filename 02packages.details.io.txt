@@ -277,7 +277,7 @@ IO::Stream::MatrixSSL::Server  1.001000  P/PO/POWERMAN/IO-Stream-MatrixSSL-1.1.1
 IO::Stream::Noop               0.002000  P/PO/POWERMAN/IO-Stream-1.0.6.tar.gz
 IO::Stream::NoopAlias          0.002000  P/PO/POWERMAN/IO-Stream-1.0.6.tar.gz
 IO::Stream::Proxy::HTTPS       1.000004  P/PO/POWERMAN/IO-Stream-Proxy-HTTPS-1.0.4.tar.gz
-IO::Stream::Proxy::SOCKSv4     1.000000  P/PO/POWERMAN/IO-Stream-Proxy-SOCKSv4-1.0.0.tar.gz
+IO::Stream::Proxy::SOCKSv4     1.000001  P/PO/POWERMAN/IO-Stream-Proxy-SOCKSv4-1.0.1.tar.gz
 IO::Stream::Proxy::SOCKSv5     1.000000  P/PO/POWERMAN/IO-Stream-Proxy-SOCKSv5-1.0.0.tar.gz
 IO::String                         1.08  G/GA/GAAS/IO-String-1.08.tar.gz
 IO::Stringy                       2.110  D/DS/DSKOLL/IO-stringy-2.110.tar.gz
