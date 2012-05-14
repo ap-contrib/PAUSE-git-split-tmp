@@ -396,12 +396,6 @@ NFA::Node                         undef  S/SO/SOREAR/STD-20101111.tar.gz
 NFA::seq                          undef  S/SO/SOREAR/STD-20101111.tar.gz
 Nginx                          1.002000005  Z/ZZ/ZZZ/Nginx-Perl-1.2.0.5.tar.gz
 Nginx::Control                     0.04  N/NA/NACHBAUR/Nginx-Control-0.04.tar.gz
-Nginx::Engine                      0.12  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
-Nginx::Engine::Const              undef  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
-Nginx::Engine::Debug               0.02  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
-Nginx::Engine::PP                  0.03  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
-Nginx::Engine::PP::Buf             0.03  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
-Nginx::Engine::PP::Bufarray        0.03  Z/ZZ/ZZZ/Nginx-Engine-0.12.tar.gz
 Nginx::HTTP                        0.03  Z/ZZ/ZZZ/Nginx-HTTP-0.03.tar.gz
 Nginx::ParseLog                    1.01  N/NR/NRG/Nginx-ParseLog-1.01.tar.gz
 Nginx::Perl                    1.002000005  Z/ZZ/ZZZ/Nginx-Perl-1.2.0.5.tar.gz

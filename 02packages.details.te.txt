@@ -243,15 +243,6 @@ Thread::Tie::Hash                  0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Scalar                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Thread                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 threads                            1.86  J/JD/JDHEDDEN/threads-1.86.tar.gz
-threads::emulate::async           undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::master          undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::master::Array   undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::master::Hash    undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::master::Scalar  undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::share           undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::share::Array    undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::share::Hash     undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
-threads::emulate::share::Scalar   undef  F/FC/FCO/treadsemulate/threads-emulate-0.0.5.tar.gz
 threads::lite                     0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
 threads::lite::list               0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
 threads::lite::queue              0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
