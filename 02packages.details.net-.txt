@@ -214,7 +214,7 @@ Net::EPP::Proxy                    0.04  G/GB/GBROWN/Net-EPP-Proxy-0.04.tar.gz
 Net::EPP::ResponseCodes           undef  G/GB/GBROWN/Net-EPP-0.19.tar.gz
 Net::EPP::Simple                  undef  G/GB/GBROWN/Net-EPP-0.19.tar.gz
 Net::ESMTP                     0.002001  M/MA/MAKLER/Net-ESMTP-0.2.1.tar.gz
-Net::Evernote                      0.05  Y/YH/YHPENG/Net-Evernote-0.05.tgz
+Net::Evernote                      0.06  Y/YH/YHPENG/Net-Evernote-0.06.tgz
 Net::Ewtoo::Bot                    0.16  G/GB/GBROWN/Net-Ewtoo-Bot-0.16.tar.gz
 Net::Facebook::Oauth2              0.02  M/MA/MAMOD/Net-Facebook-Oauth2-0.02.tar.gz
 Net::FastCGI                       0.13  C/CH/CHANSEN/Net-FastCGI-0.13.tar.gz
