@@ -284,10 +284,12 @@ Test::OpenID::Server,RUZ,c
 Test::OpenID::Server,TSIBLEY,c
 Test::Out,LDAVIS,f
 Test::Output,BDFOY,f
+Test::Output,DAGOLDEN,c
 Test::Output,JLHOLT,c
 Test::Output,JPRIT,c
 Test::Output,SSORICHE,c
 Test::Output::Tie,BDFOY,f
+Test::Output::Tie,DAGOLDEN,c
 Test::Output::Tie,JLHOLT,c
 Test::Output::Tie,SSORICHE,c
 Test::Override::UserAgent,DOUGDUDE,f
