@@ -390,6 +390,7 @@ File::Searcher::Similars           1.27  S/SU/SUNTONG/File-Similars-1.7.tgz
 File::SearchPath                   0.06  T/TJ/TJENNESS/File-SearchPath-0.06.tar.gz
 File::Send                        0.001  L/LE/LEONT/File-Send-0.001.tar.gz
 File::Set                          1.02  R/RO/ROBM/File-Set-1.02.tar.gz
+File::Set::Writer              0.000001  S/SY/SYMKAT/File-Set-Writer-0.000001.tar.gz
 File::SetSize                       0.2  C/CA/CAM/File-SetSize-0.3.tar.gz
 File::Share                        0.02  I/IN/INGY/File-Share-0.02.tar.gz
 File::ShareDir                     1.03  A/AD/ADAMK/File-ShareDir-1.03.tar.gz
