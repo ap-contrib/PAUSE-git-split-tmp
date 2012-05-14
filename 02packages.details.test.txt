@@ -1094,7 +1094,7 @@ Text::KnuthPlass::Glue             0.03  S/SI/SIMON/Text-KnuthPlass-0.03.tar.gz
 Text::KnuthPlass::Penalty          0.03  S/SI/SIMON/Text-KnuthPlass-0.03.tar.gz
 Text::KwikiFormat                  0.01  R/RU/RUEYCHENG/Text-KwikiFormat-0.01.tar.gz
 Text::KwikiFormatish               1.11  I/IA/IAN/Text-KwikiFormatish-1.11.tar.gz
-Text::KyTea                        0.30  P/PA/PAWAPAWA/Text-KyTea-0.30.tar.gz
+Text::KyTea                        0.31  P/PA/PAWAPAWA/Text-KyTea-0.31.tar.gz
 Text::Label::Prepender              1.0  T/TB/TBONE/Text-Label-Prepender-1.0.tar.gz
 Text::LangTag                     undef  M/MH/MHOSKEN/SIL-Shoe-1.37.tar.gz
 Text::Language::Guess              0.02  M/MS/MSCHILLI/Text-Language-Guess-0.02.tar.gz
