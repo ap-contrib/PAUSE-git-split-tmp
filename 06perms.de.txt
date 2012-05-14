@@ -1538,6 +1538,7 @@ Dist::Zilla::Plugin::Test::Pod::No404s,RWSTAUNER,f
 Dist::Zilla::Plugin::Test::PodSpelling,XENO,f
 Dist::Zilla::Plugin::Test::Portability,DOHERTY,f
 Dist::Zilla::Plugin::Test::PrereqsFromMeta,CJM,f
+Dist::Zilla::Plugin::Test::ReportPrereqs,DAGOLDEN,f
 Dist::Zilla::Plugin::Test::Synopsis,DOHERTY,f
 Dist::Zilla::Plugin::Test::UnusedVars,DOHERTY,f
 Dist::Zilla::Plugin::Test::UseAllModules,RUSSOZ,f
