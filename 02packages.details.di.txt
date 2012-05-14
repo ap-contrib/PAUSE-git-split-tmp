@@ -159,8 +159,8 @@ DNS::Oterica::RecordMaker::TinyDNS 0.100001  R/RJ/RJBS/DNS-Oterica-0.100001.tar.
 DNS::Oterica::Role::RecordMaker 0.100001  R/RJ/RJBS/DNS-Oterica-0.100001.tar.gz
 DNS::PunyDNS                       0.02  B/BS/BSM/DNS-PunyDNS-0.02.tar.gz
 DNS::Record::Check                  0.0  V/VV/VVELOX/DNS-Record-Check-0.0.0.tar.gz
-DNS::SerialNumber::Check           0.01  Y/YH/YHPENG/DNS-SerialNumber-Check-0.01.tgz
-DNS::SerialNumber::Check::Result   0.01  Y/YH/YHPENG/DNS-SerialNumber-Check-0.01.tgz
+DNS::SerialNumber::Check           0.02  Y/YH/YHPENG/DNS-SerialNumber-Check-0.02.tgz
+DNS::SerialNumber::Check::Result   0.02  Y/YH/YHPENG/DNS-SerialNumber-Check-0.02.tgz
 DNS::TinyDNS                       0.22  A/AN/ANARION/DNS-TinyDNS-0.22.tar.gz
 DNS::TinyDNS::dnscache             0.22  A/AN/ANARION/DNS-TinyDNS-0.22.tar.gz
 DNS::TinyDNS::dnsserver            0.22  A/AN/ANARION/DNS-TinyDNS-0.22.tar.gz
