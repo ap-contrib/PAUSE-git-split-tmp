@@ -343,6 +343,7 @@ Finance::InteractiveBrokers::SWIG,INFIDEL,f
 Finance::InteractiveBrokers::SWIG::EventHandler,INFIDEL,f
 Finance::InteractiveBrokers::TWS,JSTRAUSS,m
 Finance::Loan,ZAKZ,f
+Finance::Loan::Private,RAPMANKIN,f
 Finance::MICR::GOCR,LEOCHARRE,f
 Finance::MICR::GOCR::Check,LEOCHARRE,f
 Finance::MICR::LineParser,LEOCHARRE,f
