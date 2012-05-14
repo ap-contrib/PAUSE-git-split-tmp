@@ -29,6 +29,12 @@ Lingua::JA::TFIDF,MIKI,f
 Lingua::JA::TFIDF::Base,MIKI,f
 Lingua::JA::TFIDF::Fetcher,MIKI,f
 Lingua::JA::TFIDF::Result,MIKI,f
+Lingua::JA::WebIDF,PAWAPAWA,f
+Lingua::JA::WebIDF::API::Bing,PAWAPAWA,f
+Lingua::JA::WebIDF::API::Yahoo,PAWAPAWA,f
+Lingua::JA::WebIDF::API::YahooPremium,PAWAPAWA,f
+Lingua::JA::WebIDF::Driver::Storable,PAWAPAWA,f
+Lingua::JA::WebIDF::Driver::TokyoCabinet,PAWAPAWA,f
 Lingua::JA::WordNet,PAWAPAWA,f
 Lingua::JA::Yomi,MASH,f
 Lingua::JBO::Numbers,PATCH,f
