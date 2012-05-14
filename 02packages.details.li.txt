@@ -35,7 +35,7 @@ Lingua::JA::WebIDF::API::Yahoo    undef  P/PA/PAWAPAWA/Lingua-JA-WebIDF-0.01.tar
 Lingua::JA::WebIDF::API::YahooPremium undef  P/PA/PAWAPAWA/Lingua-JA-WebIDF-0.01.tar.gz
 Lingua::JA::WebIDF::Driver::Storable undef  P/PA/PAWAPAWA/Lingua-JA-WebIDF-0.01.tar.gz
 Lingua::JA::WebIDF::Driver::TokyoCabinet undef  P/PA/PAWAPAWA/Lingua-JA-WebIDF-0.01.tar.gz
-Lingua::JA::WordNet                0.03  P/PA/PAWAPAWA/Lingua-JA-WordNet-0.03.tar.gz
+Lingua::JA::WordNet                0.04  P/PA/PAWAPAWA/Lingua-JA-WordNet-0.04.tar.gz
 Lingua::JA::Yomi                   0.01  M/MA/MASH/Lingua-JA-Yomi-0.01.tar.gz
 Lingua::JBO::Numbers               0.03  P/PA/PATCH/Lingua-Conlang-Numbers-0.04.tar.gz
 Lingua::JP::Kanjidic                1.1  P/PE/PETDANCE/Lingua-JP-Kanjidic-1.1.tar.gz
