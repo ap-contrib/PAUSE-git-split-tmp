@@ -198,9 +198,9 @@ JSON::PP::IncrParser            2.27200  M/MA/MAKAMAKA/JSON-PP-2.27200.tar.gz
 JSON::PPdev                     2.27100  M/MA/MAKAMAKA/JSON-PPdev-2.27100.tar.gz
 JSON::PPdev::Boolean            2.27100  M/MA/MAKAMAKA/JSON-PPdev-2.27100.tar.gz
 JSON::RPC                          1.01  D/DM/DMAKI/JSON-RPC-1.01.tar.gz
-JSON::RPC2                     0.001000  P/PO/POWERMAN/JSON-RPC2-0.1.0.tar.gz
-JSON::RPC2::Client             0.001000  P/PO/POWERMAN/JSON-RPC2-0.1.0.tar.gz
-JSON::RPC2::Server             0.001000  P/PO/POWERMAN/JSON-RPC2-0.1.0.tar.gz
+JSON::RPC2                     0.001001  P/PO/POWERMAN/JSON-RPC2-0.1.1.tar.gz
+JSON::RPC2::Client             0.001001  P/PO/POWERMAN/JSON-RPC2-0.1.1.tar.gz
+JSON::RPC2::Server             0.001001  P/PO/POWERMAN/JSON-RPC2-0.1.1.tar.gz
 JSON::RPC::Client                  0.93  M/MA/MAKAMAKA/JSON-RPC-0.96.tar.gz
 JSON::RPC::Common                  0.10  D/DO/DOY/JSON-RPC-Common-0.10.tar.gz
 JSON::RPC::Common::Marshal::Catalyst undef  J/JL/JLMARTIN/Catalyst-Plugin-Server-JSONRPC-0.07.tar.gz
