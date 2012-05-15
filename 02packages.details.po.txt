@@ -132,8 +132,8 @@ POE::Component::RemoteTail      0.01011  M/MI/MIKI/POE-Component-RemoteTail-0.01
 POE::Component::RemoteTail::CustomEngine::NetSSHPerl undef  M/MI/MIKI/POE-Component-RemoteTail-0.01011.tar.gz
 POE::Component::RemoteTail::Job   undef  M/MI/MIKI/POE-Component-RemoteTail-0.01011.tar.gz
 POE::Component::Rendezvous::Publish 0.01  M/ME/MELO/POE-Component-Rendezvous-Publish-0.01.tar.gz
-POE::Component::Resolver          0.916  R/RC/RCAPUTO/POE-Component-Resolver-0.916.tar.gz
-POE::Component::Resolver::Sidecar 0.916  R/RC/RCAPUTO/POE-Component-Resolver-0.916.tar.gz
+POE::Component::Resolver          0.917  R/RC/RCAPUTO/POE-Component-Resolver-0.917.tar.gz
+POE::Component::Resolver::Sidecar 0.917  R/RC/RCAPUTO/POE-Component-Resolver-0.917.tar.gz
 POE::Component::ResourcePool       0.04  N/NU/NUFFIN/POE-Component-ResourcePool-0.04.tar.gz
 POE::Component::ResourcePool::Request undef  N/NU/NUFFIN/POE-Component-ResourcePool-0.04.tar.gz
 POE::Component::ResourcePool::Resource undef  N/NU/NUFFIN/POE-Component-ResourcePool-0.04.tar.gz
@@ -397,11 +397,11 @@ POE::Filter::FSSocket              0.07  P/PT/PTINSLEY/POE-Filter-FSSocket-0.07.
 POE::Filter::Grep                 1.353  R/RC/RCAPUTO/POE-1.353.tar.gz
 POE::Filter::Hessian               1.00  H/HE/HEYTRAV/POE-Filter-Hessian-1.00.tar.gz
 POE::Filter::HTTP::Parser          1.06  B/BI/BINGOS/POE-Filter-HTTP-Parser-1.06.tar.gz
-POE::Filter::HTTPChunk            0.945  R/RC/RCAPUTO/POE-Component-Client-HTTP-0.945.tar.gz
+POE::Filter::HTTPChunk            0.946  R/RC/RCAPUTO/POE-Component-Client-HTTP-0.946.tar.gz
 POE::Filter::HTTPD                1.353  R/RC/RCAPUTO/POE-1.353.tar.gz
 POE::Filter::HTTPD::Chunked         0.9  M/MM/MMORGAN/POE-Filter-HTTPD-Chunked-0.9.tar.gz
-POE::Filter::HTTPHead             0.945  R/RC/RCAPUTO/POE-Component-Client-HTTP-0.945.tar.gz
-POE::Filter::HTTPHead_Line        0.945  R/RC/RCAPUTO/POE-Component-Client-HTTP-0.945.tar.gz
+POE::Filter::HTTPHead             0.946  R/RC/RCAPUTO/POE-Component-Client-HTTP-0.946.tar.gz
+POE::Filter::HTTPHead_Line        0.946  R/RC/RCAPUTO/POE-Component-Client-HTTP-0.946.tar.gz
 POE::Filter::IASLog                1.08  B/BI/BINGOS/POE-Filter-IASLog-1.08.tar.gz
 POE::Filter::Ident                 1.16  B/BI/BINGOS/POE-Component-Client-Ident-1.16.tar.gz
 POE::Filter::IRC                   6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz

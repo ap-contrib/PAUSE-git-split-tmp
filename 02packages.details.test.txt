@@ -530,7 +530,7 @@ TestML::Transform                 undef  I/IN/INGY/TestML-0.26.tar.gz
 TestModule                        undef  J/JW/JWU/RPC-Object/RPC-Object-0.04.tar.gz
 TestRHBug                         undef  J/JR/JROBINSON/DBIx-Class-0.08009.tar.gz
 TestRunner                        undef  N/NI/NIGE/Goo-0.09.tar.gz
-TestServer                        undef  R/RC/RCAPUTO/POE-Component-Client-Keepalive-0.270.tar.gz
+TestServer                        undef  R/RC/RCAPUTO/POE-Component-Client-Keepalive-0.271.tar.gz
 testthread                         0.08  S/SA/SANTEX/Finance-Quant-0.08.tar.gz
 TestXML2                          undef  J/JZ/JZOBEL/Apache2-ModXml2-0.01.tar.gz
 TetrixBoard                       undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
