@@ -307,6 +307,12 @@ WWW::Scraper::TidyXML,GLENNWOOD,f
 WWW::Scraper::TidyXML::_struct_,GLENNWOOD,f
 WWW::Scraper::Typo3,RSAVAGE,f
 WWW::Scraper::WSDL,GLENNWOOD,f
+WWW::Scraper::Wikipedia::ISO3166,RSAVAGE,f
+WWW::Scraper::Wikipedia::ISO3166::Database,RSAVAGE,f
+WWW::Scraper::Wikipedia::ISO3166::Database::Create,RSAVAGE,f
+WWW::Scraper::Wikipedia::ISO3166::Database::Download,RSAVAGE,f
+WWW::Scraper::Wikipedia::ISO3166::Database::Export,RSAVAGE,f
+WWW::Scraper::Wikipedia::ISO3166::Database::Import,RSAVAGE,f
 WWW::Scraper::Yahoo360,COSIMO,f
 WWW::Scraper::Yahoo360,OPERA,c
 WWW::Scraper::ZIPplus4,GLENNWOOD,f
