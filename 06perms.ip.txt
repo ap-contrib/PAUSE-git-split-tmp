@@ -367,6 +367,7 @@ IPTables::Log::Set,MEH,f
 IPTables::Log::Set::Record,MEH,f
 IPTables::Mangle,MJFLICK,f
 IPTables::Parse,MRASH,f
+IPTables::Rule,PHILLIPS,f
 IPTables::libiptc,HAWK,m
 IPsonar,GBUDD,m
 IPv4,SAMUEL,f
