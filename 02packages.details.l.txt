@@ -815,7 +815,7 @@ Log::Log4perl::Layout::NoopLayout undef  M/MS/MSCHILLI/Log-Log4perl-1.36.tar.gz
 Log::Log4perl::Layout::PatternLayout undef  M/MS/MSCHILLI/Log-Log4perl-1.36.tar.gz
 Log::Log4perl::Layout::PatternLayout::Elapsed 0.06  P/PO/POTYL/Log-Log4perl-Layout-PatternLayout-Elapsed-0.06.tar.gz
 Log::Log4perl::Layout::PatternLayout::Multiline undef  M/MS/MSCHILLI/Log-Log4perl-1.36.tar.gz
-Log::Log4perl::Layout::PatternLayout::Redact v1.1.1  K/KA/KATE/Log-Log4perl-Layout-PatternLayout-Redact-1.1.1.tar.gz
+Log::Log4perl::Layout::PatternLayout::Redact v1.2.0  K/KA/KATE/Log-Log4perl-Layout-PatternLayout-Redact-1.2.0.tar.gz
 Log::Log4perl::Layout::SimpleLayout undef  M/MS/MSCHILLI/Log-Log4perl-1.36.tar.gz
 Log::Log4perl::Layout::SimpleLayout::Multiline 0.02  N/NU/NUFFIN/Log-Log4perl-Layout-SimpleLayout-Multiline-0.02.tar.gz
 Log::Log4perl::Layout::XMLLayout   0.03  G/GC/GCARLS/Log-Log4perl-Layout-XMLLayout-0.03.tar.gz
