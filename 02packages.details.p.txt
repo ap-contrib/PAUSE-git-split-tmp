@@ -1020,7 +1020,6 @@ RDF::Redland::DIG::Tutorial        0.03  D/DR/DRRHO/RDF-Redland-DIG-0.04.tar.gz
 RDF::Redland::Iterator            undef  D/DJ/DJBECKETT/Redland-1.0.5.4.tar.gz
 RDF::Redland::LiteralNode         undef  D/DJ/DJBECKETT/Redland-1.0.5.4.tar.gz
 RDF::Redland::Model               undef  D/DJ/DJBECKETT/Redland-1.0.5.4.tar.gz
-RDF::Redland::Model::ExifTool      0.15  A/AR/ARNHEMCR/RDF-Redland-Model-ExifTool-0.15.tar.gz
 RDF::Redland::Node                undef  D/DJ/DJBECKETT/Redland-1.0.5.4.tar.gz
 RDF::Redland::Parser              undef  D/DJ/DJBECKETT/Redland-1.0.5.4.tar.gz
 RDF::Redland::Query               undef  D/DJ/DJBECKETT/Redland-1.0.5.4.tar.gz
