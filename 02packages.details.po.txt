@@ -132,8 +132,8 @@ POE::Component::RemoteTail      0.01011  M/MI/MIKI/POE-Component-RemoteTail-0.01
 POE::Component::RemoteTail::CustomEngine::NetSSHPerl undef  M/MI/MIKI/POE-Component-RemoteTail-0.01011.tar.gz
 POE::Component::RemoteTail::Job   undef  M/MI/MIKI/POE-Component-RemoteTail-0.01011.tar.gz
 POE::Component::Rendezvous::Publish 0.01  M/ME/MELO/POE-Component-Rendezvous-Publish-0.01.tar.gz
-POE::Component::Resolver          0.917  R/RC/RCAPUTO/POE-Component-Resolver-0.917.tar.gz
-POE::Component::Resolver::Sidecar 0.917  R/RC/RCAPUTO/POE-Component-Resolver-0.917.tar.gz
+POE::Component::Resolver          0.918  R/RC/RCAPUTO/POE-Component-Resolver-0.918.tar.gz
+POE::Component::Resolver::Sidecar 0.918  R/RC/RCAPUTO/POE-Component-Resolver-0.918.tar.gz
 POE::Component::ResourcePool       0.04  N/NU/NUFFIN/POE-Component-ResourcePool-0.04.tar.gz
 POE::Component::ResourcePool::Request undef  N/NU/NUFFIN/POE-Component-ResourcePool-0.04.tar.gz
 POE::Component::ResourcePool::Resource undef  N/NU/NUFFIN/POE-Component-ResourcePool-0.04.tar.gz
