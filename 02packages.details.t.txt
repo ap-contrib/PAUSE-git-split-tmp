@@ -177,8 +177,6 @@ Toader::Render::supportedBackends   0.0  V/VV/VVELOX/Toader-0.2.0.tar.gz
 Toader::Render::supportedObjects    0.0  V/VV/VVELOX/Toader-0.2.0.tar.gz
 Toader::Templates              0.001000  V/VV/VVELOX/Toader-0.2.0.tar.gz
 Toader::Templates::Defaults    0.002000  V/VV/VVELOX/Toader-0.2.0.tar.gz
-TOBYINK::PerlX::A                     1  T/TO/TOBYINK/TOBYINK-PerlX-A-1.tar.gz
-TOBYINK::PerlX::A::TypeLib            1  T/TO/TOBYINK/TOBYINK-PerlX-A-1.tar.gz
 Token                             undef  Y/YV/YVESP/llg-1.07.tar.gz
 TomTom::WEBFLEET::Connect          2.11  I/IM/IMIOSGA/TomTom-WEBFLEET-Connect-2.11.tar.gz
 TomTom::WEBFLEET::Connect::Response undef  I/IM/IMIOSGA/TomTom-WEBFLEET-Connect-2.11.tar.gz
