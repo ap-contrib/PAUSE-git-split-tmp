@@ -691,7 +691,7 @@ SQL::Entity::Relationship          0.01  A/AD/ADRIANWIT/SQL-Entity-0.05.tar.gz
 SQL::Entity::Table                 0.02  A/AD/ADRIANWIT/SQL-Entity-0.05.tar.gz
 SQL::Eval                          1.33  R/RE/REHSACK/SQL-Statement-1.33.tar.gz
 SQL::Eval::Table                   1.33  R/RE/REHSACK/SQL-Statement-1.33.tar.gz
-SQL::Format                        0.02  X/XA/XAICRON/SQL-Format-0.02.tar.gz
+SQL::Format                        0.03  X/XA/XAICRON/SQL-Format-0.03.tar.gz
 SQL::Generator                     0.02  M/MU/MUENALAN/SQL-Generator-0.02.tar.gz
 SQL::Generator::Argument           0.02  M/MU/MUENALAN/SQL-Generator-0.02.tar.gz
 SQL::Generator::Command            0.02  M/MU/MUENALAN/SQL-Generator-0.02.tar.gz
