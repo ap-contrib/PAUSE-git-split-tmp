@@ -495,7 +495,7 @@ WWW::DaysOfWonder::Memoir44::Scenario 2.120510  J/JQ/JQUELIN/WWW-DaysOfWonder-Me
 WWW::DaysOfWonder::Memoir44::Types 2.120510  J/JQ/JQUELIN/WWW-DaysOfWonder-Memoir44-2.120510.tar.gz
 WWW::DaysOfWonder::Memoir44::Url 2.120510  J/JQ/JQUELIN/WWW-DaysOfWonder-Memoir44-2.120510.tar.gz
 WWW::DaysOfWonder::Memoir44::Utils 2.120510  J/JQ/JQUELIN/WWW-DaysOfWonder-Memoir44-2.120510.tar.gz
-WWW::DDG                          0.009  G/GE/GETTY/WWW-DuckDuckGo-0.009.tar.gz
+WWW::DDG                          0.010  G/GE/GETTY/WWW-DuckDuckGo-0.010.tar.gz
 WWW::Delicious::Simple            undef  A/AJ/AJCT/WWW-Delicious-Simple-0.02.tar.gz
 WWW::Deutschepost::Detail           0.1  S/ST/STEFANOS/WWW-Deutschepost-Detail-0.1.tar.gz
 WWW::DHL                           0.03  S/SE/SEPP/WWW-DHL-0.03.tar.gz
@@ -532,10 +532,10 @@ WWW::DomainTools::NameSpinner      1.03  D/DB/DBARTLE/WWW-DomainTools-0.11.tar.g
 WWW::DomainTools::SearchEngine     0.06  D/DB/DBARTLE/WWW-DomainTools-0.11.tar.gz
 WWW::DPD::Detail                    0.1  S/ST/STEFANOS/WWW-DPD-Detail-0.1.tar.gz
 WWW::DreamHost::API                1.05  S/ST/STRO/WWW-DreamHost-API-1.05.tar.gz
-WWW::DuckDuckGo                   0.009  G/GE/GETTY/WWW-DuckDuckGo-0.009.tar.gz
-WWW::DuckDuckGo::Icon             0.009  G/GE/GETTY/WWW-DuckDuckGo-0.009.tar.gz
-WWW::DuckDuckGo::Link             0.009  G/GE/GETTY/WWW-DuckDuckGo-0.009.tar.gz
-WWW::DuckDuckGo::ZeroClickInfo    0.009  G/GE/GETTY/WWW-DuckDuckGo-0.009.tar.gz
+WWW::DuckDuckGo                   0.010  G/GE/GETTY/WWW-DuckDuckGo-0.010.tar.gz
+WWW::DuckDuckGo::Icon             0.010  G/GE/GETTY/WWW-DuckDuckGo-0.010.tar.gz
+WWW::DuckDuckGo::Link             0.010  G/GE/GETTY/WWW-DuckDuckGo-0.010.tar.gz
+WWW::DuckDuckGo::ZeroClickInfo    0.010  G/GE/GETTY/WWW-DuckDuckGo-0.010.tar.gz
 WWW::Ebay                         0.094  M/MT/MTHURN/WWW-Ebay-0.094.tar.gz
 WWW::Ebay::Customer               1.016  M/MT/MTHURN/WWW-Ebay-0.094.tar.gz
 WWW::Ebay::Listing                1.012  M/MT/MTHURN/WWW-Ebay-0.094.tar.gz
