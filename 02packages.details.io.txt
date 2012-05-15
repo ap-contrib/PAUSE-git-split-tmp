@@ -638,6 +638,7 @@ IPTables::Log::Set               0.0005  M/ME/MEH/IPTables-Log-0.0005.tar.gz
 IPTables::Log::Set::Record       0.0005  M/ME/MEH/IPTables-Log-0.0005.tar.gz
 IPTables::Mangle                   0.02  M/MJ/MJFLICK/IPTables-Mangle-0.02.tar.gz
 IPTables::Parse                     1.1  M/MR/MRASH/IPTables-Parse-1.1.tar.gz
+IPTables::Rule                     0.01  P/PH/PHILLIPS/IPTables-Rule-0.01.tar.gz
 IPTC                               0.22  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.22.tar.gz
 IPv4                              undef  S/SA/SAMUEL/IPDevice-0.03.tar.gz
 IRC::Bot                           0.07  B/BW/BWSMITH/IRC-Bot-0.08.tar.gz
