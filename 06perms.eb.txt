@@ -500,6 +500,7 @@ feature,LBROCARD,c
 feature,RGARCIA,f
 feature,RJBS,c
 feature::globally,AWWAIID,f
+feature::loop,IKEGAMI,f
 feature::qw_comments,IKEGAMI,f
 fewer,RJBS,f
 field_body,PHILCROW,f
