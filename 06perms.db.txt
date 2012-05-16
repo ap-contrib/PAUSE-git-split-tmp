@@ -523,6 +523,8 @@ DBIx::Class::QueryLog,GPHAT,f
 DBIx::Class::QueryLog::Analyzer,GPHAT,f
 DBIx::Class::QueryLog::Query,GPHAT,f
 DBIx::Class::QueryLog::Transaction,GPHAT,f
+DBIx::Class::QueryLog::WithStackTrace,DCANTRELL,f
+DBIx::Class::QueryLog::WithStackTrace::Query,DCANTRELL,f
 DBIx::Class::QueryProfiler,GUGU,f
 DBIx::Class::QueryProfiler,MONS,c
 DBIx::Class::RDBOHelpers,KARMAN,f
