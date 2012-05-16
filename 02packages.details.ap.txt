@@ -312,6 +312,15 @@ App::AllKnowingDNS::Config        undef  M/MS/MSTPLBG/AllKnowingDNS-1.3.tar.gz
 App::AllKnowingDNS::Handler         1.0  M/MS/MSTPLBG/AllKnowingDNS-1.0.tar.gz
 App::AllKnowingDNS::Util          undef  M/MS/MSTPLBG/AllKnowingDNS-1.3.tar.gz
 App::AllKnowingDNS::Zone          undef  M/MS/MSTPLBG/AllKnowingDNS-1.3.tar.gz
+App::AltSQL                        0.01  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::Model                    0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::Model::MySQL             0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::Plugin::Tail             0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::Role                     0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::Term                     0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::View                     0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::View::Plugin::Color      0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
+App::AltSQL::View::Plugin::UnicodeBox 0  E/EW/EWATERS/App-AltSQL-0.01.tar.gz
 App::Anarch                        0.04  S/SP/SPROUT/anarch-0.04.tar.gz
 App::ArchiveDevelCover            1.000  D/DO/DOMM/App-ArchiveDevelCover-1.000.tar.gz
 App::Asciio                        1.02  N/NK/NKH/App-Asciio-1.02.71.tar.gz
