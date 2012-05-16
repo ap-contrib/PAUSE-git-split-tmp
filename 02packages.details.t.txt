@@ -1,6 +1,6 @@
 Tk::XPMs                           1.11  L/LD/LDOMKE/Tk-XPMs-1.11.tar.gz
 Tk::Xrm                           4.005  S/SR/SREZIC/Tk-804.030.tar.gz
-Tk::Year                            1.0  A/AR/ARIF/Tk-Month-1.6.tar.gz
+Tk::Year                            1.0  A/AR/ARIF/Tk-Month-1.7.tar.gz
 Tk::Zinc                          3.303  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz
 Tk::Zinc::Debug                    1.58  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz
 Tk::Zinc::Graphics                 1.12  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz

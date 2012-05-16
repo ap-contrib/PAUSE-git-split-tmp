@@ -1297,7 +1297,7 @@ Tk::MListbox                       1.11  R/RC/RCS/Tk-MListbox-1.11.tar.gz
 Tk::MMtry                         4.011  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::MMutil                        4.024  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::MonitorBar                    undef  A/AN/ANDYDUNC/Orac-alpha-1.2.6.tar.gz
-Tk::Month                           1.6  A/AR/ARIF/Tk-Month-1.6.tar.gz
+Tk::Month                           1.7  A/AR/ARIF/Tk-Month-1.7.tar.gz
 Tk::More                           5.08  S/SR/SREZIC/Tk-Pod-0.9940.tar.gz
 Tk::MouseGesture                   0.03  A/AQ/AQUMSIEH/Tk-MouseGesture-0.03.tar.gz
 Tk::MsgBox                        4.002  S/SR/SREZIC/Tk-804.030.tar.gz
@@ -1328,7 +1328,7 @@ Tk::Optionmenu                    4.014  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::OS2src                         1.04  I/IL/ILYAZ/os2/tk/Tk-OS2src-1.04.zip
 Tk::Pane                          4.007  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::Panedwindow                   4.004  S/SR/SREZIC/Tk-804.030.tar.gz
-Tk::Panel                           1.4  A/AR/ARIF/Tk-Month-1.6.tar.gz
+Tk::Panel                           1.4  A/AR/ARIF/Tk-Month-1.7.tar.gz
 Tk::PathEntry                      3.05  W/WI/WITTROCK/Tk-PathEntry-3.05.tar.gz
 Tk::PathEntry::Dialog              1.11  W/WI/WITTROCK/Tk-PathEntry-3.05.tar.gz
 Tk::PerlInheritanceTree            0.05  L/LA/LAMPRECHT/Tk-PerlInheritanceTree-0.05.tar.gz
@@ -1418,7 +1418,7 @@ Tk::Stderr                          1.2  K/KV/KVAIL/Tk-Stderr-1.2.tar.gz
 Tk::Stderr::Handle                  1.2  K/KV/KVAIL/Tk-Stderr-1.2.tar.gz
 Tk::Stdio                           1.0  A/AU/AUTRIJUS/PAR-0.88.tar.gz
 Tk::Stdio::Handle                   1.0  A/AU/AUTRIJUS/PAR-0.88.tar.gz
-Tk::StrfClock                       1.4  A/AR/ARIF/Tk-Month-1.6.tar.gz
+Tk::StrfClock                       1.4  A/AR/ARIF/Tk-Month-1.7.tar.gz
 Tk::StyledButton                   0.10  D/DA/DARNOLD/Tk-StyledButton-0.10.tar.gz
 Tk::StyleDialog                    0.04  K/KI/KIRSLE/Tk-StyleDialog-0.04.tar.gz
 Tk::StyleDialog::Builtins         undef  K/KI/KIRSLE/Tk-StyleDialog-0.04.tar.gz
