@@ -1312,6 +1312,7 @@ Business::Zahlschein,HAVI,f
 Business::iDEAL::Adyen,BLOM,f
 Business::iDEAL::Mollie,BLOM,f
 BusinessHours,SOLARANT,f
+BusinessLogic,AMD,f
 ButtonGroup,PHILCROW,f
 ButtonsGroups,GGARAND,f
 Buzznet::API,KWOOLERY,f

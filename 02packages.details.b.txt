@@ -882,6 +882,7 @@ Business::WebMoney                 0.11  A/AM/AML/Business-WebMoney-0.11.tar.gz
 Business::WebMoney::Exchanger      0.02  A/AM/AML/Business-WebMoney-0.11.tar.gz
 Business::WorldPay::Junior         1.07  C/CL/CLIFFORDJ/Business-WorldPay-Junior-1.07.tar.gz
 Business::Zahlschein               0.02  H/HA/HAVI/Business-Zahlschein-0.02.tar.gz
+BusinessLogic                     undef  A/AM/AMD/Tapper-MCP-4.0.1.tar.gz
 Button                            undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 ButtonsGroups                     undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
 Buzznet::API                       0.01  K/KW/KWOOLERY/Buzznet-API-0.01.tar.gz

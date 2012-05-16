@@ -272,6 +272,7 @@ DBstorage::DBI                    undef  G/GN/GNALABS/DBedit-1.96.tar.gz
 DBstorage::RandRDB                undef  G/GN/GNALABS/DBedit-1.96.tar.gz
 DBstorage::RDB                    undef  G/GN/GNALABS/DBedit-1.96.tar.gz
 DBUnit                             0.15  A/AD/ADRIANWIT/Test-DBUnit-0.20.tar.gz
+DbUser                            undef  A/AM/AMD/Tapper-MCP-4.0.1.tar.gz
 DBWriter                          undef  J/JA/JALYCAI/article_fetcher.zip
 DBX                                 0.1  B/BA/BATKINS/DBX-0.1.tar.gz
 DBX::Connection                     0.1  B/BA/BATKINS/DBX-0.1.tar.gz

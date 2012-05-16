@@ -1061,6 +1061,7 @@ TypeDeclarator,PERRAD,f
 TypeDeclarators,PERRAD,f
 TypeId,PERRAD,f
 TypeLessTranslator,NIGE,f
+TypeLib,AMD,f
 TypePrefix,PERRAD,f
 Typelib::Base,BAERGAJ,f
 Typelib::TEnqueueMessage,BAERGAJ,f
