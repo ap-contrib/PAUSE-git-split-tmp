@@ -971,7 +971,7 @@ ARS                                1.91  J/JM/JMURPHY/ARSperl-1.91.tgz
 ARS::CodeTemplate                 undef  J/JM/JMURPHY/ARSperl-1.91.tgz
 ARS::ERRORSTR                      1.91  J/JM/JMURPHY/ARSperl-1.91.tgz
 ARS::form                         undef  J/JM/JMURPHY/ARSperl-1.91.tgz
-ARSObject                          0.55  M/MA/MAKAROW/ARSObject-0.55-withoutworldwriteables.tar.gz
+ARSObject                          0.56  M/MA/MAKAROW/ARSObject-0.56.tar.gz
 Arthas::Defaults               3.000000  A/AR/ARTHAS/Arthas-Defaults-3.0.0.tar.gz
 Article                            0.55  F/FP/FPREICH/XML-BMEcat-0.55.tar.gz
 ArticleSystem                      0.55  F/FP/FPREICH/XML-BMEcat-0.55.tar.gz
