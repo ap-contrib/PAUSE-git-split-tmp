@@ -709,7 +709,7 @@ Net::IP::RangeCompare             4.025  A/AK/AKALINUX/Net-IP-RangeCompare-4.025
 Net::IP::RangeCompare::Simple     4.025  A/AK/AKALINUX/Net-IP-RangeCompare-4.025.tar.gz
 Net::IP::Resolver                  0.02  A/AD/ADAMK/Net-IP-Resolver-0.02.tar.gz
 Net::IP::Route::Reject              0.5  D/DH/DHUDES/Net-IP-Route-Reject-0.5.tar.gz
-Net::IP::XS                        0.08  T/TO/TOMHRR/Net-IP-XS-0.08.tar.gz
+Net::IP::XS                        0.09  T/TO/TOMHRR/Net-IP-XS-0.09.tar.gz
 Net::IPAddr::Find                  0.02  M/MI/MIYAGAWA/Net-IPAddr-Find-0.02.tar.gz
 Net::IPAddress                     1.10  S/SA/SARENNER/Net-IPAddress-1.10-PPM.zip
 Net::IPAddress::Minimal            0.05  X/XS/XSAWYERX/Net-IPAddress-Minimal-0.05.tar.gz

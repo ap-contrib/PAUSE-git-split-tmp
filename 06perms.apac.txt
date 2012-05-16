@@ -249,6 +249,15 @@ App::AllKnowingDNS::Config,MSTPLBG,f
 App::AllKnowingDNS::Handler,MSTPLBG,f
 App::AllKnowingDNS::Util,MSTPLBG,f
 App::AllKnowingDNS::Zone,MSTPLBG,f
+App::AltSQL,EWATERS,f
+App::AltSQL::Model,EWATERS,f
+App::AltSQL::Model::MySQL,EWATERS,f
+App::AltSQL::Plugin::Tail,EWATERS,f
+App::AltSQL::Role,EWATERS,f
+App::AltSQL::Term,EWATERS,f
+App::AltSQL::View,EWATERS,f
+App::AltSQL::View::Plugin::Color,EWATERS,f
+App::AltSQL::View::Plugin::UnicodeBox,EWATERS,f
 App::Anarch,SPROUT,m
 App::ArchiveDevelCover,DOMM,f
 App::Asciio,NKH,f
