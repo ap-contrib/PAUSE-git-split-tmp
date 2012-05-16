@@ -216,6 +216,7 @@ WWW::Scraper::Delicious            0.10  A/AG/AGF/WWW-Scraper-Delicious-0.10.tar
 WWW::Scraper::Dice                 1.09  G/GL/GLENNWOOD/Bundle-WWW-Scraper-Job-0.01.tar.gz
 WWW::Scraper::Dogpile              1.11  G/GL/GLENNWOOD/Scraper-3.05.tar.gz
 WWW::Scraper::eBay                 1.01  G/GL/GLENNWOOD/Bundle-WWW-Scraper-Auction-0.01.tar.gz
+WWW::Scraper::F1                  0.001  F/FK/FKALTER/WWW-Scraper-F1-0.001.tar.gz
 WWW::Scraper::FieldTranslation     1.00  G/GL/GLENNWOOD/Scraper-3.05.tar.gz
 WWW::Scraper::FlipDog              1.03  G/GL/GLENNWOOD/Bundle-WWW-Scraper-Job-0.01.tar.gz
 WWW::Scraper::Gmail                0.09  K/KA/KASTNER/WWW-Scraper-Gmail-0.09.tar.gz
