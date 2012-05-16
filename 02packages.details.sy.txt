@@ -375,7 +375,7 @@ Sys::FreezeThaw                    0.01  M/ML/MLEHMANN/Sys-FreezeThaw-0.01.tar.g
 Sys::Gamin                          0.1  G/GA/GARNACHO/Sys-Gamin-0.1.tar.gz
 Sys::Group::GIDhelper          0.000002  V/VV/VVELOX/Sys-Group-GIDhelper-0.0.2.tar.gz
 Sys::Headers                       0.01  C/CW/CWEST/Sys-Headers-0.01.tar.gz
-Sys::HostAddr                      0.95  J/JK/JKISTER/Sys-HostAddr-0.95.tgz
+Sys::HostAddr                      0.96  J/JK/JKISTER/Sys-HostAddr-0.96.tgz
 Sys::HostIP                        1.95  X/XS/XSAWYERX/Sys-HostIP-1.95.tar.gz
 Sys::Hostname                      1.16  F/FL/FLORA/perl-5.15.4.tar.gz
 Sys::Hostname::FQDN                0.11  M/MI/MIKER/Sys-Hostname-FQDN-0.11.tar.gz
