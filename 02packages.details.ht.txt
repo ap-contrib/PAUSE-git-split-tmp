@@ -394,8 +394,8 @@ HTML::Index::Store::BerkeleyDB    undef  A/AW/AWRIGLEY/HTML-Index-0.15.tar.gz
 HTML::Index::Store::DataDumper    undef  A/AW/AWRIGLEY/HTML-Index-0.15.tar.gz
 HTML::InfoVis                      0.03  A/AD/ADAMK/HTML-InfoVis-0.03.tar.gz
 HTML::InfoVis::Graph               0.03  A/AD/ADAMK/HTML-InfoVis-0.03.tar.gz
-HTML::JQuery                      0.004  B/BR/BRADH/HTML-JQuery-0.004.tar.gz
-HTML::JQuery::Data                undef  B/BR/BRADH/HTML-JQuery-0.004.tar.gz
+HTML::JQuery                      0.005  B/BR/BRADH/HTML-JQuery-0.005.tar.gz
+HTML::JQuery::Data                undef  B/BR/BRADH/HTML-JQuery-0.005.tar.gz
 HTML::KhatGallery                  0.03  R/RU/RUBYKAT/khatgallery-0.03.tar.gz
 HTML::KhatGallery::Core            0.03  R/RU/RUBYKAT/khatgallery-0.03.tar.gz
 HTML::KhatGallery::Plugin::SortNaturally 0.01  R/RU/RUBYKAT/HTML-KhatGallery-Plugin-SortNaturally-0.01.tar.gz
