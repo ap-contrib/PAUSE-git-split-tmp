@@ -1500,7 +1500,7 @@ HTTP::Throwable::TemporaryRedirect undef  S/ST/STEVAN/HTTP-Throwable-0.004.tar.g
 HTTP::Throwable::Unauthorized     undef  S/ST/STEVAN/HTTP-Throwable-0.004.tar.gz
 HTTP::Throwable::UnsupportedMediaType undef  S/ST/STEVAN/HTTP-Throwable-0.004.tar.gz
 HTTP::Throwable::UseProxy         undef  S/ST/STEVAN/HTTP-Throwable-0.004.tar.gz
-HTTP::Tiny                        0.020  D/DA/DAGOLDEN/HTTP-Tiny-0.020.tar.gz
+HTTP::Tiny                        0.021  D/DA/DAGOLDEN/HTTP-Tiny-0.021.tar.gz
 HTTP::Tiny::Handle                0.016  D/DA/DAGOLDEN/HTTP-Tiny-0.016.tar.gz
 HTTP::Tiny::Mech                 v0.1.2  K/KE/KENTNL/HTTP-Tiny-Mech-0.1.2.tar.gz
 HTTP::TransparentCache         0.003001  M/MA/MATTIASH/HTTP-TransparentCache-0.3.1.tar.gz
