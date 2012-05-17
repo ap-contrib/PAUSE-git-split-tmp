@@ -189,7 +189,7 @@ Alien::Prototype::Carousel       0.26.3  G/GT/GTERMARS/Alien-Prototype-Carousel-
 Alien::Prototype::Window          1.3.3  G/GT/GTERMARS/Alien-Prototype-Window-1.3.3.tar.gz
 Alien::QtSmoke                 4.003003  C/CB/CBUREL/Alien-QtSmoke-4.3.3.tar.gz
 Alien::ROOT                    v5.32.0.2  S/SM/SMUELLER/Alien-ROOT-v5.32.0.2.tar.gz
-Alien::RRDtool                     0.02  G/GF/GFUJI/Alien-RRDtool-0.02.tar.gz
+Alien::RRDtool                     0.03  G/GF/GFUJI/Alien-RRDtool-0.03.tar.gz
 Alien::scriptaculous            1.8.0.2  G/GT/GTERMARS/Alien-scriptaculous-1.8.0.2.tar.gz
 Alien::SDL                        1.430  F/FR/FROGGS/Alien-SDL-1.430.tar.gz
 Alien::Selenium                    0.09  D/DO/DOMQ/Alien-Selenium-0.09.tar.gz
