@@ -672,7 +672,7 @@ Test::WWW::Selenium::More::Manual::ForTheImpatient,KABLAMO,f
 Test::WWW::Selenium::More::Manual::InstallingSelenium,KABLAMO,f
 Test::WWW::Selenium::More::Manual::InstallingSeleniumServer,KABLAMO,f
 Test::WWW::Selenium::More::Manual::RunningTests,KABLAMO,f
-Test::WWW::Selenium::More::Manual::WritingTests,KABLAMO,c
+Test::WWW::Selenium::More::Manual::WritingTests,KABLAMO,f
 Test::WWW::Selenium::More::WritingTests,KABLAMO,f
 Test::WWW::Selenium::Sencha,PLYTLE,m
 Test::WWW::Selenium::Sencha::Component,PLYTLE,f

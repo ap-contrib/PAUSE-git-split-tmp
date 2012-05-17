@@ -828,7 +828,11 @@ Net::Prizm,JEF,f
 Net::Prober,COSIMO,f
 Net::Prober,OPERA,c
 Net::Protocol::Simple,SAXJAZMAN,f
-Net::Proxmox::VE,DJZORT,c
+Net::Proxmox::VE,DJZORT,f
+Net::Proxmox::VE::Access,DJZORT,f
+Net::Proxmox::VE::Cluster,DJZORT,f
+Net::Proxmox::VE::Pools,DJZORT,f
+Net::Proxmox::VE::Storage,DJZORT,f
 Net::Proxy,BOOK,m
 Net::Proxy::Connector,BOOK,f
 Net::Proxy::Connector::connect,BOOK,f
