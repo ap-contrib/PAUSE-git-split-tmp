@@ -360,6 +360,7 @@ Meta::Xml::Writer                  0.15  V/VE/VELTZER/Meta-0.08.tar.gz
 Metabase                          1.000  D/DA/DAGOLDEN/Metabase-1.000.tar.gz
 Metabase::Archive                 1.000  D/DA/DAGOLDEN/Metabase-1.000.tar.gz
 Metabase::Archive::Filesystem     1.000  D/DA/DAGOLDEN/Metabase-1.000.tar.gz
+Metabase::Archive::MongoDB        1.000  D/DA/DAGOLDEN/Metabase-Backend-MongoDB-1.000.tar.gz
 Metabase::Archive::PostgreSQL     1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.000.tar.gz
 Metabase::Archive::S3             1.000  D/DA/DAGOLDEN/Metabase-Backend-AWS-1.000.tar.gz
 Metabase::Archive::Schema         0.016  D/DA/DAGOLDEN/Metabase-0.016.tar.gz
@@ -368,6 +369,7 @@ Metabase::Archive::SQL            1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.00
 Metabase::Archive::SQLite         1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.000.tar.gz
 Metabase::Archive::SQLite::Sharded 1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.000.tar.gz
 Metabase::Backend::AWS            1.000  D/DA/DAGOLDEN/Metabase-Backend-AWS-1.000.tar.gz
+Metabase::Backend::MongoDB        1.000  D/DA/DAGOLDEN/Metabase-Backend-MongoDB-1.000.tar.gz
 Metabase::Backend::PostgreSQL     1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.000.tar.gz
 Metabase::Backend::SQL            1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.000.tar.gz
 Metabase::Backend::SQLite         1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.000.tar.gz
@@ -378,6 +380,7 @@ Metabase::Fact::String            0.021  D/DA/DAGOLDEN/Metabase-Fact-0.021.tar.g
 Metabase::Gateway                 1.000  D/DA/DAGOLDEN/Metabase-1.000.tar.gz
 Metabase::Index                   1.000  D/DA/DAGOLDEN/Metabase-1.000.tar.gz
 Metabase::Index::FlatFile         1.000  D/DA/DAGOLDEN/Metabase-1.000.tar.gz
+Metabase::Index::MongoDB          1.000  D/DA/DAGOLDEN/Metabase-Backend-MongoDB-1.000.tar.gz
 Metabase::Index::PostgreSQL       1.000  D/DA/DAGOLDEN/Metabase-Backend-SQL-1.000.tar.gz
 Metabase::Index::SimpleDB         1.000  D/DA/DAGOLDEN/Metabase-Backend-AWS-1.000.tar.gz
 Metabase::Index::Solr             0.016  D/DA/DAGOLDEN/Metabase-0.016.tar.gz
