@@ -690,7 +690,7 @@ Net::Inspect::L7::HTTP            undef  S/SU/SULLR/Net-Inspect-0.11.tar.gz
 Net::Inspect::L7::HTTP::Request::InspectChain undef  S/SU/SULLR/Net-Inspect-0.11.tar.gz
 Net::Inspect::L7::HTTP::Request::InspectChain::IgnoreBadGzip undef  S/SU/SULLR/Net-Inspect-0.11.tar.gz
 Net::Inspect::L7::HTTP::Request::Simple undef  S/SU/SULLR/Net-Inspect-0.11.tar.gz
-Net::Int::Stats                    2.07  B/BB/BBURCH/Net-Int-Stats-2.07.tar.gz
+Net::Int::Stats                     2.1  B/BB/BBURCH/Net-Int-Stats-2.1.tar.gz
 Net::Interface                    1.012  M/MI/MIKER/Net-Interface-1.012.tar.gz
 Net::Interface::Developer          0.03  M/MI/MIKER/Net-Interface-1.012.tar.gz
 Net::Interface::Wireless::FreeBSD   1.0  V/VV/VVELOX/Net-Interface-Wireless-FreeBSD-1.0.0.tar.gz
