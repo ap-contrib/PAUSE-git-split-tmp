@@ -208,7 +208,7 @@ WWW::Scraper::CraigsList,GLENNWOOD,f
 WWW::Scraper::Delicious,AGF,f
 WWW::Scraper::Dice,GLENNWOOD,f
 WWW::Scraper::Dogpile,GLENNWOOD,f
-WWW::Scraper::F1,FKALTER,f
+WWW::Scraper::F1,FKALTER,m
 WWW::Scraper::FieldTranslation,GLENNWOOD,f
 WWW::Scraper::FlipDog,GLENNWOOD,f
 WWW::Scraper::Gmail,KASTNER,f

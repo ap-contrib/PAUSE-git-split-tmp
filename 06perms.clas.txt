@@ -1118,6 +1118,7 @@ Coat::Types,DAMS,c
 Coat::Types,SUKRIA,f
 Coat::Types,XSAWYERX,c
 Cobalt::LCD,JEFFW,m
+Cobweb,LEPREVOST,m
 Cocoa::EventLoop,TYPESTER,f
 Cocoa::Growl,TYPESTER,f
 Code::Class::C,KITOMER,m
