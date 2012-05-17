@@ -259,7 +259,7 @@ UI::Dialog::Console                1.08  K/KC/KCK/UI-Dialog-1.08.tar.gz
 UI::Dialog::Gauged                 1.08  K/KC/KCK/UI-Dialog-1.08.tar.gz
 UI::Dialog::GNOME                  1.08  K/KC/KCK/UI-Dialog-1.08.tar.gz
 UI::Dialog::KDE                    1.08  K/KC/KCK/UI-Dialog-1.08.tar.gz
-UI::KeyboardLayout                 0.09  I/IL/ILYAZ/modules/UI-KeyboardLayout-0.09.tar.gz
+UI::KeyboardLayout                 0.10  I/IL/ILYAZ/modules/UI-KeyboardLayout-0.10.tar.gz
 UID                                0.24  P/PL/PLATO/UID-0.24.tar.gz
 Ukigumo::Client                    0.12  T/TO/TOKUHIROM/Ukigumo-Client-0.12.tar.gz
 Ukigumo::Client::Executor::Auto   undef  T/TO/TOKUHIROM/Ukigumo-Client-0.12.tar.gz
