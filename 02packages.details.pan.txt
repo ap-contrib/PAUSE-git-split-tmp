@@ -415,7 +415,7 @@ Parallel::Forker                  1.232  W/WS/WSNYDER/Parallel-Forker-1.232.tar.
 Parallel::Forker::Process         1.232  W/WS/WSNYDER/Parallel-Forker-1.232.tar.gz
 Parallel::ForkManager          0.007009  D/DL/DLUX/Parallel-ForkManager-0.7.9.tar.gz
 Parallel::Iterator                 1.00  A/AN/ANDYA/Parallel-Iterator-1.00.tar.gz
-Parallel::Jobs                     0.05  J/JI/JIK/Parallel-Jobs-0.05.tar.gz
+Parallel::Jobs                     0.06  J/JI/JIK/Parallel-Jobs-0.06.tar.gz
 Parallel::Loops                    0.07  P/PM/PMORCH/Parallel-Loops-0.07.tar.gz
 Parallel::Loops::TiedArray         0.07  P/PM/PMORCH/Parallel-Loops-0.07.tar.gz
 Parallel::Loops::TiedHash          0.07  P/PM/PMORCH/Parallel-Loops-0.07.tar.gz
