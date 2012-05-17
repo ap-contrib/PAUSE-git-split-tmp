@@ -828,6 +828,7 @@ Net::Prizm,JEF,f
 Net::Prober,COSIMO,f
 Net::Prober,OPERA,c
 Net::Protocol::Simple,SAXJAZMAN,f
+Net::Proxmox::VE,DJZORT,c
 Net::Proxy,BOOK,m
 Net::Proxy::Connector,BOOK,f
 Net::Proxy::Connector::connect,BOOK,f
