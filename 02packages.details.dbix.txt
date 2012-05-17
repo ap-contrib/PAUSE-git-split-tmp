@@ -381,11 +381,11 @@ DDL::Oracle                        1.11  R/RV/RVSUTHERL/DDL-Oracle-1.11.tar.gz
 DDLock::Client                     0.50  H/HA/HACHI/DDLock-Client-0.50.tar.gz
 DDLock::Client::Daemon            undef  H/HA/HACHI/DDLock-Client-0.50.tar.gz
 DDLock::Client::File              undef  H/HA/HACHI/DDLock-Client-0.50.tar.gz
-DDLock::Server                     0.50  H/HA/HACHI/DDLock-Server-0.50.tar.gz
-DDLock::Server::Client            undef  H/HA/HACHI/DDLock-Server-0.50.tar.gz
-DDLock::Server::Client::DBI       undef  H/HA/HACHI/DDLock-Server-0.50.tar.gz
-DDLock::Server::Client::DLMFS     undef  H/HA/HACHI/DDLock-Server-0.50.tar.gz
-DDLock::Server::Client::Internal  undef  H/HA/HACHI/DDLock-Server-0.50.tar.gz
+DDLock::Server                     0.51  H/HA/HACHI/DDLock-Server-0.51.tar.gz
+DDLock::Server::Client            undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
+DDLock::Server::Client::DBI       undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
+DDLock::Server::Client::DLMFS     undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
+DDLock::Server::Client::Internal  undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
 DDP                               undef  G/GA/GARU/Data-Printer-0.3.tar.gz
 Dead                              undef  K/KH/KHAMPTON/RDF-Helper-0.21.tar.gz
 Debian::Apt::PM                    0.08  J/JK/JKUTEJ/Debian-Apt-PM-0.08.tar.gz
