@@ -55,12 +55,12 @@ Bit::MorseSignals::Emitter         0.06  V/VP/VPIT/Bit-MorseSignals-0.06.tar.gz
 Bit::MorseSignals::Receiver        0.06  V/VP/VPIT/Bit-MorseSignals-0.06.tar.gz
 Bit::ShiftReg                       2.0  S/ST/STBEY/Bit-ShiftReg-2.0.tar.gz
 Bit::Util                          0.01  S/SA/SALVA/Bit-Util-0.01.tar.gz
-Bit::Vector                         7.2  A/AN/ANDK/Bit-Vector-7.2.tar.gz
+Bit::Vector                         7.2  S/ST/STBEY/Bit-Vector-7.2.tar.gz
 Bit::Vector::Array                 0.02  G/GS/GSLONDON/Bit-Vector-Array-0.02.tar.gz
 Bit::Vector::Array::Tie            0.02  G/GS/GSLONDON/Bit-Vector-Array-0.02.tar.gz
 Bit::Vector::Minimal                1.3  T/TM/TMTM/Bit-Vector-Minimal-1.3.tar.gz
-Bit::Vector::Overload               7.2  A/AN/ANDK/Bit-Vector-7.2.tar.gz
-Bit::Vector::String                 7.2  A/AN/ANDK/Bit-Vector-7.2.tar.gz
+Bit::Vector::Overload               7.2  S/ST/STBEY/Bit-Vector-7.2.tar.gz
+Bit::Vector::String                 7.2  S/ST/STBEY/Bit-Vector-7.2.tar.gz
 BitArray                           0.01  G/GW/GWORROLL/BitArray1-0.tar.gz
 bitflag                            0.01  S/SC/SCHOEJO/bitflag-0.01.tar.gz
 bitflag::ct                        0.01  S/SC/SCHOEJO/bitflag-ct-0.01.tar.gz

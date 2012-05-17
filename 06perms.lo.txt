@@ -694,9 +694,13 @@ Log::TraceMessages,EDAVIS,m
 Log::Trivial,ATRICKETT,f
 Log::UDP::Client,ROBINS,f
 Log::UDP::Server,ROBINS,f
+Log::Unrotate,DRUXA,c
 Log::Unrotate,MMCLERIC,m
+Log::Unrotate::Cursor,DRUXA,c
 Log::Unrotate::Cursor,MMCLERIC,f
+Log::Unrotate::Cursor::File,DRUXA,c
 Log::Unrotate::Cursor::File,MMCLERIC,f
+Log::Unrotate::Cursor::Null,DRUXA,c
 Log::Unrotate::Cursor::Null,MMCLERIC,f
 Log::WarnDie,ELIZABETH,f
 Log::WithCallbacks,DAOTOAD,m
