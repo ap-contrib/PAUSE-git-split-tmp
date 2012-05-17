@@ -918,10 +918,10 @@ Log::TraceMessages                  1.4  E/ED/EDAVIS/Log-TraceMessages-1.4.tar.g
 Log::Trivial                       0.31  A/AT/ATRICKETT/Log-Trivial-0.31.tar.gz
 Log::UDP::Client               0.020000  R/RO/ROBINS/Log-UDP-Client-0.20.0.tar.gz
 Log::UDP::Server               0.040000  R/RO/ROBINS/Log-UDP-Server-0.40.0.tar.gz
-Log::Unrotate                      1.27  M/MM/MMCLERIC/Log-Unrotate-1.27.tar.gz
-Log::Unrotate::Cursor              1.27  M/MM/MMCLERIC/Log-Unrotate-1.27.tar.gz
-Log::Unrotate::Cursor::File        1.27  M/MM/MMCLERIC/Log-Unrotate-1.27.tar.gz
-Log::Unrotate::Cursor::Null        1.27  M/MM/MMCLERIC/Log-Unrotate-1.27.tar.gz
+Log::Unrotate                      1.28  D/DR/DRUXA/Log-Unrotate-1.28.tar.gz
+Log::Unrotate::Cursor              1.28  D/DR/DRUXA/Log-Unrotate-1.28.tar.gz
+Log::Unrotate::Cursor::File        1.28  D/DR/DRUXA/Log-Unrotate-1.28.tar.gz
+Log::Unrotate::Cursor::Null        1.28  D/DR/DRUXA/Log-Unrotate-1.28.tar.gz
 Log::WarnDie                       0.05  E/EL/ELIZABETH/Log-WarnDie-0.05.tar.gz
 Log::WithCallbacks                undef  D/DA/DAOTOAD/Log-WithCallbacks-1.00.tar.gz
 log_file                           1.24  C/CJ/CJONES/Microarray-0.45c.zip
