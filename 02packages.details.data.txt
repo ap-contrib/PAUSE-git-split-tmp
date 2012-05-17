@@ -14,7 +14,7 @@ Date::Calc                          6.3  S/ST/STBEY/Date-Calc-6.3.tar.gz
 Date::Calc::Iterator               1.00  B/BR/BRONTO/Date-Calc-Iterator-1.00.tar.gz
 Date::Calc::Object                  6.3  S/ST/STBEY/Date-Calc-6.3.tar.gz
 Date::Calc::PP                      6.3  S/ST/STBEY/Date-Calc-6.3.tar.gz
-Date::Calc::XS                      6.2  S/ST/STBEY/Date-Calc-XS-6.2.tar.gz
+Date::Calc::XS                      6.3  S/ST/STBEY/Date-Calc-XS-6.3.tar.gz
 Date::Calendar                      6.3  S/ST/STBEY/Date-Calc-6.3.tar.gz
 Date::Calendar::Profiles            6.3  S/ST/STBEY/Date-Calc-6.3.tar.gz
 Date::Calendar::Year                6.3  S/ST/STBEY/Date-Calc-6.3.tar.gz
