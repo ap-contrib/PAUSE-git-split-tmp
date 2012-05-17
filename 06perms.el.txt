@@ -416,6 +416,7 @@ Email::Simple::FromHandle,RJBS,f
 Email::Simple::Header,RJBS,f
 Email::Simple::Headers,CWEST,f
 Email::Simple::Headers,RJBS,c
+Email::Simple::Markdown,YANICK,f
 Email::Simple::OneLineHeaders,JBUHACOFF,f
 Email::Simple::Test::TraceHeaders,RJBS,f
 Email::Simple::__Header,RJBS,f
