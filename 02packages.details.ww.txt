@@ -362,6 +362,7 @@ WWW::Mechanize::Plugin::JavaScript 0.010  S/SP/SPROUT/WWW-Mechanize-Plugin-JavaS
 WWW::Mechanize::Plugin::JavaScript::JE 0.008  S/SP/SPROUT/WWW-Mechanize-Plugin-JavaScript-0.010.tar.gz
 WWW::Mechanize::Plugin::phpBB      0.02  M/MS/MSCHILLI/WWW-Mechanize-Plugin-phpBB-0.02.tar.gz
 WWW::Mechanize::Plugin::Retry      0.04  M/MC/MCMAHON/WWW-Mechanize-Plugin-Retry-0.04.tar.gz
+WWW::Mechanize::Plugin::Sleepy    undef  M/MJ/MJEMMESON/WWW-Mechanize-Plugin-Sleepy-0.001.tar.gz
 WWW::Mechanize::Plugin::Snapshot   0.20  M/MC/MCMAHON/WWW-Mechanize-Plugin-Snapshot-0.20.tar.gz
 WWW::Mechanize::Plugin::Web::Scraper 0.02  B/BL/BLOM/WWW-Mechanize-Plugin-Web-Scraper-0.02.tar.gz
 WWW::Mechanize::Query              0.01  S/SU/SUPERASN/WWW-Mechanize-Query-0.01.tar.gz
