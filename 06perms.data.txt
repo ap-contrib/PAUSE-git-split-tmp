@@ -815,6 +815,9 @@ Data::Omap,BBAXTER,f
 Data::OpenGraph,DMAKI,f
 Data::OpenGraph::Parser,DMAKI,f
 Data::OpenStruct::Deep,MASAKI,f
+Data::OpeningHours,STUIFZAND,f
+Data::OpeningHours::Calendar,STUIFZAND,f
+Data::OpeningHours::Hours,STUIFZAND,f
 Data::OptList,RJBS,f
 Data::Overlay,BOWMANBS,f
 Data::Ovulation,TKREMER,f
