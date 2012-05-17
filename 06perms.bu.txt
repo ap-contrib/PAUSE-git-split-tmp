@@ -463,6 +463,10 @@ Business::CreditCard,WREIS,c
 Business::CreditCard::Object,TMTM,f
 Business::CyberSource,XENO,f
 Business::CyberSource::Client,XENO,f
+Business::CyberSource::CreditCard,XENO,f
+Business::CyberSource::Factory,XENO,f
+Business::CyberSource::Factory::Request,XENO,f
+Business::CyberSource::Factory::Response,XENO,f
 Business::CyberSource::Message,XENO,f
 Business::CyberSource::Report,AUBERTG,m
 Business::CyberSource::Report::PaymentEvents,AUBERTG,f
