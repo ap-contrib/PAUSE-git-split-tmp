@@ -275,7 +275,7 @@ CPAN::Testers::Fact::TesterComment 1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1
 CPAN::Testers::Fact::TestOutput 1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1.999001.tar.gz
 CPAN::Testers::Fact::TestSummary 1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1.999001.tar.gz
 CPAN::Testers::Metabase        1.999001  D/DA/DAGOLDEN/CPAN-Testers-Metabase-1.999001.tar.gz
-CPAN::Testers::Metabase::AWS   1.999001  D/DA/DAGOLDEN/CPAN-Testers-Metabase-1.999001.tar.gz
+CPAN::Testers::Metabase::AWS   1.999002  D/DA/DAGOLDEN/CPAN-Testers-Metabase-AWS-1.999002.tar.gz
 CPAN::Testers::Metabase::Demo  1.999001  D/DA/DAGOLDEN/CPAN-Testers-Metabase-1.999001.tar.gz
 CPAN::Testers::Metabase::Feed     0.001  D/DA/DAGOLDEN/CPAN-Testers-Metabase-Feed-0.001.tar.gz
 CPAN::Testers::Metabase::MongoDB  0.001  D/DA/DAGOLDEN/CPAN-Testers-Metabase-MongoDB-0.001.tar.gz
