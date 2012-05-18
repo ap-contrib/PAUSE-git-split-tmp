@@ -880,6 +880,7 @@ TestApp::Model::SomeClass,GHENRY,c
 TestApp::Model::SomeClass,JJNAPIORK,c
 TestApp::Model::SomeClass,MSTROUT,c
 TestApp::Model::SomeClass,RIBASUSHI,c
+TestAutoload,KRYDE,f
 TestBed,DCONWAY,f
 TestBed6,DCONWAY,f
 TestBusted1,BWARFIELD,f

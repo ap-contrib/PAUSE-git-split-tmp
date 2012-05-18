@@ -129,6 +129,7 @@ Iterator::Misc,ROODE,m
 Iterator::Paged,JOHND,f
 Iterator::RoundRobin,SOCK,f
 Iterator::Simple,RINTARO,f
+Iterator::Simple::FileUniq,KRYDE,f
 Iterator::Simple::Iterator,RINTARO,f
 Iterator::Simple::Locate,KRYDE,f
 Iterator::ToArray,YSASAKI,m

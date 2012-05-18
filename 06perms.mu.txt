@@ -504,6 +504,7 @@ MyLibrary::Review,EMORGAN,f
 MyLibrary::Stylesheet,EMORGAN,f
 MyLibrary::Term,EMORGAN,f
 MyLinkParser,ISHIGAKI,f
+MyLocatePerl,KRYDE,f
 MyMP3Play,JRED,f
 MyMachine,CASIANO,f
 MyMaths,GFUJI,f
@@ -612,6 +613,7 @@ MySpam,MLAWREN,f
 MySpam::Email,MLAWREN,f
 MyStamp,PIERS,f
 MyStripScripts,DRTECH,f
+MyStuff,KRYDE,f
 MyTest,HUGHES,f
 MyTest::CDBI::Base,JSIRACUSA,f
 MyTest::CDBI::Complex::Category,JSIRACUSA,f
@@ -790,6 +792,8 @@ MyTypes::test2,BAERGAJ,f
 MyTypes::test2,MKUTTER,c
 MyTypes::testExtended,BAERGAJ,f
 MyTypes::testExtended,MKUTTER,c
+MyUniqByInode,KRYDE,f
+MyUniqByMD5,KRYDE,f
 MyUtils,JALYCAI,f
 MyWeblog::Model::Post,ALEXMV,c
 MyWeblog::Model::Post,FALCONE,c

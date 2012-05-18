@@ -75,6 +75,9 @@ Location::GeoTool::Direction,KOKOGIKO,f
 Location::GeoTool::Ex::GridLocator,KOKOGIKO,f
 Location::GeoTool::Plugin::GridLocator,KOKOGIKO,f
 Location::GeoTool::Plugin::Locapoint,KOKOGIKO,f
+Locator,KRYDE,f
+Locator::BinScripts,KRYDE,f
+Locator::Concat,KRYDE,f
 Lock,JRED,f
 LockFile::Lock,JV,m
 LockFile::Lock,RAM,c
