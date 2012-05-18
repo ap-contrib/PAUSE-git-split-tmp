@@ -1540,6 +1540,7 @@ DateTime::y2038,MSCHWERN,f
 DateTimeExtensions,JONADAB,f
 DateTimeX::AATW,KMCGRATH,m
 DateTimeX::Auto,TOBYINK,f
+DateTimeX::Auto::Duration,TOBYINK,f
 DateTimeX::Duration::SkipDays,AYOUNG,f
 DateTimeX::Easy,RKRIMEN,c
 DateTimeX::Easy,ROKR,f
