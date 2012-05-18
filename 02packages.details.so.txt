@@ -1135,7 +1135,7 @@ Sslscan::Parser::Session           0.01  J/JA/JABRA/Sslscan-Parser-0.02.tar.gz
 SSN::Validate                      0.18  K/KM/KMELTZ/SSN-Validate-0.18.tar.gz
 Stack                             undef  Y/YV/YVESP/llg-1.07.tar.gz
 Stack::Persistent                  0.04  K/KE/KESTEB/Stack-Persistent-0.04.tar.gz
-Stackato::Stackrad                 0.01  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
+Stackato::Stackrad                 0.02  I/IN/INGY/Stackato-Stackrad-0.02.tar.gz
 Stacked                               1  D/DU/DUELAFN/Test-WWW-Mechanize-Driver-0.6.tar.gz
 StackTrace::Auto               0.102080  R/RJ/RJBS/Throwable-0.102080.tar.gz
 StackTrace::HiPerf                 0.01  J/JD/JDV/StackTrace-HiPerf-0.01.tar.gz
