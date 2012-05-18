@@ -170,7 +170,7 @@ POSIX::SchedYield              0.000002  M/MA/MARCB/POSIX-SchedYield/POSIX-Sched
 POSIX::SigAction                   1.26  F/FL/FLORA/perl-5.15.4.tar.gz
 POSIX::SigRt                       1.26  F/FL/FLORA/perl-5.15.4.tar.gz
 POSIX::SigSet                     undef  M/MA/MARKOV/POSIX-1003-0.02.tar.gz
-POSIX::Socket                      0.03  Y/YU/YURY/POSIX-Socket-0.03.tar.gz
+POSIX::Socket                      0.04  Y/YU/YURY/POSIX-Socket-0.04.tar.gz
 POSIX::strptime                    0.10  G/GO/GOZER/POSIX-strptime-0.10.tar.gz
 POSIX::Wide                           7  K/KR/KRYDE/I18N-Langinfo-Wide-7.tar.gz
 POSIX::Wide::ERRNO                    7  K/KR/KRYDE/I18N-Langinfo-Wide-7.tar.gz
