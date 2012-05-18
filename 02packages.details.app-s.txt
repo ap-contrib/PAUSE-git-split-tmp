@@ -581,7 +581,7 @@ App::ZofCMS::Plugin::GoogleTime  0.0103  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-GoogleTim
 App::ZofCMS::Plugin::HTMLFactory 0.0102  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-HTMLFactory-0.0102.tar.gz
 App::ZofCMS::Plugin::HTMLFactory::Entry 0.0101  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-HTMLFactory-Entry-0.0101.tar.gz
 App::ZofCMS::Plugin::HTMLFactory::PageToBodyId 0.0102  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-HTMLFactory-PageToBodyId-0.0102.tar.gz
-App::ZofCMS::Plugin::HTMLMailer  0.0102  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-HTMLMailer-0.0102.tar.gz
+App::ZofCMS::Plugin::HTMLMailer  0.0103  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-HTMLMailer-0.0103.tar.gz
 App::ZofCMS::Plugin::ImageGallery 0.0203  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-ImageGallery-0.0203.tar.gz
 App::ZofCMS::Plugin::ImageResize 0.0103  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-ImageResize-0.0103.tar.gz
 App::ZofCMS::Plugin::InstalledModuleChecker 0.0102  Z/ZO/ZOFFIX/App-ZofCMS-Plugin-InstalledModuleChecker-0.0102.tar.gz
