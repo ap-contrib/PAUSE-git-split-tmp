@@ -39,6 +39,7 @@ DBIx::Class::Helper::Row::StorageValues,FREW,f
 DBIx::Class::Helper::Row::SubClass,FREW,f
 DBIx::Class::Helper::Row::ToJSON,FREW,f
 DBIx::Class::Helper::Schema::GenerateSource,FREW,f
+DBIx::Class::Helper::Schema::LintContents,FREW,f
 DBIx::Class::Helper::SubClass,FREW,f
 DBIx::Class::Helper::VirtaulView,FREW,f
 DBIx::Class::Helper::VirtualView,FREW,f
