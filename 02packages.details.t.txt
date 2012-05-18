@@ -133,6 +133,10 @@ TMDB::Search                          0  M/MI/MITHUN/TMDB-0.052.tar.gz
 TMDB::Session                         0  M/MI/MITHUN/TMDB-0.052.tar.gz
 TMessageType                        0.1  T/TE/TEODOR/Net-Cassandra-Easy-0.15.tar.gz
 TMMemHandle                       undef  R/RE/REEDFISH/Term-Menus-2.15.tar.gz
+Tmptext::Wikrad                    0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
+Tmptext::Wikrad::Listbox           0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
+Tmptext::Wikrad::PageViewer        0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
+Tmptext::Wikrad::Window            0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
 tno                               undef  K/KA/KARASIK/Prima-1.33.tar.gz
 tns                               undef  K/KA/KARASIK/Prima-1.33.tar.gz
 to                                undef  S/SP/SPROUT/Tie-Util-0.03.tar.gz

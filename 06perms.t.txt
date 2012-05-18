@@ -49,6 +49,10 @@ Tkx::i,GAAS,f
 Tkx::widget,GAAS,f
 Tkx::widget::_destroy,GAAS,f
 Tlack::Runner,TOKUHIROM,f
+Tmptext::Wikrad,INGY,f
+Tmptext::Wikrad::Listbox,INGY,f
+Tmptext::Wikrad::PageViewer,INGY,f
+Tmptext::Wikrad::Window,INGY,f
 ToBool,PERRAD,f
 ToBoolOp,LTOETSCH,f
 ToBoolOp,PARROTRE,c
