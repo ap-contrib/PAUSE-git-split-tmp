@@ -175,6 +175,7 @@ POSIX::strptime                    0.10  G/GO/GOZER/POSIX-strptime-0.10.tar.gz
 POSIX::Wide                           7  K/KR/KRYDE/I18N-Langinfo-Wide-7.tar.gz
 POSIX::Wide::ERRNO                    7  K/KR/KRYDE/I18N-Langinfo-Wide-7.tar.gz
 POSIX::Wide::EXTENDED_OS_ERROR        7  K/KR/KRYDE/I18N-Langinfo-Wide-7.tar.gz
+PosixUser                         undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
 Postal::US::State                v0.0.1  E/EW/EWILHELM/Postal-US-State-v0.0.1.tar.gz
 Posterous                          0.03  S/SH/SHELLING/Posterous-0.03.tar.gz
 PostFilter                        undef  D/DH/DHAGEMAN/XForms-Generator-0.70.tar.gz
@@ -188,6 +189,7 @@ PostgreSQL::PLPerl::Call::PG      1.006  T/TI/TIMB/PostgreSQL-PLPerl-Call-1.006.
 PostgreSQL::PLPerl::NYTProf       1.002  T/TI/TIMB/PostgreSQL-PLPerl-NYTProf-1.002.tar.gz
 PostgreSQL::PLPerl::Trace         1.001  T/TI/TIMB/PostgreSQL-PLPerl-Trace-1.001.tar.gz
 Postini::SAML                     0.001  R/RO/ROBN/Postini-SAML-0.001.tar.gz
+PostModule                        undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
 PostScript::Barcode::azteccode    0.006  D/DA/DAXIM/PostScript-Barcode-0.006.tar.gz
 PostScript::Barcode::datamatrix   0.006  D/DA/DAXIM/PostScript-Barcode-0.006.tar.gz
 PostScript::Barcode::GSAPI::Singleton 0.006  D/DA/DAXIM/PostScript-Barcode-0.006.tar.gz
