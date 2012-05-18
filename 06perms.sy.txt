@@ -26,6 +26,7 @@ Syntax::Feature::Function,PHAYLON,f
 Syntax::Feature::Gather,FREW,f
 Syntax::Feature::Io,PHAYLON,f
 Syntax::Feature::Junction,FREW,f
+Syntax::Feature::Loop,IKEGAMI,f
 Syntax::Feature::Maybe,TOBYINK,f
 Syntax::Feature::Method,FLORA,c
 Syntax::Feature::Method,PHAYLON,f
