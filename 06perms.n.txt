@@ -471,6 +471,7 @@ Number::Phone::UK::JE,DCANTRELL,f
 Number::Phone::US,KENNEDYH,m
 Number::RGB,CWEST,f
 Number::Range,LARRYSH,f
+Number::Range,XENU,c
 Number::Rangify,CODEREPOS,c
 Number::Rangify,MARCEL,f
 Number::RecordLocator,ALEXMV,c

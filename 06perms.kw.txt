@@ -435,6 +435,7 @@ LCFG::Build::Tool::SRPM,SJQUINNEY,f
 LCFG::Build::Tools,SJQUINNEY,f
 LCFG::Build::Utils,SJQUINNEY,f
 LCFG::Build::Utils::MacOSX,SJQUINNEY,f
+LCFG::Build::Utils::OSXPkg,SJQUINNEY,f
 LCFG::Build::Utils::RPM,SJQUINNEY,f
 LCFG::Build::VCS,SJQUINNEY,f
 LCFG::Build::VCS::CVS,SJQUINNEY,f
