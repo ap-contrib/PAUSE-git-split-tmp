@@ -579,6 +579,7 @@ ShardedKV,SMUELLER,f
 ShardedKV::Continuum,SMUELLER,f
 ShardedKV::Continuum::Ketama,SMUELLER,f
 ShardedKV::Continuum::StaticMapping,SMUELLER,f
+ShardedKV::HasLogger,SMUELLER,f
 ShardedKV::Storage,SMUELLER,f
 ShardedKV::Storage::Memory,SMUELLER,f
 ShardedKV::Storage::MySQL,SMUELLER,f
