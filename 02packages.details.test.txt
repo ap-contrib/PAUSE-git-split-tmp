@@ -643,6 +643,8 @@ Text::AAlib                        0.01  S/SY/SYOHEX/Text-AAlib-0.01.tar.gz
 Text::Abbrev                       1.01  F/FL/FLORA/Text-Abbrev-1.01.tar.gz
 Text::Abbreviate                   0.01  P/PI/PINYAN/Text-Abbreviate-0.01.tar.gz
 Text::Affixes                      0.07  C/CO/COG/Text-Affixes-0.07.tar.gz
+Text::AI::CRM114                   0.03  M/MS/MSCHUETT/Text-AI-CRM114-0.03.tar.gz
+Text::AI::libcrm114                0.03  M/MS/MSCHUETT/Text-AI-CRM114-0.03.tar.gz
 Text::Aligner                      0.07  A/AN/ANNO/Text-Aligner-0.07.tar.gz
 Text::Aligner::Auto                0.07  A/AN/ANNO/Text-Aligner-0.07.tar.gz
 Text::Aligner::MaxKeeper           0.07  A/AN/ANNO/Text-Aligner-0.07.tar.gz
