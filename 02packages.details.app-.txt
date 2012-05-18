@@ -149,7 +149,7 @@ App::Music::PlayTab::Note         1.005  J/JV/JV/App-Music-PlayTab-2.023.tar.gz
 App::Music::PlayTab::NoteMap      1.005  J/JV/JV/App-Music-PlayTab-2.023.tar.gz
 App::Music::PlayTab::PostScript::Preamble 1.002  J/JV/JV/App-Music-PlayTab-2.023.tar.gz
 App::Mver                          0.07  K/KS/KSURI/App-Mver-0.07.tar.gz
-App::mymeta_requires              0.002  D/DA/DAGOLDEN/App-mymeta_requires-0.002.tar.gz
+App::mymeta_requires              0.003  D/DA/DAGOLDEN/App-mymeta_requires-0.003.tar.gz
 App::Mypp                          0.13  J/JH/JHTHORSEN/App-Mypp-0.13.tar.gz
 App::Mypp::ShowINC                undef  J/JH/JHTHORSEN/App-Mypp-0.13.tar.gz
 App::Nag                          0.002  D/DF/DFH/App-Nag-0.002.tar.gz
