@@ -367,7 +367,7 @@ PAR::Dist::InstallPPD::GUI::Installed 0.05  S/SM/SMUELLER/PAR-Dist-InstallPPD-GU
 PAR::Filter                        0.03  R/RS/RSCHUPP/PAR-Packer-1.013.tar.gz
 PAR::Filter::Bleach               undef  R/RS/RSCHUPP/PAR-Packer-1.013.tar.gz
 PAR::Filter::Bytecode             undef  R/RS/RSCHUPP/PAR-Packer-1.013.tar.gz
-PAR::Filter::Crypto                1.07  S/SH/SHAY/Filter-Crypto-1.36.tar.gz
+PAR::Filter::Crypto                1.07  S/SH/SHAY/Filter-Crypto-2.00.tar.gz
 PAR::Filter::Obfuscate            undef  R/RS/RSCHUPP/PAR-Packer-1.013.tar.gz
 PAR::Filter::PatchContent         undef  R/RS/RSCHUPP/PAR-Packer-1.013.tar.gz
 PAR::Filter::PodStrip             undef  R/RS/RSCHUPP/PAR-Packer-1.013.tar.gz

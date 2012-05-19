@@ -36,9 +36,9 @@ Filter::BoxString                  0.05  D/DY/DYLAN/Filter-BoxString-0.05.tar.gz
 Filter::CBC                        0.10  B/BE/BEATNIK/Filter-CBC-0.10.tar.gz
 Filter::CommaEquals                0.01  G/GR/GRYPHON/Filter-CommaEquals-0.01.tar.gz
 Filter::cpp                        1.43  R/RU/RURBAN/Filter-1.43.tar.gz
-Filter::Crypto                     1.36  S/SH/SHAY/Filter-Crypto-1.36.tar.gz
-Filter::Crypto::CryptFile          1.18  S/SH/SHAY/Filter-Crypto-1.36.tar.gz
-Filter::Crypto::Decrypt            1.16  S/SH/SHAY/Filter-Crypto-1.36.tar.gz
+Filter::Crypto                     2.00  S/SH/SHAY/Filter-Crypto-2.00.tar.gz
+Filter::Crypto::CryptFile          2.00  S/SH/SHAY/Filter-Crypto-2.00.tar.gz
+Filter::Crypto::Decrypt            2.00  S/SH/SHAY/Filter-Crypto-2.00.tar.gz
 Filter::Decompress                 1.01  R/RU/RURBAN/Filter-1.43.tar.gz
 Filter::decrypt                    1.43  R/RU/RURBAN/Filter-1.43.tar.gz
 Filter::DisposableEmail            0.02  M/MA/MANWAR/Filter-DisposableEmail-0.02.tar.gz
