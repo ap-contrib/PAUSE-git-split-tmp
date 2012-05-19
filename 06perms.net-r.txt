@@ -383,6 +383,11 @@ Net::SSH2::PublicKey,DBROBINS,f
 Net::SSH2::PublicKey,RKITOVER,c
 Net::SSH2::SFTP,DBROBINS,f
 Net::SSH2::SFTP,RKITOVER,c
+Net::SSH::Any,SALVA,f
+Net::SSH::Any::Backend::Net_OpenSSH,SALVA,f
+Net::SSH::Any::Backend::Net_SSH2,SALVA,f
+Net::SSH::Any::Constants,SALVA,f
+Net::SSH::Any::Util,SALVA,f
 Net::SSH::AuthorizedKey,MSCHILLI,f
 Net::SSH::AuthorizedKey::Base,MSCHILLI,f
 Net::SSH::AuthorizedKey::SSH1,MSCHILLI,f

@@ -583,6 +583,11 @@ Net::SSH2::File                   undef  R/RK/RKITOVER/Net-SSH2-0.44.tar.gz
 Net::SSH2::Listener               undef  R/RK/RKITOVER/Net-SSH2-0.44.tar.gz
 Net::SSH2::PublicKey              undef  R/RK/RKITOVER/Net-SSH2-0.44.tar.gz
 Net::SSH2::SFTP                   undef  R/RK/RKITOVER/Net-SSH2-0.44.tar.gz
+Net::SSH::Any                      0.01  S/SA/SALVA/Net-SSH-Any-0.01.tar.gz
+Net::SSH::Any::Backend::Net_OpenSSH undef  S/SA/SALVA/Net-SSH-Any-0.01.tar.gz
+Net::SSH::Any::Backend::Net_SSH2  undef  S/SA/SALVA/Net-SSH-Any-0.01.tar.gz
+Net::SSH::Any::Constants          undef  S/SA/SALVA/Net-SSH-Any-0.01.tar.gz
+Net::SSH::Any::Util               undef  S/SA/SALVA/Net-SSH-Any-0.01.tar.gz
 Net::SSH::AuthorizedKey           undef  M/MS/MSCHILLI/Net-SSH-AuthorizedKeysFile-0.16.tar.gz
 Net::SSH::AuthorizedKey::Base     undef  M/MS/MSCHILLI/Net-SSH-AuthorizedKeysFile-0.16.tar.gz
 Net::SSH::AuthorizedKey::SSH1     undef  M/MS/MSCHILLI/Net-SSH-AuthorizedKeysFile-0.16.tar.gz
