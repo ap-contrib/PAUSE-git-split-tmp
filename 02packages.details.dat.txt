@@ -327,6 +327,7 @@ Data::Shark::Util                  v2.1  B/BI/BILLWALZ/Data-Shark-v2.1.0.tar.gz
 Data::Sheet                        0.01  P/PO/POCKET/Data-Sheet-0.01.tar.gz
 Data::Show                     0.002001  D/DC/DCONWAY/Data-Show-0.002001.tar.gz
 Data::ShowTable                   undef  A/AK/AKSTE/Data-ShowTable-3.3.tar.gz
+Data::SImeasures                    0.0  V/VV/VVELOX/Data-SImeasures-0.0.0.tar.gz
 Data::SimplePaginator               0.5  J/JB/JBUHACOFF/Data-SimplePaginator-0.5.tar.gz
 Data::SimplePassword               0.07  R/RY/RYOCHIN/Data-SimplePassword/Data-SimplePassword-0.07.tar.gz
 Data::SingletonManager             1.00  B/BR/BRADFITZ/Data-SingletonManager-1.00.tar.gz

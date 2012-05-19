@@ -192,6 +192,7 @@ Data::SExpression::Cons,NELHAGE,f
 Data::SExpression::Parser,NELHAGE,f
 Data::SExpression::Symbol,NELHAGE,f
 Data::SExpression::Xen,EWINDISCH,m
+Data::SImeasures,VVELOX,f
 Data::SPath,SABECK,f
 Data::Sah,SHARYANTO,f
 Data::Sah::Compiler::Base,SHARYANTO,f
