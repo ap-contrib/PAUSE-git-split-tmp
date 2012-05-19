@@ -1034,7 +1034,7 @@ Cache::KyotoTycoon                 0.12  T/TO/TOKUHIROM/Cache-KyotoTycoon-0.12.t
 Cache::KyotoTycoon::Cursor        undef  T/TO/TOKUHIROM/Cache-KyotoTycoon-0.12.tar.gz
 Cache::KyotoTycoon::REST           0.03  T/TO/TOKUHIROM/Cache-KyotoTycoon-REST-0.03.tar.gz
 Cache::LRU                         0.03  K/KA/KAZUHO/Cache-LRU-0.03.tar.gz
-Cache::Memcached                   1.29  D/DO/DORMANDO/Cache-Memcached-1.29.tar.gz
+Cache::Memcached                   1.30  D/DO/DORMANDO/Cache-Memcached-1.30.tar.gz
 Cache::Memcached::AnyEvent      0.00020  D/DM/DMAKI/Cache-Memcached-AnyEvent-0.00020.tar.gz
 Cache::Memcached::AnyEvent::Protocol undef  D/DM/DMAKI/Cache-Memcached-AnyEvent-0.00020.tar.gz
 Cache::Memcached::AnyEvent::Protocol::Binary undef  D/DM/DMAKI/Cache-Memcached-AnyEvent-0.00020.tar.gz
