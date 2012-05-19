@@ -84,7 +84,7 @@ Catalyst::Model::XML::Feed         0.04  M/MR/MRAMBERG/Catalyst-Model-XML-Feed-0
 Catalyst::Model::XML::Feed::Item  undef  M/MR/MRAMBERG/Catalyst-Model-XML-Feed-0.04.tar.gz
 Catalyst::Model::XMLRPC            0.04  F/FM/FMERGES/Catalyst-Model-XMLRPC-0.04.tar.gz
 Catalyst::Model::YouTube           0.12  J/JS/JSHIRLEY/Catalyst-Model-YouTube-0.14.tar.gz
-Catalyst::Module::Install         undef  B/BO/BOBTFISH/Catalyst-Devel-1.36.tar.gz
+Catalyst::Module::Install         undef  B/BO/BOBTFISH/Catalyst-Devel-1.37.tar.gz
 Catalyst::Plugin::AccessLog        1.05  A/AR/ARODLAND/Catalyst-Plugin-AccessLog-1.05.tar.gz
 Catalyst::Plugin::AccessLog::Formatter 1.05  A/AR/ARODLAND/Catalyst-Plugin-AccessLog-1.05.tar.gz
 Catalyst::Plugin::Account::AutoDiscovery 0.01  T/TY/TYPESTER/Catalyst-Plugin-Account-AutoDiscovery-0.01.tar.gz
@@ -427,9 +427,9 @@ Catalyst::Request::REST::ForBrowsers 1.00  B/BO/BOBTFISH/Catalyst-Action-REST-1.
 Catalyst::Request::SmartURI       undef  R/RK/RKITOVER/Catalyst-Plugin-SmartURI-0.036.tar.gz
 Catalyst::Request::Upload         undef  B/BO/BOBTFISH/Catalyst-Runtime-5.90012.tar.gz
 Catalyst::Response                undef  B/BO/BOBTFISH/Catalyst-Runtime-5.90012.tar.gz
-Catalyst::Restarter               undef  B/BO/BOBTFISH/Catalyst-Devel-1.36.tar.gz
-Catalyst::Restarter::Forking      undef  B/BO/BOBTFISH/Catalyst-Devel-1.36.tar.gz
-Catalyst::Restarter::Win32        undef  B/BO/BOBTFISH/Catalyst-Devel-1.36.tar.gz
+Catalyst::Restarter               undef  B/BO/BOBTFISH/Catalyst-Devel-1.37.tar.gz
+Catalyst::Restarter::Forking      undef  B/BO/BOBTFISH/Catalyst-Devel-1.37.tar.gz
+Catalyst::Restarter::Win32        undef  B/BO/BOBTFISH/Catalyst-Devel-1.37.tar.gz
 Catalyst::Runtime               5.90012  B/BO/BOBTFISH/Catalyst-Runtime-5.90012.tar.gz
 Catalyst::Script::CGI             undef  B/BO/BOBTFISH/Catalyst-Runtime-5.90012.tar.gz
 Catalyst::Script::Create          undef  B/BO/BOBTFISH/Catalyst-Runtime-5.90012.tar.gz
