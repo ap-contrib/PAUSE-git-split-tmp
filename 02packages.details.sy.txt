@@ -174,6 +174,7 @@ Syntax::Feature::Method           0.001  P/PH/PHAYLON/Syntax-Feature-Method-0.00
 Syntax::Feature::Perform          0.005  T/TO/TOBYINK/PerlX-Perform-0.005.tar.gz
 Syntax::Feature::Ql            0.001000  P/PH/PHAYLON/Syntax-Feature-Ql-0.001000.tar.gz
 Syntax::Feature::Qwa              0.001  T/TO/TOBYINK/Syntax-Feature-Qwa-0.001.tar.gz
+Syntax::Feature::QwComments     v1.12.0  I/IK/IKEGAMI/Syntax-Feature-QwComments-v1.12.0.tar.gz
 Syntax::Feature::Simple           0.002  P/PH/PHAYLON/Syntax-Feature-Simple-0.002.tar.gz
 Syntax::Feature::Simple::V1       0.002  P/PH/PHAYLON/Syntax-Feature-Simple-0.002.tar.gz
 Syntax::Feature::Simple::V2       0.002  P/PH/PHAYLON/Syntax-Feature-Simple-0.002.tar.gz

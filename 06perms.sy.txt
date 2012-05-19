@@ -32,6 +32,7 @@ Syntax::Feature::Method,FLORA,c
 Syntax::Feature::Method,PHAYLON,f
 Syntax::Feature::Perform,TOBYINK,f
 Syntax::Feature::Ql,PHAYLON,f
+Syntax::Feature::QwComments,IKEGAMI,f
 Syntax::Feature::Qwa,TOBYINK,f
 Syntax::Feature::Simple,PHAYLON,f
 Syntax::Feature::Simple::V1,PHAYLON,f
