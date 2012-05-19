@@ -393,7 +393,7 @@ App::I18N::Web::Declare           undef  C/CO/CORNELIUS/App-I18N-0.034.tar.gz
 App::I18N::Web::Handler           undef  C/CO/CORNELIUS/App-I18N-0.034.tar.gz
 App::I18N::Web::Handler::API      undef  C/CO/CORNELIUS/App-I18N-0.034.tar.gz
 App::I18N::Web::View              undef  C/CO/CORNELIUS/App-I18N-0.034.tar.gz
-App::Ikachan                       0.07  Y/YA/YAPPO/App-Ikachan-0.07.tar.gz
+App::Ikachan                       0.08  Y/YA/YAPPO/App-Ikachan-0.08.tar.gz
 App::Index                        undef  N/NE/NEKOKAK/CGI-MiniFramework-0.01.tar.gz
 App::Info                          0.57  D/DW/DWHEELER/App-Info-0.57.tar.gz
 App::Info::Handler                 0.57  D/DW/DWHEELER/App-Info-0.57.tar.gz
