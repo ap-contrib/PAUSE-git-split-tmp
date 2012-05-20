@@ -17,7 +17,7 @@ NTuples                            0.11  C/CM/CMORRIS/NTuples-0.11.tar.gz
 NULL                              undef  L/LU/LUKKA/FreeWRL-0.14.tar.gz
 NullConverter                       1.0  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
 NullFkWrapper                     undef  T/TJ/TJBYRNE/Test-C2FIT-0.08.tar.gz
-NullHandle                        undef  C/CH/CHM/PDL-2.4.10.tar.gz
+NullHandle                        undef  C/CH/CHM/PDL-2.4.11.tar.gz
 NullHang                       1.669002  D/DC/DCONWAY/Text-Autoformat-1.669002.tar.gz
 Nullius                            0.60  A/AV/AVIF/Games-Worms-0.65.tar.gz
 NullValueTest                     undef  T/TJ/TJBYRNE/Test-C2FIT-0.08.tar.gz

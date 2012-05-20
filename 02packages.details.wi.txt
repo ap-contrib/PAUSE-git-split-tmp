@@ -79,7 +79,7 @@ Win32::CtrlGUI::State::seq_opt     0.30  T/TE/TEVERETT/Win32-CtrlGUI-0.30.tar.gz
 Win32::CtrlGUI::Window             0.30  T/TE/TEVERETT/Win32-CtrlGUI-0.30.tar.gz
 Win32::Daemon                  20110117  J/JD/JDB/Win32-Daemon-20110117.tar.gz
 Win32::Daemon::Simple          0.002006  J/JE/JENDA/Win32-Daemon-Simple-0.2.6.tar.gz
-Win32::DDE::Netscape              undef  C/CH/CHM/PDL-2.4.10.tar.gz
+Win32::DDE::Netscape              undef  C/CH/CHM/PDL-2.4.11.tar.gz
 Win32::Detached                1.103080  M/MI/MITHALDU/Win32-Detached-1.103080.tar.gz
 Win32::Die                         0.03  A/AC/ACCARDO/Win32-Die-0.03.tar.gz
 Win32::DirSize                     1.13  A/AR/ARICH/Win32-DirSize-1.13.tar.gz

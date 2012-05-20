@@ -588,7 +588,7 @@ XRI::Descriptor                     0.1  F/FE/FEN/XRI-0.2.4.tar.gz
 XRI::Descriptor::LocalAccess        0.1  F/FE/FEN/XRI-0.2.4.tar.gz
 XRI::Parse                          0.1  F/FE/FEN/XRI-0.2.4.tar.gz
 XRI::Resolution::Lite              0.04  Z/ZI/ZIGOROU/XRI-Resolution-Lite-0.04.tar.gz
-XS                                undef  C/CH/CHM/PDL-2.4.10.tar.gz
+XS                                undef  C/CH/CHM/PDL-2.4.11.tar.gz
 XS::APItest                        0.32  F/FL/FLORA/perl-5.15.4.tar.gz
 XS::APItest::KeywordRPN           0.004  L/LB/LBROCARD/perl-5.13.0.tar.gz
 XS::Assert                        0.002  G/GF/GFUJI/XS-Assert-0.002.tar.gz
