@@ -442,7 +442,7 @@ CloudApp::REST::Item::Pdf          0.01  M/MD/MDIETRICH/CloudApp-REST-0.01.tar.g
 CloudApp::REST::Item::Text         0.01  M/MD/MDIETRICH/CloudApp-REST-0.01.tar.gz
 CloudApp::REST::Item::Unknown      0.01  M/MD/MDIETRICH/CloudApp-REST-0.01.tar.gz
 CloudApp::REST::Item::Video        0.01  M/MD/MDIETRICH/CloudApp-REST-0.01.tar.gz
-Cloudinary                         0.11  J/JH/JHTHORSEN/Cloudinary-0.11.tar.gz
+Cloudinary                       0.1101  J/JH/JHTHORSEN/Cloudinary-0.1101.tar.gz
 CLR::Tree::Binary                 undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/CLR/Tree/Binary.pm.gz
 CLucene                            1.00  P/PE/PEDWARDS/CLucene-1.00.tar.gz
 Cluster::Init                     0.215  S/ST/STEVEGT/Cluster-Init-0.215.tar.gz
