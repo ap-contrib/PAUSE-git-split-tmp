@@ -1062,6 +1062,7 @@ CloudApp::REST::Item::Pdf,MDIETRICH,f
 CloudApp::REST::Item::Text,MDIETRICH,f
 CloudApp::REST::Item::Unknown,MDIETRICH,f
 CloudApp::REST::Item::Video,MDIETRICH,f
+Cloudinary,JHTHORSEN,f
 Cluster::Init,STEVEGT,f
 Cluster::Init::Conf,STEVEGT,f
 Cluster::Init::DB,STEVEGT,f
