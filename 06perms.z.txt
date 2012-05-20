@@ -455,6 +455,7 @@ args,TOKUHIROM,f
 array_feature,CJONES,f
 array_reporter,CJONES,f
 array_spot,CJONES,f
+arybase,RJBS,c
 arybase,SHAY,f
 as,ELIZABETH,f
 asa,ADAMK,f

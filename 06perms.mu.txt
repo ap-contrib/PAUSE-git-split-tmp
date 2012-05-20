@@ -521,6 +521,7 @@ MyModel7,KIMOTO,f
 MyModel7::table1,KIMOTO,f
 MyModel7::table2,KIMOTO,f
 MyModule,CECALA,f
+MyModule,RJBS,c
 MyModuleBuilder,DDUMONT,f
 MyMooseA,SCHWIGON,f
 MyMooseB,SCHWIGON,f

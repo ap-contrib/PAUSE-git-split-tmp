@@ -637,6 +637,7 @@ Emplacken::Types::Internal,DROLSKY,f
 Employee,MUENALAN,f
 Employee,SRIRAM,c
 EmptyModule,BWARFIELD,f
+EnableModule,RJBS,c
 EnableModule,STEVAN,f
 Enbugger,AWWAIID,c
 Enbugger,JJORE,f

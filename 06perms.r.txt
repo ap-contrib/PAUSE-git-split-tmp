@@ -301,11 +301,13 @@ t2,STEVAN,c
 t::BHK,DAGOLDEN,f
 t::BHK,FLORA,c
 t::BHK,JESSE,c
+t::BHK,RJBS,c
 t::Common,SCHWIGON,f
 t::IgnoreWarn,MMCLERIC,f
 t::Markers,DAGOLDEN,f
 t::Markers,FLORA,c
 t::Markers,JESSE,c
+t::Markers,RJBS,c
 t::TestBase,TOMITA,f
 t::Util,TOKUHIROM,f
 t::Utils,MMCLERIC,f
