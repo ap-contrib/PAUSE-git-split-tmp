@@ -80,6 +80,7 @@ Image::Xbm,SREZIC,c
 Image::Xbm2bmp,SHADOWX,m
 Image::Xpm,BDFOY,f
 Image::Xpm,SREZIC,c
+Image::libsiftfast,MIKI,f
 ImageButton,DHICKLING,f
 ImageIcon,PHILCROW,f
 ImagePNGBuild,BKB,f
