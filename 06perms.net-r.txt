@@ -181,6 +181,7 @@ Net::SFTP::SftpServer::FileChrootBroken,SIMM,f
 Net::SFTP::SftpServer::Response,SIMM,f
 Net::SFTP::Util,BTROTT,c
 Net::SFTP::Util,DBROBINS,c
+Net::SIGTRAN::SCTP,MOBILEART,f
 Net::SIP,SULLR,m
 Net::SIP::Authorize,SULLR,f
 Net::SIP::Authorize::FromIsAuthUser,SULLR,f
