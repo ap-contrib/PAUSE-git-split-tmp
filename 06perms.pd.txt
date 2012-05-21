@@ -2771,8 +2771,9 @@ POE::Component::Captcha::reCAPTCHA,BINGOS,f
 POE::Component::Child,ECALDER,f
 POE::Component::Client::AMQP,EWATERS,f
 POE::Component::Client::AMQP::Channel,EWATERS,f
-POE::Component::Client::AMQP::FakeLogger,EWATERS,c
+POE::Component::Client::AMQP::FakeLogger,EWATERS,f
 POE::Component::Client::AMQP::Queue,EWATERS,f
+POE::Component::Client::AMQP::TCP,EWATERS,f
 POE::Component::Client::AirTunes,MIYAGAWA,f
 POE::Component::Client::Asterisk::Manager,XANTUS,f
 POE::Component::Client::Bayeux,EWATERS,f
