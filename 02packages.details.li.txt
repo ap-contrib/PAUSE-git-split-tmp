@@ -513,8 +513,8 @@ Linux::Prctl::CapabilityBoundingSet undef  S/SE/SEVEAS/Linux-Prctl-1.4.1.tar.gz
 Linux::Prctl::CapabilitySet       undef  S/SE/SEVEAS/Linux-Prctl-1.4.1.tar.gz
 Linux::Prctl::Securebits          undef  S/SE/SEVEAS/Linux-Prctl-1.4.1.tar.gz
 Linux::Proc::Cpuinfo               0.02  H/HA/HAGGAI/Linux-Proc-Cpuinfo-0.02.tar.gz
-Linux::Proc::Mountinfo             0.01  S/SA/SALVA/Linux-Proc-Mountinfo-0.01.tar.gz
-Linux::Proc::Mountinfo::Entry      0.01  S/SA/SALVA/Linux-Proc-Mountinfo-0.01.tar.gz
+Linux::Proc::Mountinfo             0.02  S/SA/SALVA/Linux-Proc-Mountinfo-0.02.tar.gz
+Linux::Proc::Mountinfo::Entry      0.02  S/SA/SALVA/Linux-Proc-Mountinfo-0.02.tar.gz
 Linux::Proc::Mounts                0.02  S/SA/SALVA/Linux-Proc-Mounts-0.02.tar.gz
 Linux::Proc::Mounts::Entry         0.02  S/SA/SALVA/Linux-Proc-Mounts-0.02.tar.gz
 Linux::Proc::Net::TCP              0.05  S/SA/SALVA/Linux-Proc-Net-TCP-0.05.tar.gz
