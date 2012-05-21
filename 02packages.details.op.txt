@@ -407,7 +407,7 @@ Org::To::Pod                       0.00  S/SH/SHARYANTO/Org-To-Pod-0.00.tar.gz
 Org::To::Role                      0.07  S/SH/SHARYANTO/Org-To-HTML-0.07.tar.gz
 Org::To::Text                      0.00  S/SH/SHARYANTO/Org-To-Text-0.00.tar.gz
 Orignal                            0.02  B/BY/BYTEROCK/Orignal-0.02.tar.gz
-ORLite                             1.96  A/AD/ADAMK/ORLite-1.96.tar.gz
+ORLite                             1.97  A/AD/ADAMK/ORLite-1.97.tar.gz
 ORLite::Array                      0.02  P/PM/PMAKHOLM/ORLite-Array-0.02.tar.gz
 ORLite::Migrate                    1.10  A/AD/ADAMK/ORLite-Migrate-1.10.tar.gz
 ORLite::Migrate::Patch             1.10  A/AD/ADAMK/ORLite-Migrate-1.10.tar.gz
