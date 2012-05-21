@@ -1223,7 +1223,7 @@ Weblogic::WLST                     0.01  D/DA/DAVIDP/Weblogic-WLST-0.01.tar.gz
 WebMoney::WMSigner                 0.02  D/DE/DESPAIR/WebMoney-WMSigner-0.02.tar.gz
 WebNano                           0.007  Z/ZB/ZBY/WebNano-0.007.tar.gz
 WebNano::Controller               0.007  Z/ZB/ZBY/WebNano-0.007.tar.gz
-WebNano::Controller::CRUD         0.006  Z/ZB/ZBY/WebNano-Controller-CRUD-0.006.tar.gz
+WebNano::Controller::CRUD         0.007  Z/ZB/ZBY/WebNano-Controller-CRUD-0.007.tar.gz
 WebNano::Controller::DSL          undef  Z/ZB/ZBY/WebNano-0.001.tar.gz
 WebNano::Controller::DSL::Moose   undef  Z/ZB/ZBY/WebNano-0.001.tar.gz
 WebNano::Controller::Meta::Class::Trait::WebDispatchTable undef  Z/ZB/ZBY/WebNano-0.001.tar.gz
