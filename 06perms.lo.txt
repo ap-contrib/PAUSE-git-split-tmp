@@ -194,6 +194,7 @@ Log::AutoDump,CAGAO,m
 Log::CSVLogger,GAURAVKH,f
 Log::Cabin,JORVIS,f
 Log::Cabin::Foundation,JORVIS,f
+Log::Caller,SKAUFMAN,f
 Log::Channel,JMAY,f
 Log::Channel::Config,JMAY,f
 Log::Common,MHAMILTON,f
