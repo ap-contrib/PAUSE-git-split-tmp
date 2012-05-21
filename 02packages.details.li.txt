@@ -254,6 +254,7 @@ Lingua::TreeTagger::TaggedText     0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.03.ta
 Lingua::TreeTagger::Token          0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.03.tar.gz
 Lingua::TypoGenerator              0.01  I/IT/ITUB/Lingua-TypoGenerator-0.01.tar.gz
 Lingua::UK::Jcuken                 1.04  S/ST/STRO/Lingua-UK-Jcuken-1.04.tar.gz
+Lingua::UK::Numbers                0.04  K/KO/KOORCHIK/Lingua-UK-Numbers-0.04.tar.gz
 Lingua::UK::Translit               0.10  P/PA/PANOLEX/Lingua-UK-Translit-0.10.tar.gz
 Lingua::Verbnet                   1.002  V/VK/VKH/Lingua-Verbnet-1.002.tar.gz
 Lingua::Verbnet::Ambiguity        undef  V/VK/VKH/Lingua-Verbnet-1.002.tar.gz

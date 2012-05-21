@@ -303,6 +303,7 @@ Lingua::Treebank::Const,KAHN,f
 Lingua::Treebank::HeadFinder,KAHN,f
 Lingua::TypoGenerator,ITUB,f
 Lingua::UK::Jcuken,STRO,f
+Lingua::UK::Numbers,KOORCHIK,f
 Lingua::UK::Translit,PANOLEX,m
 Lingua::Verbnet,VKH,m
 Lingua::Verbnet::Ambiguity,VKH,f
