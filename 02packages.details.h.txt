@@ -652,7 +652,7 @@ Image::Kimdaba                      0.5  J/JM/JMFAYARD/Image-Kimdaba-0.5.tar.gz
 Image::LibExif                     0.04  M/MO/MONS/Image-LibExif-0.04.tar.gz
 Image::LibRaw                      0.03  T/TO/TOKUHIROM/Image-LibRaw-0.03.tar.gz
 Image::LibRSVG                     0.07  T/TO/TOMSON/Image-LibRSVG-0.07.tar.gz
-Image::libsiftfast                 0.02  M/MI/MIKI/Image-libsiftfast-0.02.tar.gz
+Image::libsiftfast                 0.03  M/MI/MIKI/Image-libsiftfast-0.03.tar.gz
 Image::Magick                      6.74  J/JC/JCRISTY/PerlMagick-6.74.tar.gz
 Image::Magick::Brand               0.01  A/AR/AROTH/Image-Magick-Brand-0.01.tar.gz
 Image::Magick::Chart               1.06  R/RS/RSAVAGE/Image-Magick-Chart-1.06.tgz
