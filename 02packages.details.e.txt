@@ -458,7 +458,7 @@ EPublisher::Source                 0.01  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Source::Base           0.02  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Source::Plugin::Dir    0.04  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Source::Plugin::File   0.04  R/RE/RENEEB/EPublisher-0.7.tar.gz
-EPublisher::Source::Plugin::MetaCPAN 0.16  R/RE/RENEEB/EPublisher-Source-Plugin-MetaCPAN-0.16.tar.gz
+EPublisher::Source::Plugin::MetaCPAN 0.17  R/RE/RENEEB/EPublisher-Source-Plugin-MetaCPAN-0.17.tar.gz
 EPublisher::Source::Plugin::Module 0.04  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Target                 0.01  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Target::Base         0.0101  R/RE/RENEEB/EPublisher-0.7.tar.gz
