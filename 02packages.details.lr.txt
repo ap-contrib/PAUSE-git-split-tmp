@@ -458,7 +458,7 @@ LWP::UserAgent::Anonymous          0.04  M/MA/MANWAR/LWP-UserAgent-Anonymous-0.0
 LWP::UserAgent::AtomClient        undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 LWP::UserAgent::Cache::Memcached   0.02  S/SH/SHIRAIWA/LWP-UserAgent-Cache-Memcached-0.02.tar.gz
 LWP::UserAgent::Cached             0.03  O/OL/OLEG/LWP-UserAgent-Cached-0.03.tar.gz
-LWP::UserAgent::Determined         1.05  J/JE/JESSE/LWP-UserAgent-Determined-1.05.tar.gz
+LWP::UserAgent::Determined         1.06  J/JE/JESSE/LWP-UserAgent-Determined-1.06.tar.gz
 LWP::UserAgent::ExponentialBackoff 0.04  M/MA/MARROTTE/LWP-UserAgent-ExponentialBackoff-004/LWP-UserAgent-ExponentialBackoff-0.04.tar.gz
 LWP::UserAgent::FramesReady       1.023  D/DE/DERHAAG/FramesReady-1.023.tar.gz
 LWP::UserAgent::Keychain           0.01  M/MI/MIYAGAWA/LWP-UserAgent-Keychain-0.01.tar.gz
