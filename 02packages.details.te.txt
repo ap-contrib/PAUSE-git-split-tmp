@@ -851,7 +851,7 @@ Time::Simple                       0.06  L/LG/LGODDARD/Time-Simple-0.06.tar.gz
 Time::Simple::Range                 1.2  Z/ZU/ZUMMO/Time-Simple-Range-1.2.tar.gz
 Time::Skew                          0.1  A/AU/AUGUSTO/Time-Skew-0.1.tar.gz
 Time::SoFar                        1.00  E/EL/ELIJAH/Time-SoFar-1.00.tgz
-Time::Stamp                       1.003  R/RW/RWSTAUNER/Time-Stamp-1.003.tar.gz
+Time::Stamp                       1.200  R/RW/RWSTAUNER/Time-Stamp-1.200.tar.gz
 Time::Stats                         1.0  P/PM/PMICHAUD/Time-Stats-1.0.tgz
 Time::Stopwatch                    1.00  I/IL/ILTZU/Time-Stopwatch-1.00.tar.gz
 Time::StopWatchWithMessage         0.02  K/KU/KUNIYOSHI/Time-StopWatchWithMessage-0.02.tar.gz
