@@ -65,7 +65,7 @@ Sort::Fields                       0.90  J/JN/JNH/Sort-Fields-0.90.tar.gz
 Sort::Half::Maker                  0.03  F/FE/FERREIRA/Sort-Half-Maker-0.03.tar.gz
 Sort::Key                          1.28  S/SA/SALVA/Sort-Key-1.28.tar.gz
 Sort::Key::DateTime                0.07  S/SA/SALVA/Sort-Key-DateTime-0.07.tar.gz
-Sort::Key::IPv4                    0.02  S/SA/SALVA/Sort-Key-IPv4-0.02.tar.gz
+Sort::Key::IPv4                    0.03  S/SA/SALVA/Sort-Key-IPv4-0.03.tar.gz
 Sort::Key::LargeInt                0.01  S/SA/SALVA/Sort-Key-LargeInt-0.01.tar.gz
 Sort::Key::Maker                   0.02  S/SA/SALVA/Sort-Key-1.28.tar.gz
 Sort::Key::Merger                  0.08  S/SA/SALVA/Sort-Key-Merger-0.08.tar.gz
