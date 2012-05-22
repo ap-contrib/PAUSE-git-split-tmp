@@ -516,6 +516,8 @@ Bot::Cobalt::Plugin::RDB::AsyncSearch::Worker 0.001  A/AV/AVENJ/Bot-Cobalt-0.001
 Bot::Cobalt::Plugin::RDB::Database 0.001  A/AV/AVENJ/Bot-Cobalt-0.001.tar.gz
 Bot::Cobalt::Plugin::RDB::SearchCache 0.001  A/AV/AVENJ/Bot-Cobalt-0.001.tar.gz
 Bot::Cobalt::Plugin::Rehash       0.001  A/AV/AVENJ/Bot-Cobalt-0.001.tar.gz
+Bot::Cobalt::Plugin::RSS          0.001  A/AV/AVENJ/Bot-Cobalt-Plugin-RSS-0.001.tar.gz
+Bot::Cobalt::Plugin::RSS::Conf        0  A/AV/AVENJ/Bot-Cobalt-Plugin-RSS-0.001.tar.gz
 Bot::Cobalt::Plugin::Seen         0.001  A/AV/AVENJ/Bot-Cobalt-0.001.tar.gz
 Bot::Cobalt::Plugin::Version      0.001  A/AV/AVENJ/Bot-Cobalt-0.001.tar.gz
 Bot::Cobalt::Plugin::WWW          0.001  A/AV/AVENJ/Bot-Cobalt-0.001.tar.gz
