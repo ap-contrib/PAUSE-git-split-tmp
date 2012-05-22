@@ -298,7 +298,6 @@ POE::Component::Syntax::Highlight::HTML 0.0201  Z/ZO/ZOFFIX/POE-Component-Syntax
 POE::Component::Telephony::CTPort  0.03  X/XA/XANTUS/POE-Component-Telephony-CTPort-0.03.tar.gz
 POE::Component::TFTPd            0.0302  B/BE/BEVO/POE-Component-TFTPd-0.0302.tar.gz
 POE::Component::TFTPd::Client     undef  B/BE/BEVO/POE-Component-TFTPd-0.0302.tar.gz
-POE::Component::Tie                0.01  L/LA/LARRYSH/POE-Component-Tie-0.01.tar.gz
 POE::Component::TSTP               0.02  M/MS/MSERGEANT/POE-Component-TSTP-0.02.tar.gz
 POE::Component::UserBase           0.09  J/JG/JGOFF/POE-Component-UserBase-0.09.tar.gz
 POE::Component::WakeOnLAN          1.04  B/BI/BINGOS/POE-Component-WakeOnLAN-1.04.tar.gz
