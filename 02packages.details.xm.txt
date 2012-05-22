@@ -494,7 +494,7 @@ XML::OPML                          0.26  M/MA/MADGHOUL/XML-OPML-0.26.tar.gz
 XML::OPML::LibXML                  0.03  M/MI/MIYAGAWA/XML-OPML-LibXML-0.03.tar.gz
 XML::OPML::LibXML::Document       undef  M/MI/MIYAGAWA/XML-OPML-LibXML-0.03.tar.gz
 XML::OPML::LibXML::Outline        undef  M/MI/MIYAGAWA/XML-OPML-LibXML-0.03.tar.gz
-XML::OPML::SimpleGen              0.040  S/ST/STEPHENCA/XML-OPML-SimpleGen-0.04.tar.gz
+XML::OPML::SimpleGen               0.05  S/ST/STEPHENCA/XML-OPML-SimpleGen-0.05.tar.gz
 XML::Output                        0.09  W/WO/WOHL/XML-DTD-0.10.tar.gz
 XML::OverHTTP                      0.08  K/KA/KAWASAKI/XML-OverHTTP-0.08.tar.gz
 XML::OverHTTP::Default             0.08  K/KA/KAWASAKI/XML-OverHTTP-0.08.tar.gz
