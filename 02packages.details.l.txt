@@ -713,7 +713,7 @@ Log::ErrLogger::File                1.6  W/WO/WORENKD/Log-ErrLogger-1.5.tar.gz
 Log::ErrLogger::Mail                1.6  W/WO/WORENKD/Log-ErrLogger-1.5.tar.gz
 Log::ErrLogger::Sub                 1.6  W/WO/WORENKD/Log-ErrLogger-1.5.tar.gz
 Log::Facile                        1.03  S/SE/SERA/Log-Facile-1.03.tar.gz
-Log::Fast                      1.000004  P/PO/POWERMAN/Log-Fast-1.0.4.tar.gz
+Log::Fast                      1.000005  P/PO/POWERMAN/Log-Fast-1.0.5.tar.gz
 Log::FileSimple                    0.02  E/EB/EBRUNI/Log-FileSimple-0.02.tar.gz
 Log::Fine                          0.59  C/CF/CFUHRMAN/Log-Fine-0.59.tar.gz
 Log::Fine::Formatter              undef  C/CF/CFUHRMAN/Log-Fine-0.59.tar.gz
