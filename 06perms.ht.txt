@@ -978,6 +978,7 @@ HTML::Leaf,SEYHAN,f
 HTML::Linear,SYP,f
 HTML::Linear::Element,SYP,f
 HTML::Linear::Path,SYP,f
+HTML::Linear::Path::Colors,SYP,f
 HTML::LinkAdd,LGODDARD,f
 HTML::LinkChanger,SERGEYCHE,m
 HTML::LinkChanger::Absolutizer,SERGEYCHE,f
