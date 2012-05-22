@@ -569,6 +569,7 @@ Algorithm::Evolutionary::Utils,JMERELO,f
 Algorithm::Evolutionary::Wheel,JMERELO,f
 Algorithm::Evolve,ROSULEK,f
 Algorithm::Evolve::Util,ROSULEK,f
+Algorithm::ExpectationMaximization,AVIKAK,f
 Algorithm::FEC,MLEHMANN,m
 Algorithm::FastPermute,ROBIN,f
 Algorithm::FloodControl,CADE,f
