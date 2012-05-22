@@ -135,6 +135,7 @@ Wx::Print,MBARBON,f
 Wx::Print,MDOOTSON,c
 Wx::PrintDialog,MBARBON,f
 Wx::PrintDialog,MDOOTSON,c
+Wx::PrintPaperType,MDOOTSON,f
 Wx::PrintPreview,MBARBON,f
 Wx::PrintPreview,MDOOTSON,c
 Wx::PrintPreviewBase,MBARBON,f
