@@ -254,6 +254,10 @@ Net::Jabber::XDB,DAPATRICK,f
 Net::Jabber::XDB,HACKER,c
 Net::Jabber::XDB,REATMON,c
 Net::Jaiku,RICKM,f
+Net::Jenkins,CORNELIUS,f
+Net::Jenkins::Job,CORNELIUS,f
+Net::Jenkins::Job::Build,CORNELIUS,f
+Net::Jenkins::Job::QueueItem,CORNELIUS,f
 Net::Jifty,ALEXMV,c
 Net::Jifty,FALCONE,c
 Net::Jifty,JESSE,f
