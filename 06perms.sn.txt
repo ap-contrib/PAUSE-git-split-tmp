@@ -936,6 +936,7 @@ SQL::Interpolate::SQLFilter,MARKSTOS,f
 SQL::Interpolate::Variable,DMANURA,c
 SQL::Interpolate::Variable,MARKSTOS,f
 SQL::KeywordSearch,MARKSTOS,f
+SQL::Library,CHRISV,c
 SQL::Library,DGORLEY,f
 SQL::Loader,BENH,f
 SQL::Loader::MySQL,BENH,f
