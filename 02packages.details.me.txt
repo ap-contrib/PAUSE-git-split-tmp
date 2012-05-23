@@ -495,9 +495,9 @@ Method::Generate::Constructor     undef  M/MS/MSTROUT/Moo-0.091007.tar.gz
 Method::Generate::DemolishAll     undef  M/MS/MSTROUT/Moo-0.091007.tar.gz
 Method::Inliner                   undef  M/MS/MSTROUT/Moo-0.091007.tar.gz
 Method::Lexical                    0.23  C/CH/CHOCOLATE/Method-Lexical-0.23.tar.gz
-Method::Signatures             20111125  B/BA/BAREFOOT/Method-Signatures-20120517.tar.gz
-Method::Signatures::Modifiers         0  B/BA/BAREFOOT/Method-Signatures-20120517.tar.gz
-Method::Signatures::Parser            0  B/BA/BAREFOOT/Method-Signatures-20120517.tar.gz
+Method::Signatures             20120523  B/BA/BAREFOOT/Method-Signatures-20120523.tar.gz
+Method::Signatures::Modifiers  20120523  B/BA/BAREFOOT/Method-Signatures-20120523.tar.gz
+Method::Signatures::Parser            0  B/BA/BAREFOOT/Method-Signatures-20120523.tar.gz
 Method::Signatures::Simple         1.02  R/RH/RHESA/Method-Signatures-Simple-1.02.tar.gz
 Method::Specialize                 0.01  N/NU/NUFFIN/Method-Specialize-0.01.tar.gz
 Method::Workflow                  0.204  E/EX/EXODIST/Method-Workflow-0.204.tar.gz
