@@ -1008,7 +1008,7 @@ HTTP::Daemon::Threaded::Session    0.91  D/DA/DARNOLD/HTTP-Daemon-Threaded-0.91.
 HTTP::Daemon::Threaded::SessionCache 0.91  D/DA/DARNOLD/HTTP-Daemon-Threaded-0.91.tar.gz
 HTTP::Daemon::Threaded::Socket     0.91  D/DA/DARNOLD/HTTP-Daemon-Threaded-0.91.tar.gz
 HTTP::Daemon::Threaded::WebClient  0.91  D/DA/DARNOLD/HTTP-Daemon-Threaded-0.91.tar.gz
-HTTP::Daemon::UNIX                 0.03  S/SH/SHARYANTO/HTTP-Daemon-UNIX-0.03.tar.gz
+HTTP::Daemon::UNIX                 0.04  S/SH/SHARYANTO/HTTP-Daemon-UNIX-0.04.tar.gz
 HTTP::Date                         6.02  G/GA/GAAS/HTTP-Date-6.02.tar.gz
 HTTP::DAV                          0.47  C/CO/COSIMO/HTTP-DAV-0.47.tar.gz
 HTTP::DAV::Browse                  0.05  J/JK/JKUTEJ/HTTP-DAV-Browse-0.05.tar.gz
