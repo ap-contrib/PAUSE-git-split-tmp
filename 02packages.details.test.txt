@@ -327,6 +327,7 @@ Test::Weaken                   3.014000  K/KR/KRYDE/Test-Weaken-3.014000.tar.gz
 Test::Weaken::ExtraBits               3  K/KR/KRYDE/Test-VariousBits-3.tar.gz
 Test::Weaken::Gtk2                   45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Test::Weaken::Internal         3.014000  K/KR/KRYDE/Test-Weaken-3.014000.tar.gz
+Test::WebDriver                   undef  L/LU/LUKEC/Test-WebDriver-0.01.tar.gz
 Test::Wiretap                      1.01  A/AI/AIRWAVE/Test-Wiretap-1.01.tar.gz
 Test::Without                     0.100  R/RJ/RJRAY/Test-Without-0.10.tar.gz
 Test::Without::GD                     3  K/KR/KRYDE/Test-VariousBits-3.tar.gz
