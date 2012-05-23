@@ -191,6 +191,11 @@ Wraf::Result,JONAS,f
 Wrap,XIAOMO,m
 Wrapper,CMUNGALL,f
 Wrapper,SJCARBON,c
+Writeat,ZAG,f
+Writeat::AUTHOR,ZAG,f
+Writeat::CHANGES,ZAG,f
+Writeat::To,ZAG,f
+Writeat::To::DocBook,ZAG,f
 WsdlSoapBindingVisitor,PERRAD,f
 WsdlVisitor,PERRAD,f
 Wurst,WURST,f
