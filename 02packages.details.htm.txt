@@ -137,7 +137,7 @@ HTML::ReplacePictogramMobileJp::Vodafone undef  T/TO/TOKUHIROM/HTML-ReplacePicto
 HTML::ReportWriter             1.005001  O/OP/OPIATE/HTML-ReportWriter-1.5.1.tar.gz
 HTML::ReportWriter::PagingAndSorting 1.005000  O/OP/OPIATE/HTML-ReportWriter-1.5.1.tar.gz
 HTML::ResolveLink                  0.05  M/MI/MIYAGAWA/HTML-ResolveLink-0.05.tar.gz
-HTML::Restrict                 1.000003  O/OA/OALDERS/HTML-Restrict-1.0.3.tar.gz
+HTML::Restrict                 1.000004  O/OA/OALDERS/HTML-Restrict-1.0.4.tar.gz
 HTML::Revelation                   1.03  R/RS/RSAVAGE/HTML-Revelation-1.03.tgz
 HTML::RewriteAttributes            0.04  S/SA/SARTAK/HTML-RewriteAttributes-0.04.tar.gz
 HTML::RewriteAttributes::Links     0.03  S/SA/SARTAK/HTML-RewriteAttributes-0.04.tar.gz
