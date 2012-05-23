@@ -657,11 +657,11 @@ SQL::Amazon::Tables::SysSchema    undef  D/DA/DARNOLD/DBD-Amazon-0.10.tar.gz
 SQL::Amazon::Tables::Table        undef  D/DA/DARNOLD/DBD-Amazon-0.10.tar.gz
 SQL::AnchoredWildcards                1  M/ML/MLFISHER/SQL-AnchoredWildcards-1.0.tar.gz
 SQL::Beautify                      0.04  J/JK/JKRAMER/SQL-Beautify-0.04.tar.gz
-SQL::Bibliosoph                    2.45  M/MA/MATIU/SQL-Bibliosoph-2.45.tar.gz
-SQL::Bibliosoph::CatalogFile       2.00  M/MA/MATIU/SQL-Bibliosoph-2.45.tar.gz
-SQL::Bibliosoph::Dummy             2.00  M/MA/MATIU/SQL-Bibliosoph-2.45.tar.gz
-SQL::Bibliosoph::Query             2.00  M/MA/MATIU/SQL-Bibliosoph-2.45.tar.gz
-SQL::Bibliosoph::Sims               2.0  M/MA/MATIU/SQL-Bibliosoph-2.45.tar.gz
+SQL::Bibliosoph                    2.46  M/MA/MATIU/SQL-Bibliosoph-2.46.tar.gz
+SQL::Bibliosoph::CatalogFile       2.00  M/MA/MATIU/SQL-Bibliosoph-2.46.tar.gz
+SQL::Bibliosoph::Dummy             2.00  M/MA/MATIU/SQL-Bibliosoph-2.46.tar.gz
+SQL::Bibliosoph::Query             2.00  M/MA/MATIU/SQL-Bibliosoph-2.46.tar.gz
+SQL::Bibliosoph::Sims               2.0  M/MA/MATIU/SQL-Bibliosoph-2.46.tar.gz
 SQL::DB                            0.18  M/ML/MLAWREN/SQL-DB-0.18.tar.gz
 SQL::DB::Cursor                   undef  M/ML/MLAWREN/SQL-DB-0.18.tar.gz
 SQL::DB::Row                      undef  M/ML/MLAWREN/SQL-DB-0.18.tar.gz

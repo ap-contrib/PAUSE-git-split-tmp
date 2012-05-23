@@ -334,7 +334,7 @@ App::Asciio::stripes::stripes     undef  N/NK/NKH/App-Asciio-1.02.71.tar.gz
 App::Asciio::stripes::wirl_arrow  undef  N/NK/NKH/App-Asciio-1.02.71.tar.gz
 App::Authentication                9850  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App::Authentication::Htpasswd      9817  S/SP/SPADKINS/App-Context-0.968.tar.gz
-App::authkeymgr                   0.010  A/AV/AVENJ/App-authkeymgr-0.010.tar.gz
+App::authkeymgr                   0.011  A/AV/AVENJ/App-authkeymgr-0.011.tar.gz
 App::Authorization                 6783  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App::AutoBuild                     0.04  Y/YO/YOBERT/App-AutoBuild-0.04.tar.gz
 App::AYCABTU                       0.04  I/IN/INGY/App-AYCABTU-0.04.tar.gz
