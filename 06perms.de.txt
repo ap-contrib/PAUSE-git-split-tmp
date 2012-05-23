@@ -1171,6 +1171,7 @@ Dist::Zilla::Plugin::CSJEWELL::VersionGetter,CSJEWELL,f
 Dist::Zilla::Plugin::Catalyst,XENO,f
 Dist::Zilla::Plugin::Catalyst::Helper,XENO,f
 Dist::Zilla::Plugin::Catalyst::New,XENO,f
+Dist::Zilla::Plugin::ChangeStats::Git,YANICK,f
 Dist::Zilla::Plugin::ChangelogFromGit,RCAPUTO,f
 Dist::Zilla::Plugin::ChangelogFromGit::CPAN::Changes,IOANR,f
 Dist::Zilla::Plugin::ChangelogFromGit::Debian,GPHAT,f
@@ -1676,6 +1677,8 @@ Dist::Zilla::Prereqs,RJBS,f
 Dist::Zilla::Role::AfterBuild,RJBS,f
 Dist::Zilla::Role::AfterMint,RJBS,f
 Dist::Zilla::Role::AfterRelease,RJBS,f
+Dist::Zilla::Role::Author::YANICK::Changelog,YANICK,f
+Dist::Zilla::Role::Author::YANICK::RequireZillaRole,YANICK,f
 Dist::Zilla::Role::BeforeArchive,RJBS,f
 Dist::Zilla::Role::BeforeBuild,RJBS,f
 Dist::Zilla::Role::BeforeMint,RJBS,f
