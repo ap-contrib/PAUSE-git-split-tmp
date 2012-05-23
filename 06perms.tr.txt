@@ -896,6 +896,9 @@ Try::Tiny,PERIGRIN,c
 Try::Tiny,RJBS,c
 Try::Tiny,SARTAK,c
 Try::Tiny,STEVAN,c
+Try::Tiny::Extended,MYSZ,f
+Try::Tiny::Extended::Catch,MYSZ,f
+Try::Tiny::Extended::Catch::All,MYSZ,f
 Try::Tiny::ScopeGuard,RJBS,f
 Try::Tiny::WarnCaught,RATAXIS,f
 TryCatch,ASH,f
