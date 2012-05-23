@@ -747,6 +747,7 @@ Tie::Hash::Abbrev::BibRefs,FANY,f
 Tie::Hash::Abbrev::Smart,FANY,f
 Tie::Hash::Approx,BRIAC,f
 Tie::Hash::Array,FANY,f
+Tie::Hash::Blame,RHOELZ,f
 Tie::Hash::Cache::MRU,DAVIDNICO,f
 Tie::Hash::Cannabinol,DAVECROSS,f
 Tie::Hash::Constant,RCLAMP,f

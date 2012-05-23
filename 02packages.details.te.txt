@@ -542,6 +542,7 @@ Tie::Hash::Abbrev::BibRefs         0.02  F/FA/FANY/Tie-Hash-Abbrev-BibRefs-0.02.
 Tie::Hash::Abbrev::Smart           0.01  F/FA/FANY/Tie-Hash-Array-0.1.tar.gz
 Tie::Hash::Approx                  0.03  B/BR/BRIAC/Tie-Hash-Approx-0.03.tar.gz
 Tie::Hash::Array                    0.1  F/FA/FANY/Tie-Hash-Array-0.1.tar.gz
+Tie::Hash::Blame                   0.01  R/RH/RHOELZ/Tie-Hash-Blame-0.01.tar.gz
 Tie::Hash::Cache::MRU              0.02  D/DA/DAVIDNICO/handy_tied_functions/Tie-Hash-Cache-MRU-0.02.tar.gz
 Tie::Hash::Cannabinol                28  D/DA/DAVECROSS/Tie-Hash-Cannabinol-1.10.tar.gz
 Tie::Hash::Constant                0.01  R/RC/RCLAMP/Tie-Hash-Constant-0.01.tar.gz
