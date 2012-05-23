@@ -493,6 +493,8 @@ Bot::Cobalt::IRC::Message::Public 0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::IRC::Server          0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Alarmclock   0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Auth         0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
+Bot::Cobalt::Plugin::Calc         0.001  A/AV/AVENJ/Bot-Cobalt-Plugin-Calc-0.001.tar.gz
+Bot::Cobalt::Plugin::Calc::Parser     0  A/AV/AVENJ/Bot-Cobalt-Plugin-Calc-0.001.tar.gz
 Bot::Cobalt::Plugin::Extras::Debug 0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Extras::DNS  0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Extras::Karma 0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
@@ -519,6 +521,17 @@ Bot::Cobalt::Plugin::Rehash       0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::RSS          0.001  A/AV/AVENJ/Bot-Cobalt-Plugin-RSS-0.001.tar.gz
 Bot::Cobalt::Plugin::RSS::Conf        0  A/AV/AVENJ/Bot-Cobalt-Plugin-RSS-0.001.tar.gz
 Bot::Cobalt::Plugin::Seen         0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
+Bot::Cobalt::Plugin::Silly        0.001  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::AutoOpAll 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::DailyFail 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::LOLCAT    0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::MstOMatic 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::OutputAngryGerman 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::OutputLeet 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::OutputLOLCAT 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::Reverse   0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::Rot13     0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
+Bot::Cobalt::Plugin::Silly::ThreatLevel 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
 Bot::Cobalt::Plugin::Version      0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::WWW          0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Serializer           0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
