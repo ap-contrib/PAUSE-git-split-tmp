@@ -477,6 +477,7 @@ Bot::Cobalt::Core::Role::Timers   0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Core::Role::Unloader 0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Core::Sugar          0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::DB                   0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
+Bot::Cobalt::DB::Term             0.001  A/AV/AVENJ/Bot-Cobalt-DB-Term-0.001.tar.gz
 Bot::Cobalt::Frontend::RC         0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Frontend::Utils      0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::IRC                  0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
