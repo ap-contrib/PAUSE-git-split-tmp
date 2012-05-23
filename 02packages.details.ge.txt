@@ -302,9 +302,9 @@ Git::Class::Role::Status          undef  I/IS/ISHIGAKI/Git-Class-0.12.tar.gz
 Git::Class::Role::Tag             undef  I/IS/ISHIGAKI/Git-Class-0.12.tar.gz
 Git::Class::Worktree              undef  I/IS/ISHIGAKI/Git-Class-0.12.tar.gz
 Git::CPAN::Hook                    0.03  B/BO/BOOK/Git-CPAN-Hook-0.03.tar.gz
-Git::CPAN::Patch                 v0.7.0  Y/YA/YANICK/Git-CPAN-Patch-0.7.0.tar.gz
-Git::CPAN::Patch::Command::sources v0.7.0  Y/YA/YANICK/Git-CPAN-Patch-0.7.0.tar.gz
-Git::CPAN::Patch::Import         v0.7.0  Y/YA/YANICK/Git-CPAN-Patch-0.7.0.tar.gz
+Git::CPAN::Patch                 v0.8.0  Y/YA/YANICK/Git-CPAN-Patch-0.8.0.tar.gz
+Git::CPAN::Patch::Command::sources v0.8.0  Y/YA/YANICK/Git-CPAN-Patch-0.8.0.tar.gz
+Git::CPAN::Patch::Import         v0.8.0  Y/YA/YANICK/Git-CPAN-Patch-0.8.0.tar.gz
 Git::Demo                          0.02  R/RC/RCL/Git-Demo-0.02.tar.gz
 Git::Demo::Action::File           undef  R/RC/RCL/Git-Demo-0.02.tar.gz
 Git::Demo::Action::Git            undef  R/RC/RCL/Git-Demo-0.02.tar.gz
