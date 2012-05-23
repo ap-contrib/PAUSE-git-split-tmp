@@ -657,7 +657,7 @@ Text::ASCIIMathML::Node            0.81  N/NO/NODINE/Text-ASCIIMathML-0.81.tar.g
 Text::ASCIITable                   0.20  L/LU/LUNATIC/Text-ASCIITable-0.20.tar.gz
 Text::ASCIITable::TW               0.04  A/AL/ALEC/Text-ASCIITable-TW-0.04.tar.gz
 Text::ASCIITable::Wrap              0.2  L/LU/LUNATIC/Text-ASCIITable-0.20.tar.gz
-Text::AsciiTeX                     0.04  J/JB/JBERGER/Text-AsciiTeX-0.04.tar.gz
+Text::AsciiTeX                     0.05  J/JB/JBERGER/Text-AsciiTeX-0.05.tar.gz
 Text::Aspell                       0.09  H/HA/HANK/Text-Aspell-0.09.tar.gz
 Text::AsReadWithoutIntonation       0.9  A/AM/AMONTERO/Text-AsReadWithoutIntonation-0.9.tar.gz
 Text::Authinfo                     0.03  B/BC/BCLAWSIE/Text-Authinfo-0.03.tar.gz
