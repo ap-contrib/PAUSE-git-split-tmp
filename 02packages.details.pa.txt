@@ -1,5 +1,6 @@
 Passwd::Unix                      0.621  S/ST/STRZELEC/Passwd-Unix-0.621.tar.gz
 Passwd::Unix::Alt                0.5211  S/SH/SHARYANTO/Passwd-Unix-Alt-0.5211.tar.gz
+Password::SaltSha                  0.01  D/DA/DAVIDO/Password-SaltSha-0.01.tar.gz
 PasswordMonkey                     0.09  M/MS/MSCHILLI/PasswordMonkey-0.09.tar.gz
 PasswordMonkey::Bouncer           undef  M/MS/MSCHILLI/PasswordMonkey-0.09.tar.gz
 PasswordMonkey::Bouncer::Retry    undef  M/MS/MSCHILLI/PasswordMonkey-0.09.tar.gz
