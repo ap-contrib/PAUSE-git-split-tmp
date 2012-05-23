@@ -736,6 +736,9 @@ True::Truth                         0.6  N/NO/NORBU/True-Truth-0.6.tar.gz
 true::VERSION                      0.18  C/CH/CHOCOLATE/true-0.18.tar.gz
 Trustee                           0.002  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 Try::Tiny                          0.11  D/DO/DOY/Try-Tiny-0.11.tar.gz
+Try::Tiny::Extended                 0.1  M/MY/MYSZ/Try-Tiny-Extended-0.1.tar.gz
+Try::Tiny::Extended::Catch          0.1  M/MY/MYSZ/Try-Tiny-Extended-0.1.tar.gz
+Try::Tiny::Extended::Catch::All     0.1  M/MY/MYSZ/Try-Tiny-Extended-0.1.tar.gz
 Try::Tiny::ScopeGuard              0.07  R/RJ/RJBS/Try-Tiny-0.07.tar.gz
 Try::Tiny::WarnCaught              0.01  R/RA/RATAXIS/Try-Tiny-WarnCaught-0.01.tar.gz
 TryCatch                       1.003000  A/AS/ASH/TryCatch-1.003000.tar.gz
