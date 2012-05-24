@@ -602,6 +602,7 @@ ZeroMQ::Constants                 undef  D/DM/DMAKI/ZeroMQ-0.21.tar.gz
 ZeroMQ::Context                   undef  D/DM/DMAKI/ZeroMQ-0.21.tar.gz
 ZeroMQ::Message                   undef  D/DM/DMAKI/ZeroMQ-0.21.tar.gz
 ZeroMQ::Poller                    undef  D/DM/DMAKI/ZeroMQ-0.21.tar.gz
+ZeroMQ::Poller::Timer              0.01  J/JC/JCONERLY/ZeroMQ-Poller-Timer-0.01.tar.gz
 ZeroMQ::PubSub                     0.08  R/RE/REVMISCHA/ZeroMQ-PubSub-0.08.tar.gz
 ZeroMQ::PubSub::Client            undef  R/RE/REVMISCHA/ZeroMQ-PubSub-0.08.tar.gz
 ZeroMQ::PubSub::Server            undef  R/RE/REVMISCHA/ZeroMQ-PubSub-0.08.tar.gz

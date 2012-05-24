@@ -170,6 +170,7 @@ ZeroMQ::Constants,DMAKI,f
 ZeroMQ::Context,DMAKI,f
 ZeroMQ::Message,DMAKI,f
 ZeroMQ::Poller,DMAKI,f
+ZeroMQ::Poller::Timer,JCONERLY,f
 ZeroMQ::PubSub,REVMISCHA,f
 ZeroMQ::PubSub::Client,REVMISCHA,f
 ZeroMQ::PubSub::Server,REVMISCHA,f
