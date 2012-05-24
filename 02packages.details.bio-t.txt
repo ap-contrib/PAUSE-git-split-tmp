@@ -494,8 +494,8 @@ Bot::Cobalt::IRC::Message::Public 0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::IRC::Server          0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Alarmclock   0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Auth         0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
-Bot::Cobalt::Plugin::Calc         0.001  A/AV/AVENJ/Bot-Cobalt-Plugin-Calc-0.001.tar.gz
-Bot::Cobalt::Plugin::Calc::Parser     0  A/AV/AVENJ/Bot-Cobalt-Plugin-Calc-0.001.tar.gz
+Bot::Cobalt::Plugin::Calc         0.002  A/AV/AVENJ/Bot-Cobalt-Plugin-Calc-0.002.tar.gz
+Bot::Cobalt::Plugin::Calc::Parser     0  A/AV/AVENJ/Bot-Cobalt-Plugin-Calc-0.002.tar.gz
 Bot::Cobalt::Plugin::Extras::Debug 0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Extras::DNS  0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
 Bot::Cobalt::Plugin::Extras::Karma 0.003  A/AV/AVENJ/Bot-Cobalt-0.003.tar.gz
