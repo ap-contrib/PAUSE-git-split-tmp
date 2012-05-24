@@ -80,7 +80,7 @@ Perldoc::Writer                   undef  I/IN/INGY/Perldoc-0.20.tar.gz
 perlec                            undef  H/HI/HIO/perlec-0.08.tar.gz
 perlfaq                        5.0150039  L/LL/LLAP/perlfaq-5.0150039.tar.gz
 PerlFM                         0.002000  V/VV/VVELOX/PerlFM-0.2.0.tar.gz
-PerlGSL                           0.001  J/JB/JBERGER/PerlGSL-0.001.tar.gz
+PerlGSL                           0.002  J/JB/JBERGER/PerlGSL-0.002.tar.gz
 PerlGSL::DiffEq                    0.08  J/JB/JBERGER/PerlGSL-DiffEq-0.08.tar.gz
 PerlGSL::Integration::MultiDim    0.003  J/JB/JBERGER/PerlGSL-Integration-MultiDim-0.003.tar.gz
 PerlGSL::Integration::SingleDim   0.002  J/JB/JBERGER/PerlGSL-Integration-SingleDim-0.002.tar.gz
