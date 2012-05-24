@@ -14,7 +14,7 @@ CPAN::LinksToDocs::No404s         0.003  Z/ZO/ZOFFIX/CPAN-LinksToDocs-No404s-0.0
 CPAN::LinksToDocs::No404s::Remember 0.002  Z/ZO/ZOFFIX/CPAN-LinksToDocs-No404s-Remember-0.002.tar.gz
 CPAN::LWP::UserAgent             1.9600  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Meta                     2.120921  D/DA/DAGOLDEN/CPAN-Meta-2.120921.tar.gz
-CPAN::Meta::Check                 0.003  L/LE/LEONT/CPAN-Meta-Check-0.003.tar.gz
+CPAN::Meta::Check                 0.004  L/LE/LEONT/CPAN-Meta-Check-0.004.tar.gz
 CPAN::Meta::Converter          2.120921  D/DA/DAGOLDEN/CPAN-Meta-2.120921.tar.gz
 CPAN::Meta::Feature            2.120921  D/DA/DAGOLDEN/CPAN-Meta-2.120921.tar.gz
 CPAN::Meta::History            2.120921  D/DA/DAGOLDEN/CPAN-Meta-2.120921.tar.gz
