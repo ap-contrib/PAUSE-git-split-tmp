@@ -689,7 +689,7 @@ LLEval                             0.01  G/GF/GFUJI/LLEval-0.01.tar.gz
 LLEval::CLI                       undef  G/GF/GFUJI/LLEval-0.01.tar.gz
 LLg                               undef  Y/YV/YVESP/llg-1.07.tar.gz
 lm                                    0  D/DC/DCMERTENS/PDL-Graphics-Prima-0.05.tar.gz
-load                               0.21  E/EL/ELIZABETH/load-0.21.tar.gz
+load                               0.23  E/EL/ELIZABETH/load-0.23.tar.gz
 Load                           2.000002  M/MP/MPOURASG/FastDB-2.0.2.tar.gz
 LoaderException2                  undef  M/MR/MRAMBERG/Mojolicious-2.58.tar.gz
 LoaderException2_2                undef  M/MR/MRAMBERG/Mojolicious-2.58.tar.gz
