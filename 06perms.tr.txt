@@ -900,6 +900,9 @@ Try::Tiny::Extended,MYSZ,f
 Try::Tiny::Extended::Catch,MYSZ,f
 Try::Tiny::Extended::Catch::All,MYSZ,f
 Try::Tiny::ScopeGuard,RJBS,f
+Try::Tiny::SmartCatch,MYSZ,f
+Try::Tiny::SmartCatch::Catch::Default,MYSZ,f
+Try::Tiny::SmartCatch::Catch::When,MYSZ,f
 Try::Tiny::WarnCaught,RATAXIS,f
 TryCatch,ASH,f
 TryCatch,FLORA,c
