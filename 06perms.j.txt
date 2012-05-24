@@ -512,6 +512,8 @@ Jemplate::Runtime,RKRIMEN,c
 Jemplate::Runtime::Compact,FREW,c
 Jemplate::Runtime::Compact,INGY,f
 Jemplate::Runtime::Compact,RKRIMEN,c
+Jenkins::Notification,CORNELIUS,f
+Jenkins::NotificationListener,CORNELIUS,f
 Jet,KAARE,f
 Jifty,ALEXMV,c
 Jifty,AUDREYT,c

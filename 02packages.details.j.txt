@@ -212,6 +212,8 @@ Jemplate::Grammar                  2.10  F/FR/FREW/Jemplate-0.262.tar.gz
 Jemplate::Parser                  undef  F/FR/FREW/Jemplate-0.262.tar.gz
 Jemplate::Runtime                 undef  F/FR/FREW/Jemplate-0.262.tar.gz
 Jemplate::Runtime::Compact        undef  F/FR/FREW/Jemplate-0.262.tar.gz
+Jenkins::Notification             undef  C/CO/CORNELIUS/Jenkins-NotificationListener-0.01.tar.gz
+Jenkins::NotificationListener      0.01  C/CO/CORNELIUS/Jenkins-NotificationListener-0.01.tar.gz
 Jet                               0.001  K/KA/KAARE/Jet-0.001.tar.gz
 Jifty                           1.10518  S/SA/SARTAK/Jifty-1.10518.tar.gz
 Jifty::Action                     undef  S/SA/SARTAK/Jifty-1.10518.tar.gz
