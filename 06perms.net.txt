@@ -258,6 +258,7 @@ Net::Jenkins,CORNELIUS,f
 Net::Jenkins::Job,CORNELIUS,f
 Net::Jenkins::Job::Build,CORNELIUS,f
 Net::Jenkins::Job::QueueItem,CORNELIUS,f
+Net::Jenkins::Utils,CORNELIUS,f
 Net::Jifty,ALEXMV,c
 Net::Jifty,FALCONE,c
 Net::Jifty,JESSE,f
