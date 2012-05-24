@@ -94,7 +94,7 @@ Underscore::_True                  0.01  V/VT/VTI/Underscore-0.01.tar.gz
 uni::perl                          0.03  M/MO/MONS/uni-perl-0.03.tar.gz
 unicode                            0.01  P/PE/PERLER/HTML-FormFu-0.09006.tar.gz
 Unicode::CaseFold                  0.02  A/AR/ARODLAND/Unicode-CaseFold-0.02.tar.gz
-Unicode::Casing                    0.10  K/KH/KHW/Unicode-Casing-0.10.tar.gz
+Unicode::Casing                    0.11  K/KH/KHW/Unicode-Casing-0.11.tar.gz
 Unicode::Char                      0.02  D/DA/DANKOGAI/Unicode-Char-0.02.tar.gz
 Unicode::CharName                  1.07  G/GA/GAAS/Unicode-String-2.09.tar.gz
 Unicode::CheckUTF8                 1.03  B/BR/BRADFITZ/Unicode-CheckUTF8-1.03.tar.gz
