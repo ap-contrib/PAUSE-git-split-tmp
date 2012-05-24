@@ -544,6 +544,7 @@ Music::ABC::Archive,WELTYJJ,f
 Music::ABC::Song,WELTYJJ,f
 Music::Album,JRED,f
 Music::Artist,JRED,f
+Music::AtonalUtil,JMATES,f
 Music::Audioscrobbler::MPD,EALLENIII,f
 Music::Audioscrobbler::Submit,EALLENIII,f
 Music::Chord::Namer,JIMI,m
