@@ -357,8 +357,8 @@ Git::Repository::Command::Reaper  undef  B/BO/BOOK/Git-Repository-1.16.tar.gz
 Git::Repository::Log               1.01  B/BO/BOOK/Git-Repository-1.25.tar.gz
 Git::Repository::Log::Iterator     1.02  B/BO/BOOK/Git-Repository-1.25.tar.gz
 Git::Repository::Plugin            1.01  B/BO/BOOK/Git-Repository-1.25.tar.gz
-Git::Repository::Plugin::Blame   v1.0.2  A/AU/AUBERTG/Git-Repository-Plugin-Blame-1.0.2.tar.gz
-Git::Repository::Plugin::Blame::Line v1.0.2  A/AU/AUBERTG/Git-Repository-Plugin-Blame-1.0.2.tar.gz
+Git::Repository::Plugin::Blame   v1.0.3  A/AU/AUBERTG/Git-Repository-Plugin-Blame-1.0.3.tar.gz
+Git::Repository::Plugin::Blame::Line v1.0.3  A/AU/AUBERTG/Git-Repository-Plugin-Blame-1.0.3.tar.gz
 Git::Repository::Plugin::Log       1.01  B/BO/BOOK/Git-Repository-1.25.tar.gz
 Git::SVNReplay                   1.0214  J/JE/JETTERO/Git-SVNReplay-1.0214.tar.gz
 Git::Wrapper                      0.020  G/GE/GENEHACK/Git-Wrapper-0.020.tar.gz
