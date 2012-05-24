@@ -476,6 +476,7 @@ Dumbbench::Stats,SMUELLER,f
 Dummy,PERRAD,f
 DummySerializer,JSWARTZ,f
 Dump,PFEIFFER,f
+DumpMatch,SCHWIGON,f
 DumpTheDumper,GSLONDON,f
 Dumpvalue,DAPM,c
 Dumpvalue,FLORA,c

@@ -118,6 +118,7 @@ MyAtomicSimpleListType            undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyAtomicSimpleType                undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyBot                             undef  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 MyBuild                           undef  P/PH/PHILCROW/Java-Build-0.05.tar.gz
+MyBuilder                         undef  S/SC/SCHWIGON/perl-formance/Benchmark-Perl-Formance-0.27.tar.gz
 mycache                           undef  R/RY/RYBSKEJ/Apache-forks-0.03.tar.gz
 MyCatalystApp                      0.01  G/GS/GSHANK/HTML-FormHandler-0.40010.tar.gz
 MyCatalystApp::Controller::Captcha undef  G/GS/GSHANK/HTML-FormHandler-0.40010.tar.gz

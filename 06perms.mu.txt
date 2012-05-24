@@ -273,6 +273,7 @@ MyBlog::View::View,TAKERU,c
 MyBogusImplementationClass,JBEVERLY,f
 MyBot,FRANC,f
 MyBuild,PHILCROW,f
+MyBuilder,SCHWIGON,f
 MyCDs,EVO,f
 MyCDs::Artist,EVO,f
 MyCDs::Disc,EVO,f
