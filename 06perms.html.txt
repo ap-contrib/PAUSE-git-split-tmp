@@ -1581,7 +1581,10 @@ HTTP::Server::EV,NYAKNYAN,m
 HTTP::Server::EV::BufTie,NYAKNYAN,m
 HTTP::Server::EV::Buffer,NYAKNYAN,m
 HTTP::Server::EV::CGI,NYAKNYAN,f
+HTTP::Server::EV::IO::AIO,NYAKNYAN,c
+HTTP::Server::EV::IO::Blocking,NYAKNYAN,c
 HTTP::Server::EV::MultipartFile,NYAKNYAN,f
+HTTP::Server::EV::PortListener,NYAKNYAN,c
 HTTP::Server::Encrypt,CHENGANG,f
 HTTP::Server::Multiplex,MARKOV,f
 HTTP::Server::PSGI,MIYAGAWA,f
