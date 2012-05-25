@@ -127,8 +127,7 @@ NetAddr::IP::UtilPP,MIKER,f
 NetAddr::IP::UtilPolluted,MIKER,f
 NetAddr::IP::Util_IS,MIKER,f
 NetAddr::MAC,DJZORT,f
-NetApp,BSUNG,m
-NetApp,WPMOORE,c
+NetApp,WPMOORE,m
 NetApp::Aggregate,WPMOORE,f
 NetApp::Aggregate::Plex,WPMOORE,f
 NetApp::Aggregate::RAIDGroup,WPMOORE,f
