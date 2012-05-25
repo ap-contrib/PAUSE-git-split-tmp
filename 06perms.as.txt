@@ -128,6 +128,7 @@ Astro::Nova::GalPosn,SMUELLER,f
 Astro::Nova::HMS,SMUELLER,f
 Astro::Nova::LnLatPosn,SMUELLER,f
 Astro::Nova::ZoneDate,SMUELLER,f
+Astro::PAL,TJENNESS,f
 Astro::QDP::Parse,DJERIUS,f
 Astro::SIMBAD,AALLAN,f
 Astro::SIMBAD::Client,WYANT,m
