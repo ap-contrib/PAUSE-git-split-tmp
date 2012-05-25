@@ -715,7 +715,7 @@ SQL::Interpolate::SQL              0.32  D/DM/DMANURA/SQL-Interpolate-0.32.tar.g
 SQL::Interpolate::SQLFilter        0.32  D/DM/DMANURA/SQL-Interpolate-0.32.tar.gz
 SQL::Interpolate::Variable         0.32  D/DM/DMANURA/SQL-Interpolate-0.32.tar.gz
 SQL::KeywordSearch                 1.13  M/MA/MARKSTOS/SQL-KeywordSearch-1.13.tar.gz
-SQL::Library                     v0.0.3  D/DG/DGORLEY/SQL-Library-0.0.3.tar.gz
+SQL::Library                   0.000004  C/CH/CHRISV/SQL-Library-0.0.4.tar.gz
 SQL::Loader                        0.02  B/BE/BENH/SQL-Loader-0.02.tar.gz
 SQL::Loader::MySQL                 0.01  B/BE/BENH/SQL-Loader-0.02.tar.gz
 SQL::Maker                         1.05  C/CH/CHIBA/SQL-Maker-1.05.tar.gz
