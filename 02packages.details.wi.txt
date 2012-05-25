@@ -331,6 +331,8 @@ Win32::Pipe                       0.024  J/JD/JDB/Win32-Pipe-0.024.tar.gz
 Win32::PowerPoint                  0.09  I/IS/ISHIGAKI/Win32-PowerPoint-0.09.tar.gz
 Win32::PowerPoint::Constants       0.09  I/IS/ISHIGAKI/Win32-PowerPoint-0.09.tar.gz
 Win32::PowerPoint::Utils          undef  I/IS/ISHIGAKI/Win32-PowerPoint-0.09.tar.gz
+Win32::PrintBox                   0.001  D/DC/DCLARKE/Win32-PrintBox-0.001.tar.gz
+Win32::PrintBox::IO               0.001  D/DC/DCLARKE/PPM-Win32-PrintBox-0.001.tar.gz
 Win32::Printer                 0.009001  W/WA/WASX/Win32-Printer-0.9.1.zip
 Win32::Printer::Direct         0.000002  W/WA/WASX/Win32-Printer-0.9.1.zip
 Win32::Printer::Enum           0.000006  W/WA/WASX/Win32-Printer-0.9.1.zip
