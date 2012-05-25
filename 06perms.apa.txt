@@ -252,6 +252,16 @@ App::AllKnowingDNS::Zone,MSTPLBG,f
 App::AltSQL,EWATERS,f
 App::AltSQL::Model,EWATERS,f
 App::AltSQL::Model::MySQL,EWATERS,f
+App::AltSQL::Plugin::Dump,EWATERS,f
+App::AltSQL::Plugin::Dump::Format,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::csv,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::html,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::json,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::perl,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::sql,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::xls,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::xml,EWATERS,f
+App::AltSQL::Plugin::Dump::Format::yaml,EWATERS,f
 App::AltSQL::Plugin::Tail,EWATERS,f
 App::AltSQL::Role,EWATERS,f
 App::AltSQL::Term,EWATERS,f
