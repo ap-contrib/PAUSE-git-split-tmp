@@ -404,9 +404,9 @@ Zabbix::API::Screen                   0  F/FG/FGA/Zabbix-API-0.004.tar.gz
 Zabbix::API::Trigger                  0  F/FG/FGA/Zabbix-API-0.004.tar.gz
 Zabbix::API::Utils                    0  F/FG/FGA/Zabbix-API-0.004.tar.gz
 Zabbix::Sender                     0.02  T/TE/TEX/Zabbix-Sender-0.02.tar.gz
-ZConf                               6.0  V/VV/VVELOX/ZConf-6.0.0.tar.gz
-ZConf::backends::file               2.0  V/VV/VVELOX/ZConf-6.0.0.tar.gz
-ZConf::backends::ldap          0.000002  V/VV/VVELOX/ZConf-6.0.0.tar.gz
+ZConf                          6.001000  V/VV/VVELOX/ZConf-6.1.0.tar.gz
+ZConf::backends::file          2.001000  V/VV/VVELOX/ZConf-6.1.0.tar.gz
+ZConf::backends::ldap          0.001000  V/VV/VVELOX/ZConf-6.1.0.tar.gz
 ZConf::BGSet                        1.0  V/VV/VVELOX/ZConf-BGSet-1.0.0.tar.gz
 ZConf::BGSet::GUI::GTK         0.000001  V/VV/VVELOX/ZConf-BGSet-GUI-GTK-0.0.1.tar.gz
 ZConf::Bookmarks               0.002004  V/VV/VVELOX/ZConf-Bookmarks-0.2.4.tar.gz
