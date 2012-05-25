@@ -26,7 +26,7 @@ Text::Wrap                     2009.0305  M/MU/MUIR/modules/Text-Tabs+Wrap-2009.
 Text::Wrap::Smart                   0.6  S/SC/SCHUBIGER/Text-Wrap-Smart-0.6.tar.gz
 Text::Wrap::Smart::XS              0.06  S/SC/SCHUBIGER/Text-Wrap-Smart-XS-0.06.tar.gz
 Text::WrapI18N                     0.06  K/KU/KUBOTA/Text-WrapI18N-0.06.tar.gz
-Text::Wrapper                      1.03  C/CJ/CJM/Text-Wrapper-1.03.tar.gz
+Text::Wrapper                      1.04  C/CJ/CJM/Text-Wrapper-1.04.tar.gz
 Text::WrapProp                     0.01  J/JB/JBRIGGS/Text-WrapProp-0.03.tar.gz
 Text::Xatena                       0.18  S/SA/SATOH/Text-Xatena-0.18.tar.gz
 Text::Xatena::Inline              undef  S/SA/SATOH/Text-Xatena-0.18.tar.gz
