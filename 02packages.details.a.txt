@@ -113,7 +113,7 @@ Astro::STSDAS::Table::HeaderPars   0.02  D/DJ/DJERIUS/Astro-STSDAS-Table-0.13.ta
 Astro::STSDAS::Table::Simple       0.01  D/DJ/DJERIUS/Astro-STSDAS-Table-0.13.tar.gz
 Astro::Sunrise                     0.91  R/RK/RKHILL/Astro-Sunrise-0.91.tar.gz
 Astro::SunTime                     0.01  R/RO/ROBF/Astro-SunTime-0.01.tar.gz
-Astro::Telescope                   0.70  T/TJ/TJENNESS/Astro-Telescope-0.70.tar.gz
+Astro::Telescope                   0.71  T/TJ/TJENNESS/Astro-Telescope-0.71.tar.gz
 Astro::Time                        1.19  C/CP/CPHIL/Astro-0.74.tar.gz
 Astro::Time::HJD                   0.02  R/RC/RCREAGER/Astro-Time-HJD-0.02.tar.gz
 Astro::UTDF                       0.003  W/WY/WYANT/Astro-UTDF-0.003.tar.gz
