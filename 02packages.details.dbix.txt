@@ -1187,7 +1187,7 @@ Devel::REPL::Plugin::Packages     undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::Packages::DefaultScratchpad undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::Pager        undef  M/MS/MSTROUT/Devel-REPL-1.001000.tar.gz
 Devel::REPL::Plugin::Peek         undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
-Devel::REPL::Plugin::Perl5db          0  R/RO/ROCKY/Devel-Trepan-Shell-1.3.tar.gz
+Devel::REPL::Plugin::Perl5db          0  R/RO/ROCKY/Devel-Trepan-Shell-1.4.tar.gz
 Devel::REPL::Plugin::PPI          undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::ReadLineHistory undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::Refresh      undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
@@ -1195,8 +1195,8 @@ Devel::REPL::Plugin::Selenium      1.32  L/LU/LUKEC/Test-WWW-Selenium-1.32.tar.g
 Devel::REPL::Plugin::ShowClass    undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::SOOT         undef  S/SM/SMUELLER/SOOT-App-0.04.tar.gz
 Devel::REPL::Plugin::Timing       undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
-Devel::REPL::Plugin::Trepan           0  R/RO/ROCKY/Devel-Trepan-Shell-1.3.tar.gz
-Devel::REPL::Plugin::TrepanShell      0  R/RO/ROCKY/Devel-Trepan-Shell-1.3.tar.gz
+Devel::REPL::Plugin::Trepan           0  R/RO/ROCKY/Devel-Trepan-Shell-1.4.tar.gz
+Devel::REPL::Plugin::TrepanShell      0  R/RO/ROCKY/Devel-Trepan-Shell-1.4.tar.gz
 Devel::REPL::Plugin::Turtles      undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Profile              undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Profile::Default     undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
