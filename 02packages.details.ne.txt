@@ -801,9 +801,9 @@ Net::TFTP::IO                      0.19  G/GB/GBARR/Net-TFTP-0.19.tar.gz
 Net::TFTPd                         0.04  L/LM/LMASARA/Net-TFTPd-0.04-withoutworldwriteables.tar.gz
 Net::ThirtySevenSignals::Highrise  0.03  D/DS/DSADINOFF/Net-ThirtySevenSignals-Highrise-0.03.tar.gz
 Net::Time                          2.10  G/GB/GBARR/libnet-1.22.tar.gz
-Net::TinyIp                        0.07  K/KU/KUNIYOSHI/Net-TinyIp-0.07.tar.gz
-Net::TinyIp::Address              undef  K/KU/KUNIYOSHI/Net-TinyIp-0.07.tar.gz
-Net::TinyIp::Util                 undef  K/KU/KUNIYOSHI/Net-TinyIp-0.07.tar.gz
+Net::TinyIp                        0.08  K/KU/KUNIYOSHI/Net-TinyIp-0.08.tar.gz
+Net::TinyIp::Address              undef  K/KU/KUNIYOSHI/Net-TinyIp-0.08.tar.gz
+Net::TinyIp::Util                 undef  K/KU/KUNIYOSHI/Net-TinyIp-0.08.tar.gz
 Net::TiVo                          0.11  B/BO/BOUMENOT/Net-TiVo-0.11.tar.gz
 Net::TiVo::Folder                 undef  B/BO/BOUMENOT/Net-TiVo-0.11.tar.gz
 Net::TiVo::Show                   undef  B/BO/BOUMENOT/Net-TiVo-0.11.tar.gz
