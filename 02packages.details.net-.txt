@@ -518,4 +518,4 @@ Net::FTPServer::RO::FileHandle      1.2  R/RW/RWMJ/Net-FTPServer-1.122.tar.gz
 Net::FTPServer::RO::Server          1.1  R/RW/RWMJ/Net-FTPServer-1.122.tar.gz
 Net::FTPServer::XferLog             1.5  T/TB/TBONE/Net-FTPServer-XferLog-1.5.tar.gz
 Net::FTPServer::ZipMember         1.122  R/RW/RWMJ/Net-FTPServer-1.122.tar.gz
-Net::FTPSSL                        0.21  C/CL/CLEACH/Net-FTPSSL-0.21.tar.gz
+Net::FTPSSL                        0.22  C/CL/CLEACH/Net-FTPSSL-0.22.tar.gz
