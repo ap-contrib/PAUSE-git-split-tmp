@@ -344,11 +344,11 @@ Sys::AlarmCall                      1.2  A/AB/ABH/Sys-AlarmCall-1.2.tar.gz
 Sys::Apm                           0.05  R/RL/RLZWART/Sys-Apm-0.05.tar.gz
 Sys::Cmd                           0.08  M/ML/MLAWREN/Sys-Cmd-0.08.tar.gz
 Sys::Cmd::Template                 0.08  M/ML/MLAWREN/Sys-Cmd-0.08.tar.gz
-Sys::Config::Manage            0.003000  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
-Sys::Config::Manage::Ownership      0.0  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
-Sys::Config::Manage::Perms          0.0  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
-Sys::Config::Manage::Remove         0.0  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
-Sys::Config::Manage::Scripts   0.001000  V/VV/VVELOX/Sys-Config-Manage-0.3.0.tar.gz
+Sys::Config::Manage            0.003001  V/VV/VVELOX/Sys-Config-Manage-0.3.1.tar.gz
+Sys::Config::Manage::Ownership      0.0  V/VV/VVELOX/Sys-Config-Manage-0.3.1.tar.gz
+Sys::Config::Manage::Perms          0.0  V/VV/VVELOX/Sys-Config-Manage-0.3.1.tar.gz
+Sys::Config::Manage::Remove    0.000001  V/VV/VVELOX/Sys-Config-Manage-0.3.1.tar.gz
+Sys::Config::Manage::Scripts   0.001000  V/VV/VVELOX/Sys-Config-Manage-0.3.1.tar.gz
 Sys::CPU                           0.52  M/MK/MKODERER/Sys-CPU-0.52.tar.gz
 Sys::CpuAffinity                   1.05  M/MO/MOB/Sys-CpuAffinity-1.05.tar.gz
 Sys::CpuLoad                       0.02  C/CL/CLINTDW/Sys-CpuLoad-0.03.tar.gz
