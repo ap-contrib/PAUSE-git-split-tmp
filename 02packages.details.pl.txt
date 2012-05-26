@@ -57,7 +57,7 @@ Plack::Middleware::ServerName      0.02  A/AS/ASP/Plack-Middleware-ServerName-0.
 Plack::Middleware::ServerStatus::Lite 0.06  K/KA/KAZEBURO/Plack-Middleware-ServerStatus-Lite-0.06.tar.gz
 Plack::Middleware::Session         0.14  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
 Plack::Middleware::Session::Cookie undef  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
-Plack::Middleware::Session::RemoveCookies 0.01  W/WR/WREIS/Plack-Middleware-Session-RemoveCookies-0.01.tar.gz
+Plack::Middleware::Session::RemoveCookies 0.011  W/WR/WREIS/Plack-Middleware-Session-RemoveCookies-0.011.tar.gz
 Plack::Middleware::Session::SerializedCookie 1.02  C/CI/CINDY/Plack-Middleware-Session-SerializedCookie-1.02.tar.gz
 Plack::Middleware::SetAccept       0.01  R/RH/RHOELZ/Plack-Middleware-SetAccept-0.01.tar.gz
 Plack::Middleware::SimpleContentFilter undef  M/MI/MIYAGAWA/Plack-0.9988.tar.gz
