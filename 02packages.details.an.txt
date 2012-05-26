@@ -146,7 +146,7 @@ Apache2::AuthCAS::Configuration   undef  J/JH/JHITT/Apache2-AuthCAS-0.4.tar.gz
 Apache2::AuthCASSimple             0.10  Y/YV/YVESAGO/Apache2-AuthCASSimple-0.10.tar.gz
 Apache2::AuthColloquy              1.13  N/NI/NICOLAW/Apache2-AuthColloquy-1.13.tar.gz
 Apache2::AuthCookie                3.18  M/MS/MSCHOUT/Apache-AuthCookie-3.18.tar.gz
-Apache2::AuthCookieDBI             2.14  M/MA/MATISSE/Apache2-AuthCookieDBI-2.14.tar.gz
+Apache2::AuthCookieDBI             2.15  M/MA/MATISSE/Apache2-AuthCookieDBI-2.15.tar.gz
 Apache2::AuthCookieDBImg            2.2  C/CS/CSA/Apache2-AuthCookieDBImg-2.2.tar.gz
 Apache2::AuthenDBMCache            0.01  R/RE/REGGERS/Apache2-AuthenDBMCache-0.01.tar.gz
 Apache2::AuthenMSAD                0.02  R/RE/REGGERS/Apache2-AuthenMSAD-0.02.tar.gz
