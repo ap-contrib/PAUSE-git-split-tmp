@@ -244,14 +244,14 @@ Lingua::Translit::Tables           0.09  A/AL/ALINKE/Lingua-Translit-0.19.tar.gz
 Lingua::Treebank                   0.16  K/KA/KAHN/Lingua-Treebank-0.16.tar.gz
 Lingua::Treebank::Const            0.16  K/KA/KAHN/Lingua-Treebank-0.16.tar.gz
 Lingua::Treebank::HeadFinder      undef  K/KA/KAHN/Lingua-Treebank-0.16.tar.gz
-Lingua::TreeTagger                 0.03  A/AX/AXANTHOS/Lingua-TreeTagger-0.03.tar.gz
+Lingua::TreeTagger                 0.04  A/AX/AXANTHOS/Lingua-TreeTagger-0.04.tar.gz
 Lingua::TreeTagger::Filter        undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
 Lingua::TreeTagger::Filter::Element undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
 Lingua::TreeTagger::Filter::Result undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
 Lingua::TreeTagger::Filter::Result::Hit undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
 Lingua::TreeTagger::Installer      0.12  A/AM/AMBS/Lingua/Lingua-TreeTagger-Installer-0.12.tar.gz
-Lingua::TreeTagger::TaggedText     0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.03.tar.gz
-Lingua::TreeTagger::Token          0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.03.tar.gz
+Lingua::TreeTagger::TaggedText     0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.04.tar.gz
+Lingua::TreeTagger::Token          0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.04.tar.gz
 Lingua::TypoGenerator              0.01  I/IT/ITUB/Lingua-TypoGenerator-0.01.tar.gz
 Lingua::UK::Jcuken                 1.04  S/ST/STRO/Lingua-UK-Jcuken-1.04.tar.gz
 Lingua::UK::Numbers                0.04  K/KO/KOORCHIK/Lingua-UK-Numbers-0.04.tar.gz
