@@ -576,7 +576,7 @@ B::C::Section                      1.42  R/RU/RURBAN/B-C-1.42.tar.gz
 B::CallChecker                        0  Z/ZE/ZEFRAM/B-CallChecker-0.000.tar.gz
 B::CC                              1.12  R/RU/RURBAN/B-C-1.42.tar.gz
 B::Clobbers                        0.01  A/AT/ATOURBIN/rpm-build-perl-0.80.tar.gz
-B::CodeLines                        1.0  R/RO/ROCKY/B-CodeLines-1.0.tar.gz
+B::CodeLines                        1.1  R/RO/ROCKY/B-CodeLines-1.1.tar.gz
 B::Compiling                       0.02  F/FL/FLORA/B-Compiling-0.02.tar.gz
 B::Concise                         0.86  F/FL/FLORA/perl-5.15.4.tar.gz
 B::Debug                           1.17  R/RU/RURBAN/B-Debug-1.17.tar.gz
