@@ -147,7 +147,7 @@ Prophet::Web::Field               undef  S/SP/SPANG/Prophet-0.750.tar.gz
 Prophet::Web::FunctionResult      undef  S/SP/SPANG/Prophet-0.750.tar.gz
 Prophet::Web::Menu                undef  S/SP/SPANG/Prophet-0.750.tar.gz
 Prophet::Web::Result              undef  S/SP/SPANG/Prophet-0.750.tar.gz
-PropListViewer                    undef  K/KA/KARASIK/Prima-1.33.tar.gz
+PropListViewer                    undef  K/KA/KARASIK/Prima-1.34.tar.gz
 Prosody                           0.007  G/GE/GETTY/Prosody-0.007.tar.gz
 Prosody::Mod::Data::Access        0.007  G/GE/GETTY/Prosody-0.007.tar.gz
 Prosody::Storage::SQL             0.007  G/GE/GETTY/Prosody-0.007.tar.gz

@@ -1197,6 +1197,7 @@ Code::Statistics::Target::Sub,MITHALDU,f
 Code::Statistics::Target::nop,MITHALDU,f
 CodeBase,ANDREWF,f
 CodeBase::FilePtr,ANDREWF,f
+CodeEditor,KARASIK,f
 CodeFirst,BAERGAJ,f
 CodeFragment,PERRAD,f
 CodeGen::PerlBean,ZOCCAV,f

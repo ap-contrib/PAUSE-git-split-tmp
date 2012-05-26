@@ -215,7 +215,7 @@ Supervisor::RPC::Client            0.02  K/KE/KESTEB/Supervisor-0.08.tar.gz
 Supervisor::RPC::Server            0.02  K/KE/KESTEB/Supervisor-0.08.tar.gz
 Supervisor::Session                0.02  K/KE/KESTEB/Supervisor-0.08.tar.gz
 Supervisor::Utils                 undef  K/KE/KESTEB/Supervisor-0.08.tar.gz
-sv                                undef  K/KA/KARASIK/Prima-1.33.tar.gz
+sv                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
 SVG                                2.51  S/SZ/SZABGAB/SVG-2.51.tar.gz
 SVG::Calendar                    v0.3.0  I/IV/IVANWILLS/SVG-Calendar-v0.3.0.tar.gz
 SVG::Convert                       0.02  Z/ZI/ZIGOROU/SVG-Convert-0.02.tar.gz
