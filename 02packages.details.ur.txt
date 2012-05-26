@@ -95,11 +95,11 @@ URI::telnet                       undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::Template                      0.15  B/BR/BRICAS/URI-Template-0.15.tar.gz
 URI::Template::Restrict            0.06  M/MA/MASAKI/URI-Template-Restrict-0.06.tar.gz
 URI::Template::Restrict::Expansion undef  M/MA/MASAKI/URI-Template-Restrict-0.06.tar.gz
-URI::Title                         1.85  T/TO/TOMI/URI-Title-1.85.tar.gz
-URI::Title::HTML                  undef  T/TO/TOMI/URI-Title-1.85.tar.gz
-URI::Title::Image                 undef  T/TO/TOMI/URI-Title-1.85.tar.gz
-URI::Title::MP3                   undef  T/TO/TOMI/URI-Title-1.85.tar.gz
-URI::Title::PDF                   undef  T/TO/TOMI/URI-Title-1.85.tar.gz
+URI::Title                         1.86  T/TO/TOMI/URI-Title-1.86.tar.gz
+URI::Title::HTML                  undef  T/TO/TOMI/URI-Title-1.86.tar.gz
+URI::Title::Image                 undef  T/TO/TOMI/URI-Title-1.86.tar.gz
+URI::Title::MP3                   undef  T/TO/TOMI/URI-Title-1.86.tar.gz
+URI::Title::PDF                   undef  T/TO/TOMI/URI-Title-1.86.tar.gz
 URI::tn3270                       undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::ToDisk                        1.12  A/AD/ADAMK/URI-ToDisk-1.12.tar.gz
 URI::Unredirect                    0.01  G/GR/GRAY/URI-Unredirect-0.01.tar.gz
