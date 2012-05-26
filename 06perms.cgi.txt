@@ -904,9 +904,12 @@ CPAN::Dependency,SAPER,f
 CPAN::Digger,SZABGAB,f
 CPAN::Digger::DB,SZABGAB,f
 CPAN::Digger::Index,SZABGAB,f
+CPAN::Digger::Index::Projects,SZABGAB,f
 CPAN::Digger::PPI,SZABGAB,f
 CPAN::Digger::Pod,SZABGAB,f
+CPAN::Digger::Run,SZABGAB,f
 CPAN::Digger::Syntax,SZABGAB,f
+CPAN::Digger::Tools,SZABGAB,f
 CPAN::Digger::WWW,SZABGAB,f
 CPAN::DistnameInfo,GBARR,f
 CPAN::Distribution,ANDK,f
