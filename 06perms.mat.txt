@@ -1039,6 +1039,7 @@ Mesoderm::Command,GBARR,f
 Mesoderm::Component,GBARR,f
 Mesoderm::Mapping,GBARR,f
 Mesoderm::Relationship,GBARR,f
+Message::Passing::Input::Freeswitch,BOBTFISH,f
 Message::Stack,ANELSON,c
 Message::Stack,GPHAT,f
 Message::Stack::DataVerifier,GPHAT,f
