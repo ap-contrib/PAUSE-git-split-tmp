@@ -488,6 +488,7 @@ Authen::Passphrase::NetscapeMail,ZEFRAM,f
 Authen::Passphrase::PHPass,ZEFRAM,f
 Authen::Passphrase::RejectAll,ZEFRAM,f
 Authen::Passphrase::SaltedDigest,ZEFRAM,f
+Authen::Passphrase::SaltedSHA512,DAVIDO,f
 Authen::Passphrase::VMSPurdy,ZEFRAM,f
 Authen::Perl::NTLM,UMVUE,f
 Authen::PhoneChallenge,SPESHAK,f
