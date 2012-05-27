@@ -238,6 +238,7 @@ Math::PlanePath::AnvilSpiral,KRYDE,f
 Math::PlanePath::ArchimedeanChords,KRYDE,f
 Math::PlanePath::AztecDiamondRings,KRYDE,f
 Math::PlanePath::BetaOmega,KRYDE,f
+Math::PlanePath::BoxFractalQuarter,KRYDE,f
 Math::PlanePath::CCurve,KRYDE,f
 Math::PlanePath::CellularRule,KRYDE,f
 Math::PlanePath::CellularRule190,KRYDE,f
@@ -404,9 +405,11 @@ Math::PlanePath::QuadricIslands,KRYDE,f
 Math::PlanePath::QuintetArms,KRYDE,f
 Math::PlanePath::QuintetCentres,KRYDE,f
 Math::PlanePath::QuintetCurve,KRYDE,f
+Math::PlanePath::QuintetRepliate,KRYDE,f
 Math::PlanePath::QuintetReplicate,KRYDE,f
 Math::PlanePath::QuintetSide,KRYDE,f
 Math::PlanePath::R5DragonCurve,KRYDE,f
+Math::PlanePath::R5DragonMidpoint,KRYDE,f
 Math::PlanePath::RationalsTree,KRYDE,f
 Math::PlanePath::Rows,KRYDE,f
 Math::PlanePath::SacksSpiral,KRYDE,f
