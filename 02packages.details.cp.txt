@@ -573,8 +573,8 @@ CPU::Emulator::DCPU16::Assembler      0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.3.tar
 CPU::Emulator::DCPU16::Device         0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.3.tar.gz
 CPU::Emulator::DCPU16::Device::Console 0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.3.tar.gz
 CPU::Emulator::DCPU16::Disassembler   0  S/SI/SIMONW/CPU-Emulator-DCPU16-0.3.tar.gz
-CPU::Emulator::Memory            1.1002  D/DC/DCANTRELL/CPU-Emulator-Memory-1.1002.tar.gz
-CPU::Emulator::Memory::Banked    1.1002  D/DC/DCANTRELL/CPU-Emulator-Memory-1.1002.tar.gz
+CPU::Emulator::Memory            1.1003  D/DC/DCANTRELL/CPU-Emulator-Memory-1.1003.tar.gz
+CPU::Emulator::Memory::Banked    1.1002  D/DC/DCANTRELL/CPU-Emulator-Memory-1.1003.tar.gz
 CPU::Emulator::Z80                  1.0  D/DC/DCANTRELL/CPU-Emulator-Z80-1.0.tar.gz
 CPU::Emulator::Z80::ALU           undef  D/DC/DCANTRELL/CPU-Emulator-Z80-1.0.tar.gz
 CPU::Emulator::Z80::Register        1.0  D/DC/DCANTRELL/CPU-Emulator-Z80-1.0.tar.gz

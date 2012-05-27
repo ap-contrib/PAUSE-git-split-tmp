@@ -85,7 +85,7 @@ Astro::Nova::GalPosn              undef  S/SM/SMUELLER/Astro-Nova-0.06.tar.gz
 Astro::Nova::HMS                  undef  S/SM/SMUELLER/Astro-Nova-0.06.tar.gz
 Astro::Nova::LnLatPosn            undef  S/SM/SMUELLER/Astro-Nova-0.06.tar.gz
 Astro::Nova::ZoneDate             undef  S/SM/SMUELLER/Astro-Nova-0.06.tar.gz
-Astro::PAL                         1.00  T/TJ/TJENNESS/Astro-PAL-1.00.tar.gz
+Astro::PAL                         1.01  T/TJ/TJENNESS/Astro-PAL-1.01.tar.gz
 Astro::QDP::Parse                  0.13  D/DJ/DJERIUS/Astro-QDP-Parse-0.13.tar.gz
 Astro::SIMBAD                       2.0  A/AA/AALLAN/Astro-SIMBAD-2.0.0.tar.gz
 Astro::SIMBAD::Client             0.025  W/WY/WYANT/Astro-SIMBAD-Client-0.025.tar.gz
