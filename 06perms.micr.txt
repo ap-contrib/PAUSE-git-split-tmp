@@ -966,6 +966,7 @@ Module::CPANTS::Kwalitee::Repackageable,DOMM,f
 Module::CPANTS::Kwalitee::Repackageable,FREQUENCY,c
 Module::CPANTS::Kwalitee::Repackageable,ISHIGAKI,c
 Module::CPANTS::Kwalitee::Repackageable,JQUELIN,c
+Module::CPANTS::Kwalitee::Signature,DAXIM,f
 Module::CPANTS::Kwalitee::Uses,CHORNY,c
 Module::CPANTS::Kwalitee::Uses,DAXIM,c
 Module::CPANTS::Kwalitee::Uses,DOMM,f
