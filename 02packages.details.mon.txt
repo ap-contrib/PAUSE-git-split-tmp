@@ -407,6 +407,7 @@ Moose::Meta::TypeConstraint::TypeArray v0.1.0  K/KE/KENTNL/MooseX-TypeArray-0.1.
 Moose::Meta::TypeConstraint::Union 2.0602  D/DO/DOY/Moose-2.0602.tar.gz
 Moose::Micro                      0.002  H/HD/HDP/Moose-Micro-0.002.tar.gz
 Moose::Object                    2.0602  D/DO/DOY/Moose-2.0602.tar.gz
+Moose::OldDocs                     0.04  D/DR/DROLSKY/Moose-OldDocs-0.04.tar.gz
 Moose::Policy                      0.05  D/DR/DROLSKY/Moose-Policy-0.05.tar.gz
 Moose::Policy::FollowPBP          undef  D/DR/DROLSKY/Moose-Policy-0.05.tar.gz
 Moose::Policy::FollowPBP::Attribute undef  D/DR/DROLSKY/Moose-Policy-0.05.tar.gz

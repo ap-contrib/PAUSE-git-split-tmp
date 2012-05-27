@@ -1322,6 +1322,7 @@ Moose::Object,NUFFIN,c
 Moose::Object,PERIGRIN,c
 Moose::Object,SARTAK,c
 Moose::Object,STEVAN,f
+Moose::OldDocs,DROLSKY,f
 Moose::Policy,DROLSKY,c
 Moose::Policy,FLORA,c
 Moose::Policy,GRODITI,c
