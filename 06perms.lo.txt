@@ -343,6 +343,8 @@ Log::Dispatch::MacGrowl,RYOCHIN,m
 Log::Dispatch::MacGrowl::Cocoa,RYOCHIN,f
 Log::Dispatch::MacGrowl::Mac,RYOCHIN,f
 Log::Dispatch::MacGrowl::Tiny,RYOCHIN,f
+Log::Dispatch::Message::Passing,BOBTFISH,c
+Log::Dispatch::Message::Passing,GHENRY,f
 Log::Dispatch::MongoDB,STEVAN,f
 Log::Dispatch::Nagios,VALDEZ,m
 Log::Dispatch::Null,DROLSKY,f
