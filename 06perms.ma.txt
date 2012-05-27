@@ -616,6 +616,7 @@ Math::NumSeq::AbsCubicDiff,KRYDE,f
 Math::NumSeq::Abundant,KRYDE,f
 Math::NumSeq::All,KRYDE,f
 Math::NumSeq::AllDigits,KRYDE,f
+Math::NumSeq::AllPrimeFactors,KRYDE,f
 Math::NumSeq::AlmostPrimes,KRYDE,f
 Math::NumSeq::AlphabeticalLength,KRYDE,f
 Math::NumSeq::AlphabeticalLengthSteps,KRYDE,f

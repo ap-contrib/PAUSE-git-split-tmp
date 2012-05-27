@@ -16,6 +16,7 @@ Math::NumSeq::DigitExtract,KRYDE,f
 Math::NumSeq::DigitLength,KRYDE,f
 Math::NumSeq::DigitLengthCumulative,KRYDE,f
 Math::NumSeq::DigitProduct,KRYDE,f
+Math::NumSeq::DigitProductSteps,KRYDE,f
 Math::NumSeq::DigitSum,KRYDE,f
 Math::NumSeq::DigitSumModulo,KRYDE,f
 Math::NumSeq::DigitSumSquares,KRYDE,f
@@ -54,6 +55,7 @@ Math::NumSeq::LiouvilleFunction,KRYDE,f
 Math::NumSeq::LipschitzClass,KRYDE,f
 Math::NumSeq::Ln2Bits,KRYDE,f
 Math::NumSeq::Loeschian,KRYDE,f
+Math::NumSeq::LongFractionPrimes,KRYDE,f
 Math::NumSeq::LucasNumbers,KRYDE,f
 Math::NumSeq::LuckyNumbers,KRYDE,f
 Math::NumSeq::MathImageAbsCubicDiff,KRYDE,f
@@ -150,14 +152,18 @@ Math::NumSeq::PlanePathTurn,KRYDE,f
 Math::NumSeq::PolignacObstinate,KRYDE,f
 Math::NumSeq::Polygonal,KRYDE,f
 Math::NumSeq::PowerPart,KRYDE,f
+Math::NumSeq::PowerSieve,KRYDE,f
 Math::NumSeq::Powerful,KRYDE,f
 Math::NumSeq::PrimeFactorCount,KRYDE,f
+Math::NumSeq::PrimeFactorExtract,KRYDE,f
 Math::NumSeq::PrimeIndexOrder,KRYDE,f
 Math::NumSeq::PrimeIndexPrimes,KRYDE,f
 Math::NumSeq::PrimeQuadraticEuler,KRYDE,f
 Math::NumSeq::PrimeQuadraticHonaker,KRYDE,f
 Math::NumSeq::PrimeQuadraticLegendre,KRYDE,f
 Math::NumSeq::Primes,KRYDE,f
+Math::NumSeq::PrimesDigits,KRYDE,f
+Math::NumSeq::PrimitiveRoot,KRYDE,f
 Math::NumSeq::Primorials,KRYDE,f
 Math::NumSeq::Pronic,KRYDE,f
 Math::NumSeq::ProthNumbers,KRYDE,f
