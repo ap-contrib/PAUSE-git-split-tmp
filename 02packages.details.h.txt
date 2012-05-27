@@ -378,13 +378,13 @@ Image::Base::Gtk2::Gdk::Window       11  K/KR/KRYDE/Image-Base-Gtk2-11.tar.gz
 Image::Base::Imager                  10  K/KR/KRYDE/Image-Base-Imager-10.tar.gz
 Image::Base::Imlib2                   1  K/KR/KRYDE/Image-Base-Imlib2-1.tar.gz
 Image::Base::Magick                   3  K/KR/KRYDE/Image-Base-Magick-3.tar.gz
-Image::Base::Multiplex                8  K/KR/KRYDE/Image-Base-Other-8.tar.gz
+Image::Base::Multiplex                9  K/KR/KRYDE/Image-Base-Other-9.tar.gz
 Image::Base::PNGwriter                7  K/KR/KRYDE/Image-Base-PNGwriter-7.tar.gz
 Image::Base::Prima::Drawable          8  K/KR/KRYDE/Image-Base-Prima-8.tar.gz
 Image::Base::Prima::Image             8  K/KR/KRYDE/Image-Base-Prima-8.tar.gz
 Image::Base::SVG                      4  K/KR/KRYDE/Image-Base-SVG-4.tar.gz
-Image::Base::SVGout                   8  K/KR/KRYDE/Image-Base-Other-8.tar.gz
-Image::Base::Text                     8  K/KR/KRYDE/Image-Base-Other-8.tar.gz
+Image::Base::SVGout                   9  K/KR/KRYDE/Image-Base-Other-9.tar.gz
+Image::Base::Text                     9  K/KR/KRYDE/Image-Base-Other-9.tar.gz
 Image::Base::Tk::Canvas               3  K/KR/KRYDE/Image-Base-Tk-3.tar.gz
 Image::Base::Tk::Photo                3  K/KR/KRYDE/Image-Base-Tk-3.tar.gz
 Image::Base::X11::Protocol::Drawable 13  K/KR/KRYDE/Image-Base-X11-Protocol-13.tar.gz
