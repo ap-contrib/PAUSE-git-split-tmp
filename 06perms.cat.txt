@@ -371,6 +371,7 @@ Catalyst::Plugin::Server::JSONRPC,DARKNOS,m
 Catalyst::Plugin::Server::JSONRPC,JLMARTIN,c
 Catalyst::Plugin::Server::JSONRPC::Backend,DARKNOS,f
 Catalyst::Plugin::Server::JSONRPC::Backend,JLMARTIN,c
+Catalyst::Plugin::Server::JSONRPC::Batch,DIONYS,f
 Catalyst::Plugin::Server::JSONRPC::Config,DARKNOS,f
 Catalyst::Plugin::Server::JSONRPC::Config,JLMARTIN,c
 Catalyst::Plugin::Server::JSONRPC::DispatchType::JSONRPCPath,DARKNOS,f
