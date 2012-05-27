@@ -243,7 +243,7 @@ WWW::Scraper::ISBN::LibUniIt_Driver 0.2  L/LU/LUCHA/WWW-Scraper-ISBN-LibUniIt_Dr
 WWW::Scraper::ISBN::LibUniverIt_Driver 0.13  M/MA/MARCOG/WWW-Scraper-ISBN-LibUniverIt_Driver-0.13.tar.gz
 WWW::Scraper::ISBN::LOC_Driver     0.22  A/AS/ASCHAMP/WWW-Scraper-ISBN-LOC_Driver-0.22.tar.gz
 WWW::Scraper::ISBN::OpenLibrary_Driver 0.04  B/BA/BARBIE/WWW-Scraper-ISBN-OpenLibrary_Driver-0.04.tar.gz
-WWW::Scraper::ISBN::ORA_Driver     0.18  B/BA/BARBIE/WWW-Scraper-ISBN-ORA_Driver-0.18.tar.gz
+WWW::Scraper::ISBN::ORA_Driver     0.19  B/BA/BARBIE/WWW-Scraper-ISBN-ORA_Driver-0.19.tar.gz
 WWW::Scraper::ISBN::Pearson_Driver 0.18  B/BA/BARBIE/WWW-Scraper-ISBN-Pearson_Driver-0.18.tar.gz
 WWW::Scraper::ISBN::PickABook_Driver 0.02  B/BA/BARBIE/WWW-Scraper-ISBN-PickABook_Driver-0.02.tar.gz
 WWW::Scraper::ISBN::Record         0.17  A/AS/ASCHAMP/WWW-Scraper-ISBN-Record-0.17.tar.gz
