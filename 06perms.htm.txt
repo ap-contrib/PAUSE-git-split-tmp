@@ -70,6 +70,7 @@ HTML::Pager,SAMTREGAR,f
 HTML::Paginator,DODGER,f
 HTML::Paging::SQL,WAC,f
 HTML::ParagraphSplit,HANENKAMP,f
+HTML::Parse,CJM,c
 HTML::Parse,GAAS,c
 HTML::Parse,JFEARN,f
 HTML::Parse,PETEK,c

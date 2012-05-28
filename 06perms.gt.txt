@@ -984,6 +984,7 @@ HTML::AjaxTags::Response,KMCGRATH,m
 HTML::AjaxTags::TT,KMCGRATH,m
 HTML::Application,DUNCAND,f
 HTML::AsHTML,MIKEDLR,f
+HTML::AsSubs,CJM,c
 HTML::AsSubs,GAAS,c
 HTML::AsSubs,JFEARN,f
 HTML::AsSubs,PETEK,c
