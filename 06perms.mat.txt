@@ -1062,6 +1062,8 @@ Message::Passing::Input::Null,BOBTFISH,c
 Message::Passing::Input::Null,GHENRY,f
 Message::Passing::Input::STDIN,BOBTFISH,c
 Message::Passing::Input::STDIN,GHENRY,f
+Message::Passing::Input::ZeroMQ,BOBTFISH,c
+Message::Passing::Input::ZeroMQ,GHENRY,f
 Message::Passing::Output::Callback,BOBTFISH,c
 Message::Passing::Output::Callback,GHENRY,f
 Message::Passing::Output::File,BOBTFISH,c
@@ -1072,6 +1074,8 @@ Message::Passing::Output::STDOUT,BOBTFISH,c
 Message::Passing::Output::STDOUT,GHENRY,f
 Message::Passing::Output::Test,BOBTFISH,c
 Message::Passing::Output::Test,GHENRY,f
+Message::Passing::Output::ZeroMQ,BOBTFISH,c
+Message::Passing::Output::ZeroMQ,GHENRY,f
 Message::Passing::Role::CLIComponent,BOBTFISH,c
 Message::Passing::Role::CLIComponent,GHENRY,f
 Message::Passing::Role::ConnectionManager,BOBTFISH,c
@@ -1088,6 +1092,12 @@ Message::Passing::Role::Script,BOBTFISH,c
 Message::Passing::Role::Script,GHENRY,f
 Message::Passing::Types,BOBTFISH,c
 Message::Passing::Types,GHENRY,f
+Message::Passing::ZeroMQ,BOBTFISH,c
+Message::Passing::ZeroMQ,GHENRY,f
+Message::Passing::ZeroMQ::Role::HasAContext,BOBTFISH,c
+Message::Passing::ZeroMQ::Role::HasAContext,GHENRY,f
+Message::Passing::ZeroMQ::Role::HasASocket,BOBTFISH,c
+Message::Passing::ZeroMQ::Role::HasASocket,GHENRY,f
 Message::Stack,ANELSON,c
 Message::Stack,GPHAT,f
 Message::Stack::DataVerifier,GPHAT,f
