@@ -411,10 +411,10 @@ HTML::Laundry::Rules              undef  S/ST/STEVECOOK/HTML-Laundry-0.0103.tar.
 HTML::Laundry::Rules::Default     undef  S/ST/STEVECOOK/HTML-Laundry-0.0103.tar.gz
 HTML::Laundry::Rules::Minimal     undef  S/ST/STEVECOOK/HTML-Laundry-0.0103.tar.gz
 HTML::LBI                          2.00  W/WH/WHYTEWOLF/HTML-LBI-2.00.tar.gz
-HTML::Linear                      0.014  S/SY/SYP/HTML-Untemplate-0.014.tar.gz
-HTML::Linear::Element             0.014  S/SY/SYP/HTML-Untemplate-0.014.tar.gz
-HTML::Linear::Path                0.014  S/SY/SYP/HTML-Untemplate-0.014.tar.gz
-HTML::Linear::Path::Colors        0.014  S/SY/SYP/HTML-Untemplate-0.014.tar.gz
+HTML::Linear                      0.015  S/SY/SYP/HTML-Untemplate-0.015.tar.gz
+HTML::Linear::Element             0.015  S/SY/SYP/HTML-Untemplate-0.015.tar.gz
+HTML::Linear::Path                0.015  S/SY/SYP/HTML-Untemplate-0.015.tar.gz
+HTML::Linear::Path::Colors        0.015  S/SY/SYP/HTML-Untemplate-0.015.tar.gz
 HTML::Link_Miner                   1.04  M/MI/MIKEDLR/Link_Controller-0.037.tar.gz
 HTML::LinkAdd                      0.13  L/LG/LGODDARD/HTML-LinkAdd-0.13.tar.gz
 HTML::LinkChanger                   2.4  S/SE/SERGEYCHE/HTML-LinkChanger-2.4.tar.gz
