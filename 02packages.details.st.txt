@@ -270,7 +270,7 @@ SVG::Graph::Glyph::scatter        undef  A/AL/ALLENDAY/SVG-Graph-0.02.tar.gz
 SVG::Graph::Glyph::tree           undef  A/AL/ALLENDAY/SVG-Graph-0.02.tar.gz
 SVG::Graph::Glyph::wedge          undef  A/AL/ALLENDAY/SVG-Graph-0.02.tar.gz
 SVG::Graph::Group                 undef  A/AL/ALLENDAY/SVG-Graph-0.02.tar.gz
-SVG::Graph::Kit                  0.0101  G/GE/GENE/SVG-Graph-Kit-0.0101.tar.gz
+SVG::Graph::Kit                  0.0102  G/GE/GENE/SVG-Graph-Kit-0.0102.tar.gz
 SVG::Manual                        2.51  S/SZ/SZABGAB/SVG-2.51.tar.gz
 SVG::Metadata                      0.28  B/BR/BRYCE/SVG-Metadata-0.28.tar.gz
 SVG::Parser                        1.03  P/PE/PETERW/SVG-Parser-1.03.tar.gz
