@@ -1164,7 +1164,7 @@ Stardust::Demo::Views             undef  B/BE/BEPPU/Stardust-0.08.tar.gz
 StarEditor                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Starlet                            0.14  K/KA/KAZUHO/Starlet-0.14.tar.gz
 Starlet::Server                   undef  K/KA/KAZUHO/Starlet-0.14.tar.gz
-Starlink::AST                      0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
+Starlink::AST                      1.01  T/TJ/TJENNESS/Starlink-AST-1.01.tar.gz
 Starlink::AST::Axis                0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::Box                 0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::Channel             0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
@@ -1183,6 +1183,7 @@ Starlink::AST::GrismMap            0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::Interval            0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::IntraMap            0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::KeyMap              0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
+Starlink::AST::KeyMap::Tie            0  T/TJ/TJENNESS/Starlink-AST-1.01.tar.gz
 Starlink::AST::LutMap              0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::Mapping             0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::MathMap             0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
@@ -1190,11 +1191,12 @@ Starlink::AST::MatrixMap           0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::NullRegion          0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::PcdMap              0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::PermMap             0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
-Starlink::AST::PGPLOT              2.00  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
+Starlink::AST::PGPLOT              2.00  T/TJ/TJENNESS/Starlink-AST-1.01.tar.gz
 Starlink::AST::Plot                2.00  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
-Starlink::AST::PLplot              2.00  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
+Starlink::AST::PLplot              2.00  T/TJ/TJENNESS/Starlink-AST-1.01.tar.gz
 Starlink::AST::Polygon             0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::PolyMap             0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
+Starlink::AST::Prism                  0  T/TJ/TJENNESS/Starlink-AST-1.01.tar.gz
 Starlink::AST::RateMap             0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::Region              0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::ShiftMap            0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
