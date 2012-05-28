@@ -199,7 +199,7 @@ Gtk::Widget                      0.7009  M/ML/MLEHMANN/Gtk-Perl-0.7009.tar.gz
 Gtk::XmHTML                      0.7009  M/ML/MLEHMANN/Gtk-Perl-0.7009.tar.gz
 GTM                                 0.6  O/OE/OESI/GTM-0.6.tar.gz
 GTM::Run                          undef  O/OE/OESI/GTM-0.6.tar.gz
-GTop                               0.17  M/MJ/MJH/GTop-0.17.tar.gz
+GTop                               0.18  M/MJ/MJH/GTop-0.18.tar.gz
 Guard                             1.022  M/ML/MLEHMANN/Guard-1.022.tar.gz
 Guardian::OpenPlatform::API        0.05  D/DA/DAVECROSS/Guardian-OpenPlatform-API-0.05.tar.gz
 GuessDirectories                  undef  T/TW/TWH/Bio-GMOD-0.028.tar.gz
