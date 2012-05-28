@@ -1617,6 +1617,7 @@ Dist::Zilla::PluginBundle::Classic,RJBS,f
 Dist::Zilla::PluginBundle::ConfigSlicer,RWSTAUNER,f
 Dist::Zilla::PluginBundle::DAGOLDEN,DAGOLDEN,f
 Dist::Zilla::PluginBundle::DANIELP,DANIELP,f
+Dist::Zilla::PluginBundle::DBR,DBR,f
 Dist::Zilla::PluginBundle::DOY,DOY,f
 Dist::Zilla::PluginBundle::FAYLAND,FAYLAND,f
 Dist::Zilla::PluginBundle::FLORA,DOY,c
