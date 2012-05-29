@@ -216,8 +216,6 @@ POE::Component::Server::PreforkTCP 0.11  W/WA/WANG/POE-Component-Server-PreforkT
 POE::Component::Server::PSGI        0.6  F/FR/FRODWITH/POE-Component-Server-PSGI-0.6.tar.gz
 POE::Component::Server::Qotd       1.14  B/BI/BINGOS/POE-Component-Server-Qotd-1.14.tar.gz
 POE::Component::Server::RADIUS     1.06  B/BI/BINGOS/POE-Component-Server-RADIUS-1.06.tar.gz
-POE::Component::Server::REST       1.11  J/JS/JSTEBENS/POE-Component-Server-REST-1.11.tar.gz
-POE::Component::Server::REST::Response 1.10  J/JS/JSTEBENS/POE-Component-Server-REST-1.11.tar.gz
 POE::Component::Server::SimpleContent 1.14  B/BI/BINGOS/POE-Component-Server-SimpleContent-1.14.tar.gz
 POE::Component::Server::SimpleHTTP 2.14  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-2.14.tar.gz
 POE::Component::Server::SimpleHTTP::Connection 2.14  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-2.14.tar.gz
