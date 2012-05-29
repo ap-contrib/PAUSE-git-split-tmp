@@ -547,7 +547,7 @@ XML::DB::Service::XPathQueryService 0.01  G/GS/GSEAMAN/XML-DB.tar.gz
 XML::DB::Service::XUpdateQueryService 0.01  G/GS/GSEAMAN/XML-DB.tar.gz
 XML::Debian::ENetInterfaces        0.07  C/CH/CHEAKO/XML-Debian-ENetInterfaces-0.07.tar.gz
 XML::Debian::ENetInterfaces::Handler 0.07  C/CH/CHEAKO/XML-Debian-ENetInterfaces-0.07.tar.gz
-XML::Declare                       0.05  M/MO/MONS/XML-Declare-0.05.tar.gz
+XML::Declare                       0.06  M/MO/MONS/XML-Declare-0.06.tar.gz
 XML::Descent                       1.04  A/AN/ANDYA/XML-Descent-1.04.tar.gz
 XML::Diff                          0.05  T/TI/TIMM/XML-Diff-0.05.tar.gz
 XML::DifferenceMarkup              1.04  V/VB/VBAR/XML-DifferenceMarkup-1.04.tar.gz
