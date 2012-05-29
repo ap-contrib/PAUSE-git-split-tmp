@@ -725,7 +725,7 @@ Image::Signature::GrayMoment       0.01  X/XE/XERN/Image-Signature-0.01.tar.gz
 Image::Signature::Grayscale       undef  X/XE/XERN/Image-Signature-0.01.tar.gz
 Image::Signature::Vars            undef  X/XE/XERN/Image-Signature-0.01.tar.gz
 Image::Simple::Gradient            0.05  H/HE/HERNAN/Image-Simple-Gradient-0.05.tar.gz
-Image::Size                       3.231  R/RJ/RJRAY/Image-Size-3.231.tar.gz
+Image::Size                       3.232  R/RJ/RJRAY/Image-Size-3.232.tar.gz
 Image::Size::FillFullSelect    0.001000  V/VV/VVELOX/Image-Size-FillFullSelect-0.1.0.tar.gz
 Image::SubImageFind                0.03  C/CT/CTRONDLP/Image-SubImageFind-0.03.tar.gz
 Image::SVG::Path                   0.07  B/BK/BKB/Image-SVG-Path-0.07.tar.gz
