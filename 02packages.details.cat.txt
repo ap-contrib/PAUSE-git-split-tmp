@@ -446,8 +446,8 @@ Catmandu::Store::ElasticSearch::Bag   0  N/NI/NICS/Catmandu-0.0106.tar.gz
 Catmandu::Store::ElasticSearch::Searcher 0  N/NI/NICS/Catmandu-0.0106.tar.gz
 Catmandu::Store::Hash                 0  N/NI/NICS/Catmandu-0.0106.tar.gz
 Catmandu::Store::Hash::Bag            0  N/NI/NICS/Catmandu-0.0106.tar.gz
-Catmandu::Store::MongoDB           0.01  N/NI/NICS/Catmandu-Store-MongoDB-0.01.tar.gz
-Catmandu::Store::MongoDB::Bag         0  N/NI/NICS/Catmandu-Store-MongoDB-0.01.tar.gz
+Catmandu::Store::MongoDB         0.0101  N/NI/NICS/Catmandu-Store-MongoDB-0.0101.tar.gz
+Catmandu::Store::MongoDB::Bag         0  N/NI/NICS/Catmandu-Store-MongoDB-0.0101.tar.gz
 Catmandu::Store::SBCatDB              0  N/NI/NICS/Catmandu-0.0106.tar.gz
 Catmandu::Store::SBCatDB::Bag         0  N/NI/NICS/Catmandu-0.0106.tar.gz
 Catmandu::Store::Solr                 0  N/NI/NICS/Catmandu-0.0106.tar.gz
