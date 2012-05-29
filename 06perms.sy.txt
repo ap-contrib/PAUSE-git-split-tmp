@@ -1308,6 +1308,7 @@ TAPx::Parser::Streamed,OVID,f
 TApplicationException,TEODOR,f
 TArray,SMUELLER,c
 TB2::Event::Log,MSCHWERN,f
+TB2::Event::Log,SARGIE,c
 TB::mysql::db,TSKIRVIN,f
 TB::mysql::user,TSKIRVIN,f
 TCB::mysql,TSKIRVIN,f
