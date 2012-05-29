@@ -538,7 +538,7 @@ Win32::Unicode::Error              0.34  X/XA/XAICRON/Win32-Unicode-0.34.tar.gz
 Win32::Unicode::File               0.34  X/XA/XAICRON/Win32-Unicode-0.34.tar.gz
 Win32::Unicode::Native             0.34  X/XA/XAICRON/Win32-Unicode-0.34.tar.gz
 Win32::Unicode::Process            0.34  X/XA/XAICRON/Win32-Unicode-0.34.tar.gz
-Win32::Unicode::Shortcut           0.02  J/JD/JDDPAUSE/Win32-Unicode-Shortcut-0.02.tar.gz
+Win32::Unicode::Shortcut           0.03  J/JD/JDDPAUSE/Win32-Unicode-Shortcut-0.03.tar.gz
 Win32::Unicode::Util              undef  X/XA/XAICRON/Win32-Unicode-0.34.tar.gz
 Win32::Unicode::XS                 0.34  X/XA/XAICRON/Win32-Unicode-0.34.tar.gz
 Win32::Uptime                      1.02  S/ST/STRO/Win32-Uptime-1.02.zip
