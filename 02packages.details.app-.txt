@@ -486,9 +486,9 @@ App::Prove::Dist::Command::scan    0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Dist::Command::test    0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Dist::Command::wipe    0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Dist::common_options   0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
-App::Prove::Plugin::Cluster       undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.01.tar.gz
-App::Prove::Plugin::ClusterLSF    undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.01.tar.gz
-App::Prove::Plugin::ClusterSlave  undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.01.tar.gz
+App::Prove::Plugin::Cluster       undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.02.tar.gz
+App::Prove::Plugin::ClusterLSF    undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.02.tar.gz
+App::Prove::Plugin::ClusterSlave  undef  B/BR/BRUMMETT/App-Prove-Plugin-Cluster-0.02.tar.gz
 App::Prove::Plugin::Distributed    0.08  L/LS/LSF/App-Prove-Plugin-Distributed-0.08.tar.gz
 App::Prove::Plugin::HTML           0.09  S/SP/SPURKIS/TAP-Formatter-HTML-0.09.tar.gz
 App::Prove::Plugin::Idempotent     0.01  S/SC/SCHWIGON/idempotent/App-Prove-Plugin-Idempotent-0.01.tar.gz
