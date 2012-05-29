@@ -295,6 +295,7 @@ Parse::Dia::SQL::Utils,AFF,f
 Parse::EBNF,IAMCAL,f
 Parse::EBNF::Rule,IAMCAL,f
 Parse::EBNF::Token,IAMCAL,f
+Parse::EDID,GROUSSE,f
 Parse::Earley,LPALMER,f
 Parse::ErrorString::Perl,AZAWAWI,c
 Parse::ErrorString::Perl,PSHANGOV,m
