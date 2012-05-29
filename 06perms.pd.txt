@@ -2511,6 +2511,7 @@ PNI,FIBO,m
 PNI::Branch,FIBO,f
 PNI::Comment,FIBO,f
 PNI::Core,FIBO,f
+PNI::Devel,FIBO,f
 PNI::Edge,FIBO,f
 PNI::Elem,FIBO,f
 PNI::Error,FIBO,f

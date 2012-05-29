@@ -481,6 +481,7 @@ PNDI::Exception                   undef  M/MH/MHAT/DBIx-DBObj-1.00.tar.gz
 PNDI::NameCollisionException      undef  M/MH/MHAT/DBIx-DBObj-1.00.tar.gz
 PNDI::NoSuchNameException         undef  M/MH/MHAT/DBIx-DBObj-1.00.tar.gz
 PNI                                0.35  F/FI/FIBO/Perl-Node-Interface-0.35.tar.gz
+PNI::Devel                         0.01  F/FI/FIBO/PNI-Devel-0.01.tar.gz
 PNI::Edge                         undef  F/FI/FIBO/Perl-Node-Interface-0.35.tar.gz
 PNI::Elem                         undef  F/FI/FIBO/Perl-Node-Interface-0.35.tar.gz
 PNI::Finder                       undef  F/FI/FIBO/Perl-Node-Interface-0.35.tar.gz
