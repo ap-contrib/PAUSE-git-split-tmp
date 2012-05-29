@@ -1,7 +1,7 @@
-CGI::Test::Page::HTML             undef  T/TO/TOKAREV/CGI-Test-0.2.4.tar.gz
-CGI::Test::Page::Other            undef  T/TO/TOKAREV/CGI-Test-0.2.4.tar.gz
-CGI::Test::Page::Real             undef  T/TO/TOKAREV/CGI-Test-0.2.4.tar.gz
-CGI::Test::Page::Text             undef  T/TO/TOKAREV/CGI-Test-0.2.4.tar.gz
+CGI::Test::Page::HTML             undef  T/TO/TOKAREV/CGI-Test-0.3.tar.gz
+CGI::Test::Page::Other            undef  T/TO/TOKAREV/CGI-Test-0.3.tar.gz
+CGI::Test::Page::Real             undef  T/TO/TOKAREV/CGI-Test-0.3.tar.gz
+CGI::Test::Page::Text             undef  T/TO/TOKAREV/CGI-Test-0.3.tar.gz
 CGI::Thin                          0.52  R/RG/RGEOFFREY/CGI-Thin-0.52.tar.gz
 CGI::Thin::Cookies                 0.52  R/RG/RGEOFFREY/CGI-Thin-0.52.tar.gz
 CGI::Toggle                           0  L/LD/LDS/GBrowse-2.49.tar.gz
