@@ -580,6 +580,7 @@ urpm::sys,RGARCIA,c
 urpm::util,RGARCIA,c
 use,AUDREYT,c
 use,GREGOR,f
+use::perl5,AUDREYT,f
 use_alias,KSTEPHENS,f
 user,SFLEX,f
 using,JSMITH,f

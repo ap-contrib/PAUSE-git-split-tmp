@@ -149,8 +149,9 @@ USB::HID::Report::Field               1  B/BF/BFOZ/USB-Descriptor-4.tar.gz
 USConManager                      undef  H/HD/HDP/KSx-IndexManager-0.004.tar.gz
 USConSchema                       undef  H/HD/HDP/KSx-IndexManager-0.004.tar.gz
 USConSchema::UnIndexedField       undef  H/HD/HDP/KSx-IndexManager-0.004.tar.gz
-use                                0.03  A/AU/AUDREYT/use-0.03.tar.gz
+use                                0.04  A/AU/AUDREYT/use-0.04.tar.gz
 Use                               undef  F/FG/FGLOCK/v6-0.044.tar.gz
+use::perl5                         0.08  A/AU/AUDREYT/use-0.04.tar.gz
 use_alias                         1.005  K/KS/KSTEPHENS/UMMF-1.02.tar.gz
 User                                1.9  T/TB/TBONE/User-1.9.tar.gz
 User::AccountChecker               0.02  E/EV/EVI/User-AccountChecker-0.02.tar.gz
