@@ -231,6 +231,7 @@ Math::Base85                        0.2  T/TM/TMONROE/Math-Base85-0.2.tar.gz
 Math::BaseArith                    1.00  P/PU/PUCKERING/Math-BaseArith-1.00.tar.gz
 Math::BaseCalc                    1.014  K/KW/KWILLIAMS/Math-BaseCalc-1.016.tar.gz
 Math::BaseCnv                  1.008000  P/PI/PIP/Math-BaseCnv-1.8.B59BrZX.tgz
+Math::BaseConvert                   1.7  C/CH/CHROMATIC/Math-BaseConvert-1.7.tar.gz
 Math::Bezier                       0.01  A/AB/ABW/Math-Bezier-0.01.tar.gz
 Math::Bezier::Convert              0.02  Y/YS/YSAS/Math-Bezier-Convert-0.02.tar.gz
 Math::Big                          1.12  T/TE/TELS/math/Math-Big-1.12.tar.gz
