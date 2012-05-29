@@ -54,7 +54,7 @@ Sub::Auto                        0.0202  O/OS/OSFAMERON/Sub-Auto-0.0202.tar.gz
 Sub::Autostub                      1.00  L/LE/LEMBARK/Sub-Autostub-1.01.tar.gz
 Sub::Become                        0.01  A/AN/ANDYA/Sub-Become-0.01.tar.gz
 Sub::Call::Recur                   0.04  N/NU/NUFFIN/Sub-Call-Recur-0.04.tar.gz
-Sub::Call::Tail                    0.04  N/NU/NUFFIN/Sub-Call-Tail-0.04.tar.gz
+Sub::Call::Tail                    0.05  F/FL/FLORA/Sub-Call-Tail-0.05.tar.gz
 Sub::Called                        0.03  R/RE/RENEEB/Sub-Called-0.03.tar.gz
 Sub::Caller                        0.60  S/SH/SHAYH/Sub-Caller-0.60.tar.gz
 Sub::Chain                        0.012  R/RW/RWSTAUNER/Sub-Chain-0.012.tar.gz
