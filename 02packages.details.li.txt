@@ -175,7 +175,7 @@ Lingua::Sinica::PerlYuYan      1257439830.94865  A/AU/AUDREYT/Lingua-Sinica-Perl
 Lingua::Slavic::Numbers            0.03  T/TE/TEODOR/Lingua-Slavic-Numbers-0.03.tar.gz
 Lingua::SoundChange                0.05  P/PN/PNE/Lingua-SoundChange-0.05.tar.gz
 Lingua::Spelling::Alternative      0.02  D/DP/DPAVLIN/Lingua-Spelling-Alternative-0.02.tar.gz
-Lingua::StanfordCoreNLP            0.03  K/KA/KAL/Lingua-StanfordCoreNLP-0.03.tar.gz
+Lingua::StanfordCoreNLP            0.04  K/KA/KAL/Lingua-StanfordCoreNLP-0.04.tar.gz
 Lingua::StarDict                   1.00  L/LE/LESV/Lingua-StarDict-1.00.tar.gz
 Lingua::StarDict::Gen              0.09  J/JJ/JJOAO/Lingua-StarDict-Gen-0.09.tar.gz
 Lingua::Stem                       0.84  S/SN/SNOWHARE/Lingua-Stem-0.84.tar.gz
