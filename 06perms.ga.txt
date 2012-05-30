@@ -456,6 +456,7 @@ Games::NeverwinterNights::Query,SSCOTTO,f
 Games::Nintendo::Mario,RJBS,f
 Games::Nintendo::Mario::Hearts,RJBS,f
 Games::Nintendo::Mario::NSMB,RJBS,f
+Games::Nintendo::Mario::NSMB::Wii,RJBS,f
 Games::Nintendo::Mario::SMB,RJBS,f
 Games::Nintendo::Mario::SMB2,RJBS,f
 Games::Nintendo::Mario::SMB3,RJBS,f
