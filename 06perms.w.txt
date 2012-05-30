@@ -104,6 +104,7 @@ Wx::PlHtmlTagHandler,MBARBON,f
 Wx::PlHtmlTagHandler,MDOOTSON,c
 Wx::PlHtmlWinTagHandler,MBARBON,f
 Wx::PlHtmlWinTagHandler,MDOOTSON,c
+Wx::PlPdfDocument,MDOOTSON,f
 Wx::PlPreviewControlBar,MBARBON,f
 Wx::PlPreviewControlBar,MDOOTSON,c
 Wx::PlPreviewFrame,MBARBON,f
