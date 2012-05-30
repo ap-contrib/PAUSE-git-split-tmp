@@ -302,7 +302,7 @@ XML::Atom::Ext::Threading::InReplyTo 0.01  M/MA/MASAKI/XML-Atom-Ext-Threading-0.
 XML::Atom::Feed                   undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::Feed::JavaScript         0.5  D/DJ/DJACOBS/Atom-JavaScript-0.5.tar.gz
 XML::Atom::Filter                  0.07  M/MA/MARKPASC/XML-Atom-Filter-0.07.tar.gz
-XML::Atom::FromOWL                0.100  T/TO/TOBYINK/XML-Atom-FromOWL-0.100.tar.gz
+XML::Atom::FromOWL                0.101  T/TO/TOBYINK/XML-Atom-FromOWL-0.101.tar.gz
 XML::Atom::Lifeblog                0.03  M/MI/MIYAGAWA/XML-Atom-Lifeblog-0.03.tar.gz
 XML::Atom::Lifeblog::Media        undef  M/MI/MIYAGAWA/XML-Atom-Lifeblog-0.03.tar.gz
 XML::Atom::Link                   undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
