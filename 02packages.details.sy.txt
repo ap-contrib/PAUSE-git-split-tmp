@@ -426,6 +426,7 @@ Sys::Lastlog                        1.6  J/JS/JSTOWE/Sys-Lastlog-1.6.tar.gz
 SYS::lastlog                      undef  T/TO/TOMC/scripts/ADVLABS/binstuff/SYS/lastlog.pm.gz
 Sys::Lastlog::Entry                 1.6  J/JS/JSTOWE/Sys-Lastlog-1.6.tar.gz
 Sys::Load                           0.2  B/BA/BARABAS/Sys-Load-0.2.tar.gz
+Sys::LoadAvg                       0.03  J/JE/JEREMY/Sys-LoadAvg-0.03.tar.gz
 Sys::MemInfo                       0.91  S/SC/SCRESTO/Sys-MemInfo-0.91.tar.gz
 Sys::Mknod                         0.02  S/SA/SAMV/Sys-Mknod-0.02.tar.gz
 Sys::Mlockall                      0.01  C/CR/CRAKRJACK/Sys-Mlockall-0.01.tar.gz
