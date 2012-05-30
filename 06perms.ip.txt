@@ -78,6 +78,7 @@ IPC::Open3,RJBS,c
 IPC::Open3,perl,c
 IPC::Open3::Simple,ERWAN,f
 IPC::Open3::Utils,DMUEY,f
+IPC::OpenAny,SSCAFFIDI,f
 IPC::PerlSSH,PEVANS,f
 IPC::PerlSSH::Async,PEVANS,f
 IPC::PerlSSH::Base,PEVANS,f
