@@ -269,7 +269,7 @@ WWW::WebArchive                    0.50  S/SP/SPADKINS/WWW-WebArchive-0.50.tar.g
 WWW::WebArchive::Agent             0.50  S/SP/SPADKINS/WWW-WebArchive-0.50.tar.gz
 WWW::WebArchive::WaybackMachine    0.50  S/SP/SPADKINS/WWW-WebArchive-0.50.tar.gz
 WWW::WebDevout::BrowserSupportInfo 0.0102  Z/ZO/ZOFFIX/WWW-WebDevout-BrowserSupportInfo-0.0102.tar.gz
-WWW::WebKit                        0.01  N/NI/NINE/WWW-WebKit-0.01.tar.gz
+WWW::WebKit                        0.03  N/NI/NINE/WWW-WebKit-0.03.tar.gz
 WWW::Webrobot                      0.81  S/ST/STRCEK/webrobot-0.81.tar.gz
 WWW::Webrobot::Assert             undef  S/ST/STRCEK/webrobot-0.81.tar.gz
 WWW::Webrobot::AssertConstant     undef  S/ST/STRCEK/webrobot-0.81.tar.gz
