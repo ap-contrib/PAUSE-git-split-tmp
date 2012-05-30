@@ -377,7 +377,7 @@ Test::WWW::Selenium::More::WritingTests 0.11  K/KA/KABLAMO/Test-WWW-Selenium-Mor
 Test::WWW::Selenium::Sencha       0.001  P/PL/PLYTLE/Test-WWW-Selenium-Sencha-0.001.tar.gz
 Test::WWW::Selenium::Sencha::Component undef  P/PL/PLYTLE/Test-WWW-Selenium-Sencha-0.001.tar.gz
 Test::WWW::Simple                  0.33  M/MC/MCMAHON/Test-WWW-Simple-0.33.tar.gz
-Test::WWW::WebKit                  0.01  N/NI/NINE/Test-WWW-WebKit-0.01.tar.gz
+Test::WWW::WebKit                  0.02  N/NI/NINE/Test-WWW-WebKit-0.02.tar.gz
 Test::WWW::WebKit::Catalyst        0.01  N/NI/NINE/Test-WWW-WebKit-Catalyst-0.01.tar.gz
 Test::XML                          0.08  S/SE/SEMANTICO/Test-XML-0.08.tar.gz
 Test::XML::Assert                  0.03  C/CH/CHILTS/XML-Assert-0.03.tar.gz
