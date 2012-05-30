@@ -300,6 +300,7 @@ Test::POE::Server::TCP,BINGOS,f
 Test::POE::Stopping,ADAMK,f
 Test::POP3,JAMES,f
 Test::PPPort,YAPPO,f
+Test::Parallel,ATOOMIC,f
 Test::ParallelSubtest,NCLEATON,f
 Test::ParallelSubtest::Capture,NCLEATON,f
 Test::ParallelSubtest::CaptureFH,NCLEATON,f
