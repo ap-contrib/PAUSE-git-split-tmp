@@ -195,7 +195,6 @@ PostScript::Barcode::datamatrix   0.006  D/DA/DAXIM/PostScript-Barcode-0.006.tar
 PostScript::Barcode::GSAPI::Singleton 0.006  D/DA/DAXIM/PostScript-Barcode-0.006.tar.gz
 PostScript::Barcode::Meta::Types  0.006  D/DA/DAXIM/PostScript-Barcode-0.006.tar.gz
 PostScript::Barcode::qrcode       0.006  D/DA/DAXIM/PostScript-Barcode-0.006.tar.gz
-PostScript::Barcode::Types        0.003  D/DA/DAXIM/PostScript-Barcode-0.003.tar.gz
 PostScript::BasicTypesetter        0.04  J/JV/JV/PostScript-Font-1.10.02.tar.gz
 PostScript::Calendar               1.01  C/CJ/CJM/PostScript-Calendar-1.01.tar.gz
 PostScript::CDCover                   1  C/CB/CBOUVI/PostScript-CDCover-1.0.tar.gz
