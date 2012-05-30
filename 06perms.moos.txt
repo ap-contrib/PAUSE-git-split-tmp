@@ -369,6 +369,7 @@ MooseX::Orochi::Meta::Class,DMAKI,f
 MooseX::POE,ARCANEZ,c
 MooseX::POE,ASH,c
 MooseX::POE,BINGOS,c
+MooseX::POE,ETHER,c
 MooseX::POE,GETTY,c
 MooseX::POE,HDP,c
 MooseX::POE,LBR,c
@@ -378,6 +379,7 @@ MooseX::POE,STEVAN,c
 MooseX::POE::Aliased,ARCANEZ,c
 MooseX::POE::Aliased,ASH,c
 MooseX::POE::Aliased,BINGOS,c
+MooseX::POE::Aliased,ETHER,c
 MooseX::POE::Aliased,GETTY,c
 MooseX::POE::Aliased,HDP,c
 MooseX::POE::Aliased,LBR,c
@@ -386,6 +388,7 @@ MooseX::POE::Aliased,PERIGRIN,f
 MooseX::POE::Exporter,ARCANEZ,c
 MooseX::POE::Exporter,ASH,c
 MooseX::POE::Exporter,BINGOS,c
+MooseX::POE::Exporter,ETHER,c
 MooseX::POE::Exporter,GETTY,c
 MooseX::POE::Exporter,HDP,c
 MooseX::POE::Exporter,LBR,c
@@ -394,6 +397,7 @@ MooseX::POE::Exporter,PERIGRIN,f
 MooseX::POE::Meta::Class,ARCANEZ,c
 MooseX::POE::Meta::Class,ASH,c
 MooseX::POE::Meta::Class,BINGOS,c
+MooseX::POE::Meta::Class,ETHER,c
 MooseX::POE::Meta::Class,GETTY,c
 MooseX::POE::Meta::Class,HDP,c
 MooseX::POE::Meta::Class,LBR,c
@@ -403,6 +407,7 @@ MooseX::POE::Meta::Class,STEVAN,c
 MooseX::POE::Meta::Class::Trait,ARCANEZ,c
 MooseX::POE::Meta::Class::Trait,ASH,c
 MooseX::POE::Meta::Class::Trait,BINGOS,c
+MooseX::POE::Meta::Class::Trait,ETHER,c
 MooseX::POE::Meta::Class::Trait,GETTY,c
 MooseX::POE::Meta::Class::Trait,HDP,c
 MooseX::POE::Meta::Class::Trait,LBR,c
@@ -411,6 +416,7 @@ MooseX::POE::Meta::Class::Trait,PERIGRIN,f
 MooseX::POE::Meta::Instance,ARCANEZ,c
 MooseX::POE::Meta::Instance,ASH,c
 MooseX::POE::Meta::Instance,BINGOS,c
+MooseX::POE::Meta::Instance,ETHER,c
 MooseX::POE::Meta::Instance,GETTY,c
 MooseX::POE::Meta::Instance,HDP,c
 MooseX::POE::Meta::Instance,LBR,c
@@ -420,6 +426,7 @@ MooseX::POE::Meta::Instance,STEVAN,c
 MooseX::POE::Meta::Instance::Deferred,ARCANEZ,c
 MooseX::POE::Meta::Instance::Deferred,ASH,c
 MooseX::POE::Meta::Instance::Deferred,BINGOS,c
+MooseX::POE::Meta::Instance::Deferred,ETHER,c
 MooseX::POE::Meta::Instance::Deferred,GETTY,c
 MooseX::POE::Meta::Instance::Deferred,HDP,c
 MooseX::POE::Meta::Instance::Deferred,LBR,c
@@ -428,6 +435,7 @@ MooseX::POE::Meta::Instance::Deferred,PERIGRIN,f
 MooseX::POE::Meta::Method::State,ARCANEZ,c
 MooseX::POE::Meta::Method::State,ASH,c
 MooseX::POE::Meta::Method::State,BINGOS,c
+MooseX::POE::Meta::Method::State,ETHER,c
 MooseX::POE::Meta::Method::State,GETTY,c
 MooseX::POE::Meta::Method::State,HDP,c
 MooseX::POE::Meta::Method::State,LBR,c
@@ -437,6 +445,7 @@ MooseX::POE::Meta::Method::State,STEVAN,c
 MooseX::POE::Meta::Role,ARCANEZ,c
 MooseX::POE::Meta::Role,ASH,c
 MooseX::POE::Meta::Role,BINGOS,c
+MooseX::POE::Meta::Role,ETHER,c
 MooseX::POE::Meta::Role,GETTY,c
 MooseX::POE::Meta::Role,HDP,c
 MooseX::POE::Meta::Role,LBR,c
@@ -445,6 +454,7 @@ MooseX::POE::Meta::Role,PERIGRIN,f
 MooseX::POE::Meta::Trait,ARCANEZ,c
 MooseX::POE::Meta::Trait,ASH,c
 MooseX::POE::Meta::Trait,BINGOS,c
+MooseX::POE::Meta::Trait,ETHER,c
 MooseX::POE::Meta::Trait,GETTY,c
 MooseX::POE::Meta::Trait,HDP,c
 MooseX::POE::Meta::Trait,LBR,c
@@ -453,6 +463,7 @@ MooseX::POE::Meta::Trait,PERIGRIN,f
 MooseX::POE::Meta::Trait::Class,ARCANEZ,c
 MooseX::POE::Meta::Trait::Class,ASH,c
 MooseX::POE::Meta::Trait::Class,BINGOS,c
+MooseX::POE::Meta::Trait::Class,ETHER,c
 MooseX::POE::Meta::Trait::Class,GETTY,c
 MooseX::POE::Meta::Trait::Class,HDP,c
 MooseX::POE::Meta::Trait::Class,NUFFIN,c
@@ -460,6 +471,7 @@ MooseX::POE::Meta::Trait::Class,PERIGRIN,f
 MooseX::POE::Meta::Trait::Constructor,ARCANEZ,c
 MooseX::POE::Meta::Trait::Constructor,ASH,c
 MooseX::POE::Meta::Trait::Constructor,BINGOS,c
+MooseX::POE::Meta::Trait::Constructor,ETHER,c
 MooseX::POE::Meta::Trait::Constructor,GETTY,c
 MooseX::POE::Meta::Trait::Constructor,HDP,c
 MooseX::POE::Meta::Trait::Constructor,NUFFIN,c
@@ -467,6 +479,7 @@ MooseX::POE::Meta::Trait::Constructor,PERIGRIN,f
 MooseX::POE::Meta::Trait::Instance,ARCANEZ,c
 MooseX::POE::Meta::Trait::Instance,ASH,c
 MooseX::POE::Meta::Trait::Instance,BINGOS,c
+MooseX::POE::Meta::Trait::Instance,ETHER,c
 MooseX::POE::Meta::Trait::Instance,GETTY,c
 MooseX::POE::Meta::Trait::Instance,HDP,c
 MooseX::POE::Meta::Trait::Instance,NUFFIN,c
@@ -474,6 +487,7 @@ MooseX::POE::Meta::Trait::Instance,PERIGRIN,f
 MooseX::POE::Meta::Trait::Object,ARCANEZ,c
 MooseX::POE::Meta::Trait::Object,ASH,c
 MooseX::POE::Meta::Trait::Object,BINGOS,c
+MooseX::POE::Meta::Trait::Object,ETHER,c
 MooseX::POE::Meta::Trait::Object,GETTY,c
 MooseX::POE::Meta::Trait::Object,HDP,c
 MooseX::POE::Meta::Trait::Object,NUFFIN,c
@@ -481,6 +495,7 @@ MooseX::POE::Meta::Trait::Object,PERIGRIN,f
 MooseX::POE::Meta::Trait::SweetArgs,ARCANEZ,c
 MooseX::POE::Meta::Trait::SweetArgs,ASH,c
 MooseX::POE::Meta::Trait::SweetArgs,BINGOS,c
+MooseX::POE::Meta::Trait::SweetArgs,ETHER,c
 MooseX::POE::Meta::Trait::SweetArgs,GETTY,c
 MooseX::POE::Meta::Trait::SweetArgs,HDP,c
 MooseX::POE::Meta::Trait::SweetArgs,NUFFIN,c
@@ -488,6 +503,7 @@ MooseX::POE::Meta::Trait::SweetArgs,PERIGRIN,f
 MooseX::POE::Object,ARCANEZ,c
 MooseX::POE::Object,ASH,c
 MooseX::POE::Object,BINGOS,c
+MooseX::POE::Object,ETHER,c
 MooseX::POE::Object,GETTY,c
 MooseX::POE::Object,HDP,c
 MooseX::POE::Object,LBR,c
@@ -497,6 +513,7 @@ MooseX::POE::Object,STEVAN,c
 MooseX::POE::Object::Deferred,ARCANEZ,c
 MooseX::POE::Object::Deferred,ASH,c
 MooseX::POE::Object::Deferred,BINGOS,c
+MooseX::POE::Object::Deferred,ETHER,c
 MooseX::POE::Object::Deferred,GETTY,c
 MooseX::POE::Object::Deferred,HDP,c
 MooseX::POE::Object::Deferred,LBR,c
@@ -505,6 +522,7 @@ MooseX::POE::Object::Deferred,PERIGRIN,f
 MooseX::POE::Role,ARCANEZ,c
 MooseX::POE::Role,ASH,c
 MooseX::POE::Role,BINGOS,c
+MooseX::POE::Role,ETHER,c
 MooseX::POE::Role,GETTY,c
 MooseX::POE::Role,HDP,c
 MooseX::POE::Role,LBR,c
@@ -513,6 +531,7 @@ MooseX::POE::Role,PERIGRIN,f
 MooseX::POE::SweetArgs,ARCANEZ,c
 MooseX::POE::SweetArgs,ASH,c
 MooseX::POE::SweetArgs,BINGOS,c
+MooseX::POE::SweetArgs,ETHER,c
 MooseX::POE::SweetArgs,GETTY,c
 MooseX::POE::SweetArgs,HDP,c
 MooseX::POE::SweetArgs,LBR,c

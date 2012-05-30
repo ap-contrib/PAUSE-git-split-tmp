@@ -423,6 +423,7 @@ Regexp::Common::Chess,OLOF,f
 Regexp::Common::Email::Address,CWEST,f
 Regexp::Common::Entry,ABIGAIL,f
 Regexp::Common::Entry,DCONWAY,c
+Regexp::Common::IRC,ETHER,c
 Regexp::Common::IRC,PERIGRIN,f
 Regexp::Common::SEN,ABIGAIL,f
 Regexp::Common::URI,ABIGAIL,f

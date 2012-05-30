@@ -1,3 +1,4 @@
+Moxy::Plugin::Application,MIKIHOSHI,f
 Moxy::Plugin::Application,TOKUHIROM,c
 Moxy::Plugin::AuthorizationCutter,TOKUHIROM,f
 Moxy::Plugin::BasicAuth,TOKUHIROM,f

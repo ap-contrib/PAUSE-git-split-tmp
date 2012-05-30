@@ -1116,9 +1116,11 @@ Wiki::Toolkit::Feed::Atom,DOM,f
 Wiki::Toolkit::Feed::Listing,DOM,f
 Wiki::Toolkit::Feed::RSS,DOM,f
 Wiki::Toolkit::Formatter::Default,DOM,f
+Wiki::Toolkit::Formatter::Markdown,ETHER,c
 Wiki::Toolkit::Formatter::Markdown,PERIGRIN,f
 Wiki::Toolkit::Formatter::Mediawiki,DPRICE,m
 Wiki::Toolkit::Formatter::Mediawiki::Link,DPRICE,f
+Wiki::Toolkit::Formatter::MultiMarkdown,ETHER,c
 Wiki::Toolkit::Formatter::MultiMarkdown,PERIGRIN,f
 Wiki::Toolkit::Formatter::Multiple,DOM,f
 Wiki::Toolkit::Formatter::Pod,DOM,f

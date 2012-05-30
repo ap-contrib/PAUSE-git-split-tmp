@@ -481,6 +481,7 @@ DateTime::Format::Natural::Duration,SCHUBIGER,f
 DateTime::Format::Natural::Duration::Checks,SCHUBIGER,f
 DateTime::Format::Natural::EN,SCHUBIGER,f
 DateTime::Format::Natural::EN::Base,SCHUBIGER,f
+DateTime::Format::Natural::Expand,SCHUBIGER,f
 DateTime::Format::Natural::Extract,SCHUBIGER,f
 DateTime::Format::Natural::Formatted,SCHUBIGER,f
 DateTime::Format::Natural::Helpers,SCHUBIGER,f

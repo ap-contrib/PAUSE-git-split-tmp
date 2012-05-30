@@ -290,9 +290,13 @@ XML::Filter::Merger,PERIGRIN,c
 XML::Filter::Merger,RBS,f
 XML::Filter::Mode,PERIGRIN,c
 XML::Filter::Mode,RBS,f
+XML::Filter::Moose,ETHER,c
 XML::Filter::Moose,PERIGRIN,f
+XML::Filter::Moose::Class,ETHER,c
 XML::Filter::Moose::Class,PERIGRIN,f
+XML::Filter::Moose::ClassRegistry,ETHER,c
 XML::Filter::Moose::ClassRegistry,PERIGRIN,f
+XML::Filter::Moose::ClassTemplate,ETHER,c
 XML::Filter::Moose::ClassTemplate,PERIGRIN,f
 XML::Filter::NSNormalise,GRANTM,f
 XML::Filter::Namespace,HDM,c
@@ -357,6 +361,7 @@ XML::Generator::DOM,BHOLZMAN,f
 XML::Generator::DOM::util,BHOLZMAN,f
 XML::Generator::Essex,PERIGRIN,c
 XML::Generator::Essex,RBS,f
+XML::Generator::Moose,ETHER,c
 XML::Generator::Moose,PERIGRIN,f
 XML::Generator::Pdb,JOHANVDB,f
 XML::Generator::PerlData,KHAMPTON,f
@@ -967,10 +972,12 @@ XML::MiniCity,JKRAMER,f
 XML::MyXML,KARJALA,m
 XML::MyXML::Object,KARJALA,f
 XML::Namespace,ABW,f
+XML::NamespaceFactory,ETHER,c
 XML::NamespaceFactory,KHAMPTON,c
 XML::NamespaceFactory,MSERGEANT,c
 XML::NamespaceFactory,PERIGRIN,f
 XML::NamespaceFactory,RBERJON,c
+XML::NamespaceFactory::TiedHash,ETHER,c
 XML::NamespaceFactory::TiedHash,MSERGEANT,c
 XML::NamespaceFactory::TiedHash,PERIGRIN,f
 XML::NamespaceFactory::TiedHash,RBERJON,c

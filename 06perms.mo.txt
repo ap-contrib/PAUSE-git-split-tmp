@@ -678,6 +678,7 @@ Moose::Meta::Attribute::Custom::Trait::TAEB::GoodStatus,SARTAK,f
 Moose::Meta::Attribute::Custom::Trait::TAEB::Persistent,SARTAK,f
 Moose::Meta::Attribute::Custom::Trait::TreeInherit,CJM,f
 Moose::Meta::Attribute::Custom::Trait::TypeConstraint::CustomizeFatal,AVAR,f
+Moose::Meta::Attribute::Custom::Trait::XML,ETHER,c
 Moose::Meta::Attribute::Custom::Trait::XML,PERIGRIN,f
 Moose::Meta::Attribute::Custom::Trait::XPathObject,ROBINS,f
 Moose::Meta::Attribute::Custom::Trait::XPathObjectList,ROBINS,f
@@ -896,6 +897,7 @@ Moose::Meta::Method::Accessor::Native::Array::elements,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::elements,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Array::first,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::first,STEVAN,f
+Moose::Meta::Method::Accessor::Native::Array::first_index,ETHER,c
 Moose::Meta::Method::Accessor::Native::Array::first_index,PERIGRIN,f
 Moose::Meta::Method::Accessor::Native::Array::get,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::get,STEVAN,f
@@ -919,6 +921,7 @@ Moose::Meta::Method::Accessor::Native::Array::reduce,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::reduce,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Array::set,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::set,STEVAN,f
+Moose::Meta::Method::Accessor::Native::Array::shallow_clone,ETHER,c
 Moose::Meta::Method::Accessor::Native::Array::shallow_clone,PERIGRIN,f
 Moose::Meta::Method::Accessor::Native::Array::shift,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Array::shift,STEVAN,f
@@ -986,6 +989,7 @@ Moose::Meta::Method::Accessor::Native::Hash::kv,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Hash::kv,STEVAN,f
 Moose::Meta::Method::Accessor::Native::Hash::set,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Hash::set,STEVAN,f
+Moose::Meta::Method::Accessor::Native::Hash::shallow_clone,ETHER,c
 Moose::Meta::Method::Accessor::Native::Hash::shallow_clone,PERIGRIN,f
 Moose::Meta::Method::Accessor::Native::Hash::values,DROLSKY,c
 Moose::Meta::Method::Accessor::Native::Hash::values,STEVAN,f
@@ -1383,6 +1387,7 @@ Moose::Role,SARTAK,c
 Moose::Role,STEVAN,f
 Moose::Test,SARTAK,f
 Moose::Test::Case,SARTAK,f
+Moose::Tiny,ETHER,c
 Moose::Tiny,PERIGRIN,f
 Moose::Tiny,SARTAK,c
 Moose::Util,DOY,c
@@ -1414,6 +1419,7 @@ Moose::Util::TypeConstraints,NUFFIN,c
 Moose::Util::TypeConstraints,PERIGRIN,c
 Moose::Util::TypeConstraints,SARTAK,c
 Moose::Util::TypeConstraints,STEVAN,f
+Moose::Util::TypeConstraints::Builtins,ETHER,c
 Moose::Util::TypeConstraints::Builtins,PERIGRIN,f
 Moose::Util::TypeConstraints::OptimizedConstraints,DOY,c
 Moose::Util::TypeConstraints::OptimizedConstraints,DROLSKY,c
@@ -1517,18 +1523,23 @@ MooseX::App::Plugin::Config,MAROS,f
 MooseX::App::Plugin::ConfigHome,MAROS,f
 MooseX::App::Role,MAROS,f
 MooseX::App::Utils,MAROS,f
+MooseX::Async,ETHER,c
 MooseX::Async,GETTY,c
 MooseX::Async,LBR,c
 MooseX::Async,PERIGRIN,f
+MooseX::Async::Meta::Class,ETHER,c
 MooseX::Async::Meta::Class,GETTY,c
 MooseX::Async::Meta::Class,LBR,c
 MooseX::Async::Meta::Class,PERIGRIN,f
+MooseX::Async::Meta::Method::State,ETHER,c
 MooseX::Async::Meta::Method::State,GETTY,c
 MooseX::Async::Meta::Method::State,LBR,c
 MooseX::Async::Meta::Method::State,PERIGRIN,f
+MooseX::Async::Meta::Role,ETHER,c
 MooseX::Async::Meta::Role,GETTY,c
 MooseX::Async::Meta::Role,LBR,c
 MooseX::Async::Meta::Role,PERIGRIN,f
+MooseX::Async::Meta::Trait,ETHER,c
 MooseX::Async::Meta::Trait,GETTY,c
 MooseX::Async::Meta::Trait,LBR,c
 MooseX::Async::Meta::Trait,PERIGRIN,f

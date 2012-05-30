@@ -1,6 +1,8 @@
 Acme::Umlautify,BENNIE,m
+Acme::Unsubscribe,ETHER,c
 Acme::Unsubscribe,PERIGRIN,f
 Acme::UseStrict,TOBYINK,f
+Acme::User,ETHER,c
 Acme::User,PERIGRIN,f
 Acme::Util,CHOCOLATE,f
 Acme::Valid,MEMOWE,f
@@ -14,6 +16,7 @@ Acme::W,DAMEO,f
 Acme::WWW::Cyborg,SCHUBIGER,f
 Acme::Wabby,POZNICK,m
 Acme::WalkMethods,LLAP,f
+Acme::Web,ETHER,c
 Acme::Web,PERIGRIN,f
 Acme::Web20::Validator,NAOYA,f
 Acme::Web20::Validator::Rule,NAOYA,f
@@ -83,12 +86,16 @@ ActiveResource,GUGOD,f
 ActiveResource::Base,GUGOD,f
 ActiveResource::Connection,GUGOD,f
 ActiveResource::Formats::XmlFormat,GUGOD,f
+Adam,ETHER,c
 Adam,GETTY,c
 Adam,PERIGRIN,f
+Adam::Logger::API,ETHER,c
 Adam::Logger::API,GETTY,c
 Adam::Logger::API,PERIGRIN,f
+Adam::Logger::Default,ETHER,c
 Adam::Logger::Default,GETTY,c
 Adam::Logger::Default,PERIGRIN,f
+Adam::Plugin,ETHER,c
 Adam::Plugin,GETTY,c
 Adam::Plugin,PERIGRIN,f
 Adaptor::DBI,SRIRAM,f

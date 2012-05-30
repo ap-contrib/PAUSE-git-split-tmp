@@ -643,6 +643,7 @@ oose,PERIGRIN,c
 oose,SARTAK,c
 oose,STEVAN,f
 ooseX::POE,ARCANEZ,c
+ooseX::POE,ETHER,c
 ooseX::POE,LBR,c
 ooseX::POE,PERIGRIN,f
 open,DAPM,c

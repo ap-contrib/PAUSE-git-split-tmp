@@ -1,6 +1,7 @@
 orac_Wait,ANDYDUNC,f
 oracle_comparison,CJONES,f
 orz,INGY,f
+oses,ETHER,c
 oses,GETTY,c
 oses,PERIGRIN,f
 ouse,BOBTFISH,c

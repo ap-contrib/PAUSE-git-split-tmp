@@ -631,6 +631,7 @@ NexposeSimpleXML::Parser::ScanDetails,JABRA,f
 NexposeSimpleXML::Parser::Session,JABRA,f
 NexposeSimpleXML::Parser::Vulnerability,JABRA,f
 Nginx,ZZZ,f
+Nginx::Control,ETHER,c
 Nginx::Control,NACHBAUR,c
 Nginx::Control,PERIGRIN,f
 Nginx::Engine,ZZZ,m
