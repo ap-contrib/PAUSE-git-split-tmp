@@ -111,6 +111,7 @@ PerlIO::scalar                     0.12  R/RJ/RJBS/perl-5.15.2.tar.bz2
 PerlIO::subfile                    0.08  N/NW/NWCLARK/PerlIO-subfile-0.08.tar.gz
 PerlIO::tee                       undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::text                      0.007  L/LE/LEONT/PerlIO-text-0.007.tar.gz
+PerlIO::utf8_strict               0.002  L/LE/LEONT/PerlIO-utf8_strict-0.002.tar.gz
 PerlIO::Util                       0.72  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::via                        0.12  F/FL/FLORA/perl-5.15.4.tar.gz
 PerlIO::via::ANSIColor             0.05  M/MA/MASANORIH/PerlIO-via-ANSIColor-0.05.tar.gz
