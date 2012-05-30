@@ -196,9 +196,9 @@ CPAN::Search::Tester               0.02  M/MA/MANWAR/CPAN-Search-Tester-0.02.tar
 CPAN::Shell                      5.5002  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Site                         1.10  M/MA/MARKOV/CPAN-Site-1.10.tar.gz
 CPAN::Site::Index                  1.10  M/MA/MARKOV/CPAN-Site-1.10.tar.gz
-CPAN::Source                       0.02  C/CO/CORNELIUS/CPAN-Source-0.02.tar.gz
-CPAN::Source::Dist                undef  C/CO/CORNELIUS/CPAN-Source-0.02.tar.gz
-CPAN::Source::Package             undef  C/CO/CORNELIUS/CPAN-Source-0.02.tar.gz
+CPAN::Source                       0.03  C/CO/CORNELIUS/CPAN-Source-0.03.tar.gz
+CPAN::Source::Dist                undef  C/CO/CORNELIUS/CPAN-Source-0.03.tar.gz
+CPAN::Source::Package             undef  C/CO/CORNELIUS/CPAN-Source-0.03.tar.gz
 CPAN::SQLite                      0.202  S/ST/STRO/CPAN-SQLite-0.202.tar.gz
 CPAN::SQLite::DBI                 0.202  S/ST/STRO/CPAN-SQLite-0.202.tar.gz
 CPAN::SQLite::DBI::Index          0.202  S/ST/STRO/CPAN-SQLite-0.202.tar.gz
