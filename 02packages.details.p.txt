@@ -721,7 +721,7 @@ RDBAL::Layer::ODBC                 1.00  B/BR/BRIAN/RDBAL-1.2.tar.gz
 RDBAL::Layer::SybaseDBlib          1.00  B/BR/BRIAN/RDBAL-1.2.tar.gz
 RDBAL::Schema                       1.2  B/BR/BRIAN/RDBAL-1.2.tar.gz
 RDF                                 0.4  A/AR/AREGGIORI/RDFStore-0.42.tar.gz
-RDF::ACL                          0.101  T/TO/TOBYINK/RDF-ACL-0.101.tar.gz
+RDF::ACL                          0.102  T/TO/TOBYINK/RDF-ACL-0.102.tar.gz
 RDF::AllegroGraph                  0.04  D/DR/DRRHO/RDF-AllegroGraph-Easy-0.08.tar.gz
 RDF::AllegroGraph::Catalog         0.06  D/DR/DRRHO/RDF-AllegroGraph-Easy-0.08.tar.gz
 RDF::AllegroGraph::Catalog3        0.04  D/DR/DRRHO/RDF-AllegroGraph-Easy-0.08.tar.gz
