@@ -139,6 +139,7 @@ HTML::Transmorgify::MutuallyExclusive,MUIR,f
 HTML::Transmorgify::ObjectGlue,MUIR,f
 HTML::Transmorgify::Stack,MUIR,f
 HTML::Transmorgify::Symbols,MUIR,f
+HTML::Tree,CJM,c
 HTML::Tree,JFEARN,f
 HTML::Tree,PETEK,c
 HTML::TreeBuilder,CJM,c
