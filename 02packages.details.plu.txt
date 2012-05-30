@@ -691,7 +691,7 @@ Pod::Loom::Template                0.05  C/CJ/CJM/Pod-Loom-0.05.tar.gz
 Pod::Loom::Template::Default       0.05  C/CJ/CJM/Pod-Loom-0.05.tar.gz
 Pod::Loom::Template::Identity      0.03  C/CJ/CJM/Pod-Loom-0.05.tar.gz
 Pod::Lyx                           0.25  R/RI/RICHARDJ/pod2lyx-0.25.tar.gz
-Pod::Man                           2.25  R/RR/RRA/podlators-2.4.0.tar.gz
+Pod::Man                           2.26  R/RR/RRA/podlators-2.4.1.tar.gz
 Pod::Manual                        0.08  Y/YA/YANICK/Pod-Manual-0.08.tar.gz
 Pod::Manual::Docbook2LaTeX         0.08  Y/YA/YANICK/Pod-Manual-0.08.tar.gz
 Pod::Manual::PodXML2Docbook        0.08  Y/YA/YANICK/Pod-Manual-0.08.tar.gz
@@ -714,7 +714,7 @@ Pod::Outline                       0.10  P/PE/PETDANCE/Pod-Outline-0.10.tar.gz
 Pod::PalmDoc                        0.0  B/BE/BEATNIK/Pod-PalmDoc-0.0.2.tar.gz
 Pod::paragraph                     1.01  M/MA/MAREKR/Pod-Compiler-0.20.tar.gz
 Pod::Paragraph                     1.51  M/MA/MAREKR/Pod-Parser-1.51.tar.gz
-Pod::ParseLink                     1.10  R/RR/RRA/podlators-2.4.0.tar.gz
+Pod::ParseLink                     1.10  R/RR/RRA/podlators-2.4.1.tar.gz
 Pod::Parser                        1.51  M/MA/MAREKR/Pod-Parser-1.51.tar.gz
 Pod::Parser::Groffmom             0.042  O/OV/OVID/Pod-Parser-Groffmom-0.042.tar.gz
 Pod::Parser::Groffmom::Color      0.042  O/OV/OVID/Pod-Parser-Groffmom-0.042.tar.gz

@@ -92,7 +92,7 @@ URI::tag                           0.02  M/MI/MIYAGAWA/URI-tag-0.02.tar.gz
 URI::tcp                          0.715  M/MK/MKUTTER/SOAP-Transport-TCP-0.715.tar.gz
 URI::tel                           0.02  T/TB/TBR/URI-tel-0.03.tar.gz
 URI::telnet                       undef  G/GA/GAAS/URI-1.60.tar.gz
-URI::Template                      0.15  B/BR/BRICAS/URI-Template-0.15.tar.gz
+URI::Template                      0.16  B/BR/BRICAS/URI-Template-0.16.tar.gz
 URI::Template::Restrict            0.06  M/MA/MASAKI/URI-Template-Restrict-0.06.tar.gz
 URI::Template::Restrict::Expansion undef  M/MA/MASAKI/URI-Template-Restrict-0.06.tar.gz
 URI::Title                         1.86  T/TO/TOMI/URI-Title-1.86.tar.gz
