@@ -735,6 +735,7 @@ Net::Server::NonBlocking,ROMERUN,f
 Net::Server::POP3,JONADAB,f
 Net::Server::POP3::Skeleton,JOHNSCA,f
 Net::Server::POP3proxy,MBOECK,f
+Net::Server::PSGI,RHANDOM,f
 Net::Server::PreFork,RHANDOM,f
 Net::Server::PreForkSimple,RHANDOM,f
 Net::Server::Proto,RHANDOM,f
@@ -745,6 +746,7 @@ Net::Server::Proto::SSLEAY,RHANDOM,f
 Net::Server::Proto::TCP,RHANDOM,f
 Net::Server::Proto::UDP,RHANDOM,f
 Net::Server::Proto::UNIX,RHANDOM,f
+Net::Server::Proto::UNIXDGRAM,RHANDOM,f
 Net::Server::SIG,RHANDOM,f
 Net::Server::SS::PreFork,KAZUHO,f
 Net::Server::Single,RHANDOM,f
