@@ -477,6 +477,7 @@ Sys::Lastlog,JSTOWE,m
 Sys::Lastlog::Entry,JSTOWE,f
 Sys::Linux::Sensors,TKLEIN,m
 Sys::Load,BARABAS,f
+Sys::LoadAvg,JEREMY,f
 Sys::Manage::Cmd,MAKAROW,f
 Sys::Manage::CmdEscort,MAKAROW,f
 Sys::Manage::CmdFile,MAKAROW,f
