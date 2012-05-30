@@ -262,6 +262,7 @@ Math::PlanePath::DekkingStraight,KRYDE,f
 Math::PlanePath::DiagonalRationals,KRYDE,f
 Math::PlanePath::Diagonals,KRYDE,f
 Math::PlanePath::DiagonalsAlternating,KRYDE,f
+Math::PlanePath::DiagonalsOctant,KRYDE,f
 Math::PlanePath::DiamondArms,KRYDE,f
 Math::PlanePath::DiamondSpiral,KRYDE,f
 Math::PlanePath::DigitGroups,KRYDE,f
