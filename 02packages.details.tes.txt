@@ -652,7 +652,7 @@ Test::Output                       1.01  B/BD/BDFOY/Test-Output-1.01.tar.gz
 Test::Output::Tie                  1.01  B/BD/BDFOY/Test-Output-1.01.tar.gz
 Test::Override::UserAgent      0.004001  D/DO/DOUGDUDE/Test-Override-UserAgent-0.004001.tar.gz
 Test::Override::UserAgent::Scope 0.004001  D/DO/DOUGDUDE/Test-Override-UserAgent-0.004001.tar.gz
-Test::Parallel                     0.10  A/AT/ATOOMIC/Test-Parallel-0.10.tar.gz
+Test::Parallel                     0.20  A/AT/ATOOMIC/Test-Parallel-0.20.tar.gz
 Test::ParallelSubtest              0.04  N/NC/NCLEATON/Test-ParallelSubtest-0.04.tar.gz
 Test::ParallelSubtest::Capture     0.04  N/NC/NCLEATON/Test-ParallelSubtest-0.04.tar.gz
 Test::ParallelSubtest::CaptureFH  undef  N/NC/NCLEATON/Test-ParallelSubtest-0.04.tar.gz
