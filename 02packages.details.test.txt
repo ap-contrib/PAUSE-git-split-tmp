@@ -652,6 +652,14 @@ Text::Aligner::MaxKeeper           0.07  A/AN/ANNO/Text-Aligner-0.07.tar.gz
 Text::Annotated::Line              0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::Annotated::Reader            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
 Text::Annotated::Writer            0.04  W/WI/WIMV/Text-Annotated-Line-0.04.tar.gz
+Text::APL                          0.01  V/VT/VTI/Text-APL-0.01.tar.gz
+Text::APL::Base                   undef  V/VT/VTI/Text-APL-0.01.tar.gz
+Text::APL::Compiler               undef  V/VT/VTI/Text-APL-0.01.tar.gz
+Text::APL::Context                undef  V/VT/VTI/Text-APL-0.01.tar.gz
+Text::APL::Parser                 undef  V/VT/VTI/Text-APL-0.01.tar.gz
+Text::APL::Reader                 undef  V/VT/VTI/Text-APL-0.01.tar.gz
+Text::APL::Translator             undef  V/VT/VTI/Text-APL-0.01.tar.gz
+Text::APL::Writer                 undef  V/VT/VTI/Text-APL-0.01.tar.gz
 Text::ASCIIMathML                  0.81  N/NO/NODINE/Text-ASCIIMathML-0.81.tar.gz
 Text::ASCIIMathML::Node            0.81  N/NO/NODINE/Text-ASCIIMathML-0.81.tar.gz
 Text::ASCIITable                   0.20  L/LU/LUNATIC/Text-ASCIITable-0.20.tar.gz

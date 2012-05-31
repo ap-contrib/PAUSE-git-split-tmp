@@ -1017,6 +1017,14 @@ Text::A2E,PILHAMU,m
 Text::AAlib,SYOHEX,f
 Text::AI::CRM114,MSCHUETT,f
 Text::AI::libcrm114,MSCHUETT,f
+Text::APL,VTI,f
+Text::APL::Base,VTI,f
+Text::APL::Compiler,VTI,f
+Text::APL::Context,VTI,f
+Text::APL::Parser,VTI,f
+Text::APL::Reader,VTI,f
+Text::APL::Translator,VTI,f
+Text::APL::Writer,VTI,f
 Text::ASCIIMathML,NODINE,m
 Text::ASCIIMathML::Node,NODINE,f
 Text::ASCIITable,LUNATIC,m
