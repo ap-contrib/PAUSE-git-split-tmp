@@ -713,10 +713,10 @@ Net::IP::XS                        0.09  T/TO/TOMHRR/Net-IP-XS-0.09.tar.gz
 Net::IPAddr::Find                  0.02  M/MI/MIYAGAWA/Net-IPAddr-Find-0.02.tar.gz
 Net::IPAddress                     1.10  S/SA/SARENNER/Net-IPAddress-1.10-PPM.zip
 Net::IPAddress::Minimal            0.05  X/XS/XSAWYERX/Net-IPAddress-Minimal-0.05.tar.gz
-Net::IPAddress::Util              1.000  P/PW/PWBENNETT/Net-IPAddress-Util-1.000.tar.gz
-Net::IPAddress::Util::Collection  undef  P/PW/PWBENNETT/Net-IPAddress-Util-1.000.tar.gz
-Net::IPAddress::Util::Collection::Tie undef  P/PW/PWBENNETT/Net-IPAddress-Util-1.000.tar.gz
-Net::IPAddress::Util::Range       undef  P/PW/PWBENNETT/Net-IPAddress-Util-1.000.tar.gz
+Net::IPAddress::Util              1.001  P/PW/PWBENNETT/Net-IPAddress-Util-1.001.tar.gz
+Net::IPAddress::Util::Collection  undef  P/PW/PWBENNETT/Net-IPAddress-Util-1.001.tar.gz
+Net::IPAddress::Util::Collection::Tie undef  P/PW/PWBENNETT/Net-IPAddress-Util-1.001.tar.gz
+Net::IPAddress::Util::Range       undef  P/PW/PWBENNETT/Net-IPAddress-Util-1.001.tar.gz
 NET::IPFilter                       1.2  S/SE/SENGER/NET-IPFilter_V1.1.2.tar.gz
 NET::IPFilterSimple                 1.2  S/SE/SENGER/NET-IPFilterSimple_V1.1.tar.gz
 Net::IPInfoDB                       3.0  D/DA/DARREN/Net-IPInfoDB-3.0.tar.gz
