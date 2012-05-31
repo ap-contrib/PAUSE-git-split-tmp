@@ -41,6 +41,7 @@ Math::EMA,OPI,f
 Math::ES,AHCHORN,f
 Math::ES::Individuum,AHCHORN,f
 Math::ES::Population,AHCHORN,f
+Math::Erf::Approx,TOBYINK,f
 Math::ErrorPropagation,ZBYS,m
 Math::Evol,PJB,m
 Math::Expr,HAKANARDO,m

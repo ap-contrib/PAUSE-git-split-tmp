@@ -330,6 +330,7 @@ Math::Disarrange::List            1.004  P/PR/PRBRENAN/Math-Disarrange-List-1.00
 Math::DyckWords                    0.03  M/MM/MMERTEL/Math-DyckWords-0.03.tar.gz
 Math::EMA                          0.03  O/OP/OPI/Math-EMA-0.03.tar.gz
 Math::ematica                     1.201  U/UL/ULPFR/Math-ematica-1.201.tar.gz
+Math::Erf::Approx                 0.001  T/TO/TOBYINK/Math-Erf-Approx-0.001.tar.gz
 Math::ErrorPropagation             0.01  Z/ZB/ZBYS/Math-ErrorPropagation-0.01.tar.gz
 Math::ES                           0.08  A/AH/AHCHORN/Math/ES/Math-ES-0.08.tar.gz
 Math::ES::Individuum               0.08  A/AH/AHCHORN/Math/ES/Math-ES-0.08.tar.gz
