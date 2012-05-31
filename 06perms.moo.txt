@@ -53,6 +53,7 @@ MooseX::DOM::LibXML::ContextNode,DMAKI,f
 MooseX::DOM::Meta::LibXML,DMAKI,f
 MooseX::Daemonize,ETHER,c
 MooseX::Daemonize,GETTY,c
+MooseX::Daemonize,MICHAELR,c
 MooseX::Daemonize,PERIGRIN,f
 MooseX::Daemonize,STEVAN,c
 MooseX::Daemonize::Core,DROLSKY,c
