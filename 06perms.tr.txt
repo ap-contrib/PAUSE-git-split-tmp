@@ -981,6 +981,9 @@ Tweet::ToDelicious::Entity::OnEvent,YSASAKI,f
 Tweet::ToDelicious::Entity::OnTweet,YSASAKI,f
 TweetHook::API,REDS,f
 Twiggy,MIYAGAWA,f
+Twiggy::Prefork,KAZEBURO,f
+Twiggy::Prefork::Server,KAZEBURO,f
+Twiggy::Prefork::Server::SS,KAZEBURO,f
 Twiggy::Server,MIYAGAWA,f
 Twiggy::Server::SS,MIYAGAWA,f
 Twiggy::Server::TLS,UNDEF,f

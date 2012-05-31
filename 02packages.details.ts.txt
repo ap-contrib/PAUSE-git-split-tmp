@@ -101,6 +101,9 @@ Tweet::ToDelicious::Entity::OnEvent undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.07.t
 Tweet::ToDelicious::Entity::OnTweet undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.07.tar.gz
 TweetHook::API                    undef  R/RE/REDS/TweetHook-API-0.01.tgz
 Twiggy                           0.1020  M/MI/MIYAGAWA/Twiggy-0.1020.tar.gz
+Twiggy::Prefork                    0.01  K/KA/KAZEBURO/Twiggy-Prefork-0.01.tar.gz
+Twiggy::Prefork::Server           undef  K/KA/KAZEBURO/Twiggy-Prefork-0.01.tar.gz
+Twiggy::Prefork::Server::SS       undef  K/KA/KAZEBURO/Twiggy-Prefork-0.01.tar.gz
 Twiggy::Server                    undef  M/MI/MIYAGAWA/Twiggy-0.1020.tar.gz
 Twiggy::Server::SS                undef  M/MI/MIYAGAWA/Twiggy-0.1020.tar.gz
 Twiggy::Server::TLS               undef  U/UN/UNDEF/Twiggy-TLS-0.0017.tar.gz
