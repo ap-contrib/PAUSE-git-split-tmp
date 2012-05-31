@@ -42,9 +42,13 @@ Net::MarkLogic::XDBC::Result,STUB,f
 Net::MarkLogic::XDBC::Result::Item,STUB,f
 Net::Meerkat,DARREN,f
 Net::MemcacheQ,RPETTETT,f
+Net::MessageBus,EVOZON,c
 Net::MessageBus,HOREA,m
+Net::MessageBus::Base,EVOZON,c
 Net::MessageBus::Base,HOREA,f
+Net::MessageBus::Message,EVOZON,c
 Net::MessageBus::Message,HOREA,f
+Net::MessageBus::Server,EVOZON,c
 Net::MessageBus::Server,HOREA,f
 Net::Milter,MGLEE,m
 Net::MirapointAdmin,AHALL,c

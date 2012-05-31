@@ -159,11 +159,17 @@ WWW::Service::Upcoming::API::Object::State,GKNAUSS,f
 WWW::Service::Upcoming::API::Object::User,GKNAUSS,f
 WWW::Service::Upcoming::API::Object::Venue,GKNAUSS,f
 WWW::Service::Upcoming::API::Object::Watchlist,GKNAUSS,f
+WWW::Session,EVOZON,c
 WWW::Session,HOREA,f
+WWW::Session::Serialization::JSON,EVOZON,c
 WWW::Session::Serialization::JSON,HOREA,f
+WWW::Session::Serialization::Storable,EVOZON,c
 WWW::Session::Serialization::Storable,HOREA,f
+WWW::Session::Storage::File,EVOZON,c
 WWW::Session::Storage::File,HOREA,f
+WWW::Session::Storage::Memcached,EVOZON,c
 WWW::Session::Storage::Memcached,HOREA,f
+WWW::Session::Storage::MySQL,EVOZON,c
 WWW::Session::Storage::MySQL,HOREA,f
 WWW::SherlockSearch,AUDREYT,c
 WWW::SherlockSearch,AUTRIJUS,m
