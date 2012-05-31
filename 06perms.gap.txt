@@ -834,12 +834,15 @@ Geo::Horizon,MRDVT,f
 Geo::IATA,JMELTZER,m
 Geo::ICAO,JQUELIN,m
 Geo::IP,BORISZ,c
+Geo::IP,DROLSKY,c
 Geo::IP,TJMATHER,m
 Geo::IP2Location,LOCATION,m
 Geo::IP::PurePerl,BORISZ,c
+Geo::IP::PurePerl,DROLSKY,c
 Geo::IP::PurePerl,TJMATHER,f
 Geo::IP::RU::IpGeoBase,RUZ,f
 Geo::IP::Record,BORISZ,c
+Geo::IP::Record,DROLSKY,c
 Geo::IP::Record,TJMATHER,f
 Geo::IPfree,BRICAS,c
 Geo::IPfree,GMPASSOS,f
