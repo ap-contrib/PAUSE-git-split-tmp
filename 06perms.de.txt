@@ -1,4 +1,5 @@
 Devel::TestEmbed,MCMAHON,f
+Devel::ThreadsForks,ELIZABETH,f
 Devel::TimeThis,JOHANL,f
 Devel::Timer,JMOORE,c
 Devel::Timer,SZABGAB,f
