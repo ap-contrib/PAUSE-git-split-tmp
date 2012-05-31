@@ -1077,6 +1077,8 @@ Message::Passing::Input::FileTail,GHENRY,f
 Message::Passing::Input::Freeswitch,BOBTFISH,f
 Message::Passing::Input::Null,BOBTFISH,c
 Message::Passing::Input::Null,GHENRY,f
+Message::Passing::Input::Redis,BOBTFISH,c
+Message::Passing::Input::Redis,GHENRY,f
 Message::Passing::Input::STDIN,BOBTFISH,c
 Message::Passing::Input::STDIN,GHENRY,f
 Message::Passing::Input::STOMP,BOBTFISH,c
@@ -1093,6 +1095,8 @@ Message::Passing::Output::File,BOBTFISH,c
 Message::Passing::Output::File,GHENRY,f
 Message::Passing::Output::Null,BOBTFISH,c
 Message::Passing::Output::Null,GHENRY,f
+Message::Passing::Output::Redis,BOBTFISH,c
+Message::Passing::Output::Redis,GHENRY,f
 Message::Passing::Output::STDOUT,BOBTFISH,c
 Message::Passing::Output::STDOUT,GHENRY,f
 Message::Passing::Output::STOMP,BOBTFISH,c
@@ -1105,6 +1109,12 @@ Message::Passing::Output::WebHooks,BOBTFISH,c
 Message::Passing::Output::WebHooks,GHENRY,f
 Message::Passing::Output::ZeroMQ,BOBTFISH,c
 Message::Passing::Output::ZeroMQ,GHENRY,f
+Message::Passing::Redis,BOBTFISH,c
+Message::Passing::Redis,GHENRY,f
+Message::Passing::Redis::ConnectionManager,BOBTFISH,c
+Message::Passing::Redis::ConnectionManager,GHENRY,f
+Message::Passing::Redis::Role::HasAConnection,BOBTFISH,c
+Message::Passing::Redis::Role::HasAConnection,GHENRY,f
 Message::Passing::Role::CLIComponent,BOBTFISH,c
 Message::Passing::Role::CLIComponent,GHENRY,f
 Message::Passing::Role::ConnectionManager,BOBTFISH,c
