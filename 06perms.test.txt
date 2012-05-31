@@ -204,9 +204,11 @@ Test::Moose,STEVAN,f
 Test::Moose::MockObjectCompile,ZAPHAR,f
 Test::Moose::More,RSRCHBOY,f
 Test::MooseX::Daemonize,ETHER,c
+Test::MooseX::Daemonize,MICHAELR,c
 Test::MooseX::Daemonize,PERIGRIN,f
 Test::MooseX::Daemonize,STEVAN,c
 Test::MooseX::Daemonize::Testable,ETHER,c
+Test::MooseX::Daemonize::Testable,MICHAELR,c
 Test::MooseX::Daemonize::Testable,PERIGRIN,f
 Test::MooseX::Daemonize::Testable,STEVAN,c
 Test::More,MSCHWERN,m
