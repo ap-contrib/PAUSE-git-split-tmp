@@ -191,7 +191,7 @@ Alien::QtSmoke                 4.003003  C/CB/CBUREL/Alien-QtSmoke-4.3.3.tar.gz
 Alien::ROOT                    v5.32.0.2  S/SM/SMUELLER/Alien-ROOT-v5.32.0.2.tar.gz
 Alien::RRDtool                     0.03  G/GF/GFUJI/Alien-RRDtool-0.03.tar.gz
 Alien::scriptaculous            1.8.0.2  G/GT/GTERMARS/Alien-scriptaculous-1.8.0.2.tar.gz
-Alien::SDL                        1.432  F/FR/FROGGS/Alien-SDL-1.432.tar.gz
+Alien::SDL                        1.434  F/FR/FROGGS/Alien-SDL-1.434.tar.gz
 Alien::Selenium                    0.09  D/DO/DOMQ/Alien-Selenium-0.09.tar.gz
 Alien::SeleniumRC                  2.91  H/HI/HISSO/Alien-SeleniumRC-2.91.tar.gz
 Alien::SmokeQt                 4.006000  C/CB/CBUREL/Alien-SmokeQt-4.6.0.4.tar.gz
