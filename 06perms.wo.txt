@@ -677,6 +677,7 @@ Wx::DemoModules::wxPopupWindow::Custom,SZABGAB,c
 Wx::DemoModules::wxPopupWindow::TransientCustom,MBARBON,f
 Wx::DemoModules::wxPopupWindow::TransientCustom,MDOOTSON,c
 Wx::DemoModules::wxPopupWindow::TransientCustom,SZABGAB,c
+Wx::DemoModules::wxPrintPaperDatabase,MDOOTSON,f
 Wx::DemoModules::wxPrinting,MBARBON,f
 Wx::DemoModules::wxPrinting,MDOOTSON,c
 Wx::DemoModules::wxPrinting,SZABGAB,c
