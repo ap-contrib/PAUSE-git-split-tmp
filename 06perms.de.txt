@@ -1049,6 +1049,7 @@ Dist::Surveyor,TIMB,f
 Dist::Zilla,RJBS,f
 Dist::Zilla::App,RJBS,f
 Dist::Zilla::App::Command,RJBS,f
+Dist::Zilla::App::Command::add,RJBS,f
 Dist::Zilla::App::Command::add_header,NPLATONOV,f
 Dist::Zilla::App::Command::authordeps,RJBS,f
 Dist::Zilla::App::Command::build,RJBS,f
