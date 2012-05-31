@@ -1072,7 +1072,6 @@ Devel::NYTProf::ReadStream         4.00  T/TI/TIMB/Devel-NYTProf-4.06.tar.gz
 Devel::NYTProf::Run               undef  T/TI/TIMB/Devel-NYTProf-4.06.tar.gz
 Devel::NYTProf::SubInfo           undef  T/TI/TIMB/Devel-NYTProf-4.06.tar.gz
 Devel::NYTProf::Util               4.00  T/TI/TIMB/Devel-NYTProf-4.06.tar.gz
-Devel::oh                         0.001  T/TO/TOBYINK/Moan-0.001.tar.gz
 Devel::OOCallSeq                  undef  P/PH/PHILCROW/UML-Sequence-0.08.tar.gz
 Devel::Operation                   1.00  G/GL/GLENNWOOD/Devel-Diagram-1.00.tar.gz
 Devel::OpProf                       0.1  M/MI/MICB/DevelOpProf-0.2.tar.gz

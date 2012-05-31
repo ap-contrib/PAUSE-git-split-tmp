@@ -772,7 +772,6 @@ RDF::Crypt::Verifier              0.001  T/TO/TOBYINK/RDF-Crypt-0.001.tar.gz
 RDF::DOAP::ChangeSets             0.202  T/TO/TOBYINK/Module-Install-DOAPChangeSets-0.202.tar.gz
 RDF::Dumper                         0.1  V/VO/VOJ/RDF-Dumper-0.1.tar.gz
 RDF::Endpoint                      0.05  G/GW/GWILLIAMS/RDF-Endpoint-0.05.tar.gz
-RDF::Everywhere                   0.002  T/TO/TOBYINK/RDF-Everywhere-0.002.tar.gz
 RDF::Flow                         0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Cached                 0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Cascade                0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
