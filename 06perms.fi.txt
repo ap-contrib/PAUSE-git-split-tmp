@@ -37,6 +37,7 @@ Filter,MUENALAN,f
 Filter::Arguments,DYLAN,m
 Filter::BoxString,DYLAN,m
 Filter::CBC,BEATNIK,f
+Filter::Cleanup,JEFFOBER,f
 Filter::CommaEquals,GRYPHON,m
 Filter::Comments::C,KOSMO,m
 Filter::Crypto,SHAY,m
