@@ -531,6 +531,7 @@ Data::MessagePack::Boolean,GFUJI,c
 Data::MessagePack::Boolean,TOKUHIROM,f
 Data::MessagePack::PP,GFUJI,c
 Data::MessagePack::PP,TOKUHIROM,f
+Data::MessagePack::Stream,TYPESTER,f
 Data::Microformat,USSJOIN,f
 Data::Microformat::adr,USSJOIN,f
 Data::Microformat::geo,USSJOIN,f
