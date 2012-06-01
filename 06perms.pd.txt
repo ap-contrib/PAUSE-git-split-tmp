@@ -69,10 +69,14 @@ PGXN::Site::Locale::fr,DWHEELER,f
 PGXN::Site::Router,DWHEELER,f
 PGXN::Site::Templates,DWHEELER,f
 PHP,KARASIK,m
+PHP,MOB,c
 PHP::Array,KARASIK,f
+PHP::Array,MOB,c
 PHP::ArrayHandle,KARASIK,f
+PHP::ArrayHandle,MOB,c
 PHP::DateTime,BLUEFEET,f
 PHP::Entity,KARASIK,f
+PHP::Entity,MOB,c
 PHP::Functions::File,TNAGA,f
 PHP::Functions::Mail,YAPPO,f
 PHP::HTTPBuildQuery,MSCHILLI,f
@@ -92,9 +96,11 @@ PHP::Interpreter::Resource,GSCHLOSS,c
 PHP::MySQL_Session,CARCUS,m
 PHP::MySource::Session,HOMSHERD,f
 PHP::Object,KARASIK,f
+PHP::Object,MOB,c
 PHP::Perlinfo,ACCARDO,f
 PHP::Perlinfo::_version,ACCARDO,f
 PHP::PseudoHash,KARASIK,f
+PHP::PseudoHash,MOB,c
 PHP::Serialization,BOBTFISH,c
 PHP::Serialization,JBROWN,f
 PHP::Serialization::Object,BOBTFISH,c
@@ -122,7 +128,9 @@ PHP::Session::Serializer::PHP::State::VarType,HATMAKER,c
 PHP::Session::Serializer::PHP::State::VarType,MIYAGAWA,f
 PHP::Strings,KUDARASP,f
 PHP::TieArray,KARASIK,f
+PHP::TieArray,MOB,c
 PHP::TieHash,KARASIK,f
+PHP::TieHash,MOB,c
 PHP::Var,USUALOMA,f
 PICA::Field,VOJ,f
 PICA::Filemap,VOJ,f

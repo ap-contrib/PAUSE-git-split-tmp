@@ -80,7 +80,6 @@ warnings::register,LBROCARD,c
 warnings::register,NWCLARK,f
 warnings::register,RJBS,c
 warnings::unused,GFUJI,f
-wc,KARASIK,f
 wcenter,SHERWOOD,f
 web,HMATT,f
 web,XWOLF,c
@@ -96,7 +95,6 @@ wind,LARSLUND,f
 with,VPIT,f
 worky,INGY,f
 write,JSMITH,f
-ws,KARASIK,f
 wwwodbc,BJEPS,f
 wxPerl::Constructors,EWILHELM,f
 wxPerl::Constructors::argmap,EWILHELM,f

@@ -92,11 +92,9 @@ iTransact::Lite,RIZEN,f
 iTunes::Sid,BILLH,f
 iTunes::Sid::Atom,BILLH,f
 icrosoft::Word,TOBYINK,f
-ict,KARASIK,f
 if,ILYAZ,f
 ifdef,ELIZABETH,f
 ih,DCMERTENS,f
-im,KARASIK,f
 implementor,ALEXMV,c
 implementor,FALCONE,c
 implementor,JESSE,f
@@ -212,7 +210,6 @@ introspector::XMLParser,MDUPONT,f
 introspector::node_ids,MDUPONT,f
 invoker,CLKAO,f
 iodbc,JMAHAN,f
-is,KARASIK,f
 iservice,RANDYM,f
 item,SFINK,f
 jQuery::Loader,RKRIMEN,c
@@ -251,12 +248,10 @@ judySLPtr,BHOLZMAN,f
 junk,TOBYINK,f
 kalyptusCxxToSmoke,GGARAND,f
 kalyptusDataDict,GGARAND,f
-kb,KARASIK,f
 kdocAstUtil,GGARAND,f
 kdocLib,GGARAND,f
 kdocParseDoc,GGARAND,f
 kdocUtil,GGARAND,f
-km,KARASIK,f
 lambda,EWILHELM,f
 last,DMUEY,f
 last_articles,SFLEX,f
@@ -266,7 +261,6 @@ latest,ANDYA,f
 latest::feature,ANDYA,c
 lb3d,EKAWAS,f
 lb3d,SADI,c
-le,KARASIK,f
 leftFisher,TPEDERSE,f
 legacy,LBROCARD,f
 less,DAPM,c
@@ -329,7 +323,6 @@ lims_interface,CJONES,f
 list,DBEAZLEY,f
 list_versions,ZOFFIX,f
 literal_block,PHILCROW,f
-lj,KARASIK,f
 ll,TPEDERSE,f
 ll3,TPEDERSE,f
 lm,DCMERTENS,f
@@ -374,7 +367,6 @@ log2_heatmap,CJONES,f
 log_file,CJONES,f
 login_menu,SFLEX,f
 loose,MSCHWERN,f
-lp,KARASIK,f
 lvalue,MONS,f
 lvalue::tiecallback,MONS,f
 mGen,CYBER,f
@@ -387,8 +379,6 @@ manager2,HEIKOWU,f
 manor_clone_level,CJONES,f
 mathscript,WSDOOKADR,f
 maybe,DEXTER,f
-mb,KARASIK,f
-mbi,KARASIK,f
 mcoder,SALVA,f
 mcoder::array::calculated,SALVA,f
 mcoder::array::get,SALVA,f
@@ -456,7 +446,6 @@ mro,JESSE,c
 mro,LBROCARD,c
 mro,RGARCIA,f
 mro,RJBS,c
-mt,KARASIK,f
 mt_1536,CJONES,f
 mt_384,CJONES,f
 mt_96,CJONES,f
@@ -539,7 +528,6 @@ nginx,ZZZ,f
 node,PERRAD,f
 nonsense,JROCKWAY,f
 nosite,SHUCAO,f
-nt,KARASIK,f
 number,ABERGMAN,f
 nvidia::ml,NVBINDING,f
 nvidia::ml::bindings,NVBINDING,f
