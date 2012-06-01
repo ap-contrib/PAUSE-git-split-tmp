@@ -426,7 +426,7 @@ IPA::Misc                          1.01  K/KA/KARASIK/IPA-1.08.tar.gz
 IPA::Morphology                    0.02  K/KA/KARASIK/IPA-1.08.tar.gz
 IPA::Point                         0.02  K/KA/KARASIK/IPA-1.08.tar.gz
 IPA::Region                       undef  K/KA/KARASIK/IPA-1.08.tar.gz
-IPC::AnyEvent::Gearman              0.6  K/KH/KHS/IPC-AnyEvent-Gearman-0.6.tar.gz
+IPC::AnyEvent::Gearman              0.7  K/KH/KHS/IPC-AnyEvent-Gearman-0.7.tar.gz
 IPC::Cache                         0.02  D/DC/DCLINTON/IPC-Cache-0.02.tar.gz
 IPC::Capture                       0.06  D/DO/DOOM/IPC-Capture-0.06.tar.gz
 IPC::Cmd                           0.78  B/BI/BINGOS/IPC-Cmd-0.78.tar.gz
