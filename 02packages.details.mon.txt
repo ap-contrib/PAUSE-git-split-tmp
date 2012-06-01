@@ -446,9 +446,9 @@ MooseX::Aliases::Meta::Trait::Role::ApplicationToRole 0.10  D/DO/DOY/MooseX-Alia
 MooseX::Aliases::Meta::Trait::Role::Composite 0.10  D/DO/DOY/MooseX-Aliases-0.10.tar.gz
 MooseX::Alien                      1.01  G/GB/GBARR/MooseX-Alien-1.01.tar.gz
 MooseX::Alien::Meta                1.01  G/GB/GBARR/MooseX-Alien-1.01.tar.gz
-MooseX::AlwaysCoerce               0.16  E/ET/ETHER/MooseX-AlwaysCoerce-0.16.tar.gz
-MooseX::AlwaysCoerce::Role::Meta::Attribute undef  E/ET/ETHER/MooseX-AlwaysCoerce-0.16.tar.gz
-MooseX::AlwaysCoerce::Role::Meta::Class undef  E/ET/ETHER/MooseX-AlwaysCoerce-0.16.tar.gz
+MooseX::AlwaysCoerce               0.16  E/ET/ETHER/MooseX-AlwaysCoerce-0.17.tar.gz
+MooseX::AlwaysCoerce::Role::Meta::Attribute 0.16  E/ET/ETHER/MooseX-AlwaysCoerce-0.17.tar.gz
+MooseX::AlwaysCoerce::Role::Meta::Class 0.16  E/ET/ETHER/MooseX-AlwaysCoerce-0.17.tar.gz
 MooseX::amine                       0.3  G/GE/GENEHACK/MooseX-amine-0.3.tar.gz
 MooseX::APIRole                    0.01  J/JR/JROCKWAY/MooseX-APIRole-0.01.tar.gz
 MooseX::APIRole::Internals         0.01  J/JR/JROCKWAY/MooseX-APIRole-0.01.tar.gz
