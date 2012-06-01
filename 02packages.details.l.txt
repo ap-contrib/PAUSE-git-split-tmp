@@ -549,11 +549,11 @@ Locator                           undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
 Locator::BinScripts               undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
 Locator::Concat                   undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
 Lockable                           0.03  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
-LockFile::Lock                    undef  J/JV/JV/LockFile-Simple-0.207.tar.gz
-LockFile::Lock::Simple            undef  J/JV/JV/LockFile-Simple-0.207.tar.gz
-LockFile::Manager                 undef  J/JV/JV/LockFile-Simple-0.207.tar.gz
+LockFile::Lock                    undef  S/SC/SCHWIGON/lockfile-simple/LockFile-Simple-0.208.tar.gz
+LockFile::Lock::Simple            undef  S/SC/SCHWIGON/lockfile-simple/LockFile-Simple-0.208.tar.gz
+LockFile::Manager                 undef  S/SC/SCHWIGON/lockfile-simple/LockFile-Simple-0.208.tar.gz
 LockFile::NetLock                  0.32  R/RO/RONALDWS/LockFile-NetLock-0.32.tar.gz
-LockFile::Simple                  0.207  J/JV/JV/LockFile-Simple-0.207.tar.gz
+LockFile::Simple                  0.208  S/SC/SCHWIGON/lockfile-simple/LockFile-Simple-0.208.tar.gz
 LocusLinkAccessor                     1  L/LD/LDS/Boulder-1.30.tar.gz
 log2_heatmap                        1.5  C/CJ/CJONES/Microarray-0.45c.zip
 Log4Perl::ImportHandle             0.03  A/AH/AHERNIT/Log4Perl-ImportHandle-0.03.tar.gz
