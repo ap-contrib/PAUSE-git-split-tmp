@@ -149,6 +149,7 @@ PICA::Webcat,VOJ,f
 PICA::Writer,VOJ,f
 PICA::XMLParser,VOJ,f
 PICA::XMLWriter,VOJ,f
+PID::File,CAGAO,f
 PITA,ADAMK,f
 PITA::Guest,ADAMK,f
 PITA::Guest::Driver,ADAMK,f
