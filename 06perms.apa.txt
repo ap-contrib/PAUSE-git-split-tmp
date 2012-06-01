@@ -265,9 +265,11 @@ App::AltSQL::Plugin::Dump::Format::yaml,EWATERS,f
 App::AltSQL::Plugin::Tail,EWATERS,f
 App::AltSQL::Role,EWATERS,f
 App::AltSQL::Term,EWATERS,f
+App::AltSQL::Term::Plugin::SyntaxHighlight,EWATERS,f
 App::AltSQL::View,EWATERS,f
 App::AltSQL::View::Plugin::Color,EWATERS,f
 App::AltSQL::View::Plugin::UnicodeBox,EWATERS,f
+App::AltSQL::View::Plugin::VerticalSorted,EWATERS,f
 App::Anarch,SPROUT,m
 App::ArchiveDevelCover,DOMM,f
 App::Asciio,NKH,f
