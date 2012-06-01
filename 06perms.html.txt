@@ -1588,6 +1588,7 @@ HTTP::Server::EV::IO::Blocking,NYAKNYAN,f
 HTTP::Server::EV::MultipartFile,NYAKNYAN,f
 HTTP::Server::EV::PortListener,NYAKNYAN,f
 HTTP::Server::Encrypt,CHENGANG,f
+HTTP::Server::Encrypt::CGI,CHENGANG,f
 HTTP::Server::Multiplex,MARKOV,f
 HTTP::Server::PSGI,MIYAGAWA,f
 HTTP::Server::PSGI::Net::Server::PreFork,MIYAGAWA,f

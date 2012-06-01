@@ -199,6 +199,14 @@ Reddit::API::Link,JEFFOBER,f
 Reddit::API::SubReddit,JEFFOBER,f
 Reddit::API::Thing,JEFFOBER,f
 Reddit::API::VotableThing,JEFFOBER,f
+Reddit::Client,JEFFOBER,f
+Reddit::Client::Account,JEFFOBER,f
+Reddit::Client::Comment,JEFFOBER,f
+Reddit::Client::Link,JEFFOBER,f
+Reddit::Client::Request,JEFFOBER,f
+Reddit::Client::SubReddit,JEFFOBER,f
+Reddit::Client::Thing,JEFFOBER,f
+Reddit::Client::VotableThing,JEFFOBER,f
 Reddit::Type::User,JON,f
 Redirect,DYACOB,f
 Redirx::Client,IX,f
