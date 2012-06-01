@@ -353,13 +353,6 @@ Exception::Warning               0.0401  D/DE/DEXTER/Exception-Warning-0.0401.ta
 Exceptions                        undef  P/PS/PSEIBEL/Exceptions-0.01.tar.gz
 ExecCmds                            1.1  M/MA/MARKPF/cisco/Cisco-ShowIPRoute-Parser-1.02.tar.gz
 ExecCmds::Utility                   1.1  M/MA/MARKPF/cisco/Cisco-ShowIPRoute-Parser-1.02.tar.gz
-Execution::DBI                    undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
-Execution::Executable             undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
-Execution::LinuxSysStatistics     undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
-Execution::Perl                   undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
-Execution::RemoteCommand          undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
-Execution::SNMP                   undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
-Execution::URL                    undef  D/DA/DANFRU/MonitisMonitorManager-3.1.tar.gz
 Exherbo::Packager                 undef  W/WO/WORR/Exherbo-Packager-1.121290.tar.gz
 EXIF                               0.22  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.22.tar.gz
 Exim::SpoolMessage                 0.04  K/KI/KIRILLM/Exim-SpoolMessage-0.04.tgz

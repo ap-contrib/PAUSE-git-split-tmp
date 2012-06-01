@@ -854,7 +854,6 @@ RDF::Query::Algebra::Construct    2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Copy         2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Create       2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Distinct     2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
-RDF::Query::Algebra::Exists       2.902  G/GW/GWILLIAMS/RDF-Query-2.902.tar.gz
 RDF::Query::Algebra::Extend       2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Filter       2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::GroupGraphPattern 2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
@@ -863,7 +862,6 @@ RDF::Query::Algebra::Load         2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Minus        2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Move         2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::NamedGraph   2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
-RDF::Query::Algebra::Not          2.902  G/GW/GWILLIAMS/RDF-Query-2.902.tar.gz
 RDF::Query::Algebra::Offset       2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Optional     2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra::Path         2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
@@ -934,7 +932,6 @@ RDF::Query::Plan::Constant        2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Construct       2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Copy            2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Distinct        2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
-RDF::Query::Plan::Exists          2.902  G/GW/GWILLIAMS/RDF-Query-2.902.tar.gz
 RDF::Query::Plan::Extend          2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Filter          2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Iterator        2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
@@ -948,7 +945,6 @@ RDF::Query::Plan::Load            2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Minus           2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Move            2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::NamedGraph      2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
-RDF::Query::Plan::Not             2.902  G/GW/GWILLIAMS/RDF-Query-2.902.tar.gz
 RDF::Query::Plan::Offset          2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Path            2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Plan::Project         2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
