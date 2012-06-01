@@ -334,7 +334,7 @@ App::AltSQL::View::Plugin::Color      0  E/EW/EWATERS/App-AltSQL-0.05.tar.gz
 App::AltSQL::View::Plugin::UnicodeBox 0  E/EW/EWATERS/App-AltSQL-0.05.tar.gz
 App::AltSQL::View::Plugin::VerticalSorted 0  E/EW/EWATERS/App-AltSQL-0.05.tar.gz
 App::Anarch                        0.04  S/SP/SPROUT/anarch-0.04.tar.gz
-App::ArchiveDevelCover            1.000  D/DO/DOMM/App-ArchiveDevelCover-1.000.tar.gz
+App::ArchiveDevelCover            1.001  D/DO/DOMM/App-ArchiveDevelCover-1.001.tar.gz
 App::Asciio                        1.02  N/NK/NKH/App-Asciio-1.02.71.tar.gz
 App::Asciio::stripes::editable_arrow2 undef  N/NK/NKH/App-Asciio-1.02.71.tar.gz
 App::Asciio::stripes::editable_box2 undef  N/NK/NKH/App-Asciio-1.02.71.tar.gz
