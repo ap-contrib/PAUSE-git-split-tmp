@@ -236,6 +236,7 @@ Redis::hiredis,NEOPHENIX,m
 RedisDB,ZWON,m
 RedisDB::Error,ZWON,f
 RedisDB::Parse::Redis,ZWON,f
+RedisWithAuthSupport,CELOGEEK,f
 Ref,MUIR,m
 Ref::Explicit,PSHANGOV,f
 Ref::List,PSHANGOV,f
