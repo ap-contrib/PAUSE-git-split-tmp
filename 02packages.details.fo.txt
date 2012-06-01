@@ -348,7 +348,7 @@ FrameNet::WordNet::Detour           1.1  R/RE/REITER/FrameNet-WordNet-Detour-1.1
 FrameNet::WordNet::Detour::Data    0.99  R/RE/REITER/FrameNet-WordNet-Detour-1.1.tar.gz
 FrameNet::WordNet::Detour::Frame   0.99  R/RE/REITER/FrameNet-WordNet-Detour-1.1.tar.gz
 FreeBSD::i386::Ptrace              0.03  D/DA/DANKOGAI/FreeBSD-i386-Ptrace-0.03.tar.gz
-FreeBSD::Pkgs                  0.001002  V/VV/VVELOX/FreeBSD-Pkgs-0.1.2.tar.gz
+FreeBSD::Pkgs                  0.002000  V/VV/VVELOX/FreeBSD-Pkgs-0.2.0.tar.gz
 FreeBSD::Pkgs::FindUpdates     0.002001  V/VV/VVELOX/FreeBSD-Pkgs-FindUpdates-0.2.1.tar.gz
 FreeBSD::Ports                      0.0  V/VV/VVELOX/FreeBSD-Ports-0.0.0.tar.gz
 FreeBSD::Ports::INDEXhash      1.002002  V/VV/VVELOX/FreeBSD-Ports-INDEXhash-1.2.2.tar.gz
