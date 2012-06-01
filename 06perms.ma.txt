@@ -546,6 +546,8 @@ Math::Int32,HOOO,f
 Math::Int64,SALVA,f
 Math::Int64::C_API::Sample,SALVA,f
 Math::Int64::Native,SALVA,f
+Math::Int64::die_on_overflow,SALVA,f
+Math::Int64::native_if_available,SALVA,f
 Math::Integral::Romberg,BOESCH,f
 Math::Interpolate,BZAJAC,f
 Math::Interpolator,ZEFRAM,m
