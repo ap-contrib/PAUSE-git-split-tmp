@@ -1240,6 +1240,7 @@ Tk::IFrame                         0.03  S/SR/SREZIC/Tk-GBARR-2.08.tar.gz
 Tk::Image                         4.011  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::Image::Calculation             0.04  K/KN/KNORR/Tk-Image-Calculation-0.04.tar.gz
 Tk::Image::Cut                     0.07  K/KN/KNORR/Tk-Image-Cut-0.07.tar.gz
+Tk::ImageBack                     5.000  S/SR/SREZIC/Acme-SREZIC-Obsolete-0.02.tar.gz
 Tk::InputO                        4.004  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::install                       4.004  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::IO                            4.005  S/SR/SREZIC/Tk-804.030.tar.gz
@@ -1292,7 +1293,7 @@ Tk::Menu                          4.023  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::Menu::Button                  4.005  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::Menu::Cascade                 4.005  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::Menu::Checkbutton             4.005  S/SR/SREZIC/Tk-804.030.tar.gz
-Tk::Menu::Command                 3.018  N/NI/NI-S/Tk800.015.tar.gz
+Tk::Menu::Command                 4.000  S/SR/SREZIC/Acme-SREZIC-Obsolete-0.02.tar.gz
 Tk::Menu::Item                    4.005  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::Menu::Radiobutton             4.005  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::Menu::Separator               4.005  S/SR/SREZIC/Tk-804.030.tar.gz
