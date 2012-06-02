@@ -407,7 +407,7 @@ Parallel::Benchmark                0.04  F/FU/FUJIWARA/Parallel-Benchmark-0.04.t
 Parallel::Depend               4.000008  L/LE/LEMBARK/Parallel-Depend-v4.10.1.tar.gz
 Parallel::Depend::Queue        1.002000  L/LE/LEMBARK/Parallel-Depend-v4.10.1.tar.gz
 Parallel::Depend::Util             1.02  L/LE/LEMBARK/Parallel-Depend-v4.10.1.tar.gz
-Parallel::Downloader           0.120120  M/MI/MITHALDU/Parallel-Downloader-0.120120.tar.gz
+Parallel::Downloader           0.121540  M/MI/MITHALDU/Parallel-Downloader-0.121540.tar.gz
 Parallel::Fork::BossWorker         0.05  T/TW/TWILDE/Parallel-Fork-BossWorker-0.05.tar.gz
 Parallel::Fork::BossWorkerAsync    0.06  J/JV/JVANNUCCI/Parallel-Fork-BossWorkerAsync-0.06.tar.gz
 Parallel::ForkControl               0.5  B/BL/BLHOTSKY/Parallel-ForkControl-0.5.tar.gz
