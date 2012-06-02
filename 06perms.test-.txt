@@ -1021,9 +1021,12 @@ Text::APL,VTI,f
 Text::APL::Base,VTI,f
 Text::APL::Compiler,VTI,f
 Text::APL::Context,VTI,f
+Text::APL::Core,VTI,f
 Text::APL::Parser,VTI,f
 Text::APL::Reader,VTI,f
+Text::APL::Reader::AIO,VTI,f
 Text::APL::Translator,VTI,f
+Text::APL::WithCaching,VTI,f
 Text::APL::Writer,VTI,f
 Text::ASCIIMathML,NODINE,m
 Text::ASCIIMathML::Node,NODINE,f
