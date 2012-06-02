@@ -1509,6 +1509,7 @@ MooseX::App::Cmd::Command,SARTAK,c
 MooseX::App::Cmd::Command,STEVAN,c
 MooseX::App::Cmd::Command::BashComplete,KJELLM,f
 MooseX::App::Command,MAROS,f
+MooseX::App::Common,MAROS,f
 MooseX::App::Message::Block,MAROS,f
 MooseX::App::Message::BlockColor,MAROS,f
 MooseX::App::Message::Envelope,MAROS,f
