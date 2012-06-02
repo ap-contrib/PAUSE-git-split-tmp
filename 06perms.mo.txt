@@ -574,6 +574,8 @@ Moose::Meta::Attribute::Custom::Number,NUFFIN,c
 Moose::Meta::Attribute::Custom::Number,SARTAK,c
 Moose::Meta::Attribute::Custom::Number,STEVAN,f
 Moose::Meta::Attribute::Custom::Trait::App::Tags,MAROS,f
+Moose::Meta::Attribute::Custom::Trait::AppBase,MAROS,f
+Moose::Meta::Attribute::Custom::Trait::AppOption,MAROS,f
 Moose::Meta::Attribute::Custom::Trait::AttributeDisplayDefaults,DCHESTER,f
 Moose::Meta::Attribute::Custom::Trait::AutoDestruct,RSRCHBOY,f
 Moose::Meta::Attribute::Custom::Trait::AutoIncrement,JHALLOCK,f
@@ -1511,6 +1513,8 @@ MooseX::App::Message::Block,MAROS,f
 MooseX::App::Message::BlockColor,MAROS,f
 MooseX::App::Message::Envelope,MAROS,f
 MooseX::App::Meta::Role::Attribute,MAROS,f
+MooseX::App::Meta::Role::Attribute::Base,MAROS,f
+MooseX::App::Meta::Role::Attribute::Option,MAROS,f
 MooseX::App::Meta::Role::Class::Base,MAROS,f
 MooseX::App::Meta::Role::Class::Command,MAROS,f
 MooseX::App::Null,MAROS,f
@@ -1520,7 +1524,9 @@ MooseX::App::Plugin::BashCompletion::Meta::Class,MAROS,f
 MooseX::App::Plugin::Color,MAROS,f
 MooseX::App::Plugin::Color::Meta::Class,MAROS,f
 MooseX::App::Plugin::Config,MAROS,f
+MooseX::App::Plugin::Config::Meta::Class,MAROS,f
 MooseX::App::Plugin::ConfigHome,MAROS,f
+MooseX::App::Plugin::ConfigHome::Meta::Class,MAROS,f
 MooseX::App::Role,MAROS,f
 MooseX::App::Utils,MAROS,f
 MooseX::Async,ETHER,c
