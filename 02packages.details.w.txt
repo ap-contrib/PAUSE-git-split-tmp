@@ -446,8 +446,8 @@ WWW::Contact::Rediffmail           0.30  F/FA/FAYLAND/WWW-Contact-0.47.tar.gz
 WWW::Contact::Yahoo                0.45  F/FA/FAYLAND/WWW-Contact-0.47.tar.gz
 WWW::CookieRecipesNet            0.0101  Z/ZO/ZOFFIX/WWW-CookieRecipesNet-0.0101.tar.gz
 WWW::Correios::CEP                 0.03  R/RE/RENTOCRON/WWW-Correios-CEP-0.03.tar.gz
-WWW::Correios::SRO                 0.03  G/GA/GARU/WWW-Correios-SRO-0.03.tar.gz
-WWW::Correios::SRO::Item           0.03  G/GA/GARU/WWW-Correios-SRO-0.03.tar.gz
+WWW::Correios::SRO                 0.04  G/GA/GARU/WWW-Correios-SRO-0.04.tar.gz
+WWW::Correios::SRO::Item           0.04  G/GA/GARU/WWW-Correios-SRO-0.04.tar.gz
 WWW::CPAN                         0.011  F/FE/FERREIRA/WWW-CPAN-0.011.tar.gz
 WWW::CPANRatings                   0.03  C/CO/CORNELIUS/WWW-CPANRatings-0.03.tar.gz
 WWW::CPANRatings::RSS            0.0304  Z/ZO/ZOFFIX/WWW-CPANRatings-RSS-0.0304.tar.gz
