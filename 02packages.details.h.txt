@@ -392,7 +392,7 @@ Image::Base::X11::Protocol::Picture  13  K/KR/KRYDE/Image-Base-X11-Protocol-13.t
 Image::Base::X11::Protocol::Pixmap   13  K/KR/KRYDE/Image-Base-X11-Protocol-13.tar.gz
 Image::Base::X11::Protocol::Window   13  K/KR/KRYDE/Image-Base-X11-Protocol-13.tar.gz
 Image::BioChrome                   1.16  S/SA/SAM/Image-BioChrome-1.16.tar.gz
-Image::BMP                         1.16  D/DA/DAVEOLA/Image/Image-BMP-1.16.tar.gz
+Image::BMP                         1.17  D/DA/DAVEOLA/Image/Image-BMP-1.17.tar.gz
 Image::BoxModel                    0.50  M/MB/MBP/Image-BoxModel-0.50.tar.gz
 Image::BoxModel::Backend::GD      undef  M/MB/MBP/Image-BoxModel-0.50.tar.gz
 Image::BoxModel::Backend::IM      undef  M/MB/MBP/Image-BoxModel-0.50.tar.gz
