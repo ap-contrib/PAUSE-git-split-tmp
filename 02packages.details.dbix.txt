@@ -1009,7 +1009,7 @@ Devel::Loading                     0.01  S/SA/SARTAK/Devel-Loading-0.01.tar.gz
 Devel::Local                       0.16  I/IN/INGY/Devel-Local-0.16.tar.gz
 Devel::Local::PATH                undef  I/IN/INGY/Devel-Local-0.15.tar.gz
 Devel::Local::PERL5LIB            undef  I/IN/INGY/Devel-Local-0.15.tar.gz
-Devel::MaintBlead                  0.01  E/EL/ELIZABETH/Devel-MaintBlead-0.01.tar.gz
+Devel::MaintBlead                  0.02  E/EL/ELIZABETH/Devel-MaintBlead-0.02.tar.gz
 Devel::Mallinfo                      12  K/KR/KRYDE/Devel-Mallinfo-12.tar.gz
 Devel::Maypole                      0.2  D/DA/DAVEBAIRD/Devel-Maypole-0.2.tar.gz
 Devel::Maypole::Tests             undef  D/DA/DAVEBAIRD/Devel-Maypole-0.2.tar.gz
