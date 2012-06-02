@@ -9,6 +9,7 @@ POE::Component::IRC::Plugin::URI::Find 1.10  B/BI/BINGOS/POE-Component-IRC-Plugi
 POE::Component::IRC::Plugin::Validator::CSS 0.02  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-Validator-CSS-0.02.tar.gz
 POE::Component::IRC::Plugin::Validator::HTML 0.002  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-Validator-HTML-0.002.tar.gz
 POE::Component::IRC::Plugin::Whois 6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz
+POE::Component::IRC::Plugin::WubWubWub 0.01  S/SI/SIRMXE/POE-Component-IRC-Plugin-WubWubWub-0.01.tar.gz
 POE::Component::IRC::Plugin::WWW::Alexa::TrafficRank 0.0101  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-WWW-Alexa-TrafficRank-0.0101.tar.gz
 POE::Component::IRC::Plugin::WWW::Cache::Google 0.0101  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-WWW-Cache-Google-0.0101.tar.gz
 POE::Component::IRC::Plugin::WWW::CPAN 0.0101  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-WWW-CPAN-0.0101.tar.gz
