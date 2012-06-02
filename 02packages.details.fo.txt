@@ -177,7 +177,6 @@ Formatter::HTML::MPS                0.4  V/VE/VETLER/Formatter-HTML-MPS-0.4.tar.
 Formatter::HTML::MPS::OutputFormats 0.2  V/VE/VETLER/Formatter-HTML-MPS-0.4.tar.gz
 Formatter::HTML::Preformatted      0.95  K/KJ/KJETILK/Formatter-HTML-Preformatted-0.95.tar.gz
 Formatter::HTML::Textile           1.02  K/KJ/KJETILK/Formatter-HTML-Textile-1.02.tar.gz
-FormInput                         undef  J/JO/JONADAB/resched-0.7.8.zip
 forms_plugin                      undef  N/NE/NES/Nes-1.03.tar.gz
 FormValidator::LazyWay             0.19  T/TA/TARO/FormValidator-LazyWay-0.19.tar.gz
 FormValidator::LazyWay::Filter    undef  T/TA/TARO/FormValidator-LazyWay-0.19.tar.gz
