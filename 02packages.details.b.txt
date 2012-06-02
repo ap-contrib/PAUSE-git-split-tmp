@@ -620,7 +620,7 @@ Business::ISBN::Data           20081208  B/BD/BDFOY/Business-ISBN-Data-20081208.
 Business::ISIN                     0.20  D/DI/DIVEC/Business-ISIN-0.20.tgz
 Business::ISMN                     1.11  B/BD/BDFOY/Business-ISMN-1.11.tar.gz
 Business::ISSN                     0.91  B/BD/BDFOY/Business-ISSN-0.91.tar.gz
-Business::KontoCheck                4.0  M/MI/MICHEL/Business-KontoCheck-4.0.tar.gz
+Business::KontoCheck                4.1  M/MI/MICHEL/Business-KontoCheck-4.1.tar.gz
 Business::LCCN                     1.01  A/AN/ANIRVAN/Business-LCCN-1.01.tar.gz
 Business::LiveDrive                0.01  C/CL/CLIFFORDJ/Business-LiveDrive-0.01.tar.gz
 Business::MaxMind::CreditCardFraudDetection 1.51  B/BO/BORISZ/Business-MaxMind-1.51.tar.gz
