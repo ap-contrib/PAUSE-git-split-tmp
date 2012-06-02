@@ -34,7 +34,7 @@ filex                             undef  S/SA/SAMPO/zxid-1.01.tgz
 Filter::Arguments                  0.14  D/DY/DYLAN/Filter-Arguments-0.14.tar.gz
 Filter::BoxString                  0.05  D/DY/DYLAN/Filter-BoxString-0.05.tar.gz
 Filter::CBC                        0.10  B/BE/BEATNIK/Filter-CBC-0.10.tar.gz
-Filter::Cleanup                    0.01  J/JE/JEFFOBER/Filter-Cleanup-0.01.tar.gz
+Filter::Cleanup                    0.02  J/JE/JEFFOBER/Filter-Cleanup-0.02.tar.gz
 Filter::CommaEquals                0.01  G/GR/GRYPHON/Filter-CommaEquals-0.01.tar.gz
 Filter::cpp                        1.43  R/RU/RURBAN/Filter-1.43.tar.gz
 Filter::Crypto                     2.00  S/SH/SHAY/Filter-Crypto-2.00.tar.gz
