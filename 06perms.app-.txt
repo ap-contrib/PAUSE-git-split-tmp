@@ -237,6 +237,12 @@ App::grindperl,DAGOLDEN,f
 App::highlight,KAORU,f
 App::htmlcat,MOTEMEN,f
 App::iTan,MAROS,f
+App::iTan::Command::Delete,MAROS,f
+App::iTan::Command::Get,MAROS,f
+App::iTan::Command::Import,MAROS,f
+App::iTan::Command::Info,MAROS,f
+App::iTan::Command::List,MAROS,f
+App::iTan::Command::Reset,MAROS,f
 App::iTan::Command::delete,MAROS,f
 App::iTan::Command::get,MAROS,f
 App::iTan::Command::import,MAROS,f
