@@ -120,7 +120,7 @@ Mail::SPF::ETermIPv6PrefixLengthExpected undef  J/JM/JMEHNLE/mail-spf/Mail-SPF-v
 Mail::SPF::EUnexpectedTermObject  undef  J/JM/JMEHNLE/mail-spf/Mail-SPF-v2.8.0.tar.gz
 Mail::SPF::Exception              undef  J/JM/JMEHNLE/mail-spf/Mail-SPF-v2.8.0.tar.gz
 Mail::SPF::GlobalMod              undef  J/JM/JMEHNLE/mail-spf/Mail-SPF-v2.8.0.tar.gz
-Mail::SPF::Iterator                1.10  S/SU/SULLR/Mail-SPF-Iterator-1.10.tar.gz
+Mail::SPF::Iterator                1.11  S/SU/SULLR/Mail-SPF-Iterator-1.11.tar.gz
 Mail::SPF::MacroString            undef  J/JM/JMEHNLE/mail-spf/Mail-SPF-v2.8.0.tar.gz
 Mail::SPF::Mech                   undef  J/JM/JMEHNLE/mail-spf/Mail-SPF-v2.8.0.tar.gz
 Mail::SPF::Mech::A                undef  J/JM/JMEHNLE/mail-spf/Mail-SPF-v2.8.0.tar.gz
