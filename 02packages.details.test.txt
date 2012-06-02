@@ -1121,7 +1121,7 @@ Text::Levenshtein::Damerau         0.02  U/UG/UGEXE/Text-Levenshtein-Damerau-0.0
 Text::LevenshteinXS                0.03  J/JG/JGOLDBERG/Text-LevenshteinXS-0.03.tar.gz
 Text::Ligature                     0.02  P/PA/PATCH/Text-Ligature-0.02.tar.gz
 Text::LineEditor                   0.03  G/GO/GOSSAMER/Text-LineEditor-0.03.tar.gz
-Text::LineFold                  2012.04  N/NE/NEZUMI/Unicode-LineBreak-2012.04.tar.gz
+Text::LineFold                  2012.04  N/NE/NEZUMI/Unicode-LineBreak-2012.06.tar.gz
 Text::LineNumber                   0.02  J/JN/JNW/Text-LineNumber-0.02.tar.gz
 Text::Livedoor::Wiki               0.02  P/PO/POLOCKY/Text-Livedoor-Wiki-0.02.tar.gz
 Text::Livedoor::Wiki::Block       undef  P/PO/POLOCKY/Text-Livedoor-Wiki-0.02.tar.gz

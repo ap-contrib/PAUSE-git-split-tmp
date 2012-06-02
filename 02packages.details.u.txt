@@ -142,7 +142,7 @@ Unicode::Emoji::SoftBank::XML::e   0.03  K/KA/KAWASAKI/Unicode-Emoji-E4U-0.03.ta
 Unicode::Emoji::Unicode::Emoji     0.03  K/KA/KAWASAKI/Unicode-Emoji-E4U-0.03.tar.gz
 Unicode::Escape                0.000002  I/IT/ITWARRIOR/Unicode-Escape-0.0.2.tar.gz
 Unicode::Fraction                 undef  R/RJ/RJH/Unicode-Fraction-0.2.tar.gz
-Unicode::GCString               2012.04  N/NE/NEZUMI/Unicode-LineBreak-2012.04.tar.gz
+Unicode::GCString               2012.04  N/NE/NEZUMI/Unicode-LineBreak-2012.06.tar.gz
 Unicode::ICU::Collator            0.002  T/TO/TONYC/Unicode-ICU-Collator-0.002.tar.gz
 Unicode::Indic::Bengali            0.01  S/SY/SYAMAL/Unicode-Indic-0.01.tar.gz
 Unicode::Indic::Devanagari         0.01  S/SY/SYAMAL/Unicode-Indic-0.01.tar.gz
@@ -158,7 +158,7 @@ Unicode::Indic::Translate          0.01  S/SY/SYAMAL/Unicode-Indic-0.01.tar.gz
 Unicode::Japanese                  0.49  H/HI/HIO/Unicode-Japanese-0.49.tar.gz
 Unicode::Japanese::PurePerl        0.49  H/HI/HIO/Unicode-Japanese-0.49.tar.gz
 Unicode::Japanese::Symbol          0.49  H/HI/HIO/Unicode-Japanese-0.49.tar.gz
-Unicode::LineBreak              2012.04  N/NE/NEZUMI/Unicode-LineBreak-2012.04.tar.gz
+Unicode::LineBreak              2012.06  N/NE/NEZUMI/Unicode-LineBreak-2012.06.tar.gz
 Unicode::Lite                      0.12  A/AM/AMICHAUER/Unicode-Lite-0.12.tar.gz
 Unicode::Map                      0.112  M/MS/MSCHWARTZ/Unicode-Map-0.112.tar.gz
 Unicode::Map8                      0.13  G/GA/GAAS/Unicode-Map8-0.13.tar.gz
