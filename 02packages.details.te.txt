@@ -212,7 +212,7 @@ Thread::Queue                      2.12  J/JD/JDHEDDEN/Thread-Queue-2.12.tar.gz
 Thread::Queue::Any                 1.09  E/EL/ELIZABETH/Thread-Queue-Any-1.09.tar.gz
 Thread::Queue::Any::Monitored      0.09  E/EL/ELIZABETH/Thread-Queue-Any-Monitored-0.09.tar.gz
 Thread::Queue::Duplex              0.92  D/DA/DARNOLD/Thread-Queue-Duplex-0.92.tar.gz
-Thread::Queue::Monitored           1.01  E/EL/ELIZABETH/Thread-Queue-Monitored-1.01.tar.gz
+Thread::Queue::Monitored           1.02  E/EL/ELIZABETH/Thread-Queue-Monitored-1.02.tar.gz
 Thread::Queue::Multiplex           0.92  D/DA/DARNOLD/Thread-Queue-Multiplex-0.92.tar.gz
 Thread::Queue::Queueable           0.90  D/DA/DARNOLD/Thread-Queue-Duplex-0.92.tar.gz
 Thread::Queue::TQDContainer       undef  D/DA/DARNOLD/Thread-Queue-Duplex-0.92.tar.gz
