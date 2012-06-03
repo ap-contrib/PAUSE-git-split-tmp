@@ -920,7 +920,7 @@ Array::OrdHash::_util              1.03  W/WO/WOWASURIN/Array-OrdHash-1.03.tar.g
 Array::Parallel                     .01  W/WI/WILL/Array-Sort-0.02.tar.gz
 Array::PatternMatcher              0.04  T/TB/TBONE/Array-PatternMatcher-0.04.tar.gz
 Array::PrintCols                  undef  A/AK/AKSTE/Array-PrintCols-2.1.tar.gz
-Array::PseudoScalar                1.00  D/DA/DAMI/Array-PseudoScalar-1.00.tar.gz
+Array::PseudoScalar                1.01  D/DA/DAMI/Array-PseudoScalar-1.01.tar.gz
 Array::RefElem                     1.00  G/GA/GAAS/Array-RefElem-1.00.tar.gz
 Array::Shuffle                     0.03  S/SA/SALVA/Array-Shuffle-0.03.tar.gz
 Array::Slice                       0.03  K/KA/KARASIK/Array-Slice-0.03.tar.gz
