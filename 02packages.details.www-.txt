@@ -449,7 +449,6 @@ Wx::ActiveX::Template              0.15  M/MD/MDOOTSON/Wx-ActiveX-0.16.tar.gz
 Wx::ActiveX::Template::App         0.15  M/MD/MDOOTSON/Wx-ActiveX-0.16.tar.gz
 Wx::ActiveX::Template::CodeControl 0.15  M/MD/MDOOTSON/Wx-ActiveX-0.16.tar.gz
 Wx::ActiveX::Template::CodePanel   0.15  M/MD/MDOOTSON/Wx-ActiveX-0.16.tar.gz
-Wx::ActiveX::Template::Lang        0.11  M/MD/MDOOTSON/Wx-ActiveX-0.12.tar.gz
 Wx::ActiveX::Template::MainWindow  0.15  M/MD/MDOOTSON/Wx-ActiveX-0.16.tar.gz
 Wx::ActiveX::WMPlayer              0.15  M/MD/MDOOTSON/Wx-ActiveX-0.16.tar.gz
 Wx::ActiveXEvent                   0.16  M/MD/MDOOTSON/Wx-ActiveX-0.16.tar.gz
