@@ -1446,7 +1446,8 @@ Dist::Zilla::Plugin::ReportPhase,SWESTRUP,f
 Dist::Zilla::Plugin::ReportVersions,DOHERTY,c
 Dist::Zilla::Plugin::ReportVersions,MARCEL,f
 Dist::Zilla::Plugin::ReportVersions,XENO,c
-Dist::Zilla::Plugin::ReportVersions::Tiny,DANIELP,f
+Dist::Zilla::Plugin::ReportVersions::Tiny,DANIELP,c
+Dist::Zilla::Plugin::ReportVersions::Tiny,DOLMEN,f
 Dist::Zilla::Plugin::Repository,FAYLAND,f
 Dist::Zilla::Plugin::RequiresExternal,MJGARDNER,f
 Dist::Zilla::Plugin::Rsync,ZOUL,m
