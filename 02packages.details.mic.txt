@@ -322,7 +322,7 @@ MIME::Body::File                  5.502  D/DS/DSKOLL/MIME-tools-5.502.tar.gz
 MIME::Body::InCore                5.502  D/DS/DSKOLL/MIME-tools-5.502.tar.gz
 MIME::Body::Scalar                5.502  D/DS/DSKOLL/MIME-tools-5.502.tar.gz
 MIME::BodyMunger                  0.004  R/RJ/RJBS/MIME-BodyMunger-0.004.tar.gz
-MIME::Charset                   1.009.1  N/NE/NEZUMI/MIME-Charset-1.009.1.tar.gz
+MIME::Charset                   1.009.2  N/NE/NEZUMI/MIME-Charset-1.009.2.tar.gz
 MIME::Charset::_Compat            1.003  N/NE/NEZUMI/MIME-Charset-1.006.2.tar.gz
 MIME::Decoder                     5.502  D/DS/DSKOLL/MIME-tools-5.502.tar.gz
 MIME::Decoder::Base64             5.502  D/DS/DSKOLL/MIME-tools-5.502.tar.gz
