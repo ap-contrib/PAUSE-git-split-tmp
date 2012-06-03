@@ -795,7 +795,7 @@ Test::Requires::Env                0.02  Z/ZI/ZIGOROU/Test-Requires-Env-0.02.tar
 Test::Rest                         0.03  K/KG/KGRENNAN/Test-Rest-0.03.tar.gz
 Test::Rest::Commands              undef  K/KG/KGRENNAN/Test-Rest-0.03.tar.gz
 Test::Rest::Context               undef  K/KG/KGRENNAN/Test-Rest-0.03.tar.gz
-Test::Resub                        1.06  A/AI/AIRWAVE/Test-Resub-1.06.tar.gz
+Test::Resub                        2.01  B/BE/BELDEN/Test-Resub-2.01.tar.gz
 Test::Reuse                       0.001  B/BR/BRADH/Test-Reuse-0.001.tar.gz
 Test::Role                        0.012  J/JF/JFITZ/Test-Role-0.12.tar.gz
 Test::Routine                     0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
