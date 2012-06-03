@@ -533,9 +533,9 @@ QWizard::Storage::SQL              3.15  H/HA/HARDAKER/QWizard-3.15.tar.gz
 QWMatrix                           1.03  A/AW/AWIN/PerlQt-1.06.tar.gz
 Qwt                                0.96  C/CB/CBUREL/Qt4-0.99.0.tar.bz2
 Qwt::_internal                     0.96  C/CB/CBUREL/Qt4-0.99.0.tar.bz2
-QxExample::Exception              undef  M/MB/MBP/MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.87.tar.gz
-QxExample::JsonRpcService         undef  M/MB/MBP/MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.87.tar.gz
-QxExample::MojoApp                undef  M/MB/MBP/MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.87.tar.gz
+QxExample::Exception              undef  M/MB/MBP/MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.88.tar.gz
+QxExample::JsonRpcService         undef  M/MB/MBP/MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.88.tar.gz
+QxExample::MojoApp                undef  M/MB/MBP/MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.88.tar.gz
 R                              1.006001  C/CJ/CJFIELDS/BioPerl-1.6.1.tar.gz
 R3                                 0.31  S/SC/SCHOEN/R3-0.31.tar.gz
 R3::conn                           0.31  S/SC/SCHOEN/R3-0.31.tar.gz
