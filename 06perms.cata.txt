@@ -625,6 +625,7 @@ Catalyst::TraitFor::Request::Params::Hashed,CUB,f
 Catalyst::TraitFor::Request::PerLanguageDomains,BOBTFISH,c
 Catalyst::TraitFor::Request::PerLanguageDomains,MSTROUT,c
 Catalyst::TraitFor::Request::PerLanguageDomains,STEPHANJ,f
+Catalyst::TraitFor::Request::Plack::Session,RSRCHBOY,f
 Catalyst::TraitFor::Request::ProxyBase,BOBTFISH,f
 Catalyst::TraitFor::Request::ProxyBase,BROQ,c
 Catalyst::TraitFor::Request::ProxyBase,CHRISA,c

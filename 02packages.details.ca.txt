@@ -470,6 +470,7 @@ Catalyst::TraitFor::Request::DecodedParams 0.02  W/WR/WREIS/Catalyst-TraitFor-Re
 Catalyst::TraitFor::Request::DecodedParams::JSON 0.01  W/WR/WREIS/Catalyst-TraitFor-Request-DecodedParams-0.02.tar.gz
 Catalyst::TraitFor::Request::Params::Hashed 0.03  C/CU/CUB/Catalyst-TraitFor-Request-Params-Hashed-0.03.tar.gz
 Catalyst::TraitFor::Request::PerLanguageDomains 0.03  B/BO/BOBTFISH/Catalyst-TraitFor-Request-PerLanguageDomains-0.03.tar.gz
+Catalyst::TraitFor::Request::Plack::Session 0.001  R/RS/RSRCHBOY/Catalyst-TraitFor-Request-Plack-Session-0.001.tar.gz
 Catalyst::TraitFor::Request::ProxyBase 0.000005  B/BO/BOBTFISH/Catalyst-TraitFor-Request-ProxyBase-0.000005.tar.gz
 Catalyst::TraitFor::Request::REST  1.01  B/BO/BOBTFISH/Catalyst-Action-REST-1.01.tar.gz
 Catalyst::TraitFor::Request::REST::ForBrowsers 1.01  B/BO/BOBTFISH/Catalyst-Action-REST-1.01.tar.gz
