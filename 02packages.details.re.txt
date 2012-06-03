@@ -66,7 +66,7 @@ Regexp::Common::whitespace     2010010201  A/AB/ABIGAIL/Regexp-Common-2011121001
 Regexp::Common::WithActions        0.01  R/RU/RUZ/Regexp-Common-WithActions-0.01.tar.gz
 Regexp::Common::WithActions::Actions 0.01  R/RU/RUZ/Regexp-Common-WithActions-0.01.tar.gz
 Regexp::Common::zip            2010010201  A/AB/ABIGAIL/Regexp-Common-2011121001.tar.gz
-Regexp::Compare                    0.17  V/VB/VBAR/Regexp-Compare-0.17.tar.gz
+Regexp::Compare                    0.18  V/VB/VBAR/Regexp-Compare-0.18.tar.gz
 Regexp::Constant                   1.22  D/DT/DTIBERIO/Regexp-Constant-1.22.tar.gz
 Regexp::Copy                       0.06  J/JD/JDUNCAN/Regexp-Copy-0.06.tar.gz
 Regexp::DefaultFlags               0.01  A/AU/AUTRIJUS/Regexp-DefaultFlags-0.01.tar.gz
