@@ -688,6 +688,10 @@ SQL::Abstract,RKINYON,c
 SQL::Abstract,SSCAFFIDI,c
 SQL::Abstract,WSHELDAHL,c
 SQL::Abstract::Builder,TRON,f
+SQL::Abstract::FromQuery,DAMI,f
+SQL::Abstract::FromQuery::Contains,DAMI,f
+SQL::Abstract::FromQuery::FR,DAMI,f
+SQL::Abstract::FromQuery::Oracle,DAMI,f
 SQL::Abstract::Limit,DAVEBAIRD,m
 SQL::Abstract::More,DAMI,f
 SQL::Abstract::Plugin::InsertMulti,ZIGOROU,f
