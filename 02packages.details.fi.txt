@@ -15,7 +15,7 @@ File::CounterFile                  1.04  G/GA/GAAS/File-CounterFile-1.04.tar.gz
 File::CounterSS                    0.01  Y/YA/YAPPO/File-CounterSS-0.01.tar.gz
 File::CountLines                 v0.0.3  M/MO/MORITZ/File-CountLines-v0.0.3.tar.gz
 File::CreationTime                 2.04  J/JR/JROCKWAY/File-CreationTime-2.04.tar.gz
-File::Data                         1.15  R/RF/RFOLEY/File-Data-1.15.tar.gz
+File::Data                         1.16  R/RF/RFOLEY/File-Data-1.16.tar.gz
 File::DataClass                v0.10.380  P/PJ/PJFL/file-dataclass/File-DataClass-0.10.380.tar.gz
 File::DataClass::Cache         v0.10.380  P/PJ/PJFL/file-dataclass/File-DataClass-0.10.380.tar.gz
 File::DataClass::Constants     v0.10.380  P/PJ/PJFL/file-dataclass/File-DataClass-0.10.380.tar.gz
