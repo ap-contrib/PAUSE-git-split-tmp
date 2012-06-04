@@ -460,6 +460,7 @@ HTML::Template::Compiled::Expression::Literal,TINITA,f
 HTML::Template::Compiled::Expression::Method,TINITA,f
 HTML::Template::Compiled::Expression::Open,TINITA,f
 HTML::Template::Compiled::Expression::String,TINITA,f
+HTML::Template::Compiled::Expression::SubrefCall,TINITA,f
 HTML::Template::Compiled::Expression::Ternary,TINITA,f
 HTML::Template::Compiled::Expression::Unless,TINITA,f
 HTML::Template::Compiled::Filter,TINITA,f
@@ -475,6 +476,7 @@ HTML::Template::Compiled::Plugin::I18N,STEFFENW,f
 HTML::Template::Compiled::Plugin::I18N::DefaultTranslator,STEFFENW,f
 HTML::Template::Compiled::Plugin::InlineImage,TINITA,f
 HTML::Template::Compiled::Plugin::LineBreak,HAGY,m
+HTML::Template::Compiled::Plugin::NumberFormat,TINITA,f
 HTML::Template::Compiled::Plugin::Sprintf,RENEEB,f
 HTML::Template::Compiled::Plugin::VBEscape,STEFFENW,f
 HTML::Template::Compiled::Plugin::XMLEscape,TINITA,f
