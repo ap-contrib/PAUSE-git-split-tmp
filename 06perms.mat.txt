@@ -461,6 +461,7 @@ Math::Prime,TELS,m
 Math::Prime::FastSieve,DAVIDO,m
 Math::Prime::Simple,SCHUBIGER,f
 Math::Prime::TiedArray,ZIGDON,m
+Math::Prime::Util,DANAJ,m
 Math::Prime::XS,KRYDE,c
 Math::Prime::XS,SCHUBIGER,f
 Math::Project,MILSO,m

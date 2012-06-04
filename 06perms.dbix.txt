@@ -555,7 +555,7 @@ DBIx::Perform::Widgets::TextField,WEAV,f
 DBIx::Perlish,GRUBER,f
 DBIx::Perlish::Parse,GRUBER,f
 DBIx::Perlish::Placeholder,GRUBER,c
-DBIx::Pg::CallFunction,JOELJAC,f
+DBIx::Pg::CallFunction,JOELJAC,m
 DBIx::PgLink,ASVBR,m
 DBIx::PgLink::Accessor,ASVBR,f
 DBIx::PgLink::Accessor::BaseAccessor,ASVBR,f

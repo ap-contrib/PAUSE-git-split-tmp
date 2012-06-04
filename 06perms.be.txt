@@ -481,6 +481,7 @@ BinaryOp,PERRAD,f
 Bind,AVAR,c
 Bind,FGLOCK,f
 Binding,GUGOD,f
+Bing::Azure::WebSearch,SEOVISUAL,m
 Bing::OpenSearch,KNTONAS,m
 Bing::OpenSearch::MediaContent,KNTONAS,f
 Bing::OpenSearch::MediaThumbnail,KNTONAS,f
