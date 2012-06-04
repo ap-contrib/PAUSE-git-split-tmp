@@ -47,6 +47,9 @@ Net::Inspect::L4::TCP,SULLR,f
 Net::Inspect::L4::UDP,SULLR,f
 Net::Inspect::L5::GuessProtocol,SULLR,f
 Net::Inspect::L5::NoData,SULLR,f
+Net::Inspect::L5::Socks,SULLR,f
+Net::Inspect::L5::Socks::IgnoreConnection,SULLR,f
+Net::Inspect::L5::Socks::NoDataConnection,SULLR,f
 Net::Inspect::L5::Unknown,SULLR,f
 Net::Inspect::L7::HTTP,SULLR,f
 Net::Inspect::L7::HTTP::Request::InspectChain,SULLR,f
