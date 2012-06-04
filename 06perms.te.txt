@@ -1314,7 +1314,7 @@ Tindermail,ZLIPTON,f
 Tindermail::Http,ZLIPTON,f
 Tindermail::MailMailer,ZLIPTON,f
 Tindermail::Sendmail,ZLIPTON,f
-TinkerForge,JOBA,f
+TinkerForge,JOBA,m
 TinkerForge::API,JOBA,f
 TinkerForge::Brick,JOBA,f
 TinkerForge::Brick::Master,JOBA,f

@@ -1016,7 +1016,7 @@ Texinfo::Menus,CJM,f
 Text,AKHOBOV,f
 Text::A2E,PILHAMU,m
 Text::AAlib,SYOHEX,f
-Text::AI::CRM114,MSCHUETT,f
+Text::AI::CRM114,MSCHUETT,m
 Text::AI::libcrm114,MSCHUETT,f
 Text::APL,VTI,f
 Text::APL::Base,VTI,f

@@ -974,6 +974,7 @@ PagSeguro::Item,TBR,f
 PagSeguro::Status,MANTOVANI,f
 Page,AWWAIID,f
 Pager::SkyTel,MPREWITT,f
+PagerDuty::Schedule,JACOBROSE,m
 Pagination,ONDR,f
 Paginator,KITE,f
 Paginator::Lite,BLABOS,f
