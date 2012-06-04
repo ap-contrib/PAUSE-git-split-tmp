@@ -168,6 +168,7 @@ DBIx::Threaded,DARNOLD,m
 DBIx::Threaded::Server,DARNOLD,f
 DBIx::Timeout,SAMTREGAR,m
 DBIx::Tiny,TECHCODE,m
+DBIx::Tracer,TOKUHIROM,f
 DBIx::Transaction,CRAKRJACK,m
 DBIx::Transaction::db,CRAKRJACK,f
 DBIx::Transaction::st,CRAKRJACK,f
