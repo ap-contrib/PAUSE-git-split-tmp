@@ -50,7 +50,7 @@ NetAddr::IP::Util                  1.47  M/MI/MIKER/NetAddr-IP-4.061.tar.gz
 NetAddr::IP::Util_IS                  1  M/MI/MIKER/NetAddr-IP-4.061.tar.gz
 NetAddr::IP::UtilPolluted          1.47  M/MI/MIKER/NetAddr-IP-4.061.tar.gz
 NetAddr::IP::UtilPP                1.08  M/MI/MIKER/NetAddr-IP-4.061.tar.gz
-NetAddr::MAC                       0.76  D/DJ/DJZORT/NetAddr-MAC-0.76.tar.gz
+NetAddr::MAC                       0.77  D/DJ/DJZORT/NetAddr-MAC-0.77.tar.gz
 NetApp                          500.001  W/WP/WPMOORE/NetApp-500.001.tar.gz
 NetApp::Aggregate              332.000000  W/WP/WPMOORE/NetApp-1.1.2.tgz
 NetApp::Aggregate::Plex        203.000000  W/WP/WPMOORE/NetApp-1.1.2.tgz
