@@ -391,10 +391,6 @@ Games::AssaultCube::ServerQuery::Response 0.04  A/AP/APOCAL/Games-AssaultCube-0.
 Games::AssaultCube::Utils          0.04  A/AP/APOCAL/Games-AssaultCube-0.04.tar.gz
 Games::Backgammon                  0.13  B/BI/BIGJ/Games-Backgammon-0.13.tar.gz
 Games::Baseball::Scorecard         0.03  C/CN/CNANDOR/Games-Baseball-Scorecard-0.03.tar.gz
-Games::Battleship                  0.05  G/GE/GENE/Games-Battleship-0.05.tar.gz
-Games::Battleship::Craft           0.03  G/GE/GENE/Games-Battleship-0.05.tar.gz
-Games::Battleship::Grid            0.03  G/GE/GENE/Games-Battleship-0.05.tar.gz
-Games::Battleship::Player          0.05  G/GE/GENE/Games-Battleship-0.05.tar.gz
 Games::Bingo                       0.15  J/JO/JONASBN/Games-Bingo-0.15.tar.gz
 Games::Bingo::Bot                  0.01  J/JO/JONASBN/Games-Bingo-Bot-0.01.tar.gz
 Games::Bingo::Card                 0.04  J/JO/JONASBN/Games-Bingo-0.15.tar.gz
