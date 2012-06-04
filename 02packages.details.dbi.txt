@@ -515,7 +515,7 @@ DBIx::TextSearch                    0.3  S/SR/SRPATT/DBIx-TextSearch-0.3.tar.gz
 DBIx::Threaded                      0.1  D/DA/DARNOLD/DBIx-Threaded-0.10.tar.gz
 DBIx::Threaded::Server              0.1  D/DA/DARNOLD/DBIx-Threaded-0.10.tar.gz
 DBIx::Timeout                      1.01  S/SA/SAMTREGAR/DBIx-Timeout-1.01.tar.gz
-DBIx::Tracer                       0.01  T/TO/TOKUHIROM/DBIx-Tracer-0.01.tar.gz
+DBIx::Tracer                       0.02  T/TO/TOKUHIROM/DBIx-Tracer-0.02.tar.gz
 DBIx::Transaction                 1.100  C/CR/CRAKRJACK/DBIx-Transaction-1.100.tar.gz
 DBIx::Transaction::db             undef  C/CR/CRAKRJACK/DBIx-Transaction-1.100.tar.gz
 DBIx::Transaction::st             undef  C/CR/CRAKRJACK/DBIx-Transaction-1.100.tar.gz
