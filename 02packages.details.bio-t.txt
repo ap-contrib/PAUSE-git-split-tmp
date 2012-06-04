@@ -1002,7 +1002,7 @@ Bundle::FinalTest2                undef  M/MA/MARSAB/Bundle-FinalTest2.tar.gz
 Bundle::GMOD                        1.0  S/SC/SCAIN/Bundle-GMOD-1.0.tar.gz
 Bundle::Gnome2                     0.12  G/GB/GBROWN/Bundle-Gnome2-0.12.tar.gz
 Bundle::Graphics::ColorNames       1.04  R/RR/RRWO/Bundle-Graphics-ColorNames-1.04.tar.gz
-Bundle::Helios::Generic            2.40  L/LA/LAJANDY/Helios-2.40.tar.gz
+Bundle::Helios::Generic            2.40  L/LA/LAJANDY/Helios-2.41.tar.gz
 Bundle::Helios::RedHat             2.40  L/LA/LAJANDY/Helios-2.40.tar.gz
 Bundle::HollyKing                  1.01  H/HO/HOLLYKING/Bundle-HollyKing-1.01.tar.gz
 Bundle::HTML::EP                   0.02  J/JW/JWIED/HTML-EP-0.2011.tar.gz

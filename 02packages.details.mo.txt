@@ -489,7 +489,7 @@ MP3::Tag::Inf                      1.00  I/IL/ILYAZ/modules/MP3-Tag-1.13.tar.gz
 MP3::Tag::LastResort               1.00  I/IL/ILYAZ/modules/MP3-Tag-1.13.tar.gz
 MP3::Tag::ParseData                1.00  I/IL/ILYAZ/modules/MP3-Tag-1.13.tar.gz
 MP3::Tag::Utils                0.000002  V/VV/VVELOX/MP3-Tag-Utils-0.0.2.tar.gz
-MP3IndexerService                  1.00  L/LA/LAJANDY/Helios-2.40.tar.gz
+MP3IndexerService                  1.00  L/LA/LAJANDY/Helios-2.41.tar.gz
 MP4::File                          0.08  M/MH/MHX/MP4-File-0.08.tar.gz
 MP4::Info                          1.13  J/JH/JHAR/MP4-Info-1.13.tar.gz
 MPE::CIvar                         1.11  K/KA/KAHIRSCH/MPE-CIvar-1.11.tar.gz

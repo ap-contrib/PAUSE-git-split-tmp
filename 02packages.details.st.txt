@@ -6,7 +6,7 @@ Struct::Compare                     1.0  Z/ZE/ZENSPIDER/Struct-Compare-1.0.1.tar
 Struct_Type                        1.00  D/DJ/DJBURKE/Inline-SLang-1.00.tar.gz
 StructType                         2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Stub::StubService                  0.01  L/LA/LAJANDY/Helios-2.23.tar.gz
-StubService                        0.03  L/LA/LAJANDY/Helios-2.40.tar.gz
+StubService                        0.03  L/LA/LAJANDY/Helios-2.41.tar.gz
 Stuff                          0.000016  N/NI/NIXUS/Stuff-0.0.16.tar.gz
 Stuff::Base                       undef  N/NI/NIXUS/Stuff-0.0.16.tar.gz
 Stuff::Error                      undef  N/NI/NIXUS/Stuff-0.0.16.tar.gz
