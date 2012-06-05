@@ -327,8 +327,8 @@ Ticketmaster                       1.02  P/PA/PANYU/Ticketmaster-1.02.tar.gz
 Tickit                             0.15  P/PE/PEVANS/Tickit-0.15.tar.gz
 Tickit::Async                      0.12  P/PE/PEVANS/Tickit-Async-0.12.tar.gz
 Tickit::Builder                   0.001  T/TE/TEAM/Tickit-Builder-0.001.tar.gz
-Tickit::Console                    0.01  P/PE/PEVANS/Tickit-Console-0.01.tar.gz
-Tickit::Console::Tab                  0  P/PE/PEVANS/Tickit-Console-0.01.tar.gz
+Tickit::Console                    0.02  P/PE/PEVANS/Tickit-Console-0.02.tar.gz
+Tickit::Console::Tab                  0  P/PE/PEVANS/Tickit-Console-0.02.tar.gz
 Tickit::ContainerWidget            0.15  P/PE/PEVANS/Tickit-0.15.tar.gz
 Tickit::OneLineWidget              0.15  P/PE/PEVANS/Tickit-0.15.tar.gz
 Tickit::Pen                        0.15  P/PE/PEVANS/Tickit-0.15.tar.gz
