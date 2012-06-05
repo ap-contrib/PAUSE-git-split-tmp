@@ -391,7 +391,7 @@ Test::XML::Element                 0.01  C/CY/CYCLES/Test-XML-Element-0.01.tar.g
 Test::XML::Order                   1.01  G/GA/GAM/Test-XML-Order-1.01.tar.gz
 Test::XML::RPC::Catalyst           0.01  B/BE/BERLE/Test-XML-RPC-Catalyst-0.01.tar.gz
 Test::XML::SAX                     0.01  S/SE/SEMANTICO/Test-XML-0.08.tar.gz
-Test::XML::Simple                  1.00  M/MC/MCMAHON/Test-XML-Simple-1.00.tar.gz
+Test::XML::Simple                  1.01  M/MC/MCMAHON/Test-XML-Simple-1.01.tar.gz
 Test::XML::Twig                    0.01  S/SE/SEMANTICO/Test-XML-0.08.tar.gz
 Test::XML::Valid                   0.04  M/MA/MARKSTOS/Test-XML-Valid-0.04.tar.gz
 Test::XML::XPath                   0.03  S/SE/SEMANTICO/Test-XML-0.08.tar.gz
