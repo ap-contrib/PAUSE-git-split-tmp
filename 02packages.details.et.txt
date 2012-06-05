@@ -163,8 +163,8 @@ EventServer::SignalClientWrapper    2.3  J/JA/JACKS/EventServer-2.3.tar.gz
 EventServer::sunos                  2.3  J/JA/JACKS/EventServer-2.3.tar.gz
 EventServer::Time                   2.3  J/JA/JACKS/EventServer-2.3.tar.gz
 EventServer::TimedClientWrapper     2.3  J/JA/JACKS/EventServer-2.3.tar.gz
-EventyRole                        undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
-EventySubSystem                   undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
+EventyRole                        undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
+EventySubSystem                   undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Every                              0.08  T/TE/TEODOR/Every-0.08.tar.gz
 EVERY                              0.65  F/FL/FLORA/NEXT-0.65.tar.gz
 EVERY::LAST                        0.65  F/FL/FLORA/NEXT-0.65.tar.gz
@@ -236,11 +236,11 @@ example_3                         undef  R/RD/RDICE/CGI-Application-Framework-0.
 example_4                         undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
 example_5                         undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
 examplec                          undef  D/DB/DBEAZLEY/swig1.1p5.tar.gz
-ExampleHelpers                    undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
+ExampleHelpers                    undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 ExampleMooRoleWithAttribute       undef  M/MS/MSTROUT/Moo-0.091007.tar.gz
 ExampleMooseRoleOne               undef  M/MS/MSTROUT/Moo-0.091007.tar.gz
 ExampleMooseRoleTwo               undef  M/MS/MSTROUT/Moo-0.091007.tar.gz
-ExampleObject                     undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
+ExampleObject                     undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 examples::MiddleWare              undef  Y/YA/YAPPO/HTTP-Engine-0.0.11.tar.gz
 Excel::Template                    0.34  R/RB/RBO/Excel-Template-0.34.tar.gz
 Excel::Template::Base             undef  R/RB/RBO/Excel-Template-0.34.tar.gz

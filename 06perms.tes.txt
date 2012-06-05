@@ -564,6 +564,7 @@ Test::HTTP::Syntax,MML,f
 Test::HTTPStatus,BDFOY,m
 Test::Harness,ANDYA,m
 Test::Harness,MSCHWERN,c
+Test::Harness,OVID,c
 Test::Harness,P5P,c
 Test::Harness,perl,c
 Test::Harness::Assert,MHX,f

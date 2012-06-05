@@ -648,8 +648,8 @@ ZMQ::LibZMQ2                       1.01  D/DM/DMAKI/ZMQ-LibZMQ2-1.01.tar.gz
 ZMQ::Message                      undef  D/DM/DMAKI/ZMQ-1.01.tar.gz
 ZMQ::Serializer                   undef  D/DM/DMAKI/ZMQ-1.01.tar.gz
 ZMQ::Socket                       undef  D/DM/DMAKI/ZMQ-1.01.tar.gz
-ZmqMessage                        undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
-ZmqSocket                         undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
+ZmqMessage                        undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
+ZmqSocket                         undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Zodiac::Chinese                       1  C/CA/CAVAC/Zodiac-Chinese-1.tar.gz
 Zoidberg                          0.981  J/JB/JBERGER/Zoidberg-0.981.tar.gz
 Zoidberg::Contractor              0.981  J/JB/JBERGER/Zoidberg-0.981.tar.gz

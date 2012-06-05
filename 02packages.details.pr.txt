@@ -312,7 +312,7 @@ Provision::Unix::VirtualOS::Xen::Config 0.4  M/MS/MSIMERSON/Provision-Unix-1.05.
 Provision::Unix::Web               0.09  M/MS/MSIMERSON/Provision-Unix-1.05.tar.gz
 Provision::Unix::Web::Apache       0.10  M/MS/MSIMERSON/Provision-Unix-1.05.tar.gz
 Provision::Unix::Web::Lighttpd     0.02  M/MS/MSIMERSON/Provision-Unix-1.05.tar.gz
-Proxy                             undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
+Proxy                             undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Proxy::HTML                       undef  T/TO/TOMC/scripts/CS-Talk/source/web/Proxy/HTML.pm.gz
 PRSG                              undef  G/GA/GARY/Math-PRSG-1.0.tar.gz
 psconn                             4629  P/PR/PRO/Net-DirectConnect-0.10.tar.gz

@@ -55,8 +55,8 @@ RunApp::Cron                      undef  C/CL/CLKAO/RunApp-0.13.tar.gz
 RunApp::Simple                     0.04  G/GU/GUGOD/RunApp-Simple-0.04.tar.gz
 RunApp::Template                  undef  C/CL/CLKAO/RunApp-0.13.tar.gz
 RunApp::Template::Apache          undef  C/CL/CLKAO/RunApp-0.13.tar.gz
-Runner                            undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
-RunnerRole                        undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
+Runner                            undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
+RunnerRole                        undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Runops::Hook                       0.03  N/NU/NUFFIN/Runops-Hook-0.03.tar.gz
 Runops::Movie                      0.03  J/JJ/JJORE/Runops-Movie-0.03.tar.gz
 Runops::Movie::TM                  0.02  J/JJ/JJORE/Runops-Movie-0.03.tar.gz

@@ -98,7 +98,7 @@ SIAM::Service                     undef  S/SS/SSINYAGIN/SIAM-0.10.tar.gz
 SIAM::ServiceDataElement          undef  S/SS/SSINYAGIN/SIAM-0.10.tar.gz
 SIAM::ServiceUnit                 undef  S/SS/SSINYAGIN/SIAM-0.10.tar.gz
 SIAM::User                        undef  S/SS/SSINYAGIN/SIAM-0.10.tar.gz
-Sidecar                           undef  R/RC/RCAPUTO/Reflex-0.097.tar.gz
+Sidecar                           undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Siebel::Srvrmgr                    0.04  A/AR/ARFREITAS/Siebel-Srvrmgr-0.04.tar.gz
 Siebel::Srvrmgr::Daemon           undef  A/AR/ARFREITAS/Siebel-Srvrmgr-0.04.tar.gz
 Siebel::Srvrmgr::Daemon::Action   undef  A/AR/ARFREITAS/Siebel-Srvrmgr-0.04.tar.gz

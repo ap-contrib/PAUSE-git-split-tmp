@@ -550,6 +550,7 @@ App::Prolix,GAAL,f
 App::Prolix::ConfigFileRole,GAAL,f
 App::Prolix::MooseHelpers,GAAL,f
 App::Prove,ANDYA,f
+App::Prove,OVID,c
 App::Prove::Dist,INGY,f
 App::Prove::Dist::Command,INGY,f
 App::Prove::Dist::Command::list,INGY,f
@@ -568,8 +569,11 @@ App::Prove::Plugin::Idempotent,SCHWIGON,f
 App::Prove::Plugin::SetEnv,ILMARI,f
 App::Prove::RunScripts,YSASAKI,f
 App::Prove::State,ANDYA,f
+App::Prove::State,OVID,c
 App::Prove::State::Result,ANDYA,f
+App::Prove::State::Result,OVID,c
 App::Prove::State::Result::Test,ANDYA,f
+App::Prove::State::Result::Test,OVID,c
 App::QuoteCC,AVAR,f
 App::QuoteCC::Format::Fortune,AVAR,f
 App::QuoteCC::Format::YAML,AVAR,f
