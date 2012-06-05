@@ -349,9 +349,9 @@ Tickit::Widget::LinearBox          0.15  P/PE/PEVANS/Tickit-0.15.tar.gz
 Tickit::Widget::Progressbar       0.002  T/TE/TEAM/Tickit-Widget-Progressbar-0.002.tar.gz
 Tickit::Widget::Progressbar::Horizontal 0.001  T/TE/TEAM/Tickit-Widget-Progressbar-0.002.tar.gz
 Tickit::Widget::Progressbar::Vertical 0.001  T/TE/TEAM/Tickit-Widget-Progressbar-0.002.tar.gz
-Tickit::Widget::Scroller           0.03  P/PE/PEVANS/Tickit-Widget-Scroller-0.03.tar.gz
-Tickit::Widget::Scroller::Item::RichText 0.03  P/PE/PEVANS/Tickit-Widget-Scroller-0.03.tar.gz
-Tickit::Widget::Scroller::Item::Text 0.03  P/PE/PEVANS/Tickit-Widget-Scroller-0.03.tar.gz
+Tickit::Widget::Scroller           0.04  P/PE/PEVANS/Tickit-Widget-Scroller-0.04.tar.gz
+Tickit::Widget::Scroller::Item::RichText 0.04  P/PE/PEVANS/Tickit-Widget-Scroller-0.04.tar.gz
+Tickit::Widget::Scroller::Item::Text 0.04  P/PE/PEVANS/Tickit-Widget-Scroller-0.04.tar.gz
 Tickit::Widget::SparkLine         0.002  T/TE/TEAM/Tickit-Widget-SparkLine-0.002.tar.gz
 Tickit::Widget::Static             0.15  P/PE/PEVANS/Tickit-0.15.tar.gz
 Tickit::Widget::Tabbed            0.003  P/PE/PEVANS/Tickit-Widget-Tabbed-0.003.tar.gz
