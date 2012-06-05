@@ -528,6 +528,7 @@ Simo::Util,KIMOTO,m
 Simo::Wrapper,KIMOTO,m
 Simple,DOMIZIO,f
 Simple,LARSEN,c
+Simple::Accessor,ATOOMIC,f
 Simple::Class,TBONE,f
 Simple::SAX::Serializer,ADRIANWIT,f
 Simple::SAX::Serializer::Element,ADRIANWIT,f

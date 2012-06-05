@@ -328,6 +328,7 @@ Sim                                0.03  A/AG/AGENT/Sim-0.03.tar.gz
 Sim::Clock                         0.03  A/AG/AGENT/Sim-0.03.tar.gz
 Sim::Dispatcher                    0.03  A/AG/AGENT/Sim-0.03.tar.gz
 Simple                            undef  L/LA/LARSEN/CGI-Builder-TT2-0.03.tar.gz
+Simple::Accessor                   0.10  A/AT/ATOOMIC/Simple-Accessor-0.10.tar.gz
 Simple::Class                     undef  T/TB/TBONE/HTML-Seamstress-6.112830.tar.gz
 Simple::SAX::Serializer            0.05  A/AD/ADRIANWIT/Simple-SAX-Serializer-0.05.tar.gz
 Simple::SAX::Serializer::Element   0.03  A/AD/ADRIANWIT/Simple-SAX-Serializer-0.05.tar.gz
