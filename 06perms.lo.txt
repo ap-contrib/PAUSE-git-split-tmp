@@ -409,6 +409,8 @@ Log::Fine::Formatter::Template,CFUHRMAN,f
 Log::Fine::Handle,CFUHRMAN,f
 Log::Fine::Handle::Console,CFUHRMAN,f
 Log::Fine::Handle::Email,CFUHRMAN,f
+Log::Fine::Handle::Email::EmailSender,CFUHRMAN,f
+Log::Fine::Handle::Email::MIMELite,CFUHRMAN,f
 Log::Fine::Handle::File,CFUHRMAN,f
 Log::Fine::Handle::File::Timestamp,CFUHRMAN,f
 Log::Fine::Handle::String,CFUHRMAN,f
