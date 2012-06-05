@@ -478,6 +478,7 @@ HTML::FormHandler::Field::Second,ZBY,c
 HTML::FormHandler::Field::Select,BOBTFISH,c
 HTML::FormHandler::Field::Select,GSHANK,f
 HTML::FormHandler::Field::Select,ZBY,c
+HTML::FormHandler::Field::SelectCSV,GSHANK,f
 HTML::FormHandler::Field::Submit,BOBTFISH,c
 HTML::FormHandler::Field::Submit,GSHANK,f
 HTML::FormHandler::Field::Submit,ZBY,c
@@ -512,6 +513,7 @@ HTML::FormHandler::Generator::DBIC::Cmd,ZBY,c
 HTML::FormHandler::I18N,BOBTFISH,c
 HTML::FormHandler::I18N,GSHANK,f
 HTML::FormHandler::I18N,ZBY,c
+HTML::FormHandler::I18N::bg_bg,GSHANK,f
 HTML::FormHandler::I18N::de_de,GSHANK,f
 HTML::FormHandler::I18N::en_us,BOBTFISH,c
 HTML::FormHandler::I18N::en_us,GSHANK,f
