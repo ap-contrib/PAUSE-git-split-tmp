@@ -1425,6 +1425,7 @@ MooseX::Types::Path::Class,THEPLER,m
 MooseX::Types::Path::Class::MoreCoercions,DAGOLDEN,f
 MooseX::Types::Perl,RJBS,f
 MooseX::Types::PerlIOLayerStr,DEXTER,f
+MooseX::Types::PerlVersion,ROMANF,c
 MooseX::Types::PortNumber,TBR,f
 MooseX::Types::Ro,ILMARI,f
 MooseX::Types::SVN,MJGARDNER,f

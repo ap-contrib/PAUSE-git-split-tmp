@@ -40,8 +40,8 @@ Lingua::JA::Yomi                   0.01  M/MA/MASH/Lingua-JA-Yomi-0.01.tar.gz
 Lingua::JBO::Numbers               0.03  P/PA/PATCH/Lingua-Conlang-Numbers-0.04.tar.gz
 Lingua::JP::Kanjidic                1.1  P/PE/PETDANCE/Lingua-JP-Kanjidic-1.1.tar.gz
 Lingua::JP::Kanjidic::Kanji         1.1  P/PE/PETDANCE/Lingua-JP-Kanjidic-1.1.tar.gz
-Lingua::Jspell                     1.84  A/AM/AMBS/Lingua/Lingua-Jspell-1.84.tar.gz
-Lingua::Jspell::DictManager        0.01  A/AM/AMBS/Lingua/Lingua-Jspell-1.84.tar.gz
+Lingua::Jspell                     1.85  A/AM/AMBS/Lingua/Lingua-Jspell-1.85.tar.gz
+Lingua::Jspell::DictManager        0.01  A/AM/AMBS/Lingua/Lingua-Jspell-1.85.tar.gz
 Lingua::Klingon::Collate           1.03  P/PN/PNE/Lingua-Klingon-Collate-1.03.tar.gz
 Lingua::Klingon::Recode            1.02  P/PN/PNE/Lingua-Klingon-Recode-1.02.tar.gz
 Lingua::Klingon::Segment           1.03  P/PN/PNE/Lingua-Klingon-Segment-1.03.tar.gz
