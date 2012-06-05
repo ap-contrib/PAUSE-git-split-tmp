@@ -1147,6 +1147,7 @@ Text::Boilerplate::Tag::Value,STEPHEN,f
 Text::Brew,DREE,c
 Text::Brew,KCIVEY,f
 Text::Buffer,LAMMEL,f
+Text::CGILike,CELOGEEK,f
 Text::CHM,DDS,f
 Text::CPP,SHEVEK,f
 Text::CSV,ALANCITT,c

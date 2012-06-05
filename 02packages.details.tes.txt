@@ -364,7 +364,7 @@ Test::Group::Foreach               0.03  N/NC/NCLEATON/Test-Group-Foreach-0.03.t
 Test::Group::NoWarnings            0.01  N/NC/NCLEATON/Test-Group-0.18.tar.gz
 Test::Group::Plan                  0.01  N/NC/NCLEATON/Test-Group-0.18.tar.gz
 Test::Group::Tester                0.01  N/NC/NCLEATON/Test-Group-0.18.tar.gz
-Test::Harness                      3.23  A/AN/ANDYA/Test-Harness-3.23.tar.gz
+Test::Harness                      3.25  O/OV/OVID/Test-Harness-3.25.tar.gz
 Test::Harness::FileFilter          0.01  C/CL/CLAESJAC/Test-Harness-FileFilter-0.01.tar.gz
 Test::Harness::Results             0.01  M/MS/MSCHWERN/Test-Harness-Straps-0.30.tar.gz
 Test::Harness::Straps              0.30  M/MS/MSCHWERN/Test-Harness-Straps-0.30.tar.gz

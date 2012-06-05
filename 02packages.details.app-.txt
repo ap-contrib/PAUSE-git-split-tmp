@@ -475,7 +475,7 @@ App::Prima::REPL                   0.02  D/DC/DCMERTENS/App-Prima-REPL-0.02.tar.
 App::Prolix                       undef  G/GA/GAAL/App-Prolix-0.03.tar.gz
 App::Prolix::ConfigFileRole       undef  G/GA/GAAL/App-Prolix-0.03.tar.gz
 App::Prolix::MooseHelpers         undef  G/GA/GAAL/App-Prolix-0.03.tar.gz
-App::Prove                         3.23  A/AN/ANDYA/Test-Harness-3.23.tar.gz
+App::Prove                         3.25  O/OV/OVID/Test-Harness-3.25.tar.gz
 App::prove4air                   0.0013  R/RO/ROKR/App-prove4air-0.0013.tar.gz
 App::Prove::Dist                   0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
 App::Prove::Dist::Command          0.02  I/IN/INGY/App-Prove-Dist-0.02.tar.gz
@@ -494,9 +494,9 @@ App::Prove::Plugin::HTML           0.09  S/SP/SPURKIS/TAP-Formatter-HTML-0.09.ta
 App::Prove::Plugin::Idempotent     0.01  S/SC/SCHWIGON/idempotent/App-Prove-Plugin-Idempotent-0.01.tar.gz
 App::Prove::Plugin::SetEnv        0.001  I/IL/ILMARI/App-Prove-Plugin-SetEnv-0.001.tar.gz
 App::Prove::RunScripts             0.05  Y/YS/YSASAKI/App-Prove-RunScripts-0.05.tar.gz
-App::Prove::State                  3.23  A/AN/ANDYA/Test-Harness-3.23.tar.gz
-App::Prove::State::Result          3.23  A/AN/ANDYA/Test-Harness-3.23.tar.gz
-App::Prove::State::Result::Test    3.23  A/AN/ANDYA/Test-Harness-3.23.tar.gz
+App::Prove::State                  3.25  O/OV/OVID/Test-Harness-3.25.tar.gz
+App::Prove::State::Result          3.25  O/OV/OVID/Test-Harness-3.25.tar.gz
+App::Prove::State::Result::Test    3.25  O/OV/OVID/Test-Harness-3.25.tar.gz
 App::psort                         0.02  S/SR/SREZIC/App-psort-0.02.tar.gz
 App::psst                          0.09  M/MC/MCAST/App-psst-0.09.tar.gz
 App::QuoteCC                       0.10  A/AV/AVAR/App-QuoteCC-0.10.tar.gz
