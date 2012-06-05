@@ -36,6 +36,7 @@ Catalyst::Model::DBIC::Schema,RKITOVER,c
 Catalyst::Model::DBIC::Schema,SSCAFFIDI,c
 Catalyst::Model::DBIC::Schema,WDH,c
 Catalyst::Model::DBIC::Schema,WSHELDAHL,c
+Catalyst::Model::DBIC::Schema::QueryLog,BOBTFISH,c
 Catalyst::Model::DBIC::Schema::QueryLog,FAYLAND,f
 Catalyst::Model::DBIC::Schema::QueryLog,GPHAT,c
 Catalyst::Model::DBIDM,CBOUVI,f
