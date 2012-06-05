@@ -394,11 +394,11 @@ nfa                               undef  S/SO/SOREAR/STD-20101111.tar.gz
 NFA::Lazy                         undef  S/SO/SOREAR/STD-20101111.tar.gz
 NFA::Node                         undef  S/SO/SOREAR/STD-20101111.tar.gz
 NFA::seq                          undef  S/SO/SOREAR/STD-20101111.tar.gz
-Nginx                          1.002000005  Z/ZZ/ZZZ/Nginx-Perl-1.2.0.5.tar.gz
+Nginx                          1.002001005  Z/ZZ/ZZZ/Nginx-Perl-1.2.1.5.tar.gz
 Nginx::Control                     0.04  N/NA/NACHBAUR/Nginx-Control-0.04.tar.gz
 Nginx::HTTP                        0.03  Z/ZZ/ZZZ/Nginx-HTTP-0.03.tar.gz
 Nginx::ParseLog                    1.01  N/NR/NRG/Nginx-ParseLog-1.01.tar.gz
-Nginx::Perl                    1.002000005  Z/ZZ/ZZZ/Nginx-Perl-1.2.0.5.tar.gz
+Nginx::Perl                    1.002001005  Z/ZZ/ZZZ/Nginx-Perl-1.2.1.5.tar.gz
 Nginx::ReadBody                    0.07  T/TP/TPABA/Nginx/Nginx-ReadBody-0.07.tar.gz
 Nginx::Redis                   1.001012004  Z/ZZ/ZZZ/Nginx-Redis-1.1.12.4.tar.gz
 Nginx::Runner                     0.001  U/UN/UNDEF/Nginx-Runner-0.001.tar.gz
@@ -409,9 +409,9 @@ Nginx::Simple::Cookie             undef  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
 Nginx::Simple::Dispatch            0.02  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
 Nginx::Simple::Dispatcher         undef  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
 Nginx::Simple::Dispatcher::Attributes undef  M/MJ/MJFLICK/Nginx-Simple-0.07.tar.gz
-Nginx::Test                    1.002000005  Z/ZZ/ZZZ/Nginx-Perl-1.2.0.5.tar.gz
-Nginx::Test::Child             1.002000005  Z/ZZ/ZZZ/Nginx-Perl-1.2.0.5.tar.gz
-NginxPerlTest                  1.002000005  Z/ZZ/ZZZ/Nginx-Perl-1.2.0.5.tar.gz
+Nginx::Test                    1.002001005  Z/ZZ/ZZZ/Nginx-Perl-1.2.1.5.tar.gz
+Nginx::Test::Child             1.002001005  Z/ZZ/ZZZ/Nginx-Perl-1.2.1.5.tar.gz
+NginxPerlTest                  1.002001005  Z/ZZ/ZZZ/Nginx-Perl-1.2.1.5.tar.gz
 Nice                              undef  T/TO/TOMC/scripts/ADVLABS/nice/Nice.pm.gz
 Nikto::Parser                      0.01  J/JA/JABRA/Nikto-Parser-0.01.tar.gz
 Nikto::Parser::Host                0.01  J/JA/JABRA/Nikto-Parser-0.01.tar.gz
