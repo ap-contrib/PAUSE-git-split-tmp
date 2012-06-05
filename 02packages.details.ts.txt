@@ -139,7 +139,7 @@ TypeDeclarator                     2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 TypeDeclarators                    2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 TypeId                             2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 TypeLessTranslator                undef  N/NI/NIGE/Goo-0.09.tar.gz
-TypeLib                           undef  A/AM/AMD/Tapper-MCP-4.0.1.tar.gz
+TypeLib                           undef  A/AM/AMD/Tapper-MCP-4.0.2.tar.gz
 Typelib::Base                     undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 Typelib::TEnqueueMessage          undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 Typelib::TMessage                 undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz

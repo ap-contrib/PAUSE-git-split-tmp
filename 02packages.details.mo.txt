@@ -812,7 +812,7 @@ MultiThread::Base                   0.9  D/DS/DSPADEA/MultiThread-0.9.tar.gz
 MultiThread::Pipeline               0.9  D/DS/DSPADEA/MultiThread-0.9.tar.gz
 MultiThread::WorkerPool             0.9  D/DS/DSPADEA/MultiThread-0.9.tar.gz
 Munin::Node::Client                0.01  S/SE/SEBASTIAN/Munin-Node-Client-0.01.tar.gz
-MUser                             undef  A/AM/AMD/Tapper-MCP-4.0.1.tar.gz
+MUser                             undef  A/AM/AMD/Tapper-MCP-4.0.2.tar.gz
 Music::ABC::Archive                0.02  W/WE/WELTYJJ/Music-ABC-Archive-0.02.tar.gz
 Music::ABC::Song                   0.01  W/WE/WELTYJJ/Music-ABC-Song-0.01.tar.gz
 Music::Album                      undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz

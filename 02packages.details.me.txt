@@ -518,7 +518,7 @@ Method::Workflow::Task            undef  E/EX/EXODIST/Method-Workflow-0.204.tar.
 methods                            0.10  A/AU/AUDREYT/methods-0.10.tar.gz
 Methods::CheckNames                0.06  F/FL/FLORA/Methods-CheckNames-0.06.tar.gz
 Mewsoft::Pagination                0.40  M/ME/MEWSOFT/Mewsoft-Pagination-0.40.tar.gz
-MFoo                              undef  A/AM/AMD/Tapper-MCP-4.0.1.tar.gz
+MFoo                              undef  A/AM/AMD/Tapper-MCP-4.0.2.tar.gz
 MFor                              0.052  C/CO/CORNELIUS/MFor-0.052.tar.gz
 Mgd                                2.17  B/BR/BRADFITZ/mogilefs-server-2.17.tar.gz
 Mhash                              0.90  F/FK/FKUO/Mhash-0.90.tar.gz
