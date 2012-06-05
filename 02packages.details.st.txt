@@ -85,12 +85,12 @@ Sub::DeferredPartial::Op::Unary    0.01  S/SG/SGOELDNER/Sub-DeferredPartial-0.01
 Sub::Delete                     1.00002  S/SP/SPROUT/Sub-Delete-1.00002.tar.gz
 Sub::Documentation             1.100880  M/MA/MARCEL/Sub-Documentation-1.100880.tar.gz
 Sub::Documentation::Attributes 1.100880  M/MA/MARCEL/Sub-Documentation-1.100880.tar.gz
-Sub::Exporter                     0.982  R/RJ/RJBS/Sub-Exporter-0.982.tar.gz
+Sub::Exporter                     0.984  R/RJ/RJBS/Sub-Exporter-0.984.tar.gz
 Sub::Exporter::ForMethods      0.100050  R/RJ/RJBS/Sub-Exporter-ForMethods-0.100050.tar.gz
 Sub::Exporter::GlobExporter       0.002  R/RJ/RJBS/Sub-Exporter-GlobExporter-0.002.tar.gz
 Sub::Exporter::Lexical         0.092291  R/RJ/RJBS/Sub-Exporter-Lexical-0.092291.tar.gz
 Sub::Exporter::Simple          1.103210  M/MI/MITHALDU/Sub-Exporter-Simple-1.103210.tar.gz
-Sub::Exporter::Util               0.982  R/RJ/RJBS/Sub-Exporter-0.982.tar.gz
+Sub::Exporter::Util               0.984  R/RJ/RJBS/Sub-Exporter-0.984.tar.gz
 Sub::Filter                       0.003  Z/ZE/ZEFRAM/Sub-Filter-0.003.tar.gz
 Sub::ForceEval                 0.004004  L/LE/LEMBARK/Sub-ForceEval-2.04.tar.gz
 Sub::Fork                          1.02  I/IT/ITRUNAEV/Sub-Fork-1.02.tar.gz
