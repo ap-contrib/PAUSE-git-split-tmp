@@ -446,7 +446,6 @@ Plosurin::Utl::ExpMapVariables        0  Z/ZA/ZAG/Plosurin-v0.1.1.tar.gz
 Plosurin::Utl::SetLinePos             0  Z/ZA/ZAG/Plosurin-v0.1.1.tar.gz
 Plosurin::Writer::Perl5               0  Z/ZA/ZAG/Plosurin-v0.1.1.tar.gz
 plot                               1.27  C/CJ/CJONES/Microarray-0.45c.zip
-Plot                              5.000  S/SR/SREZIC/Acme-SREZIC-Obsolete-0.02.tar.gz
 PlotCalendar::DateDesc             1.00  A/AJ/AJACKSON/PlotCalendar-1.4.tar.gz
 PlotCalendar::DateTools            1.00  A/AJ/AJACKSON/PlotCalendar-1.4.tar.gz
 PlotCalendar::Day                  1.01  A/AJ/AJACKSON/PlotCalendar-1.4.tar.gz
