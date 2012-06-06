@@ -1019,6 +1019,8 @@ Net::Telnet::Wrapper::Device::Template::New,MWALLRAF,f
 Net::Telnet::Wrapper::Device::Unix::General,MWALLRAF,f
 Net::TextMessage::Canada,LUKEC,f
 Net::ThirtySevenSignals::Highrise,DSADINOFF,f
+Net::ThreeScale::Client,RGRAU,f
+Net::ThreeScale::Response,RGRAU,f
 Net::TiVo,BOUMENOT,f
 Net::TiVo::Folder,BOUMENOT,f
 Net::TiVo::Show,BOUMENOT,f
