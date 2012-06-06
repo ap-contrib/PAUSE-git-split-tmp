@@ -700,6 +700,8 @@ Net::Server::Framework::Validate,NORBU,f
 Net::Server::HTTP,RHANDOM,f
 Net::Server::INET,RHANDOM,f
 Net::Server::INET::Handle,RHANDOM,f
+Net::Server::Log::Log::Log4perl,RHANDOM,f
+Net::Server::Log::Sys::Syslog,RHANDOM,f
 Net::Server::Mail,GUIMARD,c
 Net::Server::Mail,RJBS,c
 Net::Server::Mail,RSOLIV,f
