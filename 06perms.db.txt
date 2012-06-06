@@ -24,6 +24,7 @@ DBIx::Class::Helper::ResultSet::AutoRemoveColumns,FREW,f
 DBIx::Class::Helper::ResultSet::CorrelateRelationship,FREW,f
 DBIx::Class::Helper::ResultSet::IgnoreWantarray,FREW,f
 DBIx::Class::Helper::ResultSet::Me,FREW,f
+DBIx::Class::Helper::ResultSet::NoColumns,FREW,f
 DBIx::Class::Helper::ResultSet::Random,FREW,f
 DBIx::Class::Helper::ResultSet::RemoveColumns,FREW,f
 DBIx::Class::Helper::ResultSet::ResultClassDWIM,FREW,f
