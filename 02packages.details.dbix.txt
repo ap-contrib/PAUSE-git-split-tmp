@@ -856,10 +856,10 @@ Devel::DTrace::Provider::Builder  undef  C/CH/CHRISA/Devel-DTrace-Provider-0.02.
 Devel::DTrace::Provider::ProbeDef undef  C/CH/CHRISA/Devel-DTrace-Provider-0.02.tar.gz
 Devel::DumpSizes                   0.01  C/CG/CGAUTAM/Devel-DumpSizes-0.01.tar.gz
 Devel::DumpStack                  undef  J/JA/JACKS/DumpStack-1.1.tar.gz
-Devel::DumpTrace                   0.15  M/MO/MOB/Devel-DumpTrace-0.15.tar.gz
-Devel::DumpTrace::Const            0.15  M/MO/MOB/Devel-DumpTrace-0.15.tar.gz
-Devel::DumpTrace::PPI              0.15  M/MO/MOB/Devel-DumpTrace-0.15.tar.gz
-Devel::DumpTrace::VerboseLevel     0.15  M/MO/MOB/Devel-DumpTrace-0.15.tar.gz
+Devel::DumpTrace                   0.16  M/MO/MOB/Devel-DumpTrace-0.16.tar.gz
+Devel::DumpTrace::Const            0.16  M/MO/MOB/Devel-DumpTrace-0.16.tar.gz
+Devel::DumpTrace::PPI              0.16  M/MO/MOB/Devel-DumpTrace-0.16.tar.gz
+Devel::DumpTrace::VerboseLevel     0.16  M/MO/MOB/Devel-DumpTrace-0.16.tar.gz
 Devel::Dumpvar                     1.06  A/AD/ADAMK/Devel-Dumpvar-1.06.tar.gz
 Devel::Dwarn                      undef  F/FR/FREW/Data-Dumper-Concise-2.020.tar.gz
 Devel::ebug                        0.53  A/AW/AWWAIID/Devel-ebug-0.53.tar.gz
