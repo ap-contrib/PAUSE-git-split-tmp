@@ -586,10 +586,10 @@ Sprocket::Util::FDpasser          undef  X/XA/XANTUS/Sprocket-0.07.tar.gz
 Sprocket::Util::Observable        undef  X/XA/XANTUS/Sprocket-0.07.tar.gz
 SQL::Abstract                      1.72  F/FR/FREW/SQL-Abstract-1.72.tar.gz
 SQL::Abstract::Builder         0.001001  T/TR/TRON/SQL-Abstract-Builder-v0.1.1.tar.gz
-SQL::Abstract::FromQuery           0.01  D/DA/DAMI/SQL-Abstract-FromQuery-0.01.tar.gz
-SQL::Abstract::FromQuery::Contains    0  D/DA/DAMI/SQL-Abstract-FromQuery-0.01.tar.gz
-SQL::Abstract::FromQuery::FR          0  D/DA/DAMI/SQL-Abstract-FromQuery-0.01.tar.gz
-SQL::Abstract::FromQuery::Oracle      0  D/DA/DAMI/SQL-Abstract-FromQuery-0.01.tar.gz
+SQL::Abstract::FromQuery           0.02  D/DA/DAMI/SQL-Abstract-FromQuery-0.02.tar.gz
+SQL::Abstract::FromQuery::Contains    0  D/DA/DAMI/SQL-Abstract-FromQuery-0.02.tar.gz
+SQL::Abstract::FromQuery::FR          0  D/DA/DAMI/SQL-Abstract-FromQuery-0.02.tar.gz
+SQL::Abstract::FromQuery::Oracle      0  D/DA/DAMI/SQL-Abstract-FromQuery-0.02.tar.gz
 SQL::Abstract::Limit              0.141  D/DA/DAVEBAIRD/SQL-Abstract-Limit-0.141.tar.gz
 SQL::Abstract::More                1.05  D/DA/DAMI/SQL-Abstract-More-1.05.tar.gz
 SQL::Abstract::Plugin::InsertMulti 0.03  Z/ZI/ZIGOROU/SQL-Abstract-Plugin-InsertMulti-0.03.tar.gz
