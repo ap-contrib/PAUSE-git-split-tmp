@@ -508,10 +508,10 @@ Linux::Pdeathsig                   0.10  Z/ZE/ZEROHP/Linux-Pdeathsig-0.10.tar.gz
 Linux::Personality                 0.01  S/SC/SCHWIGON/linux-personality/Linux-Personality-0.01.tar.gz
 Linux::Pid                         0.04  R/RG/RGARCIA/Linux-Pid-0.04.tar.gz
 Linux::PipeMagic                   0.03  D/DL/DLAMBLEY/Linux-PipeMagic-0.03.tar.gz
-Linux::Prctl                   1.004001  S/SE/SEVEAS/Linux-Prctl-1.4.1.tar.gz
-Linux::Prctl::CapabilityBoundingSet undef  S/SE/SEVEAS/Linux-Prctl-1.4.1.tar.gz
-Linux::Prctl::CapabilitySet       undef  S/SE/SEVEAS/Linux-Prctl-1.4.1.tar.gz
-Linux::Prctl::Securebits          undef  S/SE/SEVEAS/Linux-Prctl-1.4.1.tar.gz
+Linux::Prctl                   1.005000  S/SE/SEVEAS/Linux-Prctl-1.5.0.tar.gz
+Linux::Prctl::CapabilityBoundingSet undef  S/SE/SEVEAS/Linux-Prctl-1.5.0.tar.gz
+Linux::Prctl::CapabilitySet       undef  S/SE/SEVEAS/Linux-Prctl-1.5.0.tar.gz
+Linux::Prctl::Securebits          undef  S/SE/SEVEAS/Linux-Prctl-1.5.0.tar.gz
 Linux::Proc::Cpuinfo               0.02  H/HA/HAGGAI/Linux-Proc-Cpuinfo-0.02.tar.gz
 Linux::Proc::Mountinfo             0.02  S/SA/SALVA/Linux-Proc-Mountinfo-0.02.tar.gz
 Linux::Proc::Mountinfo::Entry      0.02  S/SA/SALVA/Linux-Proc-Mountinfo-0.02.tar.gz
