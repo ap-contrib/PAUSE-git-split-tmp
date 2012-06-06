@@ -266,6 +266,7 @@ App::Syndicator,RGE,f
 App::Sys::Info,BURAK,f
 App::Sysadmin::Log::Simple,DOHERTY,f
 App::Sysadmin::Log::Simple::File,DOHERTY,f
+App::Sysadmin::Log::Simple::Twitter,DOHERTY,f
 App::Sysadmin::Log::Simple::UDP,DOHERTY,f
 App::TLSMe,VTI,f
 App::TLSMe::Connection,VTI,f

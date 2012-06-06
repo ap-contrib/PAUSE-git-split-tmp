@@ -183,9 +183,10 @@ App::SweeperBot                    0.03  P/PJ/PJF/App-SweeperBot-0.03.tar.gz
 App::sync_cpantesters          1.111470  M/MA/MARCEL/App-sync_cpantesters-1.111470.tar.gz
 App::Syndicator                  0.0061  R/RG/RGE/App-Syndicator-0.0061.tar.gz
 App::Sys::Info                     0.20  B/BU/BURAK/App-Sys-Info-0.20.tar.gz
-App::Sysadmin::Log::Simple        0.004  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.004.tar.gz
-App::Sysadmin::Log::Simple::File  0.004  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.004.tar.gz
-App::Sysadmin::Log::Simple::UDP   0.004  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.004.tar.gz
+App::Sysadmin::Log::Simple        0.005  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.005.tar.gz
+App::Sysadmin::Log::Simple::File  0.005  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.005.tar.gz
+App::Sysadmin::Log::Simple::Twitter 0.005  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.005.tar.gz
+App::Sysadmin::Log::Simple::UDP   0.005  D/DO/DOHERTY/App-Sysadmin-Log-Simple-0.005.tar.gz
 App::TailRabbit                   0.003  B/BO/BOBTFISH/App-TailRabbit-0.003.tar.gz
 App::TailRabbit::Convertor::Null  undef  B/BO/BOBTFISH/App-TailRabbit-0.003.tar.gz
 App::TailRabbit::Growl            0.001  B/BO/BOBTFISH/App-TailRabbit-Growl-0.001.tar.gz
