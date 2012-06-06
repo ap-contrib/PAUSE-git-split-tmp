@@ -50,6 +50,7 @@ Math::NumSeq::KaprekarRoutineSteps,KRYDE,f
 Math::NumSeq::KlarnerRado,KRYDE,f
 Math::NumSeq::Kolakoski,KRYDE,f
 Math::NumSeq::KolakoskiMajority,KRYDE,f
+Math::NumSeq::LeastPrimitiveRoot,KRYDE,f
 Math::NumSeq::LemoineCount,KRYDE,f
 Math::NumSeq::LiouvilleFunction,KRYDE,f
 Math::NumSeq::LipschitzClass,KRYDE,f
@@ -190,6 +191,8 @@ Math::NumSeq::SqrtContinued,KRYDE,f
 Math::NumSeq::SqrtContinuedPeriod,KRYDE,f
 Math::NumSeq::SqrtDigits,KRYDE,f
 Math::NumSeq::SqrtEngel,KRYDE,f
+Math::NumSeq::SquareFree,KRYDE,f
+Math::NumSeq::SquareFreeKernel,KRYDE,f
 Math::NumSeq::Squares,KRYDE,f
 Math::NumSeq::StarNumbers,KRYDE,f
 Math::NumSeq::SternDiatomic,KRYDE,f
