@@ -984,7 +984,7 @@ Bundle::DBD::Pg                  2.19.2  T/TU/TURNSTEP/DBD-Pg-2.19.2.tar.gz
 Bundle::DBD::PO                    2.10  S/ST/STEFFENW/Bundle-DBD-PO-2.10.tar.gz
 Bundle::DBD::Sys                  0.102  R/RE/REHSACK/DBD-Sys-0.102.tar.gz
 Bundle::DBD::Yaswi                 0.01  S/SA/SALVA/DBD-Yaswi-0.01.tar.gz
-Bundle::DBI                    12.008695  T/TI/TIMB/DBI-1.621.tar.gz
+Bundle::DBI                    12.008695  T/TI/TIMB/DBI-1.622.tar.gz
 Bundle::DBWIZ                      0.01  C/CA/CALVINM/Bundle-DBWIZ-0.01.tar.gz
 Bundle::Delivery                   0.03  W/WR/WROSS/Bundle-Delivery-0.03.tar.gz
 Bundle::Devel                       0.2  A/AD/ADAMK/Bundle-Devel-0.2.tar.gz
