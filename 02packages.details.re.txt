@@ -1,8 +1,8 @@
 Reflexive::Role::Collective    1.113340  N/NP/NPEREZ/Reflexive-Role-Collective-1.113340.tar.gz
 Reflexive::Role::DataMover     1.110030  N/NP/NPEREZ/Reflexive-Role-DataMover-1.110030.tar.gz
-Reflexive::Role::StreamFiltering 1.103450  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.103450.tar.gz
+Reflexive::Role::StreamFiltering 1.121580  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.121580.tar.gz
 Reflexive::Role::TCPServer     1.110100  N/NP/NPEREZ/Reflexive-Role-TCPServer-1.110100.tar.gz
-Reflexive::Stream::Filtering   1.103450  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.103450.tar.gz
+Reflexive::Stream::Filtering   1.121580  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.121580.tar.gz
 ReflexPromise                     undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 reform                              0.3  H/HK/HKOCH/reform-0.3.tar.gz
 reform::implicit                  undef  H/HK/HKOCH/reform-0.3.tar.gz

@@ -353,6 +353,7 @@ Reflex::UdpPeer,RCAPUTO,f
 Reflex::Util::Methods,RCAPUTO,f
 Reflex::Wakeup,RCAPUTO,f
 ReflexPromise,RCAPUTO,f
+Reflexive::Event::Data,NPEREZ,f
 Reflexive::Role::Collective,NPEREZ,f
 Reflexive::Role::DataMover,NPEREZ,f
 Reflexive::Role::StreamFiltering,NPEREZ,f
