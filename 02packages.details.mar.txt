@@ -428,8 +428,8 @@ Math::GMPf::Random                 0.34  S/SI/SISYPHUS/Math-GMPf-0.34.tar.gz
 Math::GMPn                         0.03  S/SA/SALVA/Math-GMPn-0.03.tar.gz
 Math::GMPq                         0.33  S/SI/SISYPHUS/Math-GMPq-0.33.tar.gz
 Math::GMPq::Random                 0.33  S/SI/SISYPHUS/Math-GMPq-0.33.tar.gz
-Math::GMPz                         0.33  S/SI/SISYPHUS/Math-GMPz-0.33.tar.gz
-Math::GMPz::Random                 0.33  S/SI/SISYPHUS/Math-GMPz-0.33.tar.gz
+Math::GMPz                         0.34  S/SI/SISYPHUS/Math-GMPz-0.34.tar.gz
+Math::GMPz::Random                 0.34  S/SI/SISYPHUS/Math-GMPz-0.34.tar.gz
 Math::Goedel                       0.03  T/TU/TURUGINA/Math-Goedel-0.03.tar.gz
 Math::Gradient                     0.04  C/CR/CRAKRJACK/Math-Gradient-0.04.tgz
 Math::GrahamFunction            0.02000  S/SH/SHLOMIF/Math-GrahamFunction-0.02000.tar.gz
