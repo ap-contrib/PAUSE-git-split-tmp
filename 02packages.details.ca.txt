@@ -474,6 +474,7 @@ Catalyst::TraitFor::Request::Plack::Session 0.001  R/RS/RSRCHBOY/Catalyst-TraitF
 Catalyst::TraitFor::Request::ProxyBase 0.000005  B/BO/BOBTFISH/Catalyst-TraitFor-Request-ProxyBase-0.000005.tar.gz
 Catalyst::TraitFor::Request::REST  1.02  B/BO/BOBTFISH/Catalyst-Action-REST-1.02.tar.gz
 Catalyst::TraitFor::Request::REST::ForBrowsers 1.02  B/BO/BOBTFISH/Catalyst-Action-REST-1.02.tar.gz
+Catalyst::TraitFor::Request::REST::ForBrowsers::AndPJAX 0.001  R/RS/RSRCHBOY/Catalyst-TraitFor-Request-REST-ForBrowsers-AndPJAX-0.001.tar.gz
 Catalyst::TraitFor::Request::XMLHttpRequest 0.01  F/FL/FLORA/Catalyst-TraitFor-Request-XMLHttpRequest-0.01.tar.gz
 Catalyst::TraitFor::View::MarkupValidation 0.003  D/DO/DORWARD/Catalyst-TraitFor-View-MarkupValidation-0.003.tar.gz
 Catalyst::TraitFor::View::TT::ConfigPerSite undef  T/TE/TEEJAY/Catalyst-TraitFor-Component-ConfigPerSite-0.10.tar.gz
