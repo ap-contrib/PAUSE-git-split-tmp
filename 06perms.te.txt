@@ -500,6 +500,7 @@ Tickit::Widget::Table::HeaderRow,TEAM,f
 Tickit::Widget::Table::Row,TEAM,f
 Tickit::Widget::Tree,TEAM,f
 Tickit::Widget::VBox,PEVANS,f
+Tickit::WidgetRole::Alignable,PEVANS,f
 Tickit::WidgetRole::Borderable,PEVANS,f
 Tickit::Window,PEVANS,f
 TiddlyWeb::EditPage,CDENT,f
