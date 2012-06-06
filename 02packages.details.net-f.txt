@@ -329,8 +329,8 @@ Net::GrowlClient                   0.02  C/CA/CASTOR/Net-GrowlClient-0.02.tar.gz
 Net::GrpNetworks                   1.08  A/AR/ARVIEGAS/Net-GrpNetworks-1.08.tar.gz
 Net::Halo::Status                  0.02  L/LI/LINK/Net-Halo-Status-0.02.tar.gz
 Net::HAProxy                      0.001  R/RG/RGE/Net-HAProxy-0.001.tar.gz
-Net::Heroku                        0.05  T/TE/TEMPIRE/Net-Heroku-0.05.tar.gz
-Net::Heroku::UserAgent            undef  T/TE/TEMPIRE/Net-Heroku-0.05.tar.gz
+Net::Heroku                        0.06  T/TE/TEMPIRE/Net-Heroku-0.06.tar.gz
+Net::Heroku::UserAgent            undef  T/TE/TEMPIRE/Net-Heroku-0.06.tar.gz
 Net::Hesiod                        1.11  P/PA/PAYERLE/Net-Hesiod-1.11.tar.gz
 Net::Hiveminder                    0.08  S/SA/SARTAK/Net-Hiveminder-0.08.tar.gz
 Net::HL7                           0.76  D/DD/DDOKTER/Net-HL7-0.76.tar.gz
