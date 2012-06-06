@@ -93,8 +93,8 @@ App::Module::Locate                 0.2  C/CE/CELOGEEK/App-Module-Locate-0.2.tar
 App::module::version              1.004  K/KM/KMX/App-module-version-1.004.tar.gz
 App::moduleshere                   0.08  S/SU/SUNNAVY/App-moduleshere-0.08.tar.gz
 App::moduleswhere                  0.03  S/SU/SUNNAVY/App-moduleswhere-0.03.tar.gz
-App::Monupco::dotCloud             0.05  A/AT/ATODOROV/App-Monupco-dotCloud-0.05.tar.gz
-App::Monupco::dotCloud::Parser    undef  A/AT/ATODOROV/App-Monupco-dotCloud-0.05.tar.gz
+App::Monupco::dotCloud             0.06  A/AT/ATODOROV/App-Monupco-dotCloud-0.06.tar.gz
+App::Monupco::dotCloud::Parser    undef  A/AT/ATODOROV/App-Monupco-dotCloud-0.06.tar.gz
 App::Monupco::OpenShift            0.10  A/AT/ATODOROV/App-Monupco-OpenShift-0.10.tar.gz
 App::Monupco::OpenShift::Parser   undef  A/AT/ATODOROV/App-Monupco-OpenShift-0.10.tar.gz
 App::Mowyw                       v0.7.1  M/MO/MORITZ/App-Mowyw-v0.7.1.tar.gz
