@@ -133,6 +133,7 @@ Iterator::Simple::FileUniq,KRYDE,f
 Iterator::Simple::Iterator,RINTARO,f
 Iterator::Simple::Locate,KRYDE,f
 Iterator::Simple::Util,RAYM,f
+Iterator::Simple::Util::CSV,RAYM,f
 Iterator::ToArray,YSASAKI,m
 Iterator::Util,ROODE,m
 Ivrs,MUKUND,f

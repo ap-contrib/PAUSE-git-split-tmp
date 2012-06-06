@@ -743,7 +743,8 @@ Iterator::Simple                   0.05  R/RI/RINTARO/Iterator-Simple-0.05.tar.g
 Iterator::Simple::FileUniq        undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Iterator::Simple::Iterator         0.05  R/RI/RINTARO/Iterator-Simple-0.05.tar.gz
 Iterator::Simple::Locate             21  K/KR/KRYDE/File-Locate-Iterator-21.tar.gz
-Iterator::Simple::Util            0.001  R/RA/RAYM/Iterator-Simple-Util-0.001.tar.gz
+Iterator::Simple::Util            0.002  R/RA/RAYM/Iterator-Simple-Util-0.002.tar.gz
+Iterator::Simple::Util::CSV       0.002  R/RA/RAYM/Iterator-Simple-Util-0.002.tar.gz
 Iterator::ToArray                  0.02  Y/YS/YSASAKI/Iterator-ToArray-0.02.tar.gz
 Iterator::Util                     0.02  R/RO/ROODE/Iterator-Util-0.02.tar.gz
 iTransact::Lite                   undef  R/RI/RIZEN/iTransact-Lite-0.0101.tar.gz
