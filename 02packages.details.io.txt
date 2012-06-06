@@ -740,7 +740,7 @@ Iterator::Misc                     0.03  R/RO/ROODE/Iterator-Misc-0.03.tar.gz
 Iterator::Paged                   1.001  J/JO/JOHND/Iterator-Paged-1.001.tar.gz
 Iterator::RoundRobin                0.2  S/SO/SOCK/Iterator-RoundRobin-0.2.tar.gz
 Iterator::Simple                   0.05  R/RI/RINTARO/Iterator-Simple-0.05.tar.gz
-Iterator::Simple::FileUniq        undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
+Iterator::Simple::FileUniq        undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Iterator::Simple::Iterator         0.05  R/RI/RINTARO/Iterator-Simple-0.05.tar.gz
 Iterator::Simple::Locate             21  K/KR/KRYDE/File-Locate-Iterator-21.tar.gz
 Iterator::ToArray                  0.02  Y/YS/YSASAKI/Iterator-ToArray-0.02.tar.gz

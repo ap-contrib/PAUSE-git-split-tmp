@@ -424,7 +424,7 @@ TestApp6                          undef  M/MA/MARKSTOS/CGI-Application-3.31.tar.
 TestApp7                          undef  M/MA/MARKSTOS/CGI-Application-3.31.tar.gz
 TestApp8                          undef  M/MA/MARKSTOS/CGI-Application-3.31.tar.gz
 TestApp9                          undef  M/MA/MARKSTOS/CGI-Application-3.31.tar.gz
-TestAutoload                      undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
+TestAutoload                      undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 TestBed                           undef  D/DC/DCONWAY/Attribute-Handlers-Prospective-0.01.tar.gz
 TestBed6                          undef  D/DC/DCONWAY/Attribute-Handlers-Prospective-0.01.tar.gz
 TestBusted1                       undef  B/BW/BWARFIELD/NRGN/Test-AutoLoader-0.03.tar.gz

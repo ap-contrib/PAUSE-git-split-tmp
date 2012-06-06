@@ -352,7 +352,7 @@ MyLibrary::Review                 undef  E/EM/EMORGAN/MyLibrary-3.0.4.tar.gz
 MyLibrary::Stylesheet             undef  E/EM/EMORGAN/MyLibrary-3.0.4.tar.gz
 MyLibrary::Term                   undef  E/EM/EMORGAN/MyLibrary-3.0.4.tar.gz
 MyLinkParser                       0.77  I/IS/ISHIGAKI/CPAN-Search-Lite-0.78.tar.gz
-MyLocatePerl                      undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
+MyLocatePerl                      undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 MyMachine                         undef  C/CA/CASIANO/GRID-Machine-0.127.tar.gz
 MyModel1::book                    undef  K/KI/KIMOTO/DBIx-Custom-0.1711.tar.gz
 MyModel4::company                 undef  K/KI/KIMOTO/DBIx-Custom-0.1711.tar.gz
@@ -445,7 +445,7 @@ MySQL::Utils                      undef  A/AS/ASPIERS/MySQL-Diff-0.33.tar.gz
 mysql_comparison                    1.1  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
 MyStamp                           undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 MyStripScripts                    undef  D/DR/DRTECH/HTML-StripScripts-1.05.tar.gz
-MyStuff                           undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
+MyStuff                           undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 mysubs                             1.14  C/CH/CHOCOLATE/mysubs-1.14.tar.gz
 MyTest                            undef  H/HU/HUGHES/manish-db.tar.gz
 Mytest                            undef  S/ST/STELLAR/Dendral-HTTP-Request-0.1.0.tar.gz
@@ -482,8 +482,8 @@ MyTypes::PhoneNumber              undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyTypes::ShowTextPosition         undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyTypes::test2                    undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MyTypes::testExtended             undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
-MyUniqByInode                     undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
-MyUniqByMD5                       undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
+MyUniqByInode                     undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
+MyUniqByMD5                       undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 MyUtils                           undef  J/JA/JALYCAI/article_fetcher.zip
 MyWeblog::Model::Post             undef  J/JE/JESSE/Jifty-0.70117.tar.gz
 MyXSLT                             0.22  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.22.tar.gz

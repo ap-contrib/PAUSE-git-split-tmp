@@ -545,9 +545,9 @@ Location::GeoTool::Direction       0.97  K/KO/KOKOGIKO/Location-GeoTool-2.tar.gz
 Location::GeoTool::Plugin::GridLocator 0.02  K/KO/KOKOGIKO/Location-GeoTool-2.tar.gz
 Location::GeoTool::Plugin::Locapoint 0.02  K/KO/KOKOGIKO/Location-GeoTool-2.tar.gz
 LocationDialog                    undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-Locator                           undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
-Locator::BinScripts               undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
-Locator::Concat                   undef  K/KR/KRYDE/Perl-Critic-Pulp-70.tar.gz
+Locator                           undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
+Locator::BinScripts               undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
+Locator::Concat                   undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Lockable                           0.03  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 LockFile::Lock                    undef  S/SC/SCHWIGON/lockfile-simple/LockFile-Simple-0.208.tar.gz
 LockFile::Lock::Simple            undef  S/SC/SCHWIGON/lockfile-simple/LockFile-Simple-0.208.tar.gz

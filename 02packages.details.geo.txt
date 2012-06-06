@@ -441,7 +441,8 @@ Gitosis::Config                    0.06  P/PE/PERIGRIN/Gitosis-Config-0.06.tar.g
 Gitosis::Config::Group            undef  P/PE/PERIGRIN/Gitosis-Config-0.06.tar.gz
 Gitosis::Config::Reader           undef  P/PE/PERIGRIN/Gitosis-Config-0.06.tar.gz
 Gitosis::Config::Writer           undef  P/PE/PERIGRIN/Gitosis-Config-0.06.tar.gz
-GitStore                           0.07  Y/YA/YANICK/GitStore-0.07.tar.gz
+GitStore                           0.08  Y/YA/YANICK/GitStore-0.08.tar.gz
+GitStore::Revision                 0.08  Y/YA/YANICK/GitStore-0.08.tar.gz
 GitTag                            1.000  R/RC/RCAPUTO/App-SnerpVortex-1.000.tar.gz
 Gives                          0.001000  R/RR/RRWO/Gives-v0.1.0.tar.gz
 Glade2::Widget                      0.1  M/MA/MARTIJN/Glade2-Widget-0.1.tar.gz
