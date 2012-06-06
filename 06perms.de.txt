@@ -1600,6 +1600,7 @@ Dist::Zilla::PluginBundle::Author::KENTNL::Lite,KENTNL,f
 Dist::Zilla::PluginBundle::Author::LESPEA,LESPEA,m
 Dist::Zilla::PluginBundle::Author::MELO,MELO,f
 Dist::Zilla::PluginBundle::Author::OLIVER,OLIVER,f
+Dist::Zilla::PluginBundle::Author::RAYM,RAYM,f
 Dist::Zilla::PluginBundle::Author::RHOELZ,RHOELZ,f
 Dist::Zilla::PluginBundle::Author::RTHOMPSON,RTHOMPSON,f
 Dist::Zilla::PluginBundle::Author::RUSSOZ,RUSSOZ,f
