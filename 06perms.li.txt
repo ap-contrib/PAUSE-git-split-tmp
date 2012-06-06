@@ -29,6 +29,7 @@ Lingua::JA::TFIDF,MIKI,f
 Lingua::JA::TFIDF::Base,MIKI,f
 Lingua::JA::TFIDF::Fetcher,MIKI,f
 Lingua::JA::TFIDF::Result,MIKI,f
+Lingua::JA::TFWebIDF,PAWAPAWA,f
 Lingua::JA::WebIDF,PAWAPAWA,f
 Lingua::JA::WebIDF::API::Bing,PAWAPAWA,f
 Lingua::JA::WebIDF::API::Yahoo,PAWAPAWA,f
