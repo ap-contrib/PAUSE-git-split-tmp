@@ -1245,7 +1245,7 @@ Devel::Symdump::Export            undef  A/AN/ANDK/Devel-Symdump-2.08.tar.gz
 Devel::System                      0.01  R/RC/RCLAMP/Devel-System-0.01.tar.gz
 Devel::TakeHashArgs               0.005  Z/ZO/ZOFFIX/Devel-TakeHashArgs-0.005.tar.gz
 Devel::tcltkdb                      2.1  V/VK/VKON/Devel-tcltkdb-2.1.tar.gz
-Devel::ThreadsForks                0.05  E/EL/ELIZABETH/Devel-ThreadsForks-0.05.tar.gz
+Devel::ThreadsForks                0.06  E/EL/ELIZABETH/Devel-ThreadsForks-0.06.tar.gz
 Devel::throttle                    0.01  G/GU/GUIDO/Devel-throttle-0.01.tar.gz
 Devel::Timer                       0.04  S/SZ/SZABGAB/Devel-Timer-0.04.tar.gz
 Devel::TimeThis                  0.0200  J/JO/JOHANL/Devel-PerlySense-0.0200.tar.gz
