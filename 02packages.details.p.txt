@@ -980,9 +980,10 @@ RDF::RDFa::Linter::Service::CreativeCommons 0.052  T/TO/TOBYINK/RDF-RDFa-Linter-
 RDF::RDFa::Linter::Service::Facebook 0.052  T/TO/TOBYINK/RDF-RDFa-Linter-0.052.tar.gz
 RDF::RDFa::Linter::Service::Google 0.052  T/TO/TOBYINK/RDF-RDFa-Linter-0.052.tar.gz
 RDF::RDFa::Linter::Service::SchemaOrg 0.052  T/TO/TOBYINK/RDF-RDFa-Linter-0.052.tar.gz
-RDF::RDFa::Parser                 1.096  T/TO/TOBYINK/RDF-RDFa-Parser-1.096.tar.gz
-RDF::RDFa::Parser::Config         1.096  T/TO/TOBYINK/RDF-RDFa-Parser-1.096.tar.gz
-RDF::RDFa::Parser::OpenDocumentObjectModel 1.096  T/TO/TOBYINK/RDF-RDFa-Parser-1.096.tar.gz
+RDF::RDFa::Parser                 1.097  T/TO/TOBYINK/RDF-RDFa-Parser-1.097.tar.gz
+RDF::RDFa::Parser::Config         1.097  T/TO/TOBYINK/RDF-RDFa-Parser-1.097.tar.gz
+RDF::RDFa::Parser::InitialContext 1.097  T/TO/TOBYINK/RDF-RDFa-Parser-1.097.tar.gz
+RDF::RDFa::Parser::OpenDocumentObjectModel 1.097  T/TO/TOBYINK/RDF-RDFa-Parser-1.097.tar.gz
 RDF::RDFa::Parser::Profile        1.096  T/TO/TOBYINK/RDF-RDFa-Parser-1.096.tar.gz
 RDF::RDFa::Parser::Profile::AbstractLinkTypes 1.096  T/TO/TOBYINK/RDF-RDFa-Parser-1.096.tar.gz
 RDF::RDFa::Parser::Profile::ARIARoles 1.096  T/TO/TOBYINK/RDF-RDFa-Parser-1.096.tar.gz
