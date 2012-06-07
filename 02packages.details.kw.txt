@@ -463,8 +463,8 @@ Labyrinth::Plugin::News            5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.
 Labyrinth::Plugin::Requests        1.00  B/BA/BARBIE/Labyrinth-Plugin-Requests-1.00.tar.gz
 Labyrinth::Plugin::Users           5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
 Labyrinth::Plugin::Users::Info     5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
-Labyrinth::Plugin::Wiki            1.02  B/BA/BARBIE/Labyrinth-Plugin-Wiki-1.02.tar.gz
-Labyrinth::Plugin::Wiki::Text      1.02  B/BA/BARBIE/Labyrinth-Plugin-Wiki-1.02.tar.gz
+Labyrinth::Plugin::Wiki            1.03  B/BA/BARBIE/Labyrinth-Plugin-Wiki-1.03.tar.gz
+Labyrinth::Plugin::Wiki::Text      1.03  B/BA/BARBIE/Labyrinth-Plugin-Wiki-1.03.tar.gz
 Labyrinth::Plugins                 5.12  B/BA/BARBIE/Labyrinth-5.12.tar.gz
 Labyrinth::Query::CGI              5.12  B/BA/BARBIE/Labyrinth-5.12.tar.gz
 Labyrinth::Request                 5.12  B/BA/BARBIE/Labyrinth-5.12.tar.gz
