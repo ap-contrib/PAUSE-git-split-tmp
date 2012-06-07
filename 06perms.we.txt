@@ -292,6 +292,7 @@ WebService::Prowl,SEKIMURA,f
 WebService::Prowl::AnyEventHTTP,SEKIMURA,f
 WebService::PublicViewpoints,GUGOD,f
 WebService::PublicViewpoints::Point,GUGOD,f
+WebService::Pushover,SHUFF,f
 WebService::PutIo,MRAMBERG,f
 WebService::PutIo::Files,MRAMBERG,f
 WebService::PutIo::Messages,MRAMBERG,f
