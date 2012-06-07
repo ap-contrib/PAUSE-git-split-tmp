@@ -1034,6 +1034,7 @@ Memoize::Storable,MJD,f
 Memory::Cache::HeapElem,CLEISHMAN,f
 Memory::Usage,DONEILL,f
 Memphis,POTYL,f
+MendeleySQLite,SDEN,f
 MenuElement,PHILCROW,f
 MenuOutline,KARASIK,f
 MenuSelectionManager,PHILCROW,f
