@@ -224,7 +224,7 @@ Math::Algebra::SymbolsTerm         1.18  P/PR/PRBRENAN/Math-Algebra-Symbols-1.18
 Math::Amoeba                       0.05  T/TO/TOM/Math-Amoeba-0.05.tar.gz
 Math::Approx                      0.200  U/UL/ULPFR/Math-Approx-0.220.tar.gz
 Math::Approx::Symbolic            0.100  S/SM/SMUELLER/Math-Approx-Symbolic-0.100.tar.gz
-Math::Aronson                         8  K/KR/KRYDE/Math-Aronson-8.tar.gz
+Math::Aronson                         9  K/KR/KRYDE/Math-Aronson-9.tar.gz
 Math::Assistant                    0.04  D/DO/DONANGEL/Math/Math-Assistant-0.04.tar.gz
 Math::Base36                       0.09  B/BR/BRICAS/Math-Base36-0.09.tar.gz
 Math::Base85                        0.2  T/TM/TMONROE/Math-Base85-0.2.tar.gz
