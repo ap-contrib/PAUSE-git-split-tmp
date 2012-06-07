@@ -1250,6 +1250,7 @@ Dist::Zilla::Plugin::Git::Commit,SSCAFFIDI,c
 Dist::Zilla::Plugin::Git::CommitBuild,JQUELIN,f
 Dist::Zilla::Plugin::Git::CommitBuild,RJBS,c
 Dist::Zilla::Plugin::Git::CommitBuild,SSCAFFIDI,c
+Dist::Zilla::Plugin::Git::Describe,RJBS,f
 Dist::Zilla::Plugin::Git::DescribeVersion,RWSTAUNER,f
 Dist::Zilla::Plugin::Git::ExcludeUntracked,RHOELZ,f
 Dist::Zilla::Plugin::Git::GatherDir,JQUELIN,f
