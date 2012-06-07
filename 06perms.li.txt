@@ -1144,6 +1144,7 @@ Locale::Object::DB,JROBINSON,c
 Locale::Object::DB::Schemata,JROBINSON,c
 Locale::Object::Language,JROBINSON,c
 Locale::PGetText,MSHOYHER,m
+Locale::PO,COSIMO,c
 Locale::PO,KEN,m
 Locale::PO::Callback,MARNANEL,f
 Locale::PO::Utils,STEFFENW,f
