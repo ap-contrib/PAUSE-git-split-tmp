@@ -177,6 +177,9 @@ Gearman::Server::Client,DORMANDO,c
 Gearman::Server::Job,BRADFITZ,f
 Gearman::Server::Job,DORMANDO,c
 Gearman::Server::Listener,DORMANDO,f
+Gearman::Slot,KHS,f
+Gearman::SlotManager,KHS,f
+Gearman::SlotWorker,KHS,f
 Gearman::Spawner,ATHOMASON,f
 Gearman::Spawner::Client::AnyEvent,ATHOMASON,f
 Gearman::Spawner::Client::Async,ATHOMASON,f
