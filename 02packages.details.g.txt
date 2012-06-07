@@ -521,6 +521,7 @@ Hash::Path                         0.02  I/IZ/IZUT/Hash-Path-0.02.tar.gz
 Hash::PriorityQueue                0.01  P/PE/PENMA/Hash-PriorityQueue-0.01.tar.gz
 Hash::Rename                   1.100860  M/MA/MARCEL/Hash-Rename-1.100860.tar.gz
 Hash::RenameKey                    0.02  C/CL/CLIFFORDJ/Hash-RenameKey-0.02.tar.gz
+Hash::SafeKeys                     0.01  M/MO/MOB/Hash-SafeKeys-0.01.tar.gz
 Hash::Search                       0.03  X/XE/XESTIA/Hash-Search-0.03.tar.gz
 Hash::Slice                        0.03  R/RK/RKRIMEN/Hash-Slice-0.03.tar.gz
 Hash::Tally                        0.02  A/AD/ADAPAY/Hash-Tally-0.02.tar.gz
