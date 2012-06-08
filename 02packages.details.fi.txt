@@ -128,7 +128,7 @@ File::Find::Rule::WellFormed      undef  D/DA/DARREN/File-Find-Rule-WellFormed-0
 File::Find::Rule::XPath            0.03  G/GR/GRANTM/File-Find-Rule-XPath-0.03.tar.gz
 File::Find::Similars               2.04  S/SU/SUNTONG/File-Find-Similars-2.04.1.tar.gz
 File::Find::Upwards            1.102030  M/MA/MARCEL/File-Find-Upwards-1.102030.tar.gz
-File::Find::Wanted                 0.01  P/PE/PETDANCE/File-Find-Wanted-0.01.tar.gz
+File::Find::Wanted                 1.00  P/PE/PETDANCE/File-Find-Wanted-1.00.tar.gz
 File::FindByRegex                   1.2  E/EC/ECASTILLA/File-FindByRegex-1.2.tar.gz
 File::FindByRegex::Base             1.2  E/EC/ECASTILLA/File-FindByRegex-1.2.tar.gz
 File::Finder                       0.53  M/ME/MERLYN/File-Finder-0.53.tar.gz
