@@ -485,10 +485,10 @@ DBIx::SQLite::Deploy::Carp        undef  R/RK/RKRIMEN/DBIx-SQLite-Deploy-0.011.t
 DBIx::SQLite::Deploy::Connection  0.011  R/RK/RKRIMEN/DBIx-SQLite-Deploy-0.011.tar.gz
 DBIx::SQLite::Simple               0.34  G/GO/GOMOR/DBIx-SQLite-Simple-0.34.tar.gz
 DBIx::SQLite::Simple::Table       undef  G/GO/GOMOR/DBIx-SQLite-Simple-0.34.tar.gz
-DBIx::Sunny                        0.15  K/KA/KAZEBURO/DBIx-Sunny-0.15.tar.gz
-DBIx::Sunny::db                    0.15  K/KA/KAZEBURO/DBIx-Sunny-0.15.tar.gz
-DBIx::Sunny::Schema               undef  K/KA/KAZEBURO/DBIx-Sunny-0.15.tar.gz
-DBIx::Sunny::st                    0.15  K/KA/KAZEBURO/DBIx-Sunny-0.15.tar.gz
+DBIx::Sunny                        0.16  K/KA/KAZEBURO/DBIx-Sunny-0.16.tar.gz
+DBIx::Sunny::db                    0.16  K/KA/KAZEBURO/DBIx-Sunny-0.16.tar.gz
+DBIx::Sunny::Schema               undef  K/KA/KAZEBURO/DBIx-Sunny-0.16.tar.gz
+DBIx::Sunny::st                    0.16  K/KA/KAZEBURO/DBIx-Sunny-0.16.tar.gz
 DBIx::SystemCatalog                0.06  M/MI/MILSO/SchemaView-Plus-0.16.tar.gz
 DBIx::SystemCatalog::_safe         0.06  M/MI/MILSO/SchemaView-Plus-0.16.tar.gz
 DBIx::SystemCatalog::mysql         0.01  M/MI/MILSO/SchemaView-Plus-0.16.tar.gz
