@@ -216,7 +216,7 @@ WWW::TypePad::Relationships       undef  S/SA/SAYMEDIA/WWW-TypePad-0.4002.tar.gz
 WWW::TypePad::RequestProperties   undef  S/SA/SAYMEDIA/WWW-TypePad-0.4002.tar.gz
 WWW::TypePad::Users               undef  S/SA/SAYMEDIA/WWW-TypePad-0.4002.tar.gz
 WWW::TypePad::Util                undef  S/SA/SAYMEDIA/WWW-TypePad-0.4002.tar.gz
-WWW::UPS::Detail                    0.1  S/ST/STEFANOS/WWW-UPS-Detail-0.1.tar.gz
+WWW::UPS::Detail                    0.2  S/ST/STEFANOS/WWW-UPS-Detail-0.2.tar.gz
 WWW::URLToys                       1.28  J/JD/JDRAGO/WWW-URLToys-1.28.tar.gz
 WWW::UsePerl::Journal              0.23  B/BA/BARBIE/WWW-UsePerl-Journal-0.23.tar.gz
 WWW::UsePerl::Journal::Comment     0.12  B/BA/BARBIE/WWW-UsePerl-Journal-Thread-0.12.tar.gz
