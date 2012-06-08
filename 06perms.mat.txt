@@ -1068,8 +1068,16 @@ Message::Passing::DSL::Factory,BOBTFISH,c
 Message::Passing::DSL::Factory,GHENRY,f
 Message::Passing::Filter::All,BOBTFISH,c
 Message::Passing::Filter::All,GHENRY,f
+Message::Passing::Filter::Decoder::JSON,BOBTFISH,c
+Message::Passing::Filter::Decoder::JSON,GHENRY,f
+Message::Passing::Filter::Decoder::Null,BOBTFISH,c
+Message::Passing::Filter::Decoder::Null,GHENRY,f
 Message::Passing::Filter::Delay,BOBTFISH,c
 Message::Passing::Filter::Delay,GHENRY,f
+Message::Passing::Filter::Encoder::JSON,BOBTFISH,c
+Message::Passing::Filter::Encoder::JSON,GHENRY,f
+Message::Passing::Filter::Encoder::Null,BOBTFISH,c
+Message::Passing::Filter::Encoder::Null,GHENRY,f
 Message::Passing::Filter::Key,BOBTFISH,c
 Message::Passing::Filter::Key,GHENRY,f
 Message::Passing::Filter::Null,BOBTFISH,c
