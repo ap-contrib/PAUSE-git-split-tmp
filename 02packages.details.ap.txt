@@ -369,7 +369,7 @@ App::Bernard::Magic::Gnome        undef  M/MA/MARNANEL/App-Bernard-0.01.tar.gz
 App::Bernard::Magic::Single       undef  M/MA/MARNANEL/App-Bernard-0.01.tar.gz
 App::bk                            0.05  D/DU/DUNCS/App-bk-0.05.tar.gz
 App::BLT                           0.22  M/MA/MARNANEL/blt-0.22.tar.gz
-App::bmkpasswd                     1.02  A/AV/AVENJ/App-bmkpasswd-1.02.tar.gz
+App::bmkpasswd                     1.03  A/AV/AVENJ/App-bmkpasswd-1.03.tar.gz
 App::Bondage                   0.004011  H/HI/HINRIK/App-Bondage-0.4.11.tar.gz
 App::Bondage::Away                  1.1  H/HI/HINRIK/App-Bondage-0.4.11.tar.gz
 App::Bondage::Client                1.3  H/HI/HINRIK/App-Bondage-0.4.11.tar.gz
