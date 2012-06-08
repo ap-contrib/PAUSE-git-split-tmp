@@ -577,6 +577,7 @@ autodynaload,PATL,f
 autoload,LDS,f
 autolocale,HIDEAKIO,f
 autolocale::Tie::Scalar,HIDEAKIO,f
+autopackage,DMCBRIDE,f
 autorequire,PATL,f
 autouse,DAPM,c
 autouse,FLORA,c
