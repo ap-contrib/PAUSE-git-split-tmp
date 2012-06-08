@@ -288,7 +288,7 @@ Catalyst::Plugin::LogWarnings      0.03  B/BO/BOBTFISH/Catalyst-Plugin-LogWarnin
 Catalyst::Plugin::Markdown         0.01  C/CL/CLACO/Catalyst-Plugin-Markdown-0.01.tar.gz
 Catalyst::Plugin::MemoryUsage    v0.3.1  Y/YA/YANICK/Catalyst-Plugin-MemoryUsage-0.3.1.tar.gz
 Catalyst::Plugin::Message          0.03  C/CH/CHUNZI/Catalyst-Plugin-Message-0.03.tar.gz
-Catalyst::Plugin::MessageStack     0.02  J/JS/JSHIRLEY/Catalyst-Plugin-MessageStack-0.02.tar.gz
+Catalyst::Plugin::MessageStack     0.03  J/JS/JSHIRLEY/Catalyst-Plugin-MessageStack-0.03.tar.gz
 Catalyst::Plugin::MobileAgent     0.041  K/KU/KURIHARA/Catalyst-Plugin-MobileAgent-0.041.tar.gz
 Catalyst::Plugin::MobileUserID     0.01  M/MI/MIYAZAKI/Catalyst-Plugin-MobileUserID-0.01.tar.gz
 Catalyst::Plugin::Mode             0.01  P/PL/PLCGI/Catalyst-Plugin-Mode-0.03.tar.gz
