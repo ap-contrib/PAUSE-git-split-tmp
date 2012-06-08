@@ -390,6 +390,8 @@ CGI::Framework,MNAGUIB,f
 CGI::Func,LDS,f
 CGI::Func,MARKSTOS,c
 CGI::Getopt,GEOTIGER,m
+CGI::Go,BPMEDLEY,f
+CGI::Go::Util,BPMEDLEY,f
 CGI::Graph,MCHANG,f
 CGI::Graph::Layout,MCHANG,f
 CGI::Graph::Plot,MCHANG,f
