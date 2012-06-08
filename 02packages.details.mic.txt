@@ -309,7 +309,7 @@ Mildew::Emit::Yeast                0.05  P/PM/PMURIAS/Mildew-0.05.tar.gz
 Mildew::Setting::SMOP              0.03  P/PM/PMURIAS/Mildew-Setting-SMOP-0.03.tar.gz
 Mildew::SSA                        0.05  P/PM/PMURIAS/Mildew-0.05.tar.gz
 MIME::AltWords                     0.12  P/PT/PTS/MIME-AltWords-0.12.tar.gz
-MIME::Base16                        1.0  S/ST/STEFANOS/MIME-Base16-1.0.tar.gz
+MIME::Base16                        1.1  S/ST/STEFANOS/MIME-Base16-1.1.tar.gz
 MIME::Base2                         1.0  S/ST/STEFANOS/MIME-Base2-1.0.tar.gz
 MIME::Base32                       1.02  D/DA/DANPEDER/MIME-Base32-1.02a.tar.gz
 MIME::Base64                       3.13  G/GA/GAAS/MIME-Base64-3.13.tar.gz
