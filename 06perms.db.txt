@@ -35,6 +35,7 @@ DBIx::Class::Helper::ResultSet::VirtualView,FREW,f
 DBIx::Class::Helper::Row::JoinTable,FREW,f
 DBIx::Class::Helper::Row::NumifyGet,FREW,f
 DBIx::Class::Helper::Row::OnColumnChange,FREW,f
+DBIx::Class::Helper::Row::ProxyResultSetMethod,FREW,f
 DBIx::Class::Helper::Row::RelationshipDWIM,FREW,f
 DBIx::Class::Helper::Row::SelfResultSet,FREW,f
 DBIx::Class::Helper::Row::StorageValues,FREW,f
