@@ -104,6 +104,7 @@ Lingua::NL::Numbers::GroeneBoekje,JV,m
 Lingua::NO::Num2Word,KACCV,f
 Lingua::Names,LEOCHARRE,f
 Lingua::Norms::USF,RGARTON,m
+Lingua::Norms::USF::Statistics,RGARTON,c
 Lingua::Num2Word,PETAMEM,f
 Lingua::Num2Word,RVASICEK,c
 Lingua::Orthon,RGARTON,m
