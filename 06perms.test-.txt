@@ -1053,6 +1053,7 @@ Text::Aligner::Auto,ANNO,f
 Text::Aligner::Auto,SHLOMIF,c
 Text::Aligner::MaxKeeper,ANNO,f
 Text::Aligner::MaxKeeper,SHLOMIF,c
+Text::Anagram,MARCC,f
 Text::Annotated::Line,WIMV,f
 Text::Annotated::Reader,WIMV,f
 Text::Annotated::Writer,WIMV,f
