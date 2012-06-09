@@ -1130,6 +1130,8 @@ Message::Passing::Redis::ConnectionManager,BOBTFISH,c
 Message::Passing::Redis::ConnectionManager,GHENRY,f
 Message::Passing::Redis::Role::HasAConnection,BOBTFISH,c
 Message::Passing::Redis::Role::HasAConnection,GHENRY,f
+Message::Passing::Redis::Types,BOBTFISH,c
+Message::Passing::Redis::Types,GHENRY,f
 Message::Passing::Role::CLIComponent,BOBTFISH,c
 Message::Passing::Role::CLIComponent,GHENRY,f
 Message::Passing::Role::ConnectionManager,BOBTFISH,c
