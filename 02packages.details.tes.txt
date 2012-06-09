@@ -535,7 +535,7 @@ Test::MobileAgent::Smartphone     undef  I/IS/ISHIGAKI/Test-MobileAgent-0.06.tar
 Test::MobileAgent::Softbank       undef  I/IS/ISHIGAKI/Test-MobileAgent-0.06.tar.gz
 Test::MobileAgent::Vodafone       undef  I/IS/ISHIGAKI/Test-MobileAgent-0.06.tar.gz
 Test::Mock::Alarm                  0.13  J/JJ/JJACK/Test-Mock-Alarm-0.13.tar.gz
-Test::Mock::Apache2                0.04  C/CO/COSIMO/Test-Mock-Apache2-0.04.tar.gz
+Test::Mock::Apache2                0.05  C/CO/COSIMO/Test-Mock-Apache2-0.05.tar.gz
 Test::Mock::Class                0.0303  D/DE/DEXTER/Test-Mock-Class-0.0303.tar.gz
 Test::Mock::Class::Role::Meta::Class 0.0303  D/DE/DEXTER/Test-Mock-Class-0.0303.tar.gz
 Test::Mock::Class::Role::Object  0.0303  D/DE/DEXTER/Test-Mock-Class-0.0303.tar.gz
