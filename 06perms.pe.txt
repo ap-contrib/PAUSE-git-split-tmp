@@ -328,6 +328,7 @@ Perlito::Test,FGLOCK,f
 Perlize,PETDANCE,f
 Perlude,MARCC,f
 Perlude::Lazy,MARCC,f
+Perlude::Sh,MARCC,f
 Perlude::builtins,MARCC,f
 Perlwikipedia,DCOLLINS,f
 Perlwikipedia,LIFEGUARD,c

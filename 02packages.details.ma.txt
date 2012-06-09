@@ -480,6 +480,7 @@ MARC::Lint                         1.44  E/EI/EIJABB/MARC-Lint-1.44.tar.gz
 MARC::Lint::CodeData               1.28  E/EI/EIJABB/MARC-Lint-1.44.tar.gz
 MARC::Loader                   0.004001  R/RE/REIVEUNE/MARC-Loader-0.004001.tar.gz
 MARC::Loop                         0.01  N/NK/NKUITSE/MARC-Loop-0.01.tar.gz
+MARC::MIR                           0.0  M/MA/MARCC/marc-mir-0.0.tar.gz
 MARC::Moose                       0.026  F/FR/FREDERICD/marc-moose-0.026.tar.gz
 MARC::Moose::Field                0.026  F/FR/FREDERICD/marc-moose-0.026.tar.gz
 MARC::Moose::Field::Control       0.026  F/FR/FREDERICD/marc-moose-0.026.tar.gz
