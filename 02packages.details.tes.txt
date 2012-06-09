@@ -225,6 +225,7 @@ Test::Deep::SuperHash             undef  R/RJ/RJBS/Test-Deep-0.109.tar.gz
 Test::Deep::SuperHashElements     undef  R/RJ/RJBS/Test-Deep-0.109.tar.gz
 Test::Deep::SuperHashKeys         undef  R/RJ/RJBS/Test-Deep-0.109.tar.gz
 Test::Deep::SuperHashKeysOnly     undef  R/RJ/RJBS/Test-Deep-0.109.tar.gz
+Test::Deep::This                   1.00  D/DR/DRUXA/Test-Deep-This-1.00.tar.gz
 Test::DeepFile                    0.003  G/GA/GAM/Test-DeepFile-0.003.tar.gz
 Test::Dependencies                 0.12  Z/ZE/ZEV/Test-Dependencies-0.12.tar.gz
 Test::Dependencies::Heavy         undef  Z/ZE/ZEV/Test-Dependencies-0.12.tar.gz

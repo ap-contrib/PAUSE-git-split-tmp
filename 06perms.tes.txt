@@ -349,6 +349,7 @@ Test::Deep::SuperHashKeys,FDALY,f
 Test::Deep::SuperHashKeys,RJBS,c
 Test::Deep::SuperHashKeysOnly,FDALY,f
 Test::Deep::SuperHashKeysOnly,RJBS,c
+Test::Deep::This,DRUXA,f
 Test::DeepFile,GAM,f
 Test::Dependencies,ZEV,f
 Test::Dependencies::Heavy,ZEV,f
