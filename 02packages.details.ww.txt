@@ -225,7 +225,7 @@ WWW::HyperGlossary::Base       0.000002  R/RO/ROGERHALL/WWW-HyperGlossary-0.02.t
 WWW::HyperGlossary::Utils::YAML 0.000002  R/RO/ROGERHALL/WWW-HyperGlossary-0.02.tar.gz
 WWW::HyperGlossary::Word       0.000002  R/RO/ROGERHALL/WWW-HyperGlossary-0.02.tar.gz
 WWW::HyperGlossary::Word::Definition 0.000002  R/RO/ROGERHALL/WWW-HyperGlossary-0.02.tar.gz
-WWW::Ideone                        0.01  B/BK/BKB/WWW-Ideone-0.01.tar.gz
+WWW::Ideone                        0.02  B/BK/BKB/WWW-Ideone-0.02.tar.gz
 WWW::iloxx::Detail                  0.1  S/ST/STEFANOS/WWW-iloxx-Detail-0.1.tar.gz
 WWW::ImagebinCa::Create            0.02  Z/ZO/ZOFFIX/WWW-ImagebinCa-Create-0.02.tar.gz
 WWW::ImagebinCa::Retrieve          0.01  Z/ZO/ZOFFIX/WWW-ImagebinCa-Retrieve-0.01.tar.gz
