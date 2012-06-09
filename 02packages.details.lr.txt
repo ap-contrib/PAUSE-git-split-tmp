@@ -275,9 +275,9 @@ Lufs::Svn::Svn                    undef  R/RL/RLZWART/Lufs-0.21.tar.gz
 Lufs::Svn::Svn::System            undef  R/RL/RLZWART/Lufs-0.21.tar.gz
 Lufs::Test                        undef  R/RL/RLZWART/Lufs-0.15.tar.gz
 Lufs::Trans                       undef  R/RL/RLZWART/Lufs-0.15.tar.gz
-LUGS::Events::Parser               0.09  S/SC/SCHUBIGER/LUGS-Events-Parser-0.09.tar.gz
-LUGS::Events::Parser::Event        0.04  S/SC/SCHUBIGER/LUGS-Events-Parser-0.09.tar.gz
-LUGS::Events::Parser::Filter       0.05  S/SC/SCHUBIGER/LUGS-Events-Parser-0.09.tar.gz
+LUGS::Events::Parser               0.10  S/SC/SCHUBIGER/LUGS-Events-Parser-0.10.tar.gz
+LUGS::Events::Parser::Event        0.04  S/SC/SCHUBIGER/LUGS-Events-Parser-0.10.tar.gz
+LUGS::Events::Parser::Filter       0.06  S/SC/SCHUBIGER/LUGS-Events-Parser-0.10.tar.gz
 Luka                               1.07  T/TP/TPG/Luka-1.07.tar.gz
 Luka::Conf                        undef  T/TP/TPG/Luka-1.07.tar.gz
 Luka::Error                        1.00  T/TP/TPG/Luka-1.07.tar.gz
