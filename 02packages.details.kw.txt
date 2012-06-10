@@ -446,11 +446,11 @@ Labyrinth::Plugin::CPAN::Distros   1.00  B/BA/BARBIE/CPAN-Testers-WWW-Reports-1.
 Labyrinth::Plugin::CPAN::Monitor   1.00  B/BA/BARBIE/CPAN-Testers-WWW-Reports-1.00.tar.gz
 Labyrinth::Plugin::CPAN::Release   1.00  B/BA/BARBIE/CPAN-Testers-WWW-Reports-1.00.tar.gz
 Labyrinth::Plugin::CPAN::Report    1.00  B/BA/BARBIE/CPAN-Testers-WWW-Reports-1.00.tar.gz
-Labyrinth::Plugin::Event           1.01  B/BA/BARBIE/Labyrinth-Plugin-Event-1.01.tar.gz
-Labyrinth::Plugin::Event::Sponsors 1.01  B/BA/BARBIE/Labyrinth-Plugin-Event-1.01.tar.gz
-Labyrinth::Plugin::Event::Talks    1.01  B/BA/BARBIE/Labyrinth-Plugin-Event-1.01.tar.gz
-Labyrinth::Plugin::Event::Types    1.01  B/BA/BARBIE/Labyrinth-Plugin-Event-1.01.tar.gz
-Labyrinth::Plugin::Event::Venues   1.01  B/BA/BARBIE/Labyrinth-Plugin-Event-1.01.tar.gz
+Labyrinth::Plugin::Event           1.02  B/BA/BARBIE/Labyrinth-Plugin-Event-1.02.tar.gz
+Labyrinth::Plugin::Event::Sponsors 1.02  B/BA/BARBIE/Labyrinth-Plugin-Event-1.02.tar.gz
+Labyrinth::Plugin::Event::Talks    1.02  B/BA/BARBIE/Labyrinth-Plugin-Event-1.02.tar.gz
+Labyrinth::Plugin::Event::Types    1.02  B/BA/BARBIE/Labyrinth-Plugin-Event-1.02.tar.gz
+Labyrinth::Plugin::Event::Venues   1.02  B/BA/BARBIE/Labyrinth-Plugin-Event-1.02.tar.gz
 Labyrinth::Plugin::Folders         5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
 Labyrinth::Plugin::Groups          5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
 Labyrinth::Plugin::Hits            5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
