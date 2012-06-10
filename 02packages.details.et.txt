@@ -229,6 +229,7 @@ Example::Service                   1.01  B/BR/BRYCE/WebService-TicketAuth-1.05.t
 Example::TicketAuth                1.00  B/BR/BRYCE/WebService-TicketAuth-1.05.tar.gz
 Example::Titles                   undef  A/AH/AHERNIT/Pod-Autopod-1.10.tar.gz
 Example::Views                    undef  B/BE/BEPPU/Squatting-0.30.tar.gz
+Example::XS::FasterHashes          0.01  B/BU/BULKDD/examples/Example-XS-FasterHashes-0.01.tar.gz
 example_1                         undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
 example_2a                        undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
 example_2b                        undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
