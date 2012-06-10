@@ -40,7 +40,7 @@ Emacs::PDE                     0.002016  Y/YE/YEWENBIN/Emacs-PDE-0.2.16.tar.gz
 Emacs::PDE::Util                  undef  Y/YE/YEWENBIN/Emacs-PDE-0.2.16.tar.gz
 Emacs::PID                         1.02  J/JT/JTOBEY/Emacs-EPL-0.7.tar.gz
 Emacs::PodMode                     1.04  F/FL/FLORA/pod-mode-1.04.tar.gz
-Emacs::Rep                         0.07  D/DO/DOOM/Emacs-Rep-0.07.tar.gz
+Emacs::Rep                         0.08  D/DO/DOOM/Emacs-Rep-0.08.tar.gz
 Emacs::Run                         0.15  D/DO/DOOM/Emacs-Run-0.15.tar.gz
 Emacs::Run::ExtractDocs            0.03  D/DO/DOOM/Emacs-Run-ExtractDocs-0.03.tar.gz
 Emacs::SIG                         1.02  J/JT/JTOBEY/Emacs-EPL-0.7.tar.gz
