@@ -1183,6 +1183,8 @@ TAP::Formatter::Console::ParallelSession,ANDYA,f
 TAP::Formatter::Console::ParallelSession,OVID,c
 TAP::Formatter::Console::Session,ANDYA,f
 TAP::Formatter::Console::Session,OVID,c
+TAP::Formatter::Event,TEAM,f
+TAP::Formatter::Event::Session,TEAM,f
 TAP::Formatter::File,ANDYA,f
 TAP::Formatter::File,OVID,c
 TAP::Formatter::File::Session,ANDYA,f
