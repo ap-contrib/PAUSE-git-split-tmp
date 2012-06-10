@@ -1645,6 +1645,7 @@ Dist::Zilla::PluginBundle::GitFlow,KEEDI,f
 Dist::Zilla::PluginBundle::GitHub,ALEXBIO,f
 Dist::Zilla::PluginBundle::GopherRepellent,RWSTAUNER,m
 Dist::Zilla::PluginBundle::IDOPEREL,IDOPEREL,f
+Dist::Zilla::PluginBundle::JAITKEN,JAITKEN,f
 Dist::Zilla::PluginBundle::JQUELIN,JQUELIN,f
 Dist::Zilla::PluginBundle::JROCKWAY,JROCKWAY,f
 Dist::Zilla::PluginBundle::KENTNL,KENTNL,f
