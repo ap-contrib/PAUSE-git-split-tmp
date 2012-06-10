@@ -1124,6 +1124,8 @@ Message::Passing::Output::WebHooks,BOBTFISH,c
 Message::Passing::Output::WebHooks,GHENRY,f
 Message::Passing::Output::ZeroMQ,BOBTFISH,c
 Message::Passing::Output::ZeroMQ,GHENRY,f
+Message::Passing::PSGI,BOBTFISH,c
+Message::Passing::PSGI,GHENRY,f
 Message::Passing::Redis,BOBTFISH,c
 Message::Passing::Redis,GHENRY,f
 Message::Passing::Redis::ConnectionManager,BOBTFISH,c
