@@ -571,7 +571,7 @@ Net::Spotify::Lookup               0.02  E/ED/EDOARDO/Net-Spotify-0.02.tar.gz
 Net::Spotify::Search               0.02  E/ED/EDOARDO/Net-Spotify-0.02.tar.gz
 Net::Spotify::Service              0.02  E/ED/EDOARDO/Net-Spotify-0.02.tar.gz
 Net::Squid::Auth::Engine           0.04  L/LM/LMC/Net-Squid-Auth-Engine-0.04.tar.gz
-Net::Squid::Auth::Plugin::SimpleLDAP 0.001083  R/RU/RUSSOZ/Net-Squid-Auth-Plugin-SimpleLDAP-0.1.83.tar.gz
+Net::Squid::Auth::Plugin::SimpleLDAP 0.001084  R/RU/RUSSOZ/Net-Squid-Auth-Plugin-SimpleLDAP-0.1.84.tar.gz
 Net::Squid::Auth::Plugin::UserList 0.02  L/LM/LMC/Net-Squid-Auth-Plugin-UserList-0.02.tar.gz
 Net::Squid::Purge                   0.1  S/SO/SOCK/Net-Squid-Purge-0.1.tar.gz
 Net::Squid::Purge::HTTP             0.1  S/SO/SOCK/Net-Squid-Purge-0.1.tar.gz
