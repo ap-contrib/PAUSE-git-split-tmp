@@ -1108,10 +1108,14 @@ Message::Passing::Output::Callback,BOBTFISH,c
 Message::Passing::Output::Callback,GHENRY,f
 Message::Passing::Output::File,BOBTFISH,c
 Message::Passing::Output::File,GHENRY,f
+Message::Passing::Output::IO::Handle,BOBTFISH,c
+Message::Passing::Output::IO::Handle,GHENRY,f
 Message::Passing::Output::Null,BOBTFISH,c
 Message::Passing::Output::Null,GHENRY,f
 Message::Passing::Output::Redis,BOBTFISH,c
 Message::Passing::Output::Redis,GHENRY,f
+Message::Passing::Output::STDERR,BOBTFISH,c
+Message::Passing::Output::STDERR,GHENRY,f
 Message::Passing::Output::STDOUT,BOBTFISH,c
 Message::Passing::Output::STDOUT,GHENRY,f
 Message::Passing::Output::STOMP,BOBTFISH,c
@@ -1142,6 +1146,10 @@ Message::Passing::Role::Filter,BOBTFISH,c
 Message::Passing::Role::Filter,GHENRY,f
 Message::Passing::Role::HasAConnection,BOBTFISH,c
 Message::Passing::Role::HasAConnection,GHENRY,f
+Message::Passing::Role::HasHostnameAndPort,BOBTFISH,c
+Message::Passing::Role::HasHostnameAndPort,GHENRY,f
+Message::Passing::Role::HasUsernameAndPassword,BOBTFISH,c
+Message::Passing::Role::HasUsernameAndPassword,GHENRY,f
 Message::Passing::Role::Input,BOBTFISH,c
 Message::Passing::Role::Input,GHENRY,f
 Message::Passing::Role::Output,BOBTFISH,c
