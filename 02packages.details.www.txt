@@ -236,7 +236,7 @@ WWW::Scraper::ISBN::Driver         0.18  A/AS/ASCHAMP/WWW-Scraper-ISBN-Driver-0.
 WWW::Scraper::ISBN::EdenBooks_Driver 0.04  B/BA/BARBIE/WWW-Scraper-ISBN-EdenBooks_Driver-0.04.tar.gz
 WWW::Scraper::ISBN::EmporiumBooks_Driver 0.06  B/BA/BARBIE/WWW-Scraper-ISBN-EmporiumBooks_Driver-0.06.tar.gz
 WWW::Scraper::ISBN::Foyles_Driver  0.04  B/BA/BARBIE/WWW-Scraper-ISBN-Foyles_Driver-0.04.tar.gz
-WWW::Scraper::ISBN::GoogleBooks_Driver 0.10  B/BA/BARBIE/WWW-Scraper-ISBN-GoogleBooks_Driver-0.10.tar.gz
+WWW::Scraper::ISBN::GoogleBooks_Driver 0.11  B/BA/BARBIE/WWW-Scraper-ISBN-GoogleBooks_Driver-0.11.tar.gz
 WWW::Scraper::ISBN::ISBNdb_Driver  0.07  D/DI/DIBERRI/WWW-Scraper-ISBN-ISBNdb_Driver-0.07.tar.gz
 WWW::Scraper::ISBN::ISBNnu_Driver  0.18  A/AS/ASCHAMP/WWW-Scraper-ISBN-ISBNnu_Driver-0.18.tar.gz
 WWW::Scraper::ISBN::LibUniIt_Driver 0.2  L/LU/LUCHA/WWW-Scraper-ISBN-LibUniIt_Driver-0.2.tar.gz
