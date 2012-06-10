@@ -433,7 +433,7 @@ Labyrinth::Plugin::Album           1.01  B/BA/BARBIE/Labyrinth-Plugin-Album-1.01
 Labyrinth::Plugin::Album::Pages    1.01  B/BA/BARBIE/Labyrinth-Plugin-Album-1.01.tar.gz
 Labyrinth::Plugin::Album::Photos   1.01  B/BA/BARBIE/Labyrinth-Plugin-Album-1.01.tar.gz
 Labyrinth::Plugin::Articles        5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
-Labyrinth::Plugin::Articles::Diary 1.01  B/BA/BARBIE/Labyrinth-Plugin-Articles-Diary-1.01.tar.gz
+Labyrinth::Plugin::Articles::Diary 1.02  B/BA/BARBIE/Labyrinth-Plugin-Articles-Diary-1.02.tar.gz
 Labyrinth::Plugin::Articles::Sections 5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
 Labyrinth::Plugin::Articles::Site  5.10  B/BA/BARBIE/Labyrinth-Plugin-Core-5.10.tar.gz
 Labyrinth::Plugin::Base            5.12  B/BA/BARBIE/Labyrinth-5.12.tar.gz
