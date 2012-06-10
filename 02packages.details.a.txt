@@ -101,8 +101,8 @@ Astro::SLA                         1.00  T/TJ/TJENNESS/Astro-SLA-1.00.tar.gz
 Astro::SolarParallax               0.04  K/KJ/KJETILK/Astro-SolarParallax-0.04.tar.gz
 Astro::SolarParallax::Observer     0.01  K/KJ/KJETILK/Astro-SolarParallax-0.04.tar.gz
 Astro::SpaceElevator               0.05  D/DB/DBROOKS/Astro-SpaceElevator-0.05.tar.gz
-Astro::SpaceTrack                 0.059  W/WY/WYANT/Astro-SpaceTrack-0.059.tar.gz
-Astro::SpaceTrack::Parser         0.059  W/WY/WYANT/Astro-SpaceTrack-0.059.tar.gz
+Astro::SpaceTrack                 0.060  W/WY/WYANT/Astro-SpaceTrack-0.060.tar.gz
+Astro::SpaceTrack::Parser         0.060  W/WY/WYANT/Astro-SpaceTrack-0.060.tar.gz
 Astro::STSDAS::Table::Base         0.12  D/DJ/DJERIUS/Astro-STSDAS-Table-0.13.tar.gz
 Astro::STSDAS::Table::Binary       0.13  D/DJ/DJERIUS/Astro-STSDAS-Table-0.13.tar.gz
 Astro::STSDAS::Table::Column       0.01  D/DJ/DJERIUS/Astro-STSDAS-Table-0.13.tar.gz
