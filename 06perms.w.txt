@@ -44,10 +44,15 @@ Wx::Perl::Packager::Mini,MDOOTSON,f
 Wx::Perl::Packager::Mini::XSLoader,MDOOTSON,f
 Wx::Perl::Packager::PDKWindow,MDOOTSON,f
 Wx::Perl::Packager::Utils,MDOOTSON,f
+Wx::Perl::PodBrowser,KRYDE,f
 Wx::Perl::PodEditor,RENEEB,f
 Wx::Perl::PodEditor::FormatActions,RENEEB,f
 Wx::Perl::PodEditor::PodParser,RENEEB,f
 Wx::Perl::PodEditor::XMLParser,RENEEB,f
+Wx::Perl::PodRichText,KRYDE,f
+Wx::Perl::PodRichText::ChangedEvent,KRYDE,f
+Wx::Perl::PodRichText::PodParser,KRYDE,f
+Wx::Perl::PodRichText::SimpleParser,KRYDE,f
 Wx::Perl::ProcessStream,MDOOTSON,m
 Wx::Perl::ProcessStream::ProcEvtHandler,MDOOTSON,f
 Wx::Perl::ProcessStream::Process,MDOOTSON,f
