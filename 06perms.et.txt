@@ -192,7 +192,7 @@ Example::TicketAuth,BRYCE,f
 Example::Titles,AHERNIT,f
 Example::View::Mail::Example,LUSHE,c
 Example::Views,BEPPU,f
-Example::XS::FasterHashes,BULKDD,f
+Example::XS::FasterHashes,BULKDD,m
 Example::config,LUSHE,f
 ExampleHelpers,RCAPUTO,f
 ExampleMap,ACDALTON,f

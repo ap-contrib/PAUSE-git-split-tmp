@@ -397,6 +397,7 @@ Class::Trigger,MIYAGAWA,f
 Class::Trigger::Ordered,BOXPHERE,m
 Class::Unique,FRIEDO,m
 Class::Unload,ILMARI,f
+Class::User::DBI,DAVIDO,m
 Class::Util,DOMIZIO,f
 Class::Util,SKNPP,c
 Class::Utils,SKIM,f
