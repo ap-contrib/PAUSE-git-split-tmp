@@ -135,6 +135,7 @@ Test::Smoke::Syncer,ABELTJE,f
 Test::Smoke::Syncer::Copy,ABELTJE,f
 Test::Smoke::Syncer::FTP,ABELTJE,f
 Test::Smoke::Syncer::Forest,ABELTJE,f
+Test::Smoke::Syncer::Git,ABELTJE,f
 Test::Smoke::Syncer::Hardlink,ABELTJE,f
 Test::Smoke::Syncer::Rsync,ABELTJE,f
 Test::Smoke::Syncer::Snapshot,ABELTJE,f
