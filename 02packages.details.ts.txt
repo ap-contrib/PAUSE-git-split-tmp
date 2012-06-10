@@ -204,7 +204,7 @@ Ubic::Result::Class                1.40  M/MM/MMCLERIC/Ubic-1.40.tar.gz
 Ubic::Run                          1.40  M/MM/MMCLERIC/Ubic-1.40.tar.gz
 Ubic::Service                      1.40  M/MM/MMCLERIC/Ubic-1.40.tar.gz
 Ubic::Service::Common              1.40  M/MM/MMCLERIC/Ubic-1.40.tar.gz
-Ubic::Service::InitScriptWrapper   0.01  M/MM/MMCLERIC/Ubic-Service-InitScriptWrapper-0.01.tar.gz
+Ubic::Service::InitScriptWrapper   0.02  M/MM/MMCLERIC/Ubic-Service-InitScriptWrapper-0.02.tar.gz
 Ubic::Service::Memcached           2.02  M/MM/MMCLERIC/Ubic-Service-Memcached-2.02.tar.gz
 Ubic::Service::MongoDB             0.01  T/TA/TADAM/Ubic-Service-MongoDB-0.01.tar.gz
 Ubic::Service::Plack               1.14  M/MM/MMCLERIC/Ubic-Service-Plack-1.14.tar.gz
