@@ -614,6 +614,8 @@ Log::Message::Structured::Stringify::AsJSON,GHENRY,c
 Log::Message::Structured::Stringify::AsJSON,JJNAPIORK,c
 Log::Message::Structured::Stringify::AsJSON,MSTROUT,c
 Log::Message::Structured::Stringify::AsJSON,RIBASUSHI,c
+Log::Message::Structured::Stringify::AsYAML,BOBTFISH,f
+Log::Message::Structured::Stringify::AsYAML,DAMS,c
 Log::Message::Structured::Stringify::Sprintf,BOBTFISH,f
 Log::Message::Structured::Stringify::Sprintf,DAMS,c
 Log::Message::Structured::Stringify::Sprintf,DHOSS,c
