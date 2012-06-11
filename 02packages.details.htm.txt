@@ -562,8 +562,8 @@ HTML::Transmorgify::Stack         undef  M/MU/MUIR/modules/HTML-Transmorgify-0.0
 HTML::Transmorgify::Symbols       undef  M/MU/MUIR/modules/HTML-Transmorgify-0.09.tar.gz
 HTML::Tree                          4.2  J/JF/JFEARN/HTML-Tree-4.2.tar.gz
 HTML::TreeBuilder                   4.2  J/JF/JFEARN/HTML-Tree-4.2.tar.gz
-HTML::TreeBuilder::LibXML          0.16  T/TO/TOKUHIROM/HTML-TreeBuilder-LibXML-0.16.tar.gz
-HTML::TreeBuilder::LibXML::Node   undef  T/TO/TOKUHIROM/HTML-TreeBuilder-LibXML-0.16.tar.gz
+HTML::TreeBuilder::LibXML          0.17  T/TO/TOKUHIROM/HTML-TreeBuilder-LibXML-0.17.tar.gz
+HTML::TreeBuilder::LibXML::Node   undef  T/TO/TOKUHIROM/HTML-TreeBuilder-LibXML-0.17.tar.gz
 HTML::TreeBuilder::Select         0.111  R/RK/RKRIMEN/HTML-TreeBuilder-Select-0.111.tar.gz
 HTML::TreeBuilder::XPath           0.14  M/MI/MIROD/HTML-TreeBuilder-XPath-0.14.tar.gz
 HTML::TreeBuilder::XPath::Attribute 0.14  M/MI/MIROD/HTML-TreeBuilder-XPath-0.14.tar.gz
