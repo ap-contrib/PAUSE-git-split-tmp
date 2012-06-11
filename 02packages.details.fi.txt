@@ -451,6 +451,7 @@ File::Store                        1.00  A/AR/ARIF/File-Store-1.00.tar.gz
 File::Stream                       2.30  S/SM/SMUELLER/File-Stream-2.30.tar.gz
 File::Strmode                      0.03  S/SA/SALVA/File-Strmode-0.03.tar.gz
 File::SubPM                        1.12  S/SO/SOFTDIA/File-SubPM-0.05.tar.gz
+File::Symlink::Atomic             0.001  D/DO/DOHERTY/File-Symlink-Atomic-0.001.tar.gz
 File::Sync                         0.11  B/BR/BRIANSKI/File-Sync-0.11.tar.gz
 File::System                       1.16  H/HA/HANENKAMP/File-System-1.16.tar.gz
 File::System::Layered              1.16  H/HA/HANENKAMP/File-System-1.16.tar.gz
