@@ -143,7 +143,7 @@ Mason::Plugin::Defer::Request      2.01  J/JS/JSWARTZ/Mason-2.01.tar.gz
 Mason::Plugin::Defer::t::Defer     2.01  J/JS/JSWARTZ/Mason-2.01.tar.gz
 Mason::Plugin::DollarDot           2.19  J/JS/JSWARTZ/Mason-2.19.tar.gz
 Mason::Plugin::DollarDot::Compilation 2.01  J/JS/JSWARTZ/Mason-2.01.tar.gz
-Mason::Plugin::HTMLFilters         0.02  J/JS/JSWARTZ/Mason-Plugin-HTMLFilters-0.02.tar.gz
+Mason::Plugin::HTMLFilters         0.03  J/JS/JSWARTZ/Mason-Plugin-HTMLFilters-0.03.tar.gz
 Mason::Plugin::LvalueAttributes    2.19  J/JS/JSWARTZ/Mason-2.19.tar.gz
 Mason::Plugin::LvalueAttributes::Interp 2.01  J/JS/JSWARTZ/Mason-2.01.tar.gz
 Mason::Plugin::PSGIHandler         0.06  J/JS/JSWARTZ/Mason-Plugin-PSGIHandler-0.06.tar.gz
