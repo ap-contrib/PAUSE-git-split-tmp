@@ -722,6 +722,7 @@ DB::Pluggable::Role::Initializer,MARCEL,f
 DB::Pluggable::Role::WatchFunction,MARCEL,f
 DB::Pluggable::StackTraceAsHTML,MARCEL,f
 DB::Pluggable::TypeAhead,MARCEL,f
+DB::SPEEDYB,ABLUM,f
 DB::Skip,MITHALDU,f
 DB::Table,KITE,m
 DB::Table::Row,KITE,m
