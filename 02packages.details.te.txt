@@ -223,7 +223,7 @@ Thread::Resource::RWLock::Array    2.01  D/DA/DARNOLD/Thread-Resource-RWLock-2.0
 Thread::Running                    0.07  E/EL/ELIZABETH/Thread-Running-0.07.tar.gz
 Thread::RWLock                     1.02  A/AF/AFERBER/Thread-RWLock-1.02.tar.gz
 Thread::Semaphore                  2.12  J/JD/JDHEDDEN/Thread-Semaphore-2.12.tar.gz
-Thread::Serialize                  0.12  E/EL/ELIZABETH/Thread-Serialize-0.12.tar.gz
+Thread::Serialize                  1.00  E/EL/ELIZABETH/Thread-Serialize-1.00.tar.gz
 Thread::Shared                    undef  D/DS/DSNOPEK/Xmldoom-0.0.16.tar.gz
 Thread::Shared::Array             undef  D/DS/DSNOPEK/Xmldoom-0.0.16.tar.gz
 Thread::Shared::Hash              undef  D/DS/DSNOPEK/Xmldoom-0.0.16.tar.gz
