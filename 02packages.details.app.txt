@@ -117,6 +117,7 @@ App::DPath::Command::search        0.04  S/SC/SCHWIGON/App-DPath-0.04.tar.gz
 App::Dthumb                         0.2  D/DE/DERF/dthumb-0.2.tar.gz
 App::Dthumb::Data                   0.2  D/DE/DERF/dthumb-0.2.tar.gz
 App::DualLivedDiff                 1.07  S/SM/SMUELLER/App-DualLivedDiff-1.07.tar.gz
+App::DualLivedList                 0.01  S/SK/SKI/App-DualLivedList-0.01.tar.gz
 App::DuckDuckGo                   0.006  G/GE/GETTY/App-DuckDuckGo-0.006.tar.gz
 App::DuckPAN                      0.043  G/GE/GETTY/App-DuckPAN-0.043.tar.gz
 App::DuckPAN::Cmd                 0.043  G/GE/GETTY/App-DuckPAN-0.043.tar.gz
