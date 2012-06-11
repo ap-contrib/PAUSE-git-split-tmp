@@ -85,7 +85,6 @@ Marpa::PP::Internal            0.014000  J/JK/JKEGL/Marpa-PP-0.014000.tar.gz
 Marpa::PP::Internal::Callback         0  J/JK/JKEGL/Marpa-PP-0.014000.tar.gz
 Marpa::PP::Internal::Grammar          0  J/JK/JKEGL/Marpa-PP-0.014000.tar.gz
 Marpa::PP::Internal::Recognizer       0  J/JK/JKEGL/Marpa-PP-0.014000.tar.gz
-Marpa::PP::Internal::Slot             0  J/JK/JKEGL/Marpa-PP-0.010000.tar.gz
 Marpa::PP::Internal::Value            0  J/JK/JKEGL/Marpa-PP-0.014000.tar.gz
 Marpa::PP::Recognizer          0.014000  J/JK/JKEGL/Marpa-PP-0.014000.tar.gz
 Marpa::PP::Value               0.014000  J/JK/JKEGL/Marpa-PP-0.014000.tar.gz
