@@ -223,6 +223,7 @@ App::Nopaste::Service::Ubuntu,SARTAK,f
 App::Nopaste::Service::ssh,SARTAK,f
 App::Notes,WWOLF,f
 App::Notifo,MELO,f
+App::OS::Detect::MachineCores,DBR,f
 App::Office::CMS,RSAVAGE,f
 App::Office::CMS::Controller,RSAVAGE,f
 App::Office::CMS::Controller::Backup,RSAVAGE,f
