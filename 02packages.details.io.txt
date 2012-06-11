@@ -288,7 +288,7 @@ IO::Stty                           0.03  T/TO/TODDR/IO-Stty-0.03.tar.gz
 IO::Tail                           0.01  H/HI/HIO/IO-Tail-0.01.tar.gz
 IO::Tee                            0.64  K/KE/KENSHAN/IO-Tee-0.64.tar.gz
 IO::Tee::Binmode                   0.03  J/JE/JESSE/HTTP-Server-Simple-Recorder-0.03.tar.gz
-IO::Termios                        0.01  P/PE/PEVANS/IO-Termios-0.01.tar.gz
+IO::Termios                        0.02  P/PE/PEVANS/IO-Termios-0.02.tar.gz
 IO::TieCombine                    1.002  R/RJ/RJBS/IO-TieCombine-1.002.tar.gz
 IO::TieCombine::Handle            1.002  R/RJ/RJBS/IO-TieCombine-1.002.tar.gz
 IO::TieCombine::Scalar            1.002  R/RJ/RJBS/IO-TieCombine-1.002.tar.gz
