@@ -48,6 +48,7 @@ Bio::Phylo::NeXML::Meta::XMLLiteral,RVOSA,f
 Bio::Phylo::NeXML::Writable,RVOSA,f
 Bio::Phylo::Parsers,RVOSA,f
 Bio::Phylo::Parsers::Abstract,RVOSA,f
+Bio::Phylo::Parsers::Adjacency,RVOSA,f
 Bio::Phylo::Parsers::Cdao,RVOSA,f
 Bio::Phylo::Parsers::Fasta,RVOSA,f
 Bio::Phylo::Parsers::Fastnewick,RVOSA,f
@@ -60,6 +61,7 @@ Bio::Phylo::Parsers::Phylip,RVOSA,f
 Bio::Phylo::Parsers::Phyloxml,RVOSA,f
 Bio::Phylo::Parsers::Table,RVOSA,f
 Bio::Phylo::Parsers::Taxlist,RVOSA,f
+Bio::Phylo::Parsers::Tnrs,RVOSA,f
 Bio::Phylo::Parsers::Tolweb,RVOSA,f
 Bio::Phylo::Parsers::Ubiocbmeta,RVOSA,f
 Bio::Phylo::Parsers::Ubiometa,RVOSA,f
@@ -95,9 +97,11 @@ Bio::Phylo::Trees::Node,RVOSA,f
 Bio::Phylo::Trees::Tree,RVOSA,f
 Bio::Phylo::Unparsers,RVOSA,f
 Bio::Phylo::Unparsers::Abstract,RVOSA,f
+Bio::Phylo::Unparsers::Adjacency,RVOSA,f
 Bio::Phylo::Unparsers::Cdao,RVOSA,f
 Bio::Phylo::Unparsers::Fasta,RVOSA,f
 Bio::Phylo::Unparsers::Hennig86,RVOSA,f
+Bio::Phylo::Unparsers::Html,RVOSA,f
 Bio::Phylo::Unparsers::Json,RVOSA,f
 Bio::Phylo::Unparsers::Mrp,RVOSA,f
 Bio::Phylo::Unparsers::Newick,RVOSA,f
@@ -108,6 +112,7 @@ Bio::Phylo::Unparsers::Phylip,RVOSA,f
 Bio::Phylo::Unparsers::Phyloxml,RVOSA,f
 Bio::Phylo::Unparsers::Rss1,RVOSA,f
 Bio::Phylo::Unparsers::Svg,RVOSA,f
+Bio::Phylo::Unparsers::Taxlist,RVOSA,f
 Bio::Phylo::Util::CONSTANT,RVOSA,f
 Bio::Phylo::Util::DOM,RVOSA,f
 Bio::Phylo::Util::DOM::Document::libxml,RVOSA,f
@@ -142,6 +147,13 @@ Bio::PhyloNetwork::TreeFactoryX,BIOPERLML,f
 Bio::PhyloNetwork::TreeFactoryX,CJFIELDS,c
 Bio::PhyloNetwork::muVector,BIOPERLML,f
 Bio::PhyloNetwork::muVector,CJFIELDS,c
+Bio::PhyloTastic,RVOSA,f
+Bio::PhyloTastic::BabelPhysh,RVOSA,f
+Bio::PhyloTastic::DateLife,RVOSA,f
+Bio::PhyloTastic::PhyleMerge,RVOSA,f
+Bio::PhyloTastic::PruneOMatic,RVOSA,f
+Bio::PhyloTastic::TNRS,RVOSA,f
+Bio::PhyloTastic::TaxTractor,RVOSA,f
 Bio::Polloc,LRR,m
 Bio::Polloc::Genome,LRR,f
 Bio::Polloc::GroupCriteria,LRR,f
