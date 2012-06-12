@@ -1554,10 +1554,8 @@ Tk::DialogBox,TKML,f
 Tk::DiffText,MJCARMAN,m
 Tk::DirSelect,MJCARMAN,m
 Tk::DirTree,CTDEAN,f
-Tk::DirTree,RENEEB,c
 Tk::DirTree,SREZIC,c
 Tk::DirTree,TKML,c
-Tk::DirTreeDialog,RENEEB,c
 Tk::DirTreeDialog,SREZIC,c
 Tk::DirTreeDialog,TKML,f
 Tk::Dirlist,SREZIC,c
@@ -2086,7 +2084,6 @@ Tk::Toplevel,TKML,f
 Tk::Trace,SREZIC,c
 Tk::Trace,TKML,f
 Tk::Tree,CTDEAN,m
-Tk::Tree,RENEEB,c
 Tk::Tree,SREZIC,c
 Tk::Tree::JSON,SANTOS,m
 Tk::Tree::XML,SANTOS,m
