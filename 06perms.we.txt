@@ -287,6 +287,9 @@ WebService::OkiLab::ExtractPlace,TSUKAMOTO,f
 WebService::OnlineJudge,GARU,f
 WebService::Pathtraq::API::NormalizeURL,ZIGOROU,f
 WebService::PhotoZou,JIRO,f
+WebService::Pocket,WWOLF,f
+WebService::Pocket::Item,WWOLF,f
+WebService::Pocket::Stats,WWOLF,f
 WebService::Postcodeanywhere::BACS::REST,TEEJAY,f
 WebService::Prowl,SEKIMURA,f
 WebService::Prowl::AnyEventHTTP,SEKIMURA,f
