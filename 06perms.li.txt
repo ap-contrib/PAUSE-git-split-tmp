@@ -523,6 +523,8 @@ Linux::AIO,MLEHMANN,m
 Linux::APT,ADRIS,f
 Linux::APT,WILSOND,c
 Linux::Apple::Laptop::LED,AVAR,f
+Linux::AtaSmart,IOANR,f
+Linux::AtaSmart::Constants,IOANR,f
 Linux::BootCleanup,KERISMAN,f
 Linux::Bootloader,BRYCE,m
 Linux::Bootloader::Detect,BRYCE,f
