@@ -421,8 +421,8 @@ Lingua::Zompist::Kebreni           0.90  P/PN/PNE/Lingua-Zompist-Kebreni-0.90.ta
 Lingua::Zompist::Verdurian         0.91  P/PN/PNE/Lingua-Zompist-Verdurian-0.91.tar.gz
 Linux::AIO                          1.9  M/ML/MLEHMANN/Linux-AIO-1.9.tar.gz
 Linux::APT                         0.02  W/WI/WILSOND/Linux-APT-0.02.tar.gz
-Linux::AtaSmart                     1.0  I/IO/IOANR/Linux-AtaSmart-1.0.0.tar.gz
-Linux::AtaSmart::Constants          1.0  I/IO/IOANR/Linux-AtaSmart-1.0.0.tar.gz
+Linux::AtaSmart                1.000001  I/IO/IOANR/Linux-AtaSmart-1.0.1.tar.gz
+Linux::AtaSmart::Constants     1.000001  I/IO/IOANR/Linux-AtaSmart-1.0.1.tar.gz
 Linux::Bootloader                   1.2  B/BR/BRYCE/Linux-Bootloader-1.3.tar.gz
 Linux::Bootloader::Detect           1.2  B/BR/BRYCE/Linux-Bootloader-1.3.tar.gz
 Linux::Bootloader::Elilo            1.2  B/BR/BRYCE/Linux-Bootloader-1.3.tar.gz
