@@ -269,6 +269,7 @@ Blosxom::Header,ANAZAWA,m
 Blosxom::Header::Class,ANAZAWA,f
 Blosxom::Header::Object,ANAZAWA,f
 Blosxom::Header::Prototype,ANAZAWA,f
+Blosxom::Header::Proxy,ANAZAWA,f
 Blosxom::Include,GAVINC,f
 Blosxom::Template,ANAZAWA,m
 Blowfish,DPARIS,f
