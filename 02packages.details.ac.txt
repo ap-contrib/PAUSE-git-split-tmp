@@ -621,7 +621,7 @@ Algorithm::Evolve                  0.03  R/RO/ROSULEK/Algorithm-Evolve-0.03.tar.
 Algorithm::Evolve::Util            0.03  R/RO/ROSULEK/Algorithm-Evolve-0.03.tar.gz
 Algorithm::ExpectationMaximization  1.1  A/AV/AVIKAK/Algorithm-ExpectationMaximization-1.1.tar.gz
 Algorithm::FastPermute            0.999  R/RO/ROBIN/Algorithm-FastPermute-0.999.tar.gz
-Algorithm::FeatureSelection        0.01  M/MI/MIKI/Algorithm-FeatureSelection-0.01.tar.gz
+Algorithm::FeatureSelection        0.02  M/MI/MIKI/Algorithm-FeatureSelection-0.02.tar.gz
 Algorithm::FEC                      1.0  M/ML/MLEHMANN/Algorithm-FEC-1.0.tar.gz
 Algorithm::FloodControl        2.001000  G/GU/GUGU/Algorithm-FloodControl-2.001000.tar.gz
 Algorithm::FloodControl::Backend   2609  G/GU/GUGU/Algorithm-FloodControl-2.000000.tar.gz
