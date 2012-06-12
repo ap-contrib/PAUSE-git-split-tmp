@@ -233,7 +233,7 @@ Rem_Command                       undef  R/RE/REEDFISH/Net-FullAuto-0.999911.tar
 Remedy::Ar                        undef  R/RI/RIK/Ar-0.2alpha.tar.gz
 Remedy::Ar::Schema                undef  R/RI/RIK/Ar-0.2alpha.tar.gz
 Remedy::Ar::Server                undef  R/RI/RIK/Ar-0.2alpha.tar.gz
-Remedy::ARSTools                   1.04  A/AH/AHICOX/Remedy-ARSTools-1.04.tar.gz
+Remedy::ARSTools                   1.05  A/AH/AHICOX/Remedy-ARSTools-1.05.tar.gz
 Remind::Client                     0.03  P/PI/PIOTO/Remind-Client-0.03.tar.gz
 Remind::Client::libnotify          0.03  P/PI/PIOTO/Remind-Client-0.03.tar.gz
 Remind::Parser                     0.07  N/NK/NKUITSE/Remind-Parser-0.07.tar.gz
