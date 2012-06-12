@@ -419,6 +419,15 @@ Web::ID::Types,TOBYINK,f
 Web::ID::Util,TOBYINK,f
 Web::JenkinsNotification,CORNELIUS,f
 Web::Light,INFRARED,f
+Web::Machine,STEVAN,f
+Web::Machine::FSM,STEVAN,f
+Web::Machine::FSM::States,STEVAN,f
+Web::Machine::I18N,STEVAN,f
+Web::Machine::I18N::en,STEVAN,f
+Web::Machine::Resource,STEVAN,f
+Web::Machine::Util,STEVAN,f
+Web::Machine::Util::BodyEncoding,STEVAN,f
+Web::Machine::Util::ContentNegotiation,STEVAN,f
 Web::Magic,TOBYINK,f
 Web::Magic::Async,TOBYINK,f
 Web::Magic::Util,TOBYINK,f
