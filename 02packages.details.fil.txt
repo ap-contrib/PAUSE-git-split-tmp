@@ -125,6 +125,7 @@ Finance::Bank::HDFC            0.014000  R/RO/ROHAN/Finance-Bank-HDFC-v0.14.0.ta
 Finance::Bank::HSBC                1.03  C/CH/CHRIS/Finance-Bank-HSBC-1.03.tar.gz
 Finance::Bank::ID::Base            0.25  S/SH/SHARYANTO/Finance-Bank-ID-BCA-0.25.tar.gz
 Finance::Bank::ID::BCA             0.25  S/SH/SHARYANTO/Finance-Bank-ID-BCA-0.25.tar.gz
+Finance::Bank::ID::BPRKS           0.01  S/SH/SHARYANTO/Finance-Bank-ID-BPRKS-0.01.tar.gz
 Finance::Bank::ID::Mandiri         0.22  S/SH/SHARYANTO/Finance-Bank-ID-Mandiri-0.22.tar.gz
 Finance::Bank::IE                 undef  W/WA/WAIDER/Finance-Bank-IE-0.26.tar.gz
 Finance::Bank::IE::BankOfIreland   0.24  W/WA/WAIDER/Finance-Bank-IE-0.26.tar.gz

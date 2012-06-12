@@ -185,6 +185,7 @@ Finance::Bank::HSBC,CHRIS,c
 Finance::Bank::HSBC,MWILSON,f
 Finance::Bank::Halifax::Sharedealing,RAYNERLUC,f
 Finance::Bank::ID::BCA,SHARYANTO,f
+Finance::Bank::ID::BPRKS,SHARYANTO,f
 Finance::Bank::ID::Base,SHARYANTO,f
 Finance::Bank::ID::Mandiri,SHARYANTO,f
 Finance::Bank::IE,WAIDER,f
