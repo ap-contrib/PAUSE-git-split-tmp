@@ -76,7 +76,15 @@ KSx::Searcher::Abstract,HDP,f
 KSx::Searcher::Abstract,RJBS,c
 KSx::Simple,CREAMYG,f
 KT::WWD,BALESHI,f
+Kafka,SGLADKOV,f
 Kafka::Client,GPHAT,f
+Kafka::Consumer,SGLADKOV,f
+Kafka::IO,SGLADKOV,f
+Kafka::Int64,SGLADKOV,f
+Kafka::Message,SGLADKOV,f
+Kafka::Mock,SGLADKOV,f
+Kafka::Producer,SGLADKOV,f
+Kafka::Protocol,SGLADKOV,f
 Kaiten::Container,MEETTYA,f
 Kamaitachi,TYPESTER,f
 Kamaitachi::IOStream,TYPESTER,f
