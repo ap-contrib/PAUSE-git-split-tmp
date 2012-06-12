@@ -832,6 +832,7 @@ URI::Encode,MITHUN,f
 URI::Escape,GAAS,c
 URI::Escape,LWWWP,m
 URI::Escape::JavaScript,TANIGUCHI,f
+URI::Escape::Optimistic,TOBYINK,f
 URI::Escape::XS,DANKOGAI,f
 URI::Fetch,BTROTT,f
 URI::Fetch::Response,BTROTT,f
