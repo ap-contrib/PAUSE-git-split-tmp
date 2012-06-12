@@ -1013,7 +1013,7 @@ Devel::Local::PATH                undef  I/IN/INGY/Devel-Local-0.15.tar.gz
 Devel::Local::PERL5LIB            undef  I/IN/INGY/Devel-Local-0.15.tar.gz
 Devel::MaintBlead                  0.05  E/EL/ELIZABETH/Devel-MaintBlead-0.05.tar.gz
 Devel::Mallinfo                      12  K/KR/KRYDE/Devel-Mallinfo-12.tar.gz
-Devel::Malloc                      0.01  Y/YU/YURY/Devel-Malloc-0.01.tar.gz
+Devel::Malloc                      0.02  Y/YU/YURY/Devel-Malloc-0.02.tar.gz
 Devel::Maypole                      0.2  D/DA/DAVEBAIRD/Devel-Maypole-0.2.tar.gz
 Devel::Maypole::Tests             undef  D/DA/DAVEBAIRD/Devel-Maypole-0.2.tar.gz
 Devel::Memalyzer                  0.001  E/EX/EXODIST/Devel-Memalyzer-0.001.tar.gz
