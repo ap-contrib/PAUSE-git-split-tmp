@@ -5,8 +5,8 @@ URI::cpan::package                1.004  R/RJ/RJBS/URI-cpan-1.004.tar.gz
 URI::CrawlableHash                 0.02  M/MA/MALA/URI-CrawlableHash-0.02.tar.gz
 URI::crid                          0.01  A/AL/ALIC/URI-crid-0.01.tar.gz
 URI::data                         undef  G/GA/GAAS/URI-1.60.tar.gz
-URI::di                            0.01  D/DO/DORIAN/URI-di-0.01.tar.gz
-URI::di::CryptoSpec                0.01  D/DO/DORIAN/URI-di-0.01.tar.gz
+URI::di                            0.02  D/DO/DORIAN/URI-di-0.02.tar.gz
+URI::di::CryptoSpec                0.02  D/DO/DORIAN/URI-di-0.02.tar.gz
 URI::Encode                       0.061  M/MI/MITHUN/URI-Encode-0.061.tar.gz
 URI::Escape                        3.31  G/GA/GAAS/URI-1.60.tar.gz
 URI::Escape::JavaScript            0.04  T/TA/TANIGUCHI/URI-Escape-JavaScript-0.04.tar.gz

@@ -1317,6 +1317,12 @@ Crypt::Lite,RETOH,f
 Crypt::Loki97,JCDUQUE,m
 Crypt::MP4Stream,BILLH,f
 Crypt::MatrixSSL,CDRAKE,f
+Crypt::MatrixSSL3,CDRAKE,f
+Crypt::MatrixSSL3::Client,CDRAKE,f
+Crypt::MatrixSSL3::HelloExt,CDRAKE,f
+Crypt::MatrixSSL3::Keys,CDRAKE,f
+Crypt::MatrixSSL3::Server,CDRAKE,f
+Crypt::MatrixSSL3::SessID,CDRAKE,f
 Crypt::Memfrob,KNAGANO,f
 Crypt::Mimetic,ERICH,f
 Crypt::Mimetic::CipherSaber,ERICH,f
