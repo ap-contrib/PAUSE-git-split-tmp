@@ -103,6 +103,7 @@ Lingua::NL::Numbers                 1.3  F/FR/FRIFFIN/Lingua-NL-Numbers-1.3.tar.
 Lingua::NL::Numbers::GroeneBoekje  0.10  J/JV/JV/Lingua-NL-Numbers-GroeneBoekje-0.10.tar.gz
 Lingua::NO::Num2Word              0.011  K/KA/KACCV/Lingua-NO-Num2Word-0.011.tar.gz
 Lingua::Num2Word                   0.07  R/RV/RVASICEK/Lingua-Num2Word-0.07.tar.gz
+Lingua::Orthon                     0.02  R/RG/RGARTON/Lingua-Orthon-0.02.tar.gz
 Lingua::Pangram                    0.02  I/ID/IDORU/Lingua-Pangram-0.02.tar.gz
 Lingua::Phoneme                   0.011  L/LG/LGODDARD/Lingua-Phoneme-0.011.tar.gz
 Lingua::Phonology                 0.352  J/JA/JASPAX/Lingua-Phonology-0.352.tar.gz
