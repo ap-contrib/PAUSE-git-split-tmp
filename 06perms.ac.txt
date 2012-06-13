@@ -53,6 +53,7 @@ Acme::landmine,DAVIDNICO,f
 Acme::phillup,PHILLUP,f
 Acme::please,DAVIDNICO,f
 Acme::speeed,MEMOWE,f
+Acme::stickpin,STICKPIN,f
 Acme::use::strict::with::pride,NWCLARK,f
 Acpi::Battery,SHY,f
 Acpi::Fan,SHY,f
