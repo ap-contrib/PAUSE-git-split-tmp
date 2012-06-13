@@ -88,7 +88,6 @@ App::DBCritic::PolicyType::ResultSource 0.020  M/MJ/MJGARDNER/App-DBCritic-0.020
 App::DBCritic::PolicyType::Schema 0.020  M/MJ/MJGARDNER/App-DBCritic-0.020.tar.gz
 App::DBCritic::Violation          0.020  M/MJ/MJGARDNER/App-DBCritic-0.020.tar.gz
 App::Deliantra                   0.9978  M/ML/MLEHMANN/Deliantra-Client-2.11.tar.gz
-App::Dispatcher                    0.11  M/ML/MLAWREN/App-Dispatcher-0.11.tar.gz
 App::distfind                  1.101400  M/MA/MARCEL/App-distfind-1.101400.tar.gz
 App::Distlinks                        5  K/KR/KRYDE/distlinks-5.tar.gz
 App::Distlinks::DBI                   5  K/KR/KRYDE/distlinks-5.tar.gz
