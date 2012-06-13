@@ -1146,8 +1146,12 @@ Message::Passing::Role::Filter,BOBTFISH,c
 Message::Passing::Role::Filter,GHENRY,f
 Message::Passing::Role::HasAConnection,BOBTFISH,c
 Message::Passing::Role::HasAConnection,GHENRY,f
+Message::Passing::Role::HasErrorChain,BOBTFISH,c
+Message::Passing::Role::HasErrorChain,GHENRY,f
 Message::Passing::Role::HasHostnameAndPort,BOBTFISH,c
 Message::Passing::Role::HasHostnameAndPort,GHENRY,f
+Message::Passing::Role::HasTimeoutAndReconnectAfter,BOBTFISH,c
+Message::Passing::Role::HasTimeoutAndReconnectAfter,GHENRY,f
 Message::Passing::Role::HasUsernameAndPassword,BOBTFISH,c
 Message::Passing::Role::HasUsernameAndPassword,GHENRY,f
 Message::Passing::Role::Input,BOBTFISH,c

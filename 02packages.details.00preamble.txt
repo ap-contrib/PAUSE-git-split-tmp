@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
-Line-Count:   117609
-Last-Updated: Wed, 13 Jun 2012 21:03:05 GMT
+Line-Count:   117611
+Last-Updated: Wed, 13 Jun 2012 21:07:04 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -210,7 +210,7 @@ Acme::24                           0.04  C/CO/COSIMO/Acme-24-0.04.tar.gz
 Acme::3mxA                        undef  D/DG/DGL/Acme-3mxA-1337.37.tar.gz
 Acme::6502                         0.76  B/BR/BRICAS/Acme-6502-0.76.tar.gz
 Acme::6502::Tube                   0.76  B/BR/BRICAS/Acme-6502-0.76.tar.gz
-Acme::AbhiIsNot                    0.02  A/AB/ABHIISNOT/Acme-AbhiIsNot-0.02.tar.gz
+Acme::AbhiIsNot                    0.03  A/AB/ABHIISNOT/Acme-AbhiIsNot-0.03.tar.gz
 Acme::About::TOBYINK           2012.006  T/TO/TOBYINK/Acme-About-TOBYINK-2012.006.tar.gz
 Acme::Acferen                      0.02  A/AC/ACFEREN/Acme-Acferen-0.02.tar.gz
 Acme::Acotie                       0.02  Y/YA/YAPPO/Acme-Acotie-0.02.tar.gz
@@ -451,7 +451,7 @@ Acme::KENO                         0.02  K/KE/KENO/Acme-KENO-0.02.tar.gz
 Acme::Kensiro                      0.07  T/TO/TOKUHIROM/Acme-Kensiro-0.07.tar.gz
 Acme::kevinz                       0.02  K/KE/KEVINZ/Acme-kevinz-0.02.tar.gz
 ACME::KeyboardMarathon             1.13  B/BE/BENNIE/ACME-KeyboardMarathon-1.13.tar.gz
-Acme::KJAM                         0.02  K/KJ/KJAM/Acme-KJAM-0.02.tar.gz
+Acme::KJAM                         0.03  K/KJ/KJAM/Acme-KJAM-0.03.tar.gz
 Acme::KnowledgeWisdom              0.01  J/JK/JKUTEJ/Acme-KnowledgeWisdom-0.01.tar.gz
 Acme::Labs                          1.1  P/PL/PLATO/Acme-Labs-1.1.tar.gz
 Acme::Lambda                       0.03  N/NE/NELHAGE/Acme-Lambda-0.03.tar.gz
