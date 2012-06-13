@@ -34,7 +34,7 @@ Acme::Web20::Validator::Rule::UseRails undef  N/NA/NAOYA/Acme-Web20-Validator-0.
 Acme::Web20::Validator::Rule::XHtmlStrict undef  N/NA/NAOYA/Acme-Web20-Validator-0.01.tar.gz
 Acme::What                        0.002  T/TO/TOBYINK/Acme-What-0.002.tar.gz
 Acme::Working::Out::Dependencies::From::META::files::Will::Be::Wrong::At::Some::Point::Like::This::Module::For::Instance 9.99  B/BI/BINGOS/Acme-Working-Out-Dependencies-From-META-files-Will-Be-Wrong-At-Some-Point-Like-This-Module-For-Instance-9.99.tar.gz
-Acme::WTF                          0.01  B/BE/BEAST/Acme-WTF-0.01.tar.gz
+Acme::WTF                          0.03  B/BE/BEAST/Acme-WTF-0.03.tar.gz
 Acme::XSS                          0.01  T/TO/TOKUHIROM/Acme-XSS-0.01.tar.gz
 ACME::YAPC::NA::2012               0.02  J/JA/JARICH/ACME-YAPC-NA-2012-0.02.tar.gz
 Acme::YARROW                       0.02  Y/YA/YARROW/Acme-YARROW-0.02.tar.gz

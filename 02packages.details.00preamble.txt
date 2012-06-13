@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   117609
-Last-Updated: Wed, 13 Jun 2012 20:58:04 GMT
+Last-Updated: Wed, 13 Jun 2012 21:03:05 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -251,7 +251,7 @@ Acme::Blarghy::McBlarghBlargh    0.0022  D/DH/DHOSS/Acme-Blarghy-McBlarghBlargh-
 Acme::Bleach                       1.13  D/DC/DCONWAY/Acme-Bleach-1.13.tar.gz
 Acme::Bleach::Numerically          0.04  D/DA/DANKOGAI/Acme-Bleach-Numerically-0.04.tar.gz
 Acme::BloodType                    0.01  A/AR/ARODLAND/Acme-BloodType-0.01.tar.gz
-Acme::BOATES                       0.02  B/BO/BOATES/Acme-BOATES-0.02.tar.gz
+Acme::BOATES                       0.03  B/BO/BOATES/Acme-BOATES-0.03.tar.gz
 Acme::BooK::Is::My::Bitch          0.02  C/CO/COG/Acme-BooK-Is-My-Bitch-0.02.tar.gz
 Acme::Boolean                       0.3  G/GU/GUGOD/Acme-Boolean-0.3.tar.gz
 Acme::Boom                     2147483647.000  D/DG/DGL/Acme-Boom-3735928559.tar.gz
@@ -370,7 +370,7 @@ Acme::DoubleHelix                  0.01  X/XE/XERN/Acme-DoubleHelix-0.01.tar.gz
 Acme::DreamyImage                   1.1  G/GU/GUGOD/Acme-DreamyImage-1.1.tar.gz
 Acme::DRM                          0.03  B/BW/BWARDEN/Acme-DRM-0.03.tar.gz
 Acme::Drunk                        0.03  C/CW/CWEST/Acme-Drunk-0.03.tar.gz
-Acme::dwcarder                     0.02  D/DW/DWCARDER/Acme-dwcarder-0.02.tar.gz
+Acme::dwcarder                     0.03  D/DW/DWCARDER/Acme-dwcarder-0.03.tar.gz
 Acme::DWIM                         1.05  D/DC/DCONWAY/Acme-Bleach-1.13.tar.gz
 Acme::Dyoung                       0.01  D/DY/DYOUNG/Acme-Dyoung-0.01.tar.gz
 Acme::Echo                         0.02  D/DA/DAVIDRW/Acme-Echo-0.02.tar.gz
@@ -443,7 +443,7 @@ Acme::IRC::Art                      0.2  S/SC/SCOLINET/Acme-IRC-Art-0.2.tar.gz
 Acme::JANEZHANG                    0.01  J/JA/JANEZHANG/Acme-JANEZHANG-0.01.tar.gz
 Acme::JAPH                         0.03  C/CW/CWEST/Acme-JAPH-0.03.tar.gz
 Acme::JavaTrace                    0.08  S/SA/SAPER/Acme-JavaTrace-0.08.tar.gz
-Acme::JJCARMAN                     0.02  J/JJ/JJCARMAN/Acme-JJCARMAN-0.02.tar.gz
+Acme::JJCARMAN                     0.03  J/JJ/JJCARMAN/Acme-JJCARMAN-0.03.tar.gz
 Acme::Jrush                        0.01  J/JL/JLRUSH/Acme-Jrush-0.01.tar.gz
 Acme::Jungle::CrawlerExample       0.01  H/HE/HERNAN/Acme-Jungle-CrawlerExample-0.01.tar.gz
 Acme::JWT                          0.04  C/CL/CLAIRVY/Acme-JWT-0.04.tar.gz
