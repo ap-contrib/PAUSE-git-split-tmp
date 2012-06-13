@@ -115,6 +115,7 @@ Global::Context::StackFrame,RJBS,f
 Global::Context::StackFrame::Basic,RJBS,f
 Global::Context::Terminal,RJBS,f
 Global::Context::Terminal::Basic,RJBS,f
+Global::Rainbow::Map,TOBYINK,f
 GlobalDBI,AAYARS,f
 Globwalker,DAVECROSS,f
 Gloom,INGY,f

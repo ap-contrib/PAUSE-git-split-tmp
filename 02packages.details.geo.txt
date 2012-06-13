@@ -524,6 +524,7 @@ Global::Context::StackFrame       0.002  R/RJ/RJBS/Global-Context-0.002.tar.gz
 Global::Context::StackFrame::Basic 0.002  R/RJ/RJBS/Global-Context-0.002.tar.gz
 Global::Context::Terminal         0.002  R/RJ/RJBS/Global-Context-0.002.tar.gz
 Global::Context::Terminal::Basic  0.002  R/RJ/RJBS/Global-Context-0.002.tar.gz
+Global::Rainbow::Map              0.001  T/TO/TOBYINK/Global-Rainbow-Map-0.001.tar.gz
 globexport                         1.27  J/JL/JLISHEV/WebTools-1.27.tar.gz
 Gloom                              0.16  I/IN/INGY/Gloom-0.17.tar.gz
 Gloom::Doc                        undef  I/IN/INGY/Gloom-0.11.tar.gz
