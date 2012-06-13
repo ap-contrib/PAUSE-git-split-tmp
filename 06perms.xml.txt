@@ -1125,6 +1125,7 @@ XML::Tags::Unex,MSTROUT,f
 XML::Tags::Unex,RIBASUSHI,c
 XML::Tags::Unex,SSCAFFIDI,c
 XML::Tags::Unex,WSHELDAHL,c
+XML::Tags::html5,MARCC,f
 XML::Tape,HOCHSTEN,f
 XML::Tape::Admin,HOCHSTEN,f
 XML::Tape::Identifier,HOCHSTEN,f
