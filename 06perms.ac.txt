@@ -13,9 +13,11 @@ Acme::Void,RYOCHIN,m
 Acme::Voodoo,ESUMMERS,f
 Acme::Vuvuzela,BINGOS,f
 Acme::W,DAMEO,f
+Acme::WTF,BEAST,f
 Acme::WWW::Cyborg,SCHUBIGER,f
 Acme::Wabby,POZNICK,m
 Acme::WalkMethods,LLAP,f
+Acme::WallisdsFirstModule,WALLISDS,f
 Acme::Web,ETHER,c
 Acme::Web,PERIGRIN,f
 Acme::Web20::Validator,NAOYA,f
@@ -46,7 +48,9 @@ Acme::emcA,AUTRIJUS,c
 Acme::emcA,JESSE,c
 Acme::emcA,NUFFIN,c
 Acme::eng2kor,AANOAA,f
+Acme::kevinz,KEVINZ,f
 Acme::landmine,DAVIDNICO,f
+Acme::phillup,PHILLUP,f
 Acme::please,DAVIDNICO,f
 Acme::speeed,MEMOWE,f
 Acme::use::strict::with::pride,NWCLARK,f
