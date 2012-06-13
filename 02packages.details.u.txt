@@ -645,6 +645,7 @@ URI::_userpass                    undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::Amazon::APA                   0.04  D/DA/DANKOGAI/URI-Amazon-APA-0.04.tar.gz
 URI::Attr                          1.07  G/GA/GAAS/LWPng-alpha-0.24.tar.gz
 URI::chrome                        0.01  Z/ZI/ZIGOROU/URI-chrome-0.01.tar.gz
+URI::cid                           0.01  D/DO/DORIAN/URI-mid-0.01.tar.gz
 URI::Coralize                      0.01  G/GR/GRAY/URI-Coralize-0.01.tar.gz
 URI::cpan                         1.004  R/RJ/RJBS/URI-cpan-1.004.tar.gz
 URI::cpan::author                 1.004  R/RJ/RJBS/URI-cpan-1.004.tar.gz

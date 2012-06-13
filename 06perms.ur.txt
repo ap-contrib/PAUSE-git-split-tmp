@@ -20,6 +20,7 @@ URI::_segment,GAAS,f
 URI::_server,GAAS,f
 URI::_userpass,GAAS,f
 URI::chrome,ZIGOROU,f
+URI::cid,DORIAN,f
 URI::cpan,RJBS,f
 URI::cpan::author,RJBS,f
 URI::cpan::dist,RJBS,f
@@ -28,6 +29,8 @@ URI::cpan::module,RJBS,f
 URI::cpan::package,RJBS,f
 URI::crid,ALIC,f
 URI::data,GAAS,f
+URI::di,DORIAN,f
+URI::di::CryptoSpec,DORIAN,f
 URI::fasp,SHAW,f
 URI::file,GAAS,f
 URI::file::Base,GAAS,f
@@ -56,6 +59,7 @@ URI::ldap,GAAS,f
 URI::ldapi,GAAS,f
 URI::ldaps,GAAS,f
 URI::mailto,GAAS,f
+URI::mid,DORIAN,f
 URI::mms,GAAS,f
 URI::mq,BYRNE,c
 URI::mq,KULCHENKO,f
