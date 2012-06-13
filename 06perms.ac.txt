@@ -35,9 +35,12 @@ Acme::What,TOBYINK,f
 Acme::WheresYourDaddy,JSTOWE,f
 Acme::Working::Out::Dependencies::From::META::files::Will::Be::Wrong::At::Some::Point::Like::This::Module::For::Instance,BINGOS,f
 Acme::XSS,TOKUHIROM,f
+Acme::YARROW,YARROW,f
 Acme::Yoda,GREP,f
 Acme::Your,RCLAMP,f
 Acme::Your::Filter,RCLAMP,f
+Acme::ctreptow,CTREPTOW,f
+Acme::dwcarder,DWCARDER,f
 Acme::emcA,AUDREYT,f
 Acme::emcA,AUTRIJUS,c
 Acme::emcA,JESSE,c
