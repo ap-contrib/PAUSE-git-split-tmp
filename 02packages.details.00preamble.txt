@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   117612
-Last-Updated: Wed, 13 Jun 2012 21:13:25 GMT
+Last-Updated: Wed, 13 Jun 2012 21:19:04 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -449,7 +449,7 @@ Acme::Jungle::CrawlerExample       0.01  H/HE/HERNAN/Acme-Jungle-CrawlerExample-
 Acme::JWT                          0.04  C/CL/CLAIRVY/Acme-JWT-0.04.tar.gz
 Acme::KENO                         0.02  K/KE/KENO/Acme-KENO-0.02.tar.gz
 Acme::Kensiro                      0.07  T/TO/TOKUHIROM/Acme-Kensiro-0.07.tar.gz
-Acme::kevinz                       0.02  K/KE/KEVINZ/Acme-kevinz-0.02.tar.gz
+Acme::kevinz                       0.03  K/KE/KEVINZ/Acme-kevinz-0.03.tar.gz
 ACME::KeyboardMarathon             1.13  B/BE/BENNIE/ACME-KeyboardMarathon-1.13.tar.gz
 Acme::KJAM                         0.03  K/KJ/KJAM/Acme-KJAM-0.03.tar.gz
 Acme::KnowledgeWisdom              0.01  J/JK/JKUTEJ/Acme-KnowledgeWisdom-0.01.tar.gz
