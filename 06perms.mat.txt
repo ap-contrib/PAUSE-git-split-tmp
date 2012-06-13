@@ -1163,6 +1163,7 @@ Message::Passing::Role::Script,GHENRY,f
 Message::Passing::STOMP,BOBTFISH,c
 Message::Passing::STOMP,GHENRY,f
 Message::Passing::STOMP::ConnectionManager,BOBTFISH,c
+Message::Passing::STOMP::ConnectionManager,GHENRY,f
 Message::Passing::STOMP::Role::HasAConnection,BOBTFISH,c
 Message::Passing::STOMP::Role::HasAConnection,GHENRY,f
 Message::Passing::Syslog,BOBTFISH,c
