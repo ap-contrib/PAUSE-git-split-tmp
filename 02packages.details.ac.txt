@@ -17,7 +17,7 @@ Acme::Vuvuzela                     0.02  B/BI/BINGOS/Acme-Vuvuzela-0.02.tar.gz
 Acme::W                            0.03  D/DA/DAMEO/Acme-W-0.03.tar.gz
 Acme::Wabby                        0.13  P/PO/POZNICK/Acme-Wabby-0.13.tar.gz
 Acme::WalkMethods                   0.1  L/LL/LLAP/Acme-WalkMethods-0.1.tar.gz
-Acme::WallisdsFirstModule          0.01  W/WA/WALLISDS/Acme-WallisdsFirstModule-0.01.tar.gz
+Acme::WallisdsFirstModule          0.02  W/WA/WALLISDS/Acme-WallisdsFirstModule-0.02.tar.gz
 Acme::Web                         undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Web20::Validator             0.01  N/NA/NAOYA/Acme-Web20-Validator-0.01.tar.gz
 Acme::Web20::Validator::Rule      undef  N/NA/NAOYA/Acme-Web20-Validator-0.01.tar.gz
@@ -37,7 +37,7 @@ Acme::Working::Out::Dependencies::From::META::files::Will::Be::Wrong::At::Some::
 Acme::WTF                          0.01  B/BE/BEAST/Acme-WTF-0.01.tar.gz
 Acme::XSS                          0.01  T/TO/TOKUHIROM/Acme-XSS-0.01.tar.gz
 ACME::YAPC::NA::2012               0.02  J/JA/JARICH/ACME-YAPC-NA-2012-0.02.tar.gz
-Acme::YARROW                       0.01  Y/YA/YARROW/Acme-YARROW-0.01.tar.gz
+Acme::YARROW                       0.02  Y/YA/YARROW/Acme-YARROW-0.02.tar.gz
 Acme::Yoda                         0.02  G/GR/GREP/Acme-Yoda-0.02.tar.gz
 Acme::Your                         0.01  R/RC/RCLAMP/Acme-Your-0.01.tar.gz
 Acme::Your::Filter                undef  R/RC/RCLAMP/Acme-Your-0.01.tar.gz

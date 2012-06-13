@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
-Line-Count:   117602
-Last-Updated: Wed, 13 Jun 2012 20:19:05 GMT
+Line-Count:   117605
+Last-Updated: Wed, 13 Jun 2012 20:27:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -210,8 +210,9 @@ Acme::24                           0.04  C/CO/COSIMO/Acme-24-0.04.tar.gz
 Acme::3mxA                        undef  D/DG/DGL/Acme-3mxA-1337.37.tar.gz
 Acme::6502                         0.76  B/BR/BRICAS/Acme-6502-0.76.tar.gz
 Acme::6502::Tube                   0.76  B/BR/BRICAS/Acme-6502-0.76.tar.gz
+Acme::AbhiIsNot                    0.02  A/AB/ABHIISNOT/Acme-AbhiIsNot-0.02.tar.gz
 Acme::About::TOBYINK           2012.006  T/TO/TOBYINK/Acme-About-TOBYINK-2012.006.tar.gz
-Acme::Acferen                      0.01  A/AC/ACFEREN/Acme-Acferen-0.01.tar.gz
+Acme::Acferen                      0.02  A/AC/ACFEREN/Acme-Acferen-0.02.tar.gz
 Acme::Acotie                       0.02  Y/YA/YAPPO/Acme-Acotie-0.02.tar.gz
 Acme::Addslashes               0.001002  J/JA/JAITKEN/Acme-Addslashes-0.1.2.tar.gz
 Acme::AGMorse                      0.03  N/NX/NXONEP/Acme-AGMorse-0.03.tar.gz
@@ -257,7 +258,7 @@ Acme::Boom                     2147483647.000  D/DG/DGL/Acme-Boom-3735928559.tar
 Acme::BOPE                         0.01  G/GA/GARU/Acme-BOPE-0.01.tar.gz
 Acme::BottomsUp                    0.02  D/DA/DAVIDRW/Acme-BottomsUp-0.02.tar.gz
 Acme::Brainfuck                1.001001  J/JA/JALDHAR/Acme-Brainfuck-1.1.1.tar.gz
-Acme::Bryan                        0.01  B/BR/BRYAN/Acme-Bryan-0.01.tar.gz
+Acme::Bryan                        0.02  B/BR/BRYAN/Acme-Bryan-0.02.tar.gz
 Acme::Buckaroo                     1.02  K/KE/KEVINRICE/Acme-Buckaroo-1.02.tar.gz
 Acme::Buffy                         1.6  L/LB/LBROCARD/Acme-Buffy-1.6.tar.gz
 Acme::Bushisms                     0.02  A/AC/ACCARDO/Acme-Bushisms-0.02.tar.gz
@@ -359,7 +360,7 @@ Acme::Date                        undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::DateTime::Duration::Numeric  0.03  M/MI/MIYAGAWA/Acme-DateTime-Duration-Numeric-0.03.tar.gz
 Acme::Debug                        1.48  R/RF/RFOLEY/Acme-Debug-1.48.tar.gz
 Acme::DeepThoughts                 0.01  P/PO/PODMASTER/Acme-DeepThoughts-0.01.tar.gz
-Acme::Demian                       0.01  D/DE/DEMIAN/Acme-Demian-0.01.tar.gz
+Acme::Demian                       0.02  D/DE/DEMIAN/Acme-Demian-0.02.tar.gz
 Acme::DNS::Correct                  0.4  C/CR/CREIN/Acme-DNS-Correct-0.4.tar.gz
 Acme::Domain                      undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Don::t                       1.01  D/DC/DCONWAY/Acme-Don-t-1.01.tar.gz
@@ -369,7 +370,7 @@ Acme::DoubleHelix                  0.01  X/XE/XERN/Acme-DoubleHelix-0.01.tar.gz
 Acme::DreamyImage                   1.1  G/GU/GUGOD/Acme-DreamyImage-1.1.tar.gz
 Acme::DRM                          0.03  B/BW/BWARDEN/Acme-DRM-0.03.tar.gz
 Acme::Drunk                        0.03  C/CW/CWEST/Acme-Drunk-0.03.tar.gz
-Acme::dwcarder                     0.01  D/DW/DWCARDER/Acme-dwcarder-0.01.tar.gz
+Acme::dwcarder                     0.02  D/DW/DWCARDER/Acme-dwcarder-0.02.tar.gz
 Acme::DWIM                         1.05  D/DC/DCONWAY/Acme-Bleach-1.13.tar.gz
 Acme::Echo                         0.02  D/DA/DAVIDRW/Acme-Echo-0.02.tar.gz
 Acme::EdError                      0.01  J/JM/JMATES/Acme-EdError-0.01.tar.gz
@@ -440,9 +441,10 @@ Acme::IRC::Art                      0.2  S/SC/SCOLINET/Acme-IRC-Art-0.2.tar.gz
 Acme::JAPH                         0.03  C/CW/CWEST/Acme-JAPH-0.03.tar.gz
 Acme::JavaTrace                    0.08  S/SA/SAPER/Acme-JavaTrace-0.08.tar.gz
 Acme::JJCARMAN                     0.02  J/JJ/JJCARMAN/Acme-JJCARMAN-0.02.tar.gz
+Acme::Jrush                        0.01  J/JL/JLRUSH/Acme-Jrush-0.01.tar.gz
 Acme::Jungle::CrawlerExample       0.01  H/HE/HERNAN/Acme-Jungle-CrawlerExample-0.01.tar.gz
 Acme::JWT                          0.04  C/CL/CLAIRVY/Acme-JWT-0.04.tar.gz
-Acme::KENO                         0.01  K/KE/KENO/Acme-KENO-0.01.tar.gz
+Acme::KENO                         0.02  K/KE/KENO/Acme-KENO-0.02.tar.gz
 Acme::Kensiro                      0.07  T/TO/TOKUHIROM/Acme-Kensiro-0.07.tar.gz
 Acme::kevinz                       0.02  K/KE/KEVINZ/Acme-kevinz-0.02.tar.gz
 ACME::KeyboardMarathon             1.13  B/BE/BENNIE/ACME-KeyboardMarathon-1.13.tar.gz
