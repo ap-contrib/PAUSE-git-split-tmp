@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   117609
-Last-Updated: Wed, 13 Jun 2012 20:47:04 GMT
+Last-Updated: Wed, 13 Jun 2012 20:58:04 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -360,7 +360,7 @@ Acme::Date                        undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::DateTime::Duration::Numeric  0.03  M/MI/MIYAGAWA/Acme-DateTime-Duration-Numeric-0.03.tar.gz
 Acme::Debug                        1.48  R/RF/RFOLEY/Acme-Debug-1.48.tar.gz
 Acme::DeepThoughts                 0.01  P/PO/PODMASTER/Acme-DeepThoughts-0.01.tar.gz
-Acme::Demian                       0.02  D/DE/DEMIAN/Acme-Demian-0.02.tar.gz
+Acme::Demian                       0.03  D/DE/DEMIAN/Acme-Demian-0.03.tar.gz
 Acme::DNS::Correct                  0.4  C/CR/CREIN/Acme-DNS-Correct-0.4.tar.gz
 Acme::Domain                      undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Don::t                       1.01  D/DC/DCONWAY/Acme-Don-t-1.01.tar.gz
