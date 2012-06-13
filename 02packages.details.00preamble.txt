@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   117569
-Last-Updated: Wed, 13 Jun 2012 09:07:03 GMT
+Last-Updated: Wed, 13 Jun 2012 09:31:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -288,7 +288,7 @@ Acme::CPANAuthors::Acme::CPANAuthors::Authors 0.1257908582  S/SA/SANKO/Acme-CPAN
 Acme::CPANAuthors::AnyEvent        0.05  M/MO/MONS/Acme-CPANAuthors-AnyEvent-0.07.tar.gz
 Acme::CPANAuthors::Austrian    1.100770  M/MA/MARCEL/Acme-CPANAuthors-Austrian-1.100770.tar.gz
 Acme::CPANAuthors::Booking     2012052501  A/AB/ABIGAIL/Acme-CPANAuthors-Booking-2012052501.tar.gz
-Acme::CPANAuthors::Brazilian       0.19  G/GA/GARU/Acme-CPANAuthors-Brazilian-0.19.tar.gz
+Acme::CPANAuthors::Brazilian       0.20  G/GA/GARU/Acme-CPANAuthors-Brazilian-0.20.tar.gz
 Acme::CPANAuthors::British         0.10  B/BA/BARBIE/Acme-CPANAuthors-British-0.10.tar.gz
 Acme::CPANAuthors::British::Companies 0.10  B/BA/BARBIE/Acme-CPANAuthors-British-0.10.tar.gz
 Acme::CPANAuthors::Canadian      0.0104  Z/ZO/ZOFFIX/Acme-CPANAuthors-Canadian-0.0104.tar.gz
