@@ -607,6 +607,7 @@ JSON::RPC::ServiceObject,MAKAMAKA,c
 JSON::RPC::Simple,CLAESJAC,f
 JSON::RPC::Simple::Client,CLAESJAC,f
 JSON::RPC::Simple::Dispatcher,CLAESJAC,f
+JSON::RPC::Test,DMAKI,f
 JSON::SL,MNUNBERG,f
 JSON::SL::Boolean,MNUNBERG,f
 JSON::SL::EscapeTH,MNUNBERG,f
