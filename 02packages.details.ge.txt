@@ -337,7 +337,7 @@ Geo::IP2Location                   4.00  L/LO/LOCATION/Geo-IP2Location-4.00.tar.
 Geo::IP::PurePerl                  1.25  B/BO/BORISZ/Geo-IP-PurePerl-1.25.tar.gz
 Geo::IP::Record                   undef  B/BO/BORISZ/Geo-IP-1.40.tar.gz
 Geo::IP::RU::IpGeoBase             0.03  R/RU/RUZ/Geo-IP-RU-IpGeoBase-0.03.tar.gz
-Geo::IPfree                    1.120460  B/BR/BRICAS/Geo-IPfree-1.120460.tar.gz
+Geo::IPfree                    1.121660  B/BR/BRICAS/Geo-IPfree-1.121660.tar.gz
 Geo::ISO19139                      0.10  M/MA/MARKOV/Geo-ISO19139-0.10.tar.gz
 Geo::ISO19139::2005                0.10  M/MA/MARKOV/Geo-ISO19139-0.10.tar.gz
 Geo::ISO19139::Util                0.10  M/MA/MARKOV/Geo-ISO19139-0.10.tar.gz
