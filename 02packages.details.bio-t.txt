@@ -54,7 +54,7 @@ Bit::MorseSignals                  0.06  V/VP/VPIT/Bit-MorseSignals-0.06.tar.gz
 Bit::MorseSignals::Emitter         0.06  V/VP/VPIT/Bit-MorseSignals-0.06.tar.gz
 Bit::MorseSignals::Receiver        0.06  V/VP/VPIT/Bit-MorseSignals-0.06.tar.gz
 Bit::ShiftReg                       2.0  S/ST/STBEY/Bit-ShiftReg-2.0.tar.gz
-Bit::Util                          0.01  S/SA/SALVA/Bit-Util-0.01.tar.gz
+Bit::Util                          0.02  S/SA/SALVA/Bit-Util-0.02.tar.gz
 Bit::Vector                         7.2  S/ST/STBEY/Bit-Vector-7.2.tar.gz
 Bit::Vector::Array                 0.02  G/GS/GSLONDON/Bit-Vector-Array-0.02.tar.gz
 Bit::Vector::Array::Tie            0.02  G/GS/GSLONDON/Bit-Vector-Array-0.02.tar.gz
