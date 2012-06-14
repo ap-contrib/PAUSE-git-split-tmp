@@ -81,6 +81,7 @@ CatalystX::Usul::View::HTML,PJFL,f
 CatalystX::Usul::View::JSON,PJFL,f
 CatalystX::Usul::View::Serializer,PJFL,f
 CatalystX::Usul::View::XML,PJFL,f
+CatalystX::VCS::Lookup,LONERR,f
 CatalystX::VirtualComponents,DMAKI,f
 CatalystX::Widget::Paginator,LONERR,f
 CatalystX::Wizarded,DAVINCHI,f
