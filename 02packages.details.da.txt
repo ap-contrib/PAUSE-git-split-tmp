@@ -12,6 +12,7 @@ DateTime::Format::Sybase           0.04  R/RK/RKITOVER/DateTime-Format-Sybase-0.
 DateTime::Format::Variant          0.01  X/XY/XYF/DateTime-Format-Variant-0.2.tar.gz
 DateTime::Format::W3CDTF           0.06  G/GW/GWILLIAMS/DateTime-Format-W3CDTF-0.06.tar.gz
 DateTime::Format::WindowsFileTime  0.02  J/JG/JGARVIN/DateTime-Format-WindowsFileTime-0.02.tar.gz
+DateTime::Format::x509             0.01  A/AN/ANELSON/DateTime-Format-x509-0.01.tar.gz
 DateTime::Format::XMLTV            0.01  C/CJ/CJM/DateTime-Format-XMLTV-0.01.tar.gz
 DateTime::Format::XSD               0.2  D/DR/DRUOSO/DateTime-Format-XSD-0.2.tar.gz
 DateTime::Functions                0.10  A/AU/AUDREYT/DateTime-Functions-0.10.tar.gz

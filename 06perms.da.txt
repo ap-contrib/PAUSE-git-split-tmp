@@ -523,6 +523,7 @@ DateTime::Format::WindowsFileTime,JGARVIN,f
 DateTime::Format::XML,SIMONW,c
 DateTime::Format::XMLTV,CJM,f
 DateTime::Format::XSD,DRUOSO,f
+DateTime::Format::x509,ANELSON,f
 DateTime::Functions,AUDREYT,f
 DateTime::Functions,AUTRIJUS,c
 DateTime::Functions,JESSE,c
