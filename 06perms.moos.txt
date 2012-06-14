@@ -1286,12 +1286,15 @@ MooseX::Types::Combine,JJNAPIORK,c
 MooseX::Types::Combine,PHAYLON,f
 MooseX::Types::Combine,RKITOVER,c
 MooseX::Types::Common,ARCANEZ,c
+MooseX::Types::Common,ETHER,c
 MooseX::Types::Common,GRODITI,f
 MooseX::Types::Common,MSTROUT,c
 MooseX::Types::Common::Numeric,ARCANEZ,c
+MooseX::Types::Common::Numeric,ETHER,c
 MooseX::Types::Common::Numeric,GRODITI,f
 MooseX::Types::Common::Numeric,MSTROUT,c
 MooseX::Types::Common::String,ARCANEZ,c
+MooseX::Types::Common::String,ETHER,c
 MooseX::Types::Common::String,GRODITI,f
 MooseX::Types::Common::String,MSTROUT,c
 MooseX::Types::CreditCard,XENO,f
