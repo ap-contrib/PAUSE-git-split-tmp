@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   117613
-Last-Updated: Thu, 14 Jun 2012 19:23:03 GMT
+Last-Updated: Thu, 14 Jun 2012 20:11:19 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -399,7 +399,7 @@ Acme::Filter::Kenny                1.01  A/AL/ALGERNON/Acme-Filter-Kenny-1.01.ta
 Acme::FizzBuzz                     0.03  Y/YA/YAPPO/Acme-FizzBuzz-0.03.tar.gz
 Acme::Flip                          1.0  L/LK/LKUNDRAK/Acme-Flip-1.0.tar.gz
 Acme::Floral                       1.04  J/JJ/JJORE/Acme-Floral-1.04.tar.gz
-Acme::Fork::Bomb                  undef  H/HA/HANENKAMP/Acme-Fork-Bomb-1.0.tar.gz
+Acme::Fork::Bomb                    2.0  H/HA/HANENKAMP/Acme-Fork-Bomb-2.0.tar.gz
 Acme::Fork::Lazy                   0.02  O/OS/OSFAMERON/Acme-Fork-Lazy-0.02.tar.gz
 Acme::Geo::Whitwell::Name          0.04  M/MC/MCMAHON/Acme-Geo-Whitwell-Name-0.04.tar.gz
 Acme::Given::Hash                 0.003  N/NO/NOTBENH/Acme-Given-Hash-0.003.tar.gz
