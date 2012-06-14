@@ -612,6 +612,7 @@ Google::Checkout::XML::CommandXmlWriter,DZHUO,f
 Google::Checkout::XML::Constants,DZHUO,f
 Google::Checkout::XML::NotificationResponseXmlWriter,DZHUO,f
 Google::Checkout::XML::Writer,DZHUO,f
+Google::Code::Upload,DOHERTY,c
 Google::Code::Upload,FAYLAND,f
 Google::Data::JSON,TAKERU,f
 Google::Directions::Client,RCL,f
