@@ -691,7 +691,7 @@ Image::OCR::Tesseract              1.24  L/LE/LEOCHARRE/Image-OCR-Tesseract-1.24
 Image::Ocrad                       0.01  A/AL/ALLENDAY/Image-Ocrad-0.01.tar.gz
 Image::OrgChart                    0.20  M/MZ/MZSANFORD/Image-OrgChart-0.20.tar.gz
 Image::ParseGIF                     0.2  B/BE/BENL/Image-ParseGIF-0.2.tar.gz
-Image::Pbm                         0.03  S/SG/SGOELDNER/Image-Pbm-0.03.tar.gz
+Image::Pbm                         0.04  S/SG/SGOELDNER/Image-Pbm-0.04.tar.gz
 Image::PBMlib                      2.00  E/EL/ELIJAH/Image-PBMlib-2.00.tar.gz
 Image::Photo                       0.01  B/BP/BPOSTLE/Image-RGBA-0.04.tar.gz
 Image::Placeholder             1.000000  M/MN/MNF/Image-Placeholder-v1.0.0.tar.gz
