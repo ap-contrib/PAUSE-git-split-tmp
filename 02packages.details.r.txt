@@ -574,7 +574,7 @@ SchemaTest                        undef  C/CH/CHISEL/Parley-1.2.1.tar.gz
 SchematronReader                   1.02  K/KH/KHAMPTON/XML-Schematron-1.02.tar.gz
 Scope::Cleanup                    0.002  Z/ZE/ZEFRAM/Scope-Cleanup-0.002.tar.gz
 Scope::Container                   0.04  K/KA/KAZEBURO/Scope-Container-0.04.tar.gz
-Scope::Container::DBI              0.06  K/KA/KAZEBURO/Scope-Container-DBI-0.06.tar.gz
+Scope::Container::DBI              0.07  K/KA/KAZEBURO/Scope-Container-DBI-0.07.tar.gz
 Scope::Context                     0.01  V/VP/VPIT/Scope-Context-0.01.tar.gz
 Scope::Escape                     0.004  Z/ZE/ZEFRAM/Scope-Escape-0.004.tar.gz
 Scope::Escape::Continuation       0.004  Z/ZE/ZEFRAM/Scope-Escape-0.004.tar.gz
