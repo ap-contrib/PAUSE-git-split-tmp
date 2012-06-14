@@ -199,7 +199,7 @@ Test::Tester::Capture             undef  F/FD/FDALY/Test-Tester-0.108.tar.gz
 Test::Tester::CaptureRunner       undef  F/FD/FDALY/Test-Tester-0.108.tar.gz
 Test::Tester::Delegate            undef  F/FD/FDALY/Test-Tester-0.108.tar.gz
 Test::Tester::Tie                  1.01  M/MA/MARKF/Test-Builder-Tester-1.01.tar.gz
-Test::Time                         0.01  S/SA/SATOH/Test-Time-0.01.tar.gz
+Test::Time                         0.02  S/SA/SATOH/Test-Time-0.02.tar.gz
 Test::Timer                        0.05  J/JO/JONASBN/Test-Timer-0.05.tar.gz
 Test::Timer::TimeoutException      0.01  J/JO/JONASBN/Test-Timer-0.05.tar.gz
 Test::Tiny                         0.02  S/SE/SEANO/Test-Tiny-0.02.tar.gz
