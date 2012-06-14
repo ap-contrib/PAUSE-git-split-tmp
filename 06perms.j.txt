@@ -459,8 +459,10 @@ JavaScript::Toolbox::popUpBox::Browser::IE,PEIRY,f
 JavaScript::Toolbox::popUpBox::Browser::Netscape,PEIRY,f
 JavaScript::V8,DGL,f
 JavaScript::V8,PMURIAS,c
+JavaScript::V8,RHANDOM,c
 JavaScript::V8,SOREAR,c
 JavaScript::V8::Context,DGL,f
+JavaScript::V8::Context,RHANDOM,c
 JavaScript::V8x::TestMoreish,RKRIMEN,c
 JavaScript::V8x::TestMoreish,ROKR,f
 JavaScript::V8x::TestMoreish::JS,RKRIMEN,c

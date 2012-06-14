@@ -726,7 +726,7 @@ SNMP::Class::Varbind::SysUpTime   undef  A/AD/ADUITSIS/SNMP-Class-0.15.tar.gz
 SNMP::DEBUG_INTERNALS            5.0401  H/HA/HARDAKER/SNMP-5.0401.tar.gz
 SNMP::DEBUGGING                  5.0401  H/HA/HARDAKER/SNMP-5.0401.tar.gz
 SNMP::DUMP_PACKET                5.0401  H/HA/HARDAKER/SNMP-5.0401.tar.gz
-SNMP::Effective                    1.09  J/JH/JHTHORSEN/SNMP-Effective-1.09.tar.gz
+SNMP::Effective                     1.1  J/JH/JHTHORSEN/SNMP-Effective-1.10.tar.gz
 SNMP::Effective::Dispatch          1.05  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
 SNMP::Effective::Host              1.05  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
 SNMP::Effective::HostList          1.05  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
