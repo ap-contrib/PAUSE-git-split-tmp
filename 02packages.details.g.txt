@@ -640,6 +640,7 @@ Helios::Panoptes::Helper           1.40  L/LA/LAJANDY/Helios-Panoptes-1.44.tar.g
 Helios::Panoptes::JobLog           1.44  L/LA/LAJANDY/Helios-Panoptes-1.44.tar.gz
 Helios::Service                    2.41  L/LA/LAJANDY/Helios-2.41.tar.gz
 Helios::TestService                2.40  L/LA/LAJANDY/Helios-2.41.tar.gz
+HeliosX::Logger::Log4perl          1.00  L/LA/LAJANDY/HeliosX-Logger-Log4perl-1.00.tar.gz
 HeliosX::Logger::Syslog            1.00  L/LA/LAJANDY/HeliosX-Logger-Syslog-1.00.tar.gz
 Hello                             undef  A/AW/AWIN/Qt-0.03.tar.gz
 HelloWorld                          0.2  D/DY/DYACOB/Aw-0.16.7.tar.gz
