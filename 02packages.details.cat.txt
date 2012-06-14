@@ -191,7 +191,7 @@ CatalystX::Features::Role::Feature 0.21  R/RO/RODRIGO/CatalystX-Features-0.21.ta
 CatalystX::Features::View::Mason   0.21  R/RO/RODRIGO/CatalystX-Features-0.21.tar.gz
 CatalystX::Features::View::TT      0.21  R/RO/RODRIGO/CatalystX-Features-0.21.tar.gz
 CatalystX::FeedbackMessages      0.0603  D/DH/DHOSS/CatalystX-FeedbackMessages-0.0603.tar.gz
-CatalystX::GlobalContext          0.034  R/RK/RKITOVER/Catalyst-Controller-WrapCGI-0.034.tar.gz
+CatalystX::GlobalContext          0.035  R/RK/RKITOVER/Catalyst-Controller-WrapCGI-0.035.tar.gz
 CatalystX::I18N                    1.12  M/MA/MAROS/CatalystX-I18N-1.12.tar.gz
 CatalystX::I18N::DataLocalize     undef  M/MA/MAROS/CatalystX-I18N-1.12.tar.gz
 CatalystX::I18N::Maketext         undef  M/MA/MAROS/CatalystX-I18N-1.12.tar.gz
