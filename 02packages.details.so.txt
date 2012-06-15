@@ -730,7 +730,7 @@ SQL::Maker::Select::Oracle            0  C/CH/CHIBA/SQL-Maker-1.05.tar.gz
 SQL::Maker::SelectSet                 0  C/CH/CHIBA/SQL-Maker-1.05.tar.gz
 SQL::Maker::SQLType                   0  C/CH/CHIBA/SQL-Maker-1.05.tar.gz
 SQL::Maker::Util                      0  C/CH/CHIBA/SQL-Maker-1.05.tar.gz
-SQL::NamedPlaceholder              0.01  S/SA/SATOH/SQL-NamedPlaceholder-0.01.tar.gz
+SQL::NamedPlaceholder              0.02  S/SA/SATOH/SQL-NamedPlaceholder-0.02.tar.gz
 SQL::Object                        0.01  N/NE/NEKOKAK/SQL-Object-0.01.tar.gz
 SQL::OOP                           0.20  J/JA/JAMADAM/SQL-OOP-0.20.tar.gz
 SQL::OOP::Array                   undef  J/JA/JAMADAM/SQL-OOP-0.20.tar.gz
