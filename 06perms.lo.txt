@@ -482,6 +482,7 @@ Log::Log4perl::Appender::Synchronized,MSCHILLI,f
 Log::Log4perl::Appender::TestArrayBuffer,MSCHILLI,f
 Log::Log4perl::Appender::TestBuffer,MSCHILLI,f
 Log::Log4perl::Appender::TestFileCreeper,MSCHILLI,f
+Log::Log4perl::Appender::UnixDomainSocket,JSTEBENS,f
 Log::Log4perl::AutoCategorize,JCROMIE,f
 Log::Log4perl::Catalyst,MSCHILLI,f
 Log::Log4perl::CommandLine,CTILMES,f

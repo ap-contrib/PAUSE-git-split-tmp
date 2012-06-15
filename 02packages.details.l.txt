@@ -791,6 +791,7 @@ Log::Log4perl::Appender::Synchronized undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar
 Log::Log4perl::Appender::TestArrayBuffer undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
 Log::Log4perl::Appender::TestBuffer undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
 Log::Log4perl::Appender::TestFileCreeper undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
+Log::Log4perl::Appender::UnixDomainSocket 1.00  J/JS/JSTEBENS/Log-Log4perl-Appender-Socket-UNIX-1.00.tar.gz
 Log::Log4perl::AutoCategorize      0.03  J/JC/JCROMIE/Log-Log4perl-AutoCategorize-0.03.tar.gz
 Log::Log4perl::Catalyst           undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
 Log::Log4perl::CommandLine         0.07  C/CT/CTILMES/Log-Log4perl-CommandLine-0.07.tar.gz
