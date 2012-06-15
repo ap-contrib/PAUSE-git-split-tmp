@@ -810,7 +810,7 @@ CGI::Application::Plugin::TT       1.05  C/CE/CEESHEK/CGI-Application-Plugin-TT-
 CGI::Application::Plugin::TT::Any 0.110080  M/MI/MITHALDU/CGI-Application-Plugin-TT-Any-0.110080.tar.gz
 CGI::Application::Plugin::TT::LastModified 1.02  G/GT/GTERMARS/CGI-Application-Plugin-TT-LastModified-1.02.tar.gz
 CGI::Application::Plugin::ValidateQuery 1.0.5  N/NA/NATEK/CGI-Application-Plugin-ValidateQuery-1.0.5.tar.gz
-CGI::Application::Plugin::ValidateRM 2.4  M/MA/MARKSTOS/CGI-Application-Plugin-ValidateRM-2.4.tar.gz
+CGI::Application::Plugin::ValidateRM 2.5  F/FA/FANY/CGI-Application-Plugin-ValidateRM-2.5.tar.gz
 CGI::Application::Plugin::View::HTML::Template 0.02  M/MF/MFULLER/CGI-Application-Plugin-View-HTML-Template-0.02.tar.gz
 CGI::Application::Plugin::ViewCode 1.02  W/WO/WONKO/CGI-Application-Plugin-ViewCode-1.02.tar.gz
 CGI::Application::Plugin::YAML     0.03  C/CO/COSMICNET/CGI-Application-Plugin-YAML-0.03.tar.gz
