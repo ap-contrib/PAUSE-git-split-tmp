@@ -682,6 +682,12 @@ WebService::8tracks::Response,MOTEMEN,f
 WebService::8tracks::Session,MOTEMEN,f
 WebService::APIKeys::AutoChanger,MIKI,f
 WebService::Advogato,JALDHAR,f
+WebService::Affiliate,CAGAO,m
+WebService::Affiliate::AffiliateWindow,CAGAO,m
+WebService::Affiliate::BuyAt,CAGAO,m
+WebService::Affiliate::CommissionJunction,CAGAO,m
+WebService::Affiliate::TradeDoubler,CAGAO,m
+WebService::Affiliate::WebGains,CAGAO,m
 WebService::Aladdin,JEEN,f
 WebService::Aladdin::Item,JEEN,f
 WebService::Aladdin::Item::Book,JEEN,f

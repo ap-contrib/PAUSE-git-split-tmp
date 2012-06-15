@@ -533,6 +533,7 @@ Tie::Array,P5P,m
 Tie::Array,RJBS,c
 Tie::Array,perl,c
 Tie::Array::AsHash,REHSACK,m
+Tie::Array::Atomic,YURY,m
 Tie::Array::Boolean,KYLE,f
 Tie::Array::BoundedIndex,PJS,f
 Tie::Array::CSV,JBERGER,f
