@@ -333,7 +333,6 @@ Tickit::ContainerWidget            0.17  P/PE/PEVANS/Tickit-0.17.tar.gz
 Tickit::OneLineWidget              0.17  P/PE/PEVANS/Tickit-0.17.tar.gz
 Tickit::Pen                        0.17  P/PE/PEVANS/Tickit-0.17.tar.gz
 Tickit::Rect                       0.17  P/PE/PEVANS/Tickit-0.17.tar.gz
-Tickit::RootWindow                 0.14  P/PE/PEVANS/Tickit-0.14.tar.gz
 Tickit::SingleChildWidget          0.17  P/PE/PEVANS/Tickit-0.17.tar.gz
 Tickit::Term                       0.17  P/PE/PEVANS/Tickit-0.17.tar.gz
 Tickit::Term::xterm                0.17  P/PE/PEVANS/Tickit-0.17.tar.gz
