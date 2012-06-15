@@ -617,6 +617,8 @@ Data::Dumper::Concise::Sugar,MSTROUT,f
 Data::Dumper::Concise::Sugar,RIBASUSHI,c
 Data::Dumper::Concise::Sugar,SSCAFFIDI,c
 Data::Dumper::Concise::Sugar,WSHELDAHL,c
+Data::Dumper::Declare,TOBYINK,f
+Data::Dumper::Declare::Parser,TOBYINK,f
 Data::Dumper::EasyOO,JCROMIE,f
 Data::Dumper::HTML,DMUEY,m
 Data::Dumper::Names,OVID,f
