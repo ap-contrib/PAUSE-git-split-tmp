@@ -10,7 +10,7 @@ URI::di::CryptoSpec                0.02  D/DO/DORIAN/URI-di-0.02.tar.gz
 URI::Encode                       0.061  M/MI/MITHUN/URI-Encode-0.061.tar.gz
 URI::Escape                        3.31  G/GA/GAAS/URI-1.60.tar.gz
 URI::Escape::JavaScript            0.04  T/TA/TANIGUCHI/URI-Escape-JavaScript-0.04.tar.gz
-URI::Escape::Optimistic           0.006  T/TO/TOBYINK/RDF-RDB2RDF-0.006.tar.gz
+URI::Escape::Optimistic           0.007  T/TO/TOBYINK/RDF-RDB2RDF-0.007.tar.gz
 URI::Escape::XS                    0.08  D/DA/DANKOGAI/URI-Escape-XS-0.08.tar.gz
 URI::fasp                          0.01  S/SH/SHAW/URI-fasp-0.01.tar.gz
 URI::Fetch                         0.09  B/BT/BTROTT/URI-Fetch-0.09.tar.gz
