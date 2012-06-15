@@ -519,6 +519,8 @@ WebService::SimpleAPI::Wikipedia::Parser,YAPPO,f
 WebService::SimpleAPI::Wikipedia::ResultSet,YAPPO,f
 WebService::Simplenote,IOANR,f
 WebService::Simplenote::Note,IOANR,f
+WebService::Simplenote::Note::Meta::Attribute::Trait::NotSerialised,IOANR,f
+WebService::Simplenote::Note::Meta::Types,IOANR,f
 WebService::Simplenote::Types,IOANR,f
 WebService::SlimTimer,VADZ,f
 WebService::SlimTimer::Types,VADZ,f
