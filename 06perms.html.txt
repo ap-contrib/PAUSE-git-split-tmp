@@ -1832,6 +1832,11 @@ HTTP::Tiny::Handle,CHANSEN,c
 HTTP::Tiny::Handle,DAGOLDEN,f
 HTTP::Tiny::Mech,KENTNL,f
 HTTP::TransparentCache,MATTIASH,f
+HTTP::UserAgentString::Browser,NMOLDAV,f
+HTTP::UserAgentString::OS,NMOLDAV,f
+HTTP::UserAgentString::Parser,NMOLDAV,f
+HTTP::UserAgentString::Robot,NMOLDAV,f
+HTTP::UserAgentString::Sys,NMOLDAV,f
 HTTP::WebTest,ILYAM,m
 HTTP::WebTest,RANDERSON,c
 HTTP::WebTest::Cookies,ILYAM,f

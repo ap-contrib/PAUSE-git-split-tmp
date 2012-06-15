@@ -1528,6 +1528,11 @@ HTTP::Tiny                        0.022  D/DA/DAGOLDEN/HTTP-Tiny-0.022.tar.gz
 HTTP::Tiny::Handle                0.016  D/DA/DAGOLDEN/HTTP-Tiny-0.016.tar.gz
 HTTP::Tiny::Mech                 v0.1.2  K/KE/KENTNL/HTTP-Tiny-Mech-0.1.2.tar.gz
 HTTP::TransparentCache         0.003001  M/MA/MATTIASH/HTTP-TransparentCache-0.3.1.tar.gz
+HTTP::UserAgentString::Browser    undef  N/NM/NMOLDAV/HTTP-UserAgentString-Parser-0.6.1.tar.gz
+HTTP::UserAgentString::OS         undef  N/NM/NMOLDAV/HTTP-UserAgentString-Parser-0.6.1.tar.gz
+HTTP::UserAgentString::Parser  0.006001  N/NM/NMOLDAV/HTTP-UserAgentString-Parser-0.6.1.tar.gz
+HTTP::UserAgentString::Robot      undef  N/NM/NMOLDAV/HTTP-UserAgentString-Parser-0.6.1.tar.gz
+HTTP::UserAgentString::Sys        undef  N/NM/NMOLDAV/HTTP-UserAgentString-Parser-0.6.1.tar.gz
 HTTP::Webdav                   0.001018  G/GR/GRICHTER/HTTP-Webdav-0.1.18-0.17.1.tar.gz
 HTTP::Webdav::Constants           undef  G/GR/GRICHTER/HTTP-Webdav-0.1.18-0.17.1.tar.gz
 HTTP::WebTest                      2.04  I/IL/ILYAM/HTTP-WebTest-2.04.tar.gz
