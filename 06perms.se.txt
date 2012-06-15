@@ -573,7 +573,7 @@ Setup::Text::Snippet,SHARYANTO,f
 Setup::Text::Snippet::WithID,SHARYANTO,f
 Setup::Unix::Group,SHARYANTO,f
 Setup::Unix::User,SHARYANTO,f
-Sew::Color,MARKWIN,c
+Sew::Color,MARKWIN,f
 Sex,MSCHWERN,f
 Shape::RegularPolygon,KZTOMITA,f
 ShardedKV,SMUELLER,f
