@@ -433,7 +433,7 @@ Audio::Nama::Track                    1  G/GA/GANGLION/Audio-Nama-1.078.tar.gz
 Audio::Nama::Util                 undef  G/GA/GANGLION/Audio-Nama-1.078.tar.gz
 Audio::Nama::VersionTrack             1  G/GA/GANGLION/Audio-Nama-1.078.tar.gz
 Audio::Nama::Wav                      1  G/GA/GANGLION/Audio-Nama-1.078.tar.gz
-Audio::NoiseGen                    0.03  A/AW/AWWAIID/Audio-NoiseGen-0.03.tar.gz
+Audio::NoiseGen                    0.04  A/AW/AWWAIID/Audio-NoiseGen-0.04.tar.gz
 Audio::Ofa                         1.01  P/PE/PEPE/Audio-Ofa-1.01.tar.gz
 Audio::Ofa::Util                   0.04  P/PE/PEPE/Audio-Ofa-Util-0.04.tar.gz
 Audio::OSS                       0.0501  D/DJ/DJHD/Audio-OSS-0.0501.tar.gz
