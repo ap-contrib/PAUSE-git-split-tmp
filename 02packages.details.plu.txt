@@ -668,7 +668,7 @@ Pod::Index::Builder                0.14  I/IT/ITUB/Pod-Index-0.14.tar.gz
 Pod::Index::Entry                  0.14  I/IT/ITUB/Pod-Index-0.14.tar.gz
 Pod::Index::Extract                0.14  I/IT/ITUB/Pod-Index-0.14.tar.gz
 Pod::Index::Search                 0.14  I/IT/ITUB/Pod-Index-0.14.tar.gz
-Pod::Inherit                       0.10  J/JM/JMASTROS/Pod-Inherit-0.10.tar.gz
+Pod::Inherit                       0.12  B/BB/BBYRD/Pod-Inherit-0.12.tar.gz
 Pod::InputObjects                  1.51  M/MA/MAREKR/Pod-Parser-1.51.tar.gz
 Pod::InputSource                   1.51  M/MA/MAREKR/Pod-Parser-1.51.tar.gz
 Pod::InteriorSequence              1.51  M/MA/MAREKR/Pod-Parser-1.51.tar.gz
