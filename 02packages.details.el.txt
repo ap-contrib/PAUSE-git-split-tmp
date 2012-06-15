@@ -243,7 +243,7 @@ Email::Send::NNTP                 2.198  R/RJ/RJBS/Email-Send-2.198.tar.gz
 Email::Send::Qmail                2.198  R/RJ/RJBS/Email-Send-2.198.tar.gz
 Email::Send::Sendmail             2.198  R/RJ/RJBS/Email-Send-2.198.tar.gz
 Email::Send::SMTP                 2.198  R/RJ/RJBS/Email-Send-2.198.tar.gz
-Email::Send::SMTP::Gmail           0.24  P/PE/PECO/Email-Send-SMTP-Gmail-0.24.tar.gz
+Email::Send::SMTP::Gmail           0.30  P/PE/PECO/Email-Send-SMTP-Gmail-0.30.tar.gz
 Email::Send::SMTP::TLS             0.04  F/FA/FAYLAND/Email-Send-SMTP-TLS-0.04.tar.gz
 Email::Send::Test                 2.198  R/RJ/RJBS/Email-Send-2.198.tar.gz
 Email::Send::Test::DataDumper      0.01  D/DA/DANJOU/Email-Send-Test-DataDumper-0.01.tar.gz
