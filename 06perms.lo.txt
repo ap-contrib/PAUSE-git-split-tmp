@@ -474,7 +474,7 @@ Log::Log4perl::Appender::RabbitMQ,BUNDACIA,f
 Log::Log4perl::Appender::Screen,MSCHILLI,f
 Log::Log4perl::Appender::ScreenColoredLevels,MSCHILLI,f
 Log::Log4perl::Appender::Socket,MSCHILLI,f
-Log::Log4perl::Appender::Socket::UNIX,JSTEBENS,f
+Log::Log4perl::Appender::Socket::UNIX,JSTEBENS,m
 Log::Log4perl::Appender::Spread,JDALBERG,f
 Log::Log4perl::Appender::SpreadSession,BUNDACIA,m
 Log::Log4perl::Appender::Stomp,AFLOTT,f

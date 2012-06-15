@@ -1837,6 +1837,7 @@ HTTP::UserAgentString::OS,NMOLDAV,f
 HTTP::UserAgentString::Parser,NMOLDAV,f
 HTTP::UserAgentString::Robot,NMOLDAV,f
 HTTP::UserAgentString::Sys,NMOLDAV,f
+HTTP::UserAgentStringParser,NMOLDAV,m
 HTTP::WebTest,ILYAM,m
 HTTP::WebTest,RANDERSON,c
 HTTP::WebTest::Cookies,ILYAM,f
