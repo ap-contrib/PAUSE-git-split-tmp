@@ -97,7 +97,7 @@ Astro::SkyCat                      0.01  T/TJ/TJENNESS/Astro-SkyCat-0.01.tar.gz
 Astro::SkyCat::WorldCoords         0.01  T/TJ/TJENNESS/Astro-SkyCat-0.01.tar.gz
 Astro::SkyCat::WorldOrImageCoords  0.01  T/TJ/TJENNESS/Astro-SkyCat-0.01.tar.gz
 Astro::SkyPlot                     0.03  S/SM/SMUELLER/Astro-SkyPlot-0.03.tar.gz
-Astro::SLA                         1.00  T/TJ/TJENNESS/Astro-SLA-1.00.tar.gz
+Astro::SLA                         1.01  T/TJ/TJENNESS/Astro-SLA-1.01.tar.gz
 Astro::SolarParallax               0.04  K/KJ/KJETILK/Astro-SolarParallax-0.04.tar.gz
 Astro::SolarParallax::Observer     0.01  K/KJ/KJETILK/Astro-SolarParallax-0.04.tar.gz
 Astro::SpaceElevator               0.05  D/DB/DBROOKS/Astro-SpaceElevator-0.05.tar.gz
