@@ -667,6 +667,7 @@ Test::WWW::Selenium::Catalyst,MRAMBERG,c
 Test::WWW::Selenium::Catalyst,MSTROUT,c
 Test::WWW::Selenium::Catalyst,NUFFIN,c
 Test::WWW::Selenium::Conversion::IDE,SETITESUK,f
+Test::WWW::Selenium::HTML,APNIC,f
 Test::WWW::Selenium::More,KABLAMO,m
 Test::WWW::Selenium::More::Manual,KABLAMO,f
 Test::WWW::Selenium::More::Manual::BestPractices,KABLAMO,f
