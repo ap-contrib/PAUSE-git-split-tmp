@@ -285,7 +285,7 @@ File::MultiCat                     0.04  M/MB/MBSTE/MultiCat_0.04.tar.gz
 File::Namaste                      1.04  J/JA/JAK/File-Namaste-1.04.tar.gz
 File::Navigate                      1.0  M/MS/MSCHMITT/File-Navigate-1.0.tar.gz
 File::NCopy                        0.36  C/CH/CHORNY/File-NCopy-0.36.tar.gz
-File::Next                         1.08  P/PE/PETDANCE/File-Next-1.08.tar.gz
+File::Next                         1.10  P/PE/PETDANCE/File-Next-1.10.tar.gz
 File::Next::OO                     0.04  B/BO/BORISZ/File-Next-OO-0.04.tar.gz
 File::NFSLock                      1.21  B/BB/BBB/File-NFSLock-1.21.tar.gz
 File::Object                       0.03  S/SK/SKIM/File-Object-0.03.tar.gz
