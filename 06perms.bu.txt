@@ -1309,7 +1309,7 @@ Business::UPS::Tracking::Shipment::Freight,MAROS,f
 Business::UPS::Tracking::Shipment::SmallPackage,MAROS,f
 Business::UPS::Tracking::Utils,MAROS,f
 Business::UPSShipping,MSOLOMON,f
-Business::US::USPS::IMB,CNIGHS,f
+Business::US::USPS::IMB,CNIGHS,m
 Business::US::USPS::WebTools,BDFOY,m
 Business::US::USPS::WebTools::AddressStandardization,BDFOY,f
 Business::US::USPS::WebTools::CityStateLookup,BDFOY,f
