@@ -81,6 +81,7 @@ Lingua::LinkParser::Simple,DBRIAN,f
 Lingua::MAF,GROUSSE,f
 Lingua::MSWordSpell,BBC,f
 Lingua::ManagementSpeak,GRYPHON,m
+Lingua::Metadata,MAJLIS,f
 Lingua::Multinational::Translit::ICAO,STRO,f
 Lingua::NATools,AMBS,f
 Lingua::NATools::CGI,AMBS,f
