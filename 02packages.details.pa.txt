@@ -22,11 +22,11 @@ Path::Abstract                    0.096  R/RO/ROKR/Path-Abstract-0.096.tar.gz
 Path::Abstract::Fast              undef  R/RO/ROKR/Path-Abstract-0.096.tar.gz
 Path::Abstract::Underload         0.096  R/RO/ROKR/Path-Abstract-0.096.tar.gz
 Path::Ancestor                     0.01  M/MS/MSCHILLI/Path-Ancestor-0.01.tar.gz
-Path::Class                        0.25  K/KW/KWILLIAMS/Path-Class-0.25.tar.gz
-Path::Class::Dir                   0.25  K/KW/KWILLIAMS/Path-Class-0.25.tar.gz
+Path::Class                        0.26  K/KW/KWILLIAMS/Path-Class-0.26.tar.gz
+Path::Class::Dir                   0.26  K/KW/KWILLIAMS/Path-Class-0.26.tar.gz
 Path::Class::Each                  0.03  A/AN/ANDYA/Path-Class-Each-0.03.tar.gz
-Path::Class::Entity                0.25  K/KW/KWILLIAMS/Path-Class-0.25.tar.gz
-Path::Class::File                  0.25  K/KW/KWILLIAMS/Path-Class-0.25.tar.gz
+Path::Class::Entity                0.26  K/KW/KWILLIAMS/Path-Class-0.26.tar.gz
+Path::Class::File                  0.26  K/KW/KWILLIAMS/Path-Class-0.26.tar.gz
 Path::Class::File::Lockable        0.02  K/KA/KARMAN/Path-Class-File-Lockable-0.02.tar.gz
 Path::Class::File::Stat            0.03  K/KA/KARMAN/Path-Class-File-Stat-0.03.tar.gz
 Path::Class::Iterator              0.05  K/KA/KARMAN/Path-Class-Iterator-0.05.tar.gz
