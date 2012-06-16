@@ -1558,6 +1558,7 @@ Dist::Zilla::Plugin::UnusedVarsTests,XENO,c
 Dist::Zilla::Plugin::UpdateGitHub,ROKR,f
 Dist::Zilla::Plugin::UploadToCPAN,RJBS,f
 Dist::Zilla::Plugin::UploadToDuckPAN,GETTY,f
+Dist::Zilla::Plugin::UploadToGoogleCode,DOHERTY,f
 Dist::Zilla::Plugin::UploadToSFTP,MJGARDNER,f
 Dist::Zilla::Plugin::Version::FromSubversion,DOLMEN,f
 Dist::Zilla::Plugin::Version::Git::Flowish,GPHAT,f
