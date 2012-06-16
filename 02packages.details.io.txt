@@ -875,7 +875,7 @@ JaM::GUI::Window                  undef  J/JR/JRED/JaM-1.0.10.tar.gz
 JaM::Import::Netscape             undef  J/JR/JRED/JaM-1.0.10.tar.gz
 JaM::Mail                         undef  J/JR/JRED/JaM-1.0.10.tar.gz
 Jamila                             0.03  K/KW/KWITKNR/Jamila-0.03.tar.gz
-Jar::Manifest                      0.03  M/MI/MITHUN/Jar-Manifest-0.03.tar.gz
+Jar::Manifest                     0.031  M/MI/MITHUN/Jar-Manifest-0.031.tar.gz
 Jar::Signer                         0.1  M/MS/MSOUTHERN/Jar-Signer-0.1.tar.gz
 Java                                4.7  M/ME/METZZO/Java-4.7.tar.gz
 Java::Build                        0.05  P/PH/PHILCROW/Java-Build-0.05.tar.gz
