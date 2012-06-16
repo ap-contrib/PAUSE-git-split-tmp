@@ -1,10 +1,10 @@
 Gtk2::Ex::Geo::Graph               0.01  A/AJ/AJOLMA/Gtk2-Ex-Geo-Graph-0.01.tar.gz
-Gtk2::Ex::Geo::Layer              undef  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.62.tar.gz
+Gtk2::Ex::Geo::Layer              undef  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.63.tar.gz
 Gtk2::Ex::Geo::OGRDialog           0.43  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.43.tar.gz
-Gtk2::Ex::Geo::Overlay             0.62  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.62.tar.gz
-Gtk2::Ex::Geo::PseudoOverlay       0.62  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.62.tar.gz
-Gtk2::Ex::Geo::Schema             undef  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.62.tar.gz
-Gtk2::Ex::Geo::TreeDumper         undef  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.62.tar.gz
+Gtk2::Ex::Geo::Overlay             0.62  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.63.tar.gz
+Gtk2::Ex::Geo::PseudoOverlay       0.62  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.63.tar.gz
+Gtk2::Ex::Geo::Schema             undef  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.63.tar.gz
+Gtk2::Ex::Geo::TreeDumper         undef  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.63.tar.gz
 Gtk2::Ex::Graph::GD                0.04  O/OF/OFEYAIKON/Gtk2-Ex-Graph-GD-0.04.tar.gz
 Gtk2::Ex::GraphViz                 0.01  O/OF/OFEYAIKON/Gtk2-Ex-GraphViz-0.01.tar.gz
 Gtk2::Ex::GroupBy                  0.02  O/OF/OFEYAIKON/Gtk2-Ex-GroupBy-0.02.tar.gz
