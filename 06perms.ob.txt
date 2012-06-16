@@ -67,6 +67,7 @@ Object::Iterate::Tester,BDFOY,f
 Object::KVC,TJOHNSON,f
 Object::KVC::Hash,TJOHNSON,f
 Object::KVC::HashRef,TJOHNSON,f
+Object::KVC::Index,TJOHNSON,f
 Object::KVC::Integer,TJOHNSON,f
 Object::KVC::List,TJOHNSON,f
 Object::KVC::Set,TJOHNSON,f
