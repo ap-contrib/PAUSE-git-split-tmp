@@ -460,6 +460,7 @@ Archive::Any::Create,MIYAGAWA,f
 Archive::Any::Create::Tar,MIYAGAWA,f
 Archive::Any::Create::Zip,MIYAGAWA,f
 Archive::Any::Plugin,CMOORE,f
+Archive::Any::Plugin::Bzip2,ISHIGAKI,f
 Archive::Any::Plugin::Rar,MRGRIPH,f
 Archive::Any::Plugin::Tar,CMOORE,f
 Archive::Any::Plugin::Zip,CMOORE,f
