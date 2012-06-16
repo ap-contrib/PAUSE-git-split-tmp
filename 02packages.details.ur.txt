@@ -7,6 +7,7 @@ URI::crid                          0.01  A/AL/ALIC/URI-crid-0.01.tar.gz
 URI::data                         undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::di                            0.02  D/DO/DORIAN/URI-di-0.02.tar.gz
 URI::di::CryptoSpec                0.02  D/DO/DORIAN/URI-di-0.02.tar.gz
+URI::duri                         0.001  T/TO/TOBYINK/URI-duri-0.001.tar.gz
 URI::Encode                       0.061  M/MI/MITHUN/URI-Encode-0.061.tar.gz
 URI::Escape                        3.31  G/GA/GAAS/URI-1.60.tar.gz
 URI::Escape::JavaScript            0.04  T/TA/TANIGUCHI/URI-Escape-JavaScript-0.04.tar.gz
@@ -94,6 +95,7 @@ URI::Split                        undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::ssh                          undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::tag                           0.02  M/MI/MIYAGAWA/URI-tag-0.02.tar.gz
 URI::tcp                          0.715  M/MK/MKUTTER/SOAP-Transport-TCP-0.715.tar.gz
+URI::tdb                          0.001  T/TO/TOBYINK/URI-duri-0.001.tar.gz
 URI::tel                           0.02  T/TB/TBR/URI-tel-0.03.tar.gz
 URI::telnet                       undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::Template                      0.16  B/BR/BRICAS/URI-Template-0.16.tar.gz

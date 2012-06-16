@@ -632,6 +632,7 @@ uri                               undef  L/LD/LDACHARY/URIC-2.02.tar.gz
 URI2::Escape                      undef  L/LD/LDACHARY/URIC-2.02.tar.gz
 URI2::Heuristic                    4.08  L/LD/LDACHARY/URIC-2.02.tar.gz
 URI2::URL                          5.00  L/LD/LDACHARY/URIC-2.02.tar.gz
+URI::_duri_tdb                    0.001  T/TO/TOBYINK/URI-duri-0.001.tar.gz
 URI::_foreign                     undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::_generic                     undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::_idna                        undef  G/GA/GAAS/URI-1.60.tar.gz
