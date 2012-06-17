@@ -355,8 +355,8 @@ Oracle::Trigger                    0.22  G/GE/GEOTIGER/Oracle-Trigger-0.22.tar.g
 oracle_comparison                   1.1  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
 Oraperl                            1.44  P/PY/PYTHIAN/DBD-Oracle-1.36.tar.gz
 ORDB::AU::Census2006               0.01  A/AD/ADAMK/ORDB-AU-Census2006-0.01.tar.gz
-ORDB::CPAN::Mageia             1.120721  J/JQ/JQUELIN/ORDB-CPAN-Mageia-1.120721.tar.gz
-ORDB::CPAN::Mageia::Module     1.120721  J/JQ/JQUELIN/ORDB-CPAN-Mageia-1.120721.tar.gz
+ORDB::CPAN::Mageia             1.121690  J/JQ/JQUELIN/ORDB-CPAN-Mageia-1.121690.tar.gz
+ORDB::CPAN::Mageia::Module     1.121690  J/JQ/JQUELIN/ORDB-CPAN-Mageia-1.121690.tar.gz
 ORDB::CPAN::Mandriva           1.100230  J/JQ/JQUELIN/ORDB-CPAN-Mandriva-1.100230.tar.gz
 ORDB::CPAN::Mandriva::Module   1.100230  J/JQ/JQUELIN/ORDB-CPAN-Mandriva-1.100230.tar.gz
 ORDB::CPANMeta                     0.10  A/AD/ADAMK/ORDB-CPANMeta-0.10.tar.gz
