@@ -1196,6 +1196,13 @@ Code::Statistics::Target::Block,MITHALDU,f
 Code::Statistics::Target::RootDocument,MITHALDU,f
 Code::Statistics::Target::Sub,MITHALDU,f
 Code::Statistics::Target::nop,MITHALDU,f
+Code::TidyAll,JSWARTZ,f
+Code::TidyAll::Cache,JSWARTZ,f
+Code::TidyAll::Plugin,JSWARTZ,f
+Code::TidyAll::Plugin::PerlCritic,JSWARTZ,f
+Code::TidyAll::Plugin::PerlTidy,JSWARTZ,f
+Code::TidyAll::Plugin::PodTidy,JSWARTZ,f
+Code::TidyAll::Result,JSWARTZ,f
 CodeBase,ANDREWF,f
 CodeBase::FilePtr,ANDREWF,f
 CodeEditor,KARASIK,f
