@@ -220,6 +220,7 @@ Import::Datasource,ANDY,f
 Import::Into,MSTROUT,f
 ImportAllFoos,PFISCHER,f
 ImportTest,DCONWAY,f
+In::Korean::Numbers::SinoKorean,BRYAN,f
 InSilicoSpectro,ALEXMASS,f
 InSilicoSpectro::Databanks,ALEXMASS,f
 InSilicoSpectro::Databanks::DBEntry,ALEXMASS,f
