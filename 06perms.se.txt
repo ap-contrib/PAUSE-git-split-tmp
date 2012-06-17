@@ -449,6 +449,7 @@ Servlet::Util::UnsupportedEncodingException,IX,f
 Seshat,BMAVT,f
 Seshat::Parallel,BMAVT,f
 Session,RSOLIV,f
+Session::Token,FRACTAL,f
 SessionStoreTest,AUDREYT,c
 SessionStoreTest,BOBTFISH,c
 SessionStoreTest,BRICAS,c
