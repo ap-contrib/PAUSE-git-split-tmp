@@ -725,6 +725,7 @@ Yote::ClientObj,CANID,f
 Yote::Cron,CANID,f
 Yote::Hash,CANID,f
 Yote::Login,CANID,f
+Yote::Messenger,CANID,f
 Yote::MysqlIO,CANID,f
 Yote::Obj,CANID,f
 Yote::ObjProvider,CANID,f
@@ -738,6 +739,7 @@ Yote::Test::TestAppNeedsLogin,CANID,f
 Yote::Test::TestAppNoLogin,CANID,f
 Yote::Test::TestDeepCloner,CANID,f
 Yote::Test::TestNoDeepCloner,CANID,f
+Yote::Util::MessageBoard,CANID,f
 Yote::WebAppServer,CANID,f
 Yote::YoteRoot,CANID,f
 Your::Momma,JMCNAMARA,f
