@@ -982,7 +982,7 @@ DataFlow::Proc::SimpleFileInput 1.121690  R/RU/RUSSOZ/DataFlow-1.121690.tar.gz
 DataFlow::Proc::SimpleFileOutput 1.121690  R/RU/RUSSOZ/DataFlow-1.121690.tar.gz
 DataFlow::Proc::SQL            1.121690  R/RU/RUSSOZ/DataFlow-1.121690.tar.gz
 DataFlow::Proc::UC             1.121690  R/RU/RUSSOZ/DataFlow-1.121690.tar.gz
-DataFlow::Proc::URLRetriever   1.112100  R/RU/RUSSOZ/DataFlow-Proc-URLRetriever-1.112100.tar.gz
+DataFlow::Proc::URLRetriever   1.121690  R/RU/RUSSOZ/DataFlow-Proc-URLRetriever-1.121690.tar.gz
 DataFlow::Proc::YAML           1.112100  R/RU/RUSSOZ/DataFlow-Proc-YAML-1.112100.tar.gz
 DataFlow::ProcWrapper          1.121690  R/RU/RUSSOZ/DataFlow-1.121690.tar.gz
 DataFlow::Role::Dumper         1.121690  R/RU/RUSSOZ/DataFlow-1.121690.tar.gz
