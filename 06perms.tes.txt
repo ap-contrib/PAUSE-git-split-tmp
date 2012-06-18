@@ -232,6 +232,7 @@ Test::Data,BDFOY,m
 Test::Data::Array,BDFOY,f
 Test::Data::Function,BDFOY,f
 Test::Data::Hash,BDFOY,f
+Test::Data::Riak,ANELSON,f
 Test::Data::Scalar,BDFOY,f
 Test::DataDriven,MBARBON,f
 Test::DataDriven::Plugin,MBARBON,f
