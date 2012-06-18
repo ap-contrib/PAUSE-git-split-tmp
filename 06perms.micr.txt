@@ -1544,6 +1544,7 @@ Module::Install::Share,ADAMK,c
 Module::Install::Share,AUDREYT,f
 Module::Install::Share,AUTRIJUS,c
 Module::Install::Share,JESSE,c
+Module::Install::ShareFile,KAZEBURO,f
 Module::Install::Skip,ALEXMV,c
 Module::Install::Skip,FALCONE,c
 Module::Install::Skip,JESSE,c
