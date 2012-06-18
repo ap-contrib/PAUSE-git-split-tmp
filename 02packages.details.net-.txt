@@ -165,7 +165,7 @@ Net::Dynect::REST::TXTRecord       149.  J/JE/JEB/Net-Dynect-REST-0.09.tar.gz
 Net::Dynect::REST::Zone            149.  J/JE/JEB/Net-Dynect-REST-0.09.tar.gz
 Net::Dynect::REST::ZoneChanges     177.  J/JE/JEB/Net-Dynect-REST-0.09.tar.gz
 Net::EasyTCP                       0.26  M/MN/MNAGUIB/EasyTCP-0.26.tar.gz
-Net::eBay                          0.55  I/IC/ICHUDOV/Net-eBay-0.55.tar.gz
+Net::eBay                          0.60  I/IC/ICHUDOV/Net-eBay-0.60.tar.gz
 Net::Elexol::EtherIO24             0.22  C/CH/CHRISY/Net-Elexol-EtherIO24-0.22.tar.gz
 Net::EMI::Client                   1.02  S/SC/SCHAFFTER/Net-EMI-Client-1.02.tar.gz
 Net::EMI::Common                   1.01  S/SC/SCHAFFTER/Net-EMI-Common-1.01.tar.gz
