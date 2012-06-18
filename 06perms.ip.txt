@@ -645,6 +645,7 @@ Image::Base::SVGout,KRYDE,f
 Image::Base::Text,KRYDE,f
 Image::Base::Tk::Canvas,KRYDE,f
 Image::Base::Tk::Photo,KRYDE,f
+Image::Base::Wx::Bitmap,KRYDE,f
 Image::Base::Wx::DC,KRYDE,f
 Image::Base::Wx::Image,KRYDE,f
 Image::Base::X11::Protocol::Drawable,KRYDE,f
