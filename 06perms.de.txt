@@ -1444,6 +1444,7 @@ Dist::Zilla::Plugin::ReadmeMarkdownFromPod,RTHOMPSON,c
 Dist::Zilla::Plugin::RecommendedPrereqs,CJM,f
 Dist::Zilla::Plugin::ReleaseToPinto,THALJEF,f
 Dist::Zilla::Plugin::RemovePrereqs,RJBS,f
+Dist::Zilla::Plugin::RemovePrereqsMatching,RSRCHBOY,f
 Dist::Zilla::Plugin::ReportPhase,SWESTRUP,f
 Dist::Zilla::Plugin::ReportVersions,DOHERTY,c
 Dist::Zilla::Plugin::ReportVersions,MARCEL,f
