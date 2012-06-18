@@ -220,7 +220,7 @@ POE::Component::Server::RADIUS     1.06  B/BI/BINGOS/POE-Component-Server-RADIUS
 POE::Component::Server::SimpleContent 1.14  B/BI/BINGOS/POE-Component-Server-SimpleContent-1.14.tar.gz
 POE::Component::Server::SimpleHTTP 2.14  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-2.14.tar.gz
 POE::Component::Server::SimpleHTTP::Connection 2.14  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-2.14.tar.gz
-POE::Component::Server::SimpleHTTP::PreFork 2.06  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-PreFork-2.06.tar.gz
+POE::Component::Server::SimpleHTTP::PreFork 2.08  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-PreFork-2.08.tar.gz
 POE::Component::Server::SimpleHTTP::Response 2.14  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-2.14.tar.gz
 POE::Component::Server::SimpleHTTP::State 2.14  B/BI/BINGOS/POE-Component-Server-SimpleHTTP-2.14.tar.gz
 POE::Component::Server::SimpleSMTP 1.50  B/BI/BINGOS/POE-Component-Server-SimpleSMTP-1.50.tar.gz
