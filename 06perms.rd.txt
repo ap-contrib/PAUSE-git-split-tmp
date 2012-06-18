@@ -267,6 +267,7 @@ RPC::ExtDirect::Deserialize,TOKAREV,f
 RPC::ExtDirect::Event,TOKAREV,f
 RPC::ExtDirect::EventProvider,TOKAREV,f
 RPC::ExtDirect::Exception,TOKAREV,f
+RPC::ExtDirect::Hook,TOKAREV,f
 RPC::ExtDirect::NoEvents,TOKAREV,f
 RPC::ExtDirect::Request,TOKAREV,f
 RPC::ExtDirect::Router,TOKAREV,f
