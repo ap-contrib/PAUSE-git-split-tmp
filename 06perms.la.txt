@@ -780,6 +780,7 @@ Lemonldap::NG::Handler::CDA,COUDOT,c
 Lemonldap::NG::Handler::CDA,GUIMARD,f
 Lemonldap::NG::Handler::CGI,COUDOT,c
 Lemonldap::NG::Handler::CGI,GUIMARD,f
+Lemonldap::NG::Handler::Menu,COUDOT,f
 Lemonldap::NG::Handler::Proxy,COUDOT,c
 Lemonldap::NG::Handler::Proxy,GUIMARD,f
 Lemonldap::NG::Handler::SecureToken,COUDOT,f
