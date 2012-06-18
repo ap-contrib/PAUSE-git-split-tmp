@@ -604,7 +604,7 @@ B::Hooks::OP::Check                0.19  Z/ZE/ZEFRAM/B-Hooks-OP-Check-0.19.tar.g
 B::Hooks::OP::Check::EntersubForCV 0.09  Z/ZE/ZEFRAM/B-Hooks-OP-Check-EntersubForCV-0.09.tar.gz
 B::Hooks::OP::Check::StashChange   0.06  F/FL/FLORA/B-Hooks-OP-Check-StashChange-0.06.tar.gz
 B::Hooks::OP::PPAddr               0.03  F/FL/FLORA/B-Hooks-OP-PPAddr-0.03.tar.gz
-B::Hooks::Parser                   0.10  Z/ZE/ZEFRAM/B-Hooks-Parser-0.10.tar.gz
+B::Hooks::Parser                   0.11  Z/ZE/ZEFRAM/B-Hooks-Parser-0.11.tar.gz
 B::Hooks::XSUB::CallAsOp           0.02  N/NU/NUFFIN/B-Hooks-XSUB-CallAsOp-0.02.tar.gz
 B::Hooks::XSUB::CallAsOp::Install::Files undef  N/NU/NUFFIN/B-Hooks-XSUB-CallAsOp-0.02.tar.gz
 B::IntrospectorDeparse              0.6  M/MD/MDUPONT/Introspector-0.04.tar.gz
