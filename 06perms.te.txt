@@ -1422,6 +1422,7 @@ Tk::ApplicationNest,XPIX,m
 Tk::ArrayBar,CLEMBURG,c
 Tk::ArrayBar,MCAST,f
 Tk::AstroCatalog,AALLAN,f
+Tk::AstroCatalog,TJENNESS,c
 Tk::Autoscroll,SREZIC,m
 Tk::Axis,SREZIC,c
 Tk::Axis,TKML,m
