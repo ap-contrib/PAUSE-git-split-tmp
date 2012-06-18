@@ -112,9 +112,11 @@ Csistck::Role,AGJ,f
 Csistck::Term,AGJ,f
 Csistck::Test,AGJ,f
 Csistck::Test::File,AGJ,f
+Csistck::Test::FileBase,AGJ,f
 Csistck::Test::NOOP,AGJ,f
 Csistck::Test::Permission,AGJ,f
 Csistck::Test::Pkg,AGJ,f
+Csistck::Test::Return,AGJ,f
 Csistck::Test::Script,AGJ,f
 Csistck::Test::Template,AGJ,f
 Csistck::Util,AGJ,f
