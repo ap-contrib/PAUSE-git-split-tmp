@@ -389,6 +389,7 @@ Tie::Amazon::S3                    0.02  Z/ZA/ZAKAME/Tie-Amazon-S3-0.02.tar.gz
 Tie::AppendHash                   undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/AppendHash.pm.gz
 Tie::Array                         1.05  F/FL/FLORA/perl-5.15.4.tar.gz
 Tie::Array::AsHash                 0.11  R/RE/REHSACK/Tie-Array-AsHash-0.11.tar.gz
+Tie::Array::Atomic                 0.01  Y/YU/YURY/Tie-Array-Atomic-0.01.tar.gz
 Tie::Array::Boolean            0.000001  K/KY/KYLE/Tie-Array-Boolean-0.0.1.tar.gz
 Tie::Array::BoundedIndex           0.06  P/PJ/PJS/Tie-Array-BoundedIndex-0.06.tar.gz
 Tie::Array::CSV                    0.05  J/JB/JBERGER/Tie-Array-CSV-0.05.tar.gz
