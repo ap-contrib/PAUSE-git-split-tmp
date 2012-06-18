@@ -513,7 +513,7 @@ Erlang::Parser::Node::WhenList    undef  A/AN/ANNELI/Erlang-Parser-0.5.1.tar.gz
 Erlang::Parser::Parser            undef  A/AN/ANNELI/Erlang-Parser-0.5.1.tar.gz
 Erlang::Port                       0.04  H/HI/HIO/Erlang-Port-0.04.tar.gz
 EROOT                             undef  D/DM/DMR/Class-Eroot-19960603.tar.gz
-Err                                0.01  M/MA/MARKF/Err-0.01.tar.gz
+Err                                0.02  M/MA/MARKF/Err-0.02.tar.gz
 Errno::AnyString                   1.03  P/PU/PUBNOOP/Errno-AnyString-1.03.tar.gz
 Error                           0.17018  S/SH/SHLOMIF/Error-0.17018.tar.gz
 Error::Base                      v0.1.4  X/XI/XIONG/developer-tools/Error-Base-v0.1.4.tar.gz
