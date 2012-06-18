@@ -795,7 +795,7 @@ POSIX::pselect                     0.02  G/GF/GFUJI/POSIX-pselect-0.02.tar.gz
 POSIX::Regex                     1.0001  J/JE/JETTERO/POSIX-Regex-1.0001.tar.gz
 POSIX::RT::Clock                  0.013  L/LE/LEONT/POSIX-RT-Timer-0.013.tar.gz
 POSIX::RT::MQ                      0.03  I/IL/ILJATABAC/POSIX-RT-MQ-0.03.tar.gz
-POSIX::RT::Scheduler              0.002  L/LE/LEONT/POSIX-RT-Scheduler-0.002.tar.gz
+POSIX::RT::Scheduler              0.003  L/LE/LEONT/POSIX-RT-Scheduler-0.003.tar.gz
 POSIX::RT::Semaphore               0.05  M/MJ/MJP/POSIX-RT-Semaphore-0.05.tar.gz
 POSIX::RT::SharedMem               0.08  L/LE/LEONT/POSIX-RT-SharedMem-0.08.tar.gz
 POSIX::RT::Signal                 0.010  L/LE/LEONT/POSIX-RT-Signal-0.010.tar.gz
