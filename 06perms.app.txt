@@ -498,6 +498,7 @@ App::Unix::RPasswd::SaltedPasswd,NXADM,f
 App::Upfiles,KRYDE,f
 App::Upfiles::Conf,KRYDE,f
 App::Upfiles::FTPlazy,KRYDE,f
+App::Upfiles::Tie::Handle::Throttle,KRYDE,f
 App::User,CWINTERS,c
 App::User,JONASBN,f
 App::UserAgent,SPADKINS,f
