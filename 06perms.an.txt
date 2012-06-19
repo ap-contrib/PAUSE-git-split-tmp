@@ -514,7 +514,8 @@ Apache2::Response,PGOLLUCCI,c
 Apache2::Response,PHRED,c
 Apache2::Response::FileMerge,WAZZUTEKE,m
 Apache2::S3,IWADE,f
-Apache2::SOAP,RKOBES,f
+Apache2::SOAP,ADOPTME,f
+Apache2::SOAP,RKOBES,c
 Apache2::SQLRequest,DORIAN,f
 Apache2::SQLRequest::Config,DORIAN,f
 Apache2::SafePnotes,OPI,f
