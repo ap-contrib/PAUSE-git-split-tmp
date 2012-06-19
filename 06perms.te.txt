@@ -563,6 +563,7 @@ Tie::Array::Test,CODEREPOS,c
 Tie::Array::Test,MARCEL,f
 Tie::Array::Unique,PINYAN,f
 Tie::Array::Unique::How,PINYAN,f
+Tie::Array::Unsafe,YURY,m
 Tie::Assert,MOLT,m
 Tie::Assert::CheckFactory,MOLT,f
 Tie::Assert::Scalar,MOLT,f
