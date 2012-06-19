@@ -55,6 +55,10 @@ Astro::FITS::HdrTrans::JCMT_GSD,BRADC,f
 Astro::FITS::HdrTrans::JCMT_GSD,TJENNESS,c
 Astro::FITS::HdrTrans::JCMT_GSD_DB,BRADC,f
 Astro::FITS::HdrTrans::JCMT_GSD_DB,TJENNESS,c
+Astro::FITS::HdrTrans::LCO,TJENNESS,f
+Astro::FITS::HdrTrans::LCOSBIG_0m4,TJENNESS,f
+Astro::FITS::HdrTrans::LCOSBIG_1m0,TJENNESS,f
+Astro::FITS::HdrTrans::LCOSBIG_CC,TJENNESS,f
 Astro::FITS::HdrTrans::MICHELLE,BRADC,f
 Astro::FITS::HdrTrans::MICHELLE,TJENNESS,c
 Astro::FITS::HdrTrans::NACO,BRADC,f
