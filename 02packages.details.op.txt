@@ -121,11 +121,11 @@ OpenID::Lite::Extension::SREG::Request undef  L/LY/LYOKATO/OpenID-Lite-Extension
 OpenID::Lite::Extension::SREG::Response undef  L/LY/LYOKATO/OpenID-Lite-Extension-SREG-0.01.tar.gz
 OpenID::Lite::Extension::UI        0.01  L/LY/LYOKATO/OpenID-Lite-Extension-UI-0.01.tar.gz
 OpenID::Lite::Extension::UI::Request undef  L/LY/LYOKATO/OpenID-Lite-Extension-UI-0.01.tar.gz
-OpenID::Login                  0.001000  R/RE/REALHOLGI/OpenID-Login-0.1.0.tar.gz
-OpenID::Login::Discover        0.001000  R/RE/REALHOLGI/OpenID-Login-0.1.0.tar.gz
-OpenID::Login::Extension       0.001000  R/RE/REALHOLGI/OpenID-Login-0.1.0.tar.gz
-OpenID::Login::Types           0.001000  R/RE/REALHOLGI/OpenID-Login-0.1.0.tar.gz
-OpenID::Login::URI             0.001000  R/RE/REALHOLGI/OpenID-Login-0.1.0.tar.gz
+OpenID::Login                  0.001001  R/RE/REALHOLGI/OpenID-Login-0.1.1.tar.gz
+OpenID::Login::Discover        0.001001  R/RE/REALHOLGI/OpenID-Login-0.1.1.tar.gz
+OpenID::Login::Extension       0.001001  R/RE/REALHOLGI/OpenID-Login-0.1.1.tar.gz
+OpenID::Login::Types           0.001001  R/RE/REALHOLGI/OpenID-Login-0.1.1.tar.gz
+OpenID::Login::URI             0.001001  R/RE/REALHOLGI/OpenID-Login-0.1.1.tar.gz
 OpenInteract                       1.62  C/CW/CWINTERS/OpenInteract-1.62.tar.gz
 OpenInteract2::Action::FlickrFeed  0.02  C/CW/CWINTERS/OpenInteract2-Action-FlickrFeed-0.02.tar.gz
 OpenInteract2::Action::RSS         0.10  C/CW/CWINTERS/OpenInteract2-Action-RSS-0.10.tar.gz
