@@ -362,6 +362,9 @@ Number::ZipCode::JP::Table::Area 0.20120531  T/TA/TANIGUCHI/Number-ZipCode-JP-0.
 Number::ZipCode::JP::Table::Company 0.20120531  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120531.tar.gz
 Numeric::LL_Array                0.1504  I/IL/ILYAZ/modules/Numeric-LL_Array-0.1504.tar.gz
 NumericCodes                       0.04  M/MC/MCAUDILL/Net-Bot-IRC-NumericCodes-0.04.tar.gz
+NUREG::Automation::FontManager     0.03  W/WK/WKI/NUREG-Automation-0.03.tar.gz
+NUREG::Automation::JS              0.03  W/WK/WKI/NUREG-Automation-0.03.tar.gz
+NUREG::Automation::Mounter         0.03  W/WK/WKI/NUREG-Automation-0.03.tar.gz
 NVDefined                          0.02  B/BP/BPOWERS/NVDefined-0.02.tar.gz
 nvidia::ml                        3.295  N/NV/NVBINDING/nvidia-ml-pl-3.295.00.tar.gz
 nvidia::ml::bindings              undef  N/NV/NVBINDING/nvidia-ml-pl-3.295.00.tar.gz
