@@ -621,6 +621,7 @@ IO::Async::Connector,PEVANS,f
 IO::Async::DetachedCode,PEVANS,f
 IO::Async::DetachedCode::FlatMarshaller,PEVANS,f
 IO::Async::DetachedCode::StorableMarshaller,PEVANS,f
+IO::Async::File,PEVANS,f
 IO::Async::FileStream,PEVANS,f
 IO::Async::Function,PEVANS,f
 IO::Async::Handle,PEVANS,f
