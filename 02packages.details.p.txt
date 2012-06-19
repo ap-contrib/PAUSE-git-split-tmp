@@ -268,6 +268,7 @@ Proc::ParallelLoop                  0.5  B/BD/BDARRAH/Proc-ParallelLoop-0.5.tgz
 Proc::PID::File                    1.27  E/EC/ECALDER/Proc-PID-File-1.27.tar.gz
 Proc::PID::File::Fcntl             1.01  J/JG/JGMYERS/Proc-PID-File-Fcntl-1.01.tar.gz
 Proc::Pidfile                     1.005  A/AW/AWRIGLEY/Proc-Pidfile-1.005.tar.gz
+Proc::PidFile::Info               undef  K/KI/KIXX/Proc-PidFile-Info-0.001.tar.gz
 Proc::PidUtil                      0.08  M/MI/MIKER/Proc-PidUtil-0.08.tar.gz
 Proc::ProcessTable                 0.45  D/DU/DURIST/Proc-ProcessTable-0.45.tar.gz
 Proc::ProcessTable::Process        0.02  D/DU/DURIST/Proc-ProcessTable-0.45.tar.gz
