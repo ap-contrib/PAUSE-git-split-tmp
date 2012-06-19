@@ -122,7 +122,7 @@ Astro::Time                        1.19  C/CP/CPHIL/Astro-0.74.tar.gz
 Astro::Time::HJD                   0.02  R/RC/RCREAGER/Astro-Time-HJD-0.02.tar.gz
 Astro::UTDF                       0.003  W/WY/WYANT/Astro-UTDF-0.003.tar.gz
 Astro::VO::VOEvent                 1.29  A/AA/AALLAN/Astro-VO-VOEvent-0.9.4.tar.gz
-Astro::WaveBand                    0.04  T/TJ/TJENNESS/Astro-WaveBand-0.04.tar.gz
+Astro::WaveBand                    0.08  T/TJ/TJENNESS/Astro-WaveBand-0.08.tar.gz
 Astro::WCS::LibWCS                 0.93  P/PR/PRATZLAFF/Astro-WCS-LibWCS-0.93.tar.gz
 Astro::XSPEC::Model::Parse         0.01  D/DJ/DJERIUS/Astro-XSPEC-Model-Parse-0.01.tar.gz
 Astro::XSPEC::TableModel           0.01  D/DJ/DJERIUS/Astro-XSPEC-TableModel-0.01.tar.gz
