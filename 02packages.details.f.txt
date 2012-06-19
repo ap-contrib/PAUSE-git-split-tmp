@@ -282,10 +282,10 @@ Gaim::Log::Parser                  0.14  M/MS/MSCHILLI/Gaim-Log-Parser-0.14.tar.
 gal_file                           2.16  C/CJ/CJONES/Microarray-0.45c.zip
 Gallery::Remote                     0.2  L/LO/LOVELACE/Gallery-Remote-0.2.tar.gz
 Gallery::Remote::API             v0.1.4  M/MY/MYSTERYTE/Gallery-Remote-API-v0.1.4.tar.gz
-Game::Battleship                 0.0502  G/GE/GENE/Game-Battleship-0.0502.tar.gz
-Game::Battleship::Craft          0.0301  G/GE/GENE/Game-Battleship-0.0502.tar.gz
-Game::Battleship::Grid           0.0301  G/GE/GENE/Game-Battleship-0.0502.tar.gz
-Game::Battleship::Player         0.0501  G/GE/GENE/Game-Battleship-0.0502.tar.gz
+Game::Battleship                 0.0503  G/GE/GENE/Game-Battleship-0.0503.tar.gz
+Game::Battleship::Craft          0.0302  G/GE/GENE/Game-Battleship-0.0503.tar.gz
+Game::Battleship::Grid           0.0302  G/GE/GENE/Game-Battleship-0.0503.tar.gz
+Game::Battleship::Player         0.0502  G/GE/GENE/Game-Battleship-0.0503.tar.gz
 Game::Life                         0.04  M/MN/MNEYLON/Game-Life-0.04.tar.gz
 Game::Pexeso                       0.01  P/PO/POTYL/Game-Pexeso-0.01.tar.gz
 Game::Pexeso::Card                undef  P/PO/POTYL/Game-Pexeso-0.01.tar.gz
