@@ -557,7 +557,7 @@ Error::InvalidArgument            1.009  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 Error::Mimetic                     0.02  E/ER/ERICH/Crypt-Mimetic-0.02.tar.gz
 Error::Pure                        0.07  S/SK/SKIM/Error-Pure-0.07.tar.gz
 Error::Pure::AllError              0.07  S/SK/SKIM/Error-Pure-0.07.tar.gz
-Error::Pure::Always                0.01  S/SK/SKIM/Error-Pure-Always-0.01.tar.gz
+Error::Pure::Always                0.02  S/SK/SKIM/Error-Pure-Always-0.02.tar.gz
 Error::Pure::Die                   0.07  S/SK/SKIM/Error-Pure-0.07.tar.gz
 Error::Pure::Error                 0.07  S/SK/SKIM/Error-Pure-0.07.tar.gz
 Error::Pure::ErrorList             0.07  S/SK/SKIM/Error-Pure-0.07.tar.gz
