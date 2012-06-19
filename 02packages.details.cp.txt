@@ -377,7 +377,7 @@ CPANPLUS::Dist::Gentoo::Guard      0.12  V/VP/VPIT/CPANPLUS-Dist-Gentoo-0.12.tar
 CPANPLUS::Dist::Gentoo::Maps       0.12  V/VP/VPIT/CPANPLUS-Dist-Gentoo-0.12.tar.gz
 CPANPLUS::Dist::Gentoo::Version    0.12  V/VP/VPIT/CPANPLUS-Dist-Gentoo-0.12.tar.gz
 CPANPLUS::Dist::GitHook            0.02  B/BI/BINGOS/CPANPLUS-Dist-GitHook-0.02.tar.gz
-CPANPLUS::Dist::Mageia         1.112710  J/JQ/JQUELIN/CPANPLUS-Dist-Mageia-1.112710.tar.gz
+CPANPLUS::Dist::Mageia         1.121710  J/JQ/JQUELIN/CPANPLUS-Dist-Mageia-1.121710.tar.gz
 CPANPLUS::Dist::Mdv            2.100400  J/JQ/JQUELIN/CPANPLUS-Dist-Mdv-2.100400.tar.gz
 CPANPLUS::Dist::MM                undef  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
 CPANPLUS::Dist::PAR                0.02  K/KA/KANE/CPANPLUS-Dist-PAR-0.02.tar.gz
