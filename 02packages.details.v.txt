@@ -625,7 +625,7 @@ vptk_w::VPTK_Widget::Scale        undef  F/FE/FELIXL/vptk/vptk_w_2_38b.tgz
 vptk_w::VPTK_Widget::Text         undef  F/FE/FELIXL/vptk/vptk_w_2_38b.tgz
 VR::API                            1.06  N/NM/NMARDEN/VR-API-1.06.tar.gz
 VR::API::Partner                   1.01  N/NM/NMARDEN/VR-API-1.05.tar.gz
-Vregs                             1.464  W/WS/WSNYDER/SystemC-Vregs-1.464.tar.gz
+Vregs                             1.470  W/WS/WSNYDER/SystemC-Vregs-1.470.tar.gz
 VRML                               1.10  H/HP/HPALM/VRML-1.10.tar.gz
 VRML::Base                         1.07  H/HP/HPALM/VRML-1.10.tar.gz
 VRML::Browser                     undef  L/LU/LUKKA/FreeWRL-0.14.tar.gz

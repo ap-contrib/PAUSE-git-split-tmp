@@ -664,6 +664,9 @@ SystemC::Vregs::Define::Value,WSNYDER,f
 SystemC::Vregs::Enum,WSNYDER,f
 SystemC::Vregs::Enum::Value,WSNYDER,f
 SystemC::Vregs::File,WSNYDER,f
+SystemC::Vregs::Input::HTML,WSNYDER,f
+SystemC::Vregs::Input::Layout,WSNYDER,f
+SystemC::Vregs::Input::TableExtract,WSNYDER,f
 SystemC::Vregs::Language,WSNYDER,f
 SystemC::Vregs::Language::Assembler,WSNYDER,f
 SystemC::Vregs::Language::C,WSNYDER,f
