@@ -186,6 +186,7 @@ Catalyst::Plugin::Cache::Store::FastMmap 0.02  N/NU/NUFFIN/Catalyst-Plugin-Cache
 Catalyst::Plugin::Cache::Store::Memory undef  B/BO/BOBTFISH/Catalyst-Plugin-Cache-0.11.tar.gz
 Catalyst::Plugin::Captcha          0.04  D/DI/DIEGOK/Catalyst-Plugin-Captcha-0.04.tar.gz
 Catalyst::Plugin::CDBI::Transaction 0.03  M/MR/MRKOFFEE/Catalyst-Plugin-CDBI-Transaction-0.03.tar.gz
+Catalyst::Plugin::CDN               0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
 Catalyst::Plugin::CGI::Untaint     0.05  T/TJ/TJC/Catalyst-Plugin-CGI-Untaint-0.05.tar.gz
 Catalyst::Plugin::ChainedURI      0.002  G/GE/GETTY/Catalyst-Plugin-ChainedURI-0.002.tar.gz
 Catalyst::Plugin::Charsets::Japanese 0.06  L/LY/LYOKATO/Catalyst-Plugin-Charsets-Japanese-0.06.tar.gz

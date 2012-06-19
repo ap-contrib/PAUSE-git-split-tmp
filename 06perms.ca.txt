@@ -895,6 +895,7 @@ Catalyst::Plugin::C3,RIBASUSHI,c
 Catalyst::Plugin::C3,SSCAFFIDI,c
 Catalyst::Plugin::C3,WSHELDAHL,c
 Catalyst::Plugin::CDBI::Transaction,MRKOFFEE,f
+Catalyst::Plugin::CDN,MSMITH,f
 Catalyst::Plugin::CGI::Untaint,TJC,f
 Catalyst::Plugin::CHI,FAYLAND,f
 Catalyst::Plugin::CRUD,BAYSIDE,m

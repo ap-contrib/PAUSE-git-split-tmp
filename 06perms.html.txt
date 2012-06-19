@@ -1057,6 +1057,12 @@ HTTP::Browscap,JAMESPO,m
 HTTP::BrowserDetect,LHS,m
 HTTP::BrowserDetect,OALDERS,c
 HTTP::BrowserDetect,WALSHAM,c
+HTTP::CDN,MSMITH,f
+HTTP::CDN::CSS,MSMITH,f
+HTTP::CDN::CSS::LESSJS,MSMITH,f
+HTTP::CDN::CSS::LESSp,MSMITH,f
+HTTP::CDN::CSS::Minifier::XS,MSMITH,f
+HTTP::CDN::JavaScript::Minifier::XS,MSMITH,f
 HTTP::Cache::Transparent,MATTIASH,m
 HTTP::CheckProxy,DHUDES,f
 HTTP::Client,LINC,m

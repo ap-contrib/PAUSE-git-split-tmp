@@ -1,6 +1,9 @@
-Math::Cephes::Polynomial,RKOBES,f
-Math::Cephes::fract,RKOBES,f
-Math::Cephesc,RKOBES,f
+Math::Cephes::Polynomial,ADOPTME,f
+Math::Cephes::Polynomial,RKOBES,c
+Math::Cephes::fract,ADOPTME,f
+Math::Cephes::fract,RKOBES,c
+Math::Cephesc,ADOPTME,f
+Math::Cephesc,RKOBES,c
 Math::CheckDigits,SONGMU,m
 Math::Clipper,AAR,c
 Math::Clipper,SHELDRAKE,c

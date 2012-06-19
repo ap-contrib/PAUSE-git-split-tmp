@@ -972,6 +972,12 @@ HTTP::Body::XFormsMultipart        1.15  G/GE/GETTY/HTTP-Body-1.15.tar.gz
 HTTP::Browscap                     0.01  J/JA/JAMESPO/HTTP-Browscap-0.01.tar.gz
 HTTP::BrowserDetect                1.44  O/OA/OALDERS/HTTP-BrowserDetect-1.44.tar.gz
 HTTP::Cache::Transparent            1.0  M/MA/MATTIASH/HTTP-Cache-Transparent-1.0.tar.gz
+HTTP::CDN                           0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
+HTTP::CDN::CSS                      0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
+HTTP::CDN::CSS::LESSJS              0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
+HTTP::CDN::CSS::LESSp               0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
+HTTP::CDN::CSS::Minifier::XS        0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
+HTTP::CDN::JavaScript::Minifier::XS 0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
 HTTP::CheckProxy                    0.4  D/DH/DHUDES/HTTP-CheckProxy-0.4.tar.gz
 HTTP::Client                       1.52  N/NE/NEILB/HTTP-Client-1.52.tar.gz
 HTTP::Client::Parallel             0.02  A/AD/ADAMK/HTTP-Client-Parallel-0.02.tar.gz
