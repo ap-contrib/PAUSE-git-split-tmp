@@ -175,7 +175,7 @@ CGI::ExceptionManager::StackTrace,KAZUHO,c
 CGI::ExceptionManager::StackTrace,TOKUHIROM,f
 CGI::Expand,BOWMANBS,f
 CGI::Explorer,RSAVAGE,m
-CGI::ExtDirect,TOKAREV,f
+CGI::ExtDirect,TOKAREV,m
 CGI::Extratags,HORNBURG,f
 CGI::FCKeditor,SHIRAIWA,f
 CGI::Fast,LDS,f
