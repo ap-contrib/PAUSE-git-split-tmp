@@ -1305,6 +1305,7 @@ Collection::Categorized,JROCKWAY,f
 Collection::Categorized,MRAMBERG,c
 Collection::Categorized,MSTROUT,c
 Collection::Categorized,NUFFIN,c
+Collection::CrcColl,ZAG,f
 Collection::Mem,ZAG,f
 Collection::Memcached,ZAG,f
 Collection::Storable,ZAG,f
