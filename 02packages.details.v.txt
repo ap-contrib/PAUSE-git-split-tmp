@@ -1330,7 +1330,7 @@ WebService::Bloglines::Blogroll    0.02  S/ST/STEPANOV/WebService-Bloglines-Blog
 WebService::Bloglines::Entries     0.09  M/MI/MIYAGAWA/WebService-Bloglines-0.12.tar.gz
 WebService::Bloglines::Subscriptions undef  M/MI/MIYAGAWA/WebService-Bloglines-0.06.tar.gz
 WebService::Bluga::Webthumb        0.03  B/BI/BIGPRESH/WebService-Bluga-Webthumb-0.03.tar.gz
-WebService::Browshot           1.009002  J/JS/JSOBRIER/WebService-Browshot-1.9.2.tar.gz
+WebService::Browshot           1.009003  J/JS/JSOBRIER/WebService-Browshot-1.9.3.tar.gz
 WebService::Buxfer                 0.01  N/NH/NHEINRIC/WebService-Buxfer-0.01.tar.gz
 WebService::Buxfer::Response      undef  N/NH/NHEINRIC/WebService-Buxfer-0.01.tar.gz
 WebService::Buxfer::Utils          0.01  N/NH/NHEINRIC/WebService-Buxfer-0.01.tar.gz
