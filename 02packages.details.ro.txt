@@ -74,6 +74,7 @@ RPC::ExtDirect::NoEvents          undef  T/TO/TOKAREV/RPC-ExtDirect-2.01.tar.gz
 RPC::ExtDirect::Request           undef  T/TO/TOKAREV/RPC-ExtDirect-2.01.tar.gz
 RPC::ExtDirect::Router            undef  T/TO/TOKAREV/RPC-ExtDirect-2.01.tar.gz
 RPC::ExtDirect::Serialize         undef  T/TO/TOKAREV/RPC-ExtDirect-2.01.tar.gz
+RPC::ExtDirect::Server             0.01  T/TO/TOKAREV/RPC-ExtDirect-Server-0.01.tar.gz
 RPC::JSON                          0.15  C/CH/CHRISC/RPC-JSON-0.15.tar.gz
 RPC::JSON::Shell                   0.02  C/CH/CHRISC/RPC-JSON-0.15.tar.gz
 RPC::Lite                          0.20  A/AB/ABURKE/RPC-Lite-0.20.tar.gz

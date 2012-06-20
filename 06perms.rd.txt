@@ -272,6 +272,7 @@ RPC::ExtDirect::NoEvents,TOKAREV,f
 RPC::ExtDirect::Request,TOKAREV,f
 RPC::ExtDirect::Router,TOKAREV,f
 RPC::ExtDirect::Serialize,TOKAREV,f
+RPC::ExtDirect::Server,TOKAREV,f
 RPC::JSON,CHRISC,c
 RPC::JSON,JSHIRLEY,f
 RPC::JSON::Shell,CHRISC,c
