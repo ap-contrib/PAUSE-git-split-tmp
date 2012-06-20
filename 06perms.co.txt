@@ -1484,6 +1484,7 @@ Crypt::OpenSSL::Cloner,MNUNBERG,f
 Crypt::OpenSSL::Cloner::x509asn1,MNUNBERG,f
 Crypt::OpenSSL::Common,SORTIZ,f
 Crypt::OpenSSL::DSA,TJMATHER,f
+Crypt::OpenSSL::EC,MIKEM,f
 Crypt::OpenSSL::PBKDF2,SKUPSY,f
 Crypt::OpenSSL::PKCS10,JONOZZZ,f
 Crypt::OpenSSL::PKCS12,DANIEL,m
