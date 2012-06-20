@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  214299
+Line-Count:  214311
 Written-By:  PAUSE version 1.14
-Date:        Wed, 20 Jun 2012 15:03:19 GMT
+Date:        Wed, 20 Jun 2012 15:47:19 GMT
 
 A,ADAMK,f
 A::B,CODEREPOS,c
@@ -380,6 +380,18 @@ AI::MegaHAL,CSPENCER,c
 AI::Menu,JSMITH,f
 AI::Menu::Factory,JSMITH,f
 AI::Menu::Maker,JSMITH,f
+AI::MicroStructure,SANTEX,f
+AI::MicroStructure::Alias,SANTEX,f
+AI::MicroStructure::List,SANTEX,f
+AI::MicroStructure::Locale,SANTEX,f
+AI::MicroStructure::MultiList,SANTEX,f
+AI::MicroStructure::RemoteList,SANTEX,f
+AI::MicroStructure::any,SANTEX,f
+AI::MicroStructure::foo,SANTEX,f
+AI::MicroStructure::galaxies,SANTEX,f
+AI::MicroStructure::planets,SANTEX,f
+AI::MicroStructure::spaceflight,SANTEX,f
+AI::MicroStructure::stars,SANTEX,f
 AI::NNEasy,GMPASSOS,f
 AI::NNEasy::NN,GMPASSOS,f
 AI::NNEasy::NN::backprop,GMPASSOS,f
