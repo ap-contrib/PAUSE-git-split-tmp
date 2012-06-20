@@ -895,6 +895,8 @@ RDF::Flow::LinkedData             0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Pipeline               0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Source                 0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Union                  0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
+RDF::Generator::Void               0.02  K/KJ/KJETILK/RDF-Generator-Void-0.02.tar.gz
+RDF::Generator::Void::Stats       undef  K/KJ/KJETILK/RDF-Generator-Void-0.02.tar.gz
 RDF::Helper                         2.0  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::API                  undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::Constants            undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
