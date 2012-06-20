@@ -589,6 +589,7 @@ Math::Macopt::Base,TOM,f
 Math::Macoptc,TOM,f
 Math::MagicSquare,FPIVARI,f
 Math::MagicSquare::Generator,JUERD,m
+Math::Mathematica,JBERGER,f
 Math::Matlab,ZMAN,f
 Math::Matlab::Engine,OXE,f
 Math::Matlab::Local,ZMAN,f
