@@ -224,6 +224,7 @@ Devel::WxProf::Treemap::Squarified,MKUTTER,f
 Devel::XDebug,SPECTRUM,f
 Devel::XRay,JBISBEE,f
 Devel::Xref,SEANO,f
+Devel::bt,AUGGY,c
 Devel::bt,EDENC,c
 Devel::bt,ETHER,c
 Devel::bt,FLORA,f
@@ -1089,6 +1090,7 @@ Dist::Zilla::App::Command::shell,DOLMEN,f
 Dist::Zilla::App::Command::smoke,RJBS,f
 Dist::Zilla::App::Command::stock,THALJEF,f
 Dist::Zilla::App::Command::test,RJBS,f
+Dist::Zilla::App::Command::weaverconf,AUGGY,c
 Dist::Zilla::App::Command::weaverconf,DRUOSO,c
 Dist::Zilla::App::Command::weaverconf,EDENC,c
 Dist::Zilla::App::Command::weaverconf,ETHER,c
@@ -1213,9 +1215,11 @@ Dist::Zilla::Plugin::Dpkg,GPHAT,f
 Dist::Zilla::Plugin::Dpkg::PerlbrewStarman,DIZ,c
 Dist::Zilla::Plugin::Dpkg::PerlbrewStarman,GPHAT,f
 Dist::Zilla::Plugin::DualBuilders,APOCAL,f
+Dist::Zilla::Plugin::DualLife,AUGGY,c
 Dist::Zilla::Plugin::DualLife,EDENC,c
 Dist::Zilla::Plugin::DualLife,FLORA,f
 Dist::Zilla::Plugin::DynamicManifest,ROKR,f
+Dist::Zilla::Plugin::EOLTests,AUGGY,c
 Dist::Zilla::Plugin::EOLTests,DRUOSO,c
 Dist::Zilla::Plugin::EOLTests,EDENC,c
 Dist::Zilla::Plugin::EOLTests,ETHER,c
@@ -1394,6 +1398,7 @@ Dist::Zilla::Plugin::NextRelease,RJBS,f
 Dist::Zilla::Plugin::NextVersion::Semantic,YANICK,f
 Dist::Zilla::Plugin::NoAutomatedTesting,BINGOS,f
 Dist::Zilla::Plugin::NoSmartCommentsTests,RSRCHBOY,f
+Dist::Zilla::Plugin::NoTabsTests,AUGGY,c
 Dist::Zilla::Plugin::NoTabsTests,DRUOSO,c
 Dist::Zilla::Plugin::NoTabsTests,EDENC,c
 Dist::Zilla::Plugin::NoTabsTests,ETHER,c
@@ -1502,6 +1507,7 @@ Dist::Zilla::Plugin::SVK::Check,DRBEAN,f
 Dist::Zilla::Plugin::SVK::Commit,DRBEAN,f
 Dist::Zilla::Plugin::SVK::Push,DRBEAN,f
 Dist::Zilla::Plugin::SVK::Tag,DRBEAN,f
+Dist::Zilla::Plugin::SanityTests,AUGGY,c
 Dist::Zilla::Plugin::SanityTests,DOY,c
 Dist::Zilla::Plugin::SanityTests,DRUOSO,c
 Dist::Zilla::Plugin::SanityTests,EDENC,c
@@ -1619,6 +1625,7 @@ Dist::Zilla::PluginBundle::BINGOS,BINGOS,f
 Dist::Zilla::PluginBundle::Basic,RJBS,f
 Dist::Zilla::PluginBundle::BasicWithoutMM,LEONT,f
 Dist::Zilla::PluginBundle::BioPerl,CJFIELDS,f
+Dist::Zilla::PluginBundle::Bioperl,AUGGY,c
 Dist::Zilla::PluginBundle::Bioperl,FLORA,f
 Dist::Zilla::PluginBundle::Bioperl,RBUELS,c
 Dist::Zilla::PluginBundle::CEBJYRE,CEBJYRE,f
@@ -1633,6 +1640,7 @@ Dist::Zilla::PluginBundle::DANIELP,DANIELP,f
 Dist::Zilla::PluginBundle::DBR,DBR,f
 Dist::Zilla::PluginBundle::DOY,DOY,f
 Dist::Zilla::PluginBundle::FAYLAND,FAYLAND,f
+Dist::Zilla::PluginBundle::FLORA,AUGGY,c
 Dist::Zilla::PluginBundle::FLORA,DOY,c
 Dist::Zilla::PluginBundle::FLORA,DRUOSO,c
 Dist::Zilla::PluginBundle::FLORA,EDENC,c

@@ -142,6 +142,7 @@ Gtk2::Ex::Units::DummyScreen,KRYDE,f
 Gtk2::Ex::Utils,KCK,f
 Gtk2::Ex::VolumeButton,ARCANEZ,c
 Gtk2::Ex::VolumeButton,ASH,c
+Gtk2::Ex::VolumeButton,AUGGY,c
 Gtk2::Ex::VolumeButton,BOBTFISH,c
 Gtk2::Ex::VolumeButton,DOY,c
 Gtk2::Ex::VolumeButton,DRUOSO,c

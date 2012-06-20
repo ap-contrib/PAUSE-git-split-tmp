@@ -79,6 +79,7 @@ DBIx::Class::InflateColumn,MSTROUT,c
 DBIx::Class::InflateColumn,RIBASUSHI,f
 DBIx::Class::InflateColumn,RKINYON,c
 DBIx::Class::InflateColumn,WDH,c
+DBIx::Class::InflateColumn::Authen::Passphrase,AUGGY,c
 DBIx::Class::InflateColumn::Authen::Passphrase,EDENC,c
 DBIx::Class::InflateColumn::Authen::Passphrase,FLORA,f
 DBIx::Class::InflateColumn::Authen::Passphrase,MSTROUT,c
@@ -493,6 +494,7 @@ DBIx::Class::PK::Auto::SQLite,MSTROUT,c
 DBIx::Class::PK::Auto::SQLite,RIBASUSHI,f
 DBIx::Class::PK::Auto::SQLite,RKINYON,c
 DBIx::Class::PK::Auto::SQLite,WDH,c
+DBIx::Class::PassphraseColumn,AUGGY,c
 DBIx::Class::PassphraseColumn,EDENC,c
 DBIx::Class::PassphraseColumn,FLORA,f
 DBIx::Class::PassphraseColumn,MSTROUT,c

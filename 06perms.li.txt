@@ -646,6 +646,7 @@ Linux::Svgalib::Modeinfo,JSTOWE,f
 Linux::SysInfo,VPIT,m
 Linux::Sysfs,ARCANEZ,c
 Linux::Sysfs,ASH,c
+Linux::Sysfs,AUGGY,c
 Linux::Sysfs,BOBTFISH,c
 Linux::Sysfs,DOY,c
 Linux::Sysfs,DRUOSO,c
@@ -738,6 +739,7 @@ List::Filter::Transform::Library::FileSystem,DOOM,f
 List::Filter::Transforms::Standard,DOOM,f
 List::Flatten,OBRADOVIC,f
 List::Flatten::Recursive,RTHOMPSON,m
+List::Gather,AUGGY,c
 List::Gather,FLORA,f
 List::Gen,ASG,f
 List::Gen::Benchmark,ASG,f

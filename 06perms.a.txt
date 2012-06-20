@@ -178,6 +178,7 @@ Audio::Wav::Write::Header,BRIANSKI,c
 Audio::Wav::Write::Header,NPESKETT,f
 Audio::XMMSClient,ARCANEZ,c
 Audio::XMMSClient,ASH,c
+Audio::XMMSClient,AUGGY,c
 Audio::XMMSClient,BOBTFISH,c
 Audio::XMMSClient,DOY,c
 Audio::XMMSClient,DRUOSO,c
@@ -190,6 +191,7 @@ Audio::XMMSClient,JROCKWAY,c
 Audio::XMMSClient,SADRAK,c
 Audio::XMMSClient::Collection,ARCANEZ,c
 Audio::XMMSClient::Collection,ASH,c
+Audio::XMMSClient::Collection,AUGGY,c
 Audio::XMMSClient::Collection,BOBTFISH,c
 Audio::XMMSClient::Collection,DOY,c
 Audio::XMMSClient::Collection,DRUOSO,c
@@ -202,6 +204,7 @@ Audio::XMMSClient::Collection,JROCKWAY,c
 Audio::XMMSClient::Collection,SADRAK,c
 Audio::XMMSClient::Glib,ARCANEZ,c
 Audio::XMMSClient::Glib,ASH,c
+Audio::XMMSClient::Glib,AUGGY,c
 Audio::XMMSClient::Glib,BOBTFISH,c
 Audio::XMMSClient::Glib,DOY,c
 Audio::XMMSClient::Glib,DRUOSO,c
@@ -214,6 +217,7 @@ Audio::XMMSClient::Glib,JROCKWAY,c
 Audio::XMMSClient::Glib,SADRAK,c
 Audio::XMMSClient::Playlist::Sync,ARCANEZ,c
 Audio::XMMSClient::Playlist::Sync,ASH,c
+Audio::XMMSClient::Playlist::Sync,AUGGY,c
 Audio::XMMSClient::Playlist::Sync,BOBTFISH,c
 Audio::XMMSClient::Playlist::Sync,DOY,c
 Audio::XMMSClient::Playlist::Sync,DRUOSO,c
@@ -226,6 +230,7 @@ Audio::XMMSClient::Playlist::Sync,JROCKWAY,c
 Audio::XMMSClient::Playlist::Sync,SADRAK,c
 Audio::XMMSClient::Result,ARCANEZ,c
 Audio::XMMSClient::Result,ASH,c
+Audio::XMMSClient::Result,AUGGY,c
 Audio::XMMSClient::Result,BOBTFISH,c
 Audio::XMMSClient::Result,DOY,c
 Audio::XMMSClient::Result,DRUOSO,c
@@ -238,6 +243,7 @@ Audio::XMMSClient::Result,JROCKWAY,c
 Audio::XMMSClient::Result,SADRAK,c
 Audio::XMMSClient::Sync,ARCANEZ,c
 Audio::XMMSClient::Sync,ASH,c
+Audio::XMMSClient::Sync,AUGGY,c
 Audio::XMMSClient::Sync,BOBTFISH,c
 Audio::XMMSClient::Sync,DOY,c
 Audio::XMMSClient::Sync,DRUOSO,c
@@ -250,6 +256,7 @@ Audio::XMMSClient::Sync,JROCKWAY,c
 Audio::XMMSClient::Sync,SADRAK,c
 Audio::XMMSClient::XMLRPC,ARCANEZ,c
 Audio::XMMSClient::XMLRPC,ASH,c
+Audio::XMMSClient::XMLRPC,AUGGY,c
 Audio::XMMSClient::XMLRPC,BOBTFISH,c
 Audio::XMMSClient::XMLRPC,DOY,c
 Audio::XMMSClient::XMLRPC,DRUOSO,c

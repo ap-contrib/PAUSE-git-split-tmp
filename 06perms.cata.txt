@@ -613,6 +613,7 @@ Catalyst::TraitFor::Model::DBIC::Schema::WithCurrentUser,AMIRI,f
 Catalyst::TraitFor::Model::DBIC::Shortcut,CUB,f
 Catalyst::TraitFor::Request::BrowserDetect,ARCANEZ,c
 Catalyst::TraitFor::Request::BrowserDetect,ASH,c
+Catalyst::TraitFor::Request::BrowserDetect,AUGGY,c
 Catalyst::TraitFor::Request::BrowserDetect,BOBTFISH,c
 Catalyst::TraitFor::Request::BrowserDetect,DOY,c
 Catalyst::TraitFor::Request::BrowserDetect,DRUOSO,c
@@ -686,6 +687,7 @@ Catalyst::TraitFor::Request::REST::ForBrowsers,MRAMBERG,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,MSTROUT,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,RIBASUSHI,c
 Catalyst::TraitFor::Request::REST::ForBrowsers::AndPJAX,RSRCHBOY,f
+Catalyst::TraitFor::Request::XMLHttpRequest,AUGGY,c
 Catalyst::TraitFor::Request::XMLHttpRequest,DOY,c
 Catalyst::TraitFor::Request::XMLHttpRequest,DRUOSO,c
 Catalyst::TraitFor::Request::XMLHttpRequest,EDENC,c

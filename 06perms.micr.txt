@@ -1264,6 +1264,7 @@ Module::Install::Admin,INGY,c
 Module::Install::Admin,JESSE,c
 Module::Install::Admin::AuthorRequires,ARCANEZ,c
 Module::Install::Admin::AuthorRequires,ASH,c
+Module::Install::Admin::AuthorRequires,AUGGY,c
 Module::Install::Admin::AuthorRequires,BOBTFISH,c
 Module::Install::Admin::AuthorRequires,DOY,c
 Module::Install::Admin::AuthorRequires,DRUOSO,c
@@ -1321,6 +1322,7 @@ Module::Install::Any::Moose,DMAKI,f
 Module::Install::AssertOS,BINGOS,f
 Module::Install::AuthorRequires,ARCANEZ,c
 Module::Install::AuthorRequires,ASH,c
+Module::Install::AuthorRequires,AUGGY,c
 Module::Install::AuthorRequires,BOBTFISH,c
 Module::Install::AuthorRequires,DOY,c
 Module::Install::AuthorRequires,DRUOSO,c
@@ -1391,6 +1393,7 @@ Module::Install::Catalyst,SSCAFFIDI,c
 Module::Install::Catalyst,WSHELDAHL,c
 Module::Install::CheckConflicts,ARCANEZ,c
 Module::Install::CheckConflicts,ASH,c
+Module::Install::CheckConflicts,AUGGY,c
 Module::Install::CheckConflicts,BOBTFISH,c
 Module::Install::CheckConflicts,DOY,c
 Module::Install::CheckConflicts,DRUOSO,c
@@ -1489,6 +1492,7 @@ Module::Install::PRIVATE::Mongo,MINIMAL,f
 Module::Install::PRIVATE::Padre,SMUELLER,f
 Module::Install::PRIVATE::Phat,ARCANEZ,c
 Module::Install::PRIVATE::Phat,ASH,c
+Module::Install::PRIVATE::Phat,AUGGY,c
 Module::Install::PRIVATE::Phat,BOBTFISH,c
 Module::Install::PRIVATE::Phat,DOY,c
 Module::Install::PRIVATE::Phat,DRUOSO,c

@@ -38,6 +38,7 @@ showsource,LZE,c
 signals,AWIN,f
 signatures,ARCANEZ,c
 signatures,ASH,c
+signatures,AUGGY,c
 signatures,BOBTFISH,c
 signatures,DOY,c
 signatures,DRUOSO,c

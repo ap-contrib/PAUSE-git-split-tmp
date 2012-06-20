@@ -123,6 +123,7 @@ Net::Jabber::Log,HACKER,c
 Net::Jabber::Log,REATMON,c
 Net::Jabber::Loudmouth,ARCANEZ,c
 Net::Jabber::Loudmouth,ASH,c
+Net::Jabber::Loudmouth,AUGGY,c
 Net::Jabber::Loudmouth,BOBTFISH,c
 Net::Jabber::Loudmouth,DOY,c
 Net::Jabber::Loudmouth,DRUOSO,c

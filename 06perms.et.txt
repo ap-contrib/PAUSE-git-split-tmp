@@ -528,6 +528,7 @@ ExtUtils::AutoInstall,AUDREYT,c
 ExtUtils::AutoInstall,AUTRIJUS,m
 ExtUtils::Autoconf,ARCANEZ,c
 ExtUtils::Autoconf,ASH,c
+ExtUtils::Autoconf,AUGGY,c
 ExtUtils::Autoconf,BOBTFISH,c
 ExtUtils::Autoconf,DOY,c
 ExtUtils::Autoconf,DRUOSO,c

@@ -1103,6 +1103,7 @@ Wifi::WMod,SHY,f
 Wifi::WRoute,SHY,f
 Wifi::WpaCtrl,ARCANEZ,c
 Wifi::WpaCtrl,ASH,c
+Wifi::WpaCtrl,AUGGY,c
 Wifi::WpaCtrl,BOBTFISH,c
 Wifi::WpaCtrl,DOY,c
 Wifi::WpaCtrl,DRUOSO,c

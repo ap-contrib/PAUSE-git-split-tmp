@@ -468,6 +468,7 @@ mysubs,CHOCOLATE,f
 namespace,AMICHAUER,m
 namespace::alias,ARCANEZ,c
 namespace::alias,ASH,c
+namespace::alias,AUGGY,c
 namespace::alias,BOBTFISH,c
 namespace::alias,DOY,c
 namespace::alias,DRUOSO,c
@@ -476,6 +477,7 @@ namespace::alias,ETHER,c
 namespace::alias,FLORA,f
 namespace::autoclean,ARCANEZ,c
 namespace::autoclean,ASH,c
+namespace::autoclean,AUGGY,c
 namespace::autoclean,BOBTFISH,c
 namespace::autoclean,DOY,c
 namespace::autoclean,DRUOSO,c

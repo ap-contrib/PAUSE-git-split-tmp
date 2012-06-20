@@ -20,6 +20,7 @@ Catalyst::View::GraphViz,JOHANL,f
 Catalyst::View::Graphics::Primitive,GPHAT,f
 Catalyst::View::HTML::CTPP2,SHADOVV,f
 Catalyst::View::HTML::Embperl,ALET,f
+Catalyst::View::HTML::Mason,AUGGY,c
 Catalyst::View::HTML::Mason,EDENC,c
 Catalyst::View::HTML::Mason,ETHER,c
 Catalyst::View::HTML::Mason,FLORA,f
@@ -458,6 +459,7 @@ CatalystX::I18N::TraitFor::ViewTT,MAROS,f
 CatalystX::I18N::TypeConstraints,MAROS,f
 CatalystX::Imports,ARCANEZ,c
 CatalystX::Imports,ASH,c
+CatalystX::Imports,AUGGY,c
 CatalystX::Imports,BOBTFISH,c
 CatalystX::Imports,DOY,c
 CatalystX::Imports,DRUOSO,c
@@ -470,6 +472,7 @@ CatalystX::Imports,JROCKWAY,c
 CatalystX::Imports,SADRAK,c
 CatalystX::Imports::Context,ARCANEZ,c
 CatalystX::Imports::Context,ASH,c
+CatalystX::Imports::Context,AUGGY,c
 CatalystX::Imports::Context,BOBTFISH,c
 CatalystX::Imports::Context,DOY,c
 CatalystX::Imports::Context,DRUOSO,c
@@ -482,6 +485,7 @@ CatalystX::Imports::Context,JROCKWAY,c
 CatalystX::Imports::Context,SADRAK,c
 CatalystX::Imports::Context::Config,ARCANEZ,c
 CatalystX::Imports::Context::Config,ASH,c
+CatalystX::Imports::Context::Config,AUGGY,c
 CatalystX::Imports::Context::Config,BOBTFISH,c
 CatalystX::Imports::Context::Config,DOY,c
 CatalystX::Imports::Context::Config,DRUOSO,c
@@ -494,6 +498,7 @@ CatalystX::Imports::Context::Config,JROCKWAY,c
 CatalystX::Imports::Context::Config,SADRAK,c
 CatalystX::Imports::Context::Default,ARCANEZ,c
 CatalystX::Imports::Context::Default,ASH,c
+CatalystX::Imports::Context::Default,AUGGY,c
 CatalystX::Imports::Context::Default,BOBTFISH,c
 CatalystX::Imports::Context::Default,DOY,c
 CatalystX::Imports::Context::Default,DRUOSO,c
@@ -506,6 +511,7 @@ CatalystX::Imports::Context::Default,JROCKWAY,c
 CatalystX::Imports::Context::Default,SADRAK,c
 CatalystX::Imports::Vars,ARCANEZ,c
 CatalystX::Imports::Vars,ASH,c
+CatalystX::Imports::Vars,AUGGY,c
 CatalystX::Imports::Vars,BOBTFISH,c
 CatalystX::Imports::Vars,DOY,c
 CatalystX::Imports::Vars,DRUOSO,c
@@ -520,6 +526,7 @@ CatalystX::InjectComponent,RKRIMEN,c
 CatalystX::InjectComponent,ROKR,f
 CatalystX::LeakChecker,ARCANEZ,c
 CatalystX::LeakChecker,ASH,c
+CatalystX::LeakChecker,AUGGY,c
 CatalystX::LeakChecker,BOBTFISH,c
 CatalystX::LeakChecker,DOY,c
 CatalystX::LeakChecker,DRUOSO,c
@@ -599,6 +606,7 @@ CatalystX::Profile::Controller::ControlProfiling,CYCLES,f
 CatalystX::Profile::Controller::ControlProfiling,JJNAPIORK,c
 CatalystX::REPL,ARCANEZ,c
 CatalystX::REPL,ASH,c
+CatalystX::REPL,AUGGY,c
 CatalystX::REPL,BOBTFISH,c
 CatalystX::REPL,DOY,c
 CatalystX::REPL,DRUOSO,c
@@ -646,6 +654,7 @@ CatalystX::Script::Server::Starman,MSTROUT,c
 CatalystX::Script::Server::Starman,RIBASUSHI,c
 CatalystX::SimpleAPI,WREIS,f
 CatalystX::SimpleLogin,ARCANEZ,c
+CatalystX::SimpleLogin,AUGGY,c
 CatalystX::SimpleLogin,BOBTFISH,c
 CatalystX::SimpleLogin,DOY,c
 CatalystX::SimpleLogin,DRUOSO,c
@@ -653,6 +662,7 @@ CatalystX::SimpleLogin,EDENC,c
 CatalystX::SimpleLogin,ETHER,c
 CatalystX::SimpleLogin,FLORA,f
 CatalystX::SimpleLogin::Controller::Login,ARCANEZ,c
+CatalystX::SimpleLogin::Controller::Login,AUGGY,c
 CatalystX::SimpleLogin::Controller::Login,BOBTFISH,c
 CatalystX::SimpleLogin::Controller::Login,DOY,c
 CatalystX::SimpleLogin::Controller::Login,DRUOSO,c
@@ -660,6 +670,7 @@ CatalystX::SimpleLogin::Controller::Login,EDENC,c
 CatalystX::SimpleLogin::Controller::Login,ETHER,c
 CatalystX::SimpleLogin::Controller::Login,FLORA,f
 CatalystX::SimpleLogin::Form::Login,ARCANEZ,c
+CatalystX::SimpleLogin::Form::Login,AUGGY,c
 CatalystX::SimpleLogin::Form::Login,BOBTFISH,c
 CatalystX::SimpleLogin::Form::Login,DOY,c
 CatalystX::SimpleLogin::Form::Login,DRUOSO,c
@@ -680,6 +691,7 @@ CatalystX::SimpleLogin::Form::LoginOpenID,JJNAPIORK,c
 CatalystX::SimpleLogin::Form::LoginOpenID,MSTROUT,c
 CatalystX::SimpleLogin::Form::LoginOpenID,RIBASUSHI,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,ARCANEZ,c
+CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,AUGGY,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,BOBTFISH,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,DOY,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,DRUOSO,c
@@ -714,6 +726,7 @@ CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,JJNAPIOR
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,MSTROUT,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,RIBASUSHI,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::WithRedirect,ARCANEZ,c
+CatalystX::SimpleLogin::TraitFor::Controller::Login::WithRedirect,AUGGY,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::WithRedirect,BOBTFISH,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::WithRedirect,DOY,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::WithRedirect,DRUOSO,c

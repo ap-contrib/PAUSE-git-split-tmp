@@ -427,6 +427,7 @@ perl5lib,NOBULL,f
 perlcdio,ROCKY,f
 perlcdioc,ROCKY,f
 perlec,HIO,f
+perlfaq,AUGGY,c
 perlfaq,EDENC,c
 perlfaq,FLORA,f
 perlfaq,LLAP,c

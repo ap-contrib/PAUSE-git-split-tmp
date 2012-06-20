@@ -178,6 +178,7 @@ Plack::Test::Adopt::Catalyst,MIYAGAWA,f
 Plack::Test::Agent,CHROMATIC,f
 Plack::Test::AnyEvent,RHOELZ,f
 Plack::Test::ExternalServer,ARCANEZ,c
+Plack::Test::ExternalServer,AUGGY,c
 Plack::Test::ExternalServer,DOY,c
 Plack::Test::ExternalServer,DRUOSO,c
 Plack::Test::ExternalServer,EDENC,c

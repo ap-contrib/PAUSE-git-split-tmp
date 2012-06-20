@@ -631,6 +631,7 @@ Class::WeakSingleton,JJORE,f
 Class::Wheel,PLCGI,f
 Class::WhiteHole,MSCHWERN,m
 Class::Workflow,AUDREYT,c
+Class::Workflow,AUGGY,c
 Class::Workflow,BRICAS,c
 Class::Workflow,CODEREPOS,c
 Class::Workflow,DOY,c
@@ -643,6 +644,7 @@ Class::Workflow,NUFFIN,c
 Class::Workflow,SAMV,c
 Class::Workflow,STEVAN,c
 Class::Workflow::Context,AUDREYT,c
+Class::Workflow::Context,AUGGY,c
 Class::Workflow::Context,BRICAS,c
 Class::Workflow::Context,CODEREPOS,c
 Class::Workflow::Context,DOY,c
@@ -655,6 +657,7 @@ Class::Workflow::Context,NUFFIN,c
 Class::Workflow::Context,SAMV,c
 Class::Workflow::Context,STEVAN,c
 Class::Workflow::Environment,AUDREYT,c
+Class::Workflow::Environment,AUGGY,c
 Class::Workflow::Environment,BRICAS,c
 Class::Workflow::Environment,CODEREPOS,c
 Class::Workflow::Environment,DOY,c
@@ -667,6 +670,7 @@ Class::Workflow::Environment,NUFFIN,c
 Class::Workflow::Environment,SAMV,c
 Class::Workflow::Environment,STEVAN,c
 Class::Workflow::Instance,AUDREYT,c
+Class::Workflow::Instance,AUGGY,c
 Class::Workflow::Instance,BRICAS,c
 Class::Workflow::Instance,CODEREPOS,c
 Class::Workflow::Instance,DOY,c
@@ -679,6 +683,7 @@ Class::Workflow::Instance,NUFFIN,c
 Class::Workflow::Instance,SAMV,c
 Class::Workflow::Instance,STEVAN,c
 Class::Workflow::Instance::Simple,AUDREYT,c
+Class::Workflow::Instance::Simple,AUGGY,c
 Class::Workflow::Instance::Simple,BRICAS,c
 Class::Workflow::Instance::Simple,CODEREPOS,c
 Class::Workflow::Instance::Simple,DOY,c
@@ -691,6 +696,7 @@ Class::Workflow::Instance::Simple,NUFFIN,c
 Class::Workflow::Instance::Simple,SAMV,c
 Class::Workflow::Instance::Simple,STEVAN,c
 Class::Workflow::State,AUDREYT,c
+Class::Workflow::State,AUGGY,c
 Class::Workflow::State,BRICAS,c
 Class::Workflow::State,CODEREPOS,c
 Class::Workflow::State,DOY,c
@@ -703,6 +709,7 @@ Class::Workflow::State,NUFFIN,c
 Class::Workflow::State,SAMV,c
 Class::Workflow::State,STEVAN,c
 Class::Workflow::State::AcceptHooks,AUDREYT,c
+Class::Workflow::State::AcceptHooks,AUGGY,c
 Class::Workflow::State::AcceptHooks,BRICAS,c
 Class::Workflow::State::AcceptHooks,CODEREPOS,c
 Class::Workflow::State::AcceptHooks,DOY,c
@@ -715,6 +722,7 @@ Class::Workflow::State::AcceptHooks,NUFFIN,c
 Class::Workflow::State::AcceptHooks,SAMV,c
 Class::Workflow::State::AcceptHooks,STEVAN,c
 Class::Workflow::State::AutoApply,AUDREYT,c
+Class::Workflow::State::AutoApply,AUGGY,c
 Class::Workflow::State::AutoApply,BRICAS,c
 Class::Workflow::State::AutoApply,CODEREPOS,c
 Class::Workflow::State::AutoApply,DOY,c
@@ -727,6 +735,7 @@ Class::Workflow::State::AutoApply,NUFFIN,c
 Class::Workflow::State::AutoApply,SAMV,c
 Class::Workflow::State::AutoApply,STEVAN,c
 Class::Workflow::State::Simple,AUDREYT,c
+Class::Workflow::State::Simple,AUGGY,c
 Class::Workflow::State::Simple,BRICAS,c
 Class::Workflow::State::Simple,CODEREPOS,c
 Class::Workflow::State::Simple,DOY,c
@@ -739,6 +748,7 @@ Class::Workflow::State::Simple,NUFFIN,c
 Class::Workflow::State::Simple,SAMV,c
 Class::Workflow::State::Simple,STEVAN,c
 Class::Workflow::State::TransitionHash,AUDREYT,c
+Class::Workflow::State::TransitionHash,AUGGY,c
 Class::Workflow::State::TransitionHash,BRICAS,c
 Class::Workflow::State::TransitionHash,CODEREPOS,c
 Class::Workflow::State::TransitionHash,DOY,c
@@ -751,6 +761,7 @@ Class::Workflow::State::TransitionHash,NUFFIN,c
 Class::Workflow::State::TransitionHash,SAMV,c
 Class::Workflow::State::TransitionHash,STEVAN,c
 Class::Workflow::State::TransitionSet,AUDREYT,c
+Class::Workflow::State::TransitionSet,AUGGY,c
 Class::Workflow::State::TransitionSet,BRICAS,c
 Class::Workflow::State::TransitionSet,CODEREPOS,c
 Class::Workflow::State::TransitionSet,DOY,c
@@ -763,6 +774,7 @@ Class::Workflow::State::TransitionSet,NUFFIN,c
 Class::Workflow::State::TransitionSet,SAMV,c
 Class::Workflow::State::TransitionSet,STEVAN,c
 Class::Workflow::Transition,AUDREYT,c
+Class::Workflow::Transition,AUGGY,c
 Class::Workflow::Transition,BRICAS,c
 Class::Workflow::Transition,CODEREPOS,c
 Class::Workflow::Transition,DOY,c
@@ -775,6 +787,7 @@ Class::Workflow::Transition,NUFFIN,c
 Class::Workflow::Transition,SAMV,c
 Class::Workflow::Transition,STEVAN,c
 Class::Workflow::Transition::Deterministic,AUDREYT,c
+Class::Workflow::Transition::Deterministic,AUGGY,c
 Class::Workflow::Transition::Deterministic,BRICAS,c
 Class::Workflow::Transition::Deterministic,CODEREPOS,c
 Class::Workflow::Transition::Deterministic,DOY,c
@@ -787,6 +800,7 @@ Class::Workflow::Transition::Deterministic,NUFFIN,c
 Class::Workflow::Transition::Deterministic,SAMV,c
 Class::Workflow::Transition::Deterministic,STEVAN,c
 Class::Workflow::Transition::Simple,AUDREYT,c
+Class::Workflow::Transition::Simple,AUGGY,c
 Class::Workflow::Transition::Simple,BRICAS,c
 Class::Workflow::Transition::Simple,CODEREPOS,c
 Class::Workflow::Transition::Simple,DOY,c
@@ -799,6 +813,7 @@ Class::Workflow::Transition::Simple,NUFFIN,c
 Class::Workflow::Transition::Simple,SAMV,c
 Class::Workflow::Transition::Simple,STEVAN,c
 Class::Workflow::Transition::Strict,AUDREYT,c
+Class::Workflow::Transition::Strict,AUGGY,c
 Class::Workflow::Transition::Strict,BRICAS,c
 Class::Workflow::Transition::Strict,CODEREPOS,c
 Class::Workflow::Transition::Strict,DOY,c
@@ -811,6 +826,7 @@ Class::Workflow::Transition::Strict,NUFFIN,c
 Class::Workflow::Transition::Strict,SAMV,c
 Class::Workflow::Transition::Strict,STEVAN,c
 Class::Workflow::Transition::Validate,AUDREYT,c
+Class::Workflow::Transition::Validate,AUGGY,c
 Class::Workflow::Transition::Validate,BRICAS,c
 Class::Workflow::Transition::Validate,CODEREPOS,c
 Class::Workflow::Transition::Validate,DOY,c
@@ -823,6 +839,7 @@ Class::Workflow::Transition::Validate,NUFFIN,c
 Class::Workflow::Transition::Validate,SAMV,c
 Class::Workflow::Transition::Validate,STEVAN,c
 Class::Workflow::Transition::Validate::Simple,AUDREYT,c
+Class::Workflow::Transition::Validate::Simple,AUGGY,c
 Class::Workflow::Transition::Validate::Simple,BRICAS,c
 Class::Workflow::Transition::Validate::Simple,CODEREPOS,c
 Class::Workflow::Transition::Validate::Simple,DOY,c
@@ -835,6 +852,7 @@ Class::Workflow::Transition::Validate::Simple,NUFFIN,c
 Class::Workflow::Transition::Validate::Simple,SAMV,c
 Class::Workflow::Transition::Validate::Simple,STEVAN,c
 Class::Workflow::Util::Delta,AUDREYT,c
+Class::Workflow::Util::Delta,AUGGY,c
 Class::Workflow::Util::Delta,BRICAS,c
 Class::Workflow::Util::Delta,CODEREPOS,c
 Class::Workflow::Util::Delta,DOY,c
@@ -847,6 +865,7 @@ Class::Workflow::Util::Delta,NUFFIN,c
 Class::Workflow::Util::Delta,SAMV,c
 Class::Workflow::Util::Delta,STEVAN,c
 Class::Workflow::YAML,AUDREYT,c
+Class::Workflow::YAML,AUGGY,c
 Class::Workflow::YAML,BRICAS,c
 Class::Workflow::YAML,CODEREPOS,c
 Class::Workflow::YAML,DOY,c

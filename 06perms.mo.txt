@@ -69,6 +69,7 @@ Money::PaymentPreparer,UKSZA,f
 MoneyWorks,SPROUT,m
 MongoDB,ARCANEZ,c
 MongoDB,ASH,c
+MongoDB,AUGGY,c
 MongoDB,BOBTFISH,c
 MongoDB,DOY,c
 MongoDB,DRUOSO,c
@@ -92,6 +93,7 @@ MongoDB::BSON,KRISTINA,f
 MongoDB::Code,KRISTINA,f
 MongoDB::Collection,ARCANEZ,c
 MongoDB::Collection,ASH,c
+MongoDB::Collection,AUGGY,c
 MongoDB::Collection,BOBTFISH,c
 MongoDB::Collection,DOY,c
 MongoDB::Collection,DRUOSO,c
@@ -100,6 +102,7 @@ MongoDB::Collection,FLORA,f
 MongoDB::Collection,KRISTINA,c
 MongoDB::Connection,ARCANEZ,c
 MongoDB::Connection,ASH,c
+MongoDB::Connection,AUGGY,c
 MongoDB::Connection,BOBTFISH,c
 MongoDB::Connection,DOY,c
 MongoDB::Connection,DRUOSO,c
@@ -108,6 +111,7 @@ MongoDB::Connection,FLORA,f
 MongoDB::Connection,KRISTINA,c
 MongoDB::Cursor,ARCANEZ,c
 MongoDB::Cursor,ASH,c
+MongoDB::Cursor,AUGGY,c
 MongoDB::Cursor,BOBTFISH,c
 MongoDB::Cursor,DOY,c
 MongoDB::Cursor,DRUOSO,c
@@ -116,6 +120,7 @@ MongoDB::Cursor,FLORA,f
 MongoDB::Cursor,KRISTINA,c
 MongoDB::Database,ARCANEZ,c
 MongoDB::Database,ASH,c
+MongoDB::Database,AUGGY,c
 MongoDB::Database,BOBTFISH,c
 MongoDB::Database,DOY,c
 MongoDB::Database,DRUOSO,c
@@ -126,6 +131,7 @@ MongoDB::GridFS,KRISTINA,f
 MongoDB::GridFS::File,KRISTINA,f
 MongoDB::OID,ARCANEZ,c
 MongoDB::OID,ASH,c
+MongoDB::OID,AUGGY,c
 MongoDB::OID,BOBTFISH,c
 MongoDB::OID,DOY,c
 MongoDB::OID,DRUOSO,c

@@ -234,6 +234,7 @@ App::SocialSKK::Plugin::Wikipedia,KENTARO,f
 App::SocialSKK::Protocol,KENTARO,f
 App::Software::License,ARCANEZ,c
 App::Software::License,ASH,c
+App::Software::License,AUGGY,c
 App::Software::License,BOBTFISH,c
 App::Software::License,DOY,c
 App::Software::License,DRUOSO,c

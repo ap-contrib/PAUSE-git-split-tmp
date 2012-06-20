@@ -33,6 +33,7 @@ Class::C3,RKINYON,c
 Class::C3,STEVAN,f
 Class::C3::Adopt::NEXT,ARCANEZ,c
 Class::C3::Adopt::NEXT,ASH,c
+Class::C3::Adopt::NEXT,AUGGY,c
 Class::C3::Adopt::NEXT,BOBTFISH,c
 Class::C3::Adopt::NEXT,DOY,c
 Class::C3::Adopt::NEXT,DRUOSO,c
@@ -51,6 +52,7 @@ Class::C3::Componentised,RIBASUSHI,c
 Class::C3::Componentised::ApplyHooks,FREW,f
 Class::C3::XS,ARCANEZ,c
 Class::C3::XS,ASH,c
+Class::C3::XS,AUGGY,c
 Class::C3::XS,BLBLACK,c
 Class::C3::XS,BOBTFISH,c
 Class::C3::XS,DOY,c

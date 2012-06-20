@@ -90,6 +90,7 @@ MooseX::Daemonize::WithPidFile,PERIGRIN,c
 MooseX::Daemonize::WithPidFile,STEVAN,f
 MooseX::Declare,ARCANEZ,c
 MooseX::Declare,ASH,c
+MooseX::Declare,AUGGY,c
 MooseX::Declare,BOBTFISH,c
 MooseX::Declare,DOY,c
 MooseX::Declare,DRUOSO,c
@@ -104,6 +105,7 @@ MooseX::Declare,JROCKWAY,c
 MooseX::Declare,SADRAK,c
 MooseX::Declare::Context,ARCANEZ,c
 MooseX::Declare::Context,ASH,c
+MooseX::Declare::Context,AUGGY,c
 MooseX::Declare::Context,BOBTFISH,c
 MooseX::Declare::Context,DOY,c
 MooseX::Declare::Context,DRUOSO,c
@@ -116,6 +118,7 @@ MooseX::Declare::Context,JJNAPIORK,c
 MooseX::Declare::Context,SADRAK,c
 MooseX::Declare::Context::Namespaced,ARCANEZ,c
 MooseX::Declare::Context::Namespaced,ASH,c
+MooseX::Declare::Context::Namespaced,AUGGY,c
 MooseX::Declare::Context::Namespaced,BOBTFISH,c
 MooseX::Declare::Context::Namespaced,DOY,c
 MooseX::Declare::Context::Namespaced,DRUOSO,c
@@ -126,6 +129,7 @@ MooseX::Declare::Context::Namespaced,GPHAT,c
 MooseX::Declare::Context::Namespaced,ILMARI,c
 MooseX::Declare::Context::Parameterized,ARCANEZ,c
 MooseX::Declare::Context::Parameterized,ASH,c
+MooseX::Declare::Context::Parameterized,AUGGY,c
 MooseX::Declare::Context::Parameterized,BOBTFISH,c
 MooseX::Declare::Context::Parameterized,DOY,c
 MooseX::Declare::Context::Parameterized,DRUOSO,c
@@ -135,6 +139,7 @@ MooseX::Declare::Context::Parameterized,FLORA,f
 MooseX::Declare::Context::Parameterized,ILMARI,c
 MooseX::Declare::Context::WithOptions,ARCANEZ,c
 MooseX::Declare::Context::WithOptions,ASH,c
+MooseX::Declare::Context::WithOptions,AUGGY,c
 MooseX::Declare::Context::WithOptions,BOBTFISH,c
 MooseX::Declare::Context::WithOptions,DOY,c
 MooseX::Declare::Context::WithOptions,DRUOSO,c
@@ -145,6 +150,7 @@ MooseX::Declare::Context::WithOptions,GPHAT,c
 MooseX::Declare::Context::WithOptions,ILMARI,c
 MooseX::Declare::StackItem,ARCANEZ,c
 MooseX::Declare::StackItem,ASH,c
+MooseX::Declare::StackItem,AUGGY,c
 MooseX::Declare::StackItem,BOBTFISH,c
 MooseX::Declare::StackItem,DOY,c
 MooseX::Declare::StackItem,DRUOSO,c
@@ -155,6 +161,7 @@ MooseX::Declare::StackItem,GPHAT,c
 MooseX::Declare::StackItem,ILMARI,c
 MooseX::Declare::Syntax::EmptyBlockIfMissing,ARCANEZ,c
 MooseX::Declare::Syntax::EmptyBlockIfMissing,ASH,c
+MooseX::Declare::Syntax::EmptyBlockIfMissing,AUGGY,c
 MooseX::Declare::Syntax::EmptyBlockIfMissing,BOBTFISH,c
 MooseX::Declare::Syntax::EmptyBlockIfMissing,DOY,c
 MooseX::Declare::Syntax::EmptyBlockIfMissing,DRUOSO,c
@@ -165,6 +172,7 @@ MooseX::Declare::Syntax::EmptyBlockIfMissing,GPHAT,c
 MooseX::Declare::Syntax::EmptyBlockIfMissing,ILMARI,c
 MooseX::Declare::Syntax::Extending,ARCANEZ,c
 MooseX::Declare::Syntax::Extending,ASH,c
+MooseX::Declare::Syntax::Extending,AUGGY,c
 MooseX::Declare::Syntax::Extending,BOBTFISH,c
 MooseX::Declare::Syntax::Extending,DOY,c
 MooseX::Declare::Syntax::Extending,DRUOSO,c
@@ -175,6 +183,7 @@ MooseX::Declare::Syntax::Extending,GPHAT,c
 MooseX::Declare::Syntax::Extending,ILMARI,c
 MooseX::Declare::Syntax::InnerSyntaxHandling,ARCANEZ,c
 MooseX::Declare::Syntax::InnerSyntaxHandling,ASH,c
+MooseX::Declare::Syntax::InnerSyntaxHandling,AUGGY,c
 MooseX::Declare::Syntax::InnerSyntaxHandling,BOBTFISH,c
 MooseX::Declare::Syntax::InnerSyntaxHandling,DOY,c
 MooseX::Declare::Syntax::InnerSyntaxHandling,DRUOSO,c
@@ -185,6 +194,7 @@ MooseX::Declare::Syntax::InnerSyntaxHandling,GPHAT,c
 MooseX::Declare::Syntax::InnerSyntaxHandling,ILMARI,c
 MooseX::Declare::Syntax::Keyword::Class,ARCANEZ,c
 MooseX::Declare::Syntax::Keyword::Class,ASH,c
+MooseX::Declare::Syntax::Keyword::Class,AUGGY,c
 MooseX::Declare::Syntax::Keyword::Class,BOBTFISH,c
 MooseX::Declare::Syntax::Keyword::Class,DOY,c
 MooseX::Declare::Syntax::Keyword::Class,DRUOSO,c
@@ -195,6 +205,7 @@ MooseX::Declare::Syntax::Keyword::Class,GPHAT,c
 MooseX::Declare::Syntax::Keyword::Class,ILMARI,c
 MooseX::Declare::Syntax::Keyword::Clean,ARCANEZ,c
 MooseX::Declare::Syntax::Keyword::Clean,ASH,c
+MooseX::Declare::Syntax::Keyword::Clean,AUGGY,c
 MooseX::Declare::Syntax::Keyword::Clean,BOBTFISH,c
 MooseX::Declare::Syntax::Keyword::Clean,DOY,c
 MooseX::Declare::Syntax::Keyword::Clean,DRUOSO,c
@@ -205,6 +216,7 @@ MooseX::Declare::Syntax::Keyword::Clean,GPHAT,c
 MooseX::Declare::Syntax::Keyword::Clean,ILMARI,c
 MooseX::Declare::Syntax::Keyword::Method,ARCANEZ,c
 MooseX::Declare::Syntax::Keyword::Method,ASH,c
+MooseX::Declare::Syntax::Keyword::Method,AUGGY,c
 MooseX::Declare::Syntax::Keyword::Method,BOBTFISH,c
 MooseX::Declare::Syntax::Keyword::Method,DOY,c
 MooseX::Declare::Syntax::Keyword::Method,DRUOSO,c
@@ -215,6 +227,7 @@ MooseX::Declare::Syntax::Keyword::Method,GPHAT,c
 MooseX::Declare::Syntax::Keyword::Method,ILMARI,c
 MooseX::Declare::Syntax::Keyword::MethodModifier,ARCANEZ,c
 MooseX::Declare::Syntax::Keyword::MethodModifier,ASH,c
+MooseX::Declare::Syntax::Keyword::MethodModifier,AUGGY,c
 MooseX::Declare::Syntax::Keyword::MethodModifier,BOBTFISH,c
 MooseX::Declare::Syntax::Keyword::MethodModifier,DOY,c
 MooseX::Declare::Syntax::Keyword::MethodModifier,DRUOSO,c
@@ -225,6 +238,7 @@ MooseX::Declare::Syntax::Keyword::MethodModifier,GPHAT,c
 MooseX::Declare::Syntax::Keyword::MethodModifier,ILMARI,c
 MooseX::Declare::Syntax::Keyword::Namespace,ARCANEZ,c
 MooseX::Declare::Syntax::Keyword::Namespace,ASH,c
+MooseX::Declare::Syntax::Keyword::Namespace,AUGGY,c
 MooseX::Declare::Syntax::Keyword::Namespace,BOBTFISH,c
 MooseX::Declare::Syntax::Keyword::Namespace,DOY,c
 MooseX::Declare::Syntax::Keyword::Namespace,DRUOSO,c
@@ -234,6 +248,7 @@ MooseX::Declare::Syntax::Keyword::Namespace,FLORA,f
 MooseX::Declare::Syntax::Keyword::Namespace,ILMARI,c
 MooseX::Declare::Syntax::Keyword::Role,ARCANEZ,c
 MooseX::Declare::Syntax::Keyword::Role,ASH,c
+MooseX::Declare::Syntax::Keyword::Role,AUGGY,c
 MooseX::Declare::Syntax::Keyword::Role,BOBTFISH,c
 MooseX::Declare::Syntax::Keyword::Role,DOY,c
 MooseX::Declare::Syntax::Keyword::Role,DRUOSO,c
@@ -244,6 +259,7 @@ MooseX::Declare::Syntax::Keyword::Role,GPHAT,c
 MooseX::Declare::Syntax::Keyword::Role,ILMARI,c
 MooseX::Declare::Syntax::Keyword::With,ARCANEZ,c
 MooseX::Declare::Syntax::Keyword::With,ASH,c
+MooseX::Declare::Syntax::Keyword::With,AUGGY,c
 MooseX::Declare::Syntax::Keyword::With,BOBTFISH,c
 MooseX::Declare::Syntax::Keyword::With,DOY,c
 MooseX::Declare::Syntax::Keyword::With,DRUOSO,c
@@ -253,6 +269,7 @@ MooseX::Declare::Syntax::Keyword::With,FLORA,f
 MooseX::Declare::Syntax::Keyword::With,ILMARI,c
 MooseX::Declare::Syntax::KeywordHandling,ARCANEZ,c
 MooseX::Declare::Syntax::KeywordHandling,ASH,c
+MooseX::Declare::Syntax::KeywordHandling,AUGGY,c
 MooseX::Declare::Syntax::KeywordHandling,BOBTFISH,c
 MooseX::Declare::Syntax::KeywordHandling,DOY,c
 MooseX::Declare::Syntax::KeywordHandling,DRUOSO,c
@@ -263,6 +280,7 @@ MooseX::Declare::Syntax::KeywordHandling,GPHAT,c
 MooseX::Declare::Syntax::KeywordHandling,ILMARI,c
 MooseX::Declare::Syntax::MethodDeclaration,ARCANEZ,c
 MooseX::Declare::Syntax::MethodDeclaration,ASH,c
+MooseX::Declare::Syntax::MethodDeclaration,AUGGY,c
 MooseX::Declare::Syntax::MethodDeclaration,BOBTFISH,c
 MooseX::Declare::Syntax::MethodDeclaration,DOY,c
 MooseX::Declare::Syntax::MethodDeclaration,DRUOSO,c
@@ -273,6 +291,7 @@ MooseX::Declare::Syntax::MethodDeclaration,GPHAT,c
 MooseX::Declare::Syntax::MethodDeclaration,ILMARI,c
 MooseX::Declare::Syntax::MethodDeclaration::Parameterized,ARCANEZ,c
 MooseX::Declare::Syntax::MethodDeclaration::Parameterized,ASH,c
+MooseX::Declare::Syntax::MethodDeclaration::Parameterized,AUGGY,c
 MooseX::Declare::Syntax::MethodDeclaration::Parameterized,BOBTFISH,c
 MooseX::Declare::Syntax::MethodDeclaration::Parameterized,DOY,c
 MooseX::Declare::Syntax::MethodDeclaration::Parameterized,DRUOSO,c
@@ -282,6 +301,7 @@ MooseX::Declare::Syntax::MethodDeclaration::Parameterized,FLORA,f
 MooseX::Declare::Syntax::MethodDeclaration::Parameterized,ILMARI,c
 MooseX::Declare::Syntax::MooseSetup,ARCANEZ,c
 MooseX::Declare::Syntax::MooseSetup,ASH,c
+MooseX::Declare::Syntax::MooseSetup,AUGGY,c
 MooseX::Declare::Syntax::MooseSetup,BOBTFISH,c
 MooseX::Declare::Syntax::MooseSetup,DOY,c
 MooseX::Declare::Syntax::MooseSetup,DRUOSO,c
@@ -292,6 +312,7 @@ MooseX::Declare::Syntax::MooseSetup,GPHAT,c
 MooseX::Declare::Syntax::MooseSetup,ILMARI,c
 MooseX::Declare::Syntax::NamespaceHandling,ARCANEZ,c
 MooseX::Declare::Syntax::NamespaceHandling,ASH,c
+MooseX::Declare::Syntax::NamespaceHandling,AUGGY,c
 MooseX::Declare::Syntax::NamespaceHandling,BOBTFISH,c
 MooseX::Declare::Syntax::NamespaceHandling,DOY,c
 MooseX::Declare::Syntax::NamespaceHandling,DRUOSO,c
@@ -302,6 +323,7 @@ MooseX::Declare::Syntax::NamespaceHandling,GPHAT,c
 MooseX::Declare::Syntax::NamespaceHandling,ILMARI,c
 MooseX::Declare::Syntax::OptionHandling,ARCANEZ,c
 MooseX::Declare::Syntax::OptionHandling,ASH,c
+MooseX::Declare::Syntax::OptionHandling,AUGGY,c
 MooseX::Declare::Syntax::OptionHandling,BOBTFISH,c
 MooseX::Declare::Syntax::OptionHandling,DOY,c
 MooseX::Declare::Syntax::OptionHandling,DRUOSO,c
@@ -312,6 +334,7 @@ MooseX::Declare::Syntax::OptionHandling,GPHAT,c
 MooseX::Declare::Syntax::OptionHandling,ILMARI,c
 MooseX::Declare::Syntax::RoleApplication,ARCANEZ,c
 MooseX::Declare::Syntax::RoleApplication,ASH,c
+MooseX::Declare::Syntax::RoleApplication,AUGGY,c
 MooseX::Declare::Syntax::RoleApplication,BOBTFISH,c
 MooseX::Declare::Syntax::RoleApplication,DOY,c
 MooseX::Declare::Syntax::RoleApplication,DRUOSO,c
@@ -322,6 +345,7 @@ MooseX::Declare::Syntax::RoleApplication,GPHAT,c
 MooseX::Declare::Syntax::RoleApplication,ILMARI,c
 MooseX::Declare::Util,ARCANEZ,c
 MooseX::Declare::Util,ASH,c
+MooseX::Declare::Util,AUGGY,c
 MooseX::Declare::Util,BOBTFISH,c
 MooseX::Declare::Util,DOY,c
 MooseX::Declare::Util,DRUOSO,c
@@ -551,6 +575,7 @@ MooseX::LazyLogDispatch::Levels,BOBTFISH,c
 MooseX::LazyLogDispatch::Levels,STEVAN,f
 MooseX::LazyRequire,ARCANEZ,c
 MooseX::LazyRequire,ASH,c
+MooseX::LazyRequire,AUGGY,c
 MooseX::LazyRequire,BOBTFISH,c
 MooseX::LazyRequire,DOY,c
 MooseX::LazyRequire,DRUOSO,c
@@ -559,6 +584,7 @@ MooseX::LazyRequire,ETHER,c
 MooseX::LazyRequire,FLORA,f
 MooseX::LazyRequire::Meta::Attribute::Trait::LazyRequire,ARCANEZ,c
 MooseX::LazyRequire::Meta::Attribute::Trait::LazyRequire,ASH,c
+MooseX::LazyRequire::Meta::Attribute::Trait::LazyRequire,AUGGY,c
 MooseX::LazyRequire::Meta::Attribute::Trait::LazyRequire,BOBTFISH,c
 MooseX::LazyRequire::Meta::Attribute::Trait::LazyRequire,DOY,c
 MooseX::LazyRequire::Meta::Attribute::Trait::LazyRequire,DRUOSO,c
@@ -572,6 +598,7 @@ MooseX::LeakCheck::Meta::Attribute,EXODIST,f
 MooseX::LeakCheck::Meta::Base,EXODIST,f
 MooseX::Lexical::Types,ARCANEZ,c
 MooseX::Lexical::Types,ASH,c
+MooseX::Lexical::Types,AUGGY,c
 MooseX::Lexical::Types,BOBTFISH,c
 MooseX::Lexical::Types,DOY,c
 MooseX::Lexical::Types,DRUOSO,c
@@ -581,6 +608,7 @@ MooseX::Lexical::Types,FLORA,f
 MooseX::Lexical::Types,PERIGRIN,c
 MooseX::Lexical::Types::TypeDecorator,ARCANEZ,c
 MooseX::Lexical::Types::TypeDecorator,ASH,c
+MooseX::Lexical::Types::TypeDecorator,AUGGY,c
 MooseX::Lexical::Types::TypeDecorator,BOBTFISH,c
 MooseX::Lexical::Types::TypeDecorator,DOY,c
 MooseX::Lexical::Types::TypeDecorator,DRUOSO,c
@@ -590,6 +618,7 @@ MooseX::Lexical::Types::TypeDecorator,FLORA,f
 MooseX::Lexical::Types::TypeDecorator,PERIGRIN,c
 MooseX::Lexical::Types::TypedScalar,ARCANEZ,c
 MooseX::Lexical::Types::TypedScalar,ASH,c
+MooseX::Lexical::Types::TypedScalar,AUGGY,c
 MooseX::Lexical::Types::TypedScalar,BOBTFISH,c
 MooseX::Lexical::Types::TypedScalar,DOY,c
 MooseX::Lexical::Types::TypedScalar,DRUOSO,c
@@ -598,6 +627,7 @@ MooseX::Lexical::Types::TypedScalar,ETHER,c
 MooseX::Lexical::Types::TypedScalar,FLORA,f
 MooseX::Lexical::Types::TypedScalar,PERIGRIN,c
 MooseX::LexicalRoleApplication,ARCANEZ,c
+MooseX::LexicalRoleApplication,AUGGY,c
 MooseX::LexicalRoleApplication,BOBTFISH,c
 MooseX::LexicalRoleApplication,DOY,c
 MooseX::LexicalRoleApplication,DRUOSO,c

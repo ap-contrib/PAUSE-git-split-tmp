@@ -527,6 +527,7 @@ Sub::Prepend,LODIN,f
 Sub::Private,PMAKHOLM,m
 Sub::Prototype,ARCANEZ,c
 Sub::Prototype,ASH,c
+Sub::Prototype,AUGGY,c
 Sub::Prototype,BOBTFISH,c
 Sub::Prototype,DOY,c
 Sub::Prototype,DRUOSO,c

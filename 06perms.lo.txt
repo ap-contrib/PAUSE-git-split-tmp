@@ -270,6 +270,7 @@ Log::Dispatch::DBI,DMUEY,c
 Log::Dispatch::DBI,MIYAGAWA,f
 Log::Dispatch::DesktopNotification,ARCANEZ,c
 Log::Dispatch::DesktopNotification,ASH,c
+Log::Dispatch::DesktopNotification,AUGGY,c
 Log::Dispatch::DesktopNotification,BOBTFISH,c
 Log::Dispatch::DesktopNotification,DOY,c
 Log::Dispatch::DesktopNotification,DRUOSO,c
@@ -315,6 +316,7 @@ Log::Dispatch::FogBugz,DIMARTINO,m
 Log::Dispatch::Growl,GUGOD,f
 Log::Dispatch::Gtk2::Notify,ARCANEZ,c
 Log::Dispatch::Gtk2::Notify,ASH,c
+Log::Dispatch::Gtk2::Notify,AUGGY,c
 Log::Dispatch::Gtk2::Notify,BOBTFISH,c
 Log::Dispatch::Gtk2::Notify,DOY,c
 Log::Dispatch::Gtk2::Notify,DRUOSO,c
@@ -327,6 +329,7 @@ Log::Dispatch::Gtk2::Notify,JROCKWAY,c
 Log::Dispatch::Gtk2::Notify,SADRAK,c
 Log::Dispatch::Gtk2::Notify::Types,ARCANEZ,c
 Log::Dispatch::Gtk2::Notify::Types,ASH,c
+Log::Dispatch::Gtk2::Notify::Types,AUGGY,c
 Log::Dispatch::Gtk2::Notify::Types,BOBTFISH,c
 Log::Dispatch::Gtk2::Notify::Types,DOY,c
 Log::Dispatch::Gtk2::Notify::Types,DRUOSO,c

@@ -909,6 +909,7 @@ Tie::RefHash,NUFFIN,f
 Tie::RefHash,SAMV,c
 Tie::RefHash,STEVAN,c
 Tie::RefHash,perl,c
+Tie::RefHash::Nestable,AUGGY,c
 Tie::RefHash::Nestable,EDENC,c
 Tie::RefHash::Nestable,FLORA,f
 Tie::RefHash::Weak,AUDREYT,c

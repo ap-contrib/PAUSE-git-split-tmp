@@ -402,6 +402,7 @@ Audio::FLAC::Decoder,DANIEL,m
 Audio::FLAC::Header,DANIEL,m
 Audio::File,ARCANEZ,c
 Audio::File,ASH,c
+Audio::File,AUGGY,c
 Audio::File,BOBTFISH,c
 Audio::File,DOY,c
 Audio::File,DRUOSO,c
@@ -415,6 +416,7 @@ Audio::File,SADRAK,c
 Audio::File,SCRUBB,c
 Audio::File::AudioProperties,ARCANEZ,c
 Audio::File::AudioProperties,ASH,c
+Audio::File::AudioProperties,AUGGY,c
 Audio::File::AudioProperties,BOBTFISH,c
 Audio::File::AudioProperties,DOY,c
 Audio::File::AudioProperties,DRUOSO,c
@@ -428,6 +430,7 @@ Audio::File::AudioProperties,SADRAK,c
 Audio::File::AudioProperties,SCRUBB,c
 Audio::File::Flac,ARCANEZ,c
 Audio::File::Flac,ASH,c
+Audio::File::Flac,AUGGY,c
 Audio::File::Flac,BOBTFISH,c
 Audio::File::Flac,DOY,c
 Audio::File::Flac,DRUOSO,c
@@ -441,6 +444,7 @@ Audio::File::Flac,SADRAK,c
 Audio::File::Flac,SCRUBB,c
 Audio::File::Flac::AudioProperties,ARCANEZ,c
 Audio::File::Flac::AudioProperties,ASH,c
+Audio::File::Flac::AudioProperties,AUGGY,c
 Audio::File::Flac::AudioProperties,BOBTFISH,c
 Audio::File::Flac::AudioProperties,DOY,c
 Audio::File::Flac::AudioProperties,DRUOSO,c
@@ -454,6 +458,7 @@ Audio::File::Flac::AudioProperties,SADRAK,c
 Audio::File::Flac::AudioProperties,SCRUBB,c
 Audio::File::Flac::Tag,ARCANEZ,c
 Audio::File::Flac::Tag,ASH,c
+Audio::File::Flac::Tag,AUGGY,c
 Audio::File::Flac::Tag,BOBTFISH,c
 Audio::File::Flac::Tag,DOY,c
 Audio::File::Flac::Tag,DRUOSO,c
@@ -467,6 +472,7 @@ Audio::File::Flac::Tag,SADRAK,c
 Audio::File::Flac::Tag,SCRUBB,c
 Audio::File::MP3,ARCANEZ,c
 Audio::File::MP3,ASH,c
+Audio::File::MP3,AUGGY,c
 Audio::File::MP3,BOBTFISH,c
 Audio::File::MP3,DOY,c
 Audio::File::MP3,DRUOSO,c
@@ -480,6 +486,7 @@ Audio::File::MP3,SADRAK,c
 Audio::File::MP3,SCRUBB,c
 Audio::File::MP3::AudioProperties,ARCANEZ,c
 Audio::File::MP3::AudioProperties,ASH,c
+Audio::File::MP3::AudioProperties,AUGGY,c
 Audio::File::MP3::AudioProperties,BOBTFISH,c
 Audio::File::MP3::AudioProperties,DOY,c
 Audio::File::MP3::AudioProperties,DRUOSO,c
@@ -493,6 +500,7 @@ Audio::File::MP3::AudioProperties,SADRAK,c
 Audio::File::MP3::AudioProperties,SCRUBB,c
 Audio::File::MP3::Tag,ARCANEZ,c
 Audio::File::MP3::Tag,ASH,c
+Audio::File::MP3::Tag,AUGGY,c
 Audio::File::MP3::Tag,BOBTFISH,c
 Audio::File::MP3::Tag,DOY,c
 Audio::File::MP3::Tag,DRUOSO,c
@@ -506,6 +514,7 @@ Audio::File::MP3::Tag,SADRAK,c
 Audio::File::MP3::Tag,SCRUBB,c
 Audio::File::Mp3,ARCANEZ,c
 Audio::File::Mp3,ASH,c
+Audio::File::Mp3,AUGGY,c
 Audio::File::Mp3,BOBTFISH,c
 Audio::File::Mp3,DOY,c
 Audio::File::Mp3,DRUOSO,c
@@ -519,6 +528,7 @@ Audio::File::Mp3,SADRAK,c
 Audio::File::Mp3,SCRUBB,c
 Audio::File::Mp3::AudioProperties,ARCANEZ,c
 Audio::File::Mp3::AudioProperties,ASH,c
+Audio::File::Mp3::AudioProperties,AUGGY,c
 Audio::File::Mp3::AudioProperties,BOBTFISH,c
 Audio::File::Mp3::AudioProperties,DOY,c
 Audio::File::Mp3::AudioProperties,DRUOSO,c
@@ -532,6 +542,7 @@ Audio::File::Mp3::AudioProperties,SADRAK,c
 Audio::File::Mp3::AudioProperties,SCRUBB,c
 Audio::File::Mp3::Tag,ARCANEZ,c
 Audio::File::Mp3::Tag,ASH,c
+Audio::File::Mp3::Tag,AUGGY,c
 Audio::File::Mp3::Tag,BOBTFISH,c
 Audio::File::Mp3::Tag,DOY,c
 Audio::File::Mp3::Tag,DRUOSO,c
@@ -545,6 +556,7 @@ Audio::File::Mp3::Tag,SADRAK,c
 Audio::File::Mp3::Tag,SCRUBB,c
 Audio::File::Ogg,ARCANEZ,c
 Audio::File::Ogg,ASH,c
+Audio::File::Ogg,AUGGY,c
 Audio::File::Ogg,BOBTFISH,c
 Audio::File::Ogg,DOY,c
 Audio::File::Ogg,DRUOSO,c
@@ -558,6 +570,7 @@ Audio::File::Ogg,SADRAK,c
 Audio::File::Ogg,SCRUBB,c
 Audio::File::Ogg::AudioProperties,ARCANEZ,c
 Audio::File::Ogg::AudioProperties,ASH,c
+Audio::File::Ogg::AudioProperties,AUGGY,c
 Audio::File::Ogg::AudioProperties,BOBTFISH,c
 Audio::File::Ogg::AudioProperties,DOY,c
 Audio::File::Ogg::AudioProperties,DRUOSO,c
@@ -571,6 +584,7 @@ Audio::File::Ogg::AudioProperties,SADRAK,c
 Audio::File::Ogg::AudioProperties,SCRUBB,c
 Audio::File::Ogg::Tag,ARCANEZ,c
 Audio::File::Ogg::Tag,ASH,c
+Audio::File::Ogg::Tag,AUGGY,c
 Audio::File::Ogg::Tag,BOBTFISH,c
 Audio::File::Ogg::Tag,DOY,c
 Audio::File::Ogg::Tag,DRUOSO,c
@@ -584,6 +598,7 @@ Audio::File::Ogg::Tag,SADRAK,c
 Audio::File::Ogg::Tag,SCRUBB,c
 Audio::File::Tag,ARCANEZ,c
 Audio::File::Tag,ASH,c
+Audio::File::Tag,AUGGY,c
 Audio::File::Tag,BOBTFISH,c
 Audio::File::Tag,DOY,c
 Audio::File::Tag,DRUOSO,c
@@ -597,6 +612,7 @@ Audio::File::Tag,SADRAK,c
 Audio::File::Tag,SCRUBB,c
 Audio::File::Type,ARCANEZ,c
 Audio::File::Type,ASH,c
+Audio::File::Type,AUGGY,c
 Audio::File::Type,BOBTFISH,c
 Audio::File::Type,DOY,c
 Audio::File::Type,DRUOSO,c
@@ -691,6 +707,7 @@ Audio::MikMod,DANIEL,m
 Audio::Mixer,SERGEY,m
 Audio::Moosic,ARCANEZ,c
 Audio::Moosic,ASH,c
+Audio::Moosic,AUGGY,c
 Audio::Moosic,BOBTFISH,c
 Audio::Moosic,DOY,c
 Audio::Moosic,DRUOSO,c
@@ -703,6 +720,7 @@ Audio::Moosic,JROCKWAY,c
 Audio::Moosic,SADRAK,c
 Audio::Moosic::Inet,ARCANEZ,c
 Audio::Moosic::Inet,ASH,c
+Audio::Moosic::Inet,AUGGY,c
 Audio::Moosic::Inet,BOBTFISH,c
 Audio::Moosic::Inet,DOY,c
 Audio::Moosic::Inet,DRUOSO,c
@@ -715,6 +733,7 @@ Audio::Moosic::Inet,JROCKWAY,c
 Audio::Moosic::Inet,SADRAK,c
 Audio::Moosic::Unix,ARCANEZ,c
 Audio::Moosic::Unix,ASH,c
+Audio::Moosic::Unix,AUGGY,c
 Audio::Moosic::Unix,BOBTFISH,c
 Audio::Moosic::Unix,DOY,c
 Audio::Moosic::Unix,DRUOSO,c

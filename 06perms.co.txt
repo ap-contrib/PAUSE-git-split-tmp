@@ -1224,6 +1224,7 @@ Crypt::GPG::Signature,AGUL,f
 Crypt::GeneratePassword,JWALT,f
 Crypt::GpgME,ARCANEZ,c
 Crypt::GpgME,ASH,c
+Crypt::GpgME,AUGGY,c
 Crypt::GpgME,BOBTFISH,c
 Crypt::GpgME,DOY,c
 Crypt::GpgME,DRUOSO,c
@@ -1236,6 +1237,7 @@ Crypt::GpgME,JROCKWAY,c
 Crypt::GpgME,SADRAK,c
 Crypt::GpgME::Data,ARCANEZ,c
 Crypt::GpgME::Data,ASH,c
+Crypt::GpgME::Data,AUGGY,c
 Crypt::GpgME::Data,BOBTFISH,c
 Crypt::GpgME::Data,DOY,c
 Crypt::GpgME::Data,DRUOSO,c

@@ -416,6 +416,7 @@ Sys::Hostname::Long,SCOTT,m
 Sys::Hwloc,BKA,f
 Sys::Ibam,ARCANEZ,c
 Sys::Ibam,ASH,c
+Sys::Ibam,AUGGY,c
 Sys::Ibam,BOBTFISH,c
 Sys::Ibam,DOY,c
 Sys::Ibam,DRUOSO,c

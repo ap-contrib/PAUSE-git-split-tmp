@@ -381,6 +381,7 @@ B::Clobbers,ATOURBIN,f
 B::CodeLines,ROCKY,m
 B::Compiling,ARCANEZ,c
 B::Compiling,ASH,c
+B::Compiling,AUGGY,c
 B::Compiling,BOBTFISH,c
 B::Compiling,DOY,c
 B::Compiling,DRUOSO,c
@@ -444,6 +445,7 @@ B::Graph,SMCCAM,m
 B::Hooks::AtRuntime,BMORROW,f
 B::Hooks::EndOfScope,ARCANEZ,c
 B::Hooks::EndOfScope,ASH,c
+B::Hooks::EndOfScope,AUGGY,c
 B::Hooks::EndOfScope,BOBTFISH,c
 B::Hooks::EndOfScope,DOY,c
 B::Hooks::EndOfScope,DRUOSO,c
@@ -458,6 +460,7 @@ B::Hooks::EndOfScope,ZEFRAM,c
 B::Hooks::OP::Annotation,CHOCOLATE,f
 B::Hooks::OP::Check,ARCANEZ,c
 B::Hooks::OP::Check,ASH,c
+B::Hooks::OP::Check,AUGGY,c
 B::Hooks::OP::Check,BOBTFISH,c
 B::Hooks::OP::Check,DOY,c
 B::Hooks::OP::Check,DRUOSO,c
@@ -471,6 +474,7 @@ B::Hooks::OP::Check,SADRAK,c
 B::Hooks::OP::Check,ZEFRAM,c
 B::Hooks::OP::Check::EntersubForCV,ARCANEZ,c
 B::Hooks::OP::Check::EntersubForCV,ASH,c
+B::Hooks::OP::Check::EntersubForCV,AUGGY,c
 B::Hooks::OP::Check::EntersubForCV,BOBTFISH,c
 B::Hooks::OP::Check::EntersubForCV,DOY,c
 B::Hooks::OP::Check::EntersubForCV,DRUOSO,c
@@ -484,6 +488,7 @@ B::Hooks::OP::Check::EntersubForCV,SADRAK,c
 B::Hooks::OP::Check::EntersubForCV,ZEFRAM,c
 B::Hooks::OP::Check::StashChange,ARCANEZ,c
 B::Hooks::OP::Check::StashChange,ASH,c
+B::Hooks::OP::Check::StashChange,AUGGY,c
 B::Hooks::OP::Check::StashChange,BOBTFISH,c
 B::Hooks::OP::Check::StashChange,DOY,c
 B::Hooks::OP::Check::StashChange,DRUOSO,c
@@ -497,6 +502,7 @@ B::Hooks::OP::Check::StashChange,SADRAK,c
 B::Hooks::OP::Check::StashChange,ZEFRAM,c
 B::Hooks::OP::PPAddr,ARCANEZ,c
 B::Hooks::OP::PPAddr,ASH,c
+B::Hooks::OP::PPAddr,AUGGY,c
 B::Hooks::OP::PPAddr,BOBTFISH,c
 B::Hooks::OP::PPAddr,DOY,c
 B::Hooks::OP::PPAddr,DRUOSO,c
@@ -510,6 +516,7 @@ B::Hooks::OP::PPAddr,SADRAK,c
 B::Hooks::OP::PPAddr,ZEFRAM,c
 B::Hooks::Parser,ARCANEZ,c
 B::Hooks::Parser,ASH,c
+B::Hooks::Parser,AUGGY,c
 B::Hooks::Parser,BOBTFISH,c
 B::Hooks::Parser,DOY,c
 B::Hooks::Parser,DRUOSO,c

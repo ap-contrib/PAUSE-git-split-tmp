@@ -110,6 +110,7 @@ Test::Classy::Base,ISHIGAKI,f
 Test::Classy::Util,ISHIGAKI,c
 Test::CleanNamespaces,ARCANEZ,c
 Test::CleanNamespaces,ASH,c
+Test::CleanNamespaces,AUGGY,c
 Test::CleanNamespaces,BOBTFISH,c
 Test::CleanNamespaces,DOY,c
 Test::CleanNamespaces,DRUOSO,c

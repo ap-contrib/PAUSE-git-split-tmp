@@ -365,6 +365,7 @@ Net::SPOCP::SExpr::Atom,LEIFJ,f
 Net::SRCDS::Queries,MASANORIH,f
 Net::SRCDS::Queries::Parser,MASANORIH,f
 Net::SSDP,ARCANEZ,c
+Net::SSDP,AUGGY,c
 Net::SSDP,BOBTFISH,c
 Net::SSDP,DOY,c
 Net::SSDP,DRUOSO,c
@@ -583,6 +584,7 @@ Net::SSLGlue::LWP,SULLR,f
 Net::SSLGlue::LWP::Socket,SULLR,f
 Net::SSLGlue::SMTP,SULLR,f
 Net::SSLeay,ASH,c
+Net::SSLeay,AUGGY,c
 Net::SSLeay,BOBTFISH,c
 Net::SSLeay,DANDV,c
 Net::SSLeay,EDENC,c
@@ -594,6 +596,7 @@ Net::SSLeay,JROCKWAY,c
 Net::SSLeay,MIKEM,c
 Net::SSLeay,SADRAK,c
 Net::SSLeay::Handle,ASH,c
+Net::SSLeay::Handle,AUGGY,c
 Net::SSLeay::Handle,BOBTFISH,c
 Net::SSLeay::Handle,EDENC,c
 Net::SSLeay::Handle,ETHER,c

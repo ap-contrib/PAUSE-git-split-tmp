@@ -96,6 +96,7 @@ Gtk2::Notebook,TSCH,f
 Gtk2::Notebook,XAOC,c
 Gtk2::Notify,ARCANEZ,c
 Gtk2::Notify,ASH,c
+Gtk2::Notify,AUGGY,c
 Gtk2::Notify,BOBTFISH,c
 Gtk2::Notify,DOY,c
 Gtk2::Notify,DRUOSO,c
@@ -165,6 +166,7 @@ Gtk2::Pango::Pango,XAOC,c
 Gtk2::PathButtonBar,VVELOX,f
 Gtk2::Phat,ARCANEZ,c
 Gtk2::Phat,ASH,c
+Gtk2::Phat,AUGGY,c
 Gtk2::Phat,BOBTFISH,c
 Gtk2::Phat,DOY,c
 Gtk2::Phat,DRUOSO,c
@@ -274,6 +276,7 @@ Gtk2::Settings,TSCH,f
 Gtk2::Settings,XAOC,c
 Gtk2::Sexy,ARCANEZ,c
 Gtk2::Sexy,ASH,c
+Gtk2::Sexy,AUGGY,c
 Gtk2::Sexy,BOBTFISH,c
 Gtk2::Sexy,DOY,c
 Gtk2::Sexy,DRUOSO,c
@@ -542,6 +545,7 @@ Gtk2::Viewport,RMCFARLA,c
 Gtk2::Viewport,TSCH,f
 Gtk2::Viewport,XAOC,c
 Gtk2::VolumeButton,ARCANEZ,c
+Gtk2::VolumeButton,AUGGY,c
 Gtk2::VolumeButton,BOBTFISH,c
 Gtk2::VolumeButton,DOY,c
 Gtk2::VolumeButton,DRUOSO,c
@@ -554,6 +558,7 @@ Gtk2::VolumeButton,JROCKWAY,c
 Gtk2::VolumeButton,SADRAK,c
 Gtk2::WebKit,ARCANEZ,c
 Gtk2::WebKit,ASH,c
+Gtk2::WebKit,AUGGY,c
 Gtk2::WebKit,BOBTFISH,c
 Gtk2::WebKit,DOY,c
 Gtk2::WebKit,DRUOSO,c
