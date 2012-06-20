@@ -1177,6 +1177,7 @@ Dist::Zilla::Plugin::Catalyst::New,XENO,f
 Dist::Zilla::Plugin::ChangeStats::Git,YANICK,f
 Dist::Zilla::Plugin::ChangelogFromGit,RCAPUTO,f
 Dist::Zilla::Plugin::ChangelogFromGit::CPAN::Changes,IOANR,f
+Dist::Zilla::Plugin::ChangelogFromGit::Debian,DIZ,c
 Dist::Zilla::Plugin::ChangelogFromGit::Debian,GPHAT,f
 Dist::Zilla::Plugin::ChangesTests,DOHERTY,f
 Dist::Zilla::Plugin::CheckChangeLog,FAYLAND,f
@@ -1207,7 +1208,9 @@ Dist::Zilla::Plugin::DistManifestTests,DOHERTY,c
 Dist::Zilla::Plugin::DistManifestTests,MARCEL,f
 Dist::Zilla::Plugin::DistManifestTests,XENO,c
 Dist::Zilla::Plugin::Doppelgaenger,DAGOLDEN,f
+Dist::Zilla::Plugin::Dpkg,DIZ,c
 Dist::Zilla::Plugin::Dpkg,GPHAT,f
+Dist::Zilla::Plugin::Dpkg::PerlbrewStarman,DIZ,c
 Dist::Zilla::Plugin::Dpkg::PerlbrewStarman,GPHAT,f
 Dist::Zilla::Plugin::DualBuilders,APOCAL,f
 Dist::Zilla::Plugin::DualLife,EDENC,c
@@ -1562,6 +1565,7 @@ Dist::Zilla::Plugin::UploadToDuckPAN,GETTY,f
 Dist::Zilla::Plugin::UploadToGoogleCode,DOHERTY,f
 Dist::Zilla::Plugin::UploadToSFTP,MJGARDNER,f
 Dist::Zilla::Plugin::Version::FromSubversion,DOLMEN,f
+Dist::Zilla::Plugin::Version::Git::Flowish,DIZ,c
 Dist::Zilla::Plugin::Version::Git::Flowish,GPHAT,f
 Dist::Zilla::Plugin::VersionFromModule,CJM,f
 Dist::Zilla::Plugin::VersionFromPrev,AVAR,f
