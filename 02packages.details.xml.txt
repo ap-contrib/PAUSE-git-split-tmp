@@ -352,7 +352,7 @@ XML::SemanticDiff                1.0000  S/SH/SHLOMIF/XML-SemanticDiff-1.0000.ta
 XML::SemanticDiff::BasicHandler    0.94  S/SH/SHLOMIF/XML-SemanticDiff-1.0000.tar.gz
 XML::Sig                           0.22  B/BY/BYRNE/XML-Sig-0.22.tar.gz
 XML::Similarity                   undef  X/XE/XERN/HTML-Similarity-0.2.0.tar.gz
-XML::Simple                        2.18  G/GR/GRANTM/XML-Simple-2.18.tar.gz
+XML::Simple                        2.20  G/GR/GRANTM/XML-Simple-2.20.tar.gz
 XML::Simple::DTDReader             0.04  A/AL/ALEXMV/XML-Simple-DTDReader-0.04.tar.gz
 XML::Simple::Tree                  0.03  A/AA/AAKD/XML-Simple-Tree-0.03.tar.gz
 XML::SimpleObject                  0.53  D/DB/DBRIAN/XML-SimpleObject-0.53.tar.gz
