@@ -347,6 +347,7 @@ Test::Writer                          0  Z/ZA/ZAG/WebDAO-2.06.tar.gz
 Test::WWW::Declare                 0.02  S/SA/SARTAK/Test-WWW-Declare-0.02.tar.gz
 Test::WWW::Declare::Tester         0.02  S/SA/SARTAK/Test-WWW-Declare-0.02.tar.gz
 Test::WWW::Declare::Tester::Server 0.02  S/SA/SARTAK/Test-WWW-Declare-0.02.tar.gz
+Test::WWW::Jasmine                 0.01  T/TO/TOKAREV/Test-WWW-Jasmine-0.01.tar.gz
 Test::WWW::Mechanize               1.42  P/PE/PETDANCE/Test-WWW-Mechanize-1.42.tar.gz
 Test::WWW::Mechanize::Catalyst     0.57  E/ED/EDENC/Test-WWW-Mechanize-Catalyst-0.57.tar.gz
 Test::WWW::Mechanize::Catalyst::Aux 0.45  L/LB/LBROCARD/Test-WWW-Mechanize-Catalyst-0.45.tar.gz
