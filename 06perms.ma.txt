@@ -124,11 +124,14 @@ Math::GMP,DWC,c
 Math::GMP,TURNSTEP,f
 Math::GMPf,SISYPHUS,f
 Math::GMPf::Random,SISYPHUS,f
+Math::GMPf::V,SISYPHUS,f
 Math::GMPn,SALVA,f
 Math::GMPq,SISYPHUS,f
 Math::GMPq::Random,SISYPHUS,f
+Math::GMPq::V,SISYPHUS,f
 Math::GMPz,SISYPHUS,f
 Math::GMPz::Random,SISYPHUS,f
+Math::GMPz::V,SISYPHUS,f
 Math::GMatrix,ACESTER,f
 Math::GSL,LETO,f
 Math::GSL::BLAS,LETO,f
@@ -580,6 +583,7 @@ Math::Lsoda,SYNCLOVER,m
 Math::MPC,SISYPHUS,f
 Math::MPFI,SISYPHUS,f
 Math::MPFR,SISYPHUS,m
+Math::MPFR::V,SISYPHUS,f
 Math::MVPoly,BGUARRACI,f
 Math::MVPoly::Ideal,BGUARRACI,f
 Math::MVPoly::Integer,BGUARRACI,f
