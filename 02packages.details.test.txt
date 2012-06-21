@@ -1124,7 +1124,7 @@ Text::LangTag                     undef  M/MH/MHOSKEN/SIL-Shoe-1.37.tar.gz
 Text::Language::Guess              0.02  M/MS/MSCHILLI/Text-Language-Guess-0.02.tar.gz
 Text::LAS::Parser                  0.01  K/KY/KYOMAIODP/Text-LAS-Parser-0.01.tar.gz
 Text::Levenshtein                  0.04  J/JG/JGOLDBERG/Text-Levenshtein-0.05.tar.gz
-Text::Levenshtein::Damerau         0.03  U/UG/UGEXE/Text-Levenshtein-Damerau-0.03a.zip
+Text::Levenshtein::Damerau         0.04  U/UG/UGEXE/Text-Levenshtein-Damerau-0.04.zip
 Text::LevenshteinXS                0.03  J/JG/JGOLDBERG/Text-LevenshteinXS-0.03.tar.gz
 Text::Ligature                     0.02  P/PA/PATCH/Text-Ligature-0.02.tar.gz
 Text::LineEditor                   0.03  G/GO/GOSSAMER/Text-LineEditor-0.03.tar.gz
