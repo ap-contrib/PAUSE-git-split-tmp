@@ -892,7 +892,7 @@ Business::UPS::Tracking::Shipment undef  M/MA/MAROS/Business-UPS-Tracking-1.09.t
 Business::UPS::Tracking::Shipment::Freight undef  M/MA/MAROS/Business-UPS-Tracking-1.09.tar.gz
 Business::UPS::Tracking::Shipment::SmallPackage undef  M/MA/MAROS/Business-UPS-Tracking-1.09.tar.gz
 Business::UPS::Tracking::Utils    undef  M/MA/MAROS/Business-UPS-Tracking-1.09.tar.gz
-Business::US::USPS::IMB            0.01  C/CN/CNIGHS/Business-US-USPS-IMB-0.01.tar.gz
+Business::US::USPS::IMB            0.02  C/CN/CNIGHS/Business-US-USPS-IMB-0.02.tar.gz
 Business::US::USPS::WebTools       1.11  B/BD/BDFOY/Business-US-USPS-WebTools-1.11.tar.gz
 Business::US::USPS::WebTools::AddressStandardization 1.11  B/BD/BDFOY/Business-US-USPS-WebTools-1.11.tar.gz
 Business::US::USPS::WebTools::CityStateLookup 1.11  B/BD/BDFOY/Business-US-USPS-WebTools-1.11.tar.gz
