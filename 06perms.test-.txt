@@ -599,6 +599,7 @@ Test::WWW::Declare,FALCONE,c
 Test::WWW::Declare,JESSE,f
 Test::WWW::Declare::Tester,JESSE,f
 Test::WWW::Declare::Tester::Server,JESSE,f
+Test::WWW::Jasmine,TOKAREV,f
 Test::WWW::Mechanize,PETDANCE,f
 Test::WWW::Mechanize::CGI,CHANSEN,c
 Test::WWW::Mechanize::CGI,MRAMBERG,f
