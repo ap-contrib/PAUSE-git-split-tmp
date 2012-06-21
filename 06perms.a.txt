@@ -394,6 +394,7 @@ Authen::Krb5::Simple,DSTUART,f
 Authen::Krb5Password,SHUQUE,m
 Authen::Libwrap,DMUEY,c
 Authen::Libwrap,JFITZ,f
+Authen::ModAuthPubTkt,AGORDON,f
 Authen::ModAuthToken,AGORDON,f
 Authen::NIST::RBAC,BBC,c
 Authen::NIST::RBAC,PEDWARDS,m

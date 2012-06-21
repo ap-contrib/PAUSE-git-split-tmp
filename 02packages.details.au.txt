@@ -67,6 +67,7 @@ Authen::Krb5::KDB_H                1.07  D/DK/DKS/Authen-Krb5-KDB-0.09.tar.gz
 Authen::Krb5::Simple               0.43  D/DS/DSTUART/Authen-Krb5-Simple-0.43.tar.gz
 Authen::Krb5Password               1.03  S/SH/SHUQUE/Authen-Krb5Password-1.03.tar.gz
 Authen::Libwrap                    0.22  D/DM/DMUEY/Authen-Libwrap-0.22.tar.gz
+Authen::ModAuthPubTkt          0.001001  A/AG/AGORDON/Authen-ModAuthPubTkt-0.1.1.tar.gz
 Authen::ModAuthToken               0.03  A/AG/AGORDON/Authen-ModAuthToken-0.03.tar.gz
 Authen::NTLM                       1.09  N/NB/NBEBOUT/NTLM-1.09.tar.gz
 Authen::NTLM::DES                  1.02  N/NB/NBEBOUT/NTLM-1.09.tar.gz
