@@ -1106,6 +1106,8 @@ Message::Passing::Output::AMQP,BOBTFISH,c
 Message::Passing::Output::AMQP,GHENRY,f
 Message::Passing::Output::Callback,BOBTFISH,c
 Message::Passing::Output::Callback,GHENRY,f
+Message::Passing::Output::ElasticSearch,DAMS,c
+Message::Passing::Output::ElasticSearch,GHENRY,f
 Message::Passing::Output::File,BOBTFISH,c
 Message::Passing::Output::File,GHENRY,f
 Message::Passing::Output::IO::Handle,BOBTFISH,c
