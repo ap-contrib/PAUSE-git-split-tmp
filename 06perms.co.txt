@@ -390,6 +390,7 @@ Config::Trivial,ATRICKETT,f
 Config::Trivial::Storable,ATRICKETT,f
 Config::Universal,ITGURU,f
 Config::User,TBONE,f
+Config::Utils,SKIM,f
 Config::Validate,CMO,f
 Config::Validator,LCONS,m
 Config::Vars,ROODE,f
