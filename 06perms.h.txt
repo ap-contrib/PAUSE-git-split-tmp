@@ -370,6 +370,7 @@ loose,MSCHWERN,f
 lvalue,MONS,f
 lvalue::tiecallback,MONS,f
 mGen,CYBER,f
+mRuby,TOKUHIROM,f
 ma_plot,CJONES,f
 macro,GFUJI,f
 macro::compiler,GFUJI,f
