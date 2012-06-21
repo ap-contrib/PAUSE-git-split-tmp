@@ -599,6 +599,7 @@ Data::Money::Converter,ANELSON,c
 Data::Money::Converter,GPHAT,f
 Data::Money::Converter::WebserviceX,ANELSON,c
 Data::Money::Converter::WebserviceX,GPHAT,f
+Data::Money::Exception,ANELSON,f
 Data::Money::Types,ANELSON,c
 Data::Money::Types,GPHAT,f
 Data::Morph,NPEREZ,f
