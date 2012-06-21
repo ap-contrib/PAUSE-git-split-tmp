@@ -100,6 +100,7 @@ CSS::Adaptor::Default              0.05  I/IA/IAMCAL/CSS-0.08.tar.gz
 CSS::Adaptor::Pretty               1.01  I/IA/IAMCAL/CSS-1.09.tar.gz
 CSS::Adaptor::Test                 0.05  I/IA/IAMCAL/CSS-0.08.tar.gz
 CSS::Adaptor::Whitelist           0.006  S/SI/SIXTEASE/CSS-Adaptor-Whitelist-0.006.tar.gz
+CSS::Compressor                    0.01  J/JA/JANUS/CSS-Compressor-0.01.tar.gz
 CSS::Croco                         0.09  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Selector              undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Statement             undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz

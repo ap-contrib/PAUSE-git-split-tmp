@@ -335,6 +335,7 @@ CSS::Adaptor::Test,ALLENDAY,f
 CSS::Adaptor::Test,IAMCAL,c
 CSS::Adaptor::Whitelist,SIXTEASE,m
 CSS::Adaptor::default,ALLENDAY,f
+CSS::Compressor,JANUS,f
 CSS::Croco,GUGU,m
 CSS::Croco::Selector,GUGU,f
 CSS::Croco::Statement,GUGU,f
