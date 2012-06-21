@@ -259,6 +259,8 @@ RPC::Connection::XMLRPC,BRONSON,f
 RPC::EPC::Service,KIWANAMI,m
 RPC::ExtDirect,TOKAREV,m
 RPC::ExtDirect::API,TOKAREV,f
+RPC::ExtDirect::Client,TOKAREV,f
+RPC::ExtDirect::Client::API,TOKAREV,f
 RPC::ExtDirect::Config,TOKAREV,f
 RPC::ExtDirect::Demo::PollProvider,TOKAREV,f
 RPC::ExtDirect::Demo::Profile,TOKAREV,f
