@@ -668,7 +668,7 @@ MRS::Operator                  0.600100  T/TU/TULSOFT/MRS-Client-0.600100.tar.gz
 MRS::XFormat                   0.600100  T/TU/TULSOFT/MRS-Client-0.600100.tar.gz
 MRTG::Config                       0.04  S/SS/SSCAFFIDI/MRTG-Config-0.04.zip
 MRTG::Parse                        0.03  M/MA/MARIOF/MRTG-Parse-0.03.tar.gz
-mRuby                              0.01  T/TO/TOKUHIROM/mRuby-0.01.tar.gz
+mRuby                              0.02  T/TO/TOKUHIROM/mRuby-0.02.tar.gz
 MSDOS::Attrib                      1.05  C/CJ/CJM/MSDOS-Attrib-1.05.tar.gz
 MSDOS::Descript                    1.04  C/CJ/CJM/MSDOS-Descript-1.04.tar.gz
 Msg                               undef  S/SR/SRIRAM/examples.tar.gz
