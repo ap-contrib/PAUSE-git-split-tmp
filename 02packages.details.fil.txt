@@ -163,8 +163,8 @@ Finance::Bank::Postbank_de         0.28  C/CO/CORION/Finance-Bank-Postbank_de-0.
 Finance::Bank::Postbank_de::Account 0.28  C/CO/CORION/Finance-Bank-Postbank_de-0.28.tar.gz
 Finance::Bank::PSK                 1.04  F/FL/FLORIAN/Finance-Bank-PSK-1.04.tar.gz
 Finance::Bank::RBoS                0.01  K/KN/KNEW/Finance-Bank-Natwest-0.05.tar.gz
-Finance::Bank::Schwab              1.22  M/MG/MGRIMES/Finance-Bank-Schwab-1.22.tar.gz
-Finance::Bank::Schwab::Account        0  M/MG/MGRIMES/Finance-Bank-Schwab-1.22.tar.gz
+Finance::Bank::Schwab              1.23  M/MG/MGRIMES/Finance-Bank-Schwab-1.23.tar.gz
+Finance::Bank::Schwab::Account        0  M/MG/MGRIMES/Finance-Bank-Schwab-1.23.tar.gz
 Finance::Bank::SCSB::TW            0.12  G/GU/GUGOD/Finance-Bank-SCSB-TW-0.12.tar.gz
 Finance::Bank::SCSB::TW::CurrencyExchangeRateCollection undef  G/GU/GUGOD/Finance-Bank-SCSB-TW-0.12.tar.gz
 Finance::Bank::SentinelBenefits::Csv401kConverter 0.5  D/DS/DSOLIMANO/Csv401kConverter/Finance-Bank-SentinelBenefits-Csv401kConverter-0.5.tar.gz
