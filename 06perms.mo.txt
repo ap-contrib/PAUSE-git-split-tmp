@@ -2192,6 +2192,7 @@ MooseX::Constructor::AllErrors::Error::Constructor,FLORA,c
 MooseX::Constructor::AllErrors::Error::Constructor,HDP,f
 MooseX::Constructor::AllErrors::Error::Constructor,PERIGRIN,c
 MooseX::Constructor::AllErrors::Error::Constructor,SARTAK,c
+MooseX::Constructor::AllErrors::Error::Misc,ETHER,f
 MooseX::Constructor::AllErrors::Error::Required,DOY,c
 MooseX::Constructor::AllErrors::Error::Required,ETHER,c
 MooseX::Constructor::AllErrors::Error::Required,FLORA,c
