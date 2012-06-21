@@ -282,7 +282,9 @@ AnyEvent::Beanstalk::Stats     1.121460  G/GB/GBARR/AnyEvent-Beanstalk-1.121460.
 AnyEvent::BitTorrent             v0.1.6  S/SA/SANKO/AnyEvent-BitTorrent-v0.1.6.tar.gz
 AnyEvent::Blackboard             v0.3.1  T/TA/TAG/AnyEvent-Blackboard-v0.3.1.tar.gz
 AnyEvent::CacheDNS                 0.07  P/PO/POTYL/AnyEvent-CacheDNS-0.07.tar.gz
-AnyEvent::Callback                 0.03  U/UN/UNERA/AnyEvent-Callback-0.03.tar.gz
+AnyEvent::Callback                 0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.gz
+AnyEvent::Callback::Stack          0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.gz
+AnyEvent::Callback::Stack::Result  0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.gz
 AnyEvent::CallbackStack            0.09  B/BL/BLUET/AnyEvent-CallbackStack-0.09.tgz
 AnyEvent::CondVar                  7.01  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
 AnyEvent::CondVar::Base            7.01  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
