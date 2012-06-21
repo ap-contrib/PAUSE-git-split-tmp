@@ -407,6 +407,7 @@ MySQL::Admin::Settings             0.62  L/LZ/LZE/MySQL-Admin-0.62.tar.gz
 MySQL::Admin::Translate            0.62  L/LZ/LZE/MySQL-Admin-0.62.tar.gz
 MySQL::Backend::Base              undef  K/KS/KSTEPME/FusqlFS-0.001.tar.gz
 MySQL::Backup                      0.04  D/DM/DMITRY/MySQL-Backup-0.04.tar.gz
+MySQL::Binlog_RBR_Data             1.02  S/ST/STRANGE/MySQL-Binlog_RBR_Data-1.02.tar.gz
 MySQL::Config                      1.04  D/DA/DARREN/MySQL-Config-1.04.tar.gz
 MySQL::Database                   undef  A/AS/ASPIERS/MySQL-Diff-0.33.tar.gz
 MySQL::DateFormat                  1.01  T/TO/TONKIN/MySQL-DateFormat-1.01.tar.gz
