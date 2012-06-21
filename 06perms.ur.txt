@@ -292,6 +292,7 @@ Ubic::ServiceLoader,MMCLERIC,f
 Ubic::ServiceLoader::Base,MMCLERIC,f
 Ubic::ServiceLoader::Default,MMCLERIC,f
 Ubic::ServiceLoader::Ext::ini,MMCLERIC,f
+Ubic::ServiceLoader::Ext::json,MMCLERIC,f
 Ubic::ServiceLock,MMCLERIC,f
 Ubic::Settings,MMCLERIC,f
 Ubic::Settings::ConfigFile,MMCLERIC,f
