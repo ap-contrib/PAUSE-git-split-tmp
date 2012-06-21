@@ -500,6 +500,7 @@ Gentoo::Overlay,KENTNL,f
 Gentoo::Overlay::Category,KENTNL,f
 Gentoo::Overlay::Ebuild,KENTNL,f
 Gentoo::Overlay::Exceptions,KENTNL,f
+Gentoo::Overlay::Group,KENTNL,f
 Gentoo::Overlay::Package,KENTNL,f
 Gentoo::Overlay::Types,KENTNL,f
 Gentoo::PerlMod::Version,KENTNL,f
