@@ -524,6 +524,7 @@ MARC::File,MIKERY,f
 MARC::File::Encode,BRICAS,c
 MARC::File::Encode,GMCHARLT,c
 MARC::File::Encode,MIKERY,f
+MARC::File::JSON,CFOUTS,f
 MARC::File::MARCMaker,EIJABB,f
 MARC::File::MARCMaker,ESUMMERS,c
 MARC::File::MicroLIF,BRICAS,c
