@@ -432,6 +432,7 @@ Test::Pod::Spelling,LGODDARD,f
 Test::Pod::Spelling::CommonMistakes,APOCAL,f
 Test::Pod::_parser,DWHEELER,f
 Test::Portability::Files,SAPER,m
+Test::PostgreSQL,TJC,f
 Test::Prereq,BDFOY,m
 Test::Prereq::Build,BDFOY,f
 Test::Presenter,BRYCE,f

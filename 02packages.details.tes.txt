@@ -749,6 +749,7 @@ Test::POE::Stopping                1.09  A/AD/ADAMK/Test-POE-Stopping-1.09.tar.g
 Test::POP3                         0.05  J/JA/JAMES/Test-Email-0.04.tar.gz
 Test::Portability::Files           0.05  S/SA/SAPER/Test-Portability-Files-0.05.tar.gz
 Test::postgresql                   0.09  K/KA/KAZUHO/Test-postgresql-0.09.tar.gz
+Test::PostgreSQL                   0.10  T/TJ/TJC/Test-PostgreSQL-0.10.tar.gz
 Test::PPPort                       0.03  Y/YA/YAPPO/Test-PPPort-0.03.tar.gz
 Test::Prereq                      1.037  B/BD/BDFOY/Test-Prereq-1.037.tar.gz
 Test::Prereq::Build               1.037  B/BD/BDFOY/Test-Prereq-1.037.tar.gz
