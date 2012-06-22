@@ -907,7 +907,7 @@ Array::Find                        0.06  S/SH/SHARYANTO/Array-Find-0.06.tar.gz
 Array::Frugal                      0.01  D/DA/DAVIDNICO/Acme/Array-Frugal-0.01.tar.gz
 Array::Functions::Undoable         0.02  S/SH/SHARYANTO/Array-Functions-Undoable-0.02.tar.gz
 Array::Group                        3.0  T/TB/TBONE/Array-Group-3.0.zip
-Array::GroupBy                   v0.0.1  S/SA/SAMB/Array-GroupBy-v0.0.1.tar.gz
+Array::GroupBy                   v0.0.2  S/SA/SAMB/Array-GroupBy-v0.0.2.tar.gz
 Array::Heap                         2.0  M/ML/MLEHMANN/Array-Heap-2.0.tar.gz
 Array::Heap2                        1.1  M/ML/MLEHMANN/Array-Heap2-1.1.tar.gz
 Array::IntSpan                    2.002  D/DD/DDUMONT/Array-IntSpan-2.002.tar.gz
