@@ -429,6 +429,7 @@ MooseX::Getopt::Defanged::Exception::Generic,ELLIOTJS,f
 MooseX::Getopt::Defanged::Exception::InvalidSpecification,ELLIOTJS,f
 MooseX::Getopt::Defanged::Exception::User,ELLIOTJS,f
 MooseX::Getopt::Defanged::OptionTypeMetadata,ELLIOTJS,f
+MooseX::Getopt::Explicit,RHOELZ,f
 MooseX::Getopt::GLD,BOBTFISH,f
 MooseX::Getopt::GLD,DAMS,c
 MooseX::Getopt::GLD,DHOSS,c
