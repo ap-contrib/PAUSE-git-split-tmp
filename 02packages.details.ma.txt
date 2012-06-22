@@ -33,7 +33,6 @@ Mail::SpamAssassin::Plugin::URIDetail undef  K/KM/KMCGRAIL/Mail-SpamAssassin-3.3
 Mail::SpamAssassin::Plugin::URIDNSBL undef  K/KM/KMCGRAIL/Mail-SpamAssassin-3.3.2.tar.gz
 Mail::SpamAssassin::Plugin::URIEval undef  K/KM/KMCGRAIL/Mail-SpamAssassin-3.3.2.tar.gz
 Mail::SpamAssassin::Plugin::VBounce undef  K/KM/KMCGRAIL/Mail-SpamAssassin-3.3.2.tar.gz
-Mail::SpamAssassin::Plugin::WhitelistDBM 0.11  M/ML/MLAWREN/MySpam-0.11.tar.gz
 Mail::SpamAssassin::Plugin::WhiteListSubject undef  K/KM/KMCGRAIL/Mail-SpamAssassin-3.3.2.tar.gz
 Mail::SpamAssassin::Plugin::WLBLEval undef  K/KM/KMCGRAIL/Mail-SpamAssassin-3.3.2.tar.gz
 Mail::SpamAssassin::PluginHandler bogus  K/KM/KMCGRAIL/Mail-SpamAssassin-3.3.2.tar.gz

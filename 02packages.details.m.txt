@@ -394,8 +394,6 @@ MySimpleListType                  undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 MySimpleType                      undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 mySOAP::Client                     0.45  D/DY/DYACOB/SOAP-Lite-ActiveWorks-0.10.tar.gz
 MySortFilterProxyModel            undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-MySpam                             0.11  M/ML/MLAWREN/MySpam-0.11.tar.gz
-MySpam::Email                      0.11  M/ML/MLAWREN/MySpam-0.11.tar.gz
 Mysql                            1.2401  C/CA/CAPTTOFU/DBD-mysql-3.0008.tar.gz
 MySQL::Admin                       0.62  L/LZ/LZE/MySQL-Admin-0.62.tar.gz
 MySQL::Admin::Actions              0.62  L/LZ/LZE/MySQL-Admin-0.62.tar.gz

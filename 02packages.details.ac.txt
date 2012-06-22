@@ -37,7 +37,6 @@ Acme::Working::Out::Dependencies::From::META::files::Will::Be::Wrong::At::Some::
 Acme::WTF                          0.03  B/BE/BEAST/Acme-WTF-0.03.tar.gz
 Acme::XSS                          0.01  T/TO/TOKUHIROM/Acme-XSS-0.01.tar.gz
 ACME::YAPC::NA::2012               0.02  J/JA/JARICH/ACME-YAPC-NA-2012-0.02.tar.gz
-Acme::YARROW                       0.02  Y/YA/YARROW/Acme-YARROW-0.02.tar.gz
 Acme::Yoda                         0.02  G/GR/GREP/Acme-Yoda-0.02.tar.gz
 Acme::Your                         0.01  R/RC/RCLAMP/Acme-Your-0.01.tar.gz
 Acme::Your::Filter                undef  R/RC/RCLAMP/Acme-Your-0.01.tar.gz
