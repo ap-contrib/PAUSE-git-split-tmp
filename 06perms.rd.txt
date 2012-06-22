@@ -480,6 +480,7 @@ RRD::Simple,NICOLAW,f
 RRD::Simple::Examples,NICOLAW,f
 RRD::Simple::_Colour,NICOLAW,f
 RRD::Threshold,RSOLIV,f
+RRD::Tweak,SSINYAGIN,f
 RRDBrowseCommon,NICOLAW,c
 RRDTool::Creator,JACQUELIN,m
 RRDTool::Creator::DayPDP,JACQUELIN,f
