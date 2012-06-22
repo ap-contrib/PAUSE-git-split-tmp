@@ -717,7 +717,7 @@ Test::Perl::Critic::Progressive    0.03  T/TH/THALJEF/Test-Perl-Critic-Progressi
 Test::Perl::Dist                  0.300  C/CS/CSJEWELL/Test-Perl-Dist-0.300.tar.gz
 Test::Perl::Metrics::Lite           0.2  K/KI/KITANO/Test-Perl-Metrics-Lite-0.2.tar.gz
 Test::Perl::Metrics::Simple         0.1  K/KO/KOGA/Test-Perl-Metrics-Simple-0.1.tar.gz
-Test::PerlTidy                 20110323  L/LA/LARRYL/Test-PerlTidy-20110323.tar.gz
+Test::PerlTidy                 20120621  L/LA/LARRYL/Test-PerlTidy-20120621.tar.gz
 Test::Ping                         0.17  X/XS/XSAWYERX/Test-Ping-0.17.tar.gz
 Test::Ping::Ties::BIND             0.01  X/XS/XSAWYERX/Test-Ping-0.17.tar.gz
 Test::Ping::Ties::HIRES            0.01  X/XS/XSAWYERX/Test-Ping-0.17.tar.gz
