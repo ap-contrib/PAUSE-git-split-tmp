@@ -371,7 +371,7 @@ Math::Fractal::DLA::Explode        0.21  A/AR/ARCOLF/Math-Fractal-DLA-0.21.tar.g
 Math::Fractal::DLA::GrowUp         0.21  A/AR/ARCOLF/Math-Fractal-DLA-0.21.tar.gz
 Math::Fractal::DLA::Race2Center    0.21  A/AR/ARCOLF/Math-Fractal-DLA-0.21.tar.gz
 Math::Fractal::DLA::Surrounding    0.21  A/AR/ARCOLF/Math-Fractal-DLA-0.21.tar.gz
-Math::Fractal::Julia           0.000001  J/JT/JTPALMER/Math-Fractal-Julia-0.000001.tar.gz
+Math::Fractal::Julia           0.000003  J/JT/JTPALMER/Math-Fractal-Julia-0.000003.tar.gz
 Math::Fractal::Mandelbrot          0.04  T/TE/TELS/math/Math-Fractal-Mandelbrot-0.04.tar.gz
 Math::Fractal::Noisemaker         0.105  A/AA/AAYARS/Math-Fractal-Noisemaker-0.105.tar.gz
 Math::Fraction                     0.53  K/KE/KEVINA/Fraction-v.53b.tar.gz
