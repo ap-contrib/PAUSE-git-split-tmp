@@ -139,6 +139,7 @@ Test::Mock::LWP::Conditional::Stubs,MASAKI,f
 Test::Mock::LWP::Dispatch,TADAM,m
 Test::Mock::LWP::UserAgent,LUKEC,f
 Test::Mock::LWP::UserAgent,MCMAHON,c
+Test::Mock::LWP::UserAgent::ButAwesome,ETHER,f
 Test::Mock::Net::FTP,TSUCCHI,f
 Test::Mock::Recorder,KZYS,f
 Test::Mock::Recorder::Expectation,KZYS,f
