@@ -644,6 +644,7 @@ Test::Kvasir::Rule,CLAESJAC,f
 Test::Kwalitee,CHROMATIC,f
 Test::LWP::MockSocket::http,MNUNBERG,f
 Test::LWP::Recorder,EALLENIII,f
+Test::LWP::UserAgent,ETHER,f
 Test::LatestPrereqs,ISHIGAKI,f
 Test::LatestPrereqs::Config,ISHIGAKI,f
 Test::LatestPrereqs::MakeMaker,ISHIGAKI,f
