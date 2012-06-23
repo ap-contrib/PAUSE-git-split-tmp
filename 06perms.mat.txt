@@ -152,6 +152,7 @@ Math::NumSeq::PlanePathN,KRYDE,f
 Math::NumSeq::PlanePathTurn,KRYDE,f
 Math::NumSeq::PolignacObstinate,KRYDE,f
 Math::NumSeq::Polygonal,KRYDE,f
+Math::NumSeq::PowerFlip,KRYDE,f
 Math::NumSeq::PowerPart,KRYDE,f
 Math::NumSeq::PowerSieve,KRYDE,f
 Math::NumSeq::Powerful,KRYDE,f
