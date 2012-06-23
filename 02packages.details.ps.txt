@@ -924,10 +924,10 @@ RDF::Helper::RDFTrine             undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::RDFTrine::Enumerator undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::Statement            undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::TiedPropertyHash     undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
-RDF::iCalendar                    0.002  T/TO/TOBYINK/RDF-iCalendar-0.002.tar.gz
-RDF::iCalendar::Entity            0.002  T/TO/TOBYINK/RDF-iCalendar-0.002.tar.gz
-RDF::iCalendar::Exporter          0.002  T/TO/TOBYINK/RDF-iCalendar-0.002.tar.gz
-RDF::iCalendar::Line              0.002  T/TO/TOBYINK/RDF-iCalendar-0.002.tar.gz
+RDF::iCalendar                    0.003  T/TO/TOBYINK/RDF-iCalendar-0.003.tar.gz
+RDF::iCalendar::Entity            0.003  T/TO/TOBYINK/RDF-iCalendar-0.003.tar.gz
+RDF::iCalendar::Exporter          0.003  T/TO/TOBYINK/RDF-iCalendar-0.003.tar.gz
+RDF::iCalendar::Line              0.003  T/TO/TOBYINK/RDF-iCalendar-0.003.tar.gz
 RDF::KML::Exporter                0.003  T/TO/TOBYINK/RDF-KML-Exporter-0.003.tar.gz
 RDF::Laces                         0.02  A/AW/AWIN/RDF-Laces-0.02.tar.gz
 RDF::Laces::Impl                   0.02  A/AW/AWIN/RDF-Laces-0.02.tar.gz
