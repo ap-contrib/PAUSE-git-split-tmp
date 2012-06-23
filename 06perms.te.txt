@@ -502,6 +502,7 @@ Tickit::Widget::Tree,TEAM,f
 Tickit::Widget::VBox,PEVANS,f
 Tickit::WidgetRole::Alignable,PEVANS,f
 Tickit::WidgetRole::Borderable,PEVANS,f
+Tickit::WidgetRole::Penable,PEVANS,f
 Tickit::Window,PEVANS,f
 TiddlyWeb::EditPage,CDENT,f
 TiddlyWeb::Resting,CDENT,f
