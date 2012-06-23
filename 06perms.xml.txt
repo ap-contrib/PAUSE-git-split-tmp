@@ -1172,6 +1172,7 @@ XML::Tiny,DCANTRELL,f
 XML::Tiny::DOM,DCANTRELL,f
 XML::Tiny::DOM::Element,DCANTRELL,f
 XML::Tiny::DOMmish::Node,DCANTRELL,f
+XML::Tiny::Simple,XLAT,f
 XML::TinyXML,XANT,f
 XML::TinyXML::Node,XANT,f
 XML::TinyXML::NodeAttribute,XANT,f

@@ -529,6 +529,7 @@ XML::TiePYX                        0.05  E/EB/EBOHLMAN/XML-TiePYX-0.05.tar.gz
 XML::Tiny                          2.06  D/DC/DCANTRELL/XML-Tiny-2.06.tar.gz
 XML::Tiny::DOM                      1.1  D/DC/DCANTRELL/XML-Tiny-DOM-1.1.tar.gz
 XML::Tiny::DOM::Element             1.1  D/DC/DCANTRELL/XML-Tiny-DOM-1.1.tar.gz
+XML::Tiny::Simple                  0.01  X/XL/XLAT/XML-Tiny-Simple-0.01.tar.gz
 XML::TinyXML                       0.30  X/XA/XANT/XML-TinyXML-0.30.tar.gz
 XML::TinyXML::Node                 0.30  X/XA/XANT/XML-TinyXML-0.30.tar.gz
 XML::TinyXML::NodeAttribute        0.30  X/XA/XANT/XML-TinyXML-0.30.tar.gz
