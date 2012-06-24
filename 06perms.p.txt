@@ -411,6 +411,7 @@ Quiki,SMASH,c
 Quiki::Attachments,AMBS,f
 Quiki::Formatter,AMBS,f
 Quiki::Formatter,SMASH,c
+Quiki::Formatter::HTML,AMBS,f
 Quiki::Meta,AMBS,f
 Quiki::Meta,SMASH,c
 Quiki::Pages,AMBS,f
