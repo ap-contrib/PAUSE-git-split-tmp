@@ -401,6 +401,7 @@ Class::User::DBI,DAVIDO,m
 Class::User::DBI::DB,DAVIDO,f
 Class::User::DBI::Domains,DAVIDO,f
 Class::User::DBI::Privileges,DAVIDO,f
+Class::User::DBI::RolePrivileges,DAVIDO,f
 Class::User::DBI::RolePrivilegess,DAVIDO,f
 Class::User::DBI::Roles,DAVIDO,f
 Class::User::DBI::UserDomains,DAVIDO,f
