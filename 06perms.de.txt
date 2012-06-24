@@ -338,6 +338,7 @@ Devel::tkdb,VKON,f
 Device::ACPI::Battery,AESOP,f
 Device::Arduino::LCD,MONTUORI,m
 Device::Audiotron,DCRAWFORD,f
+Device::BCM2835,MIKEM,f
 Device::Blkid,BASTIAN,f
 Device::Blkid::DevIterate,BASTIAN,f
 Device::Blkid::Device,BASTIAN,f
