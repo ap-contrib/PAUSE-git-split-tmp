@@ -481,7 +481,6 @@ XML::STX::TrAX::URIResolver       undef  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::STX::Writer                   0.03  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::Table2XML                      1.4  R/RK/RKAPL/XML-Table2XML-1.4.tar.gz
 XML::Tags                         undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
-XML::Tags::html5                  undef  M/MA/MARCC/xml-tags-0.0.tar.gz
 XML::Tags::StringThing            undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
 XML::Tags::TIEHANDLE              undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
 XML::Tags::Unex                   undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
