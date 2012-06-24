@@ -480,6 +480,9 @@ XML::STX::TrAX::Transformer       undef  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::STX::TrAX::URIResolver       undef  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::STX::Writer                   0.03  P/PC/PCIMPRICH/XML-STX-0.43.tar.gz
 XML::Table2XML                      1.4  R/RK/RKAPL/XML-Table2XML-1.4.tar.gz
+XML::Tag                            0.1  M/MA/MARCC/xml-tag-0.1.tar.gz
+XML::Tag::html5                   undef  M/MA/MARCC/xml-tag-0.1.tar.gz
+XML::Tag::html5_bootstrap         undef  M/MA/MARCC/xml-tag-0.1.tar.gz
 XML::Tags                         undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
 XML::Tags::StringThing            undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
 XML::Tags::TIEHANDLE              undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
