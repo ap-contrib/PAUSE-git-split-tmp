@@ -200,9 +200,6 @@ MyApp::Automata::TimerOff,VTI,c
 MyApp::Automata::TimerOn,VTI,c
 MyApp::Automata::User,VTI,c
 MyApp::Class,AWNCORP,f
-MyApp::Config,HIRAFOO,c
-MyApp::Container,HIRAFOO,c
-MyApp::Context,HIRAFOO,c
 MyApp::Context,VTI,c
 MyApp::Controller,ZBY,c
 MyApp::Controller::About,SMAN,f
@@ -217,12 +214,6 @@ MyApp::Controller::Log,SMAN,f
 MyApp::Controller::Login,SMAN,f
 MyApp::Controller::Logout,SMAN,f
 MyApp::Controller::Menu,SMAN,f
-MyApp::Controller::My::Item,HIRAFOO,c
-MyApp::Controller::My::Root,HIRAFOO,c
-MyApp::Controller::My::Some::Item,HIRAFOO,c
-MyApp::Controller::My::Some::Klass::Item,HIRAFOO,c
-MyApp::Controller::My::Some::Klass::Root,HIRAFOO,c
-MyApp::Controller::My::Some::Root,HIRAFOO,c
 MyApp::Controller::MyCollection,TAKERU,c
 MyApp::Controller::MyService,TAKERU,c
 MyApp::Controller::Przyklad,ZBY,c
@@ -231,7 +222,6 @@ MyApp::Controller::Root,ZBY,c
 MyApp::Controller::Test,SMAN,f
 MyApp::Controller::User,SMAN,f
 MyApp::Controller::WithAttributes,ZBY,c
-MyApp::Dispatcher,HIRAFOO,c
 MyApp::Example,FOOLISH,f
 MyApp::Export,ASKSH,c
 MyApp::Export::Base,ASKSH,c
@@ -253,7 +243,6 @@ MyApp::Model::MyAppDB,SMAN,f
 MyApp::Model::Schema,TAKERU,c
 MyApp::Root,VTI,c
 MyApp::Util,SMAN,f
-MyApp::View,HIRAFOO,c
 MyApp::View::TT,SMAN,f
 MyAppConfig,OLIVER,f
 MyAppDB,ERIAM,f
