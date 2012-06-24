@@ -1377,6 +1377,7 @@ MooseX::Types::Email,BOBTFISH,c
 MooseX::Types::Email,BROQ,c
 MooseX::Types::Email,CHRISA,c
 MooseX::Types::Email,DROLSKY,c
+MooseX::Types::Email,ETHER,c
 MooseX::Types::Email,FLORA,c
 MooseX::Types::Email,GRODITI,c
 MooseX::Types::Email,GSHANK,c

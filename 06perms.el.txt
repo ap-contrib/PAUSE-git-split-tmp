@@ -120,8 +120,11 @@ Email::Address::Loose::EmailValidLoose,CODEREPOS,c
 Email::Address::Loose::EmailValidLoose,TOMITA,f
 Email::AddressParser,AWKAY,f
 Email::Archive,APEIRON,f
+Email::Archive,ETHER,c
 Email::Archive::Storage,APEIRON,f
+Email::Archive::Storage,ETHER,c
 Email::Archive::Storage::DBI,APEIRON,f
+Email::Archive::Storage::DBI,ETHER,c
 Email::Auth::AddressHash,AURUM,f
 Email::AutoReply,AMONSEN,m
 Email::AutoReply::DB,AMONSEN,f
