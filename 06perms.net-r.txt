@@ -15,7 +15,8 @@ Net::Rendezvous,CHLIGE,f
 Net::Rendezvous::Entry,CHLIGE,f
 Net::Rendezvous::Publish,RCLAMP,f
 Net::Rendezvous::Publish::Backend::Apple,RCLAMP,f
-Net::Rendezvous::Publish::Backend::Avahi,JABLKO,f
+Net::Rendezvous::Publish::Backend::Avahi,IOANR,f
+Net::Rendezvous::Publish::Backend::Avahi,JABLKO,c
 Net::Rendezvous::Publish::Backend::Howl,RCLAMP,f
 Net::Rendezvous::Publish::Backend::Null,RCLAMP,f
 Net::Rendezvous::Publish::Service,RCLAMP,f
