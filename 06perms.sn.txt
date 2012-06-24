@@ -904,6 +904,8 @@ SQL::Eval,JZUCKER,c
 SQL::Eval,REHSACK,f
 SQL::Eval::Table,JZUCKER,c
 SQL::Eval::Table,REHSACK,f
+SQL::Executor,TSUCCHI,f
+SQL::Executor::Iterator,TSUCCHI,f
 SQL::Extended,DARNOLD,m
 SQL::Filter,DAVINCHI,c
 SQL::Format,XAICRON,f
