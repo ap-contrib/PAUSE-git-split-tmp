@@ -1220,6 +1220,7 @@ UMLS::Similarity::lin,BTMCINNES,f
 UMLS::Similarity::lin,TPEDERSE,c
 UMLS::Similarity::nam,BTMCINNES,f
 UMLS::Similarity::nam,TPEDERSE,c
+UMLS::Similarity::o1vector,BTMCINNES,f
 UMLS::Similarity::path,BTMCINNES,f
 UMLS::Similarity::path,TPEDERSE,c
 UMLS::Similarity::random,BTMCINNES,f
