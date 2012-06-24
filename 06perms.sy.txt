@@ -557,6 +557,7 @@ Sys::Trace::Impl::Ktrace,DGL,f
 Sys::Trace::Impl::Strace,DGL,f
 Sys::Trace::Impl::Truss,DGL,f
 Sys::Trace::Results,DGL,f
+Sys::UniqueID,ESTRAI,c
 Sys::UniqueID,FIVE,f
 Sys::Uptime,WIMDH,m
 Sys::User::UIDhelper,VVELOX,f
