@@ -265,7 +265,7 @@ CPAN::Testers::Data::Addresses     0.07  B/BA/BARBIE/CPAN-Testers-Data-Addresses
 CPAN::Testers::Data::Generator     1.02  B/BA/BARBIE/CPAN-Testers-Data-Generator-1.02.tar.gz
 CPAN::Testers::Data::Release       0.03  B/BA/BARBIE/CPAN-Testers-Data-Release-0.03.tar.gz
 CPAN::Testers::Data::Uploads       0.17  B/BA/BARBIE/CPAN-Testers-Data-Uploads-0.17.tar.gz
-CPAN::Testers::Data::Uploads::Mailer 0.03  B/BA/BARBIE/CPAN-Testers-Data-Uploads-Mailer-0.03.tar.gz
+CPAN::Testers::Data::Uploads::Mailer 0.04  B/BA/BARBIE/CPAN-Testers-Data-Uploads-Mailer-0.04.tar.gz
 CPAN::Testers::Fact::InstalledModules 1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1.999001.tar.gz
 CPAN::Testers::Fact::LegacyReport 1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1.999001.tar.gz
 CPAN::Testers::Fact::PerlConfig 1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1.999001.tar.gz
