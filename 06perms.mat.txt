@@ -399,6 +399,7 @@ Math::PlanePath::PeanoRounded,KRYDE,f
 Math::PlanePath::PentSpiral,KRYDE,f
 Math::PlanePath::PentSpiralSkewed,KRYDE,f
 Math::PlanePath::PixelRings,KRYDE,f
+Math::PlanePath::PowerArray,KRYDE,f
 Math::PlanePath::PyramidReplicate,KRYDE,f
 Math::PlanePath::PyramidRows,KRYDE,f
 Math::PlanePath::PyramidSides,KRYDE,f
@@ -442,6 +443,7 @@ Math::PlanePath::UlamWarburtonQuarter,KRYDE,f
 Math::PlanePath::VogelFloret,KRYDE,f
 Math::PlanePath::WunderlichMeander,KRYDE,f
 Math::PlanePath::WunderlichSerpentine,KRYDE,f
+Math::PlanePath::WythoffArray,KRYDE,f
 Math::PlanePath::ZOrderCurve,KRYDE,f
 Math::Polygon,MARKOV,m
 Math::Polygon::Calc,MARKOV,f
