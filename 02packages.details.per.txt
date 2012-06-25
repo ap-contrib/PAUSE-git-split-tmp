@@ -422,7 +422,7 @@ Pg::Explain::FromXML               0.62  D/DE/DEPESZ/Pg-Explain-0.62.tar.gz
 Pg::Explain::FromYAML              0.62  D/DE/DEPESZ/Pg-Explain-0.62.tar.gz
 Pg::Explain::Node                  0.62  D/DE/DEPESZ/Pg-Explain-0.62.tar.gz
 Pg::Explain::StringAnonymizer      0.62  D/DE/DEPESZ/Pg-Explain-0.62.tar.gz
-Pg::hstore                         1.02  A/AL/ALT/Pg-hstore-1.02.tar.gz
+Pg::hstore                         1.03  A/AL/ALT/Pg-hstore-1.03.tar.gz
 Pg::Loader                         0.18  I/IO/IOANNIS/Pg-Loader-0.18.tar.gz
 Pg::Loader::Columns                0.12  I/IO/IOANNIS/Pg-Loader-0.18.tar.gz
 Pg::Loader::Copy                   0.17  I/IO/IOANNIS/Pg-Loader-0.18.tar.gz
