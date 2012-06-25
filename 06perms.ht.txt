@@ -661,6 +661,7 @@ HTML::FormHandlerX::Field::DateTimeNatural,ROMANF,f
 HTML::FormHandlerX::Field::URI::HTTP,ROMANF,f
 HTML::FormHandlerX::Field::reCAPTCHA,JJNAPIORK,f
 HTML::FormHandlerX::Field::reCAPTCHA,PHAYLON,c
+HTML::FormHandlerX::Form::Contact,CAGAO,f
 HTML::FormHandlerX::Form::Login,CAGAO,m
 HTML::FormHandlerX::Widget::Field::reCAPTCHA,JJNAPIORK,f
 HTML::FormHandlerX::Widget::Field::reCAPTCHA,PHAYLON,c
