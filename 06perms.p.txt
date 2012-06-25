@@ -735,8 +735,17 @@ RDF::Core::Storage::Postgres,PCIMPRICH,c
 RDF::Crypt,TOBYINK,f
 RDF::Crypt::Decrypter,TOBYINK,f
 RDF::Crypt::Encrypter,TOBYINK,f
+RDF::Crypt::ManifestItem,TOBYINK,f
 RDF::Crypt::PrivateKeyFunction,TOBYINK,f
 RDF::Crypt::PublicKeyFunction,TOBYINK,f
+RDF::Crypt::Role::DoesDecrypt,TOBYINK,f
+RDF::Crypt::Role::DoesEncrypt,TOBYINK,f
+RDF::Crypt::Role::DoesSign,TOBYINK,f
+RDF::Crypt::Role::DoesVerify,TOBYINK,f
+RDF::Crypt::Role::StandardSignatureMarkers,TOBYINK,f
+RDF::Crypt::Role::ToString,TOBYINK,f
+RDF::Crypt::Role::WithPrivateKey,TOBYINK,f
+RDF::Crypt::Role::WithPublicKeys,TOBYINK,f
 RDF::Crypt::Signer,TOBYINK,f
 RDF::Crypt::Verifier,TOBYINK,f
 RDF::DOAP::ChangeSets,TOBYINK,f
