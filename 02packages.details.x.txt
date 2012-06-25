@@ -649,7 +649,7 @@ XML::DOMBacked                     1.00  J/JD/JDUNCAN/XML-DOMBacked-1.00.tar.gz
 XML::DOMHandler                     1.0  E/ER/ERIKRAY/XML-DOMHandler-1.0.tar.gz
 XML::DoubleEncodedEntities          1.0  D/DC/DCANTRELL/XML-DoubleEncodedEntities-1.0.tar.gz
 XML::Driver::HTML                  0.06  K/KR/KRAEHE/XML-Driver-HTML-0.06.tar.gz
-XML::DT                            0.61  A/AM/AMBS/XML/XML-DT-0.61.tar.gz
+XML::DT                            0.62  A/AM/AMBS/XML/XML-DT-0.62.tar.gz
 XML::DTD                           0.10  W/WO/WOHL/XML-DTD-0.10.tar.gz
 XML::DTD::AttDef                   0.09  W/WO/WOHL/XML-DTD-0.10.tar.gz
 XML::DTD::AttList                  0.09  W/WO/WOHL/XML-DTD-0.10.tar.gz
