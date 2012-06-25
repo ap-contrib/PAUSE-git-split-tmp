@@ -628,10 +628,10 @@ Test::NeedsDisplay                 1.07  A/AD/ADAMK/Test-NeedsDisplay-1.07.tar.g
 Test::Net::Connect                 0.03  N/NI/NIKC/Test-Net-Connect-0.03.tar.gz
 Test::Net::RabbitMQ                0.08  G/GP/GPHAT/Test-Net-RabbitMQ-0.08.tar.gz
 Test::Net::Service                 0.06  J/JK/JKUTEJ/Test-Server-0.06.tar.gz
-Test::Nginx                        0.19  A/AG/AGENT/Test-Nginx-0.19.tar.gz
-Test::Nginx::LWP                   0.19  A/AG/AGENT/Test-Nginx-0.19.tar.gz
-Test::Nginx::Socket                0.19  A/AG/AGENT/Test-Nginx-0.19.tar.gz
-Test::Nginx::Util                  0.19  A/AG/AGENT/Test-Nginx-0.19.tar.gz
+Test::Nginx                        0.20  A/AG/AGENT/Test-Nginx-0.20.tar.gz
+Test::Nginx::LWP                   0.20  A/AG/AGENT/Test-Nginx-0.20.tar.gz
+Test::Nginx::Socket                0.20  A/AG/AGENT/Test-Nginx-0.20.tar.gz
+Test::Nginx::Util                  0.20  A/AG/AGENT/Test-Nginx-0.20.tar.gz
 Test::Nightly                      0.03  K/KI/KIRSTINB/Test-Nightly-0.03.tar.gz
 Test::Nightly::Base                0.03  K/KI/KIRSTINB/Test-Nightly-0.03.tar.gz
 Test::Nightly::Email               0.03  K/KI/KIRSTINB/Test-Nightly-0.03.tar.gz
