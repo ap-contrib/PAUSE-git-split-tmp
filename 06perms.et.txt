@@ -363,6 +363,7 @@ Excel::Writer::XLSX::Package::Theme,JMCNAMARA,f
 Excel::Writer::XLSX::Package::VML,JMCNAMARA,f
 Excel::Writer::XLSX::Package::XMLwriter,JMCNAMARA,f
 Excel::Writer::XLSX::Package::XMLwriterSimple,JMCNAMARA,f
+Excel::Writer::XLSX::Shape,JMCNAMARA,f
 Excel::Writer::XLSX::Utility,JMCNAMARA,f
 Excel::Writer::XLSX::Workbook,JMCNAMARA,f
 Excel::Writer::XLSX::Worksheet,JMCNAMARA,f
