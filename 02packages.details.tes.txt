@@ -64,11 +64,11 @@ Test::Chunks                       0.39  I/IN/INGY/Test-Chunks-0.39.tar.gz
 Test::Chunks::Chunk                0.39  I/IN/INGY/Test-Chunks-0.39.tar.gz
 Test::Chunks::Filter               0.39  I/IN/INGY/Test-Chunks-0.39.tar.gz
 Test::Chunks::Handle               0.39  I/IN/INGY/Test-Chunks-0.39.tar.gz
-Test::Class                        0.36  A/AD/ADIE/Test-Class-0.36.tar.gz
+Test::Class                        0.37  A/AD/ADIE/Test-Class-0.37.tar.gz
 Test::Class::Filter::Tags          0.11  M/MM/MMORGAN/Test-Class-Filter-Tags-0.11.tar.gz
 Test::Class::GetoptControl     1.100860  M/MA/MARCEL/Test-Class-GetoptControl-1.100860.tar.gz
-Test::Class::Load                  0.35  A/AD/ADIE/Test-Class-0.36.tar.gz
-Test::Class::MethodInfo            0.34  A/AD/ADIE/Test-Class-0.36.tar.gz
+Test::Class::Load                  0.35  A/AD/ADIE/Test-Class-0.37.tar.gz
+Test::Class::MethodInfo            0.34  A/AD/ADIE/Test-Class-0.37.tar.gz
 Test::Class::Most                  0.06  O/OV/OVID/Test-Class-Most-0.06.tar.gz
 Test::Class::Sugar               0.0400  P/PD/PDCAWLEY/Test-Class-Sugar-0.0400.tar.gz
 Test::Class::Sugar::Context      0.0300  P/PD/PDCAWLEY/Test-Class-Sugar-0.0400.tar.gz
