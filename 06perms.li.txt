@@ -362,6 +362,11 @@ Lingua::XFST::Privates::STRING_BUFFERtype,ARNSHOLT,f
 Lingua::XFST::Privates::TUPLEtype,ARNSHOLT,f
 Lingua::XFST::Privates::VECTORtype,ARNSHOLT,f
 Lingua::XFST::Privatesc,ARNSHOLT,f
+Lingua::YALI,MAJLIS,f
+Lingua::YALI::Builder,MAJLIS,f
+Lingua::YALI::CustomIdentifier,MAJLIS,f
+Lingua::YALI::Identifier,MAJLIS,f
+Lingua::YALI::LanguageIdentifier,MAJLIS,f
 Lingua::YaTeA,THHAMON,f
 Lingua::YaTeA::AnnotationMark,THHAMON,f
 Lingua::YaTeA::ChunkingDataSet,THHAMON,f

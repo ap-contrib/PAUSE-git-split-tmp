@@ -190,6 +190,7 @@ Net::SIP::Authorize::FromIsAuthUser,SULLR,f
 Net::SIP::Authorize::FromIsRealm,SULLR,f
 Net::SIP::Authorize::ToIsFrom,SULLR,f
 Net::SIP::Blocker,SULLR,f
+Net::SIP::DTMF,SULLR,f
 Net::SIP::Debug,SULLR,f
 Net::SIP::Dispatcher,SULLR,f
 Net::SIP::Dispatcher::Eventloop,SULLR,f
