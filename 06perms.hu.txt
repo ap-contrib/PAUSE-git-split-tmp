@@ -645,6 +645,8 @@ IO::Async::Loop::linux,PEVANS,f
 IO::Async::LoopTests,PEVANS,f
 IO::Async::MergePoint,PEVANS,f
 IO::Async::Notifier,PEVANS,f
+IO::Async::OS,PEVANS,f
+IO::Async::OS::MSWin32,PEVANS,f
 IO::Async::PID,PEVANS,f
 IO::Async::Process,PEVANS,f
 IO::Async::Protocol,PEVANS,f
