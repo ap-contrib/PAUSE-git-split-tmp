@@ -107,6 +107,7 @@ FusionInventory::Agent::Task::Inventory::Input::Solaris::Storages,FUSINV,f
 FusionInventory::Agent::Task::Inventory::Input::Virtualization,FUSINV,f
 FusionInventory::Agent::Task::Inventory::Input::Virtualization::Hpvm,FUSINV,f
 FusionInventory::Agent::Task::Inventory::Input::Virtualization::Libvirt,FUSINV,f
+FusionInventory::Agent::Task::Inventory::Input::Virtualization::Lxc,FUSINV,f
 FusionInventory::Agent::Task::Inventory::Input::Virtualization::Parallels,FUSINV,f
 FusionInventory::Agent::Task::Inventory::Input::Virtualization::Qemu,FUSINV,f
 FusionInventory::Agent::Task::Inventory::Input::Virtualization::SolarisZones,FUSINV,f
