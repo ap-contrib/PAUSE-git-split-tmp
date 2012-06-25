@@ -1601,6 +1601,7 @@ Dist::Zilla::Plugin::Web::StripBOM,NPLATONOV,f
 Dist::Zilla::PluginBundle::AJGB,AJGB,f
 Dist::Zilla::PluginBundle::ALEXK,ALEXK,f
 Dist::Zilla::PluginBundle::AMD,AMD,f
+Dist::Zilla::PluginBundle::ANELSON,ANELSON,f
 Dist::Zilla::PluginBundle::ARJONES,ARJONES,f
 Dist::Zilla::PluginBundle::ARODLAND,ARODLAND,f
 Dist::Zilla::PluginBundle::AVAR,AVAR,f
