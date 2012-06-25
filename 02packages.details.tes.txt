@@ -641,7 +641,7 @@ Test::Nightly::Test                0.03  K/KI/KIRSTINB/Test-Nightly-0.03.tar.gz
 Test::NoBreakpoints                0.15  J/JF/JFITZ/Test-NoBreakpoints-0.15.tar.gz
 Test::NoPlan                     v0.0.6  D/DU/DUNCS/Test-NoPlan-v0.0.6.tar.gz
 Test::NoSmartComments             0.004  R/RS/RSRCHBOY/Test-NoSmartComments-0.004.tar.gz
-Test::NoTabs                        1.2  B/BO/BOBTFISH/Test-NoTabs-1.2.tar.gz
+Test::NoTabs                        1.3  B/BO/BOBTFISH/Test-NoTabs-1.3.tar.gz
 Test::NoWarnings                   1.04  A/AD/ADAMK/Test-NoWarnings-1.04.tar.gz
 Test::NoWarnings::Warning          1.04  A/AD/ADAMK/Test-NoWarnings-1.04.tar.gz
 Test::NoXS                         1.01  D/DA/DAGOLDEN/Test-NoXS-1.01.tar.gz
