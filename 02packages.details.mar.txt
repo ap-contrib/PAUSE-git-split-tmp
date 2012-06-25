@@ -108,7 +108,7 @@ Marpa::XS::Internal::Recognizer       0  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Internal::Value            0  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Recognizer          1.008000  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
 Marpa::XS::Value               1.008000  J/JK/JKEGL/Marpa-XS-1.008000.tar.gz
-MarpaX::Simple::Rules            v0.2.2  S/ST/STUIFZAND/MarpaX-Simple-Rules-v0.2.2.tar.gz
+MarpaX::Simple::Rules            v0.2.6  S/ST/STUIFZAND/MarpaX-Simple-Rules-v0.2.6.tar.gz
 MAS::TIFF::Compression::LZW       undef  G/GR/GREGOR/MAS-TIFF-0.4.tar.gz
 MAS::TIFF::Compression::LZW::State undef  G/GR/GREGOR/MAS-TIFF-0.4.tar.gz
 MAS::TIFF::DataType               undef  G/GR/GREGOR/MAS-TIFF-0.4.tar.gz
