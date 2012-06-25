@@ -137,7 +137,7 @@ Lingua::PT::Ords2Nums              0.07  C/CO/COG/Lingua-PT-Ords2Nums-0.07.tar.g
 Lingua::PT::PLN                    0.20  A/AM/AMBS/Lingua/Lingua-PT-PLN-0.20.tar.gz
 Lingua::PT::PLN::tokenizer        undef  J/JJ/JJOAO/Lingua-PT-PLN-0.15.tar.gz
 Lingua::PT::PLN::Words2Sampa      undef  A/AM/AMBS/Lingua/Lingua-PT-PLN-0.20.tar.gz
-Lingua::PT::PLNbase                0.24  A/AM/AMBS/Lingua/Lingua-PT-PLNbase-0.24.tar.gz
+Lingua::PT::PLNbase                0.25  A/AM/AMBS/Lingua/Lingua-PT-PLNbase-0.25.tar.gz
 Lingua::PT::ProperNames            0.09  A/AM/AMBS/Lingua/Lingua-PT-ProperNames-0.09.tar.gz
 Lingua::PT::Speaker                0.10  A/AM/AMBS/Lingua/Lingua-PT-Speaker-0.10.tar.gz
 Lingua::PT::Speaker::AdjWords     undef  A/AM/AMBS/Lingua/Lingua-PT-Speaker-0.10.tar.gz
