@@ -7,8 +7,8 @@ WWW::Pastebin::PhpfiCom::Create   0.001  Z/ZO/ZOFFIX/WWW-Pastebin-PhpfiCom-Creat
 WWW::Pastebin::PhpfiCom::Retrieve 0.001  Z/ZO/ZOFFIX/WWW-Pastebin-PhpfiCom-Retrieve-0.001.tar.gz
 WWW::Pastebin::RafbNet::Create    0.001  Z/ZO/ZOFFIX/WWW-Pastebin-RafbNet-Create-0.001.tar.gz
 WWW::Pastebin::RafbNet::Retrieve  0.001  Z/ZO/ZOFFIX/WWW-Pastebin-RafbNet-Retrieve-0.001.tar.gz
-WWW::Pastebin::Sprunge::Create    0.006  D/DO/DOHERTY/WWW-Pastebin-Sprunge-0.006.tar.gz
-WWW::Pastebin::Sprunge::Retrieve  0.006  D/DO/DOHERTY/WWW-Pastebin-Sprunge-0.006.tar.gz
+WWW::Pastebin::Sprunge::Create    0.007  D/DO/DOHERTY/WWW-Pastebin-Sprunge-0.007.tar.gz
+WWW::Pastebin::Sprunge::Retrieve  0.007  D/DO/DOHERTY/WWW-Pastebin-Sprunge-0.007.tar.gz
 WWW::Pastebin::UbuntuNlOrg::Retrieve 0.001  Z/ZO/ZOFFIX/WWW-Pastebin-UbuntuNlOrg-Retrieve-0.001.tar.gz
 WWW::Patent::Page              0.109000  A/AN/ANONWB/WWW-Patent-Page-0.109.0.tar.gz
 WWW::Patent::Page::JPO_IPDI        0.02  A/AN/ANONWB/WWW-Patent-Page-0.109.0.tar.gz
