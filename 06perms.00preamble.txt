@@ -3,9 +3,9 @@ Description: CSV file of upload permission to the CPAN per namespace
     best-permission is one of "m" for "modulelist", "f" for
     "first-come", "c" for "co-maint"
 Columns:     package,userid,best-permission
-Line-Count:  214663
+Line-Count:  214677
 Written-By:  PAUSE version 1.14
-Date:        Mon, 25 Jun 2012 14:22:36 GMT
+Date:        Mon, 25 Jun 2012 14:52:31 GMT
 
 A,ADAMK,f
 A::B,CODEREPOS,c
@@ -663,6 +663,10 @@ API::Plesk::Complex,BILIARDS,c
 API::Plesk::Complex,IVSOKOLOV,c
 API::Plesk::Complex,JATU,c
 API::Plesk::Complex,NRG,f
+API::Plesk::Component,IVSOKOLOV,f
+API::Plesk::Customer,IVSOKOLOV,f
+API::Plesk::DNS,IVSOKOLOV,f
+API::Plesk::Database,IVSOKOLOV,f
 API::Plesk::DatabaseUsers,BILIARDS,c
 API::Plesk::DatabaseUsers,IVSOKOLOV,c
 API::Plesk::DatabaseUsers,JATU,c
@@ -679,6 +683,7 @@ API::Plesk::Domains,BILIARDS,c
 API::Plesk::Domains,IVSOKOLOV,c
 API::Plesk::Domains,JATU,c
 API::Plesk::Domains,NRG,f
+API::Plesk::FTPUser,IVSOKOLOV,f
 API::Plesk::Mail,BILIARDS,c
 API::Plesk::Mail,IVSOKOLOV,c
 API::Plesk::Mail,JATU,c
@@ -687,14 +692,23 @@ API::Plesk::Methods,BILIARDS,c
 API::Plesk::Methods,IVSOKOLOV,c
 API::Plesk::Methods,JATU,c
 API::Plesk::Methods,NRG,f
+API::Plesk::Mock,IVSOKOLOV,f
 API::Plesk::Response,BILIARDS,c
 API::Plesk::Response,IVSOKOLOV,c
 API::Plesk::Response,JATU,c
 API::Plesk::Response,NRG,f
+API::Plesk::ServicePlan,IVSOKOLOV,f
+API::Plesk::ServicePlanAddon,IVSOKOLOV,f
+API::Plesk::Site,IVSOKOLOV,f
+API::Plesk::SiteAlias,IVSOKOLOV,f
+API::Plesk::SiteBuilder,IVSOKOLOV,f
 API::Plesk::Templates,BILIARDS,c
 API::Plesk::Templates,IVSOKOLOV,c
 API::Plesk::Templates,JATU,c
 API::Plesk::Templates,NRG,f
+API::Plesk::User,IVSOKOLOV,f
+API::Plesk::WebUser,IVSOKOLOV,f
+API::Plesk::Webspace,IVSOKOLOV,f
 API::PleskExpand,NRG,f
 API::PleskExpand::Accounts,NRG,f
 API::PleskExpand::Domains,NRG,f
