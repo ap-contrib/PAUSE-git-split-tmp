@@ -299,6 +299,7 @@ Sidecar,RCAPUTO,f
 Siebel::Srvrmgr,ARFREITAS,m
 Siebel::Srvrmgr::Daemon,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::Action,ARFREITAS,f
+Siebel::Srvrmgr::Daemon::Action::CheckComps,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::Action::Dumper,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::Action::ListCompDef,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::Action::ListCompTypes,ARFREITAS,f
@@ -307,6 +308,7 @@ Siebel::Srvrmgr::Daemon::Action::ListParams,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::Action::LoadPreferences,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::Action::Serializable,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::ActionFactory,ARFREITAS,f
+Siebel::Srvrmgr::Daemon::ActionStash,ARFREITAS,f
 Siebel::Srvrmgr::Daemon::Condition,ARFREITAS,f
 Siebel::Srvrmgr::ListParser,ARFREITAS,f
 Siebel::Srvrmgr::ListParser::Buffer,ARFREITAS,f
