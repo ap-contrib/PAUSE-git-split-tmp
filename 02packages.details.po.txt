@@ -793,14 +793,14 @@ POSIX::bsearch                     0.02  D/DA/DAVIDNICO/POSIX-bsearch-0.02.tar.g
 POSIX::Open3                       0.01  A/AM/AMBS/POSIX/POSIX-Open3-0.01.tar.gz
 POSIX::pselect                     0.02  G/GF/GFUJI/POSIX-pselect-0.02.tar.gz
 POSIX::Regex                     1.0001  J/JE/JETTERO/POSIX-Regex-1.0001.tar.gz
-POSIX::RT::Clock                  0.013  L/LE/LEONT/POSIX-RT-Timer-0.013.tar.gz
+POSIX::RT::Clock                  0.014  L/LE/LEONT/POSIX-RT-Timer-0.014.tar.gz
 POSIX::RT::MQ                      0.03  I/IL/ILJATABAC/POSIX-RT-MQ-0.03.tar.gz
 POSIX::RT::Scheduler              0.003  L/LE/LEONT/POSIX-RT-Scheduler-0.003.tar.gz
 POSIX::RT::Semaphore               0.05  M/MJ/MJP/POSIX-RT-Semaphore-0.05.tar.gz
 POSIX::RT::SharedMem               0.08  L/LE/LEONT/POSIX-RT-SharedMem-0.08.tar.gz
 POSIX::RT::Signal                 0.010  L/LE/LEONT/POSIX-RT-Signal-0.010.tar.gz
 POSIX::RT::Spawn                   0.11  G/GR/GRAY/POSIX-RT-Spawn-0.11.tar.gz
-POSIX::RT::Timer                  0.013  L/LE/LEONT/POSIX-RT-Timer-0.013.tar.gz
+POSIX::RT::Timer                  0.014  L/LE/LEONT/POSIX-RT-Timer-0.014.tar.gz
 POSIX::SchedYield              0.000002  M/MA/MARCB/POSIX-SchedYield/POSIX-SchedYield-0.0.2.tar.gz
 POSIX::SigAction                   1.26  F/FL/FLORA/perl-5.15.4.tar.gz
 POSIX::SigRt                       1.26  F/FL/FLORA/perl-5.15.4.tar.gz
