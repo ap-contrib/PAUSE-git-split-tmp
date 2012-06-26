@@ -330,6 +330,7 @@ Net::Growl::NotificationPacket     0.99  N/NM/NMCFARL/Net-Growl-0.99.tar.gz
 Net::Growl::RegistrationPacket     0.99  N/NM/NMCFARL/Net-Growl-0.99.tar.gz
 Net::GrowlClient                   0.02  C/CA/CASTOR/Net-GrowlClient-0.02.tar.gz
 Net::GrpNetworks                   1.08  A/AR/ARVIEGAS/Net-GrpNetworks-1.08.tar.gz
+Net::Hadoop::DFSAdmin::ReportParser 0.1  T/TA/TAGOMORIS/Net-Hadoop-DFSAdmin-ReportParser-0.1.tar.gz
 Net::Hadoop::WebHDFS                0.2  T/TA/TAGOMORIS/Net-Hadoop-WebHDFS-0.2.tar.gz
 Net::Halo::Status                  0.02  L/LI/LINK/Net-Halo-Status-0.02.tar.gz
 Net::HAProxy                      0.001  R/RG/RGE/Net-HAProxy-0.001.tar.gz
