@@ -321,6 +321,7 @@ Net::SNMP::Mixin::IpRouteTable,GAISSMAI,f
 Net::SNMP::Mixin::System,GAISSMAI,f
 Net::SNMP::Mixin::Util,GAISSMAI,f
 Net::SNMP::PDU,DTOWN,f
+Net::SNMP::QueryEngine::AnyEvent,GRUBER,f
 Net::SNMP::Security,DTOWN,f
 Net::SNMP::Security::Community,DTOWN,f
 Net::SNMP::Security::USM,DTOWN,f
