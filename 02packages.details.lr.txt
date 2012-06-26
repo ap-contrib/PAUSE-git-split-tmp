@@ -351,7 +351,7 @@ LWP::Conn::HTTP::UntilEOF         undef  G/GA/GAAS/LWPng-alpha-0.24.tar.gz
 LWP::ConnCache                     6.02  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::ConnCache::MaxKeepAliveRequests 0.33  L/LB/LBROCARD/LWP-ConnCache-MaxKeepAliveRequests-0.33.tar.gz
 LWP::ConnCache::Resolving          0.02  S/SE/SERGEYCHE/LWP-ConnCache-Resolving-0.02.tar.gz
-LWP::Curl                          0.10  L/LO/LORN/LWP-Curl-0.10.tar.gz
+LWP::Curl                          0.11  L/LO/LORN/LWP-Curl-0.11.tar.gz
 LWP::Debug                        undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::DebugFile                    undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Dump                         undef  G/GA/GAAS/LWPng-alpha-0.24.tar.gz
