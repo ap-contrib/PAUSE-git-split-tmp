@@ -306,7 +306,7 @@ HTML::HiLiter                      0.17  K/KA/KARMAN/HTML-HiLiter-0.17.tar.gz
 html::homepage                    undef  T/TB/TBONE/HTML-Seamstress-6.112830.tar.gz
 HTML::HTML5::Builder              0.004  T/TO/TOBYINK/HTML-HTML5-Builder-0.004.tar.gz
 HTML::HTML5::Builder::Document    0.004  T/TO/TOBYINK/HTML-HTML5-Builder-0.004.tar.gz
-HTML::HTML5::Entities             0.002  T/TO/TOBYINK/HTML-HTML5-Entities-0.002.tar.gz
+HTML::HTML5::Entities             0.003  T/TO/TOBYINK/HTML-HTML5-Entities-0.003.tar.gz
 HTML::HTML5::Microdata::Parser    0.100  T/TO/TOBYINK/HTML-HTML5-Microdata-Parser-0.100.tar.gz
 HTML::HTML5::Microdata::Strategy::Basic 0.100  T/TO/TOBYINK/HTML-HTML5-Microdata-Parser-0.100.tar.gz
 HTML::HTML5::Microdata::Strategy::Heuristic 0.100  T/TO/TOBYINK/HTML-HTML5-Microdata-Parser-0.100.tar.gz
