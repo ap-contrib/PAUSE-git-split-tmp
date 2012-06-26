@@ -227,8 +227,8 @@ Data::SCORM::Types                undef  O/OS/OSFAMERON/Data-SCORM-0.07.tar.gz
 Data::Scroller                     1.00  B/BE/BENH/Data-Scroller-1.00.tar.gz
 Data::Search                       0.03  A/AL/ALX/Data-Search-0.03.tar.gz
 Data::SearchEngine                 0.33  A/AN/ANELSON/Data-SearchEngine-0.33.tar.gz
-Data::SearchEngine::ElasticSearch  0.19  A/AN/ANELSON/Data-SearchEngine-ElasticSearch-0.19.tar.gz
-Data::SearchEngine::ElasticSearch::Results 0.19  A/AN/ANELSON/Data-SearchEngine-ElasticSearch-0.19.tar.gz
+Data::SearchEngine::ElasticSearch  0.21  A/AN/ANELSON/Data-SearchEngine-ElasticSearch-0.21.tar.gz
+Data::SearchEngine::ElasticSearch::Results 0.21  A/AN/ANELSON/Data-SearchEngine-ElasticSearch-0.21.tar.gz
 Data::SearchEngine::Item           0.33  A/AN/ANELSON/Data-SearchEngine-0.33.tar.gz
 Data::SearchEngine::Meta::Attribute::Trait::Digestable 0.33  A/AN/ANELSON/Data-SearchEngine-0.33.tar.gz
 Data::SearchEngine::Modifiable     0.33  A/AN/ANELSON/Data-SearchEngine-0.33.tar.gz
