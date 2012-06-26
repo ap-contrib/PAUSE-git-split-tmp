@@ -309,11 +309,11 @@ Lingua::XFST::Privates::STRING_BUFFERtype undef  A/AR/ARNSHOLT/Lingua-XFST-0.1.t
 Lingua::XFST::Privates::TUPLEtype undef  A/AR/ARNSHOLT/Lingua-XFST-0.1.tar.gz
 Lingua::XFST::Privates::VECTORtype undef  A/AR/ARNSHOLT/Lingua-XFST-0.1.tar.gz
 Lingua::XFST::Privatesc           undef  A/AR/ARNSHOLT/Lingua-XFST-0.1.tar.gz
-Lingua::YALI                      undef  M/MA/MAJLIS/Lingua-YALI-0.004.tar.gz
-Lingua::YALI::Builder             undef  M/MA/MAJLIS/Lingua-YALI-0.004.tar.gz
+Lingua::YALI                      undef  M/MA/MAJLIS/Lingua-YALI-0.005.tar.gz
+Lingua::YALI::Builder             undef  M/MA/MAJLIS/Lingua-YALI-0.005.tar.gz
 Lingua::YALI::CustomIdentifier    undef  M/MA/MAJLIS/Lingua-YALI-0.002.tar.gz
-Lingua::YALI::Identifier          undef  M/MA/MAJLIS/Lingua-YALI-0.004.tar.gz
-Lingua::YALI::LanguageIdentifier  undef  M/MA/MAJLIS/Lingua-YALI-0.004.tar.gz
+Lingua::YALI::Identifier          undef  M/MA/MAJLIS/Lingua-YALI-0.005.tar.gz
+Lingua::YALI::LanguageIdentifier  undef  M/MA/MAJLIS/Lingua-YALI-0.005.tar.gz
 Lingua::YaTeA                       0.5  T/TH/THHAMON/Lingua-YaTeA-0.5.tar.gz
 Lingua::YaTeA::AnnotationMark         0  T/TH/THHAMON/Lingua-YaTeA-0.5.tar.gz
 Lingua::YaTeA::ChunkingDataSet        0  T/TH/THHAMON/Lingua-YaTeA-0.5.tar.gz
