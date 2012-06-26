@@ -319,11 +319,11 @@ Autodia::Handler::python          undef  T/TE/TEEJAY/Autodia-2.14.tar.gz
 Autodia::Handler::SQL             undef  T/TE/TEEJAY/Autodia-2.14.tar.gz
 Autodia::Handler::Torque          undef  T/TE/TEEJAY/Autodia-2.14.tar.gz
 Autodia::Handler::umbrello        undef  T/TE/TEEJAY/Autodia-2.14.tar.gz
-autodie                            2.11  P/PJ/PJF/autodie-2.11.tar.gz
-autodie::exception                 2.11  P/PJ/PJF/autodie-2.11.tar.gz
-autodie::exception::system         2.11  P/PJ/PJF/autodie-2.11.tar.gz
-autodie::hints                     2.11  P/PJ/PJF/autodie-2.11.tar.gz
-autodie::Scope::Guard              2.11  P/PJ/PJF/autodie-2.11.tar.gz
+autodie                            2.12  P/PJ/PJF/autodie-2.12.tar.gz
+autodie::exception                 2.12  P/PJ/PJF/autodie-2.12.tar.gz
+autodie::exception::system         2.12  P/PJ/PJF/autodie-2.12.tar.gz
+autodie::hints                     2.12  P/PJ/PJF/autodie-2.12.tar.gz
+autodie::Scope::Guard              2.12  P/PJ/PJF/autodie-2.12.tar.gz
 autodie::variables                0.004  L/LE/LEONT/autodie-variables-0.004.tar.gz
 autodynaload                       0.08  P/PA/PATL/autorequire-0.08.tar.gz
 AutoLoad                           0.01  B/BB/BBB/Module-AutoLoad-0.01.tar.gz
