@@ -35,6 +35,7 @@ Number::Encode                     1.00  L/LU/LUISMUNOZ/Number-Encode-1.00.tar.g
 Number::Extreme                    0.29  C/CL/CLKAO/Number-Extreme-0.29.tar.gz
 Number::Format                     1.73  W/WR/WRW/Number-Format-1.73.tar.gz
 Number::Format::Calc                0.1  H/HO/HOLLI/Number-Format-Calc-0.01.tar.gz
+Number::Format::FixedLocale    1.121780  M/MI/MITHALDU/Number-Format-FixedLocale-1.121780.tar.gz
 Number::Format::SouthAsian         0.07  K/KA/KAORU/Number-Format-SouthAsian-0.07.tar.gz
 Number::FormatEng                  0.01  G/GS/GSULLIVAN/Number-FormatEng-0.01.tar.gz
 Number::Fraction                   1.14  D/DA/DAVECROSS/Number-Fraction-1.14.tar.gz

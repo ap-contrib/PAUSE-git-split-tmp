@@ -167,6 +167,7 @@ Number::Encode,LUISMUNOZ,m
 Number::Extreme,CLKAO,f
 Number::Format,WRW,m
 Number::Format::Calc,HOLLI,f
+Number::Format::FixedLocale,MITHALDU,f
 Number::Format::SouthAsian,EDF,c
 Number::Format::SouthAsian,KAORU,f
 Number::Format::SouthAsian,MTMAIL,c
