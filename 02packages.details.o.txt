@@ -150,7 +150,7 @@ OWL::Simple::OBOWriter             0.06  T/TO/TOMASZ/OWL-Simple-0.51.tar.gz
 OWL::Simple::Parser                1.01  T/TO/TOMASZ/OWL-Simple-0.51.tar.gz
 OWL::Utils                         1.04  E/EK/EKAWAS/OWL2Perl-1.00.tar.gz
 OWNet                               1.8  A/AL/ALFILLE/OWNet-1.8.tar.gz
-Oxford::Calendar                   2.06  D/DO/DOM/Oxford-Calendar-2.06.tar.gz
+Oxford::Calendar                   2.07  D/DO/DOM/Oxford-Calendar-2.07.tar.gz
 Oz                                 0.01  A/AD/ADAMK/Oz-0.01.tar.gz
 Oz::Compiler                       0.01  A/AD/ADAMK/Oz-0.01.tar.gz
 Oz::Script                         0.01  A/AD/ADAMK/Oz-0.01.tar.gz
