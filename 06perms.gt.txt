@@ -107,6 +107,7 @@ Gtk2::Notify,HDP,c
 Gtk2::Notify,JJNAPIORK,c
 Gtk2::Notify,JROCKWAY,c
 Gtk2::Notify,SADRAK,c
+Gtk2::OSXApplication,OESTERHOL,f
 Gtk2::Object,FLORA,c
 Gtk2::Object,GTHYNI,c
 Gtk2::Object,RMCFARLA,c
