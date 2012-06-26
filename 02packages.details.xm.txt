@@ -410,7 +410,7 @@ XML::LibXML::Error               2.0001  S/SH/SHLOMIF/XML-LibXML-2.0001.tar.gz
 XML::LibXML::Fixup                 0.03  N/NW/NWETTERS/XML-LibXML-Fixup-0.03.tar.gz
 XML::LibXML::InputCallback       2.0001  S/SH/SHLOMIF/XML-LibXML-2.0001.tar.gz
 XML::LibXML::Iterator              1.04  P/PH/PHISH/XML-LibXML-Iterator-1.04.tar.gz
-XML::LibXML::LazyBuilder           0.03  T/TO/TORU/XML-LibXML-LazyBuilder-0.03.tar.gz
+XML::LibXML::LazyBuilder           0.04  T/TO/TORU/XML-LibXML-LazyBuilder-0.04.tar.gz
 XML::LibXML::LazyMatcher           0.02  T/TO/TORU/XML-LibXML-LazyMatcher-0.02.tar.gz
 XML::LibXML::Literal             2.0001  S/SH/SHLOMIF/XML-LibXML-2.0001.tar.gz
 XML::LibXML::NamedNodeMap        2.0001  S/SH/SHLOMIF/XML-LibXML-2.0001.tar.gz
