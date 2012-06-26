@@ -270,7 +270,7 @@ Apache2::LogNotify                  0.1  R/RI/RIOS/Apache2-LogNotify-0.1.tar.gz
 Apache2::LogNotify::Parameters    undef  R/RI/RIOS/Apache2-LogNotify-0.1.tar.gz
 Apache2::LogUtil                    0.1  R/RY/RYANGIES/perl-Apache2-LogUtil-00.01001.tgz
 Apache2::ModLogConfig              0.01  O/OP/OPI/Apache2-ModLogConfig-0.01.tar.gz
-Apache2::ModProxyPerlHtml           3.2  D/DA/DAROLD/Apache2/ModProxyPerlHtml/Apache2-ModProxyPerlHtml-3.2.tar.gz
+Apache2::ModProxyPerlHtml           3.3  D/DA/DAROLD/Apache2-ModProxyPerlHtml-3.3.tar.gz
 Apache2::ModSSL                    0.08  O/OP/OPI/Apache2-ModSSL-0.08.tar.gz
 Apache2::Module                   0.009  P/PH/PHRED/mod_perl-2.0.7.tar.gz
 Apache2::ModXml2                   0.01  J/JZ/JZOBEL/Apache2-ModXml2-0.01.tar.gz
