@@ -629,10 +629,10 @@ crap                               0.02  B/BI/BINGOS/crap-0.02.tar.gz
 CrawlApache                       undef  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.021.tar.gz
 Creature                          undef  M/MS/MSCHLUE/Class-Classgen-classgen-3.03.tar.gz
 CreditCard                         0.01  A/AK/AKHOBOV/Business-OnlinePayment-SurePay-0.01.tar.gz
-Criteria::Compile                0.0461  A/AL/ALUCAS/Criteria-Compile-0.0461_dev.tar.gz
-Criteria::Compile::HASH               0  A/AL/ALUCAS/Criteria-Compile-0.0461_dev.tar.gz
-Criteria::Compile::OBJECT             0  A/AL/ALUCAS/Criteria-Compile-0.0461_dev.tar.gz
-Criteria::DateTime                    0  A/AL/ALUCAS/Criteria-Compile-0.0461_dev.tar.gz
+Criteria::Compile                0.0461  A/AL/ALUCAS/Criteria-Compile-0.047.tar.gz
+Criteria::Compile::HASH               0  A/AL/ALUCAS/Criteria-Compile-0.047.tar.gz
+Criteria::Compile::OBJECT             0  A/AL/ALUCAS/Criteria-Compile-0.047.tar.gz
+Criteria::DateTime                    0  A/AL/ALUCAS/Criteria-Compile-0.047.tar.gz
 criticism                          1.02  T/TH/THALJEF/criticism/criticism-1.02.tar.gz
 Crixa                              0.04  P/PE/PERIGRIN/Crixa-0.04.tar.gz
 Crixa::Channel                     0.04  P/PE/PERIGRIN/Crixa-0.04.tar.gz
