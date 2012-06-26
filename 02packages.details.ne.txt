@@ -918,6 +918,7 @@ Net::validMX                   2.002000  K/KM/KMCGRAIL/validMX/Net-validMX-2.2.0
 Net::vCard                          0.1  J/JL/JLAWRENC/Net-vCard-0.5.tar.gz
 Net::vCard::ADR                   undef  J/JL/JLAWRENC/Net-vCard-0.5.tar.gz
 Net::vFile                        undef  J/JL/JLAWRENC/Net-vCard-0.5.tar.gz
+Net::Vitelity                      0.03  I/IV/IVAN/Net-Vitelity-0.03.tar.gz
 Net::VNC                           0.40  L/LB/LBROCARD/Net-VNC-0.40.tar.gz
 Net::Vypress::Chat                 0.71  A/AR/ARTURAZ/Net-Vypress-Chat-0.71.tar.gz
 Net::Wake                          0.02  C/CL/CLINTDW/Net-Wake-0.02.tar.gz

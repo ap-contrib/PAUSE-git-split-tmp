@@ -1184,6 +1184,7 @@ Net::UploadMirror,KNORR,m
 Net::UploadMirror::FileName,KNORR,f
 Net::VNC,BRONG,c
 Net::VNC,LBROCARD,m
+Net::Vitelity,IVAN,f
 Net::Vypress::Chat,ARTURAZ,m
 Net::WOT,XSAWYERX,f
 Net::WSF,SAMPO,m
