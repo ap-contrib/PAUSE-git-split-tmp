@@ -690,6 +690,12 @@ Google::Voice,TEMPIRE,f
 Google::Voice::Call,TEMPIRE,f
 Google::Voice::Feed,TEMPIRE,f
 Google::Voice::SMS::Message,TEMPIRE,f
+GoogleApps,JOENIO,f
+GoogleApps::Command::create,JOENIO,f
+GoogleApps::Command::delete,JOENIO,f
+GoogleApps::Command::retrieve,JOENIO,f
+GoogleApps::Command::update,JOENIO,f
+GoogleApps::TestClass,JOENIO,f
 Goose,BRADH,f
 Goose::Role,BRADH,f
 Goose::Utils,BRADH,f
