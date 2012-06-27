@@ -553,6 +553,7 @@ Data::DublinCore,MARKOV,f
 Data::DublinCore::Util,MARKOV,f
 Data::Dump,GAAS,f
 Data::Dump::Ala::SHARYANTO,SHARYANTO,f
+Data::Dump::Color,SHARYANTO,f
 Data::Dump::FilterContext,GAAS,f
 Data::Dump::Filtered,GAAS,f
 Data::Dump::OneLine,SHARYANTO,f
