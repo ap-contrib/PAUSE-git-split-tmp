@@ -13,7 +13,7 @@ Net::Rendezvous                    0.92  C/CH/CHLIGE/Net-Bonjour-0.96.tar.gz
 Net::Rendezvous::Entry            undef  C/CH/CHLIGE/Net-Bonjour-0.96.tar.gz
 Net::Rendezvous::Publish           0.04  R/RC/RCLAMP/Net-Rendezvous-Publish-0.04.tar.gz
 Net::Rendezvous::Publish::Backend::Apple 0.02  R/RC/RCLAMP/Net-Rendezvous-Publish-Backend-Apple-0.02.tar.gz
-Net::Rendezvous::Publish::Backend::Avahi 0.03  J/JA/JABLKO/Net-Rendezvous-Publish-Backend-Avahi-0.03.tar.gz
+Net::Rendezvous::Publish::Backend::Avahi 0.04  I/IO/IOANR/Net-Rendezvous-Publish-Backend-Avahi-0.04.tar.gz
 Net::Rendezvous::Publish::Backend::Howl 0.03  R/RC/RCLAMP/Net-Rendezvous-Publish-Backend-Howl-0.03.tar.gz
 Net::Rendezvous::Publish::Backend::Null undef  R/RC/RCLAMP/Net-Rendezvous-Publish-0.04.tar.gz
 Net::Rendezvous::Publish::Service undef  R/RC/RCLAMP/Net-Rendezvous-Publish-0.04.tar.gz
