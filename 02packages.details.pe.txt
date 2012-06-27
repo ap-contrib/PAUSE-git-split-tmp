@@ -323,7 +323,6 @@ Perl::Critic::Policy::BuiltinFunctions::RequireSimpleSortBlock 1.117  T/TH/THALJ
 Perl::Critic::Policy::ClassHierarchies::ProhibitAutoloading 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::ClassHierarchies::ProhibitExplicitISA 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::ClassHierarchies::ProhibitOneArgBless 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
-Perl::Critic::Policy::CodeLayout::inprogressProhibitFatCommaAfterNewline undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Perl::Critic::Policy::CodeLayout::ProhibitHardTabs 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::CodeLayout::ProhibitHashBarewords 0.07  M/MA/MARCELO/Perl-Critic-Itch-0.07.tar.gz
 Perl::Critic::Policy::CodeLayout::ProhibitParensWithBuiltins 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
@@ -339,12 +338,10 @@ Perl::Critic::Policy::CodeLayout::RequireUseUTF8 1.000003  E/EL/ELLIOTJS/Perl-Cr
 Perl::Critic::Policy::Compatibility::ConstantLeadingUnderscore 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Compatibility::ConstantPragmaHash 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Compatibility::Gtk2Constants 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
-Perl::Critic::Policy::Compatibility::inprogressTestMore undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Perl::Critic::Policy::Compatibility::PerlMinimumVersionAndWhy 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Compatibility::PodMinimumVersion 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Compatibility::ProhibitThreeArgumentOpen 1.001  E/EL/ELLIOTJS/Perl-Critic-Compatibility-1.001.tar.gz
 Perl::Critic::Policy::Compatibility::ProhibitUnixDevNull 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
-Perl::Critic::Policy::Compatibility::TestMoreLikeModifiers 0  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitCascadingIfElse 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitCStyleForLoops 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::ControlStructures::ProhibitDeepNests 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
@@ -360,7 +357,6 @@ Perl::Critic::Policy::Documentation::ProhibitAdjacentLinks 72  K/KR/KRYDE/Perl-C
 Perl::Critic::Policy::Documentation::ProhibitAdjacentLinks::Parser 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Documentation::ProhibitBadAproposMarkup 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Documentation::ProhibitDuplicateSeeAlso 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
-Perl::Critic::Policy::Documentation::ProhibitFinalLinkComma 71  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Perl::Critic::Policy::Documentation::ProhibitLinkToSelf 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Documentation::ProhibitParagraphTwoDots 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Policy::Documentation::ProhibitUnbalancedParens 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
@@ -473,7 +469,6 @@ Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines 1.117  T/TH/
 Perl::Critic::Policy::Subroutines::ProtectPrivateSubs 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::Subroutines::RequireArgUnpacking 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::Subroutines::RequireFinalReturn 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
-Perl::Critic::Policy::TestingAndDebugging::inprogressProhibitTestPrint undef  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoStrict 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::TestingAndDebugging::ProhibitNoWarnings 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
 Perl::Critic::Policy::TestingAndDebugging::ProhibitProlongedStrictureOverride 1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
@@ -549,7 +544,6 @@ Perl::Critic::Pulp::PodMinimumVersionViolation 72  K/KR/KRYDE/Perl-Critic-Pulp-7
 Perl::Critic::Pulp::PodParser        72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Pulp::PodParser::ProhibitBadAproposMarkup 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Pulp::PodParser::ProhibitDuplicateSeeAlso 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
-Perl::Critic::Pulp::PodParser::ProhibitFinalLinkComma 71  K/KR/KRYDE/Perl-Critic-Pulp-71.tar.gz
 Perl::Critic::Pulp::PodParser::ProhibitLinkToSelf 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Pulp::PodParser::ProhibitParagraphTwoDots 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz
 Perl::Critic::Pulp::PodParser::ProhibitUnbalancedParens 72  K/KR/KRYDE/Perl-Critic-Pulp-72.tar.gz

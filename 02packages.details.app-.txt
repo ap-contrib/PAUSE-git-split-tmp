@@ -2,11 +2,6 @@ App::MathImage::Wx::Params::Filename 101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Wx::Params::Float   101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Wx::Params::Integer 101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Wx::Params::String  101  K/KR/KRYDE/math-image-101.tar.gz
-App::MathImage::Wx::Perl::PodBrowser 100  K/KR/KRYDE/math-image-100.tar.gz
-App::MathImage::Wx::Perl::PodRichText 100  K/KR/KRYDE/math-image-100.tar.gz
-App::MathImage::Wx::Perl::PodRichText::ChangedEvent 100  K/KR/KRYDE/math-image-100.tar.gz
-App::MathImage::Wx::Perl::PodRichText::PodParser 100  K/KR/KRYDE/math-image-100.tar.gz
-App::MathImage::Wx::Perl::PodRichText::SimpleParser 100  K/KR/KRYDE/math-image-100.tar.gz
 App::MathImage::X11::Generator      101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::X11::Protocol::Async 101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::X11::Protocol::EventHandlerExtra 101  K/KR/KRYDE/math-image-101.tar.gz

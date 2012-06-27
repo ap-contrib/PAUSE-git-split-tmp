@@ -687,7 +687,6 @@ App::MathImage::Image::Base::XpmClipped 101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Lines               101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::LinesLevel          101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::LinesTree           101  K/KR/KRYDE/math-image-101.tar.gz
-App::MathImage::NumSeq::DigitSumSquares 7  K/KR/KRYDE/Math-NumSeq-38.tar.gz
 App::MathImage::Prima::About        101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Prima::Drawing      101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Prima::Generator    101  K/KR/KRYDE/math-image-101.tar.gz
