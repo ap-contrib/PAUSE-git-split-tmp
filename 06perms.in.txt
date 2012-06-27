@@ -56,8 +56,10 @@ Iodef::Pb::Simple::Plugin::Bgp,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Contact,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Detecttime,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Domain,SAXJAZMAN,f
+Iodef::Pb::Simple::Plugin::Email,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Eventdata,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Guid,SAXJAZMAN,f
+Iodef::Pb::Simple::Plugin::Hash,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Incidentid,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Ipv4,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Md5,SAXJAZMAN,f
