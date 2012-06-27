@@ -617,7 +617,6 @@ getaddress,CNANGEL,f
 gettext,PVANDRY,f
 globexport,JLISHEV,f
 group,JUSTER,f
-gurpmi,RGARCIA,c
 hail,METZZO,f
 hashbang,INGY,f
 hashtie,MICHAEL,f

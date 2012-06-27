@@ -557,17 +557,6 @@ uric,LDACHARY,f
 url,LDACHARY,f
 url_t,LDACHARY,f
 urlc,LDACHARY,f
-urpm,RGARCIA,c
-urpm::args,RGARCIA,c
-urpm::cfg,RGARCIA,c
-urpm::download,RGARCIA,c
-urpm::ldap,RGARCIA,c
-urpm::msg,RGARCIA,c
-urpm::parallel_ka_run,RGARCIA,c
-urpm::parallel_ssh,RGARCIA,c
-urpm::prompt,RGARCIA,c
-urpm::sys,RGARCIA,c
-urpm::util,RGARCIA,c
 use,AUDREYT,c
 use,GREGOR,f
 use::perl5,AUDREYT,f

@@ -495,7 +495,7 @@ Net::SNMP::Mixin::IpRouteTable     0.03  G/GA/GAISSMAI/Net-SNMP-Mixin-IpRouteTab
 Net::SNMP::Mixin::System           0.12  G/GA/GAISSMAI/Net-SNMP-Mixin-0.12.tar.gz
 Net::SNMP::Mixin::Util             0.12  G/GA/GAISSMAI/Net-SNMP-Mixin-0.12.tar.gz
 Net::SNMP::PDU                   v3.0.1  D/DT/DTOWN/Net-SNMP-v6.0.1.tar.gz
-Net::SNMP::QueryEngine::AnyEvent   0.01  G/GR/GRUBER/Net-SNMP-QueryEngine-AnyEvent-0.01.tar.gz
+Net::SNMP::QueryEngine::AnyEvent   0.02  G/GR/GRUBER/Net-SNMP-QueryEngine-AnyEvent-0.02.tar.gz
 Net::SNMP::Security              v2.0.0  D/DT/DTOWN/Net-SNMP-v6.0.1.tar.gz
 Net::SNMP::Security::Community   v2.0.0  D/DT/DTOWN/Net-SNMP-v6.0.1.tar.gz
 Net::SNMP::Security::USM         v4.0.1  D/DT/DTOWN/Net-SNMP-v6.0.1.tar.gz
