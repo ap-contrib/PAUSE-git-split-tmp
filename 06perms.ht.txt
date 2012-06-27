@@ -836,6 +836,7 @@ HTML::HTML5::Parser::NamedEntityList,TOBYINK,f
 HTML::HTML5::Parser::TagSoupParser,TOBYINK,f
 HTML::HTML5::Parser::TagSoupParser::RestartParser,TOBYINK,f
 HTML::HTML5::Parser::Tokenizer,TOBYINK,f
+HTML::HTML5::Parser::UA,TOBYINK,f
 HTML::HTML5::Sanity,TOBYINK,m
 HTML::HTML5::Table,TOBYINK,f
 HTML::HTML5::Table::Body,TOBYINK,f
