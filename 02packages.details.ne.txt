@@ -854,8 +854,8 @@ Net::Twitter::Cabal::Tweet         0.01  P/PF/PFIG/Net-Twitter-Cabal-0.03.tar.gz
 Net::Twitter::Core              3.18003  M/MM/MMIMS/Net-Twitter-3.18003.tar.gz
 Net::Twitter::Diff                 0.12  T/TO/TOMYHERO/Net-Twitter-Diff-0.12.tar.gz
 Net::Twitter::Error               undef  M/MM/MMIMS/Net-Twitter-3.18003.tar.gz
-Net::Twitter::Lite              0.11001  M/MM/MMIMS/Net-Twitter-Lite-0.11001.tar.gz
-Net::Twitter::Lite::Error         undef  M/MM/MMIMS/Net-Twitter-Lite-0.11001.tar.gz
+Net::Twitter::Lite              0.11002  M/MM/MMIMS/Net-Twitter-Lite-0.11002.tar.gz
+Net::Twitter::Lite::Error         undef  M/MM/MMIMS/Net-Twitter-Lite-0.11002.tar.gz
 Net::Twitter::Meta::Method        undef  M/MM/MMIMS/Net-Twitter-3.18003.tar.gz
 Net::Twitter::OAuth             3.18003  M/MM/MMIMS/Net-Twitter-3.18003.tar.gz
 Net::Twitter::OAuth::XAuthRequest undef  M/MM/MMIMS/Net-Twitter-3.13000.tar.gz
