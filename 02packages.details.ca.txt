@@ -424,8 +424,8 @@ Catalyst::Plugin::XMLRPC::DispatchType::XMLRPC undef  M/MR/MRAMBERG/Catalyst-Plu
 Catalyst::Plugin::XSendFile        0.02  T/TY/TYPESTER/Catalyst-Plugin-XSendFile-0.02.tar.gz
 Catalyst::Request                 undef  J/JJ/JJNAPIORK/Catalyst-Runtime-5.90014.tar.gz
 Catalyst::Request::HashedCookies 1.110231  O/OL/OLIVER/Catalyst-Plugin-HashedCookies-1.110231.tar.gz
-Catalyst::Request::REST            1.02  B/BO/BOBTFISH/Catalyst-Action-REST-1.02.tar.gz
-Catalyst::Request::REST::ForBrowsers 1.02  B/BO/BOBTFISH/Catalyst-Action-REST-1.02.tar.gz
+Catalyst::Request::REST            1.03  B/BO/BOBTFISH/Catalyst-Action-REST-1.03.tar.gz
+Catalyst::Request::REST::ForBrowsers 1.03  B/BO/BOBTFISH/Catalyst-Action-REST-1.03.tar.gz
 Catalyst::Request::SmartURI       undef  R/RK/RKITOVER/Catalyst-Plugin-SmartURI-0.036.tar.gz
 Catalyst::Request::Upload         undef  J/JJ/JJNAPIORK/Catalyst-Runtime-5.90014.tar.gz
 Catalyst::Response                undef  J/JJ/JJNAPIORK/Catalyst-Runtime-5.90014.tar.gz
@@ -473,8 +473,8 @@ Catalyst::TraitFor::Request::Params::Hashed 0.03  C/CU/CUB/Catalyst-TraitFor-Req
 Catalyst::TraitFor::Request::PerLanguageDomains 0.03  B/BO/BOBTFISH/Catalyst-TraitFor-Request-PerLanguageDomains-0.03.tar.gz
 Catalyst::TraitFor::Request::Plack::Session 0.001  R/RS/RSRCHBOY/Catalyst-TraitFor-Request-Plack-Session-0.001.tar.gz
 Catalyst::TraitFor::Request::ProxyBase 0.000005  B/BO/BOBTFISH/Catalyst-TraitFor-Request-ProxyBase-0.000005.tar.gz
-Catalyst::TraitFor::Request::REST  1.02  B/BO/BOBTFISH/Catalyst-Action-REST-1.02.tar.gz
-Catalyst::TraitFor::Request::REST::ForBrowsers 1.02  B/BO/BOBTFISH/Catalyst-Action-REST-1.02.tar.gz
+Catalyst::TraitFor::Request::REST  1.03  B/BO/BOBTFISH/Catalyst-Action-REST-1.03.tar.gz
+Catalyst::TraitFor::Request::REST::ForBrowsers 1.03  B/BO/BOBTFISH/Catalyst-Action-REST-1.03.tar.gz
 Catalyst::TraitFor::Request::REST::ForBrowsers::AndPJAX 0.001  R/RS/RSRCHBOY/Catalyst-TraitFor-Request-REST-ForBrowsers-AndPJAX-0.001.tar.gz
 Catalyst::TraitFor::Request::XMLHttpRequest 0.01  F/FL/FLORA/Catalyst-TraitFor-Request-XMLHttpRequest-0.01.tar.gz
 Catalyst::TraitFor::View::MarkupValidation 0.003  D/DO/DORWARD/Catalyst-TraitFor-View-MarkupValidation-0.003.tar.gz
