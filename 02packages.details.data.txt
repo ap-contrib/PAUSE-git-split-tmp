@@ -83,7 +83,7 @@ Date::EzDate::Tie                  1.11  M/MI/MIKO/Date-EzDate-1.11.tar.gz
 Date::Format                       2.24  G/GB/GBARR/TimeDate-1.20.tar.gz
 Date::Format::Generic              2.24  G/GB/GBARR/TimeDate-1.20.tar.gz
 Date::Formatter                    0.09  S/ST/STEVAN/Date-Formatter-0.09.tar.gz
-Date::FromToday                    0.02  A/AW/AWOHLD/Date-FromToday-0.02a.tar.gz
+Date::FromToday                    0.03  A/AW/AWOHLD/Date-FromToday-0.03.tar.gz
 Date::GoldenNumber                undef  R/RB/RBOW/Date-Passover-1.10.tar.gz
 Date::Gregorian                    0.12  M/MH/MHASCH/Date-Gregorian-0.12.tar.gz
 Date::Gregorian::Business          0.04  M/MH/MHASCH/Date-Gregorian-0.12.tar.gz
