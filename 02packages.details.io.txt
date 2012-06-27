@@ -363,10 +363,10 @@ IOC::Visitor::SearchForService     0.03  S/ST/STEVAN/IOC-0.29.tar.gz
 iodbc                              0.01  J/JM/JMAHAN/iodbc_ext_0_1.tar.gz
 Iodef::_Pb                        undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-0.01.tar.gz
 Iodef::Pb                          0.01  S/SA/SAXJAZMAN/iodef/Iodef-Pb-0.01.tar.gz
-Iodef::Pb::Format                  0.01  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.01.tar.gz
-Iodef::Pb::Format::Csv            undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.01.tar.gz
-Iodef::Pb::Format::Snort          undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.01.tar.gz
-Iodef::Pb::Format::Table          undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.01.tar.gz
+Iodef::Pb::Format                  0.02  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.02.tar.gz
+Iodef::Pb::Format::Csv            undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.02.tar.gz
+Iodef::Pb::Format::Snort          undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.02.tar.gz
+Iodef::Pb::Format::Table          undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.02.tar.gz
 Iodef::Pb::Simple                  0.02  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Simple-0.02.tar.gz
 Iodef::Pb::Simple::Plugin         undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Simple-0.02.tar.gz
 Iodef::Pb::Simple::Plugin::AdditionalData undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Simple-0.02.tar.gz
