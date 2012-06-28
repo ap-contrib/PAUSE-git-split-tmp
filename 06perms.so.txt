@@ -82,6 +82,7 @@ Sort::Key::OID,SALVA,f
 Sort::Key::Radix,SALVA,f
 Sort::Key::Register,SALVA,f
 Sort::Key::Top,SALVA,f
+Sort::Key::Types,SALVA,f
 Sort::Maker,URI,f
 Sort::Merge,JMASTROS,f
 Sort::MergeSort,MUIR,f
