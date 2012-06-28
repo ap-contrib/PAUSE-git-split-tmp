@@ -644,6 +644,7 @@ Parse::RecDescent::Petal::CodePerl::Parser,FDALY,f
 Parse::RecDescent::Pod::WikiDoc::Parser,DAGOLDEN,f
 Parse::RecDescent::Production,DCONWAY,f
 Parse::RecDescent::Production,JTBRAUN,c
+Parse::RecDescent::RDF::Trine::Parser::OwlFn::Compiled,TOBYINK,f
 Parse::RecDescent::Repetition,DCONWAY,f
 Parse::RecDescent::Repetition,JTBRAUN,c
 Parse::RecDescent::Result,DCONWAY,f
