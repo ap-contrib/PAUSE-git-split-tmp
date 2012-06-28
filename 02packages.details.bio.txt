@@ -319,6 +319,7 @@ Bio::DOOP::Util::Run::GeneMerge    0.02  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
 Bio::DOOP::Util::Run::Mofext       0.17  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
 Bio::DOOP::Util::Search            0.13  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
 Bio::DOOP::Util::Sort               0.3  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
+Bio::Draw::FeatureStack            0.01  C/CH/CHRISFR/Bio-Draw-FeatureStack-0.01.tar.gz
 Bio::Draw::Pictogram           1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::ECell                         0.10  G/GA/GAOU/Bio-ECell-0.10.tar.gz
 Bio::Emboss                    5.000000001  P/PE/PERNST/Bio-Emboss-5.0.0.1.tar.gz

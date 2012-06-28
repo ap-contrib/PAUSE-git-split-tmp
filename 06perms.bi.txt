@@ -117,6 +117,7 @@ Bio::DescribableI,BIRNEY,c
 Bio::DescribableI,CJFIELDS,c
 Bio::DescribableI,SENDU,c
 Bio::DescribableI,STAJICH,c
+Bio::Draw::FeatureStack,CHRISFR,f
 Bio::Draw::Pictogram,BIOPERLML,f
 Bio::Draw::Pictogram,CJFIELDS,c
 Bio::ECell,GAOU,m
