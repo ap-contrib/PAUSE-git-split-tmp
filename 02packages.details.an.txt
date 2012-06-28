@@ -557,6 +557,12 @@ AnyEvent::Subprocess::Running::Delegate::Timeout 1.102912  J/JR/JROCKWAY/AnyEven
 AnyEvent::Subprocess::Types    1.102912  J/JR/JROCKWAY/AnyEvent-Subprocess-1.102912.tar.gz
 AnyEvent::Superfeedr               0.04  Y/YA/YANNK/AnyEvent-Superfeedr-0.04.tar.gz
 AnyEvent::Superfeedr::Notification undef  Y/YA/YANNK/AnyEvent-Superfeedr-0.04.tar.gz
+AnyEvent::Task                 0.005001  F/FR/FRACTAL/AnyEvent-Task-0.5.1.tar.gz
+AnyEvent::Task::Client            undef  F/FR/FRACTAL/AnyEvent-Task-0.5.1.tar.gz
+AnyEvent::Task::Client::Checkout  undef  F/FR/FRACTAL/AnyEvent-Task-0.5.1.tar.gz
+AnyEvent::Task::Server            undef  F/FR/FRACTAL/AnyEvent-Task-0.5.1.tar.gz
+AnyEvent::Task::Server::Worker    undef  F/FR/FRACTAL/AnyEvent-Task-0.5.1.tar.gz
+AnyEvent::Task::Util              undef  F/FR/FRACTAL/AnyEvent-Task-0.5.1.tar.gz
 AnyEvent::TermKey                  0.02  P/PE/PEVANS/AnyEvent-TermKey-0.02.tar.gz
 AnyEvent::TFTPd                  0.1303  J/JH/JHTHORSEN/AnyEvent-TFTPd-0.1303.tar.gz
 AnyEvent::TFTPd::CheckConnections undef  J/JH/JHTHORSEN/AnyEvent-TFTPd-0.1303.tar.gz
