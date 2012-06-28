@@ -582,6 +582,7 @@ Quizzer::Question,IPPO,f
 Quizzer::Template,IPPO,f
 Quota,TOMZO,m
 Quota::OO,DMUEY,m
+Quote::Code,MAUKE,f
 Quote::Reference,KILNA,f
 Qwt,CBUREL,f
 Qwt::_internal,CBUREL,f
