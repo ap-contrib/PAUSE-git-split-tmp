@@ -322,6 +322,7 @@ AnyEvent::FCGI                     0.04  V/VK/VKRAMSKIH/AnyEvent-FCGI-0.04.tar.g
 AnyEvent::FCGI::Connection        undef  V/VK/VKRAMSKIH/AnyEvent-FCGI-0.04.tar.gz
 AnyEvent::FCGI::Request           undef  V/VK/VKRAMSKIH/AnyEvent-FCGI-0.04.tar.gz
 AnyEvent::FCP                       0.3  M/ML/MLEHMANN/AnyEvent-FCP-0.3.tar.gz
+AnyEvent::FDpasser             0.003000  F/FR/FRACTAL/AnyEvent-FDpasser-0.3.0.tar.gz
 AnyEvent::Feed                      0.3  E/EL/ELMEX/AnyEvent-Feed-0.3.tar.gz
 AnyEvent::FIFO                  0.00002  D/DM/DMAKI/AnyEvent-FIFO-0.00002.tar.gz
 AnyEvent::Filesys::Notify          0.06  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.06.tar.gz
