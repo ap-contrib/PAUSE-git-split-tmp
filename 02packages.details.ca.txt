@@ -469,6 +469,7 @@ Catalyst::TraitFor::Model::DBIC::Shortcut 0.01  C/CU/CUB/Catalyst-TraitFor-Model
 Catalyst::TraitFor::Request::BrowserDetect 0.02  F/FL/FLORA/Catalyst-TraitFor-Request-BrowserDetect-0.02.tar.gz
 Catalyst::TraitFor::Request::DecodedParams 0.02  W/WR/WREIS/Catalyst-TraitFor-Request-DecodedParams-0.02.tar.gz
 Catalyst::TraitFor::Request::DecodedParams::JSON 0.01  W/WR/WREIS/Catalyst-TraitFor-Request-DecodedParams-0.02.tar.gz
+Catalyst::TraitFor::Request::GeoIP 0.01  M/MD/MDIETRICH/Catalyst-TraitFor-Request-GeoIP-0.001.tar.gz
 Catalyst::TraitFor::Request::Params::Hashed 0.03  C/CU/CUB/Catalyst-TraitFor-Request-Params-Hashed-0.03.tar.gz
 Catalyst::TraitFor::Request::PerLanguageDomains 0.03  B/BO/BOBTFISH/Catalyst-TraitFor-Request-PerLanguageDomains-0.03.tar.gz
 Catalyst::TraitFor::Request::Plack::Session 0.001  R/RS/RSRCHBOY/Catalyst-TraitFor-Request-Plack-Session-0.001.tar.gz

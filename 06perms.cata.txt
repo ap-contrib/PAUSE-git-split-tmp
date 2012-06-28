@@ -622,6 +622,7 @@ Catalyst::TraitFor::Request::BrowserDetect,ETHER,c
 Catalyst::TraitFor::Request::BrowserDetect,FLORA,f
 Catalyst::TraitFor::Request::DecodedParams,WREIS,f
 Catalyst::TraitFor::Request::DecodedParams::JSON,WREIS,f
+Catalyst::TraitFor::Request::GeoIP,MDIETRICH,f
 Catalyst::TraitFor::Request::Params::Hashed,CUB,f
 Catalyst::TraitFor::Request::PerLanguageDomains,BOBTFISH,c
 Catalyst::TraitFor::Request::PerLanguageDomains,MSTROUT,c
