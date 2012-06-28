@@ -802,6 +802,8 @@ Bio::Graphics::Glyph::dashed_line,CJFIELDS,c
 Bio::Graphics::Glyph::dashed_line,LDS,f
 Bio::Graphics::Glyph::dashed_line,SENDU,c
 Bio::Graphics::Glyph::dashed_line,STAJICH,c
+Bio::Graphics::Glyph::decorated_gene,CHRISFR,f
+Bio::Graphics::Glyph::decorated_transcript,CHRISFR,f
 Bio::Graphics::Glyph::diamond,CJFIELDS,c
 Bio::Graphics::Glyph::diamond,LDS,f
 Bio::Graphics::Glyph::diamond,SENDU,c

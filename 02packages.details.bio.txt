@@ -658,6 +658,8 @@ Bio::Graphics::Glyph::christmas_arrow 0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::cross           0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::crossbox        0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::dashed_line     0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
+Bio::Graphics::Glyph::decorated_gene 0.01  C/CH/CHRISFR/Bio-Graphics-Glyph-decorated_gene-0.01.tar.gz
+Bio::Graphics::Glyph::decorated_transcript 0.01  C/CH/CHRISFR/Bio-Graphics-Glyph-decorated_gene-0.01.tar.gz
 Bio::Graphics::Glyph::diamond         0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::dna             0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::dot             0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
