@@ -365,7 +365,7 @@ WWW::Mechanize::Plugin::Retry      0.04  M/MC/MCMAHON/WWW-Mechanize-Plugin-Retry
 WWW::Mechanize::Plugin::Sleepy    undef  M/MJ/MJEMMESON/WWW-Mechanize-Plugin-Sleepy-0.002.tar.gz
 WWW::Mechanize::Plugin::Snapshot   0.20  M/MC/MCMAHON/WWW-Mechanize-Plugin-Snapshot-0.20.tar.gz
 WWW::Mechanize::Plugin::Web::Scraper 0.02  B/BL/BLOM/WWW-Mechanize-Plugin-Web-Scraper-0.02.tar.gz
-WWW::Mechanize::Query              0.01  S/SU/SUPERASN/WWW-Mechanize-Query-0.01.tar.gz
+WWW::Mechanize::Query              0.02  S/SU/SUPERASN/WWW-Mechanize-Query-0.02.tar.gz
 WWW::Mechanize::Retry              0.03  M/MS/MSCHILLI/Buffalo-G54-0.03.tar.gz
 WWW::Mechanize::Shell              0.52  C/CO/CORION/WWW-Mechanize-Shell-0.52.tar.gz
 WWW::Mechanize::Sleepy              0.7  K/KN/KNTONAS/WWW-Mechanize-Sleepy-0.7.tar.gz
