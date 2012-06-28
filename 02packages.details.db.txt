@@ -452,7 +452,7 @@ DBIx::dbMan::Interface::curses     0.02  M/MI/MILSO/dbMan-0.37.tar.gz
 DBIx::dbMan::Interface::tkgui      0.04  M/MI/MILSO/dbMan-0.37.tar.gz
 DBIx::dbMan::Lang                  0.02  M/MI/MILSO/dbMan-0.37.tar.gz
 DBIx::dbMan::MemPool               0.04  M/MI/MILSO/dbMan-0.37.tar.gz
-DBIx::DBO                          0.14  V/VL/VLYON/DBIx-DBO-0.14.tar.gz
+DBIx::DBO                          0.20  V/VL/VLYON/DBIx-DBO-0.20.tar.gz
 DBIx::DBO2                        0.008  E/EV/EVO/DBIx-DBO2-0.008.tar.gz
 DBIx::DBO2::Column                undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
 DBIx::DBO2::Column::text          undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
@@ -463,9 +463,9 @@ DBIx::DBO2::RecordSet             undef  E/EV/EVO/DBIx-DBO2-0.008.tar.gz
 DBIx::DBO2::Schema                undef  E/EV/EVO/DBIx-DBO2-0.008.tar.gz
 DBIx::DBO2::Table                 undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
 DBIx::DBO2::TableSet              undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
-DBIx::DBO::Query                  undef  V/VL/VLYON/DBIx-DBO-0.14.tar.gz
-DBIx::DBO::Row                    undef  V/VL/VLYON/DBIx-DBO-0.14.tar.gz
-DBIx::DBO::Table                  undef  V/VL/VLYON/DBIx-DBO-0.14.tar.gz
+DBIx::DBO::Query                  undef  V/VL/VLYON/DBIx-DBO-0.20.tar.gz
+DBIx::DBO::Row                    undef  V/VL/VLYON/DBIx-DBO-0.20.tar.gz
+DBIx::DBO::Table                  undef  V/VL/VLYON/DBIx-DBO-0.20.tar.gz
 DBIx::DBObj                           1  M/MH/MHAT/DBIx-DBObj-1.00.tar.gz
 DBIx::DBSchema                     0.40  I/IV/IVAN/DBIx-DBSchema-0.40.tar.gz
 DBIx::DBSchema::_util             undef  I/IV/IVAN/DBIx-DBSchema-0.40.tar.gz
