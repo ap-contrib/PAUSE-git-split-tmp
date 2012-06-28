@@ -169,7 +169,7 @@ Net::eBay                          0.61  I/IC/ICHUDOV/Net-eBay-0.61.tar.gz
 Net::Elexol::EtherIO24             0.22  C/CH/CHRISY/Net-Elexol-EtherIO24-0.22.tar.gz
 Net::EMI::Client                   1.02  S/SC/SCHAFFTER/Net-EMI-Client-1.02.tar.gz
 Net::EMI::Common                   1.01  S/SC/SCHAFFTER/Net-EMI-Common-1.01.tar.gz
-Net::eNom                      1.001001  R/RS/RSIMOES/WWW-eNom-v1.1.1.tar.gz
+Net::eNom                      1.001002  R/RS/RSIMOES/WWW-eNom-v1.1.2.tar.gz
 Net::ENUM                           0.3  D/DE/DETI/Net/Net-ENUM-0.3.tar.gz
 Net::EPP                           0.19  G/GB/GBROWN/Net-EPP-0.19.tar.gz
 Net::EPP::Client                  undef  G/GB/GBROWN/Net-EPP-0.19.tar.gz

@@ -596,8 +596,8 @@ WWW::EmpireTheatres                0.05  B/BR/BRICAS/WWW-EmpireTheatres-0.05.tar
 WWW::EmpireTheatres::Cinema        0.03  B/BR/BRICAS/WWW-EmpireTheatres-0.05.tar.gz
 WWW::EmpireTheatres::Film          0.04  B/BR/BRICAS/WWW-EmpireTheatres-0.05.tar.gz
 WWW::EmpireTheatres::Showtime      0.03  B/BR/BRICAS/WWW-EmpireTheatres-0.05.tar.gz
-WWW::eNom                      1.001001  R/RS/RSIMOES/WWW-eNom-v1.1.1.tar.gz
-WWW::eNom::Role::Commands      1.001001  R/RS/RSIMOES/WWW-eNom-v1.1.1.tar.gz
+WWW::eNom                      1.001002  R/RS/RSIMOES/WWW-eNom-v1.1.2.tar.gz
+WWW::eNom::Role::Commands      1.001002  R/RS/RSIMOES/WWW-eNom-v1.1.2.tar.gz
 WWW::ErnestMarples                 0.01  A/AN/ANDYA/WWW-ErnestMarples-0.01.tar.gz
 WWW::Extractor                      0.8  G/GN/GNALABS/WWW-Extractor-0.8.tar.gz
 WWW::Facebook::API             0.004018  U/UN/UNOBE/WWW-Facebook-API-0.4.18.tar.gz
