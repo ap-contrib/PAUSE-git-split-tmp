@@ -171,7 +171,7 @@ POE::Component::Server::Daytime    1.14  B/BI/BINGOS/POE-Component-Server-Daytim
 POE::Component::Server::Discard    1.14  B/BI/BINGOS/POE-Component-Server-Discard-1.14.tar.gz
 POE::Component::Server::DNS        0.22  B/BI/BINGOS/POE-Component-Server-DNS-0.22.tar.gz
 POE::Component::Server::Echo       1.64  B/BI/BINGOS/POE-Component-Server-Echo-1.64.tar.gz
-POE::Component::Server::eris        0.1  B/BL/BLHOTSKY/POE-Component-Server-eris-0.1.tar.gz
+POE::Component::Server::eris        0.7  B/BL/BLHOTSKY/POE-Component-Server-eris-0.7.tar.gz
 POE::Component::Server::FTP        0.08  X/XA/XANTUS/POE-Component-Server-FTP-0.08.tar.gz
 POE::Component::Server::FTP::ControlFilter undef  X/XA/XANTUS/POE-Component-Server-FTP-0.08.tar.gz
 POE::Component::Server::FTP::ControlSession undef  X/XA/XANTUS/POE-Component-Server-FTP-0.08.tar.gz
