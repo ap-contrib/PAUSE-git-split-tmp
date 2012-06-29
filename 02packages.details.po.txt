@@ -199,9 +199,9 @@ POE::Component::Server::IRC::Plugin 1.54  H/HI/HINRIK/POE-Component-Server-IRC-1
 POE::Component::Server::IRC::Plugin::Auth 1.54  H/HI/HINRIK/POE-Component-Server-IRC-1.54.tar.gz
 POE::Component::Server::IRC::Plugin::OperServ 1.54  H/HI/HINRIK/POE-Component-Server-IRC-1.54.tar.gz
 POE::Component::Server::IRC::Test::Plugin 1.40  B/BI/BINGOS/POE-Component-Server-IRC-1.40.tar.gz
-POE::Component::Server::JSONRPC    0.04  M/MC/MCMIC/POE-Component-Server-JSONRPC-0.04.tar.gz
-POE::Component::Server::JSONRPC::Http 0.02  M/MC/MCMIC/POE-Component-Server-JSONRPC-0.04.tar.gz
-POE::Component::Server::JSONRPC::Tcp 0.01  M/MC/MCMIC/POE-Component-Server-JSONRPC-0.04.tar.gz
+POE::Component::Server::JSONRPC    0.05  M/MC/MCMIC/POE-Component-Server-JSONRPC-0.05-bis.tar.gz
+POE::Component::Server::JSONRPC::Http 0.03  M/MC/MCMIC/POE-Component-Server-JSONRPC-0.05-bis.tar.gz
+POE::Component::Server::JSONRPC::Tcp 0.01  M/MC/MCMIC/POE-Component-Server-JSONRPC-0.05-bis.tar.gz
 POE::Component::Server::MySQL      0.02  E/ER/ERIAM/POE-Component-Server-MySQL-0.02.tar.gz
 POE::Component::Server::NNTP       1.04  B/BI/BINGOS/POE-Component-Server-NNTP-1.04.tar.gz
 POE::Component::Server::NNTP::Constants 1.04  B/BI/BINGOS/POE-Component-Server-NNTP-1.04.tar.gz
