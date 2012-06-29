@@ -1300,6 +1300,7 @@ Dist::Zilla::Plugin::HailoMakeMaker,AVAR,f
 Dist::Zilla::Plugin::HasVersionTests,DOHERTY,c
 Dist::Zilla::Plugin::HasVersionTests,MARCEL,f
 Dist::Zilla::Plugin::HasVersionTests,XENO,c
+Dist::Zilla::Plugin::HelpWanted,YANICK,f
 Dist::Zilla::Plugin::Homepage,DOHERTY,c
 Dist::Zilla::Plugin::Homepage,MARCEL,f
 Dist::Zilla::Plugin::Homepage,XENO,c
