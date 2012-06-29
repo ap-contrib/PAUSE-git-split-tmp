@@ -389,9 +389,6 @@ Org::Element::Headline             0.23  S/SH/SHARYANTO/Org-Parser-0.23.tar.gz
 Org::Element::Link                 0.23  S/SH/SHARYANTO/Org-Parser-0.23.tar.gz
 Org::Element::List                 0.23  S/SH/SHARYANTO/Org-Parser-0.23.tar.gz
 Org::Element::ListItem             0.23  S/SH/SHARYANTO/Org-Parser-0.23.tar.gz
-Org::Element::RadioTarget          0.22  S/SH/SHARYANTO/Org-Parser-0.22.tar.gz
-Org::Element::Setting              0.22  S/SH/SHARYANTO/Org-Parser-0.22.tar.gz
-Org::Element::Table                0.22  S/SH/SHARYANTO/Org-Parser-0.22.tar.gz
 Org::Element::TableCell            0.23  S/SH/SHARYANTO/Org-Parser-0.23.tar.gz
 Org::Element::TableRow             0.23  S/SH/SHARYANTO/Org-Parser-0.23.tar.gz
 Org::Element::TableVLine           0.23  S/SH/SHARYANTO/Org-Parser-0.23.tar.gz
