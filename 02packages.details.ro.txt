@@ -324,10 +324,10 @@ RT::Action::ReassignOwner         undef  F/FA/FALCONE/RT-Extension-ReassignOwner
 RT::Action::SendEmail               0.1  J/JE/JESSE/RT-Extension-BrandedQueues-0.1.tar.gz
 RT::Action::SetPriorityFromHeader  0.01  T/TS/TSIBLEY/RT-Action-SetPriorityFromHeader-0.01.tar.gz
 RT::Action::SetStatus              0.01  F/FA/FALCONE/RT-Action-SetStatus-0.01.tar.gz
-RT::Action::SLA                   undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
-RT::Action::SLA_SetDefault        undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
-RT::Action::SLA_SetDue            undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
-RT::Action::SLA_SetStarts         undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
+RT::Action::SLA                   undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
+RT::Action::SLA_SetDefault        undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
+RT::Action::SLA_SetDue            undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
+RT::Action::SLA_SetStarts         undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
 RT::Action::TicketAgingActivate   undef  R/RU/RUZ/RT-Extension-TicketAging-0.12.tar.gz
 RT::Action::UpdateNagiosTickets   undef  S/SU/SUNNAVY/RT-Extension-Nagios-0.06.tar.gz
 RT::Article                        0.05  T/TS/TSIBLEY/RT-Extension-ArticleTemplates-0.05.tar.gz
@@ -391,10 +391,10 @@ RT::Condition::NotStartedInBusinessHours 0.2  B/BH/BHEISIG/RT-Condition-NotStart
 RT::Condition::OnAbandoned        undef  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
 RT::Condition::OnOwned            undef  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
 RT::Condition::OwnershipChanges    0.01  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
-RT::Condition::SLA                undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
-RT::Condition::SLA_RequireDefault undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
-RT::Condition::SLA_RequireDueSet  undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
-RT::Condition::SLA_RequireStartsSet undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
+RT::Condition::SLA                undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
+RT::Condition::SLA_RequireDefault undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
+RT::Condition::SLA_RequireDueSet  undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
+RT::Condition::SLA_RequireStartsSet undef  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
 RT::Config                        undef  E/EL/ELACOUR/RT-Extension-UserDetails-0.02.tar.gz
 RT::Crypt::SMIME                   0.22  J/JE/JESSE/RT-Crypt-SMIME-0.22.tar.gz
 RT::CustomField                   undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
@@ -449,7 +449,7 @@ RT::Extension::Nginx               0.02  R/RU/RUZ/RT-Extension-Nginx-0.02.tar.gz
 RT::Extension::NotifyOwners        0.02  I/ID/IDN/RT-Extension-NotifyOwners-0.02.tar.gz
 RT::Extension::OneTimeTo           0.02  T/TS/TSIBLEY/RT-Extension-OneTimeTo-0.02.tar.gz
 RT::Extension::PriorityAsString    0.04  F/FA/FALCONE/RT-Extension-PriorityAsString-0.04.tar.gz
-RT::Extension::QueueSLA            0.01  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
+RT::Extension::QueueSLA            0.01  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
 RT::Extension::QueueWizard          0.7  K/KE/KEVINR/RT-Extension-QueueWizard-0.7.tar.gz
 RT::Extension::QuickCalls          0.04  F/FA/FALCONE/RT-Extension-QuickCalls-0.04.tar.gz
 RT::Extension::QuickDelete         0.05  F/FA/FALCONE/RT-Extension-QuickDelete-0.05.tar.gz
@@ -464,7 +464,7 @@ RT::Extension::SearchResults::ODS  0.02  E/EL/ELACOUR/RT-Extension-SearchResults
 RT::Extension::SearchResults::XLS  0.07  E/EL/ELACOUR/RT-Extension-SearchResults-XLS-0.07.tar.gz
 RT::Extension::ServiceUpdates       0.2  J/JE/JESSE/RT-Extension-ServiceUpdates-0.2.tar.gz
 RT::Extension::SkipQuotes          0.01  T/TS/TSKHO/RT-Extension-SkipQuotes-0.01.tar.gz
-RT::Extension::SLA                 0.06  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
+RT::Extension::SLA                 0.07  T/TS/TSIBLEY/RT-Extension-SLA-0.07.tar.gz
 RT::Extension::SLA::Test          undef  T/TS/TSIBLEY/RT-Extension-SLA-0.06.tar.gz
 RT::Extension::SpawnLinkedTicketInQueue 0.05  R/RU/RUZ/RT-Extension-SpawnLinkedTicketInQueue-0.05.tar.gz
 RT::Extension::StallFutureTicket    0.3  B/BH/BHEISIG/RT-Extension-StallFutureTicket-0.3.tar.gz
