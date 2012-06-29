@@ -233,6 +233,7 @@ DBIx::Class::Loader::mysql,KRAIH,c
 DBIx::Class::Loader::mysql,MRAMBERG,c
 DBIx::Class::Loader::mysql,SRI,c
 DBIx::Class::Loader::mysql,TEMPIRE,c
+DBIx::Class::MaterializedPath,FREW,f
 DBIx::Class::Migration,JJNAPIORK,f
 DBIx::Class::Migration::MySQLSandbox,JJNAPIORK,f
 DBIx::Class::Migration::Population,JJNAPIORK,f
