@@ -194,6 +194,7 @@ Parse::AccessLogEntry::Accessor,AMARISAN,m
 Parse::Any2xml,RELIANCE,f
 Parse::Apache::ServerStatus,BLOONIX,m
 Parse::Apache::ServerStatus::Extended,MIZZY,f
+Parse::Arcconf,KUMY,f
 Parse::BACKPAN::Packages,LBROCARD,f
 Parse::BACKPAN::Packages,MSCHWERN,c
 Parse::BACKPAN::Packages::Distribution,LBROCARD,f
