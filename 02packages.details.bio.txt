@@ -319,7 +319,7 @@ Bio::DOOP::Util::Run::GeneMerge    0.02  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
 Bio::DOOP::Util::Run::Mofext       0.17  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
 Bio::DOOP::Util::Search            0.13  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
 Bio::DOOP::Util::Sort               0.3  R/RA/RAZZOR/Bio-DOOP-DOOP-1.04.tar.gz
-Bio::Draw::FeatureStack            0.01  C/CH/CHRISFR/Bio-Draw-FeatureStack-0.02.tar.gz
+Bio::Draw::FeatureStack            0.01  C/CH/CHRISFR/Bio-Draw-FeatureStack-0.03.tar.gz
 Bio::Draw::Pictogram           1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::ECell                         0.10  G/GA/GAOU/Bio-ECell-0.10.tar.gz
 Bio::Emboss                    5.000000001  P/PE/PERNST/Bio-Emboss-5.0.0.1.tar.gz
@@ -659,8 +659,8 @@ Bio::Graphics::Glyph::christmas_arrow 0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::cross           0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::crossbox        0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::dashed_line     0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
-Bio::Graphics::Glyph::decorated_gene 0.02  C/CH/CHRISFR/Bio-Graphics-Glyph-decorated_gene-0.02.tar.gz
-Bio::Graphics::Glyph::decorated_transcript 0.02  C/CH/CHRISFR/Bio-Graphics-Glyph-decorated_gene-0.02.tar.gz
+Bio::Graphics::Glyph::decorated_gene 0.02  C/CH/CHRISFR/Bio-Graphics-Glyph-decorated_gene-0.03.tar.gz
+Bio::Graphics::Glyph::decorated_transcript 0.02  C/CH/CHRISFR/Bio-Graphics-Glyph-decorated_gene-0.03.tar.gz
 Bio::Graphics::Glyph::diamond         0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::dna             0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
 Bio::Graphics::Glyph::dot             0  L/LD/LDS/Bio-Graphics-2.29.tar.gz
