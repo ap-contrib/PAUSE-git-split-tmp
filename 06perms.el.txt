@@ -698,6 +698,7 @@ Encode::Config,DANKOGAI,f
 Encode::Detect,JGMYERS,m
 Encode::Detect::CJK,FOOLFISH,m
 Encode::Detect::Detector,JGMYERS,m
+Encode::Detective,BKB,f
 Encode::DosHebrew,TZADIKV,m
 Encode::DoubleEncodedUTF8,MIYAGAWA,f
 Encode::EBCDIC,DANKOGAI,f
