@@ -490,7 +490,7 @@ Encode::Config                     2.05  D/DA/DANKOGAI/Encode-2.44.tar.gz
 Encode::Detect                     1.01  J/JG/JGMYERS/Encode-Detect-1.01.tar.gz
 Encode::Detect::CJK            2.000002  F/FO/FOOLFISH/Encode-Detect-CJK-2.0.2.tar.gz
 Encode::Detect::Detector           1.01  J/JG/JGMYERS/Encode-Detect-1.01.tar.gz
-Encode::Detective                  0.01  B/BK/BKB/Encode-Detective-0.01.tar.gz
+Encode::Detective                  0.02  B/BK/BKB/Encode-Detective-0.02.tar.gz
 Encode::DosHebrew                   0.5  T/TZ/TZADIKV/Encode-DosHebrew-0.51.tgz
 Encode::DoubleEncodedUTF8          0.05  M/MI/MIYAGAWA/Encode-DoubleEncodedUTF8-0.05.tar.gz
 Encode::EBCDIC                     2.02  D/DA/DANKOGAI/Encode-2.44.tar.gz
