@@ -166,7 +166,7 @@ App::SocialSKK::Plugin::Wikipedia undef  K/KE/KENTARO/App-SocialSKK-0.02.tar.gz
 App::SocialSKK::Protocol          undef  K/KE/KENTARO/App-SocialSKK-0.02.tar.gz
 App::Software::License             0.01  F/FL/FLORA/App-Software-License-0.01.tar.gz
 App::Stacktrace                    0.09  J/JJ/JJORE/App-Stacktrace-0.09.tar.gz
-App::starbucksloginator          0.0011  R/RO/ROKR/App-starbucksloginator-0.0011.tar.gz
+App::starbucksloginator          0.0012  R/RO/ROKR/App-starbucksloginator-0.0012.tar.gz
 App::Starter                       0.13  T/TO/TOMYHERO/App-Starter-0.13.tar.gz
 App::Stash                         0.02  J/JK/JKUTEJ/App-Stash-0.02.tar.gz
 App::StaticImageGallery           0.002  R/RB/RBO/App-StaticImageGallery-0.002.tar.gz
