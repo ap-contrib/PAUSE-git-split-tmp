@@ -536,7 +536,7 @@ IO::Async::Listener                0.51  P/PE/PEVANS/IO-Async-0.51.tar.gz
 IO::Async::Loop                    0.51  P/PE/PEVANS/IO-Async-0.51.tar.gz
 IO::Async::Loop::AnyEvent          0.03  P/PE/PEVANS/IO-Async-Loop-AnyEvent-0.03.tar.gz
 IO::Async::Loop::AnyEvent2::ElectricBoogaloo 0.002  M/MA/MAUKE/IO-Async-Loop-AnyEvent2-ElectricBoogaloo-0.002.tar.gz
-IO::Async::Loop::Epoll             0.12  P/PE/PEVANS/IO-Async-Loop-Epoll-0.12.tar.gz
+IO::Async::Loop::Epoll             0.13  P/PE/PEVANS/IO-Async-Loop-Epoll-0.13.tar.gz
 IO::Async::Loop::EV                0.01  P/PE/PEVANS/IO-Async-Loop-EV-0.01.tar.gz
 IO::Async::Loop::Glib              0.20  P/PE/PEVANS/IO-Async-Loop-Glib-0.20.tar.gz
 IO::Async::Loop::IO::Async         0.02  P/PE/PEVANS/IO-Async-Loop-IO-Async-0.02.tar.gz
