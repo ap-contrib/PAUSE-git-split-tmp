@@ -342,6 +342,9 @@ Malware::Win32                     1.02  S/SA/SAXJAZMAN/malware/Malware-1.02.tar
 Man                               undef  S/SE/SEYN/Pogo-0.10.tar.gz
 manager                           undef  H/HE/HEIKOWU/Class-StructTemplate-0.01.tar.gz
 manager2                          undef  H/HE/HEIKOWU/Class-StructTemplate-0.01.tar.gz
+Managers::buildApp                 0.01  K/KN/KNM/Ambrosia-0.010.tar.gz
+Managers::buildConfig              0.01  K/KN/KNM/Ambrosia-0.010.tar.gz
+Managers::buildXml                 0.01  K/KN/KNM/Ambrosia-0.010.tar.gz
 Manip::END                         0.08  F/FD/FDALY/Manip-END-0.08.tar.gz
 manor_clone_level                   1.8  C/CJ/CJONES/Microarray-0.45c.zip
 Maplat                            0.995  C/CA/CAVAC/Maplat-0.995.tar.gz
