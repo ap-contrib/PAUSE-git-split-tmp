@@ -295,6 +295,7 @@ App::BackupTumblr,DALINAUM,f
 App::Base64,CEBJYRE,f
 App::Base64::Command::decode,CEBJYRE,f
 App::BashComplete,MELO,f
+App::Beeminder::Hook,LETO,f
 App::Benchmark,MARCEL,f
 App::Benchmark::Accessors,MARCEL,f
 App::Bernard,MARNANEL,f
