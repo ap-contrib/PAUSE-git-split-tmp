@@ -87,6 +87,7 @@ File::Filename                     1.05  L/LE/LEOCHARRE/File-Filename-1.05.tar.g
 File::Filename::Convention         1.05  L/LE/LEOCHARRE/File-Filename-1.05.tar.gz
 File::FilterFuncs                  0.53  M/MU/MUMIAW/File-FilterFuncs-0.53.tar.gz
 File::Find                         1.20  F/FL/FLORA/perl-5.15.4.tar.gz
+File::Find::Age                    0.01  J/JK/JKUTEJ/File-Find-Age-0.01.tar.gz
 File::Find::Closures               1.09  B/BD/BDFOY/File-Find-Closures-1.09.tar.gz
 File::Find::Declare                0.62  R/RP/RPKELLY/File-Find-Declare-0.62.tar.gz
 File::Find::Duplicates             1.00  T/TM/TMTM/File-Find-Duplicates-1.00.tar.gz

@@ -148,7 +148,7 @@ Test::DBD::PO::Defaults            2.05  S/ST/STEFFENW/DBD-PO-2.10.tar.gz
 Test::DBIC                      0.01003  K/KO/KOLIBRIE/Test-DBIC-0.01003.tar.gz
 Test::DBIC::Schema              0.01001  K/KO/KOLIBRIE/Test-DBIC-0.01003.tar.gz
 Test::DBIC::Schema::Connector     0.002  G/GE/GETTY/Test-DBIC-Schema-Connector-0.002.tar.gz
-Test::DBICSchemaLoaderDigest       0.03  R/RS/RSRCHBOY/Test-DBICSchemaLoaderDigest-0.03.tar.gz
+Test::DBICSchemaLoaderDigest       0.04  R/RS/RSRCHBOY/Test-DBICSchemaLoaderDigest-0.04.tar.gz
 Test::DBIx::Class                  0.33  J/JJ/JJNAPIORK/Test-DBIx-Class-0.33.tar.gz
 Test::DBIx::Class::Example::Schema undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.33.tar.gz
 Test::DBIx::Class::Example::Schema::DefaultRS undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.33.tar.gz
