@@ -497,7 +497,7 @@ Spreadsheet::ParseExcel_XLHTML     0.04  R/RK/RKITOVER/Spreadsheet-ParseExcel_XL
 Spreadsheet::Perl                  0.12  N/NK/NKH/Spreadsheet-Perl-0.12.tar.gz
 Spreadsheet::Perl::Arithmetic      0.02  N/NK/NKH/Spreadsheet-Perl-0.12.tar.gz
 Spreadsheet::PrintExcelSheet       0.02  H/HA/HAVI/Spreadsheet-PrintExcelSheet-0.02.tar.gz
-Spreadsheet::Read                  0.46  H/HM/HMBRAND/Spreadsheet-Read-0.46.tgz
+Spreadsheet::Read                  0.47  H/HM/HMBRAND/Spreadsheet-Read-0.47.tgz
 Spreadsheet::ReadSXC               0.20  T/TE/TERHECHTE/Spreadsheet-ReadSXC-0.20.tar.gz
 Spreadsheet::SimpleExcel            1.9  R/RE/RENEEB/Spreadsheet-SimpleExcel-1.9.tar.gz
 Spreadsheet::TieExcel              0.75  S/SC/SCESANO/Spreadsheet-TieExcel-0.75.tar.gz
