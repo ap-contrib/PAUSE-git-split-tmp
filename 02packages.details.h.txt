@@ -300,7 +300,7 @@ if                               0.0601  I/IL/ILYAZ/modules/if-0.0601.tar.gz
 ifdef                              0.09  E/EL/ELIZABETH/ifdef-0.09.tar.gz
 Iff                                0.01  G/GM/GMLEWIS/RenderMan-0.04.tar.gz
 IfLoop                             0.03  W/WI/WILLIS/IfLoop-0.03.tar.gz
-ih                                    0  D/DC/DCMERTENS/App-Prima-REPL-0.02.tar.gz
+ih                                    0  D/DC/DCMERTENS/App-Prima-REPL-0.03.tar.gz
 IhasQuery                         0.022  B/BR/BRAINBUZ/IhasQuery-0.022.tar.gz
 IkiWiki::Plugin::disqus            0.01  R/RS/RSMITH/IkiWiki-Plugin-disqus-0.01.tar.gz
 IkiWiki::Plugin::syntax            0.25  V/VM/VMORAL/IkiWiki-Plugin-syntax-0.25.tar.gz
