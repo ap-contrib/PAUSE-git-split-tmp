@@ -101,7 +101,7 @@ Catalyst::Plugin::AtomPP           0.04  T/TY/TYPESTER/Catalyst-Plugin-AtomPP-0.
 Catalyst::Plugin::AtomServer       0.04  B/BT/BTROTT/Catalyst-Plugin-AtomServer-0.04.tar.gz
 Catalyst::Plugin::Auth::Utils      0.01  Z/ZB/ZBY/Catalyst-Example-InstantCRUD-0.038.tar.gz
 Catalyst::Plugin::AuthenCookie     0.07  D/DR/DROLSKY/Catalyst-Plugin-AuthenCookie-0.07.tar.gz
-Catalyst::Plugin::Authentication 0.10020  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10020.tar.gz
+Catalyst::Plugin::Authentication 0.10021  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10021.tar.gz
 Catalyst::Plugin::Authentication::Basic::Remote 0.03  T/TY/TYPESTER/Catalyst-Plugin-Authentication-Basic-Remote-0.03.tar.gz
 Catalyst::Plugin::Authentication::CDBI 0.10  M/MR/MRAMBERG/Catalyst-Plugin-Authentication-CDBI-0.10.tar.gz
 Catalyst::Plugin::Authentication::CDBI::Basic 0.02  T/TY/TYPESTER/Catalyst-Plugin-Authentication-CDBI-Basic-0.02.tar.gz
@@ -119,7 +119,7 @@ Catalyst::Plugin::Authentication::Credential::JugemKey 0.04  M/MI/MIZZY/Catalyst
 Catalyst::Plugin::Authentication::Credential::Livedoor 0.03  I/IK/IKEBE/Catalyst-Plugin-Authentication-Credential-Livedoor-0.03.tar.gz
 Catalyst::Plugin::Authentication::Credential::OpenID 0.03  M/MI/MIYAGAWA/Catalyst-Plugin-Authentication-Credential-OpenID-0.03.tar.gz
 Catalyst::Plugin::Authentication::Credential::PAM 0.01  R/RG/RGARCIA/Catalyst-Plugin-Authentication-Credential-PAM-0.01.tar.gz
-Catalyst::Plugin::Authentication::Credential::Password undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10020.tar.gz
+Catalyst::Plugin::Authentication::Credential::Password undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10021.tar.gz
 Catalyst::Plugin::Authentication::Credential::TypeKey 0.4  J/JR/JROBINSON/Catalyst-Plugin-Authentication-Credential-TypeKey-0.4.tar.gz
 Catalyst::Plugin::Authentication::LDAP 0.02  A/AG/AGRUNDMA/Catalyst-Plugin-Authentication-LDAP-0.02.tar.gz
 Catalyst::Plugin::Authentication::Simple 1.00  M/ME/METZZO/Catalyst-Plugin-Authentication-Simple-1.00.tar.gz
@@ -137,13 +137,13 @@ Catalyst::Plugin::Authentication::Store::HTTP::UserAgent undef  T/TY/TYPESTER/Ca
 Catalyst::Plugin::Authentication::Store::LDAP 0.0602  K/KA/KARMAN/Catalyst-Plugin-Authentication-Store-LDAP-0.0602.tar.gz
 Catalyst::Plugin::Authentication::Store::LDAP::Backend 0.0602  K/KA/KARMAN/Catalyst-Plugin-Authentication-Store-LDAP-0.0602.tar.gz
 Catalyst::Plugin::Authentication::Store::LDAP::User 0.0602  K/KA/KARMAN/Catalyst-Plugin-Authentication-Store-LDAP-0.0602.tar.gz
-Catalyst::Plugin::Authentication::Store::Minimal undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10020.tar.gz
+Catalyst::Plugin::Authentication::Store::Minimal undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10021.tar.gz
 Catalyst::Plugin::Authentication::Store::Minimal::Backend undef  N/NU/NUFFIN/Catalyst-Plugin-Authentication-0.09.tar.gz
 Catalyst::Plugin::Authentication::Store::RDBO 0.002  U/UV/UVOELKER/Catalyst-Plugin-Authentication-Store-RDBO-0.002.tar.gz
 Catalyst::Plugin::Authentication::Store::RDBO::Backend 0.001  U/UV/UVOELKER/Catalyst-Plugin-Authentication-Store-RDBO-0.002.tar.gz
 Catalyst::Plugin::Authentication::Store::RDBO::User 0.002  U/UV/UVOELKER/Catalyst-Plugin-Authentication-Store-RDBO-0.002.tar.gz
-Catalyst::Plugin::Authentication::User undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10020.tar.gz
-Catalyst::Plugin::Authentication::User::Hash undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10020.tar.gz
+Catalyst::Plugin::Authentication::User undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10021.tar.gz
+Catalyst::Plugin::Authentication::User::Hash undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10021.tar.gz
 Catalyst::Plugin::Authorization::Abilities 0.02  I/ID/IDOPEREL/Catalyst-Plugin-Authorization-Abilities-0.02.tar.gz
 Catalyst::Plugin::Authorization::ACL 0.15  R/RK/RKITOVER/Catalyst-Plugin-Authorization-ACL-0.15.tar.gz
 Catalyst::Plugin::Authorization::ACL::Engine undef  R/RK/RKITOVER/Catalyst-Plugin-Authorization-ACL-0.15.tar.gz
