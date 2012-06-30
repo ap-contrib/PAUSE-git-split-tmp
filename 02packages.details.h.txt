@@ -425,7 +425,8 @@ Image::Caa::DriverANSI            undef  I/IA/IAMCAL/Image-Caa-1.01.tar.gz
 Image::Caa::DriverCurses          undef  I/IA/IAMCAL/Image-Caa-1.01.tar.gz
 Image::Caa::DriverTest            undef  I/IA/IAMCAL/Image-Caa-1.01.tar.gz
 Image::Caption                     0.01  I/IW/IWADE/Image-Caption-0.01.tar.gz
-Image::CCV                         0.05  C/CO/CORION/Image-CCV-0.05.tar.gz
+Image::CCV                         0.06  C/CO/CORION/Image-CCV-0.06.tar.gz
+Image::CCV::Examples               0.06  C/CO/CORION/Image-CCV-0.06.tar.gz
 Image::Compare                      0.9  A/AV/AVIF/Image-Compare-0.9.tar.gz
 Image::Compare::_AVG_THRESHOLD      0.3  A/AV/AVIF/Image-Compare-0.3.tar.gz
 Image::Compare::_Comparator         0.3  A/AV/AVIF/Image-Compare-0.3.tar.gz

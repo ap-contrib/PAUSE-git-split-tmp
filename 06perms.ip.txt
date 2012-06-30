@@ -673,6 +673,7 @@ Image::ButtonMaker::Lexicon,PICZ,f
 Image::ButtonMaker::TemplateCanvas,PICZ,f
 Image::ButtonMaker::TextContainer,PICZ,f
 Image::CCV,CORION,f
+Image::CCV::Examples,CORION,f
 Image::Caa,IAMCAL,f
 Image::Caa::DitherNone,IAMCAL,f
 Image::Caa::DitherOrdered2,IAMCAL,f
