@@ -942,8 +942,8 @@ RDF::Flow::LinkedData             0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Pipeline               0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Source                 0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
 RDF::Flow::Union                  0.178  V/VO/VOJ/RDF-Flow-0.178.tar.gz
-RDF::Generator::Void               0.02  K/KJ/KJETILK/RDF-Generator-Void-0.02.tar.gz
-RDF::Generator::Void::Stats       undef  K/KJ/KJETILK/RDF-Generator-Void-0.02.tar.gz
+RDF::Generator::Void               0.04  K/KJ/KJETILK/RDF-Generator-Void-0.04.tar.gz
+RDF::Generator::Void::Stats       undef  K/KJ/KJETILK/RDF-Generator-Void-0.04.tar.gz
 RDF::Helper                         2.0  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::API                  undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::Constants            undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
@@ -985,7 +985,7 @@ RDF::Lazy::Literal                0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
 RDF::Lazy::Nil                    0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
 RDF::Lazy::Node                   0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
 RDF::Lazy::Resource               0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
-RDF::LinkedData                    0.52  K/KJ/KJETILK/RDF-LinkedData-0.52.tar.gz
+RDF::LinkedData                    0.54  K/KJ/KJETILK/RDF-LinkedData-0.54.tar.gz
 RDF::MicroTurtle::Context         0.001  T/TO/TOBYINK/RDF-MicroTurtle-0.001.tar.gz
 RDF::MicroTurtle::Context::StatusNet 0.001  T/TO/TOBYINK/RDF-MicroTurtle-0.001.tar.gz
 RDF::MicroTurtle::Feed            0.001  T/TO/TOBYINK/RDF-MicroTurtle-0.001.tar.gz
