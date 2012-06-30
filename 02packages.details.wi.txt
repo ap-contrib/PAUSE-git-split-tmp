@@ -536,7 +536,7 @@ Win32::Unicode::Dir                0.35  X/XA/XAICRON/Win32-Unicode-0.35.tar.gz
 Win32::Unicode::Encode             0.18  X/XA/XAICRON/Win32-Unicode-0.18.tar.gz
 Win32::Unicode::Error              0.35  X/XA/XAICRON/Win32-Unicode-0.35.tar.gz
 Win32::Unicode::File               0.35  X/XA/XAICRON/Win32-Unicode-0.35.tar.gz
-Win32::Unicode::InternetShortcut   0.01  J/JD/JDDPAUSE/Win32-Unicode-InternetShortcut-0.01.tar.gz
+Win32::Unicode::InternetShortcut   0.02  J/JD/JDDPAUSE/Win32-Unicode-InternetShortcut-0.02.tar.gz
 Win32::Unicode::Native             0.35  X/XA/XAICRON/Win32-Unicode-0.35.tar.gz
 Win32::Unicode::Process            0.35  X/XA/XAICRON/Win32-Unicode-0.35.tar.gz
 Win32::Unicode::Shortcut           0.04  J/JD/JDDPAUSE/Win32-Unicode-Shortcut-0.04.tar.gz
