@@ -543,7 +543,6 @@ XML::TinyXML::Selector::XPath::Functions 0.30  X/XA/XANT/XML-TinyXML-0.30.tar.gz
 XML::TMX                           0.22  A/AM/AMBS/XML/XML-TMX-0.22.tar.gz
 XML::TMX::CWB                      0.05  A/AM/AMBS/XML/XML-TMX-CWB-0.05.tar.gz
 XML::TMX::FromPO                  undef  A/AM/AMBS/XML/XML-TMX-0.22.tar.gz
-XML::TMX::Query                     0.1  A/AM/AMBS/XML/XML-TMX-0.20.tar.gz
 XML::TMX::Reader                   0.25  A/AM/AMBS/XML/XML-TMX-0.22.tar.gz
 XML::TMX::Writer                   0.23  A/AM/AMBS/XML/XML-TMX-0.22.tar.gz
 XML::TokeParser                    0.05  P/PO/PODMASTER/XML-TokeParser-0.05.tar.gz
