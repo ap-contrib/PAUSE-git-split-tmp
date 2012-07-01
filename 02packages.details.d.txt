@@ -31,7 +31,6 @@ DynGig::Automata::CLI::Sequence::CTRL undef  K/KA/KAN/DynGig-Automata-0.03.tar.g
 DynGig::Automata::CLI::Sequence::Run undef  K/KA/KAN/DynGig-Automata-0.03.tar.gz
 DynGig::Automata::CLI::Watcher::Exclude undef  K/KA/KAN/DynGig-Automata-0.03.tar.gz
 DynGig::Automata::CLI::Watcher::Run undef  K/KA/KAN/DynGig-Automata-0.03.tar.gz
-DynGig::Automata::CLI::Watcher::Service undef  K/KA/KAN/DynGig-Automata-0.02.tar.gz
 DynGig::Automata::EZDB::Alert     undef  K/KA/KAN/DynGig-Automata-1.00.tar.gz
 DynGig::Automata::EZDB::Exclude   undef  K/KA/KAN/DynGig-Automata-1.00.tar.gz
 DynGig::Automata::MapReduce       undef  K/KA/KAN/DynGig-Automata-1.00.tar.gz
