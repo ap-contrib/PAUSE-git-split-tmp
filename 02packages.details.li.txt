@@ -533,8 +533,8 @@ Linux::ProcessInfo                 0.01  M/MA/MART/Linux-ProcessInfo-0.01.tar.gz
 Linux::ProcessInfo::Process       undef  M/MA/MART/Linux-ProcessInfo-0.01.tar.gz
 Linux::ProcessInfo::Process::Status undef  M/MA/MART/Linux-ProcessInfo-0.01.tar.gz
 Linux::Smaps                       0.09  O/OP/OPI/Linux-Smaps-0.09.tar.gz
-Linux::Smaps::Tiny                 0.08  A/AV/AVAR/Linux-Smaps-Tiny-0.08.tar.gz
-Linux::Smaps::Tiny::PP             0.08  A/AV/AVAR/Linux-Smaps-Tiny-0.08.tar.gz
+Linux::Smaps::Tiny                 0.09  A/AV/AVAR/Linux-Smaps-Tiny-0.09.tar.gz
+Linux::Smaps::Tiny::PP             0.09  A/AV/AVAR/Linux-Smaps-Tiny-0.09.tar.gz
 Linux::Smaps::VMA                  0.09  O/OP/OPI/Linux-Smaps-0.09.tar.gz
 Linux::SocketFilter                0.04  P/PE/PEVANS/Linux-SocketFilter-0.04.tar.gz
 Linux::SocketFilter::Assembler     0.04  P/PE/PEVANS/Linux-SocketFilter-0.04.tar.gz
