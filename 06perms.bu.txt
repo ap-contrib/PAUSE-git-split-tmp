@@ -1002,6 +1002,7 @@ Business::OnlinePayment::AuthorizeNet,JASONK,c
 Business::OnlinePayment::AuthorizeNet,JEF,c
 Business::OnlinePayment::AuthorizeNet,TODDR,c
 Business::OnlinePayment::AuthorizeNet::AIM,IVAN,f
+Business::OnlinePayment::AuthorizeNet::AIM::ErrorCodes,IVAN,c
 Business::OnlinePayment::AuthorizeNet::AIM::ErrorCodes,TSIBLEY,f
 Business::OnlinePayment::AuthorizeNet::ARB,IVAN,f
 Business::OnlinePayment::BankOfAmerica,IVAN,f
