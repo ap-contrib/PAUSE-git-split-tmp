@@ -524,6 +524,7 @@ App::PipeFilter::Role::Transform::None,RCAPUTO,f
 App::PipeFilter::Role::Transform::PcapToEthernet,RCAPUTO,f
 App::PipeFilter::Role::Writer::Pcap,RCAPUTO,f
 App::PipeFilter::Role::Writer::Print,RCAPUTO,f
+App::Pipeline::Simple,HEIKKI,f
 App::Plog,NKH,f
 App::Plog::Aggregator::Template::Inline,NKH,f
 App::Plog::Commands,NKH,f

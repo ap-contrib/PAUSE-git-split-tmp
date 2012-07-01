@@ -432,6 +432,7 @@ App::PipeFilter::Role::Transform::None 0.005  R/RC/RCAPUTO/App-PipeFilter-0.005.
 App::PipeFilter::Role::Transform::PcapToEthernet 0.005  R/RC/RCAPUTO/App-PipeFilter-0.005.tar.gz
 App::PipeFilter::Role::Writer::Pcap 0.005  R/RC/RCAPUTO/App-PipeFilter-0.005.tar.gz
 App::PipeFilter::Role::Writer::Print 0.005  R/RC/RCAPUTO/App-PipeFilter-0.005.tar.gz
+App::Pipeline::Simple          0.009000  H/HE/HEIKKI/App-Pipeline-Simple-0.9.0.tar.gz
 App::Plog                          0.01  N/NK/NKH/App-Plog-0.01.12.tar.gz
 App::Plog::Aggregator::Template::Inline undef  N/NK/NKH/App-Plog-0.01.12.tar.gz
 App::Plog::Commands               undef  N/NK/NKH/App-Plog-0.01.12.tar.gz
