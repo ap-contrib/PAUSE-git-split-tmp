@@ -16,14 +16,14 @@ DateTime::Format::x509             0.01  A/AN/ANELSON/DateTime-Format-x509-0.01.
 DateTime::Format::XMLTV            0.01  C/CJ/CJM/DateTime-Format-XMLTV-0.01.tar.gz
 DateTime::Format::XSD               0.2  D/DR/DRUOSO/DateTime-Format-XSD-0.2.tar.gz
 DateTime::Functions                0.10  A/AU/AUDREYT/DateTime-Functions-0.10.tar.gz
-DateTime::Helpers                  0.75  D/DR/DROLSKY/DateTime-0.75.tar.gz
+DateTime::Helpers                  0.76  D/DR/DROLSKY/DateTime-0.76.tar.gz
 DateTime::HiRes                    0.01  J/JH/JHOBLITT/DateTime-HiRes-0.01.tar.gz
 DateTime::Incomplete               0.06  F/FG/FGLOCK/DateTime-Incomplete-0.06.tar.gz
 DateTime::Indic::Chandramana        0.2  J/JA/JALDHAR/DateTime-Indic-0.1.tar.gz
 DateTime::Indic::Utils             0.01  J/JA/JALDHAR/DateTime-Indic-0.1.tar.gz
-DateTime::Infinite                 0.75  D/DR/DROLSKY/DateTime-0.75.tar.gz
-DateTime::Infinite::Future         0.75  D/DR/DROLSKY/DateTime-0.75.tar.gz
-DateTime::Infinite::Past           0.75  D/DR/DROLSKY/DateTime-0.75.tar.gz
+DateTime::Infinite                 0.76  D/DR/DROLSKY/DateTime-0.76.tar.gz
+DateTime::Infinite::Future         0.76  D/DR/DROLSKY/DateTime-0.76.tar.gz
+DateTime::Infinite::Past           0.76  D/DR/DROLSKY/DateTime-0.76.tar.gz
 DateTime::LazyInit               1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_from_day_of_year 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_from_epoch 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
@@ -32,7 +32,7 @@ DateTime::LazyInit::Constructor_last_day_of_month 1.0200  R/RI/RICKM/DateTime-La
 DateTime::LazyInit::Constructor_new 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_now 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
 DateTime::LazyInit::Constructor_today 1.0200  R/RI/RICKM/DateTime-LazyInit-1.0200.tgz
-DateTime::LeapSecond               0.75  D/DR/DROLSKY/DateTime-0.75.tar.gz
+DateTime::LeapSecond               0.76  D/DR/DROLSKY/DateTime-0.76.tar.gz
 DateTime::Locale                   0.45  D/DR/DROLSKY/DateTime-Locale-0.45.tar.gz
 DateTime::Locale::aa              undef  D/DR/DROLSKY/DateTime-Locale-0.45.tar.gz
 DateTime::Locale::aa_DJ           undef  D/DR/DROLSKY/DateTime-Locale-0.45.tar.gz
