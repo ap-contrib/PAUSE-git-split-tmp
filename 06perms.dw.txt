@@ -72,6 +72,11 @@ DynGig::Range::Interface::Parse,KAN,f
 DynGig::Range::String,KAN,f
 DynGig::Range::String::Object,KAN,f
 DynGig::Range::String::Parse,KAN,f
+DynGig::Range::Time,KAN,f
+DynGig::Range::Time::Date,KAN,f
+DynGig::Range::Time::Day,KAN,f
+DynGig::Range::Time::Object,KAN,f
+DynGig::Range::Time::Parse,KAN,f
 DynGig::Util,KAN,f
 DynGig::Util::CLI,KAN,f
 DynGig::Util::CLI::OpsDB,KAN,f

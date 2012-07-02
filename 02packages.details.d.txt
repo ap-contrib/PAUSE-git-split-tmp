@@ -83,6 +83,11 @@ DynGig::Range::Interface::Parse   undef  K/KA/KAN/DynGig-Range-1.00.tar.gz
 DynGig::Range::String             undef  K/KA/KAN/DynGig-Range-1.00.tar.gz
 DynGig::Range::String::Object     undef  K/KA/KAN/DynGig-Range-1.00.tar.gz
 DynGig::Range::String::Parse      undef  K/KA/KAN/DynGig-Range-1.00.tar.gz
+DynGig::Range::Time                0.01  K/KA/KAN/DynGig-Range-Time-0.01.tar.gz
+DynGig::Range::Time::Date         undef  K/KA/KAN/DynGig-Range-Time-0.01.tar.gz
+DynGig::Range::Time::Day          undef  K/KA/KAN/DynGig-Range-Time-0.01.tar.gz
+DynGig::Range::Time::Object       undef  K/KA/KAN/DynGig-Range-Time-0.01.tar.gz
+DynGig::Range::Time::Parse        undef  K/KA/KAN/DynGig-Range-Time-0.01.tar.gz
 DynGig::RCE                        1.00  K/KA/KAN/DynGig-RCE-1.00.tar.gz
 DynGig::RCE::Access               undef  K/KA/KAN/DynGig-RCE-1.00.tar.gz
 DynGig::RCE::CLI::Server          undef  K/KA/KAN/DynGig-RCE-0.01.tar.gz
