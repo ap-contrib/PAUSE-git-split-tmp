@@ -217,7 +217,7 @@ CatalystX::Imports::Context       undef  F/FL/FLORA/CatalystX-Imports-0.04.tar.g
 CatalystX::Imports::Context::Config undef  F/FL/FLORA/CatalystX-Imports-0.04.tar.gz
 CatalystX::Imports::Context::Default undef  F/FL/FLORA/CatalystX-Imports-0.04.tar.gz
 CatalystX::Imports::Vars          undef  F/FL/FLORA/CatalystX-Imports-0.04.tar.gz
-CatalystX::InjectComponent        0.024  R/RK/RKRIMEN/CatalystX-InjectComponent-0.024.tar.gz
+CatalystX::InjectComponent        0.025  R/RO/ROKR/CatalystX-InjectComponent-0.025.tar.gz
 CatalystX::LeakChecker             0.06  F/FL/FLORA/CatalystX-LeakChecker-0.06.tar.gz
 CatalystX::ListFramework            0.5  S/SN/SNAFUFANS/CatalystX-ListFramework-0.5.tar.gz
 CatalystX::ListFramework::Helpers   0.1  S/SN/SNAFUFANS/CatalystX-ListFramework-0.5.tar.gz
