@@ -293,7 +293,7 @@ Win32::MultiMedia::Joystick        0.01  T/TH/THAMUS/Win32-MultiMedia-0.01.zip
 Win32::MultiMedia::Mci             0.01  T/TH/THAMUS/Win32-MultiMedia-0.01.zip
 Win32::MultiMedia::Mci::Consts     0.01  T/TH/THAMUS/Win32-MultiMedia-0.01.zip
 Win32::Mutex                       1.09  C/CJ/CJM/Win32-IPC-1.09.tar.gz
-Win32::NameTranslate               0.02  B/BI/BINGOS/Win32-NameTranslate-0.02.tar.gz
+Win32::NameTranslate               0.04  B/BI/BINGOS/Win32-NameTranslate-0.04.tar.gz
 Win32::Net::Session                0.02  R/RP/RPAGITSCH/Win32-Net-Session-0.02.tar.gz
 Win32::NetAdmin                    0.11  J/JD/JDB/Win32-NetAdmin-0.11.tar.gz
 Win32::NetName                      0.3  M/MS/MSOUTHERN/Win32-NetName-0.3.tar.gz
