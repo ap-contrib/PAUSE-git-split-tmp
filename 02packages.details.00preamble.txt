@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   117930
-Last-Updated: Mon, 02 Jul 2012 19:58:03 GMT
+Last-Updated: Mon, 02 Jul 2012 20:23:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -411,8 +411,8 @@ Acme::Goedelize                    0.02  T/TT/TTOD/Acme-Goedelize-0.02.tar.gz
 Acme::Gosub                       0.1.4  S/SH/SHLOMIF/Acme-Gosub-0.1.4.tar.gz
 Acme::Goto::Line                   0.01  A/AB/ABERGMAN/Acme-Goto-Line-0.01.tar.gz
 Acme::Greek                         1.0  J/JR/JROCKWAY/Acme-Greek-1.0.tar.gz
-Acme::Greeting                 0.000002  G/GU/GUGOD/Acme-Greeting-0.0.2.tar.gz
-Acme::Greeting::en                undef  G/GU/GUGOD/Acme-Greeting-0.0.2.tar.gz
+Acme::Greeting                 0.000003  G/GU/GUGOD/Acme-Greeting-0.0.3.tar.gz
+Acme::Greeting::en                undef  G/GU/GUGOD/Acme-Greeting-0.0.3.tar.gz
 Acme::Grep2D                       0.01  T/TH/THECRAMPS/Acme-Grep2D-0.01.tar.gz
 Acme::Group                       undef  P/PE/PERIGRIN/XML-Toolkit-0.15.tar.gz
 Acme::Gtk2::Ex::Builder           0.008  K/KE/KEEDI/Acme-Gtk2-Ex-Builder-0.008.tar.gz
