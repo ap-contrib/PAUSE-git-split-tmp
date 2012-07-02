@@ -27,6 +27,8 @@ DynGig::CLI::Multiplex::TCP,KAN,f
 DynGig::CLI::OpsDB,KAN,f
 DynGig::CLI::RCED,KAN,f
 DynGig::CLI::Range,KAN,f
+DynGig::CLI::Schedule::Make,KAN,f
+DynGig::CLI::Schedule::Period,KAN,f
 DynGig::CLI::Sequence::CTRL,KAN,f
 DynGig::CLI::Sequence::Run,KAN,f
 DynGig::CLI::Service,KAN,f
