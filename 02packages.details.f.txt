@@ -627,7 +627,7 @@ Games::Goban                      1.100  R/RJ/RJBS/Games-Goban-1.100.tar.gz
 Games::Goban::Board               1.100  R/RJ/RJBS/Games-Goban-1.100.tar.gz
 Games::Goban::Piece               1.100  R/RJ/RJBS/Games-Goban-1.100.tar.gz
 Games::GuessWord                   0.16  L/LB/LBROCARD/Games-GuessWord-0.16.tar.gz
-Games::Hack::Live                   0.6  P/PM/PMAREK/Games/Hack/Games-Hack-Live-0.6.tar.gz
+Games::Hack::Live                  0.61  P/PM/PMAREK/Games/Hack/Games-Hack-Live-0.61.tar.gz
 Games::Hack::Patch::i686           0.52  P/PM/PMAREK/Games/Hack/Patch/Games-Hack-Patch-i686-0.52.tar.gz
 Games::Hack::Patch::x86_64         0.13  P/PM/PMAREK/Games/Hack/Patch/Games-Hack-Patch-x86_64-0.13.tar.gz
 Games::HotPotato               0.110020  H/HA/HANENKAMP/Games-HotPotato-0.110020.tar.gz
