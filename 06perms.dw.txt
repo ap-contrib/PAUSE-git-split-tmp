@@ -79,10 +79,15 @@ DynGig::Range::Time::Date,KAN,f
 DynGig::Range::Time::Day,KAN,f
 DynGig::Range::Time::Object,KAN,f
 DynGig::Range::Time::Parse,KAN,f
+DynGig::Schedule,KAN,f
+DynGig::Schedule::Override,KAN,f
+DynGig::Schedule::Period,KAN,f
+DynGig::Schedule::Policy,KAN,f
 DynGig::Util,KAN,f
 DynGig::Util::CLI,KAN,f
 DynGig::Util::CLI::OpsDB,KAN,f
 DynGig::Util::CLI::Service,KAN,f
+DynGig::Util::Calendar,KAN,f
 DynGig::Util::EZDB,KAN,f
 DynGig::Util::LockFile::PID,KAN,f
 DynGig::Util::LockFile::Time,KAN,f
