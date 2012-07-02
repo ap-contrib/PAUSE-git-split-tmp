@@ -1260,6 +1260,8 @@ SQL::Translator::Filter::Names,FREW,c
 SQL::Translator::Filter::Names,JROBINSON,f
 SQL::Translator::Filter::Names,KCLARK,c
 SQL::Translator::Filter::Names,RIBASUSHI,c
+SQL::Translator::Generator::DDL::PostgreSQL,FREW,c
+SQL::Translator::Generator::DDL::PostgreSQL,JROBINSON,f
 SQL::Translator::Generator::DDL::SQLServer,FREW,c
 SQL::Translator::Generator::DDL::SQLServer,JROBINSON,f
 SQL::Translator::Generator::DDL::SQLite,FREW,c
