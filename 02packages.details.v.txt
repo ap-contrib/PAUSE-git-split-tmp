@@ -392,7 +392,7 @@ Vitacilina::Config                undef  D/DA/DAMOG/Vitacilina-0.2.tar.gz
 VJF::Emphase                       0.11  H/HE/HERVE/VJF-Emphase-0.11.tar.gz
 VJF::MITDT                         1.01  H/HE/HERVE/VJF-MITDT-1.01.tar.gz
 VK                                 0.04  L/LE/LEONMEDIA/VK-0.04.tar.gz
-VK::App                            0.06  M/MA/MAG/VK-App-0.06.tar.gz
+VK::App                            0.07  M/MA/MAG/VK-App-0.07.tar.gz
 VK::MP3                            0.03  E/EA/EAX/VK-MP3-0.03.tar.gz
 VKontakte::API                     0.04  A/AS/ASDEEVA/VKontakte-API-0.04.tar.gz
 VKontakte::API::OAuth              0.02  A/AS/ASDEEVA/VKontakte-API-0.04.tar.gz
