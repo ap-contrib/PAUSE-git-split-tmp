@@ -729,6 +729,7 @@ Lemonldap::Handlers::Utilities,EGERMAN,f
 Lemonldap::Handlers::ValidateCAS,EGERMAN,f
 Lemonldap::NG::Apache::Request,COUDOT,c
 Lemonldap::NG::Apache::Request,GUIMARD,f
+Lemonldap::NG::Cli,LINKDD,f
 Lemonldap::NG::Common,COUDOT,c
 Lemonldap::NG::Common,GUIMARD,m
 Lemonldap::NG::Common::Apache::Session,COUDOT,c
