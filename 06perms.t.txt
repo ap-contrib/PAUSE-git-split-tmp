@@ -954,6 +954,7 @@ Tui::Viewarea,RFLENS,f
 Tui::Widget,RFLENS,f
 Tuner,BUGONI,f
 Turtle,YVESP,f
+Turtle::Writer,VOJ,f
 Tux,YALE,f
 Tux::Constants,YALE,f
 Tux::Sample::Static,YALE,f
