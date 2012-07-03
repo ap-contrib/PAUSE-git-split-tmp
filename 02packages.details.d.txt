@@ -78,10 +78,10 @@ DynGig::RCE::Client               undef  K/KA/KAN/DynGig-RCE-1.00.tar.gz
 DynGig::RCE::Code                 undef  K/KA/KAN/DynGig-RCE-1.00.tar.gz
 DynGig::RCE::Query                undef  K/KA/KAN/DynGig-RCE-1.00.tar.gz
 DynGig::RCE::Server               undef  K/KA/KAN/DynGig-RCE-1.00.tar.gz
-DynGig::Schedule                   0.01  K/KA/KAN/DynGig-Schedule-0.01.tar.gz
-DynGig::Schedule::Override        undef  K/KA/KAN/DynGig-Schedule-0.01.tar.gz
-DynGig::Schedule::Period          undef  K/KA/KAN/DynGig-Schedule-0.01.tar.gz
-DynGig::Schedule::Policy          undef  K/KA/KAN/DynGig-Schedule-0.01.tar.gz
+DynGig::Schedule                   0.02  K/KA/KAN/DynGig-Schedule-0.02.tar.gz
+DynGig::Schedule::Override        undef  K/KA/KAN/DynGig-Schedule-0.02.tar.gz
+DynGig::Schedule::Period          undef  K/KA/KAN/DynGig-Schedule-0.02.tar.gz
+DynGig::Schedule::Policy          undef  K/KA/KAN/DynGig-Schedule-0.02.tar.gz
 DynGig::Util                       1.01  K/KA/KAN/DynGig-Util-1.01.tar.gz
 DynGig::Util::Calendar            undef  K/KA/KAN/DynGig-Util-1.01.tar.gz
 DynGig::Util::CLI                 undef  K/KA/KAN/DynGig-Util-1.01.tar.gz
