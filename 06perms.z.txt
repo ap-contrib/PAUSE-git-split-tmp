@@ -537,6 +537,7 @@ autobox,CHOCOLATE,f
 autobox::Bless,SWALTERS,f
 autobox::Closure::Attributes,SARTAK,f
 autobox::Closure::Attributes::Methods,SARTAK,f
+autobox::Core,JARICH,c
 autobox::Core,MSCHWERN,c
 autobox::Core,SWALTERS,f
 autobox::Core::ARRAY,MSCHWERN,c
