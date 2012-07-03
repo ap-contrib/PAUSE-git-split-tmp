@@ -540,12 +540,16 @@ autobox::Closure::Attributes::Methods,SARTAK,f
 autobox::Core,JARICH,c
 autobox::Core,MSCHWERN,c
 autobox::Core,SWALTERS,f
+autobox::Core::ARRAY,JARICH,c
 autobox::Core::ARRAY,MSCHWERN,c
 autobox::Core::ARRAY,SWALTERS,f
+autobox::Core::CODE,JARICH,c
 autobox::Core::CODE,MSCHWERN,c
 autobox::Core::CODE,SWALTERS,f
+autobox::Core::HASH,JARICH,c
 autobox::Core::HASH,MSCHWERN,c
 autobox::Core::HASH,SWALTERS,f
+autobox::Core::SCALAR,JARICH,c
 autobox::Core::SCALAR,MSCHWERN,c
 autobox::Core::SCALAR,SWALTERS,f
 autobox::DateTime::Duration,MIYAGAWA,f
