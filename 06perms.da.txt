@@ -456,6 +456,7 @@ DateTime::Format::Human::Duration::Locale::es,DMUEY,f
 DateTime::Format::Human::Duration::Locale::es,MSTRAT,c
 DateTime::Format::Human::Duration::Locale::fr,DMUEY,f
 DateTime::Format::Human::Duration::Locale::fr,MSTRAT,c
+DateTime::Format::Human::Duration::Locale::it,MSTRAT,f
 DateTime::Format::Human::Duration::Locale::pt,DMUEY,f
 DateTime::Format::Human::Duration::Locale::pt,MSTRAT,c
 DateTime::Format::IBeat,DROLSKY,f
