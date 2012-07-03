@@ -329,7 +329,7 @@ Test::Fixture::DBI::Util::SQLite   0.01  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.07.tar.
 Test::Fixture::DBIC::Schema        0.03  S/SC/SCHWIGON/fixtures/Test-Fixture-DBIC-Schema-0.03.tar.gz
 Test::Fixture::DBIxSkinny          0.01  N/NE/NEKOKAK/Test-Fixture-DBIxSkinny-0.01.tar.gz
 Test::Fixture::KyotoTycoon         0.13  H/HO/HOLLY/Test-Fixture-KyotoTycoon-0.13.tar.gz
-Test::Flatten                      0.08  X/XA/XAICRON/Test-Flatten-0.08.tar.gz
+Test::Flatten                      0.09  X/XA/XAICRON/Test-Flatten-0.09.tar.gz
 Test::Float::Assert                0.02  S/SW/SWALTERS/Test-Float-0.3.tar.gz
 Test::Float::Iterator              0.02  S/SW/SWALTERS/Test-Float-0.3.tar.gz
 Test::Float::Iterator::ARRAY       0.02  S/SW/SWALTERS/Test-Float-0.3.tar.gz
