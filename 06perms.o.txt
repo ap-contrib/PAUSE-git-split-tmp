@@ -556,7 +556,8 @@ re::engine::Plan9,VPIT,c
 re::engine::Plugin,AVAR,f
 re::engine::Plugin,VPIT,c
 re::engine::RE2,DGL,f
-re::engine::TRE,AVAR,f
+re::engine::TRE,AVAR,c
+re::engine::TRE,SYP,f
 re::engine::TRE,VPIT,c
 re::override,AUDREYT,f
 re::override,AUTRIJUS,c
