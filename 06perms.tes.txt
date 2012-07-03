@@ -121,6 +121,7 @@ Test::Clutch,FRASE,f
 Test::Cmd,KNIGHT,m
 Test::Cmd::Common,KNIGHT,f
 Test::Cmd::Cons,KNIGHT,f
+Test::Code::TidyAll,JSWARTZ,f
 Test::Command,DANBOO,f
 Test::Command::Simple,DMCBRIDE,f
 Test::Common,INGY,f
