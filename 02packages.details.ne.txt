@@ -465,7 +465,7 @@ Net::SMTP::Server::Client2          0.2  D/DA/DAVIDNICO/Net-SMTP-Server-Client2-
 Net::SMTP::Server::Relay            1.0  M/MA/MACGYVER/SMTP-Server-1.0.tar.gz
 Net::SMTP::SSL                     1.01  C/CW/CWEST/Net-SMTP-SSL-1.01.tar.gz
 Net::SMTP::TLS                     0.12  A/AW/AWESTHOLM/Net-SMTP-TLS-0.12.tar.gz
-Net::SMTP::TLS::ButMaintained      0.19  F/FA/FAYLAND/Net-SMTP-TLS-ButMaintained-0.19.tar.gz
+Net::SMTP::TLS::ButMaintained      0.20  F/FA/FAYLAND/Net-SMTP-TLS-ButMaintained-0.20.tar.gz
 Net::SMTP_auth                     0.08  A/AP/APLEINER/Net-SMTP_auth-0.08.tar.gz
 Net::SMTP_auth::SSL                0.01  S/ST/STEFANOS/Net-SMTP_auth-SSL-0.1.tar.gz
 Net::Snarl                         0.05  A/AB/ABERNDT/Net-Snarl/Net-Snarl-0.05.tar.gz
