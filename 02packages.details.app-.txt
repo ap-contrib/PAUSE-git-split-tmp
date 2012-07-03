@@ -686,7 +686,6 @@ App::RepoSync::Command::Import    undef  C/CO/CORNELIUS/App-RepoSync-0.03.tar.gz
 App::RepoSync::Export             undef  C/CO/CORNELIUS/App-RepoSync-0.03.tar.gz
 App::RepoSync::Script             undef  C/CO/CORNELIUS/App-RepoSync-0.03.tar.gz
 App::RepoSync::SystemUtil         undef  C/CO/CORNELIUS/App-RepoSync-0.03.tar.gz
-App::Reprove                      0.004  T/TO/TOBYINK/App-Reprove-0.004.tar.gz
 App::Request                       9817  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App::Request::CGI                 13908  S/SP/SPADKINS/App-Context-0.968.tar.gz
 App::Requirement::Arch             0.02  N/NK/NKH/App-Requirement-Arch-0.02.16.tar.gz
