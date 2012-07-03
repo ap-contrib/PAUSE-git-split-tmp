@@ -52,6 +52,7 @@ Acme::kevinz,KEVINZ,f
 Acme::landmine,DAVIDNICO,f
 Acme::phillup,PHILLUP,f
 Acme::please,DAVIDNICO,f
+Acme::rafl::Everywhere,XSAWYERX,f
 Acme::speeed,MEMOWE,f
 Acme::stickpin,STICKPIN,f
 Acme::use::strict::with::pride,NWCLARK,f
