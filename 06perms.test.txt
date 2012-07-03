@@ -126,6 +126,7 @@ Test::Mock::Cmd::TestUtils::Y,DMUEY,f
 Test::Mock::Context,CYCLES,f
 Test::Mock::CouchDBSchema,ZAPHAR,f
 Test::Mock::Expectation,CYCLES,f
+Test::Mock::Guard,XAICRON,c
 Test::Mock::Guard,ZIGOROU,f
 Test::Mock::HTTP::Request,LUKEC,f
 Test::Mock::HTTP::Request,MCMAHON,c
