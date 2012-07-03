@@ -27,6 +27,7 @@ Solution::Tag::For,SANKO,f
 Solution::Tag::If,SANKO,f
 Solution::Tag::IfChanged,SANKO,f
 Solution::Tag::Include,SANKO,f
+Solution::Tag::Raw,SANKO,f
 Solution::Tag::Unless,SANKO,f
 Solution::Template,SANKO,f
 Solution::Utility,SANKO,f
