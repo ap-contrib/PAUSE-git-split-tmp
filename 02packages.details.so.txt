@@ -1017,9 +1017,9 @@ SQLite::VirtualTable::CSV         undef  S/SA/SALVA/SQLite-VirtualTable-0.06.tar
 SQLite::VirtualTable::Pivot        0.02  B/BD/BDUGGAN/SQLite-VirtualTable-Pivot-0.02.tar.gz
 SQLite::VirtualTable::Pivot::Cursor undef  B/BD/BDUGGAN/SQLite-VirtualTable-Pivot-0.02.tar.gz
 SQLite::VirtualTable::Util         0.03  S/SA/SALVA/SQLite-VirtualTable-0.06.tar.gz
-SQLite::Work                       0.12  R/RU/RUBYKAT/SQLite-Work-0.12.tar.gz
-SQLite::Work::CGI                  0.12  R/RU/RUBYKAT/SQLite-Work-0.12.tar.gz
-SQLite::Work::Mail                 0.12  R/RU/RUBYKAT/SQLite-Work-0.12.tar.gz
+SQLite::Work                       0.13  R/RU/RUBYKAT/SQLite-Work-0.13.tar.gz
+SQLite::Work::CGI                  0.13  R/RU/RUBYKAT/SQLite-Work-0.13.tar.gz
+SQLite::Work::Mail                 0.13  R/RU/RUBYKAT/SQLite-Work-0.13.tar.gz
 sqlite_comparison                   1.1  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
 SQLite_File                        0.02  M/MA/MAJENSEN/SQLite_File-0.02.tar.gz
 SQLite_File::BTREEINFO            undef  M/MA/MAJENSEN/SQLite_File-0.02.tar.gz
