@@ -896,7 +896,7 @@ TimeoutValue                       1.02  S/SC/SCHAFFTER/Net-EMI-Client-1.02.tar.
 timepaser                          0.06  L/LS/LSFISV/LSF_PERL_API/LSF_Batch_0.06.tar.gz
 Timer                             undef  P/PH/PHILCROW/Java-Swing-0.14.tar.gz
 timer                             undef  Y/YU/YURAN/Tamino-0.03.tar.gz
-Timer::Runtime                     0.02  A/AW/AWOHLD/Timer-Runtime-0.02.tar.gz
+Timer::Runtime                     0.03  A/AW/AWOHLD/Timer-Runtime-0.03.tar.gz
 Timer::Simple                     1.004  R/RW/RWSTAUNER/Timer-Simple-1.004.tar.gz
 Timestamp::Simple                  1.01  S/SH/SHOOP/Timestamp-Simple-1.01.tar.gz
 Timezone                          undef  M/MU/MUIR/scripts/frogbak.tar.gz
