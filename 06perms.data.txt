@@ -1094,6 +1094,7 @@ Data::PrettyPrintObjects,SBECK,f
 Data::PrintUtils,RHAXTON,f
 Data::Printer,GARU,f
 Data::Printer::Filter,GARU,f
+Data::Printer::Filter::ClassicRegex,GARU,f
 Data::Printer::Filter::DB,GARU,f
 Data::Printer::Filter::DateTime,GARU,f
 Data::Printer::Filter::URI,SYP,f
