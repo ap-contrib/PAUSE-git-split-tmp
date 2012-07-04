@@ -1768,6 +1768,7 @@ Module::Pluggable::Loader,MARCEL,f
 Module::Pluggable::Object,SIMONW,f
 Module::Pluggable::Ordered,APEIRON,f
 Module::Pluggable::Singleton,JTANG,f
+Module::Pluggable::Singleton::Object,JTANG,f
 Module::PluginFinder,PEVANS,f
 Module::PortablePath,RPETTETT,f
 Module::Pragma,GFUJI,m
