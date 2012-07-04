@@ -166,8 +166,8 @@ Perl6::Pod::Parser::NestedAttr    undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::NOTES         undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::Pod2Events    undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Perl6::Pod::Parser::Utils             0  Z/ZA/ZAG/Perl6-Pod-0.53.tar.gz
-Perl6::Pod::Slide                  0.05  Z/ZA/ZAG/Perl6-Pod-Slide-0.05.tar.gz
-Perl6::Pod::Slide::Writer             0  Z/ZA/ZAG/Perl6-Pod-Slide-0.05.tar.gz
+Perl6::Pod::Slide                  0.06  Z/ZA/ZAG/Perl6-Pod-Slide-0.06.tar.gz
+Perl6::Pod::Slide::Writer             0  Z/ZA/ZAG/Perl6-Pod-Slide-0.06.tar.gz
 Perl6::Pod::Test                      0  Z/ZA/ZAG/Perl6-Pod-0.53.tar.gz
 Perl6::Pod::To                        0  Z/ZA/ZAG/Perl6-Pod-0.53.tar.gz
 Perl6::Pod::To::DocBook               0  Z/ZA/ZAG/Perl6-Pod-0.53.tar.gz
