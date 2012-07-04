@@ -1020,6 +1020,10 @@ Net::RackSpace::CloudServers::Image,MFONTANI,f
 Net::RackSpace::CloudServers::Limits,MFONTANI,f
 Net::RackSpace::CloudServers::Server,MFONTANI,f
 Net::Rackspace::Notes,IRONCAMEL,f
+Net::Radio::Modem,REHSACK,f
+Net::Radio::Modem::Adapter,REHSACK,f
+Net::Radio::Modem::Adapter::Null,REHSACK,f
+Net::Radio::Modem::Adapter::Static,REHSACK,f
 Net::Radio::oFono,REHSACK,f
 Net::Radio::oFono::CellBroadcast,REHSACK,f
 Net::Radio::oFono::ConnectionContext,REHSACK,f
