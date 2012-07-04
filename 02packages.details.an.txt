@@ -352,9 +352,9 @@ AnyEvent::Google::PageRank         0.04  O/OL/OLEG/AnyEvent-Google-PageRank-0.04
 AnyEvent::GPSD                      1.0  M/ML/MLEHMANN/AnyEvent-GPSD-1.0.tar.gz
 AnyEvent::Graphite                 0.08  J/JB/JBARRATT/AnyEvent-Graphite-0.08.tar.gz
 AnyEvent::Graphite::SNMPAgent     undef  J/JB/JBARRATT/AnyEvent-Graphite-0.08.tar.gz
-AnyEvent::Groonga                  0.07  M/MI/MIKI/AnyEvent-Groonga-0.07.tar.gz
-AnyEvent::Groonga::Result         undef  M/MI/MIKI/AnyEvent-Groonga-0.07.tar.gz
-AnyEvent::Groonga::Result::Select undef  M/MI/MIKI/AnyEvent-Groonga-0.07.tar.gz
+AnyEvent::Groonga                  0.08  M/MI/MIKI/AnyEvent-Groonga-0.08.tar.gz
+AnyEvent::Groonga::Result         undef  M/MI/MIKI/AnyEvent-Groonga-0.08.tar.gz
+AnyEvent::Groonga::Result::Select undef  M/MI/MIKI/AnyEvent-Groonga-0.08.tar.gz
 AnyEvent::Handle                  undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
 AnyEvent::Handle::Message::WebSocket 0.01  L/LE/LEEDO/Alice-0.20.tar.gz
 AnyEvent::Handle::Throttle     0.000002005  S/SA/SANKO/AnyEvent-Handle-Throttle-0.000002005.tar.gz
