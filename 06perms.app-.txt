@@ -267,6 +267,7 @@ App::makebeamerinfo::CLI,JBERGER,f
 App::makebeamerinfo::GUI,JBERGER,f
 App::metacpansearch,AWWAIID,f
 App::mgen,LAPIS,f
+App::mkdist,TOBYINK,f
 App::mkfeyorm,KEEDI,f
 App::module::version,KMX,f
 App::moduleshere,SUNNAVY,f
