@@ -656,9 +656,9 @@ SVN::Notify::Filter::Trac          2.83  D/DW/DWHEELER/SVN-Notify-2.83.tar.gz
 SVN::Notify::Filter::Watchers      0.10  L/LA/LARRYSH/SVN-Notify-Filter-Watchers-0.10.tar.gz
 SVN::Notify::HTML                  2.83  D/DW/DWHEELER/SVN-Notify-2.83.tar.gz
 SVN::Notify::HTML::ColorDiff       2.83  D/DW/DWHEELER/SVN-Notify-2.83.tar.gz
-SVN::Notify::Mirror               0.038  J/JP/JPEACOCK/SVN-Notify-Mirror-0.038.tar.gz
-SVN::Notify::Mirror::Rsync        0.038  J/JP/JPEACOCK/SVN-Notify-Mirror-0.038.tar.gz
-SVN::Notify::Mirror::SSH          0.038  J/JP/JPEACOCK/SVN-Notify-Mirror-0.038.tar.gz
+SVN::Notify::Mirror               0.040  J/JP/JPEACOCK/SVN-Notify-Mirror-0.040.tar.gz
+SVN::Notify::Mirror::Rsync        0.040  J/JP/JPEACOCK/SVN-Notify-Mirror-0.040.tar.gz
+SVN::Notify::Mirror::SSH          0.040  J/JP/JPEACOCK/SVN-Notify-Mirror-0.040.tar.gz
 SVN::Notify::SMTP                     0  D/DW/DWHEELER/SVN-Notify-2.83.tar.gz
 SVN::Notify::Snapshot              0.04  J/JP/JPEACOCK/SVN-Notify-Snapshot-0.04.tar.gz
 SVN::Push                          0.02  G/GR/GRICHTER/SVN-Push-0.02.tar.gz
