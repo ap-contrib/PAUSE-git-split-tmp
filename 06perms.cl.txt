@@ -136,6 +136,7 @@ Class::Composite::Element,PDENIS,f
 Class::CompoundMethods,JJORE,f
 Class::Config,DOWENS,f
 Class::Config::File,DOWENS,f
+Class::ConfigHash,SARGIE,f
 Class::ConfigMgr,TIMA,f
 Class::Constant,ROBN,f
 Class::Constructor,MGRAHAM,f
