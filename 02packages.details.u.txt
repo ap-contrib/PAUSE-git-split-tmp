@@ -110,7 +110,7 @@ Unicode::Collate::Standard::V3_1_1  0.1  B/BB/BBENNETT/collate/Unicode-Collate-S
 unicode::Controller::Root         undef  P/PE/PERLER/HTML-FormFu-0.09006.tar.gz
 Unicode::Debug                    0.001  T/TO/TOBYINK/Unicode-Debug-0.001.tar.gz
 Unicode::Decompose                 0.02  S/SI/SIMON/Unicode-Decompose-0.02.tar.gz
-Unicode::Diacritic::Strip          0.02  B/BK/BKB/Unicode-Diacritic-Strip-0.02.tar.gz
+Unicode::Diacritic::Strip          0.03  B/BK/BKB/Unicode-Diacritic-Strip-0.03.tar.gz
 Unicode::Digits                20090607  C/CO/COWENS/Unicode-Digits-20090607.tar.gz
 unicode::distinct                 undef  J/JH/JHI/perl-5.7.1.tar.gz
 Unicode::EastAsianWidth            1.32  A/AU/AUDREYT/Unicode-EastAsianWidth-1.32.tar.gz
