@@ -720,6 +720,8 @@ XSTEST::XS1,DMR,f
 XS_C_Visitor,PERRAD,f
 XS_CstubVisitor,PERRAD,f
 XS_PerlStubVisitor,PERRAD,f
+XT::Business,JTANG,f
+XT::Business::Plugin::Bar,JTANG,f
 XTM,DRRHO,f
 XTM::ATM,DRRHO,f
 XTM::AsTMa,DRRHO,f
