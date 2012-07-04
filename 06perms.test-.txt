@@ -1618,6 +1618,7 @@ Text::HikiDoc::Plugin::sup,KAWABATA,f
 Text::HikiDoc::Plugin::texthighlight,KAWABATA,f
 Text::HikiDoc::Plugin::vimcolor,KAWABATA,f
 Text::Histogram,NEVES,f
+Text::HistogramChart,MIKKOI,f
 Text::Hunspell,COSIMO,c
 Text::Hunspell,ELEONORA,f
 Text::Hyphen,KAPPA,f
