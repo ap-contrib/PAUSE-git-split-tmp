@@ -373,7 +373,7 @@ App::BCVI::AutoInstall              0.1  P/PU/PUCK/App-BCVI-AutoInstall-0.1.tar.
 App::BCVI::InstallManager          1.02  G/GR/GRANTM/App-BCVI-InstallManager-1.02.tar.gz
 App::BCVI::NotifyClient            1.00  G/GR/GRANTM/App-BCVI-NotifyClient-1.00.tar.gz
 App::BCVI::NotifyDesktop           1.00  G/GR/GRANTM/App-BCVI-NotifyDesktop-1.00.tar.gz
-App::Beeminder::Hook                0.1  L/LE/LETO/App-Beeminder-Hook-0.002.tar.gz
+App::Beeminder::Hook                0.1  L/LE/LETO/App-Beeminder-Hook-0.003.tar.gz
 App::Benchmark                 1.102310  M/MA/MARCEL/App-Benchmark-1.102310.tar.gz
 App::Benchmark::Accessors      1.110100  M/MA/MARCEL/App-Benchmark-Accessors-1.110100.tar.gz
 App::Bernard                       0.01  M/MA/MARNANEL/App-Bernard-0.01.tar.gz
