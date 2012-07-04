@@ -177,6 +177,7 @@ Test::DBIx::Class::SchemaManager::Trait::Testpostgresql undef  J/JJ/JJNAPIORK/Te
 Test::DBIx::Class::Types          undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.33.tar.gz
 Test::DBUnit                       0.20  A/AD/ADRIANWIT/Test-DBUnit-0.20.tar.gz
 Test::DBUnit::Generator            0.22  A/AD/ADRIANWIT/Test-DBUnit-0.20.tar.gz
+Test::Debian                       0.01  U/UN/UNERA/Test-Debian-0.01.tar.gz
 Test::Debugger                     0.14  K/KO/KOLIBRIE/Test-Debugger-0.14.tar.gz
 Test::Declare                      0.06  N/NE/NEKOKAK/Test-Declare-0.06.tar.gz
 Test::Deep                        0.110  R/RJ/RJBS/Test-Deep-0.110.tar.gz

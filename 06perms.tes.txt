@@ -256,6 +256,7 @@ Test::DatabaseRow,MARKF,c
 Test::DatabaseRow,PROFERO,f
 Test::DatabaseRow::Object,MARKF,f
 Test::DatabaseRow::Result,MARKF,f
+Test::Debian,UNERA,f
 Test::Debugger,KOLIBRIE,f
 Test::Declare,NEKOKAK,f
 Test::Deep,FDALY,f
