@@ -1212,6 +1212,7 @@ Data::Verifier::Field,GPHAT,f
 Data::Verifier::Field,JSHIRLEY,c
 Data::Verifier::Filters,GPHAT,f
 Data::Verifier::Filters,JSHIRLEY,c
+Data::Verifier::Nested,GPHAT,f
 Data::Verifier::Results,GPHAT,f
 Data::Verifier::Results,JSHIRLEY,c
 Data::Verify,MUENALAN,f

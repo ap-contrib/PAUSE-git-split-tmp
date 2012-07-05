@@ -550,7 +550,7 @@ Mac::CoreMIDI::Entity              0.03  C/CR/CRENZ/Mac-CoreMIDI-0.04.tar.gz
 Mac::CoreMIDI::Object              0.03  C/CR/CRENZ/Mac-CoreMIDI-0.04.tar.gz
 Mac::CoreMIDI::Port                0.02  C/CR/CRENZ/Mac-CoreMIDI-0.04.tar.gz
 Mac::DtfSQL                      0.3201  T/TW/TWEGNER/DBD-DtfSQLmac-0.3201.tar.gz
-Mac::Errors                        1.14  B/BD/BDFOY/Mac-Errors-1.14.tar.gz
+Mac::Errors                        1.16  B/BD/BDFOY/Mac-Errors-1.16.tar.gz
 Mac::EyeTV                         0.30  L/LB/LBROCARD/Mac-EyeTV-0.30.tar.gz
 Mac::EyeTV::Channel               undef  L/LB/LBROCARD/Mac-EyeTV-0.30.tar.gz
 Mac::EyeTV::Programme             undef  L/LB/LBROCARD/Mac-EyeTV-0.30.tar.gz

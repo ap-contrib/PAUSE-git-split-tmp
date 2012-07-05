@@ -913,10 +913,11 @@ Data::Valve::BucketStore::Object  undef  D/DM/DMAKI/Data-Valve-0.00010.tar.gz
 Data::Valve::BucketStore::WithKeyedMutex undef  D/DM/DMAKI/Data-Valve-0.00008.tar.gz
 Data::Variant                      0.04  L/LE/LEIJON/Data-Variant-0.04.tar.gz
 Data::VarPrint                     1.01  V/VS/VSEGO/Data-VarPrint-1.01.tar.gz
-Data::Verifier                     0.53  G/GP/GPHAT/Data-Verifier-0.53.tar.gz
-Data::Verifier::Field              0.53  G/GP/GPHAT/Data-Verifier-0.53.tar.gz
-Data::Verifier::Filters            0.53  G/GP/GPHAT/Data-Verifier-0.53.tar.gz
-Data::Verifier::Results            0.53  G/GP/GPHAT/Data-Verifier-0.53.tar.gz
+Data::Verifier                     0.54  G/GP/GPHAT/Data-Verifier-0.54.tar.gz
+Data::Verifier::Field              0.54  G/GP/GPHAT/Data-Verifier-0.54.tar.gz
+Data::Verifier::Filters            0.54  G/GP/GPHAT/Data-Verifier-0.54.tar.gz
+Data::Verifier::Nested             0.54  G/GP/GPHAT/Data-Verifier-0.54.tar.gz
+Data::Verifier::Results            0.54  G/GP/GPHAT/Data-Verifier-0.54.tar.gz
 Data::Visitor                      0.28  D/DO/DOY/Data-Visitor-0.28.tar.gz
 Data::Visitor::Callback            0.28  D/DO/DOY/Data-Visitor-0.28.tar.gz
 Data::Visitor::Encode           0.10007  D/DM/DMAKI/Data-Visitor-Encode-0.10007.tar.gz
