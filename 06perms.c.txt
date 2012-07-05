@@ -94,6 +94,7 @@ Crypt::XXTEA,ANDOT,f
 Crypt::XXTEA::CImpl,IEFREMOV,m
 Crypt::XkcdPassword,TOBYINK,f
 Crypt::XkcdPassword::Words::EN,TOBYINK,f
+Crypt::XkcdPassword::Words::EN::Roget,TOBYINK,c
 Crypt::XkcdPassword::Words::IT,TOBYINK,f
 Crypt::YAPassGen,GIULIENK,f
 Crypt::securid,PLIAM,f
