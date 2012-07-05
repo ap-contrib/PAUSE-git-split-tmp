@@ -631,7 +631,8 @@ Log::Deep                        v0.3.2  I/IV/IVANWILLS/Log-Deep-v0.3.2.tar.gz
 Log::Deep::File                  v0.3.1  I/IV/IVANWILLS/Log-Deep-v0.3.2.tar.gz
 Log::Deep::Line                  v0.3.1  I/IV/IVANWILLS/Log-Deep-v0.3.2.tar.gz
 Log::Deep::Read                  v0.3.1  I/IV/IVANWILLS/Log-Deep-v0.3.2.tar.gz
-Log::Defer                         0.11  F/FR/FRACTAL/Log-Defer-0.11.tar.gz
+Log::Defer                         0.12  F/FR/FRACTAL/Log-Defer-0.12.tar.gz
+Log::Defer::Viz                   undef  F/FR/FRACTAL/Log-Defer-0.12.tar.gz
 Log::Delimited                     0.90  E/EA/EARL/Log-Delimited-0.90.tar.gz
 Log::Dispatch                      2.32  D/DR/DROLSKY/Log-Dispatch-2.32.tar.gz
 Log::Dispatch::ApacheLog           2.32  D/DR/DROLSKY/Log-Dispatch-2.32.tar.gz
