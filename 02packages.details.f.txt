@@ -1268,8 +1268,8 @@ Games::Traveller::Animals          0.50  R/RJ/RJE/Games-Traveller-Animals-0.50.t
 Games::Traveller::Animals::AnimalEncounter 0.50  R/RJ/RJE/Games-Traveller-Animals-AnimalEncounter-0.50.tar.gz
 Games::Traveller::UWP              0.94  R/RJ/RJE/Games-Traveller-UWP-0.94.tar.gz
 Games::Traveller::UwpTools         0.93  R/RJ/RJE/Games-Traveller-UwpTools-0.93.tar.gz
-Games::Word                        0.05  D/DO/DOY/Games-Word-0.05.tar.gz
-Games::Word::Wordlist              0.05  D/DO/DOY/Games-Word-0.05.tar.gz
+Games::Word                        0.06  D/DO/DOY/Games-Word-0.06.tar.gz
+Games::Word::Wordlist              0.06  D/DO/DOY/Games-Word-0.06.tar.gz
 Games::Word::Wordlist::Enable  2010090401  A/AB/ABIGAIL/Games-Word-Wordlist-Enable-2010090401.tar.gz
 Games::Word::Wordlist::SGB     2010091501  A/AB/ABIGAIL/Games-Word-Wordlist-SGB-2010091501.tar.gz
 Games::WordFind                    0.02  A/AJ/AJOHNSON/Games-WordFind-0.02.tar.gz
