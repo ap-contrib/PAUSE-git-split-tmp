@@ -1152,6 +1152,7 @@ Crypt::DES_EDE3,BTROTT,f
 Crypt::DES_EEE3,GUGOD,f
 Crypt::DES_PP,GUIDO,f
 Crypt::DH,BTROTT,m
+Crypt::DH,MITHALDU,c
 Crypt::DH::GMP,CODEREPOS,c
 Crypt::DH::GMP,DMAKI,f
 Crypt::DH::GMP::Compat,CODEREPOS,c
