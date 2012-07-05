@@ -25,6 +25,7 @@ Audio::ScratchLive,CAPOEIRAB,m
 Audio::ScratchLive::Constants,CAPOEIRAB,f
 Audio::ScratchLive::Track,CAPOEIRAB,f
 Audio::Scrobbler,ROAM,f
+Audio::Scrobbler2,BAGET,m
 Audio::SndFile,JDIEPEN,f
 Audio::SndFile::Constants,JDIEPEN,f
 Audio::SndFile::Info,JDIEPEN,f
