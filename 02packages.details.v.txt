@@ -1137,8 +1137,8 @@ Web::Scraper                       0.36  M/MI/MIYAGAWA/Web-Scraper-0.36.tar.gz
 Web::Scraper::Config               0.01  D/DM/DMAKI/Web-Scraper-Config-0.01.tar.gz
 Web::Scraper::Filter              undef  M/MI/MIYAGAWA/Web-Scraper-0.36.tar.gz
 Web::Scraper::LibXML              undef  M/MI/MIYAGAWA/Web-Scraper-0.36.tar.gz
-Web::Simple                       0.016  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
-Web::Simple::Application          undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
+Web::Simple                       0.017  A/AP/APEIRON/Web-Simple-0.017.tar.gz
+Web::Simple::Application          undef  A/AP/APEIRON/Web-Simple-0.017.tar.gz
 Web::Simple::Dispatcher           undef  F/FR/FREW/Web-Simple-0.004.tar.gz
 Web::Simple::DispatchNode         undef  M/MS/MSTROUT/Web-Simple-0.016.tar.gz
 Web::Simple::DispatchParser       undef  F/FR/FREW/Web-Simple-0.004.tar.gz
