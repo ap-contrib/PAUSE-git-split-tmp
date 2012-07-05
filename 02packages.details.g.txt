@@ -353,6 +353,7 @@ Ham::Reference::Qsignals           0.02  B/BR/BRADMC/Ham-Reference-Qsignals-0.02
 Ham::Reference::Solar              0.03  B/BR/BRADMC/Ham-Reference-Solar-0.03.tar.gz
 Ham::Resources::HamQTH             0.04  C/CJ/CJUAN/Ham-Resources-HamQTH-0.04.tar.gz
 Ham::Resources::Propagation        0.01  C/CJ/CJUAN/Ham-Resources-Propagation-0.01.tar.gz
+Ham::Resources::Utils              0.01  C/CJ/CJUAN/Ham-Resources-Utils-0.01.tar.gz
 Ham::Scraper                        0.9  K/KW/KWITTMER/Ham-Scraper-0.9.tar.gz
 Handel                          1.00014  C/CL/CLACO/Handel-1.00014.tar.gz
 Handel::Base                      undef  C/CL/CLACO/Handel-1.00014.tar.gz
