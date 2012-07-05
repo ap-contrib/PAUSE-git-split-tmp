@@ -405,6 +405,15 @@ Exception::NoException::_obj,JJORE,f
 Exception::OK,WROSS,f
 Exception::REDIRECT,WROSS,f
 Exception::RETRY,WROSS,f
+Exception::Reporter,RJBS,f
+Exception::Reporter::Dumpable::File,RJBS,f
+Exception::Reporter::Sender,RJBS,f
+Exception::Reporter::Sender::Email,RJBS,f
+Exception::Reporter::Summarizer,RJBS,f
+Exception::Reporter::Summarizer::Email,RJBS,f
+Exception::Reporter::Summarizer::ExceptionClass,RJBS,f
+Exception::Reporter::Summarizer::Fallback,RJBS,f
+Exception::Reporter::Summarizer::File,RJBS,f
 Exception::Resumable,SEANO,f
 Exception::SEH,RANDIR,f
 Exception::SEH::Parser,RANDIR,f
