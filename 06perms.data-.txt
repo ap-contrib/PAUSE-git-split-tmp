@@ -1187,6 +1187,7 @@ Data::Validator::Role::AllowExtra,GFUJI,f
 Data::Validator::Role::Croak,GFUJI,f
 Data::Validator::Role::Method,GFUJI,f
 Data::Validator::Role::NoThrow,GFUJI,f
+Data::Validator::Role::Ordered,TAG,f
 Data::Validator::Role::Sequenced,GFUJI,f
 Data::Validator::Role::StrictSequenced,GFUJI,f
 Data::Valve,CODEREPOS,c
