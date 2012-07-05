@@ -40,7 +40,7 @@ App::Mimosa::Util                     0  L/LE/LETO/App-Mimosa-0.02.tar.gz
 App::Mimosa::View::Mason              0  L/LE/LETO/App-Mimosa-0.02.tar.gz
 App::Mimosa::View::SeqIO              0  L/LE/LETO/App-Mimosa-0.02.tar.gz
 App::MiseEnPlace                   0.14  G/GE/GENEHACK/App-MiseEnPlace-0.14.tar.gz
-App::mkdist                       0.006  T/TO/TOBYINK/Module-Package-RDF-0.006.tar.gz
+App::mkdist                       0.007  T/TO/TOBYINK/Module-Package-RDF-0.007.tar.gz
 App::mkfeyorm                     0.010  K/KE/KEEDI/App-mkfeyorm-0.010.tar.gz
 App::Mobirc                        1.07  T/TO/TOKUHIROM/mobirc-1.07.tar.gz
 App::Mobirc::ConfigLoader         undef  T/TO/TOKUHIROM/mobirc-1.07.tar.gz
