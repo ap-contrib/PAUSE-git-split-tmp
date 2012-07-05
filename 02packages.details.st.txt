@@ -199,7 +199,7 @@ Sun::Solaris::Ucred                 1.1  S/SU/SUNCPAN/Sun-Solaris-Ucred-1.1.tar.
 Sunpower::Cryocooler           0.001005  K/KE/KERR/Sunpower-Cryocooler-0.1.5.tar.gz
 Sup                               undef  G/GR/GROMMIER/Text-Editor-Easy-0.01.tar.gz
 super                              0.02  D/DR/DROLSKY/Class-ClassDecorator-0.02.tar.gz
-SUPER                              1.17  C/CH/CHROMATIC/SUPER-1.17.tar.gz
+SUPER                          1.20120705  C/CH/CHROMATIC/SUPER-1.20120705.tar.gz
 SuperPython                        0.91  M/MJ/MJD/SuperPython-0.91.tar.gz
 SuperSplit                         0.06  J/JE/JEROENES/SuperSplit-0.06.tar.gz
 SuperSplit::Obj                   undef  J/JE/JEROENES/SuperSplit-0.06.tar.gz
