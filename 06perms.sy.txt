@@ -1313,6 +1313,7 @@ TAP::Parser::YAMLish::Reader,OVID,c
 TAP::Parser::YAMLish::Writer,ANDYA,f
 TAP::Parser::YAMLish::Writer,OVID,c
 TAP::Runner,REV,m
+TAP::Runner::Test,REV,f
 TAP::Spec::BailOut,ARODLAND,f
 TAP::Spec::Body,ARODLAND,f
 TAP::Spec::Comment,ARODLAND,f
