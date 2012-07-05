@@ -599,7 +599,7 @@ Log::Any::Adapter::Callback        0.04  S/SH/SHARYANTO/Log-Any-Adapter-Callback
 Log::Any::Adapter::Catalyst        0.11  M/MG/MGRIMES/Log-Any-Adapter-Catalyst-0.11.tar.gz
 Log::Any::Adapter::Core           undef  J/JS/JSWARTZ/Log-Any-0.11.tar.gz
 Log::Any::Adapter::Dispatch        0.06  J/JS/JSWARTZ/Log-Any-Adapter-Dispatch-0.06.tar.gz
-Log::Any::Adapter::FileHandle     0.006  J/JA/JASONJAYR/Log-Any-Adapter-FileHandle-0.006.tar.gz
+Log::Any::Adapter::FileHandle     0.007  J/JA/JASONJAYR/Log-Any-Adapter-FileHandle-0.007.tar.gz
 Log::Any::Adapter::Log4perl        0.06  J/JS/JSWARTZ/Log-Any-Adapter-Log4perl-0.06.tar.gz
 Log::Any::Adapter::Mojo            0.06  H/HE/HENRYYKT/Log-Any-Adapter-Mojo-0.06.tar.gz
 Log::Any::Adapter::Null            0.14  J/JS/JSWARTZ/Log-Any-0.14.tar.gz
