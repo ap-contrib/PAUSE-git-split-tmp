@@ -150,8 +150,8 @@ KiokuDB::Backend::BDB              0.15  N/NU/NUFFIN/KiokuDB-Backend-BDB-0.15.ta
 KiokuDB::Backend::BDB::GIN        undef  N/NU/NUFFIN/KiokuDB-Backend-BDB-0.15.tar.gz
 KiokuDB::Backend::BDB::Manager    undef  N/NU/NUFFIN/KiokuDB-Backend-BDB-0.15.tar.gz
 KiokuDB::Backend::CouchDB          0.10  M/MA/MADZ/KiokuDB-Backend-CouchDB-0.10.tar.gz
-KiokuDB::Backend::DBI              1.21  D/DO/DOY/KiokuDB-Backend-DBI-1.21.tar.gz
-KiokuDB::Backend::DBI::Schema      1.21  D/DO/DOY/KiokuDB-Backend-DBI-1.21.tar.gz
+KiokuDB::Backend::DBI              1.22  D/DO/DOY/KiokuDB-Backend-DBI-1.22.tar.gz
+KiokuDB::Backend::DBI::Schema      1.22  D/DO/DOY/KiokuDB-Backend-DBI-1.22.tar.gz
 KiokuDB::Backend::Files            0.06  N/NU/NUFFIN/KiokuDB-Backend-Files-0.06.tar.gz
 KiokuDB::Backend::Hash            undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 KiokuDB::Backend::JSPON            0.06  N/NU/NUFFIN/KiokuDB-Backend-Files-0.06.tar.gz
@@ -306,11 +306,11 @@ KiokuDB::TypeMap::Entry::Alias    undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 KiokuDB::TypeMap::Entry::Callback undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 KiokuDB::TypeMap::Entry::Closure  undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 KiokuDB::TypeMap::Entry::Compiled undef  D/DO/DOY/KiokuDB-0.52.tar.gz
-KiokuDB::TypeMap::Entry::DBIC::ResultSet 1.21  D/DO/DOY/KiokuDB-Backend-DBI-1.21.tar.gz
-KiokuDB::TypeMap::Entry::DBIC::ResultSource 1.21  D/DO/DOY/KiokuDB-Backend-DBI-1.21.tar.gz
+KiokuDB::TypeMap::Entry::DBIC::ResultSet 1.22  D/DO/DOY/KiokuDB-Backend-DBI-1.22.tar.gz
+KiokuDB::TypeMap::Entry::DBIC::ResultSource 1.22  D/DO/DOY/KiokuDB-Backend-DBI-1.22.tar.gz
 KiokuDB::TypeMap::Entry::DBIC::ResultSourceHandle 1.18  D/DR/DRUOSO/KiokuDB-Backend-DBI-1.18.tar.gz
-KiokuDB::TypeMap::Entry::DBIC::Row 1.21  D/DO/DOY/KiokuDB-Backend-DBI-1.21.tar.gz
-KiokuDB::TypeMap::Entry::DBIC::Schema 1.21  D/DO/DOY/KiokuDB-Backend-DBI-1.21.tar.gz
+KiokuDB::TypeMap::Entry::DBIC::Row 1.22  D/DO/DOY/KiokuDB-Backend-DBI-1.22.tar.gz
+KiokuDB::TypeMap::Entry::DBIC::Schema 1.22  D/DO/DOY/KiokuDB-Backend-DBI-1.22.tar.gz
 KiokuDB::TypeMap::Entry::JSON::Scalar undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 KiokuDB::TypeMap::Entry::MOP      undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 KiokuDB::TypeMap::Entry::Naive    undef  D/DO/DOY/KiokuDB-0.52.tar.gz

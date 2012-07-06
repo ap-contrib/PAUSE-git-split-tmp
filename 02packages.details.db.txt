@@ -3,7 +3,7 @@ DBIx::Class::Schema::Journal::DB::Base undef  J/JR/JROBINSON/DBIx-Class-Journal-
 DBIx::Class::Schema::Journal::DB::Change undef  J/JR/JROBINSON/DBIx-Class-Journal-0.01.tar.gz
 DBIx::Class::Schema::Journal::DB::ChangeLog undef  F/FR/FREW/DBIx-Class-Journal-0.900200.tar.gz
 DBIx::Class::Schema::Journal::DB::ChangeSet undef  F/FR/FREW/DBIx-Class-Journal-0.900200.tar.gz
-DBIx::Class::Schema::KiokuDB       1.21  D/DO/DOY/KiokuDB-Backend-DBI-1.21.tar.gz
+DBIx::Class::Schema::KiokuDB       1.22  D/DO/DOY/KiokuDB-Backend-DBI-1.22.tar.gz
 DBIx::Class::Schema::Loader     0.07025  R/RK/RKITOVER/DBIx-Class-Schema-Loader-0.07025.tar.gz
 DBIx::Class::Schema::Loader::Base 0.07025  R/RK/RKITOVER/DBIx-Class-Schema-Loader-0.07025.tar.gz
 DBIx::Class::Schema::Loader::DB2  undef  B/BL/BLBLACK/DBIx-Class-Schema-Loader-0.02007.tar.gz
