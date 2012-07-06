@@ -631,6 +631,7 @@ Algorithm::FloodControl::Backend   2609  G/GU/GUGU/Algorithm-FloodControl-2.0000
 Algorithm::FloodControl::Backend::Cache::FastMmap 2609  G/GU/GUGU/Algorithm-FloodControl-2.000000.tar.gz
 Algorithm::FloodControl::Backend::Cache::Memcached 2609  G/GU/GUGU/Algorithm-FloodControl-2.000000.tar.gz
 Algorithm::FloodControl::Backend::Cache::Memcached::Fast 2609  G/GU/GUGU/Algorithm-FloodControl-2.000000.tar.gz
+Algorithm::Functional::BFS         0.01  C/CW/CWW/Algorithm-Functional-BFS-0.01.tar.gz
 Algorithm::FuzzyCmeans             0.02  F/FU/FUJISAWA/Algorithm-FuzzyCmeans-0.02.tar.gz
 Algorithm::FuzzyCmeans::Distance  undef  F/FU/FUJISAWA/Algorithm-FuzzyCmeans-0.02.tar.gz
 Algorithm::FuzzyCmeans::Distance::Cosine undef  F/FU/FUJISAWA/Algorithm-FuzzyCmeans-0.02.tar.gz
