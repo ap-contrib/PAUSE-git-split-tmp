@@ -128,7 +128,7 @@ Plack::Session::State::Cookie      0.14  M/MI/MIYAGAWA/Plack-Middleware-Session-
 Plack::Session::State::URI         0.02  A/AS/ASKADNA/Plack-Session-State-URI-0.02.tar.gz
 Plack::Session::Store              0.14  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
 Plack::Session::Store::Cache       0.14  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
-Plack::Session::Store::Catmandu    0.01  N/NI/NICS/Catmandu-0.02.tar.gz
+Plack::Session::Store::Catmandu    0.01  N/NI/NICS/Catmandu-0.03.tar.gz
 Plack::Session::Store::DBI         0.10  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
 Plack::Session::Store::File        0.14  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
 Plack::Session::Store::MongoDB      0.3  I/ID/IDOPEREL/Plack-Session-Store-MongoDB-0.3.tar.gz
