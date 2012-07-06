@@ -1022,7 +1022,7 @@ Tk::Application::dbfdump           0.03  T/TO/TOSTI/xdbfdump-0.03.tar.gz
 Tk::Application::Stadaf            0.01  T/TO/TOSTI/vstadaf-0.01.tar.gz
 Tk::ApplicationNest                0.01  X/XP/XPIX/Tk-ApplicationNest-1.1.tar.gz
 Tk::ArrayBar                      undef  M/MC/MCAST/Test-Unit-0.25.tar.gz
-Tk::AstroCatalog                   0.12  T/TJ/TJENNESS/Astro-Catalog-4.23.tar.gz
+Tk::AstroCatalog                   0.12  T/TJ/TJENNESS/Astro-Catalog-4.24.tar.gz
 Tk::autobind                        1.2  K/KV/KVAIL/Tk-autobind-1.2.tar.gz
 Tk::Autoscroll                     1.14  S/SR/SREZIC/Tk-Autoscroll-1.14.tar.gz
 Tk::Axis                            2.5  A/AC/ACH/Tk-Contrib-0.07.tar.gz
