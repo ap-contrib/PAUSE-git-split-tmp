@@ -349,6 +349,7 @@ Business::BancaSella::Ris::FileFast,EBRUNI,f
 Business::BancaSella::Ris::Mysql,EBRUNI,f
 Business::BankAccount::NZ,UNISOLVE,f
 Business::BankCard,SHARYANTO,f
+Business::BankCard::Indonesia,SHARYANTO,f
 Business::BankList,SHARYANTO,f
 Business::BankList::Indonesia,SHARYANTO,f
 Business::Barcode::EAN13,TMTM,f
