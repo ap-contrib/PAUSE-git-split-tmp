@@ -312,8 +312,6 @@ Test::File::ShareDir::TempDirObject v0.3.1  K/KE/KENTNL/Test-File-ShareDir-0.3.1
 Test::Filename                     0.02  D/DA/DAGOLDEN/Test-Filename-0.02.tar.gz
 Test::FileReferenced               0.02  N/NA/NATANAEL/Test-FileReferenced-0.02.tar.gz
 Test::Files                        0.14  P/PH/PHILCROW/Test-Files-0.14.tar.gz
-Test::Filter                      undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
-Test::FilterDocBook               undef  Z/ZA/ZAG/Perl6-Pod-0.35.tar.gz
 Test::FIT                          0.11  I/IN/INGY/Test-FIT-0.11.tar.gz
 Test::FIT::Cell                    0.10  I/IN/INGY/Test-FIT-0.11.tar.gz
 Test::FIT::ColumnFixture           0.10  I/IN/INGY/Test-FIT-0.11.tar.gz
