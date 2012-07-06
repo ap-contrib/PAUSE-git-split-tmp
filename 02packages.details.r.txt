@@ -307,6 +307,7 @@ Samba::LDAP::User                  0.05  G/GH/GHENRY/Samba-LDAP-0.05.tar.gz
 Samba::SIDhelper                    0.0  V/VV/VVELOX/Samba-SIDhelper-0.0.0.tar.gz
 Sample                            undef  N/NE/NEKOKAK/DBIx-Skinny-0.03.tar.gz
 Sample::AuthCookieHandler           1.2  B/BA/BARTLEY/Apache-AuthCookie-1.4.tar.gz
+Sample::Module                 0.001000  A/AB/ABHIISNOT/Sample-Module-0.1.0.tar.gz
 Sample::Schema                    undef  N/NE/NEKOKAK/DBIx-Skinny-0.03.tar.gz
 SampleModule                      undef  C/CT/CTILMES/Log-Log4perl-CommandLine-0.07.tar.gz
 SampleModule2                     undef  C/CT/CTILMES/Log-Log4perl-CommandLine-0.07.tar.gz

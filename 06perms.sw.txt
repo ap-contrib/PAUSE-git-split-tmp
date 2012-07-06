@@ -644,6 +644,7 @@ Samba::SIDhelper,VVELOX,f
 Saml2Test,CHRISA,f
 Sample,NEKOKAK,f
 Sample::AuthCookieHandler,BARTLEY,f
+Sample::Module,ABHIISNOT,f
 Sample::Schema,NEKOKAK,f
 SampleApp,ERIAM,f
 SampleApp::Controller::Root,ERIAM,f
