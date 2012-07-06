@@ -553,8 +553,8 @@ Smart::Comments                   1.0.4  C/CH/CHORNY/Smart-Comments-1.0.4.tar.gz
 Smart::Dispatch                   0.002  T/TO/TOBYINK/Smart-Dispatch-0.002.tar.gz
 Smart::Dispatch::Match            0.002  T/TO/TOBYINK/Smart-Dispatch-0.002.tar.gz
 Smart::Dispatch::Table            0.002  T/TO/TOBYINK/Smart-Dispatch-0.002.tar.gz
-Smart::Match                      0.004  L/LE/LEONT/Smart-Match-0.004.tar.gz
-Smart::Match::Overload            0.004  L/LE/LEONT/Smart-Match-0.004.tar.gz
+Smart::Match                      0.005  L/LE/LEONT/Smart-Match-0.005.tar.gz
+Smart::Match::Overload            0.005  L/LE/LEONT/Smart-Match-0.005.tar.gz
 SmarTalk                           0.06  C/CL/CLADI/SmarTalk_v0.6.tar.gz
 SmartMatch::Sugar                  0.04  L/LE/LEONT/SmartMatch-Sugar-0.05.tar.gz
 SmartMatch::Sugar::Overloaded      0.04  L/LE/LEONT/SmartMatch-Sugar-0.05.tar.gz
