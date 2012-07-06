@@ -677,7 +677,7 @@ Crypt::DES                         2.05  D/DP/DPARIS/Crypt-DES-2.05.tar.gz
 Crypt::DES_EDE3                    0.01  B/BT/BTROTT/Crypt-DES_EDE3-0.01.tar.gz
 Crypt::DES_EEE3                    0.01  G/GU/GUGOD/Crypt-DES_EEE3-0.01.tar.gz
 Crypt::DES_PP                      1.00  G/GU/GUIDO/Crypt-DES_PP-1.00.tar.gz
-Crypt::DH                          0.06  B/BT/BTROTT/Crypt-DH-0.06.tar.gz
+Crypt::DH                          0.07  M/MI/MITHALDU/Crypt-DH-0.07.tar.gz
 Crypt::DH::GMP                  0.00010  D/DM/DMAKI/Crypt-DH-GMP-0.00010.tar.gz
 Crypt::DH::GMP::Compat            undef  D/DM/DMAKI/Crypt-DH-GMP-0.00010.tar.gz
 Crypt::Dining                      1.01  S/SH/SHEVEK/Crypt-Dining-1.01.tar.gz
