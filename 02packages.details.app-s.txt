@@ -165,6 +165,9 @@ App::SocialSKK::Plugin::SocialIME undef  K/KE/KENTARO/App-SocialSKK-0.02.tar.gz
 App::SocialSKK::Plugin::Wikipedia undef  K/KE/KENTARO/App-SocialSKK-0.02.tar.gz
 App::SocialSKK::Protocol          undef  K/KE/KENTARO/App-SocialSKK-0.02.tar.gz
 App::Software::License             0.01  F/FL/FLORA/App-Software-License-0.01.tar.gz
+App::SourcePlot::Defaults          0.10  G/GS/GSB/App-SourcePlot-1.17.tar.gz
+App::SourcePlot::Plotter::Tk       0.11  G/GS/GSB/App-SourcePlot-1.17.tar.gz
+App::SourcePlot::Source            1.01  G/GS/GSB/App-SourcePlot-1.17.tar.gz
 App::Stacktrace                    0.09  J/JJ/JJORE/App-Stacktrace-0.09.tar.gz
 App::starbucksloginator          0.0012  R/RO/ROKR/App-starbucksloginator-0.0012.tar.gz
 App::Starter                       0.13  T/TO/TOMYHERO/App-Starter-0.13.tar.gz
