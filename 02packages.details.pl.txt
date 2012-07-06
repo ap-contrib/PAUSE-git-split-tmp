@@ -100,7 +100,6 @@ Plack::Middleware::XSLT         0.10003  N/NW/NWELLNHOF/Plack-Middleware-XSLT-0.
 Plack::MIME                       undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Recursive::ForwardRequest  undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Request                   0.9989  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
-Plack::Request::BodyParser        undef  M/MI/MIYAGAWA/Plack-Request-0.09.tar.gz
 Plack::Request::Upload            undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Response                  0.9989  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Runner                     undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
