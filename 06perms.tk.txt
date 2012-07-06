@@ -147,6 +147,7 @@ Tools::SQL,BINGOS,c
 Tools::SQL,KANE,f
 Tools::Term,BINGOS,c
 Tools::Term,KANE,f
+Topicalizer::Block,CPANIC,f
 TornDown,CLEMBURG,f
 TotalCmd::FSPlugin,IGVA,f
 Toto,BDUGGAN,f

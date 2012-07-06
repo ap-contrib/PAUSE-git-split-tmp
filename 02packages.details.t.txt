@@ -196,6 +196,7 @@ Tools                             2.105  M/MA/MARKOV/Mail-Box-2.105.tar.gz
 ToolSet                            1.00  D/DA/DAGOLDEN/ToolSet-1.00.tar.gz
 ToolSet::SWC                       1.00  D/DA/DAGOLDEN/ToolSet-1.00.tar.gz
 ToolSet::y                         0.01  J/JM/JMELTZER/ToolSet-y-0.01.tar.gz
+Topicalizer::Block                 1.00  C/CP/CPANIC/Topicalizer-Block-1.00.tar.gz
 TornDown                          undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 TotalCmd::FSPlugin                 0.03  I/IG/IGVA/TotalCmd-FSPlugin-0.03.tar.gz
 Toto                              undef  B/BD/BDUGGAN/Mojolicious-Plugin-Toto-0.08.tar.gz
