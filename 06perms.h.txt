@@ -278,6 +278,7 @@ lib,SMUELLER,c
 lib,perl,c
 lib::App::Guiio,JSIMPSON,m
 lib::abs,MONS,f
+lib::absolute,GETTY,f
 lib::core::only,APEIRON,c
 lib::core::only,ARCANEZ,c
 lib::core::only,BOBTFISH,c
