@@ -1031,6 +1031,7 @@ Net::TextMessage::Canada,LUKEC,f
 Net::ThirtySevenSignals::Highrise,DSADINOFF,f
 Net::ThreeScale::Client,RGRAU,f
 Net::ThreeScale::Response,RGRAU,f
+Net::Thumper,MUTANT,f
 Net::TiVo,BOUMENOT,f
 Net::TiVo::Folder,BOUMENOT,f
 Net::TiVo::Show,BOUMENOT,f

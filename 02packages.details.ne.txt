@@ -810,6 +810,7 @@ Net::TFTPd                         0.04  L/LM/LMASARA/Net-TFTPd-0.04-withoutworl
 Net::ThirtySevenSignals::Highrise  0.03  D/DS/DSADINOFF/Net-ThirtySevenSignals-Highrise-0.03.tar.gz
 Net::ThreeScale::Client        2.000002  R/RG/RGRAU/Net-ThreeScale-Client-2.0.2.tar.gz
 Net::ThreeScale::Response         undef  R/RG/RGRAU/Net-ThreeScale-Client-2.0.2.tar.gz
+Net::Thumper                       0.01  M/MU/MUTANT/Net-Thumper-0.01.tar.gz
 Net::Time                          2.10  G/GB/GBARR/libnet-1.22.tar.gz
 Net::TinyIp                        0.08  K/KU/KUNIYOSHI/Net-TinyIp-0.08.tar.gz
 Net::TinyIp::Address              undef  K/KU/KUNIYOSHI/Net-TinyIp-0.08.tar.gz
