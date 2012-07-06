@@ -1271,7 +1271,7 @@ RDF::SKOS::OeNACE                  0.01  D/DR/DRRHO/RDF-SKOS-0.03.tar.gz
 RDF::SKOS::Redland                 0.01  D/DR/DRRHO/RDF-SKOS-0.03.tar.gz
 RDF::SKOS::Scheme                  0.01  D/DR/DRRHO/RDF-SKOS-0.03.tar.gz
 RDF::SKOS::STW                     0.01  D/DR/DRRHO/RDF-SKOS-0.03.tar.gz
-RDF::TriN3                        0.201  T/TO/TOBYINK/RDF-TriN3-0.201.tar.gz
+RDF::TriN3                        0.202  T/TO/TOBYINK/RDF-TriN3-0.202.tar.gz
 RDF::Trine                        1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
 RDF::Trine::AllegroGraph           0.01  D/DR/DRRHO/RDF-Trine-AllegroGraph-0.01.tar.gz
 RDF::Trine::AllegroGraph::FAQ      0.01  D/DR/DRRHO/RDF-Trine-AllegroGraph-0.01.tar.gz
