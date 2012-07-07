@@ -278,6 +278,7 @@ Bloom::Filter,MCEGLOWS,m
 Bloom::Filter::XS,AXIAK,m
 Blosxom::Debug,GAVINC,f
 Blosxom::Header,ANAZAWA,m
+Blosxom::Header::Adapter,ANAZAWA,f
 Blosxom::Header::Class,ANAZAWA,f
 Blosxom::Header::Object,ANAZAWA,f
 Blosxom::Header::Prototype,ANAZAWA,f
