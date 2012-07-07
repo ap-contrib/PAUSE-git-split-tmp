@@ -1775,6 +1775,7 @@ Dist::Zilla::Shell,DOLMEN,f
 Dist::Zilla::Stash::DUKGO,GETTY,f
 Dist::Zilla::Stash::DefaultURLs,CSJEWELL,f
 Dist::Zilla::Stash::PAUSE,RJBS,f
+Dist::Zilla::Stash::PAUSE::Encrypted,RSRCHBOY,f
 Dist::Zilla::Stash::PodWeaver,RWSTAUNER,f
 Dist::Zilla::Stash::Rights,RJBS,f
 Dist::Zilla::Stash::User,RJBS,f
