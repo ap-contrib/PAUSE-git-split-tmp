@@ -306,7 +306,7 @@ XML::Atom::FromOWL                0.101  T/TO/TOBYINK/XML-Atom-FromOWL-0.101.tar
 XML::Atom::Lifeblog                0.03  M/MI/MIYAGAWA/XML-Atom-Lifeblog-0.03.tar.gz
 XML::Atom::Lifeblog::Media        undef  M/MI/MIYAGAWA/XML-Atom-Lifeblog-0.03.tar.gz
 XML::Atom::Link                   undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
-XML::Atom::Microformats           0.003  T/TO/TOBYINK/XML-Atom-Microformats-0.003.tar.gz
+XML::Atom::Microformats           0.004  T/TO/TOBYINK/XML-Atom-Microformats-0.004.tar.gz
 XML::Atom::Namespace               0.41  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 XML::Atom::OWL                    0.103  T/TO/TOBYINK/XML-Atom-OWL-0.103.tar.gz
 XML::Atom::Person                 undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
