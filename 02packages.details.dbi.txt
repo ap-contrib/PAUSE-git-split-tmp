@@ -498,7 +498,7 @@ DBIx::SystemCatalog::XBase         0.01  M/MI/MILSO/SchemaView-Plus-0.16.tar.gz
 DBIx::Table2Hash                   1.17  R/RS/RSAVAGE/DBIx-Table2Hash-1.17.tgz
 DBIx::Table::Dup                   0.03  T/TB/TBONE/DBIx-Table-Dup-0.03.tar.gz
 DBIx::TableHash                    1.04  C/CH/CHTHORMAN/DBIx-TableHash-1.04.tar.gz
-DBIx::TableLoader                 1.001  R/RW/RWSTAUNER/DBIx-TableLoader-1.001.tar.gz
+DBIx::TableLoader                 1.002  R/RW/RWSTAUNER/DBIx-TableLoader-1.002.tar.gz
 DBIx::TableLoader::CSV            1.003  R/RW/RWSTAUNER/DBIx-TableLoader-CSV-1.003.tar.gz
 DBIx::TableReferences::MSSQL       0.04  E/ED/EDWARDG/DBIx-TableReferences-MSSQL-0.04.tar.gz
 DBIx::TextIndex                    0.28  D/DK/DKOCH/DBIx-TextIndex-0.28.tar.gz
