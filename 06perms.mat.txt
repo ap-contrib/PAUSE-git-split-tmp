@@ -21,6 +21,7 @@ Math::NumSeq::DigitSum,KRYDE,f
 Math::NumSeq::DigitSumModulo,KRYDE,f
 Math::NumSeq::DigitSumSquares,KRYDE,f
 Math::NumSeq::DivisorCount,KRYDE,f
+Math::NumSeq::DuffinianNumbers,KRYDE,f
 Math::NumSeq::Emirps,KRYDE,f
 Math::NumSeq::EratosthenesStage,KRYDE,f
 Math::NumSeq::ErdosSelfridgeClass,KRYDE,f
@@ -238,6 +239,7 @@ Math::Permute::List,PRBRENAN,f
 Math::PlanePath,KRYDE,f
 Math::PlanePath::AR2W2Curve,KRYDE,f
 Math::PlanePath::AlternatePaper,KRYDE,f
+Math::PlanePath::AlternatePaperMidpoint,KRYDE,f
 Math::PlanePath::AnvilSpiral,KRYDE,f
 Math::PlanePath::ArchimedeanChords,KRYDE,f
 Math::PlanePath::AztecDiamondRings,KRYDE,f
