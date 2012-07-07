@@ -97,10 +97,6 @@ Test::Smoke::SysInfo              0.042  A/AB/ABELTJE/Test-Smoke-1.53.tar.gz
 Test::Smoke::Util                  0.58  A/AB/ABELTJE/Test-Smoke-1.53.tar.gz
 Test::SMTP                         0.04  J/JL/JLMARTIN/Test-SMTP-0.04.tar.gz
 Test::Snapshots                    0.02  S/SZ/SZABGAB/Test-Snapshots-0.02.tar.gz
-Test::SOAP::WSDL::Expat::WSDLParser undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
-Test::SOAP::WSDL::Generator::Iterator::WSDL11 undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
-Test::SOAP::WSDL::Generator::Visitor::Typemap undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
-Test::SOAP::WSDL::Tester          undef  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 Test::Spec                         0.45  P/PH/PHILIP/Test-Spec-0.45.tar.gz
 Test::Spec::Context               undef  P/PH/PHILIP/Test-Spec-0.45.tar.gz
 Test::Spec::ExportProxy            0.45  P/PH/PHILIP/Test-Spec-0.45.tar.gz

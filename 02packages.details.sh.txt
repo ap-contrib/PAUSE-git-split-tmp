@@ -823,7 +823,6 @@ Shipment::Purolator::WSDL::Types::VoidShipmentResponseContainer 0.04  B/BA/BAERG
 Shipment::Purolator::WSDL::Types::Weight 0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz
 Shipment::Purolator::WSDL::Types::WeightUnit 0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz
 Shipment::Service                  0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz
-Shipment::SOAP::WSDL               0.82  B/BA/BAERGAJ/Shipment-0.01112650.tar.gz
 Shipment::Temando                  0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz
 Shipment::Temando::WSDL::Elements::addBookingDetails 0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz
 Shipment::Temando::WSDL::Elements::addBookingDetailsResponse 0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz

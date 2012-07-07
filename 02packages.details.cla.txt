@@ -603,7 +603,6 @@ Code::TidyAll::Result              0.02  J/JS/JSWARTZ/Code-TidyAll-0.02.tar.gz
 CodeBase                           0.86  A/AN/ANDREWF/CodeBase-0.86.tar.gz
 CodeBase::FilePtr                  0.86  A/AN/ANDREWF/CodeBase-0.86.tar.gz
 CodeEditor                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-CodeFirst                           0.1  B/BA/BAERGAJ/Shipment-0.01120340.tar.gz
 CodeFragment                       2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 CodeGenRequestResponseType        undef  T/TK/TKEEFER/eBay-API-0.24.tar.gz
 CodeStylePage                     undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
