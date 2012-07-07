@@ -835,6 +835,7 @@ Net::Protocol::Simple,SAXJAZMAN,f
 Net::Proxmox::VE,DJZORT,f
 Net::Proxmox::VE::Access,DJZORT,f
 Net::Proxmox::VE::Cluster,DJZORT,f
+Net::Proxmox::VE::Nodes,DJZORT,f
 Net::Proxmox::VE::Pools,DJZORT,f
 Net::Proxmox::VE::Storage,DJZORT,f
 Net::Proxy,BOOK,m
