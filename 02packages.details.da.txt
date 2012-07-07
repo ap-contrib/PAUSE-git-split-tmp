@@ -510,7 +510,7 @@ DateTime::Span::Birthdate          0.03  M/MI/MIYAGAWA/DateTime-Span-Birthdate-0
 DateTime::Span::Common             0.03  T/TB/TBONE/DateTime-Span-Common-0.03.tar.gz
 DateTime::SpanSet                 undef  F/FG/FGLOCK/DateTime-Set-0.31.tar.gz
 DateTime::Stringify                4.11  L/LB/LBROCARD/DateTime-Stringify-4.11.tar.gz
-DateTime::time                        0  M/MS/MSCHWERN/perl5i-v2.9.1.tar.gz
+DateTime::time                        0  M/MS/MSCHWERN/perl5i-v2.10.0.tar.gz
 DateTime::TimeZone                 1.46  D/DR/DROLSKY/DateTime-TimeZone-1.46.tar.gz
 DateTime::TimeZone::Africa::Abidjan 1.46  D/DR/DROLSKY/DateTime-TimeZone-1.46.tar.gz
 DateTime::TimeZone::Africa::Accra  1.46  D/DR/DROLSKY/DateTime-TimeZone-1.46.tar.gz
@@ -944,7 +944,7 @@ DateTime::Tiny                     1.04  A/AD/ADAMK/DateTime-Tiny-1.04.tar.gz
 DateTime::Util::Astro           0.12000  D/DM/DMAKI/DateTime-Util-Astro-0.12000.tar.gz
 DateTime::Util::Calc            0.13002  D/DM/DMAKI/DateTime-Util-Calc-0.13002.tar.gz
 DateTime::Util::DayOfWeek          0.05  T/TO/TOKUHIROM/DateTime-Util-DayOfWeek-0.05.tar.gz
-DateTime::y2038                       0  M/MS/MSCHWERN/perl5i-v2.9.1.tar.gz
+DateTime::y2038                       0  M/MS/MSCHWERN/perl5i-v2.10.0.tar.gz
 DateTimeX::AATW                    0.04  K/KM/KMCGRATH/DateTimeX-AATW-0.04.tar.gz
 DateTimeX::Auto                   0.005  T/TO/TOBYINK/DateTimeX-Auto-0.005.tar.gz
 DateTimeX::Auto::Duration         0.005  T/TO/TOBYINK/DateTimeX-Auto-0.005.tar.gz
