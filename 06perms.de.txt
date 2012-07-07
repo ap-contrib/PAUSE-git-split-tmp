@@ -1148,6 +1148,7 @@ Dist::Zilla::Plugin::ArchiveRelease,CJM,f
 Dist::Zilla::Plugin::AssertOS,BINGOS,f
 Dist::Zilla::Plugin::Author::KENTNL::DistINI,KENTNL,f
 Dist::Zilla::Plugin::Author::KENTNL::MinimumPerl,KENTNL,f
+Dist::Zilla::Plugin::Author::KENTNL::Prereqs::Latest::Selective,KENTNL,f
 Dist::Zilla::Plugin::Author::YANICK::NextSemanticVersion,YANICK,c
 Dist::Zilla::Plugin::Author::YANICK::NextSemanticVersion,yanick,f
 Dist::Zilla::Plugin::Authority,APOCAL,f
