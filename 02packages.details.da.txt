@@ -1358,10 +1358,10 @@ DBD::NullP                     12.014714  T/TI/TIMB/DBI-1.622.tar.gz
 DBD::NullP::db                 12.014714  T/TI/TIMB/DBI-1.622.tar.gz
 DBD::NullP::dr                 12.014714  T/TI/TIMB/DBI-1.622.tar.gz
 DBD::NullP::st                 12.014714  T/TI/TIMB/DBI-1.622.tar.gz
-DBD::ODBC                          1.37  M/MJ/MJEVANS/DBD-ODBC-1.37.tar.gz
-DBD::ODBC::db                      1.37  M/MJ/MJEVANS/DBD-ODBC-1.37.tar.gz
-DBD::ODBC::dr                      1.37  M/MJ/MJEVANS/DBD-ODBC-1.37.tar.gz
-DBD::ODBC::st                      1.37  M/MJ/MJEVANS/DBD-ODBC-1.37.tar.gz
+DBD::ODBC                          1.39  M/MJ/MJEVANS/DBD-ODBC-1.39.tar.gz
+DBD::ODBC::db                      1.39  M/MJ/MJEVANS/DBD-ODBC-1.39.tar.gz
+DBD::ODBC::dr                      1.39  M/MJ/MJEVANS/DBD-ODBC-1.39.tar.gz
+DBD::ODBC::st                      1.39  M/MJ/MJEVANS/DBD-ODBC-1.39.tar.gz
 DBD::Oracle                        1.44  P/PY/PYTHIAN/DBD-Oracle-1.44.tar.gz
 DBD::Oracle::db                    1.44  P/PY/PYTHIAN/DBD-Oracle-1.44.tar.gz
 DBD::Oracle::dr                    1.44  P/PY/PYTHIAN/DBD-Oracle-1.44.tar.gz
