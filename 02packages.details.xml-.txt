@@ -606,8 +606,8 @@ XSLTParser                        undef  J/JO/JOSTEN/xslt-parser-0.13.tar.gz
 XSTEST::RPCB1                     undef  D/DM/DMR/XSTEST-19960302.tar.gz
 XSTEST::XS1                        49.1  D/DM/DMR/XSTEST-19960302.tar.gz
 xsub                                  1  B/BR/BRUMLEVE/vm-1.0.1.tar.gz
-XT::Business                      undef  J/JT/JTANG/Module-Pluggable-Singleton-0.02.2.tar.gz
-XT::Business::Plugin::Bar         undef  J/JT/JTANG/Module-Pluggable-Singleton-0.02.2.tar.gz
+XT::Business                      undef  J/JT/JTANG/Module-Pluggable-Singleton-0.02.3.tar.gz
+XT::Business::Plugin::Bar         undef  J/JT/JTANG/Module-Pluggable-Singleton-0.02.3.tar.gz
 xt::Utils::mysql                  undef  K/KT/KTAT/Teng-Plugin-SearchBySQLAbstractMore-0.01.tar.gz
 XTerm::Conf                        0.07  S/SR/SREZIC/XTerm-Conf-0.07.tar.gz
 Xtract                             0.16  A/AD/ADAMK/Xtract-0.16.tar.gz
