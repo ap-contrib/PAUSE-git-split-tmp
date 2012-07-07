@@ -519,7 +519,7 @@ Deco::Dive::Table                   0.2  N/NA/NARKED/Deco-0.12.tar.gz
 Deco::Tissue                        0.5  N/NA/NARKED/Deco-0.12.tar.gz
 Decode::Source                     1.01  M/MA/MAGH/Decode-Source-1.01.tar.gz
 Deep::Encode                       0.18  G/GR/GRIAN/Deep-Encode-0.18.tar.gz
-Deep::Hash::Utils                  0.01  C/CL/CLBECKER/Deep-Hash-Utils-0.01.tar.gz
+Deep::Hash::Utils                  0.02  C/CL/CLBECKER/Deep-Hash-Utils-0.02.tar.gz
 Default                            2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 DefaultLogger                     0.601  C/CP/CPANEL/cPanel-TaskQueue-0.601.tar.gz
 DefaultRule                       undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
