@@ -775,6 +775,7 @@ Parse::RecDescent::_Runtime::UncondReject,ZABA,c
 Parse::RecDescent::namespace000001,GSLONDON,f
 Parse::RecDescent::namespace000002,EMRYS,f
 Parse::SQL,TEAM,f
+Parse::SQLOutput,INGY,f
 Parse::SVNDiff,AUDREYT,f
 Parse::SVNDiff,AUTRIJUS,c
 Parse::SVNDiff,JESSE,c
