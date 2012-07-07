@@ -409,9 +409,9 @@ DotsForArrows                     undef  S/SM/SMUELLER/Filter-Simple-0.88.tar.gz
 double                             1.11  R/RU/RURBAN/B-C-1.36.tar.gz
 DoubleBlind                        0.01  I/IL/ILYAZ/modules/DoubleBlind-0.01.tar.gz
 DownloadManager                   undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-Doxygen::Filter                    1.00  J/JO/JORDAN/Doxygen-Filter-Perl/Doxygen-Filter-Perl-1.01.tar.gz
-Doxygen::Filter::Perl              1.01  J/JO/JORDAN/Doxygen-Filter-Perl/Doxygen-Filter-Perl-1.01.tar.gz
-Doxygen::Filter::Perl::POD         1.00  J/JO/JORDAN/Doxygen-Filter-Perl/Doxygen-Filter-Perl-1.01.tar.gz
+Doxygen::Filter                    1.50  J/JO/JORDAN/Doxygen-Filter-Perl/Doxygen-Filter-Perl-1.50.tar.gz
+Doxygen::Filter::Perl              1.50  J/JO/JORDAN/Doxygen-Filter-Perl/Doxygen-Filter-Perl-1.50.tar.gz
+Doxygen::Filter::Perl::POD         1.50  J/JO/JORDAN/Doxygen-Filter-Perl/Doxygen-Filter-Perl-1.50.tar.gz
 Doxygen::Lua                       0.02  A/AL/ALEC/Doxygen-Lua-0.02.tar.gz
 Dpkg::Arch                        undef  H/HB/HBENGEN/Debian-Package-Make-0.04.tar.gz
 Dpkg::Cdata                       undef  H/HB/HBENGEN/Debian-Package-Make-0.04.tar.gz
