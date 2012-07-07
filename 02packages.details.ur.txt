@@ -295,6 +295,7 @@ VANAMBURG::CHaSeDOrder            undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.03.tar
 VANAMBURG::FaceValue              undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar.gz
 VANAMBURG::FaceValueSingleton     undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar.gz
 VANAMBURG::Magic                   0.04  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar.gz
+VANAMBURG::MAGIC::BCS          1.000001  V/VA/VANAMBURG/VANAMBURG-MAGIC-BCS-1.0.1.tar.gz
 VANAMBURG::OrderedSuit            undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar.gz
 VANAMBURG::Packet                 undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar.gz
 VANAMBURG::PacketFactory          undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar.gz
