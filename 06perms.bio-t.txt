@@ -284,6 +284,7 @@ Blosxom::Header::Object,ANAZAWA,f
 Blosxom::Header::Prototype,ANAZAWA,f
 Blosxom::Header::Proxy,ANAZAWA,f
 Blosxom::Include,GAVINC,f
+Blosxom::Plugin,ANAZAWA,f
 Blosxom::Template,ANAZAWA,m
 Blowfish,DPARIS,f
 BlueCoat::SGOS,MMLANGE,m
