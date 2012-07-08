@@ -1611,6 +1611,7 @@ Dist::Zilla::PluginBundle::AVAR,HINRIK,c
 Dist::Zilla::PluginBundle::Apocalyptic,APOCAL,f
 Dist::Zilla::PluginBundle::Author::ALEXBIO,ALEXBIO,f
 Dist::Zilla::PluginBundle::Author::CJM,CJM,f
+Dist::Zilla::PluginBundle::Author::Celogeek,CELOGEEK,f
 Dist::Zilla::PluginBundle::Author::DBR,DBR,f
 Dist::Zilla::PluginBundle::Author::DOHERTY,DOHERTY,f
 Dist::Zilla::PluginBundle::Author::GETTY,GETTY,f
