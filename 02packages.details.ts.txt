@@ -48,6 +48,7 @@ Tui::Widget                       undef  R/RF/RFLENS/Tui-0.4.tar.gz
 Tuner                               0.1  B/BU/BUGONI/Guitar-Tuner-0.1.tar.gz
 Turtle                            undef  Y/YV/YVESP/llg-1.07.tar.gz
 Turtle::Writer                    0.002  V/VO/VOJ/Turtle-Writer-0.002.tar.gz
+Tutorial::DBIx::Class::Perl::ORM::PT::BR 0.01  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
 TUWF                                0.2  Y/YO/YORHEL/TUWF-0.2.tar.gz
 TUWF::DB                            0.2  Y/YO/YORHEL/TUWF-0.2.tar.gz
 TUWF::func                            0  Y/YO/YORHEL/TUWF-0.2.tar.gz

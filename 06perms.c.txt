@@ -730,6 +730,11 @@ DB::SPEEDYB,ABLUM,f
 DB::Skip,MITHALDU,f
 DB::Table,KITE,m
 DB::Table::Row,KITE,m
+DB::Tutorial::DBIx::Class::PT::BR,HERNAN,f
+DB::Tutorial::DBIx::Class::PT::BR::Result::Amigo,HERNAN,f
+DB::Tutorial::DBIx::Class::PT::BR::Result::Filho,HERNAN,f
+DB::Tutorial::DBIx::Class::PT::BR::Result::Namorada,HERNAN,f
+DB::Tutorial::DBIx::Class::PT::BR::Result::Pai,HERNAN,f
 DB::fake,AWWAIID,c
 DB::fake,LBROCARD,f
 DBA,SEANQ,f

@@ -1087,6 +1087,11 @@ DB::Skip                       1.121090  M/MI/MITHALDU/DB-Skip-1.121090.tar.gz
 DB::SPEEDYB                         0.1  A/AB/ABLUM/DB-SPEEDYB-0.1.tar.gz
 DB::Table                         undef  K/KI/KITE/gestalt-0.2.1.tar.gz
 DB::Table::Row                    undef  K/KI/KITE/gestalt-0.2.1.tar.gz
+DB::Tutorial::DBIx::Class::PT::BR undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
+DB::Tutorial::DBIx::Class::PT::BR::Result::Amigo undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
+DB::Tutorial::DBIx::Class::PT::BR::Result::Filho undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
+DB::Tutorial::DBIx::Class::PT::BR::Result::Namorada undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
+DB::Tutorial::DBIx::Class::PT::BR::Result::Pai undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
 db_comparison                       1.7  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
 DB_File                           1.826  P/PM/PMQS/DB_File-1.826.tar.gz
 DB_File::BTREEINFO                1.826  P/PM/PMQS/DB_File-1.826.tar.gz
