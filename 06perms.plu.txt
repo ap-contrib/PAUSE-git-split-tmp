@@ -337,7 +337,8 @@ Pod::HTML,KJALB,m
 Pod::HTML2Pod,SBURKE,m
 Pod::HTMLEmbed,TYPESTER,f
 Pod::HTMLEmbed::Entry,TYPESTER,f
-Pod::HTML_Elements,BDFOY,f
+Pod::HTML_Elements,ADOPTME,f
+Pod::HTML_Elements,BDFOY,c
 Pod::Help,JACOB,f
 Pod::Hlp,PVHP,m
 Pod::Html,DAPM,c
@@ -402,7 +403,8 @@ Pod::LaTeX::Book,LUTETIUS,f
 Pod::LaTeX::TPR,BDFOY,f
 Pod::Latex,KJALB,m
 Pod::Licensizer,MSCHILLI,f
-Pod::Links,BDFOY,f
+Pod::Links,ADOPTME,f
+Pod::Links,BDFOY,c
 Pod::List,ADAMK,c
 Pod::List,BRADAPP,c
 Pod::List,MAREKR,f
