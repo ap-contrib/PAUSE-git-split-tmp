@@ -945,6 +945,7 @@ Coro::Handle::FH,MLEHMANN,f
 Coro::LWP,MLEHMANN,f
 Coro::LWP::Socket,MLEHMANN,f
 Coro::LocalScalar,NYAKNYAN,f
+Coro::Localize,WINTER,f
 Coro::MP,MLEHMANN,f
 Coro::MakeMaker,MLEHMANN,f
 Coro::Mysql,MLEHMANN,f
