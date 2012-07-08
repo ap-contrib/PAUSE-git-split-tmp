@@ -47,7 +47,7 @@ URI::http::Dump                    0.03  E/EC/ECARROLL/URI-http-Dump-0.03.tar.gz
 URI::https                        undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::imap                          1.01  C/CW/CWEST/URI-imap-1.01.tar.gz
 URI::imaps                         1.01  C/CW/CWEST/URI-imaps-1.01.tar.gz
-URI::ImpliedBase                   0.07  M/MC/MCMAHON/URI-ImpliedBase-0.07.tar.gz
+URI::ImpliedBase                   0.08  M/MC/MCMAHON/URI-ImpliedBase-0.08.tar.gz
 URI::IRI                          undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::jabber                        0.60  B/BY/BYRNE/SOAP/SOAP-Lite-0.60a.tar.gz
 URI::jar                           0.02  Z/ZI/ZIGOROU/URI-jar-0.02.tar.gz
