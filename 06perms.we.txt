@@ -533,6 +533,9 @@ WebService::Solr::Response,BRICAS,f
 WebService::SongLyrics,DWILSON,f
 WebService::Soundcloud,MPGUTTA,m
 WebService::Sprint,BWARDEN,m
+WebService::Steam,RAZ,f
+WebService::Steam::Group,RAZ,f
+WebService::Steam::User,RAZ,f
 WebService::Stikkit,FRANCKC,f
 WebService::Strava,PHRED,f
 WebService::Strava::Effort,PHRED,f
