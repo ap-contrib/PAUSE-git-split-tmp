@@ -1324,6 +1324,8 @@ Cogwheel::SimpleLogger,STYPNOW,c
 Cogwheel::Types,ETHER,c
 Cogwheel::Types,PERIGRIN,f
 Cogwheel::Types,STYPNOW,c
+Collectd::Plugin::Read::Message::Passing,BOBTFISH,c
+Collectd::Plugin::Read::Message::Passing,GHENRY,f
 Collectd::Plugin::Write::Message::Passing,BOBTFISH,c
 Collectd::Plugin::Write::Message::Passing,GHENRY,f
 Collection,ZAG,f
