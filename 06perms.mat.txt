@@ -1071,6 +1071,8 @@ Message::Passing::AMQP::Role::HasAChannel,BOBTFISH,c
 Message::Passing::AMQP::Role::HasAChannel,GHENRY,f
 Message::Passing::AMQP::Role::HasAConnection,BOBTFISH,c
 Message::Passing::AMQP::Role::HasAConnection,GHENRY,f
+Message::Passing::Collectd,BOBTFISH,c
+Message::Passing::Collectd,GHENRY,f
 Message::Passing::DSL,BOBTFISH,c
 Message::Passing::DSL,GHENRY,f
 Message::Passing::DSL::Factory,BOBTFISH,c
