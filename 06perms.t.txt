@@ -956,6 +956,7 @@ Tuner,BUGONI,f
 Turtle,YVESP,f
 Turtle::Writer,VOJ,f
 Tutorial::DBIx::Class::Perl::ORM::PT::BR,HERNAN,f
+Tutorial::Elastic::Search::With::Perl::First::Steps::Cheat::Sheet,HERNAN,f
 Tux,YALE,f
 Tux::Constants,YALE,f
 Tux::Sample::Static,YALE,f
