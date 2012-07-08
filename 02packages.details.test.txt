@@ -829,7 +829,7 @@ Text::DeSupercite                   0.6  S/SI/SIMONW/Text-DeSupercite-0.6.tar.gz
 Text::DHCPLeases                    0.9  C/CV/CVICENTE/Text-DHCPLeases-0.9.tar.gz
 Text::DHCPLeases::Object            0.9  C/CV/CVICENTE/Text-DHCPLeases-0.9.tar.gz
 Text::DHCPparse                    0.10  J/JS/JSHEARER/Text-DHCPparse-0.10.tar.gz
-Text::Dice                         0.01  G/GR/GRAY/Text-Dice-0.01.tar.gz
+Text::Dice                         0.02  G/GR/GRAY/Text-Dice-0.02.tar.gz
 Text::Diff                         1.41  O/OV/OVID/Text-Diff-1.41.tar.gz
 Text::Diff3                        0.10  T/TO/TOCIYUKI/Text-Diff3-0.10.tar.gz
 Text::Diff3::Base                  0.08  T/TO/TOCIYUKI/Text-Diff3-0.10.tar.gz
