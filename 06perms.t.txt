@@ -957,6 +957,7 @@ Turtle,YVESP,f
 Turtle::Writer,VOJ,f
 Tutorial::DBIx::Class::Perl::ORM::PT::BR,HERNAN,f
 Tutorial::Elastic::Search::With::Perl::First::Steps::Cheat::Sheet,HERNAN,f
+Tutorial::Perl::Como::Criar::Utilizar::Instalar::Publicar::Modulos::do::CPAN::PT::BR,HERNAN,f
 Tux,YALE,f
 Tux::Constants,YALE,f
 Tux::Sample::Static,YALE,f
