@@ -464,7 +464,7 @@ Audio::ScratchLive                 0.04  C/CA/CAPOEIRAB/Audio-ScratchLive-0.04.t
 Audio::ScratchLive::Constants      0.03  C/CA/CAPOEIRAB/Audio-ScratchLive-0.04.tar.gz
 Audio::ScratchLive::Track          0.03  C/CA/CAPOEIRAB/Audio-ScratchLive-0.04.tar.gz
 Audio::Scrobbler                   0.01  R/RO/ROAM/Audio-Scrobbler-0.01.tar.gz
-Audio::Scrobbler2                  0.04  B/BA/BAGET/Audio-Scrobbler2-0.04.tar.gz
+Audio::Scrobbler2                  0.05  B/BA/BAGET/Audio-Scrobbler2-0.05.tar.gz
 Audio::SID                         3.11  L/LA/LALA/Audio-SID-3.11.tgz
 Audio::SndFile                     0.09  J/JD/JDIEPEN/Audio-SndFile-0.09.tar.gz
 Audio::SndFile::Constants         undef  J/JD/JDIEPEN/Audio-SndFile-0.09.tar.gz
