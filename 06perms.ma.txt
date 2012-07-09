@@ -412,7 +412,7 @@ Math::GSL::Roots::gsl_root_fsolver_type,LETO,f
 Math::GSL::Rootsc,LETO,f
 Math::GSL::SF,LETO,f
 Math::GSL::SF::Test,LETO,f
-Math::GSL::SF::gsl_sf_mathieu_workspace,LETO,c
+Math::GSL::SF::gsl_sf_mathieu_workspace,LETO,f
 Math::GSL::SF::gsl_sf_result_e10_struct,LETO,f
 Math::GSL::SF::gsl_sf_result_struct,LETO,f
 Math::GSL::SFc,LETO,f
