@@ -157,6 +157,7 @@ XML::Feed::Content,SIMONW,c
 XML::Feed::Deduper,TOKUHIROM,f
 XML::Feed::Deduper::DB_File,TOKUHIROM,f
 XML::Feed::Deduper::Role,TOKUHIROM,f
+XML::Feed::Enclosure,APEIRON,c
 XML::Feed::Enclosure,DAVECROSS,c
 XML::Feed::Enclosure,EDENC,c
 XML::Feed::Enclosure,ETHER,c

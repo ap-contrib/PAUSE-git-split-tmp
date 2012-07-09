@@ -16,6 +16,7 @@ Eval::Compile,GRIAN,f
 Eval::Context,JPRIT,c
 Eval::Context,NKH,f
 Eval::LineNumbers,MUIR,f
+Eval::WithLexicals,APEIRON,c
 Eval::WithLexicals,BOBTFISH,c
 Eval::WithLexicals,DGL,c
 Eval::WithLexicals,EDENC,c
@@ -25,6 +26,7 @@ Eval::WithLexicals,JJNAPIORK,c
 Eval::WithLexicals,MSTROUT,f
 Eval::WithLexicals,RIBASUSHI,c
 Eval::WithLexicals,WSHELDAHL,c
+Eval::WithLexicals::Util,APEIRON,c
 Eval::WithLexicals::Util,BOBTFISH,c
 Eval::WithLexicals::Util,DGL,c
 Eval::WithLexicals::Util,EDENC,c
@@ -34,6 +36,7 @@ Eval::WithLexicals::Util,JJNAPIORK,c
 Eval::WithLexicals::Util,MSTROUT,f
 Eval::WithLexicals::Util,RIBASUSHI,c
 Eval::WithLexicals::Util,WSHELDAHL,c
+Eval::WithLexicals::VarScope,APEIRON,c
 Eval::WithLexicals::VarScope,BOBTFISH,c
 Eval::WithLexicals::VarScope,DGL,c
 Eval::WithLexicals::VarScope,EDENC,c
@@ -196,8 +199,11 @@ Example::XS::FasterHashes,BULKDD,m
 Example::config,LUSHE,f
 ExampleHelpers,RCAPUTO,f
 ExampleMap,ACDALTON,f
+ExampleMooRoleWithAttribute,APEIRON,c
 ExampleMooRoleWithAttribute,MSTROUT,f
+ExampleMooseRoleOne,APEIRON,c
 ExampleMooseRoleOne,MSTROUT,f
+ExampleMooseRoleTwo,APEIRON,c
 ExampleMooseRoleTwo,MSTROUT,f
 ExampleObject,RCAPUTO,f
 ExampleProject,LUSHE,f

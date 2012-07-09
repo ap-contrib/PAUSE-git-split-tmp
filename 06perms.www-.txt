@@ -317,6 +317,7 @@ Web::Atom,GSLIN,f
 Web::Atom::Plugin,GSLIN,f
 Web::Beacon,JEREMIAH,m
 Web::DBI,XSAWYERX,m
+Web::Dispatch,APEIRON,c
 Web::Dispatch,BOBTFISH,c
 Web::Dispatch,DGL,c
 Web::Dispatch,EDENC,c
@@ -326,14 +327,17 @@ Web::Dispatch,JJNAPIORK,c
 Web::Dispatch,MSTROUT,f
 Web::Dispatch,RIBASUSHI,c
 Web::Dispatch,WSHELDAHL,c
+Web::Dispatch::HTTPMethods,APEIRON,c
 Web::Dispatch::HTTPMethods,ETHER,c
 Web::Dispatch::HTTPMethods,JJNAPIORK,c
 Web::Dispatch::HTTPMethods,MSTROUT,f
 Web::Dispatch::HTTPMethods,WSHELDAHL,c
+Web::Dispatch::HTTPMethods::Endpoint,APEIRON,c
 Web::Dispatch::HTTPMethods::Endpoint,ETHER,c
 Web::Dispatch::HTTPMethods::Endpoint,JJNAPIORK,c
 Web::Dispatch::HTTPMethods::Endpoint,MSTROUT,f
 Web::Dispatch::HTTPMethods::Endpoint,WSHELDAHL,c
+Web::Dispatch::Node,APEIRON,c
 Web::Dispatch::Node,BOBTFISH,c
 Web::Dispatch::Node,DGL,c
 Web::Dispatch::Node,EDENC,c
@@ -343,11 +347,13 @@ Web::Dispatch::Node,JJNAPIORK,c
 Web::Dispatch::Node,MSTROUT,f
 Web::Dispatch::Node,RIBASUSHI,c
 Web::Dispatch::Node,WSHELDAHL,c
+Web::Dispatch::NotAnUpload,APEIRON,c
 Web::Dispatch::NotAnUpload,EDENC,c
 Web::Dispatch::NotAnUpload,ETHER,c
 Web::Dispatch::NotAnUpload,JJNAPIORK,c
 Web::Dispatch::NotAnUpload,MSTROUT,f
 Web::Dispatch::NotAnUpload,WSHELDAHL,c
+Web::Dispatch::ParamParser,APEIRON,c
 Web::Dispatch::ParamParser,BOBTFISH,c
 Web::Dispatch::ParamParser,DGL,c
 Web::Dispatch::ParamParser,EDENC,c
@@ -357,6 +363,7 @@ Web::Dispatch::ParamParser,JJNAPIORK,c
 Web::Dispatch::ParamParser,MSTROUT,f
 Web::Dispatch::ParamParser,RIBASUSHI,c
 Web::Dispatch::ParamParser,WSHELDAHL,c
+Web::Dispatch::Parser,APEIRON,c
 Web::Dispatch::Parser,BOBTFISH,c
 Web::Dispatch::Parser,DGL,c
 Web::Dispatch::Parser,EDENC,c
@@ -366,6 +373,7 @@ Web::Dispatch::Parser,JJNAPIORK,c
 Web::Dispatch::Parser,MSTROUT,f
 Web::Dispatch::Parser,RIBASUSHI,c
 Web::Dispatch::Parser,WSHELDAHL,c
+Web::Dispatch::Predicates,APEIRON,c
 Web::Dispatch::Predicates,BOBTFISH,c
 Web::Dispatch::Predicates,DGL,c
 Web::Dispatch::Predicates,EDENC,c
@@ -375,6 +383,7 @@ Web::Dispatch::Predicates,JJNAPIORK,c
 Web::Dispatch::Predicates,MSTROUT,f
 Web::Dispatch::Predicates,RIBASUSHI,c
 Web::Dispatch::Predicates,WSHELDAHL,c
+Web::Dispatch::ToApp,APEIRON,c
 Web::Dispatch::ToApp,BOBTFISH,c
 Web::Dispatch::ToApp,DGL,c
 Web::Dispatch::ToApp,EDENC,c
@@ -384,11 +393,13 @@ Web::Dispatch::ToApp,JJNAPIORK,c
 Web::Dispatch::ToApp,MSTROUT,f
 Web::Dispatch::ToApp,RIBASUSHI,c
 Web::Dispatch::ToApp,WSHELDAHL,c
+Web::Dispatch::Upload,APEIRON,c
 Web::Dispatch::Upload,EDENC,c
 Web::Dispatch::Upload,ETHER,c
 Web::Dispatch::Upload,JJNAPIORK,c
 Web::Dispatch::Upload,MSTROUT,f
 Web::Dispatch::Upload,WSHELDAHL,c
+Web::Dispatch::Wrapper,APEIRON,c
 Web::Dispatch::Wrapper,BOBTFISH,c
 Web::Dispatch::Wrapper,DGL,c
 Web::Dispatch::Wrapper,EDENC,c
@@ -470,6 +481,7 @@ Web::Simple::Application,MSTROUT,f
 Web::Simple::Application,RIBASUSHI,c
 Web::Simple::Application,SSCAFFIDI,c
 Web::Simple::Application,WSHELDAHL,c
+Web::Simple::DispatchNode,APEIRON,c
 Web::Simple::DispatchNode,BOBTFISH,c
 Web::Simple::DispatchNode,DGL,c
 Web::Simple::DispatchNode,EDENC,c

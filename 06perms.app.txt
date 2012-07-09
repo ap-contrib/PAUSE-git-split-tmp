@@ -311,6 +311,7 @@ App::TailRabbit::Growl,GHENRY,c
 App::TailRabbit::Growl,JJNAPIORK,c
 App::TailRabbit::Growl,MSTROUT,c
 App::TailRabbit::Growl,RIBASUSHI,c
+App::Tak,APEIRON,c
 App::Tak,ETHER,c
 App::Tak,JJNAPIORK,c
 App::Tak,MSTROUT,f

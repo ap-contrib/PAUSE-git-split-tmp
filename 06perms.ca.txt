@@ -127,6 +127,7 @@ Catalyst::Model::Orochi,DMAKI,f
 Catalyst::Model::Oryx,RHUNDT,f
 Catalyst::Model::PayPal::API,DJZORT,f
 Catalyst::Model::PayPal::IPN,AGRUNDMA,c
+Catalyst::Model::PayPal::IPN,APEIRON,c
 Catalyst::Model::PayPal::IPN,BOBTFISH,c
 Catalyst::Model::PayPal::IPN,BRICAS,c
 Catalyst::Model::PayPal::IPN,FLORA,c
@@ -136,6 +137,7 @@ Catalyst::Model::PayPal::IPN,MRAMBERG,c
 Catalyst::Model::PayPal::IPN,MSTROUT,f
 Catalyst::Model::PayPal::IPN,NUFFIN,c
 Catalyst::Model::PayPal::IPN,RKITOVER,c
+Catalyst::Model::PayPal::IPN::ErrorHandle,APEIRON,c
 Catalyst::Model::PayPal::IPN::ErrorHandle,MSTROUT,f
 Catalyst::Model::PayPal::IPN::ErrorHandle,RKITOVER,c
 Catalyst::Model::Plucene,AGRUNDMA,c
@@ -361,6 +363,7 @@ Catalyst::Model::Xapian::Result,SSCAFFIDI,c
 Catalyst::Model::Xapian::Result,WSHELDAHL,c
 Catalyst::Model::YouTube,JSHIRLEY,f
 Catalyst::Module::Install,AGRUNDMA,c
+Catalyst::Module::Install,APEIRON,c
 Catalyst::Module::Install,BOBTFISH,c
 Catalyst::Module::Install,BRICAS,c
 Catalyst::Module::Install,DGL,c

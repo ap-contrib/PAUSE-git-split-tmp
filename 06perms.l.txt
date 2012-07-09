@@ -407,6 +407,7 @@ Lyrics::Fetcher::LyricsOnDemand,BIGPRESH,f
 Lyrics::Fetcher::LyricsOnDemand,REFLOG,c
 Lyrics::Fetcher::LyricsTime,BIGPRESH,f
 Lyrics::Fetcher::LyricsTime,REFLOG,c
+M,APEIRON,c
 M,EDENC,c
 M,ETHER,c
 M,JJNAPIORK,c

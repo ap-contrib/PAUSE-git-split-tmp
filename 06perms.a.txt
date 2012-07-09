@@ -358,6 +358,7 @@ Authen::HTTP::Signature,MALLEN,f
 Authen::HTTP::Signature::Method::HMAC,MALLEN,f
 Authen::HTTP::Signature::Method::RSA,MALLEN,f
 Authen::HTTP::Signature::Parser,MALLEN,f
+Authen::Htpasswd,APEIRON,c
 Authen::Htpasswd,DKAMHOLZ,c
 Authen::Htpasswd,EDENC,c
 Authen::Htpasswd,ETHER,c
@@ -365,12 +366,14 @@ Authen::Htpasswd,JJNAPIORK,c
 Authen::Htpasswd,MSTROUT,f
 Authen::Htpasswd,WSHELDAHL,c
 Authen::Htpasswd::Trac,NISHIKAWA,f
+Authen::Htpasswd::User,APEIRON,c
 Authen::Htpasswd::User,DKAMHOLZ,c
 Authen::Htpasswd::User,EDENC,c
 Authen::Htpasswd::User,ETHER,c
 Authen::Htpasswd::User,JJNAPIORK,c
 Authen::Htpasswd::User,MSTROUT,f
 Authen::Htpasswd::User,WSHELDAHL,c
+Authen::Htpasswd::Util,APEIRON,c
 Authen::Htpasswd::Util,DKAMHOLZ,c
 Authen::Htpasswd::Util,EDENC,c
 Authen::Htpasswd::Util,ETHER,c
