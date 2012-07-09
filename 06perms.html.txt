@@ -1312,6 +1312,7 @@ HTTP::Lint,LKUNDRAK,m
 HTTP::Lint::Message,LKUNDRAK,f
 HTTP::Lint::UserAgent,LKUNDRAK,f
 HTTP::Lite,ADAMK,c
+HTTP::Lite,NEILB,c
 HTTP::Lite,RHOOPER,f
 HTTP::LoadGen,OPI,f
 HTTP::LoadGen::Logger,OPI,f
