@@ -245,6 +245,7 @@ App::Software::License,HDP,c
 App::Software::License,JJNAPIORK,c
 App::Software::License,JROCKWAY,c
 App::Software::License,SADRAK,c
+App::SourcePlot,GSB,f
 App::SourcePlot::Defaults,GSB,f
 App::SourcePlot::Plotter::Tk,GSB,f
 App::SourcePlot::Source,GSB,f
