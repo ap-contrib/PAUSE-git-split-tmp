@@ -636,8 +636,8 @@ Algorithm::FuzzyCmeans             0.02  F/FU/FUJISAWA/Algorithm-FuzzyCmeans-0.0
 Algorithm::FuzzyCmeans::Distance  undef  F/FU/FUJISAWA/Algorithm-FuzzyCmeans-0.02.tar.gz
 Algorithm::FuzzyCmeans::Distance::Cosine undef  F/FU/FUJISAWA/Algorithm-FuzzyCmeans-0.02.tar.gz
 Algorithm::FuzzyCmeans::Distance::Euclid undef  F/FU/FUJISAWA/Algorithm-FuzzyCmeans-0.02.tar.gz
-Algorithm::GaussianElimination::GF2 0.01  S/SA/SALVA/Algorithm-GaussianElimination-GF2-0.01.tar.gz
-Algorithm::GaussianElimination::GF2::Equation 0.01  S/SA/SALVA/Algorithm-GaussianElimination-GF2-0.01.tar.gz
+Algorithm::GaussianElimination::GF2 0.02  S/SA/SALVA/Algorithm-GaussianElimination-GF2-0.02.tar.gz
+Algorithm::GaussianElimination::GF2::Equation 0.02  S/SA/SALVA/Algorithm-GaussianElimination-GF2-0.02.tar.gz
 Algorithm::GDiffDelta              0.01  G/GE/GEOFFR/Algorithm-GDiffDelta-0.01.tar.gz
 Algorithm::GenerateSequence        0.02  R/RC/RCLAMP/Algorithm-GenerateSequence-0.02.tar.gz
 Algorithm::GoldenSection       0.000002  D/DS/DSTH/Algorithm-GoldenSection-0.0.2.tar.gz
