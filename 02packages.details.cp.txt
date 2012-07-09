@@ -61,12 +61,12 @@ CPAN::Mini::Tested                 0.22  R/RR/RRWO/CPAN-Mini-Tested-0.22.tar.gz
 CPAN::Mini::Visit                  1.14  A/AD/ADAMK/CPAN-Mini-Visit-1.14.tar.gz
 CPAN::Mini::Visit::Simple         0.004  J/JK/JKEENAN/CPAN-Mini-Visit-Simple-0.004.tar.gz
 CPAN::Mini::Visit::Simple::Auxiliary undef  J/JK/JKEENAN/CPAN-Mini-Visit-Simple-0.004.tar.gz
-CPAN::Mini::Webserver              0.57  M/MI/MITHALDU/CPAN-Mini-Webserver-0.57.tar.gz
-CPAN::Mini::Webserver::Index       0.57  M/MI/MITHALDU/CPAN-Mini-Webserver-0.57.tar.gz
+CPAN::Mini::Webserver              0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.tar.gz
+CPAN::Mini::Webserver::Index       0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.tar.gz
 CPAN::Mini::Webserver::PSGI        0.01  R/RH/RHOELZ/CPAN-Mini-Webserver-PSGI-0.01.tar.gz
-CPAN::Mini::Webserver::Templates   0.57  M/MI/MITHALDU/CPAN-Mini-Webserver-0.57.tar.gz
-CPAN::Mini::Webserver::Templates::CSS 0.57  M/MI/MITHALDU/CPAN-Mini-Webserver-0.57.tar.gz
-CPAN::Mini::Webserver::Templates::Images 0.57  M/MI/MITHALDU/CPAN-Mini-Webserver-0.57.tar.gz
+CPAN::Mini::Webserver::Templates   0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.tar.gz
+CPAN::Mini::Webserver::Templates::CSS 0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.tar.gz
+CPAN::Mini::Webserver::Templates::Images 0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.tar.gz
 CPAN::Mirror::Finder               0.01  L/LB/LBROCARD/CPAN-Mirror-Finder-0.01.tar.gz
 CPAN::Mirror::Server::HTTP         0.02  B/BI/BINGOS/CPAN-Mirror-Server-HTTP-0.02.tar.gz
 CPAN::Mirrored::By                 5.53  A/AN/ANDK/CPAN-1.9402.tar.gz
