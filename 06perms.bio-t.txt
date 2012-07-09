@@ -277,6 +277,7 @@ Bloom::Faster,PALVARO,m
 Bloom::Filter,MCEGLOWS,m
 Bloom::Filter::XS,AXIAK,m
 Blosxom::Debug,GAVINC,f
+Blosxom::Entry::Twitter,BITMAN,f
 Blosxom::Header,ANAZAWA,m
 Blosxom::Header::Adapter,ANAZAWA,f
 Blosxom::Header::Class,ANAZAWA,f
@@ -285,6 +286,7 @@ Blosxom::Header::Prototype,ANAZAWA,f
 Blosxom::Header::Proxy,ANAZAWA,f
 Blosxom::Include,GAVINC,f
 Blosxom::Plugin,ANAZAWA,f
+Blosxom::Publish,BITMAN,f
 Blosxom::Template,ANAZAWA,m
 Blowfish,DPARIS,f
 BlueCoat::SGOS,MMLANGE,m

@@ -901,7 +901,7 @@ Data::Validator::Role::AllowExtra undef  G/GF/GFUJI/Data-Validator-0.09.tar.gz
 Data::Validator::Role::Croak      undef  G/GF/GFUJI/Data-Validator-0.09.tar.gz
 Data::Validator::Role::Method     undef  G/GF/GFUJI/Data-Validator-0.09.tar.gz
 Data::Validator::Role::NoThrow    undef  G/GF/GFUJI/Data-Validator-0.09.tar.gz
-Data::Validator::Role::Ordered        0  T/TA/TAG/Data-Validator-Role-Ordered-0.02.tar.gz
+Data::Validator::Role::Ordered        0  T/TA/TAG/Data-Validator-Role-Ordered-0.03.tar.gz
 Data::Validator::Role::Sequenced  undef  G/GF/GFUJI/Data-Validator-0.09.tar.gz
 Data::Validator::Role::StrictSequenced undef  G/GF/GFUJI/Data-Validator-0.09.tar.gz
 Data::Valve                     0.00010  D/DM/DMAKI/Data-Valve-0.00010.tar.gz

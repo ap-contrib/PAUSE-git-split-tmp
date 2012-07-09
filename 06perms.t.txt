@@ -1000,6 +1000,10 @@ Twitter::Badge,ARUL,m
 Twitter::Block,ZEFONSECA,f
 Twitter::CLI,SVIEBROCK,m
 Twitter::Credentials,ZEFONSECA,f
+Twitter::Daily,BITMAN,f
+Twitter::Daily::Blog::Base,BITMAN,f
+Twitter::Daily::Blog::Entry::Base,BITMAN,f
+Twitter::Date,BITMAN,f
 Twitter::DirectMessage,ZEFONSECA,f
 Twitter::Favorite,ZEFONSECA,f
 Twitter::Friends,ZEFONSECA,f
@@ -1007,6 +1011,7 @@ Twitter::Friendship,ZEFONSECA,f
 Twitter::HTTP,ZEFONSECA,f
 Twitter::Help,ZEFONSECA,f
 Twitter::Message,ZEFONSECA,f
+Twitter::NoDateError,BITMAN,f
 Twitter::Notification,ZEFONSECA,f
 Twitter::Search,ZEFONSECA,f
 Twitter::SearchResults,ZEFONSECA,f
