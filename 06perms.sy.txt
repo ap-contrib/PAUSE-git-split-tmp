@@ -20,6 +20,7 @@ Synergy,HENKE,m
 Syntax::Collector,TOBYINK,f
 Syntax::Collector::Example,TOBYINK,f
 Syntax::Feature::CatalystAction,JJNAPIORK,f
+Syntax::Feature::Corolocal,WINTER,f
 Syntax::Feature::Dispatcher,TOBYINK,f
 Syntax::Feature::Function,FLORA,c
 Syntax::Feature::Function,PHAYLON,f
