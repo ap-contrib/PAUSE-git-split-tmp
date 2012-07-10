@@ -184,6 +184,9 @@ Log::Any::Adapter::Test,JSWARTZ,f
 Log::Any::Adapter::Test::Memory,JSWARTZ,f
 Log::Any::Adapter::Util,JSWARTZ,f
 Log::Any::App,SHARYANTO,f
+Log::Any::For::Class,SHARYANTO,f
+Log::Any::For::DBI,SHARYANTO,f
+Log::Any::For::Package,SHARYANTO,f
 Log::Any::Manager,JSWARTZ,f
 Log::Any::Plugin,SDT,f
 Log::Any::Plugin::Levels,SDT,f
