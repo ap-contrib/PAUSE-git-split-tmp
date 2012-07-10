@@ -188,6 +188,7 @@ WebService::Lucene::Index,BRICAS,f
 WebService::Lucene::Iterator,BRICAS,f
 WebService::Lucene::Results,BRICAS,f
 WebService::Lucene::XOXOParser,BRICAS,f
+WebService::Lymbix,OHOUSHYAR,f
 WebService::Mappoint,CGARCIA,m
 WebService::Mappoint::Common,CGARCIA,f
 WebService::Mappoint::Find,CGARCIA,f
