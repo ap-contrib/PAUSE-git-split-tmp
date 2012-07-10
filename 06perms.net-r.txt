@@ -875,6 +875,7 @@ Net::Stomp::MooseHelpers::Exceptions,DAKKAR,f
 Net::Stomp::MooseHelpers::Exceptions::Stomp,DAKKAR,f
 Net::Stomp::MooseHelpers::Exceptions::Stringy,DAKKAR,f
 Net::Stomp::MooseHelpers::ReadTrace,DAKKAR,f
+Net::Stomp::MooseHelpers::ReconnectOnFailure,DAKKAR,f
 Net::Stomp::MooseHelpers::TraceOnly,DAKKAR,f
 Net::Stomp::MooseHelpers::TraceOnly::Connection,DAKKAR,f
 Net::Stomp::MooseHelpers::TraceStomp,DAKKAR,f
