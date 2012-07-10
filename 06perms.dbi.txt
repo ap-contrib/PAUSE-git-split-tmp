@@ -663,6 +663,8 @@ DBIx::Class::Storage::DBI::ADO::Microsoft_SQL_Server,MRAMBERG,c
 DBIx::Class::Storage::DBI::ADO::Microsoft_SQL_Server,MSTROUT,c
 DBIx::Class::Storage::DBI::ADO::Microsoft_SQL_Server,RIBASUSHI,f
 DBIx::Class::Storage::DBI::ADO::Microsoft_SQL_Server,RKINYON,c
+DBIx::Class::Storage::DBI::ADO::Microsoft_SQL_Server::Cursor,FREW,c
+DBIx::Class::Storage::DBI::ADO::Microsoft_SQL_Server::Cursor,RIBASUSHI,f
 DBIx::Class::Storage::DBI::AmbiguousGlob,ABRAXXA,c
 DBIx::Class::Storage::DBI::AmbiguousGlob,AGRUNDMA,c
 DBIx::Class::Storage::DBI::AmbiguousGlob,APEIRON,c
@@ -794,6 +796,8 @@ DBIx::Class::Storage::DBI::Firebird::Common,MRAMBERG,c
 DBIx::Class::Storage::DBI::Firebird::Common,MSTROUT,c
 DBIx::Class::Storage::DBI::Firebird::Common,RIBASUSHI,f
 DBIx::Class::Storage::DBI::Firebird::Common,RKINYON,c
+DBIx::Class::Storage::DBI::IdentityInsert,FREW,c
+DBIx::Class::Storage::DBI::IdentityInsert,RIBASUSHI,f
 DBIx::Class::Storage::DBI::Informix,ABRAXXA,c
 DBIx::Class::Storage::DBI::Informix,AGRUNDMA,c
 DBIx::Class::Storage::DBI::Informix,APEIRON,c
