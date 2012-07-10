@@ -907,6 +907,7 @@ MooseX::Scaffold,RKRIMEN,c
 MooseX::Scaffold,ROKR,f
 MooseX::Scaffold::Class,RKRIMEN,c
 MooseX::Scaffold::Class,ROKR,f
+MooseX::ScopedConfig,IAMB,f
 MooseX::Semantic,KBA,f
 MooseX::Semantic::Meta::Attribute::Trait,KBA,f
 MooseX::Semantic::Role::Graph,KBA,f
