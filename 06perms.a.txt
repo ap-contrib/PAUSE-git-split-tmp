@@ -77,6 +77,7 @@ Audio::TagLib::ID3v1::StringHandler,DONGXU,f
 Audio::TagLib::ID3v1::StringHandler,GLEACH,c
 Audio::TagLib::ID3v1::Tag,DONGXU,f
 Audio::TagLib::ID3v1::Tag,GLEACH,c
+Audio::TagLib::ID3v2,GLEACH,f
 Audio::TagLib::ID3v2::AttachedPictureFrame,DONGXU,f
 Audio::TagLib::ID3v2::AttachedPictureFrame,GLEACH,c
 Audio::TagLib::ID3v2::CommentsFrame,DONGXU,f
