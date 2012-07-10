@@ -73,8 +73,8 @@ Class::Spiffy                      0.15  I/IN/INGY/Class-Spiffy-0.15.tar.gz
 Class::Spiffy::mixin              undef  I/IN/INGY/Class-Spiffy-0.15.tar.gz
 Class::STAF                        0.02  S/SE/SEMUELF/Class-STAF-0.03.tar.gz
 Class::STAF::Marshalled            0.02  S/SE/SEMUELF/Class-STAF-0.03.tar.gz
-Class::StateMachine                0.18  S/SA/SALVA/Class-StateMachine-0.18.tar.gz
-Class::StateMachine::Private       0.18  S/SA/SALVA/Class-StateMachine-0.18.tar.gz
+Class::StateMachine                0.19  S/SA/SALVA/Class-StateMachine-0.19.tar.gz
+Class::StateMachine::Private       0.19  S/SA/SALVA/Class-StateMachine-0.19.tar.gz
 Class::Std                        0.011  D/DC/DCONWAY/Class-Std-0.011.tar.gz
 Class::Std::Fast               0.000008  A/AC/ACID/Class-Std-Fast-v0.0.8.tar.gz
 Class::Std::Fast::Storable     0.000008  A/AC/ACID/Class-Std-Fast-v0.0.8.tar.gz
