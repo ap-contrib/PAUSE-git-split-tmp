@@ -1323,10 +1323,10 @@ WebService::Bitly::Result::Referrers undef  S/SH/SHIBAZAKI/WebService-Bitly-0.06
 WebService::Bitly::Result::Shorten undef  S/SH/SHIBAZAKI/WebService-Bitly-0.06.tar.gz
 WebService::Bitly::Result::Validate undef  S/SH/SHIBAZAKI/WebService-Bitly-0.06.tar.gz
 WebService::Bitly::Util           undef  S/SH/SHIBAZAKI/WebService-Bitly-0.06.tar.gz
-WebService::Blogger                0.14  E/EG/EGORSH/WebService-Blogger-0.14.tar.gz
-WebService::Blogger::AtomReading   0.14  E/EG/EGORSH/WebService-Blogger-0.14.tar.gz
-WebService::Blogger::Blog          0.14  E/EG/EGORSH/WebService-Blogger-0.14.tar.gz
-WebService::Blogger::Blog::Entry   0.14  E/EG/EGORSH/WebService-Blogger-0.14.tar.gz
+WebService::Blogger                0.14  E/EG/EGORSH/WebService-Blogger-0.15.tar.gz
+WebService::Blogger::AtomReading   0.14  E/EG/EGORSH/WebService-Blogger-0.15.tar.gz
+WebService::Blogger::Blog          0.14  E/EG/EGORSH/WebService-Blogger-0.15.tar.gz
+WebService::Blogger::Blog::Entry   0.14  E/EG/EGORSH/WebService-Blogger-0.15.tar.gz
 WebService::Bloglines              0.12  M/MI/MIYAGAWA/WebService-Bloglines-0.12.tar.gz
 WebService::Bloglines::Blogroll    0.02  S/ST/STEPANOV/WebService-Bloglines-Blogroll-0.02.tar.gz
 WebService::Bloglines::Entries     0.09  M/MI/MIYAGAWA/WebService-Bloglines-0.12.tar.gz
