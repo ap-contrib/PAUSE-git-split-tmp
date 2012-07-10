@@ -586,7 +586,7 @@ Sprocket::Spread::Driver          undef  X/XA/XANTUS/Sprocket-0.07.tar.gz
 Sprocket::Spread::Filter          undef  X/XA/XANTUS/Sprocket-0.07.tar.gz
 Sprocket::Util::FDpasser          undef  X/XA/XANTUS/Sprocket-0.07.tar.gz
 Sprocket::Util::Observable        undef  X/XA/XANTUS/Sprocket-0.07.tar.gz
-SQL::Abstract                      1.72  F/FR/FREW/SQL-Abstract-1.72.tar.gz
+SQL::Abstract                      1.73  F/FR/FREW/SQL-Abstract-1.73.tar.gz
 SQL::Abstract::Builder         0.001001  T/TR/TRON/SQL-Abstract-Builder-v0.1.1.tar.gz
 SQL::Abstract::FromQuery           0.02  D/DA/DAMI/SQL-Abstract-FromQuery-0.02.tar.gz
 SQL::Abstract::FromQuery::Contains    0  D/DA/DAMI/SQL-Abstract-FromQuery-0.02.tar.gz
@@ -603,8 +603,8 @@ SQL::Abstract::Query::Insert       0.03  B/BL/BLUEFEET/SQL-Abstract-Query-0.03.t
 SQL::Abstract::Query::Select       0.03  B/BL/BLUEFEET/SQL-Abstract-Query-0.03.tar.gz
 SQL::Abstract::Query::Statement    0.03  B/BL/BLUEFEET/SQL-Abstract-Query-0.03.tar.gz
 SQL::Abstract::Query::Update       0.03  B/BL/BLUEFEET/SQL-Abstract-Query-0.03.tar.gz
-SQL::Abstract::Test               undef  F/FR/FREW/SQL-Abstract-1.72.tar.gz
-SQL::Abstract::Tree               undef  F/FR/FREW/SQL-Abstract-1.72.tar.gz
+SQL::Abstract::Test               undef  F/FR/FREW/SQL-Abstract-1.73.tar.gz
+SQL::Abstract::Tree               undef  F/FR/FREW/SQL-Abstract-1.73.tar.gz
 SQL::Abstract::WithLimit       0.000009  M/MI/MISHOO/DBIx-OO-0.0.9.tar.gz
 SQL::Admin                       v0.5.0  B/BA/BARNEY/SQL-Admin-v0.5.0.tar.gz
 SQL::Admin::Catalog              v0.5.0  B/BA/BARNEY/SQL-Admin-v0.5.0.tar.gz
