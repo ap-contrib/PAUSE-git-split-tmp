@@ -639,6 +639,8 @@ System::Command,BOOK,f
 System::Command::Reaper,BOOK,f
 System::Index,JBRYAN,f
 System::Timeout,CHENGANG,m
+System::Wrapper,PSILVA,f
+System::Wrapper::Parallel,PSILVA,f
 SystemC::Coverage,WSNYDER,f
 SystemC::Coverage::Item,WSNYDER,f
 SystemC::Coverage::ItemKey,WSNYDER,f

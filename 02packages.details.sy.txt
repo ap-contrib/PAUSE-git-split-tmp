@@ -568,6 +568,8 @@ System::Command                    1.07  B/BO/BOOK/System-Command-1.07.tar.gz
 System::Command::Reaper            1.01  B/BO/BOOK/System-Command-1.02.tar.gz
 System::Index                       0.1  J/JB/JBRYAN/System-Index-0.1.zip
 System::Timeout                    0.07  C/CH/CHENGANG/System-Timeout-0.07.tar.gz
+System::Wrapper                  v0.0.1  P/PS/PSILVA/System-Wrapper-v0.0.1.tar.gz
+System::Wrapper::Parallel        v0.0.1  P/PS/PSILVA/System-Wrapper-v0.0.1.tar.gz
 SystemC::Coverage                 1.340  W/WS/WSNYDER/SystemPerl-1.340.tar.gz
 SystemC::Coverage::Item           1.340  W/WS/WSNYDER/SystemPerl-1.340.tar.gz
 SystemC::Coverage::ItemKey        1.340  W/WS/WSNYDER/SystemPerl-1.340.tar.gz
