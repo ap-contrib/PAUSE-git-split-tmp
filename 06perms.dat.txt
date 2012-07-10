@@ -631,6 +631,7 @@ Data::ES::Senado::Result::Actividades,JMERELO,f
 Data::ES::Senado::Result::Descriptores_Actividad,JMERELO,f
 Data::ES::Senado::Result::Intervencion_Actividades,JMERELO,f
 Data::ES::Senado::Result::Personas,JMERELO,f
+Data::ESN,AWOHLD,f
 Data::Eacherator,STILLWELL,f
 Data::Edit,DLAMBLEY,f
 Data::Encoder,XAICRON,f

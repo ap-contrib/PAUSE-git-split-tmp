@@ -441,6 +441,7 @@ Data::Locations,STBEY,m
 Data::Lock,DANKOGAI,f
 Data::Lotter,MIKI,f
 Data::Lua,MFOWLER,f
+Data::MEID,AWOHLD,f
 Data::MPQ,CONO,m
 Data::MPQ::Archive,CONO,f
 Data::MPQ::Archive::Block,CONO,f
