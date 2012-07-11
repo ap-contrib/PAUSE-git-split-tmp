@@ -714,7 +714,7 @@ Test::Pcuke::World                undef  C/CR/CRUSOE/Test-Pcuke-0.000006.tar.gz
 Test::PDF                          0.01  S/ST/STEVAN/Test-PDF-0.01.tar.gz
 Test::Perinci::Sub::Wrapper        0.22  S/SH/SHARYANTO/Perinci-Sub-Wrapper-0.22.tar.gz
 Test::Perl::Critic                 1.02  T/TH/THALJEF/Test-Perl-Critic-1.02.tar.gz
-Test::Perl::Critic::Policy        1.117  T/TH/THALJEF/Perl-Critic-1.117.tar.gz
+Test::Perl::Critic::Policy        1.118  T/TH/THALJEF/Perl-Critic-1.118.tar.gz
 Test::Perl::Critic::Progressive    0.03  T/TH/THALJEF/Test-Perl-Critic-Progressive-0.03.tar.gz
 Test::Perl::Dist                  0.300  C/CS/CSJEWELL/Test-Perl-Dist-0.300.tar.gz
 Test::Perl::Metrics::Lite           0.2  K/KI/KITANO/Test-Perl-Metrics-Lite-0.2.tar.gz
