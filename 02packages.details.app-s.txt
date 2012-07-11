@@ -829,7 +829,7 @@ Archive::Tar::Stream               0.01  B/BR/BRONG/Archive-Tar-Stream-0.01.tar.
 Archive::Tar::Streamed             0.03  I/IV/IVORW/Archive-Tar-Streamed-0.03.tar.gz
 Archive::Tar::Win32               undef  K/KA/KANE/Archive-Tar-0.23.tgz
 Archive::Tar::Wrapper              0.16  M/MS/MSCHILLI/Archive-Tar-Wrapper-0.16.tar.gz
-Archive::Tar::Wrapper::IPC::Cmd    0.16  B/BI/BIESZCZAD/Archive-Tar-Wrapper-IPC-Cmd-0.001.tar.gz
+Archive::Tar::Wrapper::IPC::Cmd    0.16  B/BI/BIESZCZAD/Archive-Tar-Wrapper-IPC-Cmd-0.002.tar.gz
 Archive::TarGzip                   0.03  S/SO/SOFTDIA/Archive-TarGzip-0.03.tar.gz
 Archive::Tyd                       0.02  K/KI/KIRSLE/Archive-Tyd-0.02.zip
 Archive::Unrar                      3.1  N/NI/NIKOSV/Archive-Unrar-3.1.tar.gz
