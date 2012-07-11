@@ -286,6 +286,9 @@ Blosxom::Header::Prototype,ANAZAWA,f
 Blosxom::Header::Proxy,ANAZAWA,f
 Blosxom::Include,GAVINC,f
 Blosxom::Plugin,ANAZAWA,f
+Blosxom::Plugin::Request,ANAZAWA,f
+Blosxom::Plugin::Response,ANAZAWA,f
+Blosxom::Plugin::Util,ANAZAWA,f
 Blosxom::Publish,BITMAN,f
 Blosxom::Template,ANAZAWA,m
 Blowfish,DPARIS,f
