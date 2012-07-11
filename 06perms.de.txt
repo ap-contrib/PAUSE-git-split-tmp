@@ -648,6 +648,7 @@ Dict::Main::Radix,BENAZZO,f
 Dict::Word,BENAZZO,f
 Die,KJALB,f
 Die::Alive,GMPASSOS,f
+Die::Hard,TOBYINK,f
 DieHandler,KJALB,f
 DiePair,PHILCROW,f
 DiePreHandler,KJALB,f
