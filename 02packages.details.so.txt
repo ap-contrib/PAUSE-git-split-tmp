@@ -910,7 +910,7 @@ SQL::Translator::Parser::DBI::PostgreSQL 1.59  F/FR/FREW/SQL-Translator-0.11012.
 SQL::Translator::Parser::DBI::SQLite 1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Parser::DBI::SQLServer 1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Parser::DBI::Sybase 1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
-SQL::Translator::Parser::DBIx::Class 1.10  F/FR/FREW/DBIx-Class-0.08197.tar.gz
+SQL::Translator::Parser::DBIx::Class 1.10  F/FR/FREW/DBIx-Class-0.08198.tar.gz
 SQL::Translator::Parser::Excel     1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Parser::MySQL     1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Parser::Oracle    1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
@@ -929,7 +929,7 @@ SQL::Translator::Parser::YAML      1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Producer          1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Producer::ClassDBI 1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Producer::DB2     1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
-SQL::Translator::Producer::DBIx::Class::File 0.1  F/FR/FREW/DBIx-Class-0.08197.tar.gz
+SQL::Translator::Producer::DBIx::Class::File 0.1  F/FR/FREW/DBIx-Class-0.08198.tar.gz
 SQL::Translator::Producer::DBIx::Class::File::Simple 0.1  D/DO/DONGYI/SQL-Translator-Producer-DBIx-Class-File-Simple-0.1.tar.gz
 SQL::Translator::Producer::Diagram 1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
 SQL::Translator::Producer::DiaUml  1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
