@@ -121,6 +121,8 @@ Perlbal::Plugin::Palimg,DORMANDO,c
 Perlbal::Plugin::Queues,BRADFITZ,f
 Perlbal::Plugin::Queues,DORMANDO,c
 Perlbal::Plugin::Redirect,DORMANDO,f
+Perlbal::Plugin::SessionAffinity,XSAWYERX,f
+Perlbal::Plugin::SessionAffinity::Sequential,XSAWYERX,f
 Perlbal::Plugin::Stats,BRADFITZ,f
 Perlbal::Plugin::Stats,DORMANDO,c
 Perlbal::Plugin::Stats::Storage,BRADFITZ,f
