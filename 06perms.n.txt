@@ -20,11 +20,16 @@ Nitesi,HORNBURG,f
 Nitesi::Account::Manager,HORNBURG,f
 Nitesi::Account::Password,HORNBURG,f
 Nitesi::Account::Provider::DBI,HORNBURG,f
+Nitesi::Address,HORNBURG,f
 Nitesi::Cart,HORNBURG,f
 Nitesi::Class,HORNBURG,f
 Nitesi::DBI,HORNBURG,f
+Nitesi::Inventory,HORNBURG,f
+Nitesi::Navigation,HORNBURG,f
 Nitesi::Object,HORNBURG,f
 Nitesi::Object::Singleton,HORNBURG,f
+Nitesi::Product,HORNBURG,f
+Nitesi::Provider::Role,HORNBURG,f
 Nitesi::Query::DBI,HORNBURG,f
 Nmap::Parser,APERSAUD,f
 Nmap::Parser::Host,APERSAUD,f
