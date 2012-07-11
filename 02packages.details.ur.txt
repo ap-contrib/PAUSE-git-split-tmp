@@ -255,7 +255,7 @@ Val::Num                          undef  F/FG/FGLOCK/v6-0.044.tar.gz
 Val::Object                       undef  F/FG/FGLOCK/v6-0.044.tar.gz
 Val::Undef                        undef  F/FG/FGLOCK/v6-0.044.tar.gz
 Validate::Net                       0.6  A/AD/ADAMK/Validate-Net-0.6.tar.gz
-Validate::Tiny                    0.982  M/MI/MINIMAL/Validate-Tiny-0.982.tar.gz
+Validate::Tiny                    0.983  M/MI/MINIMAL/Validate-Tiny-0.983.tar.gz
 Validate::Yubikey                  0.01  B/BE/BENW/Validate-Yubikey-0.01.tar.gz
 ValidateCUI                       undef  T/TP/TPEDERSE/WebService-UMLSKS-Similarity-0.01.tar.gz
 ValidateTerm                      undef  T/TP/TPEDERSE/WebService-UMLSKS-Similarity-0.01.tar.gz
