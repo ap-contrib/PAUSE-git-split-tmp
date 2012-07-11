@@ -222,6 +222,7 @@ App::Nopaste::Service::Sprunge,DOHERTY,m
 App::Nopaste::Service::Ubuntu,SARTAK,f
 App::Nopaste::Service::ssh,SARTAK,f
 App::Notes,WWOLF,f
+App::Notifier::Service,SHLOMIF,f
 App::Notifo,MELO,f
 App::OS::Detect::MachineCores,DBR,f
 App::Office::CMS,RSAVAGE,f
