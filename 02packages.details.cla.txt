@@ -656,8 +656,8 @@ Cogwheel::SimpleLogger            undef  S/ST/STYPNOW/Cogwheel-0.03.tar.gz
 Cogwheel::Types                   undef  S/ST/STYPNOW/Cogwheel-0.03.tar.gz
 CogWiki                            0.02  I/IN/INGY/CogWiki-0.02.tar.gz
 COIN::SQL::Admin::Driver::Base::Keywords v0.5.0  B/BA/BARNEY/SQL-Admin-v0.5.0.tar.gz
-Collectd::Plugin::Read::Message::Passing undef  B/BO/BOBTFISH/Message-Passing-Collectd-0.005.tar.gz
-Collectd::Plugin::Write::Message::Passing undef  B/BO/BOBTFISH/Message-Passing-Collectd-0.005.tar.gz
+Collectd::Plugin::Read::Message::Passing undef  B/BO/BOBTFISH/Message-Passing-Collectd-0.006.tar.gz
+Collectd::Plugin::Write::Message::Passing undef  B/BO/BOBTFISH/Message-Passing-Collectd-0.006.tar.gz
 Collection                         0.52  Z/ZA/ZAG/Collection-0.52.tar.gz
 Collection::AutoSQL                 1.1  Z/ZA/ZAG/Collection-0.52.tar.gz
 Collection::AutoSQLnotUnique       0.01  Z/ZA/ZAG/Collection-0.52.tar.gz
