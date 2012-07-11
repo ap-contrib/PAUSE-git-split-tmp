@@ -405,7 +405,7 @@ WWW::Yahoo::Movies                 0.05  S/ST/STEPANOV/WWW-Yahoo-Movies-0.05.tar
 WWW::Yahoo::Smushit                0.03  F/FV/FVOX/WWW-Yahoo-Smushit-0.03.tar.gz
 WWW::YahooMaps                      0.3  C/CS/CSELLEG/WWW-YahooMaps-0.3.tar.gz
 WWW::Yandex::BarTIC                0.04  A/AL/ALEXBYK/WWW-Yandex-BarTIC-0.04.tar.gz
-WWW::Yandex::Catalog::LookupSite   0.06  F/FL/FLAMEY/WWW-Yandex-Catalog-LookupSite-0.06.tar.gz
+WWW::Yandex::Catalog::LookupSite   0.07  F/FL/FLAMEY/WWW-Yandex-Catalog-LookupSite-0.07.tar.gz
 WWW::Yandex::MailForDomain          0.2  Z/ZE/ZERO/WWW-Yandex-MailForDomain-0.2.tar.gz
 WWW::Yandex::PhoneDetector         1.07  K/KO/KOSTYA/WWW-Yandex-PhoneDetector-1.07.tar.gz
 WWW::Yandex::TIC                   0.07  A/AP/APLA/WWW-Yandex-TIC-0.07.tar.gz
