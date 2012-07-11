@@ -377,7 +377,7 @@ AnyEvent::HTTPD::HTTPConnection   undef  E/EL/ELMEX/AnyEvent-HTTPD-0.93.tar.gz
 AnyEvent::HTTPD::HTTPServer       undef  E/EL/ELMEX/AnyEvent-HTTPD-0.93.tar.gz
 AnyEvent::HTTPD::Request          undef  E/EL/ELMEX/AnyEvent-HTTPD-0.93.tar.gz
 AnyEvent::HTTPD::Util             undef  E/EL/ELMEX/AnyEvent-HTTPD-0.93.tar.gz
-AnyEvent::I3                       0.11  M/MS/MSTPLBG/AnyEvent-I3-0.11.tar.gz
+AnyEvent::I3                       0.12  M/MS/MSTPLBG/AnyEvent-I3-0.12.tar.gz
 AnyEvent::ImageShack              0.021  D/DM/DMITRYNOD/AnyEvent-ImageShack-0.021.tar.gz
 AnyEvent::Impl::Cocoa             undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
 AnyEvent::Impl::EV                undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
