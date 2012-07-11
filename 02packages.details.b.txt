@@ -42,7 +42,7 @@ Business::BankAccount::NZ          0.02  U/UN/UNISOLVE/Business-BankAccount-NZ-0
 Business::BankCard                 0.01  S/SH/SHARYANTO/Business-BankCard-0.01.tar.gz
 Business::BankCard::Indonesia      0.03  S/SH/SHARYANTO/Business-BankCard-Indonesia-0.03.tar.gz
 Business::BankList                 0.01  S/SH/SHARYANTO/Business-BankList-0.01.tar.gz
-Business::BankList::Indonesia      0.03  S/SH/SHARYANTO/Business-BankList-Indonesia-0.03.tar.gz
+Business::BankList::Indonesia      0.04  S/SH/SHARYANTO/Business-BankList-Indonesia-0.04.tar.gz
 Business::Barcode::EAN13           1.01  T/TM/TMTM/Business-Barcode-EAN13-1.01.tar.gz
 Business::Billing::TMobile::UK     0.16  S/SR/SRSHAH/Business-Billing-TMobile-UK-0.16.tar.gz
 Business::BR                     0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.tar.gz

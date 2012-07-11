@@ -324,11 +324,11 @@ AI::NeuralNet::BackProp::_run      0.89  J/JB/JBRYAN/AI-NeuralNet-BackProp-0.89.
 AI::NeuralNet::BackProp::File      0.77  J/JB/JBRYAN/AI-NeuralNet-BackProp-0.77.zip
 AI::NeuralNet::BackProp::neuron    0.89  J/JB/JBRYAN/AI-NeuralNet-BackProp-0.89.zip
 AI::NeuralNet::BackProp::PCX       0.89  J/JB/JBRYAN/AI-NeuralNet-BackProp-0.89.zip
-AI::NeuralNet::FastSOM             0.14  J/JR/JRM/AI-NeuralNet-FastSOM-0.14.tar.gz
-AI::NeuralNet::FastSOM::Hexa       0.14  J/JR/JRM/AI-NeuralNet-FastSOM-0.14.tar.gz
-AI::NeuralNet::FastSOM::Rect       0.14  J/JR/JRM/AI-NeuralNet-FastSOM-0.14.tar.gz
-AI::NeuralNet::FastSOM::Torus      0.14  J/JR/JRM/AI-NeuralNet-FastSOM-0.14.tar.gz
-AI::NeuralNet::FastSOM::Utils      0.14  J/JR/JRM/AI-NeuralNet-FastSOM-0.14.tar.gz
+AI::NeuralNet::FastSOM             0.15  J/JR/JRM/AI-NeuralNet-FastSOM-0.15.tar.gz
+AI::NeuralNet::FastSOM::Hexa       0.15  J/JR/JRM/AI-NeuralNet-FastSOM-0.15.tar.gz
+AI::NeuralNet::FastSOM::Rect       0.15  J/JR/JRM/AI-NeuralNet-FastSOM-0.15.tar.gz
+AI::NeuralNet::FastSOM::Torus      0.15  J/JR/JRM/AI-NeuralNet-FastSOM-0.15.tar.gz
+AI::NeuralNet::FastSOM::Utils      0.15  J/JR/JRM/AI-NeuralNet-FastSOM-0.15.tar.gz
 AI::NeuralNet::Kohonen            0.142  L/LG/LGODDARD/AI-NeuralNet-Kohonen-0.142.tar.gz
 AI::NeuralNet::Kohonen::Demo::RGB 0.123  L/LG/LGODDARD/AI-NeuralNet-Kohonen-Demo-RGB-0.123.tar.gz
 AI::NeuralNet::Kohonen::Input       0.1  L/LG/LGODDARD/AI-NeuralNet-Kohonen-0.142.tar.gz
