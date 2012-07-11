@@ -963,6 +963,7 @@ Coro::State,MLEHMANN,f
 Coro::Storable,MLEHMANN,f
 Coro::Timer,MLEHMANN,f
 Coro::Timer::Timeout,MLEHMANN,f
+Coro::Twiggy,UNERA,f
 Coro::Util,MLEHMANN,f
 Coro::timeout,MLEHMANN,f
 Corona,MIYAGAWA,f
