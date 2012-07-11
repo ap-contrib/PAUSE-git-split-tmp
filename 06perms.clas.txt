@@ -125,6 +125,11 @@ Class::RHash,BMORROW,f
 Class::Random,PMH,f
 Class::Random::Empty,PMH,f
 Class::Rebless,GAAL,f
+Class::Ref,MYDMNSN,f
+Class::Ref::ARRAY,MYDMNSN,f
+Class::Ref::ARRAY::Tie,MYDMNSN,f
+Class::Ref::HASH,MYDMNSN,f
+Class::Ref::HASH::Tie,MYDMNSN,f
 Class::Refresh,DOY,f
 Class::ReluctantORM,CLWOLFE,m
 Class::ReturnValue,ALEXMV,c

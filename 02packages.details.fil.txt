@@ -73,7 +73,7 @@ Filter::Template                  1.040  R/RC/RCAPUTO/Filter-Template-1.040.tar.
 Filter::Template::UseBytes         1.00  R/RC/RCAPUTO/Filter-Template-1.040.tar.gz
 Filter::Trigraph                   0.02  K/KA/KASEI/Filter-Trigraph-0.02.tar.gz
 Filter::Uncomment                  0.03  N/NK/NKH/Filter-Uncomment-0.03.3.tar.gz
-Filter::Undent                   v1.0.1  K/KI/KILNA/Filter-Undent-v1.0.1.tar.gz
+Filter::Undent                   v1.0.2  K/KI/KILNA/Filter-Undent-v1.0.2.tar.gz
 Filter::Util::Call                 1.45  R/RU/RURBAN/Filter-1.45.tar.gz
 Filter::Util::Exec                 1.45  R/RU/RURBAN/Filter-1.45.tar.gz
 Filter::UUdecode                   1.00  R/RU/RURBAN/Filter-1.45.tar.gz

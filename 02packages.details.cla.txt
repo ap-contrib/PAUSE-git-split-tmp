@@ -3,6 +3,11 @@ Class::RDF::Object                 0.20  Z/ZO/ZOOLEIKA/Class-RDF-0.20.tar.gz
 Class::RDF::Statement              0.20  Z/ZO/ZOOLEIKA/Class-RDF-0.20.tar.gz
 Class::RDF::Store                  0.20  Z/ZO/ZOOLEIKA/Class-RDF-0.20.tar.gz
 Class::Rebless                     0.10  G/GA/GAAL/Class-Rebless-0.10.tar.gz
+Class::Ref                         0.01  M/MY/MYDMNSN/Class-Ref-0.01.tar.gz
+Class::Ref::ARRAY                     0  M/MY/MYDMNSN/Class-Ref-0.01.tar.gz
+Class::Ref::ARRAY::Tie                0  M/MY/MYDMNSN/Class-Ref-0.01.tar.gz
+Class::Ref::HASH                      0  M/MY/MYDMNSN/Class-Ref-0.01.tar.gz
+Class::Ref::HASH::Tie                 0  M/MY/MYDMNSN/Class-Ref-0.01.tar.gz
 Class::Refresh                     0.02  D/DO/DOY/Class-Refresh-0.02.tar.gz
 Class::ReturnValue                 0.55  J/JE/JESSE/Class-ReturnValue-0.55.tar.gz
 Class::Role                        0.03  L/LP/LPALMER/Class-Role-0.03.tar.gz
