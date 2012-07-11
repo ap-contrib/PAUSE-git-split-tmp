@@ -540,6 +540,7 @@ Dezi::Client,KARMAN,f
 Dezi::Doc,KARMAN,f
 Dezi::Response,KARMAN,f
 Dezi::Server,KARMAN,f
+Dezi::Server::About,KARMAN,f
 Dezi::UI,KARMAN,f
 DfClient,MSROTH,f
 DfException,MSROTH,f
