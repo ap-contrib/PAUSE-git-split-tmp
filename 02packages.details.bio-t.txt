@@ -182,7 +182,7 @@ Blosxom::Include                  0.002  G/GA/GAVINC/Blosxom-Include-0.002.tar.g
 Blosxom::Plugin                 0.00001  A/AN/ANAZAWA/Blosxom-Plugin-0.00001.tar.gz
 Blosxom::Publish               0.000002  B/BI/BITMAN/Twitter-Daily-0.1.0.tar.gz
 Blosxom::Template               0.01002  A/AN/ANAZAWA/Blosxom-Template-0.01002.tar.gz
-BlueCoat::SGOS                     1.00  M/MM/MMLANGE/BlueCoat-SGOS-1.00.tar.gz
+BlueCoat::SGOS                     1.01  M/MM/MMLANGE/BlueCoat-SGOS-1.01.tar.gz
 bluefuse_file                      1.23  C/CJ/CJONES/Microarray-0.45c.zip
 bluefuse_post_file                 1.23  C/CJ/CJONES/Microarray-0.45c.zip
 Bluepay::Bluepay20DailyReport      0.15  C/CP/CPKOIS/BluepayBluepay20DailyReport/Bluepay-Bluepay20DailyReport-0.15.tar.gz
