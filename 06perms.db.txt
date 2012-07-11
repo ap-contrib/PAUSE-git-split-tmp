@@ -1098,6 +1098,8 @@ DBIx::Class::SQLMaker::LimitDialects,MSTROUT,c
 DBIx::Class::SQLMaker::LimitDialects,RIBASUSHI,f
 DBIx::Class::SQLMaker::LimitDialects,RKINYON,c
 DBIx::Class::SQLMaker::OracleJoins,ARODLAND,f
+DBIx::Class::SQLMaker::OracleJoins,FREW,c
+DBIx::Class::SQLMaker::OracleJoins,RIBASUSHI,c
 DBIx::Class::SaltedPasswords,PERLER,f
 DBIx::Class::Schema,ABRAXXA,c
 DBIx::Class::Schema,AGRUNDMA,c
