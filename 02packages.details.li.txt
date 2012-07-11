@@ -813,7 +813,7 @@ Locale::ID::GuessGender::FromFirstName 0.03  S/SH/SHARYANTO/Locale-ID-GuessGende
 Locale::ID::GuessGender::FromFirstName::common 0.03  S/SH/SHARYANTO/Locale-ID-GuessGender-FromFirstName-0.03.tar.gz
 Locale::ID::GuessGender::FromFirstName::google 0.03  S/SH/SHARYANTO/Locale-ID-GuessGender-FromFirstName-0.03.tar.gz
 Locale::ID::GuessGender::FromFirstName::v1_rules 0.03  S/SH/SHARYANTO/Locale-ID-GuessGender-FromFirstName-0.03.tar.gz
-Locale::ID::Locality               0.03  S/SH/SHARYANTO/Locale-ID-Locality-0.03.tar.gz
+Locale::ID::Locality               0.04  S/SH/SHARYANTO/Locale-ID-Locality-0.04.tar.gz
 Locale::ID::Province               0.03  S/SH/SHARYANTO/Locale-ID-Province-0.03.tar.gz
 Locale::ID::SubCountry             0.03  S/SH/SHARYANTO/Locale-ID-Province-0.03.tar.gz
 Locale::KeyedText              1.073000  D/DU/DUNCAND/Locale-KeyedText-v1.73.0.tar.gz
