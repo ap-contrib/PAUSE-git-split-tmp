@@ -185,7 +185,7 @@ App::Nopaste::Service::Sprunge    0.004  D/DO/DOHERTY/App-Nopaste-Service-Sprung
 App::Nopaste::Service::ssh        undef  S/SA/SARTAK/App-Nopaste-0.33.tar.gz
 App::Nopaste::Service::Ubuntu     undef  S/SA/SARTAK/App-Nopaste-0.33.tar.gz
 App::Notes                        0.011  W/WW/WWOLF/App-Notes-0.011.tar.gz
-App::Notifier::Service           0.0100  S/SH/SHLOMIF/App-Notifier-Service-0.0100.tar.gz
+App::Notifier::Service           0.0200  S/SH/SHLOMIF/App-Notifier-Service-0.0200.tar.gz
 App::Notifo                       0.001  M/ME/MELO/App-Notifo-0.001.tar.gz
 App::Office::CMS                   0.92  R/RS/RSAVAGE/App-Office-CMS-0.92.tgz
 App::Office::CMS::Controller       0.92  R/RS/RSAVAGE/App-Office-CMS-0.92.tgz
