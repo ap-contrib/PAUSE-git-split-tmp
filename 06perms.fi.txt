@@ -89,6 +89,7 @@ Filter::Trigraph,KASEI,m
 Filter::UUdecode,PMQS,f
 Filter::UUdecode,RURBAN,c
 Filter::Uncomment,NKH,f
+Filter::Undent,KILNA,f
 Filter::Util::Call,PMQS,m
 Filter::Util::Call,RURBAN,c
 Filter::Util::Exec,PMQS,m
