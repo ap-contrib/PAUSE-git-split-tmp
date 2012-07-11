@@ -294,7 +294,7 @@ Email::Simple                     2.101  R/RJ/RJBS/Email-Simple-2.101.tar.gz
 Email::Simple::Creator            2.101  R/RJ/RJBS/Email-Simple-2.101.tar.gz
 Email::Simple::FromHandle         0.052  R/RJ/RJBS/Email-Simple-FromHandle-0.052.tar.gz
 Email::Simple::Header             2.101  R/RJ/RJBS/Email-Simple-2.101.tar.gz
-Email::Simple::Markdown          v0.4.0  Y/YA/YANICK/Email-Simple-Markdown-0.4.0.tar.gz
+Email::Simple::Markdown          v0.5.0  Y/YA/YANICK/Email-Simple-Markdown-0.5.0.tar.gz
 Email::Simple::OneLineHeaders      1.92  J/JB/JBUHACOFF/Email-Simple-OneLineHeaders-1.92.tar.gz
 Email::Simple::Test::TraceHeaders 0.091701  R/RJ/RJBS/Email-Simple-Test-TraceHeaders-0.091701.tar.gz
 Email::Store                      0.257  R/RJ/RJBS/Email-Store-0.257.tar.gz
