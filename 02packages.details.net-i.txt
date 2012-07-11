@@ -989,11 +989,11 @@ Net::Radio::Location::SUPL::XS::ULP_PDU_t 0  R/RE/REHSACK/Net-Radio-Location-SUP
 Net::Radio::Location::SUPL::XS::UlpMessage_t 0  R/RE/REHSACK/Net-Radio-Location-SUPL-Test-0.001.tar.gz
 Net::Radio::Location::SUPL::XS::UlpMessage_t_choice 0  R/RE/REHSACK/Net-Radio-Location-SUPL-Test-0.001.tar.gz
 Net::Radio::Location::SUPL::XSc       0  R/RE/REHSACK/Net-Radio-Location-SUPL-Test-0.001.tar.gz
-Net::Radio::Modem                 0.001  R/RE/REHSACK/Net-Radio-Modem-0.001.tar.gz
-Net::Radio::Modem::Adapter        0.001  R/RE/REHSACK/Net-Radio-Modem-0.001.tar.gz
-Net::Radio::Modem::Adapter::Null  0.001  R/RE/REHSACK/Net-Radio-Modem-0.001.tar.gz
+Net::Radio::Modem                 0.002  R/RE/REHSACK/Net-Radio-Modem-0.002.tar.gz
+Net::Radio::Modem::Adapter        0.002  R/RE/REHSACK/Net-Radio-Modem-0.002.tar.gz
+Net::Radio::Modem::Adapter::Null  0.002  R/RE/REHSACK/Net-Radio-Modem-0.002.tar.gz
 Net::Radio::Modem::Adapter::oFono 0.001  R/RE/REHSACK/Net-Radio-Modem-Adapter-oFono-0.001.tar.gz
-Net::Radio::Modem::Adapter::Static 0.001  R/RE/REHSACK/Net-Radio-Modem-0.001.tar.gz
+Net::Radio::Modem::Adapter::Static 0.002  R/RE/REHSACK/Net-Radio-Modem-0.002.tar.gz
 Net::Radio::oFono                 0.001  R/RE/REHSACK/Net-Radio-oFono-0.001.tar.gz
 Net::Radio::oFono::CellBroadcast  0.001  R/RE/REHSACK/Net-Radio-oFono-0.001.tar.gz
 Net::Radio::oFono::ConnectionContext 0.001  R/RE/REHSACK/Net-Radio-oFono-0.001.tar.gz
