@@ -635,7 +635,6 @@ App::MaMGal::VideoIcon            undef  P/PO/PORRIDGE/App-MaMGal-1.4.tar.gz
 App::Manager                       0.03  M/ML/MLEHMANN/App-Manager-0.03.tar.gz
 App::Manager::DB                   0.03  M/ML/MLEHMANN/App-Manager-0.03.tar.gz
 App::MathImage                      103  K/KR/KRYDE/math-image-103.tar.gz
-App::MathImage::Coord                66  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Curses::Drawing     103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Curses::Main        103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Generator           103  K/KR/KRYDE/math-image-103.tar.gz
@@ -658,7 +657,6 @@ App::MathImage::Gtk2::Ex::ArrowButton 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Gtk2::Ex::GdkColorBits 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Gtk2::Ex::Menu::ForComboBox 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Gtk2::Ex::PixbufBits 103  K/KR/KRYDE/math-image-103.tar.gz
-App::MathImage::Gtk2::Ex::RadioMenuItem::OrNone 101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Gtk2::Ex::Statusbar::PointerPosition 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Gtk2::Ex::ToolItem::ComboText 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Gtk2::Ex::ToolItem::ComboText::MenuItem 103  K/KR/KRYDE/math-image-103.tar.gz
@@ -681,13 +679,9 @@ App::MathImage::Gtk2::PodDialog     103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Gtk2::SaveDialog    103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Gtk2::X11           103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Image::Base::BMP    103  K/KR/KRYDE/math-image-103.tar.gz
-App::MathImage::Image::Base::Caca   101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Image::Base::LifeBitmap 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Image::Base::LifeRLE 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Image::Base::Other  103  K/KR/KRYDE/math-image-103.tar.gz
-App::MathImage::Image::Base::Wx::DC 101  K/KR/KRYDE/math-image-101.tar.gz
-App::MathImage::Image::Base::X::Drawable 101  K/KR/KRYDE/math-image-101.tar.gz
-App::MathImage::Image::Base::X::Pixmap 101  K/KR/KRYDE/math-image-101.tar.gz
 App::MathImage::Image::Base::XpmClipped 103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::Lines               103  K/KR/KRYDE/math-image-103.tar.gz
 App::MathImage::LinesLevel          103  K/KR/KRYDE/math-image-103.tar.gz
