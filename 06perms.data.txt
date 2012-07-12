@@ -814,6 +814,8 @@ Data::ObjectDriver::SQL,YANNK,c
 Data::ObjectDriver::SQL::Oracle,BTROTT,f
 Data::ObjectDriver::SQL::Oracle,SAYMEDIA,c
 Data::ObjectDriver::SQL::Oracle,SIXAPART,c
+Data::ObjectGenerator,MUDDYDIXN,f
+Data::ObjectGenerator::Template,MUDDYDIXN,f
 Data::Omap,BBAXTER,f
 Data::OpenGraph,DMAKI,f
 Data::OpenGraph::Parser,DMAKI,f
