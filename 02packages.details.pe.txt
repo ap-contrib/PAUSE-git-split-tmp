@@ -759,7 +759,7 @@ Perlbal::Plugin::PSGI::Backend     0.03  M/MI/MIYAGAWA/Perlbal-Plugin-PSGI-0.03.
 Perlbal::Plugin::PSGI::Client      0.03  M/MI/MIYAGAWA/Perlbal-Plugin-PSGI-0.03.tar.gz
 Perlbal::Plugin::Queues           undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
 Perlbal::Plugin::Redirect         undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
-Perlbal::Plugin::SessionAffinity  0.001  X/XS/XSAWYERX/Perlbal-Plugin-SessionAffinity-0.001.tar.gz
+Perlbal::Plugin::SessionAffinity  0.002  X/XS/XSAWYERX/Perlbal-Plugin-SessionAffinity-0.002.tar.gz
 Perlbal::Plugin::SessionAffinity::Sequential 0.001  X/XS/XSAWYERX/Perlbal-Plugin-SessionAffinity-0.001.tar.gz
 Perlbal::Plugin::Stats            undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
 Perlbal::Plugin::Stats::Storage   undef  D/DO/DORMANDO/Perlbal-1.80.tar.gz
