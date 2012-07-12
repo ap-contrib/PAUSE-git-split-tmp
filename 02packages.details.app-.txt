@@ -716,10 +716,10 @@ App::Rgit::Repository              0.08  V/VP/VPIT/rgit-0.08.tar.gz
 App::Rgit::Utils                   0.08  V/VP/VPIT/rgit-0.08.tar.gz
 App::rlibperl                     0.700  R/RW/RWSTAUNER/App-rlibperl-0.700.tar.gz
 App::Rolling                       0.11  B/BA/BAYASHI/App-Rolling-0.11.tar.gz
-App::RSS2Leafnode                    64  K/KR/KRYDE/rss2leafnode-64.tar.gz
-App::RSS2Leafnode::Conf              64  K/KR/KRYDE/rss2leafnode-64.tar.gz
-App::RSS2Leafnode::Conf::Tie         64  K/KR/KRYDE/rss2leafnode-64.tar.gz
-App::RSS2Leafnode::XML::Twig::Other  64  K/KR/KRYDE/rss2leafnode-64.tar.gz
+App::RSS2Leafnode                    65  K/KR/KRYDE/rss2leafnode-65.tar.gz
+App::RSS2Leafnode::Conf              65  K/KR/KRYDE/rss2leafnode-65.tar.gz
+App::RSS2Leafnode::Conf::Tie         65  K/KR/KRYDE/rss2leafnode-65.tar.gz
+App::RSS2Leafnode::XML::Twig::Other  65  K/KR/KRYDE/rss2leafnode-65.tar.gz
 App::scrape                        0.04  C/CO/CORION/App-scrape-0.04.tar.gz
 App::Scrobble                      0.01  A/AJ/AJCT/App-Scrobble-0.01.tar.gz
 App::Scrobble::Role::WithService   0.01  A/AJ/AJCT/App-Scrobble-0.01.tar.gz
