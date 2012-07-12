@@ -133,6 +133,7 @@ spreadsheet,MMARCO,f
 sprite_view,METZZO,f
 sql_block,PHILCROW,f
 sqlite_comparison,CJONES,f
+start,MSTROUT,f
 startPage,DRUOSO,f
 stash,FWILES,c
 stash,PHILCROW,c

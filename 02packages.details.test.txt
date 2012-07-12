@@ -426,6 +426,7 @@ TestApp8                          undef  M/MA/MARKSTOS/CGI-Application-3.31.tar.
 TestApp9                          undef  M/MA/MARKSTOS/CGI-Application-3.31.tar.gz
 TestBed                           undef  D/DC/DCONWAY/Attribute-Handlers-Prospective-0.01.tar.gz
 TestBed6                          undef  D/DC/DCONWAY/Attribute-Handlers-Prospective-0.01.tar.gz
+TestBridge                        undef  M/MS/MSTROUT/Object-Remote-0.001001.tar.gz
 TestBusted1                       undef  B/BW/BWARFIELD/NRGN/Test-AutoLoader-0.03.tar.gz
 TestBusted2                       undef  B/BW/BWARFIELD/NRGN/Test-AutoLoader-0.03.tar.gz
 TestC                             undef  D/DN/DNEIL/Benchmark-Timer-Class-0.02.tar.gz
@@ -474,12 +475,14 @@ testcases::WebURL                 undef  A/AM/AMALTSEV/XAO-Web-1.07.tar.gz
 testcases::WebUtility             undef  A/AM/AMALTSEV/XAO-Web-1.07.tar.gz
 TestCGI                           undef  M/MA/MARKSTOS/CGI-Application-3.31.tar.gz
 TestChunks                        undef  A/AU/AUTRIJUS/Perl6-Pugs-6.0.12.tar.gz
+TestClass                         undef  M/MS/MSTROUT/Object-Remote-0.001001.tar.gz
 testclass                         undef  T/TE/TEEJAY/Class-Indexed-0.01.tar.gz
 TestConfig                        undef  T/TB/TBONE/Net-FTP-Common-7.0.d.tar.gz
 TestConstants                      0.01  B/BI/BIGJ/File-Random-0.17.tar.gz
 TestCV                                0  Z/ZA/ZAG/WebDAO-2.06.tar.gz
 TestData                           0.22  B/BA/BARBIE/Calendar-List-0.22.tar.gz
 Tester                            undef  A/AK/AKSTE/Term-Query-2.0.tar.gz
+TestFindUser                      undef  M/MS/MSTROUT/Object-Remote-0.001001.tar.gz
 testflds                              1  A/AF/AFRYER/Tuxedo-2.08.tar.gz
 TestFramework                  20080321  J/JD/JDB/Win32-Daemon-20100921.tar.gz
 TestGen4Web::Runner                0.11  M/MA/MACKERS/TestGen4Web-Runner-0.11.tar.gz

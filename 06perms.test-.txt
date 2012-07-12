@@ -889,6 +889,7 @@ TestApp::Model::SomeClass,RIBASUSHI,c
 TestAutoload,KRYDE,f
 TestBed,DCONWAY,f
 TestBed6,DCONWAY,f
+TestBridge,MSTROUT,f
 TestBusted1,BWARFIELD,f
 TestBusted2,BWARFIELD,f
 TestC,DNEIL,f
@@ -903,12 +904,14 @@ TestChunks,AUDREYT,f
 TestChunks,AUTRIJUS,c
 TestChunks,JESSE,c
 TestChunks,NUFFIN,c
+TestClass,MSTROUT,f
 TestCompiler,SFINK,f
 TestConfig,TBONE,f
 TestConstants,BIGJ,f
 TestCoverage::MyTestModule,RENEEB,f
 TestData,BARBIE,f
 TestFile,CHIPS,f
+TestFindUser,MSTROUT,f
 TestFramework,JDB,f
 TestFuncs,CJM,f
 TestGen4Web::Runner,MACKERS,f
