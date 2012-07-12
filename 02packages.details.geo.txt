@@ -316,7 +316,6 @@ Git::Demo::Story::EventHandler    undef  R/RC/RCL/Git-Demo-0.02.tar.gz
 Git::DescribeVersion              1.014  R/RW/RWSTAUNER/Git-DescribeVersion-1.014.tar.gz
 Git::DescribeVersion::App         1.014  R/RW/RWSTAUNER/Git-DescribeVersion-1.014.tar.gz
 Git::Error::Command               undef  C/CO/CORNELIUS/App-gh-0.553.tar.gz
-Git::Export                        0.01  C/CA/CASIANO/Git-Export-0.01.tar.gz
 Git::FastExport                    0.07  B/BO/BOOK/Git-FastExport-0.07.tar.gz
 Git::FastExport::Block             0.07  B/BO/BOOK/Git-FastExport-0.07.tar.gz
 Git::FastExport::Stitch            0.07  B/BO/BOOK/Git-FastExport-0.07.tar.gz
