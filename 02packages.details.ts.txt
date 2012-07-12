@@ -116,11 +116,11 @@ Twiggy::TLS::Info                 undef  U/UN/UNDEF/Twiggy-TLS-0.0017.tar.gz
 Twiggy::Writer                    undef  M/MI/MIYAGAWA/Twiggy-0.1020.tar.gz
 TWiki::SAX::Parser                 0.03  A/AL/ALGDR/Text-TWikiFormat-SAX-0.03.tar.gz
 Twitter::Badge                     0.02  A/AR/ARUL/Twitter-Badge-0.02.tar.gz
-Twitter::Daily                 0.001000  B/BI/BITMAN/Twitter-Daily-0.1.0.tar.gz
-Twitter::Daily::Blog::Base     0.001000  B/BI/BITMAN/Twitter-Daily-0.1.0.tar.gz
-Twitter::Daily::Blog::Entry::Base undef  B/BI/BITMAN/Twitter-Daily-0.1.0.tar.gz
-Twitter::Date                     undef  B/BI/BITMAN/Twitter-Daily-0.1.0.tar.gz
-Twitter::NoDateError              undef  B/BI/BITMAN/Twitter-Daily-0.1.0.tar.gz
+Twitter::Daily                 0.001000  B/BI/BITMAN/Twitter-Daily-0.1.1.tar.gz
+Twitter::Daily::Blog::Base     0.001000  B/BI/BITMAN/Twitter-Daily-0.1.1.tar.gz
+Twitter::Daily::Blog::Entry::Base undef  B/BI/BITMAN/Twitter-Daily-0.1.1.tar.gz
+Twitter::Date                     undef  B/BI/BITMAN/Twitter-Daily-0.1.1.tar.gz
+Twitter::NoDateError              undef  B/BI/BITMAN/Twitter-Daily-0.1.1.tar.gz
 Twitter::Shell                     0.03  D/DM/DMAKI/Twitter-Shell-0.03.tar.gz
 Twitter::Shell::Base              undef  D/DM/DMAKI/Twitter-Shell-0.02.tar.gz
 Twitter::Shell::Shell             undef  D/DM/DMAKI/Twitter-Shell-0.03.tar.gz

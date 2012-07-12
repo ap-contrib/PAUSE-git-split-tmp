@@ -264,7 +264,7 @@ File::Mirror                       0.10  J/JW/JWU/File-Mirror/File-Mirror-0.10.t
 File::Mirror::Mirror               0.01  J/JW/JWU/File-Mirror/File-Mirror-0.01.tar.gz
 File::MkTemp                        1.0  T/TG/TGUMMELS/File-MkTemp-1.0.6.tar.gz
 File::MkTempO                       1.0  T/TG/TGUMMELS/File-MkTemp-1.0.6.tar.gz
-File::MMagic                       1.28  K/KN/KNOK/File-MMagic-1.28.tar.gz
+File::MMagic                       1.29  K/KN/KNOK/File-MMagic-1.29.tar.gz
 File::MMagic::XS                0.09006  D/DM/DMAKI/File-MMagic-XS-0.09006.tar.gz
 File::Mode                         0.05  A/AQ/AQUTIV/FileMode-0.05.tar.gz
 File::Modified                     0.07  C/CO/CORION/File-Modified-0.07.tar.gz
