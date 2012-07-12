@@ -378,6 +378,8 @@ MooseX::Error::Trap,NOTBENH,f
 MooseX::Event,WINTER,f
 MooseX::Event::Role,WINTER,f
 MooseX::Event::Role::ClassMethods,WINTER,f
+MooseX::Exception::Base,IVANWILLS,f
+MooseX::Exception::Base::Stringify,IVANWILLS,f
 MooseX::ExtJS::Reflection,MET,f
 MooseX::ExtJS::Reflection::Types,MET,f
 MooseX::ExtJS::Reflection::Util,MET,f
