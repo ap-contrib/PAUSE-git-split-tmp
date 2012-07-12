@@ -742,6 +742,7 @@ Test::XPath,DWHEELER,f
 Test::XT,ADAMK,f
 Test::YAML,ADAMK,c
 Test::YAML,INGY,f
+Test::YAML,MSTROUT,c
 Test::YAML::Filter,ADAMK,c
 Test::YAML::Filter,INGY,f
 Test::YAML::Meta,BARBIE,f
