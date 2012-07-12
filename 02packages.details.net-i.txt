@@ -933,7 +933,7 @@ Net::RabbitFoot::Cmd::Command::purge_queue undef  I/IK/IKUTA/Net-RabbitFoot-1.03
 Net::RabbitFoot::Cmd::Command::unbind_queue undef  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Cmd::Role::Command undef  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
 Net::RabbitFoot::Cmd::Role::Config undef  I/IK/IKUTA/Net-RabbitFoot-1.03.tar.gz
-Net::RabbitMQ                  0.002002  J/JE/JESUS/Net--RabbitMQ-0.2.2.tar.gz
+Net::RabbitMQ                  0.002004  J/JE/JESUS/Net--RabbitMQ-0.2.4.tar.gz
 Net::RabbitMQ::Channel             0.05  A/AP/APLA/Net-RabbitMQ-Channel-0.05.tar.gz
 Net::RabbitMQ::Connection         undef  A/AP/APLA/Net-RabbitMQ-Channel-0.05.tar.gz
 Net::RabbitMQ::Exchange           undef  A/AP/APLA/Net-RabbitMQ-Channel-0.05.tar.gz
