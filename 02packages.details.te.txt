@@ -533,7 +533,7 @@ Tie::Handle::CSV::Array               0  D/DA/DANBOO/Tie-Handle-CSV-0.14.tar.gz
 Tie::Handle::CSV::Hash                0  D/DA/DANBOO/Tie-Handle-CSV-0.14.tar.gz
 Tie::Handle::Flock                 0.01  I/IH/IHEFFNER/Tie-Handle-Flock-0.01.tar.gz
 Tie::Handle::HTTP                  0.02  H/HA/HACHI/Tie-Handle-HTTP-0.02.tar.gz
-Tie::Handle::Mason                    0  D/DR/DROLSKY/HTML-Mason-1.48.tar.gz
+Tie::Handle::Mason                 1.50  J/JS/JSWARTZ/HTML-Mason-1.50.tar.gz
 Tie::Handle::Offset               0.003  D/DA/DAGOLDEN/Tie-Handle-Offset-0.003.tar.gz
 Tie::Handle::Scalar                 0.1  A/AN/ANWILL/Tie-Handle-Scalar-0.1.tar.gz
 Tie::Handle::SkipHeader           0.003  D/DA/DAGOLDEN/Tie-Handle-Offset-0.003.tar.gz
