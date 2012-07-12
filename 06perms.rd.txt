@@ -929,6 +929,7 @@ RT::Extension::CustomField::HideEmptyValues,TSIBLEY,f
 RT::Extension::CustomFieldsOnUpdate,RUZ,f
 RT::Extension::CustomizeContentType,SUNNAVY,f
 RT::Extension::DateDiscordian,FALCONE,f
+RT::Extension::DateTAI64,FALCONE,f
 RT::Extension::Drafts,ELACOUR,f
 RT::Extension::EasyRelatedTickets,ALEXMV,c
 RT::Extension::EasyRelatedTickets,FALCONE,c

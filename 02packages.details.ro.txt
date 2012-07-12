@@ -399,7 +399,7 @@ RT::Config                        undef  E/EL/ELACOUR/RT-Extension-UserDetails-0
 RT::Crypt::SMIME                   0.22  J/JE/JESSE/RT-Crypt-SMIME-0.22.tar.gz
 RT::CustomField                   undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
 RT::CustomFieldValue              undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
-RT::Date                           0.01  F/FA/FALCONE/RT-Extension-DateDiscordian-0.01.tar.gz
+RT::Date                           0.01  F/FA/FALCONE/RT-Extension-DateTAI64-0.01.tar.gz
 RT::EmailParser                     0.1  J/JE/JESSE/RT-Extension-BrandedQueues-0.1.tar.gz
 RT::Extension::ACNS                0.01  R/RU/RUZ/RT-Extension-ACNS-0.01.tar.gz
 RT::Extension::ACNS::Test         undef  R/RU/RUZ/RT-Extension-ACNS-0.01.tar.gz
@@ -423,6 +423,7 @@ RT::Extension::CustomField::HideEmptyValues 0.02  T/TS/TSIBLEY/RT-Extension-Cust
 RT::Extension::CustomFieldsOnUpdate 0.01  R/RU/RUZ/RT-Extension-CustomFieldsOnUpdate-0.01.tar.gz
 RT::Extension::CustomizeContentType 0.01  S/SU/SUNNAVY/RT-Extension-CustomizeContentType-0.01.tar.gz
 RT::Extension::DateDiscordian      0.01  F/FA/FALCONE/RT-Extension-DateDiscordian-0.01.tar.gz
+RT::Extension::DateTAI64           0.01  F/FA/FALCONE/RT-Extension-DateTAI64-0.01.tar.gz
 RT::Extension::Drafts              0.01  E/EL/ELACOUR/RT-Extension-Drafts-0.01.tar.gz
 RT::Extension::EasyRelatedTickets   0.1  S/SU/SUNNAVY/RT-Extension-EasyRelatedTickets-0.1.tar.gz
 RT::Extension::EscalationDates      0.4  B/BH/BHEISIG/RT-Extension-EscalationDates-0.4.tar.gz
