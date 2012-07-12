@@ -572,6 +572,11 @@ MySQL::Admin::Translate,LZE,f
 MySQL::Backend::Base,KSTEPME,f
 MySQL::Backup,DMITRY,m
 MySQL::BinLog,TOKUHIROM,f
+MySQL::BinLog::Binary_log_event,TOKUHIROM,f
+MySQL::BinLog::Log_event_header,TOKUHIROM,f
+MySQL::BinLog::Row_event_set,TOKUHIROM,f
+MySQL::BinLog::Row_event_set::iterator,TOKUHIROM,f
+MySQL::BinLog::Value,TOKUHIROM,f
 MySQL::Binlog_RBR_Data,STRANGE,f
 MySQL::Config,DARREN,f
 MySQL::Database,ASPIERS,f
