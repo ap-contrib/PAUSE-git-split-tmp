@@ -400,7 +400,7 @@ Test::XML::XPath::XML::XPath       0.03  S/SE/SEMANTICO/Test-XML-0.07.tar.gz
 Test::XMLElement                   0.04  M/MU/MURUGU/Test-XMLElement-0.04.tar.gz
 Test::XPath                        0.16  D/DW/DWHEELER/Test-XPath-0.16.tar.gz
 Test::XT                           0.04  A/AD/ADAMK/Test-XT-0.04.tar.gz
-Test::YAML                         0.81  I/IN/INGY/YAML-0.81.tar.gz
+Test::YAML                         0.82  M/MS/MSTROUT/YAML-0.82.tar.gz
 Test::YAML::Filter                 0.81  I/IN/INGY/YAML-0.81.tar.gz
 Test::YAML::Meta                   0.19  B/BA/BARBIE/Test-YAML-Meta-0.19.tar.gz
 Test::YAML::Meta::Version          0.16  B/BA/BARBIE/Test-YAML-Meta-0.16.tar.gz
