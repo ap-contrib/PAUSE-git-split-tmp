@@ -95,7 +95,7 @@ CatalystX::ComponentsFromConfig::Role::AdaptorRole 1.001  D/DA/DAKKAR/CatalystX-
 CatalystX::ComponentsFromConfig::Role::PluginRole 1.001  D/DA/DAKKAR/CatalystX-ComponentsFromConfig-1.001.tar.gz
 CatalystX::ComponentsFromConfig::ViewAdaptor 1.001  D/DA/DAKKAR/CatalystX-ComponentsFromConfig-1.001.tar.gz
 CatalystX::ComponentsFromConfig::ViewPlugin 1.001  D/DA/DAKKAR/CatalystX-ComponentsFromConfig-1.001.tar.gz
-CatalystX::ConsumesJMS              1.0  D/DA/DAKKAR/CatalystX-ConsumesJMS-1.0.tar.gz
+CatalystX::ConsumesJMS             1.01  D/DA/DAKKAR/CatalystX-ConsumesJMS-1.01.tar.gz
 CatalystX::Controller::Auth        0.22  C/CA/CAGAO/CatalystX-Controller-Auth-0.22.tar.gz
 CatalystX::Controller::ExtJS::Direct v2.1.4  P/PE/PERLER/CatalystX-ExtJS-Direct-2.1.4.tar.gz
 CatalystX::Controller::ExtJS::Direct::API v2.1.4  P/PE/PERLER/CatalystX-ExtJS-Direct-2.1.4.tar.gz
