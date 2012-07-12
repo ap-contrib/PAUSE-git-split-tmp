@@ -631,6 +631,7 @@ IO::Async::Loop::AnyEvent,PEVANS,f
 IO::Async::Loop::AnyEvent2::ElectricBoogaloo,MAUKE,f
 IO::Async::Loop::EV,PEVANS,f
 IO::Async::Loop::Epoll,PEVANS,f
+IO::Async::Loop::Event,PEVANS,f
 IO::Async::Loop::Glib,PEVANS,f
 IO::Async::Loop::IO::Async,PEVANS,f
 IO::Async::Loop::IO_Poll,PEVANS,f
