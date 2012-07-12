@@ -420,12 +420,12 @@ Nikto::Parser::Host::Port::Item    0.01  J/JA/JABRA/Nikto-Parser-0.01.tar.gz
 Nikto::Parser::ScanDetails         0.01  J/JA/JABRA/Nikto-Parser-0.01.tar.gz
 Nikto::Parser::Session             0.01  J/JA/JABRA/Nikto-Parser-0.01.tar.gz
 NIS::DBM                           0.02  J/JS/JSMITH/NIS-DBM-0.02.tar.gz
-NIST::NVD                          0.10  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-0.10.tar.bz2
-NIST::NVD::Query                   0.10  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-0.10.tar.bz2
-NIST::NVD::Store::Base             0.10  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-0.10.tar.bz2
-NIST::NVD::Store::DB_File          0.10  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-0.10.tar.bz2
+NIST::NVD                          1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
+NIST::NVD::Query                   1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
+NIST::NVD::Store::Base             1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
+NIST::NVD::Store::DB_File          1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
 NIST::NVD::Store::SQLite3          0.04  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-Store-SQLite3-0.04.tar.bz2
-NIST::NVD::Update                  0.10  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-0.10.tar.bz2
+NIST::NVD::Update                  1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
 Nitesi                           0.0050  H/HO/HORNBURG/Nitesi-0.0050.tar.gz
 Nitesi::Account::Manager          undef  H/HO/HORNBURG/Nitesi-0.0050.tar.gz
 Nitesi::Account::Password         undef  H/HO/HORNBURG/Nitesi-0.0050.tar.gz
