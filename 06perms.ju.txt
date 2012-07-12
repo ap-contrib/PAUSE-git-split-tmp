@@ -1,4 +1,5 @@
 Juno,ADAMBA,f
+Juno,XSAWYERX,c
 Juno::Check::FPing,ADAMBA,f
 Juno::Check::HTTP,ADAMBA,f
 Juno::Check::RawCommand,ADAMBA,f
