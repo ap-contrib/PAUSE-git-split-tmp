@@ -84,7 +84,7 @@ YAML::Perl::Tokens                undef  I/IN/INGY/YAML-Perl-0.02.tar.gz
 YAML::Perl::Writer                undef  I/IN/INGY/YAML-Perl-0.02.tar.gz
 YAML::Shell                        0.60  I/IN/INGY/YAML-Shell-0.60.tar.gz
 YAML::Syck                         1.20  T/TO/TODDR/YAML-Syck-1.20.tar.gz
-YAML::Tag                          0.82  M/MS/MSTROUT/YAML-0.82.tar.gz
+YAML::Tag                          0.83  M/MS/MSTROUT/YAML-0.83.tar.gz
 YAML::Tests                        0.06  I/IN/INGY/YAML-Tests-0.06.tar.gz
 YAML::Tests::Benchmark            undef  I/IN/INGY/YAML-Tests-0.06.tar.gz
 YAML::Tiny                         1.51  A/AD/ADAMK/YAML-Tiny-1.51.tar.gz
@@ -96,7 +96,7 @@ YAML::Type::glob                   0.81  I/IN/INGY/YAML-0.81.tar.gz
 YAML::Type::ref                    0.81  I/IN/INGY/YAML-0.81.tar.gz
 YAML::Type::regexp                 0.81  I/IN/INGY/YAML-0.81.tar.gz
 YAML::Type::undef                  0.81  I/IN/INGY/YAML-0.81.tar.gz
-YAML::Types                        0.82  M/MS/MSTROUT/YAML-0.82.tar.gz
+YAML::Types                        0.83  M/MS/MSTROUT/YAML-0.83.tar.gz
 YAML::Warning                      0.81  I/IN/INGY/YAML-0.81.tar.gz
 YAML::XS                           0.38  I/IN/INGY/YAML-LibYAML-0.38.tar.gz
 YAML::XS::LibYAML                 undef  I/IN/INGY/YAML-LibYAML-0.38.tar.gz
