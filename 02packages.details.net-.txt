@@ -387,7 +387,7 @@ Net::HTTP::API::Role::Serialization 0.14  F/FR/FRANCKC/Net-HTTP-API-0.14.tar.gz
 Net::HTTP::API::Role::UserAgent    0.14  F/FR/FRANCKC/Net-HTTP-API-0.14.tar.gz
 Net::HTTP::Factual             0.110030  S/SP/SPAZM/Net-HTTP-Factual-0.110030.tar.gz
 Net::HTTP::Methods                 6.00  G/GA/GAAS/Net-HTTP-6.03.tar.gz
-Net::HTTP::Methods::patch::log_request 0.03  S/SH/SHARYANTO/Net-HTTP-Methods-patch-log_request-0.03.tar.gz
+Net::HTTP::Methods::patch::log_request 0.04  S/SH/SHARYANTO/Net-HTTP-Methods-patch-log_request-0.04.tar.gz
 Net::HTTP::NB                      6.00  G/GA/GAAS/Net-HTTP-6.03.tar.gz
 Net::HTTP::Spore                   0.03  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
 Net::HTTP::Spore::Core             0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
