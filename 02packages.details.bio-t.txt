@@ -179,10 +179,10 @@ Blosxom::Header::Object           undef  A/AN/ANAZAWA/Blosxom-Header-0.02003.tar
 Blosxom::Header::Prototype        undef  A/AN/ANAZAWA/Blosxom-Header-0.01015.tar.gz
 Blosxom::Header::Proxy            undef  A/AN/ANAZAWA/Blosxom-Header-0.05005.tar.gz
 Blosxom::Include                  0.002  G/GA/GAVINC/Blosxom-Include-0.002.tar.gz
-Blosxom::Plugin                 0.00002  A/AN/ANAZAWA/Blosxom-Plugin-0.00002.tar.gz
-Blosxom::Plugin::Request          undef  A/AN/ANAZAWA/Blosxom-Plugin-0.00002.tar.gz
-Blosxom::Plugin::Response         undef  A/AN/ANAZAWA/Blosxom-Plugin-0.00002.tar.gz
-Blosxom::Plugin::Util             undef  A/AN/ANAZAWA/Blosxom-Plugin-0.00002.tar.gz
+Blosxom::Plugin                 0.00004  A/AN/ANAZAWA/Blosxom-Plugin-0.00004.tar.gz
+Blosxom::Plugin::Request          undef  A/AN/ANAZAWA/Blosxom-Plugin-0.00004.tar.gz
+Blosxom::Plugin::Response         undef  A/AN/ANAZAWA/Blosxom-Plugin-0.00004.tar.gz
+Blosxom::Plugin::Util             undef  A/AN/ANAZAWA/Blosxom-Plugin-0.00004.tar.gz
 Blosxom::Publish               0.000002  B/BI/BITMAN/Twitter-Daily-0.1.2.tar.gz
 Blosxom::Template               0.01002  A/AN/ANAZAWA/Blosxom-Template-0.01002.tar.gz
 BlueCoat::SGOS                     1.01  M/MM/MMLANGE/BlueCoat-SGOS-1.01.tar.gz
