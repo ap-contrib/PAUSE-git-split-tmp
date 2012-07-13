@@ -182,6 +182,8 @@ Data::Riak::Role::HasRiak,STEVAN,c
 Data::Riak::Types,ANELSON,f
 Data::Riak::Types,GPHAT,c
 Data::Riak::Types,STEVAN,c
+Data::Riak::Util::MapCount,ANELSON,f
+Data::Riak::Util::ReduceCount,ANELSON,f
 Data::Rlist,ASPINDLER,m
 Data::Rmap,BOWMANBS,f
 Data::RoundRobin,GUGOD,f
