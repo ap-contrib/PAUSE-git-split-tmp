@@ -595,7 +595,7 @@ Algorithm::FloodControl::Backend,GUGU,f
 Algorithm::FloodControl::Backend::Cache::FastMmap,GUGU,f
 Algorithm::FloodControl::Backend::Cache::Memcached,GUGU,f
 Algorithm::FloodControl::Backend::Cache::Memcached::Fast,GUGU,f
-Algorithm::Functional::BFS,CWW,f
+Algorithm::Functional::BFS,CWW,m
 Algorithm::FuzzyCmeans,FUJISAWA,f
 Algorithm::FuzzyCmeans::Distance,FUJISAWA,f
 Algorithm::FuzzyCmeans::Distance::Cosine,FUJISAWA,f

@@ -285,7 +285,7 @@ Blosxom::Header::Object,ANAZAWA,f
 Blosxom::Header::Prototype,ANAZAWA,f
 Blosxom::Header::Proxy,ANAZAWA,f
 Blosxom::Include,GAVINC,f
-Blosxom::Plugin,ANAZAWA,f
+Blosxom::Plugin,ANAZAWA,m
 Blosxom::Plugin::Request,ANAZAWA,f
 Blosxom::Plugin::Response,ANAZAWA,f
 Blosxom::Plugin::Util,ANAZAWA,f

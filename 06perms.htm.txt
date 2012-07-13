@@ -353,6 +353,7 @@ HTML::TableParser::Grid,TAKERU,f
 HTML::TableParser::Table,DJERIUS,f
 HTML::TableTiler,DOMIZIO,f
 HTML::Tabulate,GAVINC,m
+HTML::TabulateData,TIAO,m
 HTML::Tag,EBRUNI,f
 HTML::Tag::BOOLSELECT,EBRUNI,f
 HTML::Tag::DATE,EBRUNI,f

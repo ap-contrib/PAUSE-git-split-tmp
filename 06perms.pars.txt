@@ -916,7 +916,7 @@ Parse::Yapp::Lalr,FDESAR,f
 Parse::Yapp::Options,FDESAR,f
 Parse::Yapp::Output,FDESAR,f
 Parse::Yapp::Parse,FDESAR,f
-Parse::cfggen,KUMY,f
+Parse::cfggen,KUMY,m
 Parse::ePerl,RSE,m
 Parse::eyapptut,CASIANO,f
 Parse::nm,DOLMEN,f

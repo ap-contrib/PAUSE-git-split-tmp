@@ -1267,6 +1267,7 @@ Data::Vitals::Underarm,ADAMK,f
 Data::Vitals::Util,ADAMK,f
 Data::Vitals::Waist,ADAMK,f
 Data::Walk,GUIDO,f
+Data::Walk::Clone,JANDREW,m
 Data::Walk::Extracted,JANDREW,m
 Data::Walk::Graft,JANDREW,m
 Data::Walk::Print,JANDREW,m

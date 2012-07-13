@@ -370,7 +370,7 @@ Config::Std::Keyval,DCONWAY,f
 Config::Std::Keyval,TMETRO,c
 Config::Strict,BLAKEW,m
 Config::Strict::UserConstraints,BLAKEW,f
-Config::TT2,GAISSMAI,f
+Config::TT2,GAISSMAI,m
 Config::Tiny,ADAMK,f
 Config::Tiny::Ordered,RSAVAGE,f
 Config::Tiny::Singleton,LYOKATO,f
