@@ -8,7 +8,7 @@ URI::data                         undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::di                            0.02  D/DO/DORIAN/URI-di-0.02.tar.gz
 URI::di::CryptoSpec                0.02  D/DO/DORIAN/URI-di-0.02.tar.gz
 URI::duri                         0.002  T/TO/TOBYINK/URI-duri-0.002.tar.gz
-URI::Encode                       0.061  M/MI/MITHUN/URI-Encode-0.061.tar.gz
+URI::Encode                        0.07  M/MI/MITHUN/URI-Encode-0.07.tar.gz
 URI::Escape                        3.31  G/GA/GAAS/URI-1.60.tar.gz
 URI::Escape::JavaScript            0.04  T/TA/TANIGUCHI/URI-Escape-JavaScript-0.04.tar.gz
 URI::Escape::Optimistic           0.007  T/TO/TOBYINK/RDF-RDB2RDF-0.007.tar.gz
