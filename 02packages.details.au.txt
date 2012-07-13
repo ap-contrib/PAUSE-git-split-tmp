@@ -236,11 +236,11 @@ autobox                            2.75  C/CH/CHOCOLATE/autobox-2.75.tar.gz
 autobox::Bless                     0.02  S/SW/SWALTERS/autobox-Bless-0.02.tar.gz
 autobox::Closure::Attributes       0.04  S/SA/SARTAK/autobox-Closure-Attributes-0.04.tar.gz
 autobox::Closure::Attributes::Methods 0.04  S/SA/SARTAK/autobox-Closure-Attributes-0.04.tar.gz
-autobox::Core                      1.22  J/JA/JARICH/autobox-Core-1.22.tar.gz
-autobox::Core::ARRAY               1.22  J/JA/JARICH/autobox-Core-1.22.tar.gz
-autobox::Core::CODE                1.22  J/JA/JARICH/autobox-Core-1.22.tar.gz
-autobox::Core::HASH                1.22  J/JA/JARICH/autobox-Core-1.22.tar.gz
-autobox::Core::SCALAR              1.22  J/JA/JARICH/autobox-Core-1.22.tar.gz
+autobox::Core                      1.23  J/JA/JARICH/autobox-Core-1.23.tar.gz
+autobox::Core::ARRAY               1.23  J/JA/JARICH/autobox-Core-1.23.tar.gz
+autobox::Core::CODE                1.23  J/JA/JARICH/autobox-Core-1.23.tar.gz
+autobox::Core::HASH                1.23  J/JA/JARICH/autobox-Core-1.23.tar.gz
+autobox::Core::SCALAR              1.23  J/JA/JARICH/autobox-Core-1.23.tar.gz
 autobox::DateTime::Duration        0.02  M/MI/MIYAGAWA/autobox-DateTime-Duration-0.02.tar.gz
 autobox::dump                  20090426.1746  C/CO/COWENS/autobox-dump-20090426.1746.tar.gz
 autobox::Encode                    0.03  T/TO/TOKUHIROM/autobox-Encode-0.03.tar.gz
