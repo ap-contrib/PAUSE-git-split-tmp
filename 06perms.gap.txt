@@ -769,7 +769,8 @@ Geo::GPS::Data::Storage::RAM,NFMNUNES,f
 Geo::GPS::Data::TrackLog,NFMNUNES,f
 Geo::GPS::Data::Waypoint,NFMNUNES,f
 Geo::GPS::Data::WptGroup,NFMNUNES,f
-Geo::GeoNames,PERHENRIK,m
+Geo::GeoNames,BDFOY,m
+Geo::GeoNames,PERHENRIK,c
 Geo::GeoNames::DB::SQLite,MENGXR,f
 Geo::GeoNames::File,MENGXR,f
 Geo::GeoNames::Record,MENGXR,f
