@@ -859,7 +859,7 @@ CGI::AuthRegister                   0.3  V/VL/VLADO/CGI-AuthRegister-0.3.tar.gz
 CGI::AutoForm                      1.05  R/RS/RSANDBERG/CGI-AutoForm-1.05.tar.gz
 CGI::AutoForm::Session            undef  R/RS/RSANDBERG/CGI-AutoForm-1.05.tar.gz
 CGI::Browse                    1.000000  R/RO/ROGERHALL/CGI-Browse-1.0.0.tar.gz
-CGI::Buffer                        0.51  N/NH/NHORNE/CGI-Buffer-0.51.tar.gz
+CGI::Buffer                        0.52  N/NH/NHORNE/CGI-Buffer-0.52.tar.gz
 CGI::Builder                       1.36  D/DO/DOMIZIO/CGI-Builder-1.36.tar.gz
 CGI::Builder::Auth                 0.06  V/VE/VESELOSKY/CGI-Builder-Auth-0.06.tar.gz
 CGI::Builder::Auth::AdminBase  1.001001001  V/VE/VESELOSKY/CGI-Builder-Auth-0.06.tar.gz
