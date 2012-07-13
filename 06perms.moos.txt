@@ -1339,7 +1339,7 @@ MooseX::Types::Data::GUID,ARCANEZ,c
 MooseX::Types::Data::GUID,GRODITI,f
 MooseX::Types::Data::GUID,MSTROUT,c
 MooseX::Types::Data::Serializer,BLUEFEET,f
-MooseX::Types::Date::Piece,STEVENL,f
+MooseX::Types::Date::Piece,STEVENL,m
 MooseX::Types::DateTime,CODEREPOS,c
 MooseX::Types::DateTime,DOY,c
 MooseX::Types::DateTime,DROLSKY,c
