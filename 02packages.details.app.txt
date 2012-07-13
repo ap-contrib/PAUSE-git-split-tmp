@@ -423,7 +423,7 @@ App::Install                       0.03  S/SK/SKUD/App-Install-0.03.tar.gz
 App::Iops                         0.006  J/JJ/JJORE/App-Iops-0.006.tar.gz
 App::iosdiff                   1.112160  O/OL/OLIVER/App-iosdiff-1.112160.tar.gz
 App::Iptables2Dot                v0.1.0  M/MA/MAMAWE/App-Iptables2Dot-v0.1.0.tar.gz
-App::IsGitSynced                   0.03  B/BE/BESSARABV/App-IsGitSynced-0.03.tar.gz
+App::IsGitSynced                   0.04  B/BE/BESSARABV/App-IsGitSynced-0.04.tar.gz
 App::iTan                          1.04  M/MA/MAROS/App-iTan-1.04.tar.gz
 App::iTan::Command::delete        undef  M/MA/MAROS/App-iTan-1.04.tar.gz
 App::iTan::Command::Delete        undef  M/MA/MAROS/App-iTan-1.04.tar.gz
