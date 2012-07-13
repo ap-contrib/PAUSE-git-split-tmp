@@ -178,6 +178,7 @@ String::Comments::Extract::JavaScript,ROKR,f
 String::Comments::Extract::SlashStar,RKRIMEN,c
 String::Comments::Extract::SlashStar,ROKR,f
 String::Compare,DRUOSO,f
+String::Compare::ConstantTime,FRACTAL,f
 String::Compare::Length,ACCARDO,f
 String::CyclicRotation,JCARREIRA,m
 String::Defer,BMORROW,f
