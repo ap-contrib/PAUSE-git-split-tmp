@@ -279,10 +279,10 @@ Validation::Class::Simple          6.05  A/AW/AWNCORP/Validation-Class-6.05.tar.
 Validation::Class::Sugar       4.01003514  A/AW/AWNCORP/Validation-Class-4.01003514.tar.gz
 Validation::Class::Validator   4.01003514  A/AW/AWNCORP/Validation-Class-4.01003514.tar.gz
 Validator::Checker::MostWanted     0.03  S/SE/SEMENOVF/Validator-Var-0.03.tar.gz
-Validator::Custom                0.1428  K/KI/KIMOTO/Validator-Custom-0.1428.tar.gz
+Validator::Custom                  0.15  K/KI/KIMOTO/Validator-Custom-0.15.tar.gz
 Validator::Custom::Basic::Constraints undef  K/KI/KIMOTO/Validator-Custom-0.1419.tar.gz
-Validator::Custom::Constraint     undef  K/KI/KIMOTO/Validator-Custom-0.1428.tar.gz
-Validator::Custom::Result         undef  K/KI/KIMOTO/Validator-Custom-0.1428.tar.gz
+Validator::Custom::Constraint     undef  K/KI/KIMOTO/Validator-Custom-0.15.tar.gz
+Validator::Custom::Result         undef  K/KI/KIMOTO/Validator-Custom-0.15.tar.gz
 Validator::Group                   0.03  S/SE/SEMENOVF/Validator-Var-0.03.tar.gz
 Validator::Var                     0.03  S/SE/SEMENOVF/Validator-Var-0.03.tar.gz
 Value                              2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
