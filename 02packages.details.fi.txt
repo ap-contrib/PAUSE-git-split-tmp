@@ -38,7 +38,6 @@ File::DataClass::Storage::WithLanguage v0.11.401  P/PJ/PJFL/file-dataclass/File-
 File::DataClass::Storage::XML  v0.11.401  P/PJ/PJFL/file-dataclass/File-DataClass-0.11.401.tar.gz
 File::DataClass::Storage::XML::Bare v0.11.401  P/PJ/PJFL/file-dataclass/File-DataClass-0.11.401.tar.gz
 File::DataClass::Storage::XML::Simple v0.11.401  P/PJ/PJFL/file-dataclass/File-DataClass-0.11.401.tar.gz
-File::DataClass::Util          v0.10.380  P/PJ/PJFL/file-dataclass/File-DataClass-0.10.380.tar.gz
 File::Defrag                       0.03  M/ML/MLEHMANN/File-Defrag-0.03.tar.gz
 File::Descriptions                 0.03  L/LE/LEITE/File-Descriptions-0.03.tar.gz
 File::DesktopEntry                 0.04  P/PA/PARDUS/File-DesktopEntry/File-DesktopEntry-0.04.tar.gz
