@@ -465,6 +465,7 @@ LWP::UserAgent::Keychain           0.01  M/MI/MIYAGAWA/LWP-UserAgent-Keychain-0.
 LWP::UserAgent::Mockable           1.10  M/MM/MMORGAN/LWP-UserAgent-Mockable-1.10.tgz
 LWP::UserAgent::OfflineCache       0.02  G/GD/GDM/LWP-UserAgent-OfflineCache-0.02.tar.gz
 LWP::UserAgent::patch::https_hard_timeout 0.01  S/SH/SHARYANTO/LWP-UserAgent-patch-https_hard_timeout-0.01.tar.gz
+LWP::UserAgent::patch::log_response 0.01  S/SH/SHARYANTO/LWP-UserAgent-patch-log_response-0.01.tar.gz
 LWP::UserAgent::POE                0.03  M/MS/MSCHILLI/LWP-UserAgent-POE-0.03.tar.gz
 LWP::UserAgent::ProgressBar    1.100810  M/MA/MARCEL/LWP-UserAgent-ProgressBar-1.100810.tar.gz
 LWP::UserAgent::ProxyAny           1.01  Q/QJ/QJZHOU/LWP-UserAgent-ProxyAny-1.01.tar.gz
