@@ -474,7 +474,7 @@ Tie::DBI::Record                   1.05  T/TO/TODDR/Tie-DBI-1.05.tar.gz
 Tie::DBIx::Class                   0.01  S/SE/SEWI/Tie-DBIx-Class-0.01.tar.gz
 Tie::DeepTied                     undef  J/JO/JONASBN/Tie-Tools-1.06.tar.gz
 Tie::Depth                        undef  J/JO/JONASBN/Tie-Tools-1.06.tar.gz
-Tie::Diamond                       0.01  S/SH/SHARYANTO/Tie-Diamond-0.01.tar.gz
+Tie::Diamond                       0.02  S/SH/SHARYANTO/Tie-Diamond-0.02.tar.gz
 Tie::Dict                         undef  J/JA/JAKE/perlrpcgen-0.71a.tar.gz
 Tie::DictFile                      0.03  A/AN/ANUNES/Tie-DictFile-0.03.tar.gz
 Tie::Dir                           1.02  G/GB/GBARR/Tie-Dir-1.02.tar.gz
