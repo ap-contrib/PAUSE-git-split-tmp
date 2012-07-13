@@ -1137,6 +1137,12 @@ Data::UUID::MT,DAGOLDEN,f
 Data::Undump,YVES,f
 Data::Undumper,BRIAN,f
 Data::Uniqid,MWX,f
+Data::Unixish,SHARYANTO,f
+Data::Unixish::CmdLine,SHARYANTO,f
+Data::Unixish::Implementation,SHARYANTO,f
+Data::Unixish::head,SHARYANTO,f
+Data::Unixish::tail,SHARYANTO,f
+Data::Unixish::wc,SHARYANTO,f
 Data::Util,GFUJI,f
 Data::Util::Error,GFUJI,f
 Data::Util::PurePerl,GFUJI,f
