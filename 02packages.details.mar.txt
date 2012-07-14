@@ -298,10 +298,10 @@ Math::Cartesian::Product          1.006  P/PR/PRBRENAN/Math-Cartesian-Product-1.
 Math::CatmullRom                   0.00  W/WI/WIGGLY/Math-CatmullRom-0.00.tar.gz
 Math::CDF                           0.1  C/CA/CALLAHAN/Math-CDF-0.1.tar.gz
 Math::Cephes                       0.47  A/AD/ADOPTME/Math-Cephes-0.47.tar.gz
-Math::Cephes::Complex              0.47  A/AD/ADOPTME/Math-Cephes-0.47.tar.gz
-Math::Cephes::Fraction             0.47  A/AD/ADOPTME/Math-Cephes-0.47.tar.gz
-Math::Cephes::Matrix               0.47  A/AD/ADOPTME/Math-Cephes-0.47.tar.gz
-Math::Cephes::Polynomial           0.47  A/AD/ADOPTME/Math-Cephes-0.47.tar.gz
+Math::Cephes::Complex              0.47  S/SH/SHLOMIF/Math-Cephes-0.48.tar.gz
+Math::Cephes::Fraction             0.47  S/SH/SHLOMIF/Math-Cephes-0.48.tar.gz
+Math::Cephes::Matrix               0.47  S/SH/SHLOMIF/Math-Cephes-0.48.tar.gz
+Math::Cephes::Polynomial           0.47  S/SH/SHLOMIF/Math-Cephes-0.48.tar.gz
 Math::CheckDigits                  0.02  S/SO/SONGMU/Math-CheckDigits-0.02.tar.gz
 Math::Clipper                      1.09  A/AA/AAR/Math-Clipper-1.09.tar.gz
 Math::CMA                           0.1  B/BJ/BJOERN/Math-CMA-0.1.tar.gz
