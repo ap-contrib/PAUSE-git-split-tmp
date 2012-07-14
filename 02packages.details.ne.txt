@@ -448,8 +448,8 @@ Net::SMS::VoipBuster               0.04  M/MO/MOPY/Net-SMS-VoipBuster-0.04.tar.g
 Net::SMS::WAY2SMS                  0.06  A/AD/ADARSHTP/Net-SMS-WAY2SMS-0.06-1.tar.gz
 Net::SMS::Web                     0.015  A/AW/AWRIGLEY/Net-SMS-Web-0.015.tar.gz
 Net::SMS::Web::Action             0.015  A/AW/AWRIGLEY/Net-SMS-Web-0.015.tar.gz
-Net::SMS::WorldText                 1.1  S/SE/SEVEAS/Net-SMS-WorldText-1.1.tar.gz
-Net::SMS::WorldText::Group          1.1  S/SE/SEVEAS/Net-SMS-WorldText-1.1.tar.gz
+Net::SMS::WorldText                 1.3  S/SE/SEVEAS/Net-SMS-WorldText-1.3.tar.gz
+Net::SMS::WorldText::Group          1.3  S/SE/SEVEAS/Net-SMS-WorldText-1.3.tar.gz
 Net::SMTP                          2.31  G/GB/GBARR/libnet-1.22.tar.gz
 Net::SMTP::_SSL_Socket                1  S/SU/SULLR/Net-SSLGlue-1.01.tar.gz
 Net::SMTP::_SSLified                  1  S/SU/SULLR/Net-SSLGlue-1.01.tar.gz
