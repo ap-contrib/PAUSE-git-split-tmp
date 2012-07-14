@@ -754,9 +754,9 @@ Archive::Any                     0.0932  C/CM/CMOORE/Archive-Any-0.0932.tar.gz
 Archive::Any::Create               0.02  M/MI/MIYAGAWA/Archive-Any-Create-0.02.tar.gz
 Archive::Any::Create::Tar         undef  M/MI/MIYAGAWA/Archive-Any-Create-0.02.tar.gz
 Archive::Any::Create::Zip         undef  M/MI/MIYAGAWA/Archive-Any-Create-0.02.tar.gz
-Archive::Any::Lite                 0.02  I/IS/ISHIGAKI/Archive-Any-Lite-0.02.tar.gz
-Archive::Any::Lite::Tar            0.02  I/IS/ISHIGAKI/Archive-Any-Lite-0.02.tar.gz
-Archive::Any::Lite::Zip            0.02  I/IS/ISHIGAKI/Archive-Any-Lite-0.02.tar.gz
+Archive::Any::Lite                 0.03  I/IS/ISHIGAKI/Archive-Any-Lite-0.03.tar.gz
+Archive::Any::Lite::Tar            0.03  I/IS/ISHIGAKI/Archive-Any-Lite-0.03.tar.gz
+Archive::Any::Lite::Zip            0.03  I/IS/ISHIGAKI/Archive-Any-Lite-0.03.tar.gz
 Archive::Any::Plugin              undef  C/CM/CMOORE/Archive-Any-0.0932.tar.gz
 Archive::Any::Plugin::Bzip2        0.01  I/IS/ISHIGAKI/Archive-Any-Plugin-Bzip2-0.01.tar.gz
 Archive::Any::Plugin::Rar          0.01  M/MR/MRGRIPH/Archive-Any-Plugin-Rar-0.01.tar.gz
