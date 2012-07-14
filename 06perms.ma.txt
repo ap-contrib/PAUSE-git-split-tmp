@@ -1,9 +1,10 @@
-Math::Cephes::Polynomial,ADOPTME,f
+Math::Cephes::Polynomial,ADOPTME,c
 Math::Cephes::Polynomial,RKOBES,c
-Math::Cephes::fract,ADOPTME,f
+Math::Cephes::Polynomial,SHLOMIF,f
 Math::Cephes::fract,RKOBES,c
-Math::Cephesc,ADOPTME,f
+Math::Cephes::fract,SHLOMIF,f
 Math::Cephesc,RKOBES,c
+Math::Cephesc,SHLOMIF,f
 Math::CheckDigits,SONGMU,m
 Math::Clipper,AAR,c
 Math::Clipper,SHELDRAKE,c
