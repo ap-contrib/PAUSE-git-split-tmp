@@ -184,6 +184,13 @@ Labyrinth::Writer::Render::CGI,BARBIE,f
 Lang,OESTERHOL,f
 Lang::Dumb,OESTERHOL,f
 Lang::SQL,OESTERHOL,f
+Lang::Tree::Builder,BILLHAILS,f
+Lang::Tree::Builder::Args,BILLHAILS,f
+Lang::Tree::Builder::Class,BILLHAILS,f
+Lang::Tree::Builder::Data,BILLHAILS,f
+Lang::Tree::Builder::Parser,BILLHAILS,f
+Lang::Tree::Builder::Scalar,BILLHAILS,f
+Lang::Tree::Builder::Tokenizer,BILLHAILS,f
 Lang::wxLocale,OESTERHOL,f
 Language::AttributeGrammar,LPALMER,f
 Language::AttributeGrammar::Annotator,LPALMER,f
