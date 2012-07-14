@@ -239,6 +239,7 @@ RedisDB::Parse::Redis,ZWON,f
 RedisDB::Parse::Redis_PP,ZWON,f
 RedisDB::Parse::Redis_XS,ZWON,f
 RedisWithAuthSupport,CELOGEEK,f
+Redmine::Stat,FBORSHEV,f
 Ref,MUIR,m
 Ref::Explicit,PSHANGOV,f
 Ref::List,PSHANGOV,f
