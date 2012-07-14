@@ -41,6 +41,7 @@ Number::FormatEng                  0.01  G/GS/GSULLIVAN/Number-FormatEng-0.01.ta
 Number::Fraction                   1.14  D/DA/DAVECROSS/Number-Fraction-1.14.tar.gz
 Number::Interval                   0.06  T/TJ/TJENNESS/Number-Interval-0.06.tar.gz
 Number::Latin                      1.01  S/SB/SBURKE/Number-Latin-1.01.tar.gz
+Number::Misc                        1.0  M/MI/MIKO/Number-Misc-1.0.tar.gz
 Number::Nary                   1.100311  R/RJ/RJBS/Number-Nary-1.100311.tar.gz
 Number::Natural::SetTheory        0.002  T/TO/TOBYINK/Number-Natural-SetTheory-0.002.tar.gz
 Number::Object                     0.02  Y/YA/YAPPO/Number-Object-0.02.tar.gz

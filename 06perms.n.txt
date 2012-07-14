@@ -180,6 +180,7 @@ Number::FormatEng,GSULLIVAN,f
 Number::Fraction,DAVECROSS,f
 Number::Interval,TJENNESS,f
 Number::Latin,SBURKE,f
+Number::Misc,MIKO,f
 Number::Nary,RJBS,f
 Number::Natural::SetTheory,TOBYINK,f
 Number::Object,YAPPO,f
