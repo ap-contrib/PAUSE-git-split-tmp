@@ -539,6 +539,14 @@ Lib::ModuleSym,RKIES,f
 Lib::ModuleSymbol,RKIES,f
 Lib::Sonypi,GOMOR,f
 Lib::SymbolRef,RKIES,f
+LibCAS::Client,MMORRIS,f
+LibCAS::Client::Response,MMORRIS,f
+LibCAS::Client::Response::AuthenSuccess,MMORRIS,f
+LibCAS::Client::Response::Error,MMORRIS,f
+LibCAS::Client::Response::Failure,MMORRIS,f
+LibCAS::Client::Response::ProxySuccess,MMORRIS,f
+LibCAS::Client::Response::Success,MMORRIS,f
+LibCAS::ModPerl2,MMORRIS,f
 LibEth,DYACOB,f
 LibTracker::Client,GERA,m
 LibTracker::Client::MetaDataTypeDetails,GERA,f
