@@ -283,6 +283,7 @@ Pod::Elemental::Element::Pod5::Verbatim,RJBS,f
 Pod::Elemental::Element::Text,RJBS,f
 Pod::Elemental::Flat,RJBS,f
 Pod::Elemental::FormatRegion,RJBS,f
+Pod::Elemental::MakeSelector,CJM,f
 Pod::Elemental::Nester,RJBS,f
 Pod::Elemental::Node,RJBS,f
 Pod::Elemental::Objectifier,RJBS,f
