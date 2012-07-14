@@ -38,6 +38,8 @@ App::Wubot::Reactor::User,VVU,f
 App::Wubot::Reactor::WebFetch,VVU,f
 App::Wubot::Reactor::WriteFile,VVU,f
 App::Wubot::SQLite,VVU,f
+App::Wubot::Scheduler,VVU,f
+App::Wubot::Util::AgeColor,VVU,f
 App::Wubot::Util::Colors,VVU,f
 App::Wubot::Util::CommandQueue,VVU,f
 App::Wubot::Util::Notifications,VVU,f
@@ -69,6 +71,7 @@ App::Wubot::Web::TivoWeb,VVU,f
 App::Wubot::Web::Tv,VVU,f
 App::Wubot::Web::TvWeb,VVU,f
 App::Wubot::WubotX,VVU,f
+App::Wubot::Wubotrc,VVU,f
 App::Wx::PodEditor,RENEEB,f
 App::Wx::PodEditor::Actions,RENEEB,f
 App::Wx::PodEditor::Actions::Edit,RENEEB,f

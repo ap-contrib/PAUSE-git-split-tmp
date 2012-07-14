@@ -625,11 +625,13 @@ App::Wubot::Plugin::Roles::Plugin,VVU,f
 App::Wubot::Plugin::SQLite,VVU,f
 App::Wubot::Plugin::SafariBookmarks,VVU,f
 App::Wubot::Plugin::SerialPort,VVU,f
+App::Wubot::Plugin::Stdin,VVU,f
 App::Wubot::Plugin::SunRise,VVU,f
 App::Wubot::Plugin::TaskDB,VVU,f
 App::Wubot::Plugin::TaskNotify,VVU,f
 App::Wubot::Plugin::TestCase,VVU,f
 App::Wubot::Plugin::TiVo,VVU,f
+App::Wubot::Plugin::Time,VVU,f
 App::Wubot::Plugin::Twitter,VVU,f
 App::Wubot::Plugin::Uptime,VVU,f
 App::Wubot::Plugin::WebFetch,VVU,f
