@@ -102,9 +102,10 @@ Plack::Recursive::ForwardRequest  undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Request                   0.9989  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Request::Upload            undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Response                  0.9989  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
-Plack::ResponseHelper             undef  K/KO/KOMAROV/Plack-ResponseHelper-0.01.tar.gz
-Plack::ResponseHelper::JSON       undef  K/KO/KOMAROV/Plack-ResponseHelper-0.01.tar.gz
-Plack::ResponseHelper::Text       undef  K/KO/KOMAROV/Plack-ResponseHelper-0.01.tar.gz
+Plack::ResponseHelper             undef  K/KO/KOMAROV/Plack-ResponseHelper-0.02.tar.gz
+Plack::ResponseHelper::Attachment undef  K/KO/KOMAROV/Plack-ResponseHelper-0.02.tar.gz
+Plack::ResponseHelper::JSON       undef  K/KO/KOMAROV/Plack-ResponseHelper-0.02.tar.gz
+Plack::ResponseHelper::Text       undef  K/KO/KOMAROV/Plack-ResponseHelper-0.02.tar.gz
 Plack::Runner                     undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Server                     undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
 Plack::Server::AnyEvent            0.04  M/MI/MIYAGAWA/Plack-Server-AnyEvent-0.04.tar.gz

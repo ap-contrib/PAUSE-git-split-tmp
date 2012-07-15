@@ -128,6 +128,7 @@ Plack::Request::BodyParser,MIYAGAWA,f
 Plack::Request::Upload,MIYAGAWA,f
 Plack::Response,MIYAGAWA,f
 Plack::ResponseHelper,KOMAROV,m
+Plack::ResponseHelper::Attachment,KOMAROV,f
 Plack::ResponseHelper::JSON,KOMAROV,f
 Plack::ResponseHelper::Text,KOMAROV,f
 Plack::Runner,MIYAGAWA,f
