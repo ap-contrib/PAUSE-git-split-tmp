@@ -936,6 +936,7 @@ CGI::Session::Serialize::freezethaw,SHERZODR,f
 CGI::Session::Serialize::json,MARKSTOS,f
 CGI::Session::Serialize::json,RSAVAGE,c
 CGI::Session::Serialize::json,SHERZODR,c
+CGI::Session::Serialize::php,KAOSAGNT,f
 CGI::Session::Serialize::sql_abstract,MARKSTOS,f
 CGI::Session::Serialize::storable,MARKSTOS,c
 CGI::Session::Serialize::storable,MLEBLANC,c
