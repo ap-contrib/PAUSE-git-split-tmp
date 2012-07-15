@@ -220,7 +220,7 @@ WWW::AdServer::Logger::Text        0.01  N/NW/NWETTERS/WWW-AdServer-0.02.tar.gz
 WWW::AdventCalendar               1.108  R/RJ/RJBS/WWW-AdventCalendar-1.108.tar.gz
 WWW::AdventCalendar::Article      1.108  R/RJ/RJBS/WWW-AdventCalendar-1.108.tar.gz
 WWW::AdventCalendar::Config       1.108  R/RJ/RJBS/WWW-AdventCalendar-1.108.tar.gz
-WWW::AfinimaKi                     0.83  M/MA/MATIU/WWW-AfinimaKi-0.83.tar.gz
+WWW::AfinimaKi                     0.84  M/MA/MATIU/WWW-AfinimaKi-0.84.tar.gz
 WWW::Agent                         0.03  D/DR/DRRHO/WWW-Agent-0.03.tar.gz
 WWW::Agent::Plugins                0.01  D/DR/DRRHO/WWW-Agent-0.03.tar.gz
 WWW::Agent::Plugins::Director      0.02  D/DR/DRRHO/WWW-Agent-0.03.tar.gz
