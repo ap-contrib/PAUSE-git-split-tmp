@@ -470,6 +470,7 @@ Math::Prime::FastSieve,DAVIDO,m
 Math::Prime::Simple,SCHUBIGER,f
 Math::Prime::TiedArray,ZIGDON,m
 Math::Prime::Util,DANAJ,m
+Math::Prime::Util::GMP,DANAJ,f
 Math::Prime::Util::MemFree,DANAJ,f
 Math::Prime::Util::PP,DANAJ,f
 Math::Prime::Util::PrimeArray,DANAJ,f
