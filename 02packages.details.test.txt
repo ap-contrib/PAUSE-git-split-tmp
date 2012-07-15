@@ -945,7 +945,7 @@ Text::Filter                        1.9  J/JV/JV/Text-Filter-1.9.tar.gz
 Text::Filter::Chain                0.02  W/WI/WIMV/Text-Filter-Chain-0.02.tar.gz
 Text::Filter::Cooked               0.02  J/JV/JV/Text-Filter-1.9.tar.gz
 Text::Filter::Froggy                0.0  V/VV/VVELOX/Text-Filter-Froggy-0.0.0.tar.gz
-Text::Filter::URI                  0.02  P/PE/PERLER/Text-Filter-URI-0.02.tar.gz
+Text::Filter::URI                  0.03  P/PE/PERLER/Text-Filter-URI-0.03.tar.gz
 Text::Find::Scalar                 0.05  R/RE/RENEEB/Text-Find-Scalar-0.05.tar.gz
 Text::FindIndent                   0.10  S/SM/SMUELLER/Text-FindIndent-0.10.tar.gz
 Text::FindLinks                    0.04  Z/ZO/ZOUL/Text-FindLinks-0.04.tar.gz
