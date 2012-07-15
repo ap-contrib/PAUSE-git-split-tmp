@@ -181,7 +181,7 @@ WWW::TV::Episode                   0.14  T/TI/TIGRIS/WWW-TV-0.14.tar.gz
 WWW::TV::Series                    0.14  T/TI/TIGRIS/WWW-TV-0.14.tar.gz
 WWW::TwentyQuestions               0.01  K/KI/KIRSLE/WWW-TwentyQuestions-0.01.zip
 WWW::TWikiClient                   0.11  S/SC/SCHWIGON/twikiclient/WWW-TWikiClient-0.11.tar.gz
-WWW::Twilio::API                   0.16  S/SC/SCOTTW/WWW-Twilio-API-0.16.tar.gz
+WWW::Twilio::API                   0.17  S/SC/SCOTTW/WWW-Twilio-API-0.17.tar.gz
 WWW::Twilio::TwiML                 1.05  S/SC/SCOTTW/WWW-Twilio-TwiML-1.05.tar.gz
 WWW::Twitpic                       0.02  D/DI/DIEGOK/WWW-Twitpic-0.02.tar.gz
 WWW::Twitpic::API                  0.01  D/DI/DIEGOK/WWW-Twitpic-0.02.tar.gz
