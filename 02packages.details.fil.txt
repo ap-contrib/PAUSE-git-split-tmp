@@ -156,7 +156,7 @@ Finance::Bank::Natwest::CredentialsProvider::Constant 0.03  K/KN/KNEW/Finance-Ba
 Finance::Bank::NetBranch           0.07  K/KU/KULP/Finance-Bank-NetBranch-0.07.tar.gz
 Finance::Bank::NetBranch::Account  0.07  K/KU/KULP/Finance-Bank-NetBranch-0.07.tar.gz
 Finance::Bank::NetBranch::Transaction 0.07  K/KU/KULP/Finance-Bank-NetBranch-0.07.tar.gz
-Finance::Bank::NFCU                0.16  D/DY/DYLAN/Finance-Bank-NFCU-0.16.tar.gz
+Finance::Bank::NFCU                0.17  D/DY/DYLAN/Finance-Bank-NFCU-0.17.tar.gz
 Finance::Bank::NL::CLIEOP03        0.03  Z/ZE/ZEBAZ/Finance-Bank-NL-CLIEOP03-0.03.tar.gz
 Finance::Bank::NL::CLIEOP03::Batch 0.03  Z/ZE/ZEBAZ/Finance-Bank-NL-CLIEOP03-0.03.tar.gz
 Finance::Bank::PNC                 0.01  A/AR/ARMSTRONG/PNC-0.01.tar.gz
