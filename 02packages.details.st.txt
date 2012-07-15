@@ -76,7 +76,7 @@ Sub::Contract::Pool                0.12  E/ER/ERWAN/Sub-Contract-0.12.tar.gz
 Sub::Current                       0.02  R/RG/RGARCIA/Sub-Current-0.02.tar.gz
 Sub::Curried                       0.11  O/OS/OSFAMERON/Sub-Curried-0.11.tar.gz
 Sub::Curry                          0.8  L/LO/LODIN/Sub-Curry-0.8.tar.gz
-Sub::Defer                        undef  M/MS/MSTROUT/Moo-0.091011.tar.gz
+Sub::Defer                        undef  M/MI/MITHALDU/Moo-0.091012.tar.gz
 Sub::DeferredPartial               0.01  S/SG/SGOELDNER/Sub-DeferredPartial-0.01.tar.gz
 Sub::DeferredPartial::Attributes   0.01  S/SG/SGOELDNER/Sub-DeferredPartial-0.01.tar.gz
 Sub::DeferredPartial::Op::Binary   0.01  S/SG/SGOELDNER/Sub-DeferredPartial-0.01.tar.gz
@@ -128,7 +128,7 @@ Sub::Prepend                       0.01  L/LO/LODIN/Sub-Prepend-0.01.tar.gz
 Sub::Private                       0.01  P/PM/PMAKHOLM/Sub-Private-0.01.tar.gz
 Sub::Prototype                     0.02  F/FL/FLORA/Sub-Prototype-0.02.tar.gz
 Sub::Prototype::Util               0.10  V/VP/VPIT/Sub-Prototype-Util-0.10.tar.gz
-Sub::Quote                        undef  M/MS/MSTROUT/Moo-0.091011.tar.gz
+Sub::Quote                        undef  M/MI/MITHALDU/Moo-0.091012.tar.gz
 Sub::Quotelike                     0.03  R/RG/RGARCIA/Sub-Quotelike-0.03.tar.gz
 Sub::Recursive                     0.03  L/LO/LODIN/Sub-Recursive-0.03.tar.gz
 Sub::Regex                         0.02  X/XE/XERN/Sub-Regex-0.02.tar.gz

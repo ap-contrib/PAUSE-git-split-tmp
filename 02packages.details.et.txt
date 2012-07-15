@@ -238,9 +238,9 @@ example_4                         undef  R/RD/RDICE/CGI-Application-Framework-0.
 example_5                         undef  R/RD/RDICE/CGI-Application-Framework-0.23.tar.gz
 examplec                          undef  D/DB/DBEAZLEY/swig1.1p5.tar.gz
 ExampleHelpers                    undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
-ExampleMooRoleWithAttribute       undef  M/MS/MSTROUT/Moo-0.091011.tar.gz
-ExampleMooseRoleOne               undef  M/MS/MSTROUT/Moo-0.091011.tar.gz
-ExampleMooseRoleTwo               undef  M/MS/MSTROUT/Moo-0.091011.tar.gz
+ExampleMooRoleWithAttribute       undef  M/MI/MITHALDU/Moo-0.091012.tar.gz
+ExampleMooseRoleOne               undef  M/MI/MITHALDU/Moo-0.091012.tar.gz
+ExampleMooseRoleTwo               undef  M/MI/MITHALDU/Moo-0.091012.tar.gz
 ExampleObject                     undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 examples::MiddleWare              undef  Y/YA/YAPPO/HTTP-Engine-0.0.11.tar.gz
 Excel::Template                    0.34  R/RB/RBO/Excel-Template-0.34.tar.gz
