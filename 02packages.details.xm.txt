@@ -514,7 +514,7 @@ XML::Parser::Expat                 2.41  T/TO/TODDR/XML-Parser-2.41.tar.gz
 XML::Parser::ExpatNB               2.36  M/MS/MSERGEANT/XML-Parser-2.36.tar.gz
 XML::Parser::GlobEvents           0.400  B/BA/BARTL/XML-Parser-GlobEvents-0.400.tar.gz
 XML::Parser::Grove                undef  K/KM/KMACLEOD/XML-Grove-0.05.tar.gz
-XML::Parser::Lite                 0.714  M/MK/MKUTTER/SOAP-Lite-0.714.tar.gz
+XML::Parser::Lite                 0.715  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 XML::Parser::Lite::Tree            0.14  I/IA/IAMCAL/XML-Parser-Lite-Tree-0.14.tar.gz
 XML::Parser::Lite::Tree::XPath     0.24  I/IA/IAMCAL/XML-Parser-Lite-Tree-XPath-0.24.tar.gz
 XML::Parser::Lite::Tree::XPath::Axis undef  I/IA/IAMCAL/XML-Parser-Lite-Tree-XPath-0.24.tar.gz

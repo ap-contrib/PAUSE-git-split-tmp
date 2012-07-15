@@ -176,7 +176,7 @@ Apache::Wyrd::View                 0.98  W/WY/WYRD/Apache-Wyrd-0.98.tar.gz
 Apache::XAO                       2.001  A/AM/AMALTSEV/XAO-Web-1.07.tar.gz
 Apache::XBEL                        1.3  A/AS/ASCOPE/Apache-XBEL-1.3.tar.gz
 Apache::XMLRPC                    undef  K/KM/KMACLEOD/Frontier-RPC-0.07b4.tar.gz
-Apache::XMLRPC::Lite              0.714  M/MK/MKUTTER/SOAP-Lite-0.714.tar.gz
+Apache::XMLRPC::Lite              0.715  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 Apache::XPointer                    1.1  A/AS/ASCOPE/Apache-XPointer-1.1.tar.gz
 Apache::XPointer::RDQL              1.1  A/AS/ASCOPE/Apache-XPointer-RDQL-1.1.tar.gz
 Apache::XPointer::RDQL::Parser      1.1  A/AS/ASCOPE/Apache-XPointer-RDQL-1.1.tar.gz
