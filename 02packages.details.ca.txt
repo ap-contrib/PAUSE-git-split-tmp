@@ -268,7 +268,7 @@ Catalyst::Plugin::I18N::PathPrefix 0.07  M/ME/MENDEL/Catalyst-Plugin-I18N-PathPr
 Catalyst::Plugin::I18N::Request    0.07  B/BR/BRICAS/Catalyst-Plugin-I18N-Request-0.07.tar.gz
 Catalyst::Plugin::Imager           0.01  D/DA/DAMBAR/Catalyst-Plugin-Imager-0.01.tar.gz
 Catalyst::Plugin::Images           0.02  B/BO/BOBTFISH/Catalyst-Plugin-Images-0.02.tar.gz
-Catalyst::Plugin::InflateMore   v0.4.78  P/PJ/PJFL/catalyst-plugin-inflatemore/Catalyst-Plugin-InflateMore-0.4.78.tar.gz
+Catalyst::Plugin::InflateMore   v0.4.81  P/PJ/PJFL/catalyst-plugin-inflatemore/Catalyst-Plugin-InflateMore-0.4.81.tar.gz
 Catalyst::Plugin::JSONRPC          0.01  M/MI/MIYAGAWA/Catalyst-Plugin-JSONRPC-0.01.tar.gz
 Catalyst::Plugin::LeakTracker      0.03  N/NU/NUFFIN/Catalyst-Plugin-LeakTracker-0.03.tar.gz
 Catalyst::Plugin::Localize::Simple  1.1  W/WE/WEHR/Catalyst-Plugin-Localize-Simple-1.1.tar.gz
