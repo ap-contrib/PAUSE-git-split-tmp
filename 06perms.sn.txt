@@ -20,6 +20,7 @@ SNMP::Info::Layer3::Pf,CVICENTE,c
 SNMP::Info::Layer3::Pf,EMILLER,c
 SNMP::Info::Layer3::Pf,MAXB,f
 SNMP::Info::Layer3::Pf,OLIVER,c
+SNMP::Info::Layer3::SonicWALL,OLIVER,f
 SNMP::Info::Layer3::Sun,CVICENTE,c
 SNMP::Info::Layer3::Sun,EMILLER,c
 SNMP::Info::Layer3::Sun,MAXB,f
@@ -28,6 +29,8 @@ SNMP::Info::Layer3::Timetra,CVICENTE,c
 SNMP::Info::Layer3::Timetra,EMILLER,c
 SNMP::Info::Layer3::Timetra,MAXB,f
 SNMP::Info::Layer3::Timetra,OLIVER,c
+SNMP::Info::Layer7,OLIVER,f
+SNMP::Info::Layer7::APC,OLIVER,f
 SNMP::Info::MAU,CVICENTE,c
 SNMP::Info::MAU,EMILLER,c
 SNMP::Info::MAU,MAXB,f
