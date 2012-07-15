@@ -189,7 +189,7 @@ Class::User::DBI::RolePrivileges   0.03  D/DA/DAVIDO/Class-User-DBI-0.03.tar.gz
 Class::User::DBI::Roles            0.03  D/DA/DAVIDO/Class-User-DBI-0.03.tar.gz
 Class::User::DBI::UserDomains      0.03  D/DA/DAVIDO/Class-User-DBI-0.03.tar.gz
 Class::Util                         2.3  S/SK/SKNPP/OOTools-2.3.tar.gz
-Class::Utils                       0.02  S/SK/SKIM/Class-Utils-0.02.tar.gz
+Class::Utils                       0.03  S/SK/SKIM/Class-Utils-0.03.tar.gz
 Class::Validating                  0.02  D/DM/DMAKI/Class-Validating-0.02.tar.gz
 Class::Value                   1.100840  M/MA/MARCEL/Class-Value-1.100840.tar.gz
 Class::Value::Boolean          1.100840  M/MA/MARCEL/Class-Value-1.100840.tar.gz
