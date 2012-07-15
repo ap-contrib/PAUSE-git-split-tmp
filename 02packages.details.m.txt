@@ -538,7 +538,7 @@ namespace::autoclean               0.13  B/BO/BOBTFISH/namespace-autoclean-0.13.
 namespace::clean                   0.23  R/RI/RIBASUSHI/namespace-clean-0.23.tar.gz
 namespace::clean::_ScopeGuard      0.21  R/RI/RIBASUSHI/namespace-clean-0.21.tar.gz
 namespace::clean::_TieHintHash     0.21  R/RI/RIBASUSHI/namespace-clean-0.21.tar.gz
-Namespace::Dispatch                0.03  S/SH/SHELLING/Namespace-Dispatch-0.03.tar.gz
+Namespace::Dispatch                0.04  S/SH/SHELLING/Namespace-Dispatch-0.04.tar.gz
 namespace::functions             0.0101  D/DE/DEXTER/namespace-functions-0.0101.tar.gz
 namespace::sweep                  0.004  F/FR/FRIEDO/namespace-sweep-0.004.tar.gz
 Nana::Parser                       0.22  T/TO/TOKUHIROM/nana-0.22.tar.gz
