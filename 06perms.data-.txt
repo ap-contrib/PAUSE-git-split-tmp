@@ -16,6 +16,7 @@ Data::Query,ETHER,c
 Data::Query,FLORA,c
 Data::Query,FREW,c
 Data::Query,JJNAPIORK,c
+Data::Query,MITHALDU,c
 Data::Query,MSTROUT,f
 Data::Query,RIBASUSHI,c
 Data::Query,RKINYON,c
@@ -609,6 +610,7 @@ Data::Store,ETHER,c
 Data::Store,FLORA,c
 Data::Store,FREW,c
 Data::Store,JJNAPIORK,c
+Data::Store,MITHALDU,c
 Data::Store,MSTROUT,f
 Data::Store,RIBASUSHI,c
 Data::Store,RKINYON,c
@@ -625,6 +627,7 @@ Data::Stream,ETHER,c
 Data::Stream,FLORA,c
 Data::Stream,FREW,c
 Data::Stream,JJNAPIORK,c
+Data::Stream,MITHALDU,c
 Data::Stream,MSTROUT,f
 Data::Stream,RIBASUSHI,c
 Data::Stream,RKINYON,c

@@ -290,6 +290,7 @@ lib::core::only,FLORA,c
 lib::core::only,FREW,c
 lib::core::only,GETTY,c
 lib::core::only,JJNAPIORK,c
+lib::core::only,MITHALDU,c
 lib::core::only,MSTROUT,f
 lib::core::only,RIBASUSHI,c
 lib::core::only,SSCAFFIDI,c
@@ -347,6 +348,7 @@ local::lib,GETTY,c
 local::lib,GRODITI,c
 local::lib,JJNAPIORK,c
 local::lib,LSAUNDERS,c
+local::lib,MITHALDU,c
 local::lib,MSTROUT,f
 local::lib,PERIGRIN,c
 local::lib,RIBASUSHI,c
@@ -620,6 +622,7 @@ oo,EDENC,c
 oo,ETHER,c
 oo,FLORA,c
 oo,JJNAPIORK,c
+oo,MITHALDU,c
 oo,MSTROUT,f
 oo,RIBASUSHI,c
 oo,SSCAFFIDI,c

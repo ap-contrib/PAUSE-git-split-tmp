@@ -33,6 +33,7 @@ DBIx::Class::Schema::Journal::DB::ChangeLog,ETHER,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,FLORA,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,FREW,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,JJNAPIORK,c
+DBIx::Class::Schema::Journal::DB::ChangeLog,MITHALDU,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,MSTROUT,f
 DBIx::Class::Schema::Journal::DB::ChangeLog,RIBASUSHI,c
 DBIx::Class::Schema::Journal::DB::ChangeLog,SSCAFFIDI,c

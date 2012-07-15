@@ -23,6 +23,7 @@ Eval::WithLexicals,EDENC,c
 Eval::WithLexicals,ETHER,c
 Eval::WithLexicals,FLORA,c
 Eval::WithLexicals,JJNAPIORK,c
+Eval::WithLexicals,MITHALDU,c
 Eval::WithLexicals,MSTROUT,f
 Eval::WithLexicals,RIBASUSHI,c
 Eval::WithLexicals,WSHELDAHL,c
@@ -33,6 +34,7 @@ Eval::WithLexicals::Util,EDENC,c
 Eval::WithLexicals::Util,ETHER,c
 Eval::WithLexicals::Util,FLORA,c
 Eval::WithLexicals::Util,JJNAPIORK,c
+Eval::WithLexicals::Util,MITHALDU,c
 Eval::WithLexicals::Util,MSTROUT,f
 Eval::WithLexicals::Util,RIBASUSHI,c
 Eval::WithLexicals::Util,WSHELDAHL,c
@@ -43,6 +45,7 @@ Eval::WithLexicals::VarScope,EDENC,c
 Eval::WithLexicals::VarScope,ETHER,c
 Eval::WithLexicals::VarScope,FLORA,c
 Eval::WithLexicals::VarScope,JJNAPIORK,c
+Eval::WithLexicals::VarScope,MITHALDU,c
 Eval::WithLexicals::VarScope,MSTROUT,f
 Eval::WithLexicals::VarScope,RIBASUSHI,c
 Eval::WithLexicals::VarScope,WSHELDAHL,c
@@ -200,10 +203,13 @@ Example::config,LUSHE,f
 ExampleHelpers,RCAPUTO,f
 ExampleMap,ACDALTON,f
 ExampleMooRoleWithAttribute,APEIRON,c
+ExampleMooRoleWithAttribute,MITHALDU,c
 ExampleMooRoleWithAttribute,MSTROUT,f
 ExampleMooseRoleOne,APEIRON,c
+ExampleMooseRoleOne,MITHALDU,c
 ExampleMooseRoleOne,MSTROUT,f
 ExampleMooseRoleTwo,APEIRON,c
+ExampleMooseRoleTwo,MITHALDU,c
 ExampleMooseRoleTwo,MSTROUT,f
 ExampleObject,RCAPUTO,f
 ExampleProject,LUSHE,f

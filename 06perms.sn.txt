@@ -686,6 +686,7 @@ SQL::Abstract,ETHER,c
 SQL::Abstract,FLORA,c
 SQL::Abstract,FREW,c
 SQL::Abstract,JJNAPIORK,c
+SQL::Abstract,MITHALDU,c
 SQL::Abstract,MSTROUT,m
 SQL::Abstract,NWIGER,c
 SQL::Abstract,RIBASUSHI,c
@@ -721,6 +722,7 @@ SQL::Abstract::Test,FLORA,c
 SQL::Abstract::Test,FREW,c
 SQL::Abstract::Test,GRODITI,c
 SQL::Abstract::Test,JJNAPIORK,c
+SQL::Abstract::Test,MITHALDU,c
 SQL::Abstract::Test,MSTROUT,f
 SQL::Abstract::Test,RIBASUSHI,c
 SQL::Abstract::Test,RKINYON,c
@@ -735,6 +737,7 @@ SQL::Abstract::Tree,ETHER,c
 SQL::Abstract::Tree,FLORA,c
 SQL::Abstract::Tree,FREW,c
 SQL::Abstract::Tree,JJNAPIORK,c
+SQL::Abstract::Tree,MITHALDU,c
 SQL::Abstract::Tree,MSTROUT,f
 SQL::Abstract::Tree,RIBASUSHI,c
 SQL::Abstract::Tree,SSCAFFIDI,c

@@ -315,6 +315,7 @@ App::TailRabbit::Growl,RIBASUSHI,c
 App::Tak,APEIRON,c
 App::Tak,ETHER,c
 App::Tak,JJNAPIORK,c
+App::Tak,MITHALDU,c
 App::Tak,MSTROUT,f
 App::Tak,WSHELDAHL,c
 App::TarColor,MSABRAMO,m

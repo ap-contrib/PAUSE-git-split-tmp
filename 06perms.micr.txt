@@ -1387,6 +1387,7 @@ Module::Install::Catalyst,EDENC,c
 Module::Install::Catalyst,ETHER,c
 Module::Install::Catalyst,FLORA,c
 Module::Install::Catalyst,JJNAPIORK,c
+Module::Install::Catalyst,MITHALDU,c
 Module::Install::Catalyst,MSTROUT,f
 Module::Install::Catalyst,RIBASUSHI,c
 Module::Install::Catalyst,SSCAFFIDI,c
@@ -1646,6 +1647,7 @@ Module::Metadata,EDENC,c
 Module::Metadata,ETHER,c
 Module::Metadata,FLORA,c
 Module::Metadata,JJNAPIORK,c
+Module::Metadata,MITHALDU,c
 Module::Metadata,MSTROUT,f
 Module::Metadata,RIBASUSHI,c
 Module::Metadata,SSCAFFIDI,c
@@ -1663,6 +1665,7 @@ Module::Metadata::Version,EDENC,c
 Module::Metadata::Version,ETHER,c
 Module::Metadata::Version,FLORA,c
 Module::Metadata::Version,JJNAPIORK,c
+Module::Metadata::Version,MITHALDU,c
 Module::Metadata::Version,MSTROUT,f
 Module::Metadata::Version,RIBASUSHI,c
 Module::Metadata::Version,SSCAFFIDI,c

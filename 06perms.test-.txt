@@ -618,6 +618,7 @@ Test::WWW::Mechanize::Catalyst,FREW,c
 Test::WWW::Mechanize::Catalyst,GRODITI,c
 Test::WWW::Mechanize::Catalyst,JJNAPIORK,c
 Test::WWW::Mechanize::Catalyst,LBROCARD,c
+Test::WWW::Mechanize::Catalyst,MITHALDU,c
 Test::WWW::Mechanize::Catalyst,MSTROUT,f
 Test::WWW::Mechanize::Catalyst,RIBASUSHI,c
 Test::WWW::Mechanize::Catalyst,RKINYON,c
@@ -636,6 +637,7 @@ Test::WWW::Mechanize::Catalyst::Aux,FREW,c
 Test::WWW::Mechanize::Catalyst::Aux,GRODITI,c
 Test::WWW::Mechanize::Catalyst::Aux,JJNAPIORK,c
 Test::WWW::Mechanize::Catalyst::Aux,LBROCARD,c
+Test::WWW::Mechanize::Catalyst::Aux,MITHALDU,c
 Test::WWW::Mechanize::Catalyst::Aux,MSTROUT,f
 Test::WWW::Mechanize::Catalyst::Aux,RIBASUSHI,c
 Test::WWW::Mechanize::Catalyst::Aux,RKINYON,c
@@ -889,6 +891,7 @@ TestApp::Model::SomeClass,RIBASUSHI,c
 TestAutoload,KRYDE,f
 TestBed,DCONWAY,f
 TestBed6,DCONWAY,f
+TestBridge,MITHALDU,c
 TestBridge,MSTROUT,f
 TestBusted1,BWARFIELD,f
 TestBusted2,BWARFIELD,f
@@ -904,6 +907,7 @@ TestChunks,AUDREYT,f
 TestChunks,AUTRIJUS,c
 TestChunks,JESSE,c
 TestChunks,NUFFIN,c
+TestClass,MITHALDU,c
 TestClass,MSTROUT,f
 TestCompiler,SFINK,f
 TestConfig,TBONE,f
@@ -911,6 +915,7 @@ TestConstants,BIGJ,f
 TestCoverage::MyTestModule,RENEEB,f
 TestData,BARBIE,f
 TestFile,CHIPS,f
+TestFindUser,MITHALDU,c
 TestFindUser,MSTROUT,f
 TestFramework,JDB,f
 TestFuncs,CJM,f

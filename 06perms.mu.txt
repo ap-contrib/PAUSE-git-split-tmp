@@ -361,6 +361,7 @@ MyDatabase::Main,ETHER,c
 MyDatabase::Main,FLORA,c
 MyDatabase::Main,FREW,c
 MyDatabase::Main,JJNAPIORK,c
+MyDatabase::Main,MITHALDU,c
 MyDatabase::Main,MSTROUT,f
 MyDatabase::Main,RIBASUSHI,c
 MyDatabase::Main,SSCAFFIDI,c
@@ -375,6 +376,7 @@ MyDatabase::Main::Result::Artist,ETHER,c
 MyDatabase::Main::Result::Artist,FLORA,c
 MyDatabase::Main::Result::Artist,FREW,c
 MyDatabase::Main::Result::Artist,JJNAPIORK,c
+MyDatabase::Main::Result::Artist,MITHALDU,c
 MyDatabase::Main::Result::Artist,MSTROUT,f
 MyDatabase::Main::Result::Artist,RIBASUSHI,c
 MyDatabase::Main::Result::Artist,SSCAFFIDI,c
@@ -389,6 +391,7 @@ MyDatabase::Main::Result::Cd,ETHER,c
 MyDatabase::Main::Result::Cd,FLORA,c
 MyDatabase::Main::Result::Cd,FREW,c
 MyDatabase::Main::Result::Cd,JJNAPIORK,c
+MyDatabase::Main::Result::Cd,MITHALDU,c
 MyDatabase::Main::Result::Cd,MSTROUT,f
 MyDatabase::Main::Result::Cd,RIBASUSHI,c
 MyDatabase::Main::Result::Cd,SSCAFFIDI,c
@@ -403,6 +406,7 @@ MyDatabase::Main::Result::Track,ETHER,c
 MyDatabase::Main::Result::Track,FLORA,c
 MyDatabase::Main::Result::Track,FREW,c
 MyDatabase::Main::Result::Track,JJNAPIORK,c
+MyDatabase::Main::Result::Track,MITHALDU,c
 MyDatabase::Main::Result::Track,MSTROUT,f
 MyDatabase::Main::Result::Track,RIBASUSHI,c
 MyDatabase::Main::Result::Track,SSCAFFIDI,c
@@ -661,6 +665,7 @@ MyTest::HasAttrs,FREW,c
 MyTest::HasAttrs,GRODITI,c
 MyTest::HasAttrs,JJNAPIORK,c
 MyTest::HasAttrs,LSAUNDERS,c
+MyTest::HasAttrs,MITHALDU,c
 MyTest::HasAttrs,MSTROUT,f
 MyTest::HasAttrs,RIBASUSHI,c
 MyTest::HasAttrs,RKINYON,c
@@ -679,6 +684,7 @@ MyTest::MultiChild,FREW,c
 MyTest::MultiChild,GRODITI,c
 MyTest::MultiChild,JJNAPIORK,c
 MyTest::MultiChild,LSAUNDERS,c
+MyTest::MultiChild,MITHALDU,c
 MyTest::MultiChild,MSTROUT,f
 MyTest::MultiChild,RIBASUSHI,c
 MyTest::MultiChild,RKINYON,c
@@ -712,6 +718,7 @@ MyTest::SingleChild,FREW,c
 MyTest::SingleChild,GRODITI,c
 MyTest::SingleChild,JJNAPIORK,c
 MyTest::SingleChild,LSAUNDERS,c
+MyTest::SingleChild,MITHALDU,c
 MyTest::SingleChild,MSTROUT,f
 MyTest::SingleChild,RIBASUSHI,c
 MyTest::SingleChild,RKINYON,c
@@ -730,6 +737,7 @@ MyTest::SuperAttrs,FREW,c
 MyTest::SuperAttrs,GRODITI,c
 MyTest::SuperAttrs,JJNAPIORK,c
 MyTest::SuperAttrs,LSAUNDERS,c
+MyTest::SuperAttrs,MITHALDU,c
 MyTest::SuperAttrs,MSTROUT,f
 MyTest::SuperAttrs,RIBASUSHI,c
 MyTest::SuperAttrs,RKINYON,c
@@ -748,6 +756,7 @@ MyTest::TopNode,FREW,c
 MyTest::TopNode,GRODITI,c
 MyTest::TopNode,JJNAPIORK,c
 MyTest::TopNode,LSAUNDERS,c
+MyTest::TopNode,MITHALDU,c
 MyTest::TopNode,MSTROUT,f
 MyTest::TopNode,RIBASUSHI,c
 MyTest::TopNode,RKINYON,c

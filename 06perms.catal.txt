@@ -36,6 +36,7 @@ Catalyst::View::HTML::Template,ETHER,c
 Catalyst::View::HTML::Template,FLORA,c
 Catalyst::View::HTML::Template,FREW,c
 Catalyst::View::HTML::Template,JJNAPIORK,c
+Catalyst::View::HTML::Template,MITHALDU,c
 Catalyst::View::HTML::Template,MRAMBERG,c
 Catalyst::View::HTML::Template,MSTROUT,f
 Catalyst::View::HTML::Template,RIBASUSHI,c
@@ -70,6 +71,7 @@ Catalyst::View::Mason,FLORA,c
 Catalyst::View::Mason,FREW,c
 Catalyst::View::Mason,JJNAPIORK,c
 Catalyst::View::Mason,JROCKWAY,c
+Catalyst::View::Mason,MITHALDU,c
 Catalyst::View::Mason,MRAMBERG,c
 Catalyst::View::Mason,MSTROUT,f
 Catalyst::View::Mason,RIBASUSHI,c
@@ -101,6 +103,7 @@ Catalyst::View::PSP,FLORA,c
 Catalyst::View::PSP,FREW,c
 Catalyst::View::PSP,JJNAPIORK,c
 Catalyst::View::PSP,JROCKWAY,c
+Catalyst::View::PSP,MITHALDU,c
 Catalyst::View::PSP,MRAMBERG,c
 Catalyst::View::PSP,MSTROUT,f
 Catalyst::View::PSP,RIBASUSHI,c
@@ -118,6 +121,7 @@ Catalyst::View::Petal,ETHER,c
 Catalyst::View::Petal,FLORA,c
 Catalyst::View::Petal,FREW,c
 Catalyst::View::Petal,JJNAPIORK,c
+Catalyst::View::Petal,MITHALDU,c
 Catalyst::View::Petal,MRAMBERG,c
 Catalyst::View::Petal,MSTROUT,f
 Catalyst::View::Petal,RIBASUSHI,c
@@ -137,6 +141,7 @@ Catalyst::View::REST::XML,FLORA,c
 Catalyst::View::REST::XML,FREW,c
 Catalyst::View::REST::XML,JJNAPIORK,c
 Catalyst::View::REST::XML,KRAIH,c
+Catalyst::View::REST::XML,MITHALDU,c
 Catalyst::View::REST::XML,MRAMBERG,c
 Catalyst::View::REST::XML,MSTROUT,f
 Catalyst::View::REST::XML,RIBASUSHI,c
@@ -154,6 +159,7 @@ Catalyst::View::REST::YAML,FLORA,c
 Catalyst::View::REST::YAML,FREW,c
 Catalyst::View::REST::YAML,JJNAPIORK,c
 Catalyst::View::REST::YAML,KRAIH,c
+Catalyst::View::REST::YAML,MITHALDU,c
 Catalyst::View::REST::YAML,MRAMBERG,c
 Catalyst::View::REST::YAML,MSTROUT,f
 Catalyst::View::REST::YAML,RIBASUSHI,c
@@ -182,6 +188,7 @@ Catalyst::View::TT,FLORA,c
 Catalyst::View::TT,FREW,c
 Catalyst::View::TT,JJNAPIORK,c
 Catalyst::View::TT,LSAUNDERS,c
+Catalyst::View::TT,MITHALDU,c
 Catalyst::View::TT,MRAMBERG,c
 Catalyst::View::TT,MSTROUT,m
 Catalyst::View::TT,RIBASUSHI,c

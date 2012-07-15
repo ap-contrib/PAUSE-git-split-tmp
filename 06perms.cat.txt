@@ -19,6 +19,7 @@ Catalyst::Plugin::FillInForm,ETHER,c
 Catalyst::Plugin::FillInForm,FLORA,c
 Catalyst::Plugin::FillInForm,FREW,c
 Catalyst::Plugin::FillInForm,JJNAPIORK,c
+Catalyst::Plugin::FillInForm,MITHALDU,c
 Catalyst::Plugin::FillInForm,MRAMBERG,c
 Catalyst::Plugin::FillInForm,MSTROUT,f
 Catalyst::Plugin::FillInForm,RIBASUSHI,c
@@ -50,6 +51,7 @@ Catalyst::Plugin::FormValidator,ETHER,c
 Catalyst::Plugin::FormValidator,FLORA,c
 Catalyst::Plugin::FormValidator,FREW,c
 Catalyst::Plugin::FormValidator,JJNAPIORK,c
+Catalyst::Plugin::FormValidator,MITHALDU,c
 Catalyst::Plugin::FormValidator,MRAMBERG,c
 Catalyst::Plugin::FormValidator,MSTROUT,f
 Catalyst::Plugin::FormValidator,RIBASUSHI,c
@@ -79,6 +81,7 @@ Catalyst::Plugin::Geography,FLORA,c
 Catalyst::Plugin::Geography,FREW,c
 Catalyst::Plugin::Geography,JJNAPIORK,c
 Catalyst::Plugin::Geography,JROCKWAY,c
+Catalyst::Plugin::Geography,MITHALDU,c
 Catalyst::Plugin::Geography,MRAMBERG,c
 Catalyst::Plugin::Geography,MSTROUT,f
 Catalyst::Plugin::Geography,RIBASUSHI,c
@@ -98,6 +101,7 @@ Catalyst::Plugin::Geography::Implementation,FLORA,c
 Catalyst::Plugin::Geography::Implementation,FREW,c
 Catalyst::Plugin::Geography::Implementation,JJNAPIORK,c
 Catalyst::Plugin::Geography::Implementation,JROCKWAY,c
+Catalyst::Plugin::Geography::Implementation,MITHALDU,c
 Catalyst::Plugin::Geography::Implementation,MRAMBERG,c
 Catalyst::Plugin::Geography::Implementation,MSTROUT,f
 Catalyst::Plugin::Geography::Implementation,RIBASUSHI,c
@@ -117,6 +121,7 @@ Catalyst::Plugin::HTML::Widget,FLORA,c
 Catalyst::Plugin::HTML::Widget,FREW,c
 Catalyst::Plugin::HTML::Widget,JJNAPIORK,c
 Catalyst::Plugin::HTML::Widget,KRAIH,c
+Catalyst::Plugin::HTML::Widget,MITHALDU,c
 Catalyst::Plugin::HTML::Widget,MRAMBERG,c
 Catalyst::Plugin::HTML::Widget,MSTROUT,f
 Catalyst::Plugin::HTML::Widget,RIBASUSHI,c
@@ -146,6 +151,7 @@ Catalyst::Plugin::I18N,ETHER,c
 Catalyst::Plugin::I18N,FLORA,c
 Catalyst::Plugin::I18N,FREW,c
 Catalyst::Plugin::I18N,JJNAPIORK,c
+Catalyst::Plugin::I18N,MITHALDU,c
 Catalyst::Plugin::I18N,MRAMBERG,c
 Catalyst::Plugin::I18N,MSTROUT,f
 Catalyst::Plugin::I18N,RIBASUSHI,c
@@ -243,6 +249,7 @@ Catalyst::Plugin::Observe,FLORA,c
 Catalyst::Plugin::Observe,FREW,c
 Catalyst::Plugin::Observe,JJNAPIORK,c
 Catalyst::Plugin::Observe,JROCKWAY,c
+Catalyst::Plugin::Observe,MITHALDU,c
 Catalyst::Plugin::Observe,MRAMBERG,c
 Catalyst::Plugin::Observe,MSTROUT,f
 Catalyst::Plugin::Observe,RIBASUSHI,c
@@ -314,6 +321,7 @@ Catalyst::Plugin::Pluggable,FLORA,c
 Catalyst::Plugin::Pluggable,FREW,c
 Catalyst::Plugin::Pluggable,JJNAPIORK,c
 Catalyst::Plugin::Pluggable,KRAIH,c
+Catalyst::Plugin::Pluggable,MITHALDU,c
 Catalyst::Plugin::Pluggable,MRAMBERG,c
 Catalyst::Plugin::Pluggable,MSTROUT,f
 Catalyst::Plugin::Pluggable,RIBASUSHI,c
@@ -332,6 +340,7 @@ Catalyst::Plugin::Prototype,ETHER,c
 Catalyst::Plugin::Prototype,FLORA,c
 Catalyst::Plugin::Prototype,FREW,c
 Catalyst::Plugin::Prototype,JJNAPIORK,c
+Catalyst::Plugin::Prototype,MITHALDU,c
 Catalyst::Plugin::Prototype,MRAMBERG,c
 Catalyst::Plugin::Prototype,MSTROUT,f
 Catalyst::Plugin::Prototype,RIBASUSHI,c
@@ -459,6 +468,7 @@ Catalyst::Plugin::Session::DynamicExpiry,FLORA,c
 Catalyst::Plugin::Session::DynamicExpiry,FREW,c
 Catalyst::Plugin::Session::DynamicExpiry,JJNAPIORK,c
 Catalyst::Plugin::Session::DynamicExpiry,JROCKWAY,c
+Catalyst::Plugin::Session::DynamicExpiry,MITHALDU,c
 Catalyst::Plugin::Session::DynamicExpiry,MRAMBERG,c
 Catalyst::Plugin::Session::DynamicExpiry,MSTROUT,f
 Catalyst::Plugin::Session::DynamicExpiry,NUFFIN,c
@@ -477,6 +487,7 @@ Catalyst::Plugin::Session::FastMmap,ETHER,c
 Catalyst::Plugin::Session::FastMmap,FLORA,c
 Catalyst::Plugin::Session::FastMmap,FREW,c
 Catalyst::Plugin::Session::FastMmap,JJNAPIORK,c
+Catalyst::Plugin::Session::FastMmap,MITHALDU,c
 Catalyst::Plugin::Session::FastMmap,MRAMBERG,c
 Catalyst::Plugin::Session::FastMmap,MSTROUT,f
 Catalyst::Plugin::Session::FastMmap,RIBASUSHI,c
@@ -710,6 +721,7 @@ Catalyst::Plugin::Session::Store::FastMmap,JJNAPIORK,c
 Catalyst::Plugin::Session::Store::FastMmap,JROBINSON,c
 Catalyst::Plugin::Session::Store::FastMmap,JROCKWAY,c
 Catalyst::Plugin::Session::Store::FastMmap,KARMAN,c
+Catalyst::Plugin::Session::Store::FastMmap,MITHALDU,c
 Catalyst::Plugin::Session::Store::FastMmap,MRAMBERG,c
 Catalyst::Plugin::Session::Store::FastMmap,MSTROUT,m
 Catalyst::Plugin::Session::Store::FastMmap,NUFFIN,c
@@ -728,6 +740,7 @@ Catalyst::Plugin::Session::Store::File,FLORA,c
 Catalyst::Plugin::Session::Store::File,FREW,c
 Catalyst::Plugin::Session::Store::File,JJNAPIORK,c
 Catalyst::Plugin::Session::Store::File,KARMAN,c
+Catalyst::Plugin::Session::Store::File,MITHALDU,c
 Catalyst::Plugin::Session::Store::File,MRAMBERG,c
 Catalyst::Plugin::Session::Store::File,MSTROUT,f
 Catalyst::Plugin::Session::Store::File,NUFFIN,c
@@ -829,6 +842,7 @@ Catalyst::Plugin::Singleton,ETHER,c
 Catalyst::Plugin::Singleton,FLORA,c
 Catalyst::Plugin::Singleton,FREW,c
 Catalyst::Plugin::Singleton,JJNAPIORK,c
+Catalyst::Plugin::Singleton,MITHALDU,c
 Catalyst::Plugin::Singleton,MSTROUT,f
 Catalyst::Plugin::Singleton,RIBASUSHI,c
 Catalyst::Plugin::Singleton,SRI,c
@@ -872,6 +886,7 @@ Catalyst::Plugin::Static,ETHER,c
 Catalyst::Plugin::Static,FLORA,c
 Catalyst::Plugin::Static,FREW,c
 Catalyst::Plugin::Static,JJNAPIORK,c
+Catalyst::Plugin::Static,MITHALDU,c
 Catalyst::Plugin::Static,MSTROUT,f
 Catalyst::Plugin::Static,RIBASUSHI,c
 Catalyst::Plugin::Static,SRI,c

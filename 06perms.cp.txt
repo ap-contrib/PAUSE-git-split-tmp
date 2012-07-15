@@ -381,6 +381,7 @@ CSS::Declare,ETHER,c
 CSS::Declare,FLORA,c
 CSS::Declare,FREW,c
 CSS::Declare,JJNAPIORK,c
+CSS::Declare,MITHALDU,c
 CSS::Declare,MSTROUT,f
 CSS::Declare,RIBASUSHI,c
 CSS::Declare,SSCAFFIDI,c
@@ -395,6 +396,7 @@ CSS::Declare::Unex,ETHER,c
 CSS::Declare::Unex,FLORA,c
 CSS::Declare::Unex,FREW,c
 CSS::Declare::Unex,JJNAPIORK,c
+CSS::Declare::Unex,MITHALDU,c
 CSS::Declare::Unex,MSTROUT,f
 CSS::Declare::Unex,RIBASUSHI,c
 CSS::Declare::Unex,SSCAFFIDI,c

@@ -583,6 +583,7 @@ Class::MethodFilter,FREW,c
 Class::MethodFilter,GRODITI,c
 Class::MethodFilter,JJNAPIORK,c
 Class::MethodFilter,LSAUNDERS,c
+Class::MethodFilter,MITHALDU,c
 Class::MethodFilter,MSTROUT,m
 Class::MethodFilter,RIBASUSHI,c
 Class::MethodFilter,RKINYON,c

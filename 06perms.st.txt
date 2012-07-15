@@ -464,6 +464,7 @@ Sub::Defer,EDENC,c
 Sub::Defer,ETHER,c
 Sub::Defer,FLORA,c
 Sub::Defer,JJNAPIORK,c
+Sub::Defer,MITHALDU,c
 Sub::Defer,MSTROUT,f
 Sub::Defer,RIBASUSHI,c
 Sub::Defer,SSCAFFIDI,c
@@ -548,6 +549,7 @@ Sub::Quote,EDENC,c
 Sub::Quote,ETHER,c
 Sub::Quote,FLORA,c
 Sub::Quote,JJNAPIORK,c
+Sub::Quote,MITHALDU,c
 Sub::Quote,MSTROUT,f
 Sub::Quote,RIBASUSHI,c
 Sub::Quote,SSCAFFIDI,c

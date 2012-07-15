@@ -747,6 +747,7 @@ HTML::Zoom,ETHER,c
 HTML::Zoom,FLORA,c
 HTML::Zoom,FREW,c
 HTML::Zoom,JJNAPIORK,c
+HTML::Zoom,MITHALDU,c
 HTML::Zoom,MSTROUT,f
 HTML::Zoom,RIBASUSHI,c
 HTML::Zoom,SSCAFFIDI,c
@@ -758,6 +759,7 @@ HTML::Zoom::ArrayStream,EDENC,c
 HTML::Zoom::ArrayStream,ETHER,c
 HTML::Zoom::ArrayStream,FLORA,c
 HTML::Zoom::ArrayStream,JJNAPIORK,c
+HTML::Zoom::ArrayStream,MITHALDU,c
 HTML::Zoom::ArrayStream,MSTROUT,f
 HTML::Zoom::ArrayStream,RIBASUSHI,c
 HTML::Zoom::ArrayStream,SSCAFFIDI,c
@@ -772,6 +774,7 @@ HTML::Zoom::CodeStream,ETHER,c
 HTML::Zoom::CodeStream,FLORA,c
 HTML::Zoom::CodeStream,FREW,c
 HTML::Zoom::CodeStream,JJNAPIORK,c
+HTML::Zoom::CodeStream,MITHALDU,c
 HTML::Zoom::CodeStream,MSTROUT,f
 HTML::Zoom::CodeStream,RIBASUSHI,c
 HTML::Zoom::CodeStream,SSCAFFIDI,c
@@ -786,6 +789,7 @@ HTML::Zoom::FilterBuilder,ETHER,c
 HTML::Zoom::FilterBuilder,FLORA,c
 HTML::Zoom::FilterBuilder,FREW,c
 HTML::Zoom::FilterBuilder,JJNAPIORK,c
+HTML::Zoom::FilterBuilder,MITHALDU,c
 HTML::Zoom::FilterBuilder,MSTROUT,f
 HTML::Zoom::FilterBuilder,RIBASUSHI,c
 HTML::Zoom::FilterBuilder,SSCAFFIDI,c
@@ -800,6 +804,7 @@ HTML::Zoom::FilterStream,ETHER,c
 HTML::Zoom::FilterStream,FLORA,c
 HTML::Zoom::FilterStream,FREW,c
 HTML::Zoom::FilterStream,JJNAPIORK,c
+HTML::Zoom::FilterStream,MITHALDU,c
 HTML::Zoom::FilterStream,MSTROUT,f
 HTML::Zoom::FilterStream,RIBASUSHI,c
 HTML::Zoom::FilterStream,SSCAFFIDI,c
@@ -811,6 +816,7 @@ HTML::Zoom::FlattenedStream,EDENC,c
 HTML::Zoom::FlattenedStream,ETHER,c
 HTML::Zoom::FlattenedStream,FLORA,c
 HTML::Zoom::FlattenedStream,JJNAPIORK,c
+HTML::Zoom::FlattenedStream,MITHALDU,c
 HTML::Zoom::FlattenedStream,MSTROUT,f
 HTML::Zoom::FlattenedStream,RIBASUSHI,c
 HTML::Zoom::FlattenedStream,SSCAFFIDI,c
@@ -822,6 +828,7 @@ HTML::Zoom::MappedStream,EDENC,c
 HTML::Zoom::MappedStream,ETHER,c
 HTML::Zoom::MappedStream,FLORA,c
 HTML::Zoom::MappedStream,JJNAPIORK,c
+HTML::Zoom::MappedStream,MITHALDU,c
 HTML::Zoom::MappedStream,MSTROUT,f
 HTML::Zoom::MappedStream,RIBASUSHI,c
 HTML::Zoom::MappedStream,SSCAFFIDI,c
@@ -836,6 +843,7 @@ HTML::Zoom::MatchWithoutFilter,ETHER,c
 HTML::Zoom::MatchWithoutFilter,FLORA,c
 HTML::Zoom::MatchWithoutFilter,FREW,c
 HTML::Zoom::MatchWithoutFilter,JJNAPIORK,c
+HTML::Zoom::MatchWithoutFilter,MITHALDU,c
 HTML::Zoom::MatchWithoutFilter,MSTROUT,f
 HTML::Zoom::MatchWithoutFilter,RIBASUSHI,c
 HTML::Zoom::MatchWithoutFilter,SSCAFFIDI,c
@@ -847,6 +855,7 @@ HTML::Zoom::MaybeDebug,EDENC,c
 HTML::Zoom::MaybeDebug,ETHER,c
 HTML::Zoom::MaybeDebug,FLORA,c
 HTML::Zoom::MaybeDebug,JJNAPIORK,c
+HTML::Zoom::MaybeDebug,MITHALDU,c
 HTML::Zoom::MaybeDebug,MSTROUT,f
 HTML::Zoom::MaybeDebug,RIBASUSHI,c
 HTML::Zoom::MaybeDebug,SSCAFFIDI,c
@@ -861,6 +870,7 @@ HTML::Zoom::Parser::BuiltIn,ETHER,c
 HTML::Zoom::Parser::BuiltIn,FLORA,c
 HTML::Zoom::Parser::BuiltIn,FREW,c
 HTML::Zoom::Parser::BuiltIn,JJNAPIORK,c
+HTML::Zoom::Parser::BuiltIn,MITHALDU,c
 HTML::Zoom::Parser::BuiltIn,MSTROUT,f
 HTML::Zoom::Parser::BuiltIn,RIBASUSHI,c
 HTML::Zoom::Parser::BuiltIn,SSCAFFIDI,c
@@ -876,6 +886,7 @@ HTML::Zoom::Producer::BuiltIn,ETHER,c
 HTML::Zoom::Producer::BuiltIn,FLORA,c
 HTML::Zoom::Producer::BuiltIn,FREW,c
 HTML::Zoom::Producer::BuiltIn,JJNAPIORK,c
+HTML::Zoom::Producer::BuiltIn,MITHALDU,c
 HTML::Zoom::Producer::BuiltIn,MSTROUT,f
 HTML::Zoom::Producer::BuiltIn,RIBASUSHI,c
 HTML::Zoom::Producer::BuiltIn,SSCAFFIDI,c
@@ -890,6 +901,7 @@ HTML::Zoom::ReadFH,ETHER,c
 HTML::Zoom::ReadFH,FLORA,c
 HTML::Zoom::ReadFH,FREW,c
 HTML::Zoom::ReadFH,JJNAPIORK,c
+HTML::Zoom::ReadFH,MITHALDU,c
 HTML::Zoom::ReadFH,MSTROUT,f
 HTML::Zoom::ReadFH,RIBASUSHI,c
 HTML::Zoom::ReadFH,SSCAFFIDI,c
@@ -904,6 +916,7 @@ HTML::Zoom::SelectorParser,ETHER,c
 HTML::Zoom::SelectorParser,FLORA,c
 HTML::Zoom::SelectorParser,FREW,c
 HTML::Zoom::SelectorParser,JJNAPIORK,c
+HTML::Zoom::SelectorParser,MITHALDU,c
 HTML::Zoom::SelectorParser,MSTROUT,f
 HTML::Zoom::SelectorParser,RIBASUSHI,c
 HTML::Zoom::SelectorParser,SSCAFFIDI,c
@@ -918,6 +931,7 @@ HTML::Zoom::StreamBase,ETHER,c
 HTML::Zoom::StreamBase,FLORA,c
 HTML::Zoom::StreamBase,FREW,c
 HTML::Zoom::StreamBase,JJNAPIORK,c
+HTML::Zoom::StreamBase,MITHALDU,c
 HTML::Zoom::StreamBase,MSTROUT,f
 HTML::Zoom::StreamBase,RIBASUSHI,c
 HTML::Zoom::StreamBase,SSCAFFIDI,c
@@ -932,6 +946,7 @@ HTML::Zoom::StreamUtils,ETHER,c
 HTML::Zoom::StreamUtils,FLORA,c
 HTML::Zoom::StreamUtils,FREW,c
 HTML::Zoom::StreamUtils,JJNAPIORK,c
+HTML::Zoom::StreamUtils,MITHALDU,c
 HTML::Zoom::StreamUtils,MSTROUT,f
 HTML::Zoom::StreamUtils,RIBASUSHI,c
 HTML::Zoom::StreamUtils,SSCAFFIDI,c
@@ -946,6 +961,7 @@ HTML::Zoom::SubObject,ETHER,c
 HTML::Zoom::SubObject,FLORA,c
 HTML::Zoom::SubObject,FREW,c
 HTML::Zoom::SubObject,JJNAPIORK,c
+HTML::Zoom::SubObject,MITHALDU,c
 HTML::Zoom::SubObject,MSTROUT,f
 HTML::Zoom::SubObject,RIBASUSHI,c
 HTML::Zoom::SubObject,SSCAFFIDI,c
@@ -957,6 +973,7 @@ HTML::Zoom::Transform,EDENC,c
 HTML::Zoom::Transform,ETHER,c
 HTML::Zoom::Transform,FLORA,c
 HTML::Zoom::Transform,JJNAPIORK,c
+HTML::Zoom::Transform,MITHALDU,c
 HTML::Zoom::Transform,MSTROUT,f
 HTML::Zoom::Transform,RIBASUSHI,c
 HTML::Zoom::Transform,SSCAFFIDI,c
@@ -968,6 +985,7 @@ HTML::Zoom::TransformBuilder,EDENC,c
 HTML::Zoom::TransformBuilder,ETHER,c
 HTML::Zoom::TransformBuilder,FLORA,c
 HTML::Zoom::TransformBuilder,JJNAPIORK,c
+HTML::Zoom::TransformBuilder,MITHALDU,c
 HTML::Zoom::TransformBuilder,MSTROUT,f
 HTML::Zoom::TransformBuilder,RIBASUSHI,c
 HTML::Zoom::TransformBuilder,SSCAFFIDI,c
@@ -979,6 +997,7 @@ HTML::Zoom::TransformedStream,EDENC,c
 HTML::Zoom::TransformedStream,ETHER,c
 HTML::Zoom::TransformedStream,FLORA,c
 HTML::Zoom::TransformedStream,JJNAPIORK,c
+HTML::Zoom::TransformedStream,MITHALDU,c
 HTML::Zoom::TransformedStream,MSTROUT,f
 HTML::Zoom::TransformedStream,RIBASUSHI,c
 HTML::Zoom::TransformedStream,SSCAFFIDI,c
@@ -993,6 +1012,7 @@ HTML::Zoom::ZConfig,ETHER,c
 HTML::Zoom::ZConfig,FLORA,c
 HTML::Zoom::ZConfig,FREW,c
 HTML::Zoom::ZConfig,JJNAPIORK,c
+HTML::Zoom::ZConfig,MITHALDU,c
 HTML::Zoom::ZConfig,MSTROUT,f
 HTML::Zoom::ZConfig,RIBASUSHI,c
 HTML::Zoom::ZConfig,SSCAFFIDI,c
