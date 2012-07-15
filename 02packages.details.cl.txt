@@ -284,8 +284,8 @@ Class::Lego::Myself               0.003  F/FE/FERREIRA/Class-Lego-0.004.tar.gz
 Class::Light                    0.01003  D/DA/DAVAZ/Class-Light-0.01003.tar.gz
 Class::List                       undef  C/CR/CROSSWIRE/Class-GAPI-1.1.tar.gz
 Class::Listener                0.001004  M/MU/MUENALAN/Class-Listener-0.01.04.tar.gz
-Class::Load                        0.19  D/DR/DROLSKY/Class-Load-0.19.tar.gz
-Class::Load::PP                    0.19  D/DR/DROLSKY/Class-Load-0.19.tar.gz
+Class::Load                        0.20  D/DR/DROLSKY/Class-Load-0.20.tar.gz
+Class::Load::PP                    0.20  D/DR/DROLSKY/Class-Load-0.20.tar.gz
 Class::Load::Tiny                  0.05  A/AL/ALEXBIO/Class-Load-Tiny-0.05.tar.gz
 Class::Load::XS                    0.04  D/DR/DROLSKY/Class-Load-XS-0.04.tar.gz
 Class::Loader                      2.03  V/VI/VIPUL/Class-Loader-2.03.tar.gz
