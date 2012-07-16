@@ -130,6 +130,7 @@ Plack::Response,MIYAGAWA,f
 Plack::ResponseHelper,KOMAROV,m
 Plack::ResponseHelper::Attachment,KOMAROV,f
 Plack::ResponseHelper::JSON,KOMAROV,f
+Plack::ResponseHelper::Redirect,KOMAROV,f
 Plack::ResponseHelper::Text,KOMAROV,f
 Plack::Runner,MIYAGAWA,f
 Plack::Server,MIYAGAWA,f
