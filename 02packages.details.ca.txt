@@ -203,7 +203,7 @@ Catalyst::Plugin::Compress::Zlib   0.06  M/MS/MSTROUT/Catalyst-Plugin-Compress-Z
 Catalyst::Plugin::Config::JSON     0.03  S/SA/SAMV/Catalyst-Plugin-Config-JSON-0.03.tar.gz
 Catalyst::Plugin::Config::Multi    0.02  T/TO/TOMYHERO/Catalyst-Plugin-Config-Multi-0.02.tar.gz
 Catalyst::Plugin::Config::YAML     0.04  B/BA/BAUERB/Catalyst-Plugin-Config-YAML-0.04.tar.gz
-Catalyst::Plugin::ConfigComponents v0.6.130  P/PJ/PJFL/catalyst-plugin-configcomponents/Catalyst-Plugin-ConfigComponents-0.6.130.tar.gz
+Catalyst::Plugin::ConfigComponents v0.6.133  P/PJ/PJFL/catalyst-plugin-configcomponents/Catalyst-Plugin-ConfigComponents-0.6.133.tar.gz
 Catalyst::Plugin::ConfigLoader     0.30  B/BR/BRICAS/Catalyst-Plugin-ConfigLoader-0.30.tar.gz
 Catalyst::Plugin::ConfigLoader::Environment 0.07  D/DH/DHOSS/Catalyst-Plugin-ConfigLoader-Environment-0.07.tar.gz
 Catalyst::Plugin::ConfigLoader::Etc 0.02  Z/ZD/ZDK/Catalyst-Plugin-ConfigLoader-Etc-0.02.tar.gz
