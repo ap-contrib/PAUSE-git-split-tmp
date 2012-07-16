@@ -855,7 +855,7 @@ Text::Document                     1.05  A/AS/ASPINELLI/Text-Document-1.07.tar.g
 Text::DocumentCollection           1.02  A/AS/ASPINELLI/Text-Document-1.07.tar.gz
 Text::Domain                        0.9  J/JS/JSMITH/Text-Domain-0.9.tar.gz
 Text::DoubleMetaphone              0.07  M/MA/MAURICE/Text-DoubleMetaphone-0.07.tar.gz
-Text::DSV                          0.03  S/SK/SKIM/Text-DSV-0.03.tar.gz
+Text::DSV                          0.04  S/SK/SKIM/Text-DSV-0.04.tar.gz
 Text::EasyTemplate                 0.01  L/LC/LCHAVEZ/Text-EasyTemplate-0.01.tar.gz
 Text::Echelon                      0.02  I/ID/IDORU/Text-Echelon-0.02.tar.gz
 Text::ECSV                         0.01  J/JK/JKUTEJ/Text-ECSV-0.01.tar.gz

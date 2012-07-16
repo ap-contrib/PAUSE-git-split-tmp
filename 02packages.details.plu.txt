@@ -631,7 +631,7 @@ Pod::entity                        1.01  M/MA/MAREKR/Pod-Compiler-0.20.tar.gz
 Pod::Escapes                       1.04  S/SB/SBURKE/Pod-Escapes-1.04.tar.gz
 Pod::Eventual                  0.093330  R/RJ/RJBS/Pod-Eventual-0.093330.tar.gz
 Pod::Eventual::Simple          0.093330  R/RJ/RJBS/Pod-Eventual-0.093330.tar.gz
-Pod::Example                       0.02  S/SK/SKIM/Pod-Example-0.02.tar.gz
+Pod::Example                       0.03  S/SK/SKIM/Pod-Example-0.03.tar.gz
 Pod::Extract::URI                   0.3  I/IM/IMALPASS/Pod-Extract-URI-0.3.tar.gz
 Pod::file                          1.01  M/MA/MAREKR/Pod-Compiler-0.20.tar.gz
 Pod::Find                          1.51  M/MA/MAREKR/Pod-Parser-1.51.tar.gz
