@@ -137,6 +137,7 @@ Games::EternalLands::Binary::Unitvec16,COLEMINOR,f
 Games::EternalLands::Bot,FRANC,f
 Games::EternalLands::Client,FRANC,f
 Games::EternalLands::Constants,FRANC,f
+Games::EternalLands::Loader,COLEMINOR,f
 Games::EternalLands::Map,FRANC,f
 Games::EternalLands::MapHelper,FRANC,f
 Games::Euchre,CDOLAN,f

@@ -573,6 +573,7 @@ Games::EternalLands::Binary::Unitvec16 0.01  C/CO/COLEMINOR/Games-EternalLands-B
 Games::EternalLands::Bot           0.04  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 Games::EternalLands::Client        0.04  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 Games::EternalLands::Constants    undef  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
+Games::EternalLands::Loader        0.01  C/CO/COLEMINOR/Games-EternalLands-Loader-0.01.tar.gz
 Games::EternalLands::Map           0.04  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 Games::EternalLands::MapHelper     0.04  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 Games::Euchre                      1.02  C/CD/CDOLAN/Games-Euchre-1.02.tar.gz
