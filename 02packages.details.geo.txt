@@ -326,11 +326,11 @@ Git::Fingerd                   2.093520  R/RJ/RJBS/Git-Fingerd-2.093520.tar.gz
 Git::Github::Creator               0.17  B/BD/BDFOY/Git-Github-Creator-0.17.tar.gz
 Git::Glog                          0.01  M/MO/MOSHEN/Git-Glog-0.01.tar.gz
 Git::Hook::PostReceive             0.01  C/CO/CORNELIUS/Git-Hook-PostReceive-0.01.tar.gz
-Git::Hooks                        0.003  G/GN/GNUSTAVO/Git-Hooks-0.003.tar.gz
+Git::Hooks                        0.004  G/GN/GNUSTAVO/Git-Hooks-0.004.tar.gz
 Git::Megapull                  0.101751  R/RJ/RJBS/Git-Megapull-0.101751.tar.gz
 Git::Megapull::Source          0.101751  R/RJ/RJBS/Git-Megapull-0.101751.tar.gz
 Git::Megapull::Source::Github  0.101751  R/RJ/RJBS/Git-Megapull-0.101751.tar.gz
-Git::More                         0.003  G/GN/GNUSTAVO/Git-Hooks-0.003.tar.gz
+Git::More                         0.004  G/GN/GNUSTAVO/Git-Hooks-0.004.tar.gz
 Git::PurePerl                      0.48  B/BR/BROQ/Git-PurePerl-0.48.tar.gz
 Git::PurePerl::Actor              undef  B/BR/BROQ/Git-PurePerl-0.48.tar.gz
 Git::PurePerl::Config             undef  B/BR/BROQ/Git-PurePerl-0.48.tar.gz
