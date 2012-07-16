@@ -294,7 +294,7 @@ File::NCopy                        0.36  C/CH/CHORNY/File-NCopy-0.36.tar.gz
 File::Next                         1.10  P/PE/PETDANCE/File-Next-1.10.tar.gz
 File::Next::OO                     0.04  B/BO/BORISZ/File-Next-OO-0.04.tar.gz
 File::NFSLock                      1.21  B/BB/BBB/File-NFSLock-1.21.tar.gz
-File::Object                       0.04  S/SK/SKIM/File-Object-0.04.tar.gz
+File::Object                       0.05  S/SK/SKIM/File-Object-0.05.tar.gz
 File::OldSlurp                 2004.043  M/MU/MUIR/modules/File-OldSlurp-2004.0430.tar.gz
 File::OM                           1.05  J/JA/JAK/File-ANVL-1.05.tar.gz
 File::OM::ANVL                     1.05  J/JA/JAK/File-ANVL-1.05.tar.gz
