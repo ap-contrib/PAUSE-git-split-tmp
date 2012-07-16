@@ -447,6 +447,8 @@ Drogo::Dispatch,MJFLICK,f
 Drogo::Dispatcher,MJFLICK,f
 Drogo::Dispatcher::Attributes,MJFLICK,f
 Drogo::Dispatcher::Request,MJFLICK,f
+Drogo::Dispatcher::RequestResponse,MJFLICK,f
+Drogo::Dispatcher::Response,MJFLICK,f
 Drogo::MultiPart,MJFLICK,f
 Drogo::Plugin::DBIx::Class,MJFLICK,f
 Drogo::Server,MJFLICK,f
