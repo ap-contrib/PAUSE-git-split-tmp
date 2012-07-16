@@ -4,6 +4,7 @@ Juno::Check::FPing,ADAMBA,f
 Juno::Check::HTTP,ADAMBA,f
 Juno::Check::RawCommand,ADAMBA,f
 Juno::Check::SNMP,ADAMBA,f
+Juno::Check::TCP,ADAMBA,c
 Juno::Check::TCP,XSAWYERX,f
 Juno::Role::Check,ADAMBA,f
 Jvm,ALKNAFF,f
