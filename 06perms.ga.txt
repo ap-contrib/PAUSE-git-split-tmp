@@ -132,6 +132,7 @@ Games::DungeonMaker::TunnelerData,ACDALTON,f
 Games::DungeonMaker::WallCrawler,ACDALTON,f
 Games::DungeonMaker::pair_ii,ACDALTON,f
 Games::DungeonMakerc,ACDALTON,f
+Games::EternalLands::Binary::Float16,COLEMINOR,f
 Games::EternalLands::Bot,FRANC,f
 Games::EternalLands::Client,FRANC,f
 Games::EternalLands::Constants,FRANC,f

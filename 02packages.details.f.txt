@@ -568,6 +568,7 @@ Games::DungeonMaker::Tunneler      0.01  A/AC/ACDALTON/Games-DungeonMaker-0.01.t
 Games::DungeonMaker::TunnelerData  0.01  A/AC/ACDALTON/Games-DungeonMaker-0.01.tar.gz
 Games::DungeonMaker::WallCrawler   0.01  A/AC/ACDALTON/Games-DungeonMaker-0.01.tar.gz
 Games::DungeonMakerc               0.01  A/AC/ACDALTON/Games-DungeonMaker-0.01.tar.gz
+Games::EternalLands::Binary::Float16 0.01  C/CO/COLEMINOR/Games-EternalLands-Binary-Float16-0.01.tar.gz
 Games::EternalLands::Bot           0.04  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 Games::EternalLands::Client        0.04  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 Games::EternalLands::Constants    undef  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
