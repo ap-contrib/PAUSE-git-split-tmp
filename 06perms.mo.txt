@@ -267,6 +267,10 @@ Monitoring::Livestatus::INET,NIERLEIN,f
 Monitoring::Livestatus::MULTI,NIERLEIN,f
 Monitoring::Livestatus::UNIX,NIERLEIN,f
 Monkey::Patch,FRODWITH,f
+Monkey::Patch::Context,SHARYANTO,f
+Monkey::Patch::Context::Handle,SHARYANTO,f
+Monkey::Patch::Context::Handle::Class,SHARYANTO,f
+Monkey::Patch::Context::Handle::Object,SHARYANTO,f
 Monkey::Patch::Handle,FRODWITH,f
 Monkey::Patch::Handle::Class,FRODWITH,f
 Monkey::Patch::Handle::Object,FRODWITH,f

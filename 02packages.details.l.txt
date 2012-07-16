@@ -609,6 +609,7 @@ Log::Any::Adapter::Test            0.14  J/JS/JSWARTZ/Log-Any-0.14.tar.gz
 Log::Any::Adapter::Test::Memory   undef  J/JS/JSWARTZ/Log-Any-Adapter-0.04.tar.gz
 Log::Any::Adapter::Util           undef  J/JS/JSWARTZ/Log-Any-Adapter-0.04.tar.gz
 Log::Any::App                      0.40  S/SH/SHARYANTO/Log-Any-App-0.40.tar.gz
+Log::Any::For::Builtins            0.03  S/SH/SHARYANTO/Builtin-Logged-0.03.tar.gz
 Log::Any::For::Class               0.05  S/SH/SHARYANTO/Log-Any-For-Class-0.05.tar.gz
 Log::Any::For::DBI                 0.04  S/SH/SHARYANTO/Log-Any-For-DBI-0.04.tar.gz
 Log::Any::For::Package             0.05  S/SH/SHARYANTO/Log-Any-For-Class-0.05.tar.gz
