@@ -688,7 +688,7 @@ Test::Parser::SysbenchCPU           1.7  M/MA/MARKWKM/Test-Parser-1.9.tar.gz
 Test::Parser::SysbenchFileIO        1.7  M/MA/MARKWKM/Test-Parser-1.9.tar.gz
 Test::Parser::Sysctl                1.7  M/MA/MARKWKM/Test-Parser-1.9.tar.gz
 Test::Parser::Vmstat                1.7  M/MA/MARKWKM/Test-Parser-1.9.tar.gz
-Test::Path::Router                 0.11  D/DO/DOY/Path-Router-0.11.tar.gz
+Test::Path::Router                 0.12  D/DO/DOY/Path-Router-0.12.tar.gz
 Test::Pcuke                    0.000006  C/CR/CRUSOE/Test-Pcuke-0.000006.tar.gz
 Test::Pcuke::Executor             undef  C/CR/CRUSOE/Test-Pcuke-0.000006.tar.gz
 Test::Pcuke::Executor::Status     undef  C/CR/CRUSOE/Test-Pcuke-0.000006.tar.gz

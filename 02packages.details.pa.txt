@@ -109,11 +109,11 @@ Path::Resolver::SimpleEntity   3.100452  R/RJ/RJBS/Path-Resolver-3.100452.tar.gz
 Path::Resolver::Types          3.100452  R/RJ/RJBS/Path-Resolver-3.100452.tar.gz
 Path::Resource                    0.072  R/RK/RKRIMEN/Path-Resource-0.072.tar.gz
 Path::Resource::Base              undef  R/RK/RKRIMEN/Path-Resource-0.072.tar.gz
-Path::Router                       0.11  D/DO/DOY/Path-Router-0.11.tar.gz
-Path::Router::Route                0.11  D/DO/DOY/Path-Router-0.11.tar.gz
-Path::Router::Route::Match         0.11  D/DO/DOY/Path-Router-0.11.tar.gz
-Path::Router::Shell                0.11  D/DO/DOY/Path-Router-0.11.tar.gz
-Path::Router::Types                0.11  D/DO/DOY/Path-Router-0.11.tar.gz
+Path::Router                       0.12  D/DO/DOY/Path-Router-0.12.tar.gz
+Path::Router::Route                0.12  D/DO/DOY/Path-Router-0.12.tar.gz
+Path::Router::Route::Match         0.12  D/DO/DOY/Path-Router-0.12.tar.gz
+Path::Router::Shell                0.12  D/DO/DOY/Path-Router-0.12.tar.gz
+Path::Router::Types                0.12  D/DO/DOY/Path-Router-0.12.tar.gz
 Path::ScanINC                     0.002  K/KE/KENTNL/Path-ScanINC-0.002.tar.gz
 Path::Trim                       v0.0.3  H/HA/HAGGAI/Path-Trim-v0.0.3.tar.gz
 PathFinder                         0.95  K/KH/KHAMPTON/XML-SemanticDiff-0.95.tar.gz
