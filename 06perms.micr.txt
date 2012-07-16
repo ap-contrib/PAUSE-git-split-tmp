@@ -256,6 +256,7 @@ Military::SUM,SOFTDIA,f
 Military::SVD,SOFTDIA,f
 Military::VDD,SOFTDIA,f
 Mindcal,MSCHILLI,f
+Minecraft::RCON,DEMMY,f
 MiniPAN,LEV,f
 MiniPerl6::Clojure::LexicalBlock,FGLOCK,f
 MiniPerl6::Expression,FGLOCK,f
