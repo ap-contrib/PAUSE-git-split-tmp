@@ -90,7 +90,7 @@ App::Mobirc::Web::View            undef  T/TO/TOKUHIROM/mobirc-1.07.tar.gz
 App::Modular                   0.001003  B/BC/BCEVC/App-Modular-0.1.3.tar.gz
 App::Modular::Module           0.001003  B/BC/BCEVC/App-Modular-0.1.3.tar.gz
 App::Module::Lister                0.13  B/BD/BDFOY/App-Module-Lister-0.13.tar.gz
-App::Module::Locate                 0.4  C/CE/CELOGEEK/App-Module-Locate-0.4.tar.gz
+App::Module::Locate                 0.5  C/CE/CELOGEEK/App-Module-Locate-0.5.tar.gz
 App::module::version              1.004  K/KM/KMX/App-module-version-1.004.tar.gz
 App::moduleshere                   0.08  S/SU/SUNNAVY/App-moduleshere-0.08.tar.gz
 App::moduleswhere                  0.03  S/SU/SUNNAVY/App-moduleswhere-0.03.tar.gz

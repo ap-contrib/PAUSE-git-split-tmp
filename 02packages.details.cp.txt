@@ -73,7 +73,7 @@ CPAN::Mirrored::By                 5.53  A/AN/ANDK/CPAN-1.9402.tar.gz
 CPAN::Mirrors                    1.9600  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Module                     5.5001  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Modulelist                   1.28  B/BD/BDFOY/MyCPAN-App-DPAN-1.28.tar.gz
-CPAN::Nearest                      0.06  B/BK/BKB/CPAN-Nearest-0.06.tar.gz
+CPAN::Nearest                      0.07  B/BK/BKB/CPAN-Nearest-0.07.tar.gz
 CPAN::Nox                          5.50  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::PackageDetails               0.25  B/BD/BDFOY/CPAN-PackageDetails-0.25.tar.gz
 CPAN::PackageDetails::Entries      0.25  B/BD/BDFOY/CPAN-PackageDetails-0.25.tar.gz
