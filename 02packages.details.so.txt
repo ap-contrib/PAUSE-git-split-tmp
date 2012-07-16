@@ -1047,6 +1047,10 @@ Squatting::With::Log              undef  B/BE/BEPPU/Squatting-0.81.tar.gz
 Squatting::With::MockRequest      undef  B/BE/BEPPU/Squatting-0.81.tar.gz
 Squatting::With::Mount            undef  B/BE/BEPPU/Squatting-0.81.tar.gz
 Squatting::With::PerHostConfig    undef  B/BE/BEPPU/Squatting-0.81.tar.gz
+Sque                              0.007  W/WW/WWOLF/Sque-0.007.tar.gz
+Sque::Encoder                     0.007  W/WW/WWOLF/Sque-0.007.tar.gz
+Sque::Job                         0.007  W/WW/WWOLF/Sque-0.007.tar.gz
+Sque::Worker                      0.007  W/WW/WWOLF/Sque-0.007.tar.gz
 Squid::Guard                       0.15  L/LU/LUX/Squid-Guard-0.15.tar.gz
 Squid::Guard::Request              0.15  L/LU/LUX/Squid-Guard-0.15.tar.gz
 Squirrel                          undef  G/GF/GFUJI/Mouse-0.99.tar.gz
