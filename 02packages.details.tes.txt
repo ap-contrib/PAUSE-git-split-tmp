@@ -203,6 +203,8 @@ Test::Deep::HashKeysOnly          undef  R/RJ/RJBS/Test-Deep-0.110.tar.gz
 Test::Deep::Ignore                undef  R/RJ/RJBS/Test-Deep-0.110.tar.gz
 Test::Deep::Isa                   undef  R/RJ/RJBS/Test-Deep-0.110.tar.gz
 Test::Deep::ListMethods           undef  R/RJ/RJBS/Test-Deep-0.110.tar.gz
+Test::Deep::Matcher                0.01  M/MA/MASAKI/Test-Deep-Matcher-0.01.tar.gz
+Test::Deep::Matcher::DataUtil     undef  M/MA/MASAKI/Test-Deep-Matcher-0.01.tar.gz
 Test::Deep::Methods               undef  R/RJ/RJBS/Test-Deep-0.110.tar.gz
 Test::Deep::MM                    undef  R/RJ/RJBS/Test-Deep-0.110.tar.gz
 Test::Deep::NoTest                undef  R/RJ/RJBS/Test-Deep-0.110.tar.gz

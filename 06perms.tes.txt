@@ -307,6 +307,8 @@ Test::Deep::ListMethods,FDALY,f
 Test::Deep::ListMethods,RJBS,c
 Test::Deep::MM,FDALY,f
 Test::Deep::MM,RJBS,c
+Test::Deep::Matcher,MASAKI,f
+Test::Deep::Matcher::DataUtil,MASAKI,f
 Test::Deep::Methods,FDALY,f
 Test::Deep::Methods,RJBS,c
 Test::Deep::NoTest,FDALY,f
