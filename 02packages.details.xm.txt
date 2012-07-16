@@ -309,11 +309,11 @@ XML::Handler::CanonXMLWriter       0.08  K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
 XML::Handler::Composer             0.01  T/TJ/TJMATHER/XML-Handler-Composer-0.01.tar.gz
 XML::Handler::Dtd2DocBook          0.41  P/PE/PERRAD/XML-Handler-Dtd2DocBook-0.41.tar.gz
 XML::Handler::Dtd2DocBook::Document 0.41  P/PE/PERRAD/XML-Handler-Dtd2DocBook-0.41.tar.gz
-XML::Handler::Dtd2Html             0.41  P/PE/PERRAD/XML-Handler-Dtd2Html-0.41.tar.gz
-XML::Handler::Dtd2Html::ContentModelVisitor 0.41  P/PE/PERRAD/XML-Handler-Dtd2Html-0.41.tar.gz
-XML::Handler::Dtd2Html::Document   0.41  P/PE/PERRAD/XML-Handler-Dtd2Html-0.41.tar.gz
-XML::Handler::Dtd2Html::DocumentBook 0.41  P/PE/PERRAD/XML-Handler-Dtd2Html-0.41.tar.gz
-XML::Handler::Dtd2Html::DocumentFrame 0.41  P/PE/PERRAD/XML-Handler-Dtd2Html-0.41.tar.gz
+XML::Handler::Dtd2Html             0.42  P/PE/PERRAD/XML-Handler-Dtd2Html-0.42.tar.gz
+XML::Handler::Dtd2Html::ContentModelVisitor 0.42  P/PE/PERRAD/XML-Handler-Dtd2Html-0.42.tar.gz
+XML::Handler::Dtd2Html::Document   0.42  P/PE/PERRAD/XML-Handler-Dtd2Html-0.42.tar.gz
+XML::Handler::Dtd2Html::DocumentBook 0.42  P/PE/PERRAD/XML-Handler-Dtd2Html-0.42.tar.gz
+XML::Handler::Dtd2Html::DocumentFrame 0.42  P/PE/PERRAD/XML-Handler-Dtd2Html-0.42.tar.gz
 XML::Handler::EasyTree             0.02  E/EB/EBOHLMAN/XML-Handler-Trees-0.02.tar.gz
 XML::Handler::EasyTree::Generator  0.03  W/WR/WREN/XML-Handler-EasyTree-Generator-0.03.tar.gz
 XML::Handler::EasyTree::Searchable 0.02  E/EB/EBOHLMAN/XML-Handler-Trees-0.02.tar.gz
