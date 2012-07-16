@@ -146,9 +146,6 @@ Cgilog                            undef  M/MR/MRJC/cvswebedit-v2.0b1.tar.gz
 CGIS                                1.6  S/SH/SHERZODR/CGIS-1.6.tar.gz
 CGITempFile                        3.59  M/MA/MARKSTOS/CGI.pm-3.59.tar.gz
 CGIUtils                          undef  A/AL/ALEXMASS/bioinfo/InSilicoSpectro-0.9.9.tar.gz
-CGIx::Core                         0.04  B/BR/BRADH/CGIx-Core-0.04.tar.gz
-CGIx::Core::Request               undef  B/BR/BRADH/CGIx-Core-0.04.tar.gz
-CGIx::Session                      0.04  B/BR/BRADH/CGIx-Core-0.04.tar.gz
 CGP::CLI                       2.007005  J/JB/JBUHACOFF/CGP-CLI-2.7.5.tar.gz
 chain                             undef  S/SF/SFINK/Parse-YALALR-0.02.tar.gz
 ChainMake                         0.9.0  S/SC/SCHROEER/ChainMake/ChainMake-0.9.0.tar.gz

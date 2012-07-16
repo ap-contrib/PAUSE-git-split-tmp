@@ -615,7 +615,6 @@ Heap::Simple::StringReverse        0.03  T/TH/THOSPEL/Heap-Simple-Perl-0.14.tar.
 Heap::Simple::Wrapper              0.04  T/TH/THOSPEL/Heap-Simple-Perl-0.14.tar.gz
 Heap::Simple::XS                   0.10  T/TH/THOSPEL/Heap-Simple-XS-0.10.tar.gz
 Heap::Simple::XS::Package          0.10  T/TH/THOSPEL/Heap-Simple-XS-0.10.tar.gz
-Heart::Domain::API                  0.1  B/BR/BRADH/Heart-Domain-API.tar.gz
 heatmap                             1.5  C/CJ/CJONES/Microarray-0.45c.zip
 Heimdal::Kadm5                     0.08  L/LE/LEIFJ/Heimdal-Kadm5-0.08.tar.gz
 Heimdal::Kadm5::Client             0.08  L/LE/LEIFJ/Heimdal-Kadm5-0.08.tar.gz
