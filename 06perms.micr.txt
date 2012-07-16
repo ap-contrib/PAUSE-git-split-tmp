@@ -25,6 +25,8 @@ Microsoft::AdCenter::V8::CustomerManagementService::ManageAccountsRequest,XERXES
 Microsoft::AdCenter::V8::CustomerManagementService::ManageAccountsRequestInfo,XERXES,f
 Microsoft::AdCenter::V8::CustomerManagementService::ManageAccountsRequestStatus,XERXES,f
 Microsoft::AdCenter::V8::CustomerManagementService::ManageAccountsRequestType,XERXES,f
+Microsoft::AdCenter::V8::CustomerManagementService::MapAccountIdToExternalAccountIdsResponse,XERXES,f
+Microsoft::AdCenter::V8::CustomerManagementService::MapCustomerIdToExternalCustomerIdResponse,XERXES,f
 Microsoft::AdCenter::V8::CustomerManagementService::OperationError,XERXES,f
 Microsoft::AdCenter::V8::CustomerManagementService::PaymentMethodType,XERXES,f
 Microsoft::AdCenter::V8::CustomerManagementService::PersonName,XERXES,f
@@ -94,6 +96,12 @@ Microsoft::AdCenter::V8::ReportingService::AdDistributionReportFilter,XERXES,f
 Microsoft::AdCenter::V8::ReportingService::AdDynamicTextPerformanceReportColumn,XERXES,f
 Microsoft::AdCenter::V8::ReportingService::AdDynamicTextPerformanceReportFilter,XERXES,f
 Microsoft::AdCenter::V8::ReportingService::AdDynamicTextPerformanceReportRequest,XERXES,f
+Microsoft::AdCenter::V8::ReportingService::AdExtensionByAdsReportColumn,XERXES,f
+Microsoft::AdCenter::V8::ReportingService::AdExtensionByAdsReportRequest,XERXES,f
+Microsoft::AdCenter::V8::ReportingService::AdExtensionByKeywordReportColumn,XERXES,f
+Microsoft::AdCenter::V8::ReportingService::AdExtensionByKeywordReportRequest,XERXES,f
+Microsoft::AdCenter::V8::ReportingService::AdExtensionDimensionReportColumn,XERXES,f
+Microsoft::AdCenter::V8::ReportingService::AdExtensionDimensionReportRequest,XERXES,f
 Microsoft::AdCenter::V8::ReportingService::AdGroupPerformanceReportColumn,XERXES,f
 Microsoft::AdCenter::V8::ReportingService::AdGroupPerformanceReportFilter,XERXES,f
 Microsoft::AdCenter::V8::ReportingService::AdGroupPerformanceReportRequest,XERXES,f
