@@ -977,6 +977,7 @@ Array::Uniq                        0.02  S/SY/SYAMAL/Array-Uniq-0.02.tar.gz
 Array::Unique                      0.08  S/SZ/SZABGAB/Array-Unique-0.08.tar.gz
 Array::Utils                        0.5  Z/ZM/ZMIJ/Array/Array-Utils-0.5.tar.gz
 Array::Window                      1.02  A/AD/ADAMK/Array-Window-1.02.tar.gz
+Array::Windowed                    1.00  M/MA/MARKF/Array-Windowed-1.00.tar.gz
 array_reporter                      1.5  C/CJ/CJONES/Microarray-0.45c.zip
 array_spot                         1.18  C/CJ/CJONES/Microarray-0.45c.zip
 Array_Type                         1.00  D/DJ/DJBURKE/Inline-SLang-1.00.tar.gz
