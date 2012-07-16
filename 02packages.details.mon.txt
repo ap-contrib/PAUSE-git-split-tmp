@@ -572,8 +572,8 @@ MooseX::AttributeIndexes::Provider v1.0.2  K/KE/KENTNL/MooseX-AttributeIndexes-1
 MooseX::AttributeIndexes::Provider::FromAttributes v1.0.2  K/KE/KENTNL/MooseX-AttributeIndexes-1.0.2.tar.gz
 MooseX::AttributeInflate           0.03  S/ST/STASH/MooseX-AttributeInflate-0.03.tar.gz
 MooseX::Attributes::Curried        0.03  S/SA/SARTAK/MooseX-Attributes-Curried-0.03.tar.gz
-MooseX::AttributeShortcuts        0.010  R/RS/RSRCHBOY/MooseX-AttributeShortcuts-0.010.tar.gz
-MooseX::AttributeShortcuts::Trait::Attribute 0.010  R/RS/RSRCHBOY/MooseX-AttributeShortcuts-0.010.tar.gz
+MooseX::AttributeShortcuts        0.013  R/RS/RSRCHBOY/MooseX-AttributeShortcuts-0.013.tar.gz
+MooseX::AttributeShortcuts::Trait::Attribute 0.013  R/RS/RSRCHBOY/MooseX-AttributeShortcuts-0.013.tar.gz
 MooseX::AttributeTree              0.04  C/CJ/CJM/MooseX-AttributeTree-0.04.tar.gz
 MooseX::AttributeTree::Accessor    0.03  C/CJ/CJM/MooseX-AttributeTree-0.04.tar.gz
 MooseX::AuthorizedMethods         0.006  D/DR/DRUOSO/MooseX-AuthorizedMethods-0.006.tar.gz
