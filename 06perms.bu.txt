@@ -1138,6 +1138,7 @@ Business::PVMForImportAfterExport,HAVI,f
 Business::PayBox,TOSTI,f
 Business::PayPal,MOCK,c
 Business::PayPal,PHRED,f
+Business::PayPal,SZABGAB,c
 Business::PayPal::API,HEMBREED,f
 Business::PayPal::API::AuthorizationRequest,HEMBREED,f
 Business::PayPal::API::CaptureRequest,HEMBREED,f
