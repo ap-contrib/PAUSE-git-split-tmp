@@ -200,6 +200,7 @@ Finance::Bank::IE::PermanentTSB,PALLOTRON,m
 Finance::Bank::INGDirect,DRAUONER,f
 Finance::Bank::INGDirect::Account,DRAUONER,f
 Finance::Bank::INGDirect::Statement,DRAUONER,f
+Finance::Bank::JP::MUFG,PERFORB,f
 Finance::Bank::JP::Mizuho,NGS,m
 Finance::Bank::JP::Mizuho::Account,NGS,f
 Finance::Bank::LaPoste,PIXEL,m
