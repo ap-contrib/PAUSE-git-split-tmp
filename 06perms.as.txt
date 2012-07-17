@@ -203,6 +203,7 @@ Async::ORM::SQL::Insert,VTI,f
 Async::ORM::SQL::Select,VTI,f
 Async::ORM::SQL::Update,VTI,f
 Async::ORM::Schema,VTI,f
+Async::Selector,TOSHIOITO,f
 AsyncAwhileClass,RCAPUTO,f
 AsyncAwhileRole,RCAPUTO,f
 AsyncData,MJD,f

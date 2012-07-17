@@ -222,7 +222,7 @@ perlrc                             0.01  S/SA/SALVA/perlrc-0.01.tar.gz
 PerlReq::Utils                    undef  A/AT/ATOURBIN/rpm-build-perl-0.80.tar.gz
 perlrocks                          0.02  G/GU/GUGOD/perlrocks-0.02.tar.gz
 perlrpcgen::DefClass              undef  J/JA/JAKE/perlrpcgen-0.71a.tar.gz
-perlsecret                        1.001  B/BO/BOOK/perlsecret-1.001.tar.gz
+perlsecret                        1.002  B/BO/BOOK/perlsecret-1.002.tar.gz
 PerlSpeak                          2.01  J/JK/JKAMPHAUS/PerlSpeak-2.01.tar.gz
 PerlSpec                       0.001000  B/BO/BOSTON/PerlSpec-0.1.0.tar.gz
 PerlTidy::Options                 undef  L/LE/LEIF/tidyview-1.14.tar.gz
