@@ -118,6 +118,7 @@ Storm::Types,JHALLOCK,f
 StormX::Query::DeleteWhere,JHALLOCK,m
 Stow,ASPIERS,f
 Stow::Util,ASPIERS,f
+Str,BRADH,f
 StrHandle,CHM,f
 StrHandle,LUKKA,c
 StrNum,TOMC,f
