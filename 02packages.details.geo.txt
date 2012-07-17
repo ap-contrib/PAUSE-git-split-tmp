@@ -99,7 +99,7 @@ Getopt::Chain::v005::Carp         undef  R/RO/ROKR/Getopt-Chain-0.017.tar.gz
 Getopt::Chain::v005::Context      undef  R/RO/ROKR/Getopt-Chain-0.017.tar.gz
 Getopt::Chain::v005::Context::Link undef  R/RO/ROKR/Getopt-Chain-0.017.tar.gz
 Getopt::Clade                  0.000001  D/DC/DCONWAY/Getopt-Clade-0.0.1.tar.gz
-Getopt::CommandLineExports         0.02  R/RH/RHAXTON/Getopt-CommandLineExports-0.02.tar.gz
+Getopt::CommandLineExports         0.03  R/RH/RHAXTON/Getopt-CommandLineExports-0.03.tar.gz
 Getopt::Compact                    0.04  A/AS/ASW/Getopt-Compact-0.04.tar.gz
 Getopt::Compact::PodMunger         0.04  A/AS/ASW/Getopt-Compact-0.04.tar.gz
 Getopt::Compact::WithCmd           0.20  X/XA/XAICRON/Getopt-Compact-WithCmd-0.20.tar.gz
