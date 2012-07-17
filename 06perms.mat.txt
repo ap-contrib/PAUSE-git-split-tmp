@@ -662,6 +662,7 @@ Math::Vector::Real,SALVA,f
 Math::Vector::Real::MultiNormalMixture,SALVA,f
 Math::Vector::Real::Neighbors,SALVA,f
 Math::Vector::Real::Random,SALVA,f
+Math::Vector::Real::XS,SALVA,f
 Math::Vector::Real::kdTree,SALVA,f
 Math::Vector::SortIndexes,SPLICE,f
 Math::VectorReal,ANTHONY,m
