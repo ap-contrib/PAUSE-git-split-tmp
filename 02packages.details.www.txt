@@ -480,7 +480,7 @@ WWW::Search::Search               1.015  M/MT/MTHURN/WWW-Search-Search-1.015.tar
 WWW::Search::Search97             1.004  M/MT/MTHURN/WWW-Search-Backends-1.073.tar.gz
 WWW::Search::SFgate               1.004  M/MT/MTHURN/WWW-Search-Backends-1.073.tar.gz
 WWW::Search::Simple               undef  M/MT/MTHURN/WWW-Search-2.508.tar.gz
-WWW::Search::Techbang              0.01  G/GU/GUGOD/WWW-Search-Techbang-0.01.tar.gz
+WWW::Search::Techbang              0.02  G/GU/GUGOD/WWW-Search-Techbang-0.02.tar.gz
 WWW::Search::Teoma                 0.01  J/JS/JSCHNEID/WWW-Search-Teoma-0.01.tar.gz
 WWW::Search::Test                 2.288  M/MT/MTHURN/WWW-Search-2.508.tar.gz
 WWW::Search::TheITJobBoard         0.04  L/LG/LGODDARD/WWW-Search-TheITJobBoard-0.04b.tar.gz
