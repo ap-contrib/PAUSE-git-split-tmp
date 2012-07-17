@@ -563,7 +563,8 @@ Bot::BasicBot::Pluggable::Module::RD::Help,IVORW,f
 Bot::BasicBot::Pluggable::Module::RD_Basic,IVORW,f
 Bot::BasicBot::Pluggable::Module::RD_Basic::Command,IVORW,f
 Bot::BasicBot::Pluggable::Module::RD_Basic::Help,IVORW,f
-Bot::BasicBot::Pluggable::Module::RSS,MDOM,f
+Bot::BasicBot::Pluggable::Module::RSS,EDENC,f
+Bot::BasicBot::Pluggable::Module::RSS,MDOM,c
 Bot::BasicBot::Pluggable::Module::RT,DAMS,f
 Bot::BasicBot::Pluggable::Module::Retort,WAZZUTEKE,f
 Bot::BasicBot::Pluggable::Module::Search,SIMONW,f
