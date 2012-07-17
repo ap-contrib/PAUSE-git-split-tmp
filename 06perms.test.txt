@@ -245,6 +245,7 @@ Test::Name::FromLine,SATOH,f
 Test::NameNote,NCLEATON,f
 Test::NeedsDisplay,ADAMK,f
 Test::Net::Connect,NIKC,f
+Test::Net::Prober::HTTPServer,COSIMO,f
 Test::Net::RabbitMQ,GPHAT,f
 Test::Net::Service,JKUTEJ,f
 Test::Nginx,AGENT,f

@@ -831,6 +831,15 @@ Net::Prizm,IVAN,c
 Net::Prizm,JEF,f
 Net::Prober,COSIMO,f
 Net::Prober,OPERA,c
+Net::Prober::Probe::Base,COSIMO,f
+Net::Prober::Probe::HTTP,COSIMO,f
+Net::Prober::Probe::TCP,COSIMO,f
+Net::Prober::http,COSIMO,f
+Net::Prober::imap,COSIMO,f
+Net::Prober::ping,COSIMO,f
+Net::Prober::smtp,COSIMO,f
+Net::Prober::ssh,COSIMO,f
+Net::Prober::tcp,COSIMO,f
 Net::Protocol::Simple,SAXJAZMAN,f
 Net::Proxmox::VE,DJZORT,f
 Net::Proxmox::VE::Access,DJZORT,f
