@@ -187,6 +187,7 @@ Log::Any::App,SHARYANTO,f
 Log::Any::For::Builtins,SHARYANTO,f
 Log::Any::For::Class,SHARYANTO,f
 Log::Any::For::DBI,SHARYANTO,f
+Log::Any::For::LWP,SHARYANTO,f
 Log::Any::For::Package,SHARYANTO,f
 Log::Any::Manager,JSWARTZ,f
 Log::Any::Plugin,SDT,f
