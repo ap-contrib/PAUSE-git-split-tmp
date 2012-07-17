@@ -499,6 +499,7 @@ Mousse::Util::TypeConstraints,INGY,f
 MovableType,SHERZODR,f
 Move,CHESSKIT,f
 Movie::Info,SIMONW,f
+Movies::Organizer,CELOGEEK,f
 Moxy,MIKI,c
 Moxy,MIKIHOSHI,c
 Moxy,TOKUHIROM,f
