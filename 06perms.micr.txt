@@ -784,6 +784,11 @@ Module::Build::YAML,LEONT,c
 Module::Build::YAML,MSCHWERN,c
 Module::Build::Yapp,DHARDISON,f
 Module::Bundled::Files,PCAMPBELL,f
+Module::CAPIMaker,SALVA,f
+Module::CAPIMaker::Template::C_API_H,SALVA,f
+Module::CAPIMaker::Template::Module_C,SALVA,f
+Module::CAPIMaker::Template::Module_H,SALVA,f
+Module::CAPIMaker::Template::Sample_XS,SALVA,f
 Module::CGI::Install,ADAMK,f
 Module::CPANTS,DOMM,c
 Module::CPANTS,LBROCARD,f

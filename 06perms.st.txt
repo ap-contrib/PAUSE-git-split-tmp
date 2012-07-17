@@ -555,6 +555,7 @@ Sub::Quote,RIBASUSHI,c
 Sub::Quote,SSCAFFIDI,c
 Sub::Quote,WSHELDAHL,c
 Sub::Quotelike,RGARCIA,m
+Sub::Rate,TYPESTER,f
 Sub::ReasonableParams,JHELWIG,m
 Sub::Recursive,LODIN,m
 Sub::Regex,XERN,m
