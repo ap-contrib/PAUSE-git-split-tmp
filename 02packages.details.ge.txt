@@ -266,7 +266,7 @@ Geo::GDAL::RasterBand              0.11  S/SD/SDERLE/Geo-GDAL-0.11.tar.gz
 Geo::GDAL::SavedEnv                1.81  A/AJ/AJOLMA/Geo-GDAL-1.81.tar.gz
 Geo::GDAL::Transformer             1.90  A/AJ/AJOLMA/Geo-GDAL-1.90.tar.gz
 Geo::GDALc                         1.90  A/AJ/AJOLMA/Geo-GDAL-1.90.tar.gz
-Geo::GeoNames                      0.08  B/BD/BDFOY/Geo-GeoNames-0.08.tar.gz
+Geo::GeoNames                      0.09  B/BD/BDFOY/Geo-GeoNames-0.09.tar.gz
 Geo::GeoNames::DB::SQLite         undef  M/ME/MENGXR/Geo-GeoNames-Record-0.11.tar.gz
 Geo::GeoNames::File               undef  M/ME/MENGXR/Geo-GeoNames-Record-0.11.tar.gz
 Geo::GeoNames::Record              0.11  M/ME/MENGXR/Geo-GeoNames-Record-0.11.tar.gz
