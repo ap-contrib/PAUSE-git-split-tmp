@@ -392,7 +392,7 @@ MIME::WordDecoder::UTF_8          undef  D/DS/DSKOLL/MIME-tools-5.503.tar.gz
 MIME::Words                       5.503  D/DS/DSKOLL/MIME-tools-5.503.tar.gz
 MimeData                          undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Mindcal                            0.01  M/MS/MSCHILLI/Mindcal-0.01.tar.gz
-Minecraft::RCON                  v0.1.1  D/DE/DEMMY/Minecraft-RCON-v0.1.1.tar.gz
+Minecraft::RCON                  v0.1.2  D/DE/DEMMY/Minecraft-RCON-v0.1.2.tar.gz
 Minilla                           undef  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
 MinimalApp                        undef  N/NE/NES/CGI-Application-Plugin-Nes-0.01.tar.gz
 minimalapp                        undef  P/PH/PHISH/CGI-XMLApplication-1.1.3.tar.gz
