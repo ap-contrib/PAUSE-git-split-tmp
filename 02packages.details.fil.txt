@@ -215,6 +215,7 @@ Finance::Currency::Convert::BChile 0.04  H/HU/HUGUEI/Finance-Currency-Convert-BC
 Finance::Currency::Convert::Custom 1.00  D/DM/DMITRY/Finance-Currency-Convert-Custom-1.00.tgz
 Finance::Currency::Convert::DnB     0.2  T/TE/TECHIE/Finance-Currency-Convert-DnB-0.2.tar.gz
 Finance::Currency::Convert::ECB     0.2  S/ST/STEFANOS/Finance-Currency-Convert-ECB-0.2.tar.gz
+Finance::Currency::Convert::KlikBCA 0.01  S/SH/SHARYANTO/Finance-Currency-Convert-KlikBCA-0.01.tar.gz
 Finance::Currency::Convert::WebserviceX 0.07001  C/CL/CLACO/Finance-Currency-Convert-WebserviceX-0.07001.tar.gz
 Finance::Currency::Convert::XE     0.20  R/RM/RMCKAY/Finance-Currency-Convert-XE-0.20.tar.gz
 Finance::Currency::Convert::Yahoo   0.2  L/LG/LGODDARD/Finance-Currency-Convert-Yahoo-0.2.tar.gz

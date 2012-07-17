@@ -288,6 +288,7 @@ Finance::Currency::Convert::BChile,HUGUEI,m
 Finance::Currency::Convert::Custom,DMITRY,m
 Finance::Currency::Convert::DnB,TECHIE,m
 Finance::Currency::Convert::ECB,STEFANOS,f
+Finance::Currency::Convert::KlikBCA,SHARYANTO,f
 Finance::Currency::Convert::WebserviceX,CLACO,f
 Finance::Currency::Convert::XE,BARBIE,f
 Finance::Currency::Convert::XE,RMCKAY,c
