@@ -252,7 +252,7 @@ File::MailAlias::Storage       v0.11.401  P/PJ/PJFL/file-dataclass/File-DataClas
 File::Maintenance                  0.03  D/DH/DHORNE/File-Maintenance-0.03.tar.gz
 File::Maker                        0.05  S/SO/SOFTDIA/File-Maker-0.05.tar.gz
 File::Mangle                       0.02  M/MS/MSMITH/File-Mangle-0.02.tar.gz
-File::Map                          0.51  L/LE/LEONT/File-Map-0.51.tar.gz
+File::Map                          0.52  L/LE/LEONT/File-Map-0.52.tar.gz
 File::Marker                       0.13  D/DA/DAGOLDEN/File-Marker-0.13.tar.gz
 File::MealMaster               v0.11.401  P/PJ/PJFL/file-dataclass/File-DataClass-0.11.401.tar.gz
 File::MealMaster::Result       v0.11.401  P/PJ/PJFL/file-dataclass/File-DataClass-0.11.401.tar.gz
