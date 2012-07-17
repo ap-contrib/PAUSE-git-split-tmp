@@ -612,7 +612,7 @@ Log::Any::App                      0.40  S/SH/SHARYANTO/Log-Any-App-0.40.tar.gz
 Log::Any::For::Builtins            0.03  S/SH/SHARYANTO/Builtin-Logged-0.03.tar.gz
 Log::Any::For::Class               0.07  S/SH/SHARYANTO/Log-Any-For-Class-0.07.tar.gz
 Log::Any::For::DBI                 0.05  S/SH/SHARYANTO/Log-Any-For-DBI-0.05.tar.gz
-Log::Any::For::LWP                 0.01  S/SH/SHARYANTO/Log-Any-For-LWP-0.01.tar.gz
+Log::Any::For::LWP                 0.02  S/SH/SHARYANTO/Log-Any-For-LWP-0.02.tar.gz
 Log::Any::For::Package             0.07  S/SH/SHARYANTO/Log-Any-For-Class-0.07.tar.gz
 Log::Any::Manager                  0.07  J/JS/JSWARTZ/Log-Any-Adapter-0.07.tar.gz
 Log::Any::Plugin                  0.001  S/SD/SDT/Log-Any-Plugin-0.001.tar.gz
