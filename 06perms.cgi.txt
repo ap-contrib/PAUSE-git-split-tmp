@@ -890,6 +890,7 @@ CPAN::Config,DAGOLDEN,c
 CPAN::Config,FLORA,c
 CPAN::Config,P5P,f
 CPAN::Config,perl,c
+CPAN::Critic::Module::Abstract,SHARYANTO,f
 CPAN::Curate,NEILB,m
 CPAN::Debug,ANDK,c
 CPAN::Debug,DAGOLDEN,c
