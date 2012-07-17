@@ -12,6 +12,7 @@ samples::site::EditControlRule,AWKAY,f
 samples::site::MyPermissionFactory,AWKAY,f
 samples::site::StringUserFactory,AWKAY,f
 sane,PUNYTAN,f
+sanity,BBYRD,f
 sapnwrfc,PIERS,f
 savevars,SREZIC,f
 sc,DCMERTENS,f
