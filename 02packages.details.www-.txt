@@ -26,7 +26,7 @@ WWW::Shorten::Qurl                 2.01  D/DA/DAVECROSS/WWW-Shorten-Qurl-2.01.ta
 WWW::Shorten::Qwer                 1.00  D/DA/DAVECROSS/WWW-Shorten-Qwer-1.00.tar.gz
 WWW::Shorten::RevCanonical         0.03  M/MI/MIYAGAWA/WWW-Shorten-RevCanonical-0.03.tar.gz
 WWW::Shorten::Safe                 1.20  J/JS/JSOBRIER/WWW-Shorten-Safe-1.2.tar.gz
-WWW::Shorten::SCK                 0.002  C/CE/CELOGEEK/WWW-Shorten-SCK-0.002.tar.gz
+WWW::Shorten::SCK                   0.1  C/CE/CELOGEEK/WWW-Shorten-SCK-0.1.tar.gz
 WWW::Shorten::ShadyURL             0.03  I/IN/INFIDEL/WWW-Shorten-ShadyURL-0.03.tar.gz
 WWW::Shorten::Shorl                1.92  D/DA/DAVECROSS/WWW-Shorten-Shorl-1.92.tar.gz
 WWW::Shorten::Simple               0.01  M/MI/MIYAGAWA/WWW-Shorten-Simple-0.01.tar.gz
