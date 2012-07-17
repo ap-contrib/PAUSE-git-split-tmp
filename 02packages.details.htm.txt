@@ -1000,7 +1000,7 @@ HTTP::Daemon                       6.01  G/GA/GAAS/HTTP-Daemon-6.01.tar.gz
 HTTP::Daemon::App              0.000009  D/DM/DMUEY/HTTP-Daemon-App-v0.0.9.tar.gz
 HTTP::Daemon::ClientConn           6.01  G/GA/GAAS/HTTP-Daemon-6.01.tar.gz
 HTTP::Daemon::ClientConn::SSL      1.04  A/AU/AUFFLICK/HTTP-Daemon-SSL-1.04.tar.gz
-HTTP::Daemon::patch::ipv6          0.02  S/SH/SHARYANTO/HTTP-Daemon-patch-ipv6-0.02.tar.gz
+HTTP::Daemon::patch::ipv6          0.03  S/SH/SHARYANTO/HTTP-Daemon-patch-ipv6-0.03.tar.gz
 HTTP::Daemon::SSL                  1.04  A/AU/AUFFLICK/HTTP-Daemon-SSL-1.04.tar.gz
 HTTP::Daemon::SSL::DummyDaemon     1.04  A/AU/AUFFLICK/HTTP-Daemon-SSL-1.04.tar.gz
 HTTP::Daemon::Threaded             0.91  D/DA/DARNOLD/HTTP-Daemon-Threaded-0.91.tar.gz
