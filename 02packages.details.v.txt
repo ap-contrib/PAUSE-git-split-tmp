@@ -687,10 +687,10 @@ VRML::VRML1::Standard              1.07  H/HP/HPALM/VRML-1.10.tar.gz
 VRML::VRML2                        1.10  H/HP/HPALM/VRML-1.10.tar.gz
 VRML::VRML2::Standard              1.07  H/HP/HPALM/VRML-1.10.tar.gz
 VRML::VRMLFunc                    undef  L/LU/LUKKA/FreeWRL-0.14.tar.gz
-Vroom                              0.26  I/IN/INGY/Vroom-0.26.tar.gz
-Vroom::Mo                         undef  I/IN/INGY/Vroom-0.26.tar.gz
+Vroom                              0.27  I/IN/INGY/Vroom-0.27.tar.gz
+Vroom::Mo                         undef  I/IN/INGY/Vroom-0.27.tar.gz
 Vroom::OO                          0.15  I/IN/INGY/Vroom-0.25.tar.gz
-Vroom::Vroom                      undef  I/IN/INGY/Vroom-0.26.tar.gz
+Vroom::Vroom                      undef  I/IN/INGY/Vroom-0.27.tar.gz
 Vroom::Vroom::Link                 0.06  D/DR/DRBEAN/Vroom-Vroom-Link-0.06.tar.gz
 VS::Chart                          0.08  C/CL/CLAESJAC/VS-Chart-0.08.tar.gz
 VS::Chart::Color                  undef  C/CL/CLAESJAC/VS-Chart-0.08.tar.gz
