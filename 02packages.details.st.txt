@@ -130,7 +130,7 @@ Sub::Prototype                     0.02  F/FL/FLORA/Sub-Prototype-0.02.tar.gz
 Sub::Prototype::Util               0.10  V/VP/VPIT/Sub-Prototype-Util-0.10.tar.gz
 Sub::Quote                        undef  M/MS/MSTROUT/Moo-0.091014.tar.gz
 Sub::Quotelike                     0.03  R/RG/RGARCIA/Sub-Quotelike-0.03.tar.gz
-Sub::Rate                          0.01  T/TY/TYPESTER/Sub-Rate-0.01.tar.gz
+Sub::Rate                          0.02  T/TY/TYPESTER/Sub-Rate-0.02.tar.gz
 Sub::Recursive                     0.03  L/LO/LODIN/Sub-Recursive-0.03.tar.gz
 Sub::Regex                         0.02  X/XE/XERN/Sub-Regex-0.02.tar.gz
 Sub::Retry                         0.04  T/TO/TOKUHIROM/Sub-Retry-0.04.tar.gz
