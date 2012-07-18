@@ -848,6 +848,7 @@ Parse::Tokens,MCKAY,m
 Parse::Trace,PSCUST,c
 Parse::Trace,PVERD,f
 Parse::USDA::NNDB,IOANR,f
+Parse::VarName,SHARYANTO,f
 Parse::Vipar,SFINK,m
 Parse::Vipar::Common,SFINK,f
 Parse::Vipar::Console,SFINK,f
