@@ -360,7 +360,7 @@ CPANPLUS::Backend::RV             undef  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
 CPANPLUS::Config                  undef  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
 CPANPLUS::Config::BaseEnv          0.04  B/BI/BINGOS/CPANPLUS-Config-BaseEnv-0.04.tar.gz
 CPANPLUS::Config::HomeEnv          0.04  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
-CPANPLUS::Config::YACSmoke         0.82  B/BI/BINGOS/CPANPLUS-YACSmoke-0.82.tar.gz
+CPANPLUS::Config::YACSmoke         0.84  B/BI/BINGOS/CPANPLUS-YACSmoke-0.84.tar.gz
 CPANPLUS::Configure               undef  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
 CPANPLUS::Configure::Setup        undef  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
 CPANPLUS::Daemon                   0.02  K/KA/KANE/CPANPLUS-Daemon-0.02.tar.gz
@@ -394,7 +394,7 @@ CPANPLUS::Dist::Slackware::Plugin::Padre 0.02  V/VO/VOEGELAS/CPANPLUS-Dist-Slack
 CPANPLUS::Dist::Slackware::Plugin::YAML::LibYAML 0.03  V/VO/VOEGELAS/CPANPLUS-Dist-Slackware-1.00.tar.gz
 CPANPLUS::Dist::Slackware::Plugin::YAML::Syck 0.01  V/VO/VOEGELAS/CPANPLUS-Dist-Slackware-1.00.tar.gz
 CPANPLUS::Dist::SUSE               0.03  M/MF/MFW/CPANPLUS-Dist-SUSE-0.03.tar.gz
-CPANPLUS::Dist::YACSmoke           0.82  B/BI/BINGOS/CPANPLUS-YACSmoke-0.82.tar.gz
+CPANPLUS::Dist::YACSmoke           0.84  B/BI/BINGOS/CPANPLUS-YACSmoke-0.84.tar.gz
 CPANPLUS::Error                   undef  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
 CPANPLUS::inc                     undef  K/KA/KANE/CPANPLUS-0.84.tar.gz
 CPANPLUS::Internals              0.9130  B/BI/BINGOS/CPANPLUS-0.9130.tar.gz
@@ -477,10 +477,10 @@ CPANPLUS::Shell::Wx::UpdateWizard::UpdateTypePage undef  S/SK/SKAMANSAM/CPANPLUS
 CPANPLUS::Shell::Wx::util         undef  S/SK/SKAMANSAM/CPANPLUS-Shell-Wx-0.04.tar.gz
 CPANPLUS::Test::Dummy::HasScript 0.0004  B/BI/BINGOS/CPANPLUS-Test-Dummy-HasScript-0.0004.tar.gz
 CPANPLUS::Test::Dummy::UsesScript 0.0004  B/BI/BINGOS/CPANPLUS-Test-Dummy-UsesScript-0.0004.tar.gz
-CPANPLUS::YACSmoke                 0.82  B/BI/BINGOS/CPANPLUS-YACSmoke-0.82.tar.gz
-CPANPLUS::YACSmoke::IniFiles       0.82  B/BI/BINGOS/CPANPLUS-YACSmoke-0.82.tar.gz
-CPANPLUS::YACSmoke::ReAssemble     0.82  B/BI/BINGOS/CPANPLUS-YACSmoke-0.82.tar.gz
-CPANPLUS::YACSmoke::SortVers       0.82  B/BI/BINGOS/CPANPLUS-YACSmoke-0.82.tar.gz
+CPANPLUS::YACSmoke                 0.84  B/BI/BINGOS/CPANPLUS-YACSmoke-0.84.tar.gz
+CPANPLUS::YACSmoke::IniFiles       0.84  B/BI/BINGOS/CPANPLUS-YACSmoke-0.84.tar.gz
+CPANPLUS::YACSmoke::ReAssemble     0.84  B/BI/BINGOS/CPANPLUS-YACSmoke-0.84.tar.gz
+CPANPLUS::YACSmoke::SortVers       0.84  B/BI/BINGOS/CPANPLUS-YACSmoke-0.84.tar.gz
 CPANTS::Weight                     0.15  A/AD/ADAMK/CPANTS-Weight-0.15.tar.gz
 CPANXR                             0.08  C/CL/CLAESJAC/CPANXR-0.08.tar.gz
 CPANXR::Apache                    undef  C/CL/CLAESJAC/CPANXR-0.08.tar.gz
