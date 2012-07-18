@@ -1517,6 +1517,7 @@ Text::FormatTable,DSCHWEI,f
 Text::FormatTable,TREY,c
 Text::Fracture,JNW,m
 Text::FromAny,ZERODOGG,f
+Text::Fuzzy,BKB,f
 Text::GaleChurch,ACHIMRU,f
 Text::Galician,XERN,f
 Text::GenderFromName,EDALY,f
