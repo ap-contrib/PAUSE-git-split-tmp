@@ -194,6 +194,7 @@ Safe                               2.33  R/RG/RGARCIA/Safe-2.33.tar.gz
 Safe::Caller                       0.08  S/SC/SCHUBIGER/Safe-Caller-0.08.tar.gz
 Safe::Hole                         0.13  T/TO/TODDR/Safe-Hole-0.13.tar.gz
 Safe::Hole::User                   0.10  S/SE/SEYN/Safe-Hole-0.10.tar.gz
+Safe::Isa                      1.000000  M/MS/MSTROUT/Safe-Isa-1.000000.tar.gz
 Safe::Logs                         1.00  L/LU/LUISMUNOZ/Safe-Logs-1.00.tar.gz
 Safe::World                        0.14  G/GM/GMPASSOS/Safe-World-0.14.tar.gz
 Safe::World::Compartment           0.02  G/GM/GMPASSOS/Safe-World-0.14.tar.gz
