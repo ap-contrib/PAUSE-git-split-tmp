@@ -702,7 +702,7 @@ BackPAN::Index::Schema                0  M/MS/MSCHWERN/BackPAN-Index-0.40.tar.gz
 BackPAN::Version::Discover         0.01  S/SS/SSCAFFIDI/BackPAN-Version-Discover-0.01.tar.gz
 BackPAN::Version::Discover::Results 0.01  S/SS/SSCAFFIDI/BackPAN-Version-Discover-0.01.tar.gz
 Backtick::AutoChomp                0.02  D/DA/DAVIDRW/Backtick-AutoChomp-0.02.tar.gz
-Backticks                        v1.0.3  K/KI/KILNA/Backticks-v1.0.3.tar.gz
+Backticks                        v1.0.4  K/KI/KILNA/Backticks-v1.0.4.tar.gz
 Backup::SingleFile                 0.13  L/LA/LANTI/Backup-SingleFile-0.13.tar.gz
 Backup::Snapback                  0.917  M/MI/MIKEH/Snapback2-0.917.tar.gz
 Bad_Handle                        undef  R/RE/REEDFISH/Net-FullAuto-0.999911.tar.gz
