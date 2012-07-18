@@ -314,7 +314,7 @@ Sane                               0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz
 sane                               0.99  P/PU/PUNYTAN/sane-0.99.tar.gz
 Sane::Device                       0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz
 Sane::Status                       0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz
-sanity                             0.91  B/BB/BBYRD/sanity-0.91.tar.gz
+sanity                             0.92  B/BB/BBYRD/sanity-0.92.tar.gz
 SANtricity::SMcli                  0.02  R/RJ/RJB/SMcli/SANtricity-SMcli-0.02.tar.gz
 SAP::BC                            0.03  P/PI/PIERS/SAP-BC-XMLRFC-0.06.tar.gz
 SAP::BC::Iface                     0.03  P/PI/PIERS/SAP-BC-XMLRFC-0.06.tar.gz
