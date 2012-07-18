@@ -424,7 +424,7 @@ NIST::NVD                          1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.0
 NIST::NVD::Query                   1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
 NIST::NVD::Store::Base             1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
 NIST::NVD::Store::DB_File          1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
-NIST::NVD::Store::SQLite3          0.04  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-Store-SQLite3-0.04.tar.bz2
+NIST::NVD::Store::SQLite3          1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-Store-SQLite3-1.00.00.tar.bz2
 NIST::NVD::Update                  1.00  C/CJ/CJCOLLIER/NIST-NVD/NIST-NVD-1.00.00.tar.bz2
 Nitesi                           0.0051  H/HO/HORNBURG/Nitesi-0.0051.tar.gz
 Nitesi::Account::Manager          undef  H/HO/HORNBURG/Nitesi-0.0051.tar.gz
