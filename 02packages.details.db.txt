@@ -635,10 +635,10 @@ DBIx::Lite::Schema                 0.14  A/AA/AAR/DBIx-Lite-0.14.tar.gz
 DBIx::Lite::Schema::Table          0.14  A/AA/AAR/DBIx-Lite-0.14.tar.gz
 DBIx::Locker                   0.100111  R/RJ/RJBS/DBIx-Locker-0.100111.tar.gz
 DBIx::Locker::Lock             0.100111  R/RJ/RJBS/DBIx-Locker-0.100111.tar.gz
-DBIx::Log4perl                     0.25  M/MJ/MJEVANS/DBIx-Log4perl-0.25.tar.gz
-DBIx::Log4perl::Constants         undef  M/MJ/MJEVANS/DBIx-Log4perl-0.25.tar.gz
-DBIx::Log4perl::db                undef  M/MJ/MJEVANS/DBIx-Log4perl-0.25.tar.gz
-DBIx::Log4perl::st                undef  M/MJ/MJEVANS/DBIx-Log4perl-0.25.tar.gz
+DBIx::Log4perl                     0.26  M/MJ/MJEVANS/DBIx-Log4perl-0.26.tar.gz
+DBIx::Log4perl::Constants         undef  M/MJ/MJEVANS/DBIx-Log4perl-0.26.tar.gz
+DBIx::Log4perl::db                undef  M/MJ/MJEVANS/DBIx-Log4perl-0.26.tar.gz
+DBIx::Log4perl::st                undef  M/MJ/MJEVANS/DBIx-Log4perl-0.26.tar.gz
 DBIx::Lookup::Field            2.101420  M/MA/MARCEL/DBIx-Lookup-Field-2.101420.tar.gz
 DBIx::Migrate                      0.01  B/BR/BROOM/DBIx-Migrate-0.01.tar.gz
 DBIx::Migration                    0.07  D/DA/DANIEL/DBIx-Migration-0.07.tar.gz
