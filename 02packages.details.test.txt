@@ -727,7 +727,7 @@ Text::Capitalize                    1.3  D/DO/DOOM/Text-Capitalize-1.3.tar.gz
 Text::Categorize::Textrank         0.51  K/KU/KUBINA/Text-Categorize-Textrank-0.51.tar.gz
 Text::Categorize::Textrank::En     0.51  K/KU/KUBINA/Text-Categorize-Textrank-0.51.tar.gz
 Text::Categorize::Util             0.51  K/KU/KUBINA/Text-Categorize-Textrank-0.51.tar.gz
-Text::CGILike                       0.3  C/CE/CELOGEEK/Text-CGILike-0.3.tar.gz
+Text::CGILike                       0.4  C/CE/CELOGEEK/Text-CGILike-0.4.tar.gz
 Text::CharWidth                    0.04  K/KU/KUBOTA/Text-CharWidth-0.04.tar.gz
 Text::ChaSen                       1.04  K/KN/KNOK/Text-ChaSen-1.04.tar.gz
 Text::CHM                          0.01  D/DD/DDS/Text-CHM-0.01.tar.gz
