@@ -426,6 +426,7 @@ CIF::Client::Plugin::Pcapfilter,SAXJAZMAN,f
 CIF::Client::Plugin::Raw,SAXJAZMAN,f
 CIF::Client::Plugin::Snort,SAXJAZMAN,f
 CIF::Client::Plugin::Table,SAXJAZMAN,f
+CIF::Client::Support,SAXJAZMAN,f
 CIPP,JRED,m
 CIPP::Apache,JRED,f
 CIPP::CGI,JRED,f
