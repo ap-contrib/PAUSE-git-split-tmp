@@ -234,6 +234,7 @@ jQuery::Loader::Source::URI,RKRIMEN,c
 jQuery::Loader::Source::URI,ROKR,f
 jQuery::Loader::Template,RKRIMEN,c
 jQuery::Loader::Template,ROKR,f
+jQuery::jqGrid,ICYDEE,m
 java::io::PrintStream,LBROCARD,f
 java::lang::Integer,LBROCARD,f
 java::lang::String,BJEPS,f

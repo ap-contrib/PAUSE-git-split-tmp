@@ -203,12 +203,13 @@ Async::ORM::SQL::Insert,VTI,f
 Async::ORM::SQL::Select,VTI,f
 Async::ORM::SQL::Update,VTI,f
 Async::ORM::Schema,VTI,f
-Async::Selector,TOSHIOITO,f
+Async::Selector,TOSHIOITO,m
 AsyncAwhileClass,RCAPUTO,f
 AsyncAwhileRole,RCAPUTO,f
 AsyncData,MJD,f
 AsyncTimeout,MJD,f
 Async_Editor,GROMMIER,f
+Asyncore,SEBA,m
 AtExit,BRADAPP,m
 Atheme,PIPPIJN,c
 Atheme,STEPHANJ,f
