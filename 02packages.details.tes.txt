@@ -129,6 +129,7 @@ Test::Data::Function               1.22  B/BD/BDFOY/Test-Data-1.22.tar.gz
 Test::Data::Hash                   1.22  B/BD/BDFOY/Test-Data-1.22.tar.gz
 Test::Data::Riak                    0.5  A/AN/ANELSON/Data-Riak-0.5.tar.gz
 Test::Data::Scalar                 1.22  B/BD/BDFOY/Test-Data-1.22.tar.gz
+Test::Data::Unixish                0.03  S/SH/SHARYANTO/Data-Unixish-Implementation-0.03.tar.gz
 Test::Database                     1.11  B/BO/BOOK/Test-Database-1.11.tar.gz
 Test::Database::Driver            undef  B/BO/BOOK/Test-Database-1.11.tar.gz
 Test::Database::Driver::CSV       undef  B/BO/BOOK/Test-Database-1.11.tar.gz

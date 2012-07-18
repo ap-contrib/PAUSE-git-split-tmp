@@ -238,6 +238,7 @@ Test::Data::Riak,ANELSON,f
 Test::Data::Riak,GPHAT,c
 Test::Data::Riak,STEVAN,c
 Test::Data::Scalar,BDFOY,f
+Test::Data::Unixish,SHARYANTO,f
 Test::DataDriven,MBARBON,f
 Test::DataDriven::Plugin,MBARBON,f
 Test::DataLoader::MySQL,TSUCCHI,m
