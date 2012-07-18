@@ -167,6 +167,7 @@ Log::Any::Adapter::Callback,SHARYANTO,f
 Log::Any::Adapter::Catalyst,MGRIMES,f
 Log::Any::Adapter::Core,JSWARTZ,f
 Log::Any::Adapter::Dispatch,JSWARTZ,f
+Log::Any::Adapter::File,JSWARTZ,f
 Log::Any::Adapter::FileHandle,JASONJAYR,m
 Log::Any::Adapter::Log4perl,JSWARTZ,f
 Log::Any::Adapter::Log::Dispatch,JSWARTZ,f
@@ -176,6 +177,8 @@ Log::Any::Adapter::Log::Log4perl::Test::InternalOnly,JSWARTZ,f
 Log::Any::Adapter::Mojo,HENRYYKT,m
 Log::Any::Adapter::Null,JSWARTZ,f
 Log::Any::Adapter::ScreenColoredLevel,SHARYANTO,f
+Log::Any::Adapter::Stderr,JSWARTZ,f
+Log::Any::Adapter::Stdout,JSWARTZ,f
 Log::Any::Adapter::Syslog,DANIELP,f
 Log::Any::Adapter::Syslog,SDT,c
 Log::Any::Adapter::Syslog,TJC,c
