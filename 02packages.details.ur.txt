@@ -315,6 +315,7 @@ VANAMBURG::SuitSingletonCHaSeD    undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar
 VANAMBURG::SuitSingletonSHoCkeD   undef  V/VA/VANAMBURG/VANAMBURG-Magic-0.04.tar.gz
 var                               undef  S/SM/SMUELLER/Perl-APIReference-0.09.tar.gz
 Var::Extract                       0.02  M/MN/MNUNBERG/Var-Extract-0.02.tar.gz
+Var::Pairs                     0.001001  D/DC/DCONWAY/Var-Pairs-0.001001.tar.gz
 Var::State                         0.05  J/JH/JHTHORSEN/Var-State-0.05.tar.gz
 VARCHAR                            1.93  S/SH/SHERZODR/Class-PObject-2.17.tar.gz
 VarGuard                           0.03  C/CI/CINDY/VarGuard-0.03.tar.gz
