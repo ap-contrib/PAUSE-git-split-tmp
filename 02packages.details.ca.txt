@@ -401,7 +401,7 @@ Catalyst::Plugin::SwiffUploaderCookieHack 0.01  T/TR/TRWWW/Catalyst-Plugin-Swiff
 Catalyst::Plugin::Textile          0.01  B/BO/BOBTFISH/Catalyst-Plugin-Textile-0.01.tar.gz
 Catalyst::Plugin::Twitter          0.01  E/EV/EVDB/Catalyst-Plugin-Twitter-0.01.tar.gz
 Catalyst::Plugin::Unicode          0.93  B/BO/BOBTFISH/Catalyst-Plugin-Unicode-0.93.tar.gz
-Catalyst::Plugin::Unicode::Encoding 1.7  B/BO/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.7.tar.gz
+Catalyst::Plugin::Unicode::Encoding 1.8  B/BO/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.8.tar.gz
 Catalyst::Plugin::Upload::Audio::File 0.01  N/NH/NHEINRIC/Catalyst-Plugin-Upload-Audio-File-0.01.tar.gz
 Catalyst::Plugin::Upload::Basename 0.01  M/MR/MRAMBERG/Catalyst-Plugin-Upload-Basename-0.01.tar.gz
 Catalyst::Plugin::Upload::Digest   0.03  A/AV/AVAR/Catalyst-Plugin-Upload-Digest-0.03.tar.gz
