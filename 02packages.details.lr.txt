@@ -386,9 +386,6 @@ LWP::Protocol::file               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::ftp                undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::GHTTP              undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::gopher             undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
-LWP::Protocol::Hosts               0.01  M/MA/MASAKI/LWP-Protocol-Hosts-0.01.tar.gz
-LWP::Protocol::Hosts::http        undef  M/MA/MASAKI/LWP-Protocol-Hosts-0.01.tar.gz
-LWP::Protocol::Hosts::https       undef  M/MA/MASAKI/LWP-Protocol-Hosts-0.01.tar.gz
 LWP::Protocol::http               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::http10              6.03  G/GA/GAAS/LWP-Protocol-http10-6.03.tar.gz
 LWP::Protocol::http::hosts        undef  M/MA/MASAKI/LWP-UserAgent-DNS-Hosts-0.04.tar.gz
