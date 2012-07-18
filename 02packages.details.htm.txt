@@ -1199,7 +1199,7 @@ HTTP::LoadGen::Run::_dbg           0.03  O/OP/OPI/HTTP-LoadGen-0.07.tar.gz
 HTTP::LoadGen::ScoreBoard          0.04  O/OP/OPI/HTTP-LoadGen-0.07.tar.gz
 HTTP::LRDD                        0.105  T/TO/TOBYINK/HTTP-LRDD-0.105.tar.gz
 HTTP::Message                      6.03  G/GA/GAAS/HTTP-Message-6.03.tar.gz
-HTTP::Message::PSGI               undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
+HTTP::Message::PSGI               undef  M/MI/MIYAGAWA/Plack-0.9990.tar.gz
 HTTP::MessageParser                 0.3  C/CH/CHANSEN/HTTP-MessageParser-0.3.tar.gz
 HTTP::MHTTP                        0.15  P/PI/PIERS/HTTP-MHTTP-0.15.tar.gz
 HTTP::MobileAgent                  0.35  K/KU/KURIHARA/HTTP-MobileAgent-0.35.tar.gz
@@ -1410,7 +1410,7 @@ HTTP::Server::EV::IO::Blocking      0.4  N/NY/NYAKNYAN/HTTP-Server-EV-0.4.tar.gz
 HTTP::Server::EV::MultipartFile     0.4  N/NY/NYAKNYAN/HTTP-Server-EV-0.4.tar.gz
 HTTP::Server::EV::PortListener      0.4  N/NY/NYAKNYAN/HTTP-Server-EV-0.4.tar.gz
 HTTP::Server::Multiplex            0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
-HTTP::Server::PSGI                undef  M/MI/MIYAGAWA/Plack-0.9989.tar.gz
+HTTP::Server::PSGI                undef  M/MI/MIYAGAWA/Plack-0.9990.tar.gz
 HTTP::Server::PSGI::Net::Server::PreFork undef  M/MI/MIYAGAWA/Starman-0.3001.tar.gz
 HTTP::Server::Session              0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
 HTTP::Server::Simple               0.44  J/JE/JESSE/HTTP-Server-Simple-0.44.tar.gz
