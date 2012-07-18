@@ -405,6 +405,7 @@ Test::Dynamic,DWC,c
 Test::Dynamic,TURNSTEP,m
 Test::EOL,BOBTFISH,f
 Test::EOL,BROQ,c
+Test::EOL,CYCLES,c
 Test::EOL,DAMS,c
 Test::EOL,DHOSS,c
 Test::EOL,DLAMBLEY,c

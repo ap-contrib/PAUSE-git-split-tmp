@@ -1,4 +1,5 @@
 IPC::Lock::RabbitMQ,BOBTFISH,f
+IPC::Lock::RabbitMQ,CYCLES,c
 IPC::Lock::RabbitMQ,DAMS,c
 IPC::Lock::RabbitMQ,DOY,c
 IPC::Lock::RabbitMQ,FLORA,c
@@ -6,6 +7,7 @@ IPC::Lock::RabbitMQ,GHENRY,c
 IPC::Lock::RabbitMQ,JJNAPIORK,c
 IPC::Lock::RabbitMQ,MSTROUT,c
 IPC::Lock::RabbitMQ::HasTimeout,BOBTFISH,f
+IPC::Lock::RabbitMQ::HasTimeout,CYCLES,c
 IPC::Lock::RabbitMQ::HasTimeout,DAMS,c
 IPC::Lock::RabbitMQ::HasTimeout,DOY,c
 IPC::Lock::RabbitMQ::HasTimeout,FLORA,c
@@ -13,6 +15,7 @@ IPC::Lock::RabbitMQ::HasTimeout,GHENRY,c
 IPC::Lock::RabbitMQ::HasTimeout,JJNAPIORK,c
 IPC::Lock::RabbitMQ::HasTimeout,MSTROUT,c
 IPC::Lock::RabbitMQ::Lock,BOBTFISH,f
+IPC::Lock::RabbitMQ::Lock,CYCLES,c
 IPC::Lock::RabbitMQ::Lock,DAMS,c
 IPC::Lock::RabbitMQ::Lock,DOY,c
 IPC::Lock::RabbitMQ::Lock,FLORA,c
@@ -20,6 +23,7 @@ IPC::Lock::RabbitMQ::Lock,GHENRY,c
 IPC::Lock::RabbitMQ::Lock,JJNAPIORK,c
 IPC::Lock::RabbitMQ::Lock,MSTROUT,c
 IPC::Lock::RabbitMQ::Types,BOBTFISH,f
+IPC::Lock::RabbitMQ::Types,CYCLES,c
 IPC::Lock::RabbitMQ::Types,DAMS,c
 IPC::Lock::RabbitMQ::Types,DOY,c
 IPC::Lock::RabbitMQ::Types,FLORA,c
@@ -219,6 +223,7 @@ IPC::SharedMem,NWCLARK,c
 IPC::SharedMem::stat,MHX,f
 IPC::SharedMem::stat,NWCLARK,c
 IPC::ShellCmd,BOBTFISH,f
+IPC::ShellCmd,CYCLES,c
 IPC::ShellCmd,DAMS,c
 IPC::ShellCmd,DHOSS,c
 IPC::ShellCmd,DLAMBLEY,c
@@ -234,6 +239,7 @@ IPC::ShellCmd,MSTROUT,c
 IPC::ShellCmd,OSFAMERON,c
 IPC::ShellCmd,RIBASUSHI,c
 IPC::ShellCmd::Generic,BOBTFISH,f
+IPC::ShellCmd::Generic,CYCLES,c
 IPC::ShellCmd::Generic,DAMS,c
 IPC::ShellCmd::Generic,DHOSS,c
 IPC::ShellCmd::Generic,DLAMBLEY,c
@@ -249,6 +255,7 @@ IPC::ShellCmd::Generic,MSTROUT,c
 IPC::ShellCmd::Generic,OSFAMERON,c
 IPC::ShellCmd::Generic,RIBASUSHI,c
 IPC::ShellCmd::SSH,BOBTFISH,f
+IPC::ShellCmd::SSH,CYCLES,c
 IPC::ShellCmd::SSH,DAMS,c
 IPC::ShellCmd::SSH,DHOSS,c
 IPC::ShellCmd::SSH,DLAMBLEY,c
@@ -264,6 +271,7 @@ IPC::ShellCmd::SSH,MSTROUT,c
 IPC::ShellCmd::SSH,OSFAMERON,c
 IPC::ShellCmd::SSH,RIBASUSHI,c
 IPC::ShellCmd::ShBase,BOBTFISH,f
+IPC::ShellCmd::ShBase,CYCLES,c
 IPC::ShellCmd::ShBase,DAMS,c
 IPC::ShellCmd::ShBase,DHOSS,c
 IPC::ShellCmd::ShBase,DLAMBLEY,c
@@ -279,6 +287,7 @@ IPC::ShellCmd::ShBase,MSTROUT,c
 IPC::ShellCmd::ShBase,OSFAMERON,c
 IPC::ShellCmd::ShBase,RIBASUSHI,c
 IPC::ShellCmd::Sudo,BOBTFISH,f
+IPC::ShellCmd::Sudo,CYCLES,c
 IPC::ShellCmd::Sudo,DAMS,c
 IPC::ShellCmd::Sudo,DHOSS,c
 IPC::ShellCmd::Sudo,DLAMBLEY,c

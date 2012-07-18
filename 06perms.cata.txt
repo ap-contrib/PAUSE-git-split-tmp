@@ -605,6 +605,7 @@ Catalyst::TraitFor::Controller::LocaleSelect,DIEGOK,f
 Catalyst::TraitFor::Controller::PermissionCheck,JSHIRLEY,f
 Catalyst::TraitFor::Controller::Ping,NPEREZ,f
 Catalyst::TraitFor::Controller::RenderView,BOBTFISH,f
+Catalyst::TraitFor::Controller::RenderView,CYCLES,c
 Catalyst::TraitFor::Controller::RenderView,DAMS,c
 Catalyst::TraitFor::Controller::RenderView,DHOSS,c
 Catalyst::TraitFor::Controller::RenderView,DLAMBLEY,c
@@ -698,6 +699,7 @@ Catalyst::TraitFor::Request::ProxyBase,BOBTFISH,f
 Catalyst::TraitFor::Request::ProxyBase,BROQ,c
 Catalyst::TraitFor::Request::ProxyBase,CHRISA,c
 Catalyst::TraitFor::Request::ProxyBase,COSMIN,c
+Catalyst::TraitFor::Request::ProxyBase,CYCLES,c
 Catalyst::TraitFor::Request::ProxyBase,DAMS,c
 Catalyst::TraitFor::Request::ProxyBase,DHOSS,c
 Catalyst::TraitFor::Request::ProxyBase,DLAMBLEY,c
@@ -715,6 +717,7 @@ Catalyst::TraitFor::Request::ProxyBase,VEEP,c
 Catalyst::TraitFor::Request::ProxyBase,ZBY,c
 Catalyst::TraitFor::Request::REST,BOBTFISH,f
 Catalyst::TraitFor::Request::REST,CLACO,c
+Catalyst::TraitFor::Request::REST,CYCLES,c
 Catalyst::TraitFor::Request::REST,DAMS,c
 Catalyst::TraitFor::Request::REST,DHOSS,c
 Catalyst::TraitFor::Request::REST,DLAMBLEY,c
@@ -735,6 +738,7 @@ Catalyst::TraitFor::Request::REST,MSTROUT,c
 Catalyst::TraitFor::Request::REST,RIBASUSHI,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,BOBTFISH,f
 Catalyst::TraitFor::Request::REST::ForBrowsers,CLACO,c
+Catalyst::TraitFor::Request::REST::ForBrowsers,CYCLES,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,DAMS,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,DHOSS,c
 Catalyst::TraitFor::Request::REST::ForBrowsers,DLAMBLEY,c
@@ -881,6 +885,7 @@ Catalyst::View::Component::SubInclude::ESI,BOBTFISH,c
 Catalyst::View::Component::SubInclude::ESI,JAYK,c
 Catalyst::View::Component::SubInclude::ESI,NILSONSFJ,f
 Catalyst::View::Component::SubInclude::HTTP,BOBTFISH,f
+Catalyst::View::Component::SubInclude::HTTP,CYCLES,c
 Catalyst::View::Component::SubInclude::HTTP,DAMS,c
 Catalyst::View::Component::SubInclude::HTTP,DHOSS,c
 Catalyst::View::Component::SubInclude::HTTP,DLAMBLEY,c
@@ -893,6 +898,7 @@ Catalyst::View::Component::SubInclude::HTTP,JJNAPIORK,c
 Catalyst::View::Component::SubInclude::HTTP,MSTROUT,c
 Catalyst::View::Component::SubInclude::HTTP,RIBASUSHI,c
 Catalyst::View::Component::SubInclude::SSI,BOBTFISH,f
+Catalyst::View::Component::SubInclude::SSI,CYCLES,c
 Catalyst::View::Component::SubInclude::SSI,DAMS,c
 Catalyst::View::Component::SubInclude::SSI,DHOSS,c
 Catalyst::View::Component::SubInclude::SSI,DLAMBLEY,c

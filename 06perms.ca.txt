@@ -84,6 +84,7 @@ Catalyst::Model::Jifty::DBI,ISHIGAKI,f
 Catalyst::Model::Jifty::DBI,JROCKWAY,c
 Catalyst::Model::Jifty::DBI,MRAMBERG,c
 Catalyst::Model::KiokuDB,BOBTFISH,f
+Catalyst::Model::KiokuDB,CYCLES,c
 Catalyst::Model::KiokuDB,DOY,c
 Catalyst::Model::KiokuDB,FLORA,c
 Catalyst::Model::KiokuDB,JJNAPIORK,c
@@ -94,6 +95,7 @@ Catalyst::Model::LDAP::Cached,DANIELTWC,f
 Catalyst::Model::LDAP::Connection,DANIELTWC,f
 Catalyst::Model::LDAP::Entry,DANIELTWC,f
 Catalyst::Model::LDAP::FromAuthentication,BOBTFISH,f
+Catalyst::Model::LDAP::FromAuthentication,CYCLES,c
 Catalyst::Model::LDAP::FromAuthentication,DAMS,c
 Catalyst::Model::LDAP::FromAuthentication,DHOSS,c
 Catalyst::Model::LDAP::FromAuthentication,DLAMBLEY,c
@@ -449,6 +451,7 @@ Catalyst::Plugin::Authentication,AUTRIJUS,c
 Catalyst::Plugin::Authentication,BOBTFISH,m
 Catalyst::Plugin::Authentication,BRICAS,c
 Catalyst::Plugin::Authentication,CODEREPOS,c
+Catalyst::Plugin::Authentication,CYCLES,c
 Catalyst::Plugin::Authentication,DKAMHOLZ,c
 Catalyst::Plugin::Authentication,DOY,c
 Catalyst::Plugin::Authentication,EILARA,c
@@ -519,6 +522,7 @@ Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,AUDREYT,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,BOBTFISH,f
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,BRICAS,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,CODEREPOS,c
+Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,CYCLES,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,DOY,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,EILARA,c
 Catalyst::Plugin::Authentication::Credential::HTTP::Nonce,ELLIOTT,c
@@ -585,6 +589,7 @@ Catalyst::Plugin::Authentication::Credential::Password,AUTRIJUS,c
 Catalyst::Plugin::Authentication::Credential::Password,BOBTFISH,f
 Catalyst::Plugin::Authentication::Credential::Password,BRICAS,c
 Catalyst::Plugin::Authentication::Credential::Password,CODEREPOS,c
+Catalyst::Plugin::Authentication::Credential::Password,CYCLES,c
 Catalyst::Plugin::Authentication::Credential::Password,DKAMHOLZ,c
 Catalyst::Plugin::Authentication::Credential::Password,DOY,c
 Catalyst::Plugin::Authentication::Credential::Password,EILARA,c
@@ -692,6 +697,7 @@ Catalyst::Plugin::Authentication::Store::DBIC::User::CDBI,DKAMHOLZ,f
 Catalyst::Plugin::Authentication::Store::DBIx::Class,FLORA,c
 Catalyst::Plugin::Authentication::Store::DBIx::Class,JAYK,m
 Catalyst::Plugin::Authentication::Store::DBIx::Class::User,BOBTFISH,f
+Catalyst::Plugin::Authentication::Store::DBIx::Class::User,CYCLES,c
 Catalyst::Plugin::Authentication::Store::DBIx::Class::User,FLORA,c
 Catalyst::Plugin::Authentication::Store::DBIx::Class::User,JAYK,c
 Catalyst::Plugin::Authentication::Store::DBIx::Class::User,JJNAPIORK,c
@@ -714,6 +720,7 @@ Catalyst::Plugin::Authentication::Store::Minimal,AUTRIJUS,c
 Catalyst::Plugin::Authentication::Store::Minimal,BOBTFISH,f
 Catalyst::Plugin::Authentication::Store::Minimal,BRICAS,c
 Catalyst::Plugin::Authentication::Store::Minimal,CODEREPOS,c
+Catalyst::Plugin::Authentication::Store::Minimal,CYCLES,c
 Catalyst::Plugin::Authentication::Store::Minimal,DKAMHOLZ,c
 Catalyst::Plugin::Authentication::Store::Minimal,DOY,c
 Catalyst::Plugin::Authentication::Store::Minimal,EILARA,c
@@ -737,6 +744,7 @@ Catalyst::Plugin::Authentication::Store::Minimal::Backend,AUTRIJUS,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,BOBTFISH,f
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,BRICAS,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,CODEREPOS,c
+Catalyst::Plugin::Authentication::Store::Minimal::Backend,CYCLES,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,DKAMHOLZ,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,DOY,c
 Catalyst::Plugin::Authentication::Store::Minimal::Backend,EILARA,c
@@ -763,6 +771,7 @@ Catalyst::Plugin::Authentication::User,AUTRIJUS,c
 Catalyst::Plugin::Authentication::User,BOBTFISH,f
 Catalyst::Plugin::Authentication::User,BRICAS,c
 Catalyst::Plugin::Authentication::User,CODEREPOS,c
+Catalyst::Plugin::Authentication::User,CYCLES,c
 Catalyst::Plugin::Authentication::User,DKAMHOLZ,c
 Catalyst::Plugin::Authentication::User,DOY,c
 Catalyst::Plugin::Authentication::User,EILARA,c
@@ -787,6 +796,7 @@ Catalyst::Plugin::Authentication::User::Hash,AUTRIJUS,c
 Catalyst::Plugin::Authentication::User::Hash,BOBTFISH,f
 Catalyst::Plugin::Authentication::User::Hash,BRICAS,c
 Catalyst::Plugin::Authentication::User::Hash,CODEREPOS,c
+Catalyst::Plugin::Authentication::User::Hash,CYCLES,c
 Catalyst::Plugin::Authentication::User::Hash,DKAMHOLZ,c
 Catalyst::Plugin::Authentication::User::Hash,DOY,c
 Catalyst::Plugin::Authentication::User::Hash,EILARA,c
@@ -833,6 +843,7 @@ Catalyst::Plugin::Authorization::ACL::Engine,AUTRIJUS,c
 Catalyst::Plugin::Authorization::ACL::Engine,BOBTFISH,f
 Catalyst::Plugin::Authorization::ACL::Engine,BRICAS,c
 Catalyst::Plugin::Authorization::ACL::Engine,CODEREPOS,c
+Catalyst::Plugin::Authorization::ACL::Engine,CYCLES,c
 Catalyst::Plugin::Authorization::ACL::Engine,DKAMHOLZ,c
 Catalyst::Plugin::Authorization::ACL::Engine,DOY,c
 Catalyst::Plugin::Authorization::ACL::Engine,EILARA,c
@@ -951,6 +962,7 @@ Catalyst::Plugin::Cache,AUDREYT,c
 Catalyst::Plugin::Cache,BOBTFISH,f
 Catalyst::Plugin::Cache,BRICAS,c
 Catalyst::Plugin::Cache,CODEREPOS,c
+Catalyst::Plugin::Cache,CYCLES,c
 Catalyst::Plugin::Cache,DOY,c
 Catalyst::Plugin::Cache,EILARA,c
 Catalyst::Plugin::Cache,ELLIOTT,c
@@ -968,6 +980,7 @@ Catalyst::Plugin::Cache::Backend,AUDREYT,c
 Catalyst::Plugin::Cache::Backend,BOBTFISH,f
 Catalyst::Plugin::Cache::Backend,BRICAS,c
 Catalyst::Plugin::Cache::Backend,CODEREPOS,c
+Catalyst::Plugin::Cache::Backend,CYCLES,c
 Catalyst::Plugin::Cache::Backend,DOY,c
 Catalyst::Plugin::Cache::Backend,EILARA,c
 Catalyst::Plugin::Cache::Backend,ELLIOTT,c
@@ -985,6 +998,7 @@ Catalyst::Plugin::Cache::Backend::FastMmap,AUDREYT,c
 Catalyst::Plugin::Cache::Backend::FastMmap,BOBTFISH,f
 Catalyst::Plugin::Cache::Backend::FastMmap,BRICAS,c
 Catalyst::Plugin::Cache::Backend::FastMmap,CODEREPOS,c
+Catalyst::Plugin::Cache::Backend::FastMmap,CYCLES,c
 Catalyst::Plugin::Cache::Backend::FastMmap,DOY,c
 Catalyst::Plugin::Cache::Backend::FastMmap,EILARA,c
 Catalyst::Plugin::Cache::Backend::FastMmap,ELLIOTT,c
@@ -1002,6 +1016,7 @@ Catalyst::Plugin::Cache::Backend::Memory,AUDREYT,c
 Catalyst::Plugin::Cache::Backend::Memory,BOBTFISH,f
 Catalyst::Plugin::Cache::Backend::Memory,BRICAS,c
 Catalyst::Plugin::Cache::Backend::Memory,CODEREPOS,c
+Catalyst::Plugin::Cache::Backend::Memory,CYCLES,c
 Catalyst::Plugin::Cache::Backend::Memory,DOY,c
 Catalyst::Plugin::Cache::Backend::Memory,EILARA,c
 Catalyst::Plugin::Cache::Backend::Memory,ELLIOTT,c
@@ -1020,6 +1035,7 @@ Catalyst::Plugin::Cache::Choose::KeyRegexes,AUDREYT,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,BOBTFISH,f
 Catalyst::Plugin::Cache::Choose::KeyRegexes,BRICAS,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,CODEREPOS,c
+Catalyst::Plugin::Cache::Choose::KeyRegexes,CYCLES,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,DOY,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,EILARA,c
 Catalyst::Plugin::Cache::Choose::KeyRegexes,ELLIOTT,c
@@ -1037,6 +1053,7 @@ Catalyst::Plugin::Cache::Curried,AUDREYT,c
 Catalyst::Plugin::Cache::Curried,BOBTFISH,f
 Catalyst::Plugin::Cache::Curried,BRICAS,c
 Catalyst::Plugin::Cache::Curried,CODEREPOS,c
+Catalyst::Plugin::Cache::Curried,CYCLES,c
 Catalyst::Plugin::Cache::Curried,DOY,c
 Catalyst::Plugin::Cache::Curried,EILARA,c
 Catalyst::Plugin::Cache::Curried,ELLIOTT,c
@@ -1089,6 +1106,7 @@ Catalyst::Plugin::Cache::FileCache,SSCAFFIDI,c
 Catalyst::Plugin::Cache::FileCache,WSHELDAHL,c
 Catalyst::Plugin::Cache::HTTP,GRAF,f
 Catalyst::Plugin::Cache::MemCached,BOBTFISH,f
+Catalyst::Plugin::Cache::MemCached,CYCLES,c
 Catalyst::Plugin::Cache::MemCached,DAMS,c
 Catalyst::Plugin::Cache::MemCached,DHOSS,c
 Catalyst::Plugin::Cache::MemCached,DLAMBLEY,c
@@ -1124,6 +1142,7 @@ Catalyst::Plugin::Cache::Store::FastMmap,AUDREYT,c
 Catalyst::Plugin::Cache::Store::FastMmap,BOBTFISH,f
 Catalyst::Plugin::Cache::Store::FastMmap,BRICAS,c
 Catalyst::Plugin::Cache::Store::FastMmap,CODEREPOS,c
+Catalyst::Plugin::Cache::Store::FastMmap,CYCLES,c
 Catalyst::Plugin::Cache::Store::FastMmap,DOY,c
 Catalyst::Plugin::Cache::Store::FastMmap,EILARA,c
 Catalyst::Plugin::Cache::Store::FastMmap,ELLIOTT,c
@@ -1141,6 +1160,7 @@ Catalyst::Plugin::Cache::Store::Memory,AUDREYT,c
 Catalyst::Plugin::Cache::Store::Memory,BOBTFISH,f
 Catalyst::Plugin::Cache::Store::Memory,BRICAS,c
 Catalyst::Plugin::Cache::Store::Memory,CODEREPOS,c
+Catalyst::Plugin::Cache::Store::Memory,CYCLES,c
 Catalyst::Plugin::Cache::Store::Memory,DOY,c
 Catalyst::Plugin::Cache::Store::Memory,EILARA,c
 Catalyst::Plugin::Cache::Store::Memory,ELLIOTT,c
@@ -1297,6 +1317,7 @@ Catalyst::Plugin::Continuation,AUDREYT,c
 Catalyst::Plugin::Continuation,BOBTFISH,f
 Catalyst::Plugin::Continuation,BRICAS,c
 Catalyst::Plugin::Continuation,CODEREPOS,c
+Catalyst::Plugin::Continuation,CYCLES,c
 Catalyst::Plugin::Continuation,DOY,c
 Catalyst::Plugin::Continuation,EILARA,c
 Catalyst::Plugin::Continuation,ELLIOTT,c

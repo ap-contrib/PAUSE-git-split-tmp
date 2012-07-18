@@ -408,6 +408,7 @@ MooseX::Getopt,NUFFIN,c
 MooseX::Getopt,RJBS,c
 MooseX::Getopt,STEVAN,f
 MooseX::Getopt::Basic,BOBTFISH,f
+MooseX::Getopt::Basic,CYCLES,c
 MooseX::Getopt::Basic,DAMS,c
 MooseX::Getopt::Basic,DHOSS,c
 MooseX::Getopt::Basic,DLAMBLEY,c
@@ -433,6 +434,7 @@ MooseX::Getopt::Defanged::Exception::User,ELLIOTJS,f
 MooseX::Getopt::Defanged::OptionTypeMetadata,ELLIOTJS,f
 MooseX::Getopt::Explicit,RHOELZ,f
 MooseX::Getopt::GLD,BOBTFISH,f
+MooseX::Getopt::GLD,CYCLES,c
 MooseX::Getopt::GLD,DAMS,c
 MooseX::Getopt::GLD,DHOSS,c
 MooseX::Getopt::GLD,DLAMBLEY,c

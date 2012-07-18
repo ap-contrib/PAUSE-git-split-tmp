@@ -1138,6 +1138,7 @@ MooseX::Storage::Util,STEVAN,f
 MooseX::StrictAttributes,BOBTFISH,f
 MooseX::StrictAttributes,BROQ,c
 MooseX::StrictAttributes,CHRISA,c
+MooseX::StrictAttributes,CYCLES,c
 MooseX::StrictAttributes,DAMS,c
 MooseX::StrictAttributes,DHOSS,c
 MooseX::StrictAttributes,DLAMBLEY,c
@@ -1162,6 +1163,7 @@ MooseX::StrictAttributes,ZSTEVENS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,BOBTFISH,f
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,BROQ,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,CHRISA,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,CYCLES,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,DAMS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,DHOSS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,DLAMBLEY,c
@@ -1186,6 +1188,7 @@ MooseX::StrictAttributes::Meta::Attribute::Trait::Builder,ZSTEVENS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,BOBTFISH,f
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,BROQ,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,CHRISA,c
+MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,CYCLES,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,DAMS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,DHOSS,c
 MooseX::StrictAttributes::Meta::Attribute::Trait::Isa,DLAMBLEY,c
@@ -1353,6 +1356,7 @@ MooseX::Types::DateTime,STEVAN,c
 MooseX::Types::DateTime::ButMaintained,ECARROLL,f
 MooseX::Types::DateTime::MoreCoercions,ILMARI,f
 MooseX::Types::DateTime::MySQL,BOBTFISH,f
+MooseX::Types::DateTime::MySQL,CYCLES,c
 MooseX::Types::DateTime::MySQL,DAMS,c
 MooseX::Types::DateTime::MySQL,DHOSS,c
 MooseX::Types::DateTime::MySQL,DLAMBLEY,c
@@ -1399,6 +1403,7 @@ MooseX::Types::ISO8601,APEIRON,c
 MooseX::Types::ISO8601,BOBTFISH,f
 MooseX::Types::ISO8601,BROQ,c
 MooseX::Types::ISO8601,CHRISA,c
+MooseX::Types::ISO8601,CYCLES,c
 MooseX::Types::ISO8601,DAMS,c
 MooseX::Types::ISO8601,DHOSS,c
 MooseX::Types::ISO8601,DLAMBLEY,c
@@ -1423,6 +1428,7 @@ MooseX::Types::Implements,AJGB,f
 MooseX::Types::JSON,MILA,f
 MooseX::Types::LWP::UserAgent,ROBN,f
 MooseX::Types::LoadableClass,BOBTFISH,f
+MooseX::Types::LoadableClass,CYCLES,c
 MooseX::Types::LoadableClass,DAMS,c
 MooseX::Types::LoadableClass,DHOSS,c
 MooseX::Types::LoadableClass,DLAMBLEY,c

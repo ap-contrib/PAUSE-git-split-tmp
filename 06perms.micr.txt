@@ -1346,6 +1346,7 @@ Module::Install::AuthorRequires,FLORA,f
 Module::Install::AuthorRequires,RIBASUSHI,c
 Module::Install::AuthorTests,RJBS,f
 Module::Install::Authority,BOBTFISH,f
+Module::Install::Authority,CYCLES,c
 Module::Install::Authority,DAMS,c
 Module::Install::Authority,FLORA,c
 Module::Install::Authority,GHENRY,c

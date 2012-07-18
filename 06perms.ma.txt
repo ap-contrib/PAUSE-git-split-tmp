@@ -539,6 +539,7 @@ Math::Histogram::Axis,SMUELLER,f
 Math::HoltWinters,JANERT,f
 Math::Image,HOOO,f
 Math::Inequalities::Parser,BOBTFISH,f
+Math::Inequalities::Parser,CYCLES,c
 Math::Inequalities::Parser,DAMS,c
 Math::Inequalities::Parser,DLAMBLEY,c
 Math::Inequalities::Parser,DOY,c

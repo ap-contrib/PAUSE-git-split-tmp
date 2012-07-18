@@ -50,6 +50,7 @@ Catalyst::View::Haml,GARU,f
 Catalyst::View::Image::Empty,CAGAO,m
 Catalyst::View::Image::Text2Image,GILLMAUS,f
 Catalyst::View::JSON,BOBTFISH,f
+Catalyst::View::JSON,CYCLES,c
 Catalyst::View::JSON,MIYAGAWA,c
 Catalyst::View::JSONRPC,DARKNOS,f
 Catalyst::View::JSONRPC,JLMARTIN,c
@@ -356,6 +357,7 @@ CatalystX::Controller::reCAPTCHA,ZARQUON,f
 CatalystX::CrudGenerator,HERNAN,f
 CatalystX::Debug::RequestHeaders,BOBTFISH,f
 CatalystX::Debug::RequestHeaders,BPHILLIPS,c
+CatalystX::Debug::RequestHeaders,CYCLES,c
 CatalystX::Debug::RequestHeaders,DAMS,c
 CatalystX::Debug::RequestHeaders,DHOSS,c
 CatalystX::Debug::RequestHeaders,DLAMBLEY,c
@@ -370,6 +372,7 @@ CatalystX::Debug::RequestHeaders,MSTROUT,c
 CatalystX::Debug::RequestHeaders,RIBASUSHI,c
 CatalystX::Debug::ResponseHeaders,BOBTFISH,f
 CatalystX::Debug::ResponseHeaders,BPHILLIPS,c
+CatalystX::Debug::ResponseHeaders,CYCLES,c
 CatalystX::Debug::ResponseHeaders,DAMS,c
 CatalystX::Debug::ResponseHeaders,DHOSS,c
 CatalystX::Debug::ResponseHeaders,DLAMBLEY,c
@@ -644,6 +647,7 @@ CatalystX::Routes,DROLSKY,f
 CatalystX::Routes::Role::Class,DROLSKY,f
 CatalystX::Routes::Role::Controller,DROLSKY,f
 CatalystX::Script::FCGI::Engine,BOBTFISH,f
+CatalystX::Script::FCGI::Engine,CYCLES,c
 CatalystX::Script::FCGI::Engine,DAMS,c
 CatalystX::Script::FCGI::Engine,DLAMBLEY,c
 CatalystX::Script::FCGI::Engine,DOY,c
@@ -656,6 +660,7 @@ CatalystX::Script::FCGI::Engine,MSTROUT,c
 CatalystX::Script::FCGI::Engine,RIBASUSHI,c
 CatalystX::Script::Server::Starman,ABRAXXA,c
 CatalystX::Script::Server::Starman,BOBTFISH,f
+CatalystX::Script::Server::Starman,CYCLES,c
 CatalystX::Script::Server::Starman,DAMS,c
 CatalystX::Script::Server::Starman,DLAMBLEY,c
 CatalystX::Script::Server::Starman,DOY,c
@@ -692,6 +697,7 @@ CatalystX::SimpleLogin::Form::Login,EDENC,c
 CatalystX::SimpleLogin::Form::Login,ETHER,c
 CatalystX::SimpleLogin::Form::Login,FLORA,f
 CatalystX::SimpleLogin::Form::LoginOpenID,BOBTFISH,f
+CatalystX::SimpleLogin::Form::LoginOpenID,CYCLES,c
 CatalystX::SimpleLogin::Form::LoginOpenID,DAMS,c
 CatalystX::SimpleLogin::Form::LoginOpenID,DHOSS,c
 CatalystX::SimpleLogin::Form::LoginOpenID,DLAMBLEY,c
@@ -713,6 +719,7 @@ CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,EDENC,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,ETHER,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout,FLORA,f
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,BOBTFISH,f
+CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,CYCLES,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,DAMS,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,DHOSS,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,DLAMBLEY,c
@@ -726,6 +733,7 @@ CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,JJNAPIORK,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,MSTROUT,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID,RIBASUSHI,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,BOBTFISH,f
+CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,CYCLES,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,DAMS,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,DHOSS,c
 CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate,DLAMBLEY,c

@@ -821,6 +821,7 @@ TestApp8,MARKSTOS,c
 TestApp9,JERLBAUM,f
 TestApp9,MARKSTOS,c
 TestApp::Controller::Adaptor,BOBTFISH,f
+TestApp::Controller::Adaptor,CYCLES,c
 TestApp::Controller::Adaptor,DAMS,c
 TestApp::Controller::Adaptor,DHOSS,c
 TestApp::Controller::Adaptor,DLAMBLEY,c
@@ -834,6 +835,7 @@ TestApp::Controller::Adaptor,JJNAPIORK,c
 TestApp::Controller::Adaptor,MSTROUT,c
 TestApp::Controller::Adaptor,RIBASUSHI,c
 TestApp::Controller::Factory,BOBTFISH,f
+TestApp::Controller::Factory,CYCLES,c
 TestApp::Controller::Factory,DAMS,c
 TestApp::Controller::Factory,DHOSS,c
 TestApp::Controller::Factory,DLAMBLEY,c
@@ -847,6 +849,7 @@ TestApp::Controller::Factory,JJNAPIORK,c
 TestApp::Controller::Factory,MSTROUT,c
 TestApp::Controller::Factory,RIBASUSHI,c
 TestApp::Controller::PerRequest,BOBTFISH,f
+TestApp::Controller::PerRequest,CYCLES,c
 TestApp::Controller::PerRequest,DAMS,c
 TestApp::Controller::PerRequest,DHOSS,c
 TestApp::Controller::PerRequest,DLAMBLEY,c
@@ -866,6 +869,7 @@ TestApp::Controller::Root,MRAMBERG,c
 TestApp::Controller::Root,MSTROUT,c
 TestApp::Controller::Root,NUFFIN,c
 TestApp::Model::PerRequest,BOBTFISH,f
+TestApp::Model::PerRequest,CYCLES,c
 TestApp::Model::PerRequest,DAMS,c
 TestApp::Model::PerRequest,DHOSS,c
 TestApp::Model::PerRequest,DLAMBLEY,c
@@ -879,6 +883,7 @@ TestApp::Model::PerRequest,JJNAPIORK,c
 TestApp::Model::PerRequest,MSTROUT,c
 TestApp::Model::PerRequest,RIBASUSHI,c
 TestApp::Model::SomeClass,BOBTFISH,f
+TestApp::Model::SomeClass,CYCLES,c
 TestApp::Model::SomeClass,DAMS,c
 TestApp::Model::SomeClass,DHOSS,c
 TestApp::Model::SomeClass,DLAMBLEY,c

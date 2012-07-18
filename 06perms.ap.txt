@@ -600,6 +600,7 @@ App::RSS2Leafnode::Conf,KRYDE,f
 App::RSS2Leafnode::Conf::Tie,KRYDE,f
 App::RSS2Leafnode::XML::Twig::Other,KRYDE,f
 App::RabbitTail,BOBTFISH,f
+App::RabbitTail,CYCLES,c
 App::RabbitTail,DAMS,c
 App::RabbitTail,DHOSS,c
 App::RabbitTail,DLAMBLEY,c
@@ -613,6 +614,7 @@ App::RabbitTail,JJNAPIORK,c
 App::RabbitTail,MSTROUT,c
 App::RabbitTail,RIBASUSHI,c
 App::RabbitTail::FileTailer,BOBTFISH,f
+App::RabbitTail::FileTailer,CYCLES,c
 App::RabbitTail::FileTailer,DAMS,c
 App::RabbitTail::FileTailer,DHOSS,c
 App::RabbitTail::FileTailer,DLAMBLEY,c

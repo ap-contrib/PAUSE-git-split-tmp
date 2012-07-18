@@ -583,6 +583,7 @@ Log::Message::Item,KANE,f
 Log::Message::Simple,BINGOS,c
 Log::Message::Simple,KANE,f
 Log::Message::Structured,BOBTFISH,f
+Log::Message::Structured,CYCLES,c
 Log::Message::Structured,DAMS,c
 Log::Message::Structured,DHOSS,c
 Log::Message::Structured,DLAMBLEY,c
@@ -596,14 +597,18 @@ Log::Message::Structured,JJNAPIORK,c
 Log::Message::Structured,MSTROUT,c
 Log::Message::Structured,RIBASUSHI,c
 Log::Message::Structured::Component::AttributesFilter,BOBTFISH,f
+Log::Message::Structured::Component::AttributesFilter,CYCLES,c
 Log::Message::Structured::Component::AttributesFilter,DAMS,c
 Log::Message::Structured::Component::Date,BOBTFISH,f
+Log::Message::Structured::Component::Date,CYCLES,c
 Log::Message::Structured::Component::Date,DAMS,c
 Log::Message::Structured::Component::Date,JJNAPIORK,c
 Log::Message::Structured::Component::Hostname,BOBTFISH,f
+Log::Message::Structured::Component::Hostname,CYCLES,c
 Log::Message::Structured::Component::Hostname,DAMS,c
 Log::Message::Structured::Component::Hostname,JJNAPIORK,c
 Log::Message::Structured::Event::ScriptRun,BOBTFISH,f
+Log::Message::Structured::Event::ScriptRun,CYCLES,c
 Log::Message::Structured::Event::ScriptRun,DAMS,c
 Log::Message::Structured::Event::ScriptRun,DHOSS,c
 Log::Message::Structured::Event::ScriptRun,DLAMBLEY,c
@@ -617,6 +622,7 @@ Log::Message::Structured::Event::ScriptRun,JJNAPIORK,c
 Log::Message::Structured::Event::ScriptRun,MSTROUT,c
 Log::Message::Structured::Event::ScriptRun,RIBASUSHI,c
 Log::Message::Structured::Stringify::AsJSON,BOBTFISH,f
+Log::Message::Structured::Stringify::AsJSON,CYCLES,c
 Log::Message::Structured::Stringify::AsJSON,DAMS,c
 Log::Message::Structured::Stringify::AsJSON,DHOSS,c
 Log::Message::Structured::Stringify::AsJSON,DLAMBLEY,c
@@ -630,8 +636,10 @@ Log::Message::Structured::Stringify::AsJSON,JJNAPIORK,c
 Log::Message::Structured::Stringify::AsJSON,MSTROUT,c
 Log::Message::Structured::Stringify::AsJSON,RIBASUSHI,c
 Log::Message::Structured::Stringify::AsYAML,BOBTFISH,f
+Log::Message::Structured::Stringify::AsYAML,CYCLES,c
 Log::Message::Structured::Stringify::AsYAML,DAMS,c
 Log::Message::Structured::Stringify::Sprintf,BOBTFISH,f
+Log::Message::Structured::Stringify::Sprintf,CYCLES,c
 Log::Message::Structured::Stringify::Sprintf,DAMS,c
 Log::Message::Structured::Stringify::Sprintf,DHOSS,c
 Log::Message::Structured::Stringify::Sprintf,DLAMBLEY,c

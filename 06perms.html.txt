@@ -1553,6 +1553,7 @@ HTTP::Proxy::HeaderFilter::standard,BOOK,f
 HTTP::Proxy::Selective,BOBTFISH,f
 HTTP::Proxy::Selective,BROQ,c
 HTTP::Proxy::Selective,CHRISA,c
+HTTP::Proxy::Selective,CYCLES,c
 HTTP::Proxy::Selective,DAMS,c
 HTTP::Proxy::Selective,DHOSS,c
 HTTP::Proxy::Selective,DLAMBLEY,c

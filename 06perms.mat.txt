@@ -1114,6 +1114,7 @@ Message::Passing::Input::AMQP,GHENRY,f
 Message::Passing::Input::FileTail,BOBTFISH,c
 Message::Passing::Input::FileTail,GHENRY,f
 Message::Passing::Input::Freeswitch,BOBTFISH,f
+Message::Passing::Input::Freeswitch,CYCLES,c
 Message::Passing::Input::Null,BOBTFISH,c
 Message::Passing::Input::Null,GHENRY,f
 Message::Passing::Input::Redis,BOBTFISH,c

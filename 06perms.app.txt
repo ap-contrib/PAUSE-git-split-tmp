@@ -277,6 +277,7 @@ App::TLSMe,VTI,f
 App::TLSMe::Connection,VTI,f
 App::TLSMe::Pool,VTI,f
 App::TailRabbit,BOBTFISH,f
+App::TailRabbit,CYCLES,c
 App::TailRabbit,DAMS,c
 App::TailRabbit,DHOSS,c
 App::TailRabbit,DLAMBLEY,c
@@ -289,6 +290,7 @@ App::TailRabbit,JJNAPIORK,c
 App::TailRabbit,MSTROUT,c
 App::TailRabbit,RIBASUSHI,c
 App::TailRabbit::Convertor::Null,BOBTFISH,f
+App::TailRabbit::Convertor::Null,CYCLES,c
 App::TailRabbit::Convertor::Null,DAMS,c
 App::TailRabbit::Convertor::Null,DHOSS,c
 App::TailRabbit::Convertor::Null,DLAMBLEY,c
@@ -301,6 +303,7 @@ App::TailRabbit::Convertor::Null,JJNAPIORK,c
 App::TailRabbit::Convertor::Null,MSTROUT,c
 App::TailRabbit::Convertor::Null,RIBASUSHI,c
 App::TailRabbit::Growl,BOBTFISH,f
+App::TailRabbit::Growl,CYCLES,c
 App::TailRabbit::Growl,DAMS,c
 App::TailRabbit::Growl,DHOSS,c
 App::TailRabbit::Growl,DLAMBLEY,c

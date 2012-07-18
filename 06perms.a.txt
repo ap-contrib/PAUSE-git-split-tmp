@@ -418,6 +418,7 @@ Authen::NTLM::DES,NBEBOUT,c
 Authen::NTLM::HTTP,BOBTFISH,f
 Authen::NTLM::HTTP,BROQ,c
 Authen::NTLM::HTTP,CHRISA,c
+Authen::NTLM::HTTP,CYCLES,c
 Authen::NTLM::HTTP,DAMS,c
 Authen::NTLM::HTTP,DHOSS,c
 Authen::NTLM::HTTP,DLAMBLEY,c
@@ -436,6 +437,7 @@ Authen::NTLM::HTTP,ZBY,c
 Authen::NTLM::HTTP::Base,BOBTFISH,f
 Authen::NTLM::HTTP::Base,BROQ,c
 Authen::NTLM::HTTP::Base,CHRISA,c
+Authen::NTLM::HTTP::Base,CYCLES,c
 Authen::NTLM::HTTP::Base,DAMS,c
 Authen::NTLM::HTTP::Base,DHOSS,c
 Authen::NTLM::HTTP::Base,DLAMBLEY,c
