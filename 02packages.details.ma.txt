@@ -438,7 +438,7 @@ MappedPackage                     1.351  R/RC/RCAPUTO/POE-Test-Loops-1.351.tar.g
 Maptastic                          1.01  S/SA/SAMV/Maptastic-1.01.tar.gz
 Maptastic::DBI                    undef  S/SA/SAMV/Maptastic-1.01.tar.gz
 MARC::Batch                       undef  G/GM/GMCHARLT/MARC-Record-2.0.3.tar.gz
-MARC::BBMARC                       1.08  E/EI/EIJABB/MARC-Errorchecks-1.14.tar.gz
+MARC::BBMARC                       1.08  E/EI/EIJABB/MARC-Errorchecks-1.16.tar.gz
 MARC::Charset                      1.33  G/GM/GMCHARLT/MARC-Charset-1.33.tar.gz
 MARC::Charset::Ansel              undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
 MARC::Charset::ArabicBasic        undef  E/ES/ESUMMERS/MARC-Charset-0.6.tar.gz
@@ -468,7 +468,7 @@ MARC::Detrans::Name               undef  E/ES/ESUMMERS/MARC-Detrans-1.41.tar.gz
 MARC::Detrans::Names              undef  E/ES/ESUMMERS/MARC-Detrans-1.41.tar.gz
 MARC::Detrans::Rule               undef  E/ES/ESUMMERS/MARC-Detrans-1.41.tar.gz
 MARC::Detrans::Rules              undef  E/ES/ESUMMERS/MARC-Detrans-1.41.tar.gz
-MARC::Errorchecks                  1.14  E/EI/EIJABB/MARC-Errorchecks-1.14.tar.gz
+MARC::Errorchecks                  1.16  E/EI/EIJABB/MARC-Errorchecks-1.16.tar.gz
 MARC::Fast                         0.11  D/DP/DPAVLIN/MARC-Fast-0.11.tar.gz
 MARC::Field                       undef  G/GM/GMCHARLT/MARC-Record-2.0.3.tar.gz
 MARC::File                        undef  G/GM/GMCHARLT/MARC-Record-2.0.3.tar.gz
