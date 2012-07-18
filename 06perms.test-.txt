@@ -92,6 +92,7 @@ Test::Signature,AUTRIJUS,m
 Test::Simple,MSCHWERN,m
 Test::Simple::Catch,ABERGMAN,f
 Test::SimpleUnit,GED,f
+Test::Simpler,DCONWAY,f
 Test::Sims,MSCHWERN,f
 Test::Singleton,TPG,m
 Test::Skip::UnlessExistsExecutable,KITANO,f
