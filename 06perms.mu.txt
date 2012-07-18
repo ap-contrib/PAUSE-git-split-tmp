@@ -360,6 +360,7 @@ MyDatabase::Main,EDENC,c
 MyDatabase::Main,ETHER,c
 MyDatabase::Main,FLORA,c
 MyDatabase::Main,FREW,c
+MyDatabase::Main,ILMARI,c
 MyDatabase::Main,JJNAPIORK,c
 MyDatabase::Main,MITHALDU,c
 MyDatabase::Main,MSTROUT,f
@@ -375,6 +376,7 @@ MyDatabase::Main::Result::Artist,EDENC,c
 MyDatabase::Main::Result::Artist,ETHER,c
 MyDatabase::Main::Result::Artist,FLORA,c
 MyDatabase::Main::Result::Artist,FREW,c
+MyDatabase::Main::Result::Artist,ILMARI,c
 MyDatabase::Main::Result::Artist,JJNAPIORK,c
 MyDatabase::Main::Result::Artist,MITHALDU,c
 MyDatabase::Main::Result::Artist,MSTROUT,f
@@ -390,6 +392,7 @@ MyDatabase::Main::Result::Cd,EDENC,c
 MyDatabase::Main::Result::Cd,ETHER,c
 MyDatabase::Main::Result::Cd,FLORA,c
 MyDatabase::Main::Result::Cd,FREW,c
+MyDatabase::Main::Result::Cd,ILMARI,c
 MyDatabase::Main::Result::Cd,JJNAPIORK,c
 MyDatabase::Main::Result::Cd,MITHALDU,c
 MyDatabase::Main::Result::Cd,MSTROUT,f
@@ -405,6 +408,7 @@ MyDatabase::Main::Result::Track,EDENC,c
 MyDatabase::Main::Result::Track,ETHER,c
 MyDatabase::Main::Result::Track,FLORA,c
 MyDatabase::Main::Result::Track,FREW,c
+MyDatabase::Main::Result::Track,ILMARI,c
 MyDatabase::Main::Result::Track,JJNAPIORK,c
 MyDatabase::Main::Result::Track,MITHALDU,c
 MyDatabase::Main::Result::Track,MSTROUT,f
@@ -663,6 +667,7 @@ MyTest::HasAttrs,ETHER,c
 MyTest::HasAttrs,FLORA,c
 MyTest::HasAttrs,FREW,c
 MyTest::HasAttrs,GRODITI,c
+MyTest::HasAttrs,ILMARI,c
 MyTest::HasAttrs,JJNAPIORK,c
 MyTest::HasAttrs,LSAUNDERS,c
 MyTest::HasAttrs,MITHALDU,c
@@ -682,6 +687,7 @@ MyTest::MultiChild,ETHER,c
 MyTest::MultiChild,FLORA,c
 MyTest::MultiChild,FREW,c
 MyTest::MultiChild,GRODITI,c
+MyTest::MultiChild,ILMARI,c
 MyTest::MultiChild,JJNAPIORK,c
 MyTest::MultiChild,LSAUNDERS,c
 MyTest::MultiChild,MITHALDU,c
@@ -716,6 +722,7 @@ MyTest::SingleChild,ETHER,c
 MyTest::SingleChild,FLORA,c
 MyTest::SingleChild,FREW,c
 MyTest::SingleChild,GRODITI,c
+MyTest::SingleChild,ILMARI,c
 MyTest::SingleChild,JJNAPIORK,c
 MyTest::SingleChild,LSAUNDERS,c
 MyTest::SingleChild,MITHALDU,c
@@ -735,6 +742,7 @@ MyTest::SuperAttrs,ETHER,c
 MyTest::SuperAttrs,FLORA,c
 MyTest::SuperAttrs,FREW,c
 MyTest::SuperAttrs,GRODITI,c
+MyTest::SuperAttrs,ILMARI,c
 MyTest::SuperAttrs,JJNAPIORK,c
 MyTest::SuperAttrs,LSAUNDERS,c
 MyTest::SuperAttrs,MITHALDU,c
@@ -754,6 +762,7 @@ MyTest::TopNode,ETHER,c
 MyTest::TopNode,FLORA,c
 MyTest::TopNode,FREW,c
 MyTest::TopNode,GRODITI,c
+MyTest::TopNode,ILMARI,c
 MyTest::TopNode,JJNAPIORK,c
 MyTest::TopNode,LSAUNDERS,c
 MyTest::TopNode,MITHALDU,c

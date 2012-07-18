@@ -283,6 +283,7 @@ Moo,DGL,c
 Moo,EDENC,c
 Moo,ETHER,c
 Moo,FLORA,c
+Moo,ILMARI,c
 Moo,JJNAPIORK,c
 Moo,MITHALDU,c
 Moo,MSTROUT,f
@@ -291,12 +292,15 @@ Moo,SSCAFFIDI,c
 Moo,WSHELDAHL,c
 Moo::Getopt,CELOGEEK,f
 Moo::HandleMoose,APEIRON,c
+Moo::HandleMoose,ILMARI,c
 Moo::HandleMoose,MITHALDU,c
 Moo::HandleMoose,MSTROUT,f
 Moo::HandleMoose::FakeConstructor,APEIRON,c
+Moo::HandleMoose::FakeConstructor,ILMARI,c
 Moo::HandleMoose::FakeConstructor,MITHALDU,c
 Moo::HandleMoose::FakeConstructor,MSTROUT,f
 Moo::HandleMoose::FakeMetaClass,APEIRON,c
+Moo::HandleMoose::FakeMetaClass,ILMARI,c
 Moo::HandleMoose::FakeMetaClass,MITHALDU,c
 Moo::HandleMoose::FakeMetaClass,MSTROUT,f
 Moo::Object,APEIRON,c
@@ -305,6 +309,7 @@ Moo::Object,DGL,c
 Moo::Object,EDENC,c
 Moo::Object,ETHER,c
 Moo::Object,FLORA,c
+Moo::Object,ILMARI,c
 Moo::Object,JJNAPIORK,c
 Moo::Object,MITHALDU,c
 Moo::Object,MSTROUT,f
@@ -317,6 +322,7 @@ Moo::Role,DGL,c
 Moo::Role,EDENC,c
 Moo::Role,ETHER,c
 Moo::Role,FLORA,c
+Moo::Role,ILMARI,c
 Moo::Role,JJNAPIORK,c
 Moo::Role,MITHALDU,c
 Moo::Role,MSTROUT,f
@@ -329,6 +335,7 @@ Moo::_Utils,DGL,c
 Moo::_Utils,EDENC,c
 Moo::_Utils,ETHER,c
 Moo::_Utils,FLORA,c
+Moo::_Utils,ILMARI,c
 Moo::_Utils,JJNAPIORK,c
 Moo::_Utils,MITHALDU,c
 Moo::_Utils,MSTROUT,f
@@ -341,6 +348,7 @@ Moo::_mro,DGL,c
 Moo::_mro,EDENC,c
 Moo::_mro,ETHER,c
 Moo::_mro,FLORA,c
+Moo::_mro,ILMARI,c
 Moo::_mro,JJNAPIORK,c
 Moo::_mro,MITHALDU,c
 Moo::_mro,MSTROUT,f
@@ -348,6 +356,7 @@ Moo::_mro,RIBASUSHI,c
 Moo::_mro,SSCAFFIDI,c
 Moo::_mro,WSHELDAHL,c
 Moo::sification,APEIRON,c
+Moo::sification,ILMARI,c
 Moo::sification,MITHALDU,c
 Moo::sification,MSTROUT,f
 MooX,CELOGEEK,c

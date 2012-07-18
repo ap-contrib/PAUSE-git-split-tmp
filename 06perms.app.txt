@@ -314,6 +314,7 @@ App::TailRabbit::Growl,MSTROUT,c
 App::TailRabbit::Growl,RIBASUSHI,c
 App::Tak,APEIRON,c
 App::Tak,ETHER,c
+App::Tak,ILMARI,c
 App::Tak,JJNAPIORK,c
 App::Tak,MITHALDU,c
 App::Tak,MSTROUT,f

@@ -161,6 +161,7 @@ XML::Feed::Enclosure,APEIRON,c
 XML::Feed::Enclosure,DAVECROSS,c
 XML::Feed::Enclosure,EDENC,c
 XML::Feed::Enclosure,ETHER,c
+XML::Feed::Enclosure,ILMARI,c
 XML::Feed::Enclosure,JJNAPIORK,c
 XML::Feed::Enclosure,MITHALDU,c
 XML::Feed::Enclosure,MSTROUT,f
@@ -1017,6 +1018,7 @@ XML::Overlay,ETHER,c
 XML::Overlay,FLORA,c
 XML::Overlay,FREW,c
 XML::Overlay,GRODITI,c
+XML::Overlay,ILMARI,c
 XML::Overlay,JJNAPIORK,c
 XML::Overlay,LSAUNDERS,c
 XML::Overlay,MITHALDU,c
@@ -1037,6 +1039,7 @@ XML::Overlay::action,ETHER,c
 XML::Overlay::action,FLORA,c
 XML::Overlay::action,FREW,c
 XML::Overlay::action,GRODITI,c
+XML::Overlay::action,ILMARI,c
 XML::Overlay::action,JJNAPIORK,c
 XML::Overlay::action,LSAUNDERS,c
 XML::Overlay::action,MITHALDU,c
@@ -1057,6 +1060,7 @@ XML::Overlay::target,ETHER,c
 XML::Overlay::target,FLORA,c
 XML::Overlay::target,FREW,c
 XML::Overlay::target,GRODITI,c
+XML::Overlay::target,ILMARI,c
 XML::Overlay::target,JJNAPIORK,c
 XML::Overlay::target,LSAUNDERS,c
 XML::Overlay::target,MITHALDU,c

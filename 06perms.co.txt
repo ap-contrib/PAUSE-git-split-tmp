@@ -85,6 +85,7 @@ Config::Loader,ETHER,c
 Config::Loader,FLORA,c
 Config::Loader,FREW,c
 Config::Loader,GRODITI,c
+Config::Loader,ILMARI,c
 Config::Loader,JJNAPIORK,c
 Config::Loader,LSAUNDERS,c
 Config::Loader,MITHALDU,c
@@ -105,6 +106,7 @@ Config::Loader::Perl,ETHER,c
 Config::Loader::Perl,FLORA,c
 Config::Loader::Perl,FREW,c
 Config::Loader::Perl,GRODITI,c
+Config::Loader::Perl,ILMARI,c
 Config::Loader::Perl,JJNAPIORK,c
 Config::Loader::Perl,LSAUNDERS,c
 Config::Loader::Perl,MITHALDU,c

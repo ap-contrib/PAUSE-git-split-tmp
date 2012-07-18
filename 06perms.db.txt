@@ -175,6 +175,7 @@ DBIx::Class::Journal::EvalWrap,EDENC,c
 DBIx::Class::Journal::EvalWrap,ETHER,c
 DBIx::Class::Journal::EvalWrap,FLORA,c
 DBIx::Class::Journal::EvalWrap,FREW,c
+DBIx::Class::Journal::EvalWrap,ILMARI,c
 DBIx::Class::Journal::EvalWrap,JJNAPIORK,c
 DBIx::Class::Journal::EvalWrap,MITHALDU,c
 DBIx::Class::Journal::EvalWrap,MSTROUT,f

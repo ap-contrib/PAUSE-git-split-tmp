@@ -616,6 +616,7 @@ Test::WWW::Mechanize::Catalyst,ETHER,c
 Test::WWW::Mechanize::Catalyst,FLORA,c
 Test::WWW::Mechanize::Catalyst,FREW,c
 Test::WWW::Mechanize::Catalyst,GRODITI,c
+Test::WWW::Mechanize::Catalyst,ILMARI,c
 Test::WWW::Mechanize::Catalyst,JJNAPIORK,c
 Test::WWW::Mechanize::Catalyst,LBROCARD,c
 Test::WWW::Mechanize::Catalyst,MITHALDU,c
@@ -635,6 +636,7 @@ Test::WWW::Mechanize::Catalyst::Aux,ETHER,c
 Test::WWW::Mechanize::Catalyst::Aux,FLORA,c
 Test::WWW::Mechanize::Catalyst::Aux,FREW,c
 Test::WWW::Mechanize::Catalyst::Aux,GRODITI,c
+Test::WWW::Mechanize::Catalyst::Aux,ILMARI,c
 Test::WWW::Mechanize::Catalyst::Aux,JJNAPIORK,c
 Test::WWW::Mechanize::Catalyst::Aux,LBROCARD,c
 Test::WWW::Mechanize::Catalyst::Aux,MITHALDU,c
@@ -891,6 +893,7 @@ TestApp::Model::SomeClass,RIBASUSHI,c
 TestAutoload,KRYDE,f
 TestBed,DCONWAY,f
 TestBed6,DCONWAY,f
+TestBridge,ILMARI,c
 TestBridge,MITHALDU,c
 TestBridge,MSTROUT,f
 TestBusted1,BWARFIELD,f
@@ -907,6 +910,7 @@ TestChunks,AUDREYT,f
 TestChunks,AUTRIJUS,c
 TestChunks,JESSE,c
 TestChunks,NUFFIN,c
+TestClass,ILMARI,c
 TestClass,MITHALDU,c
 TestClass,MSTROUT,f
 TestCompiler,SFINK,f
@@ -915,6 +919,7 @@ TestConstants,BIGJ,f
 TestCoverage::MyTestModule,RENEEB,f
 TestData,BARBIE,f
 TestFile,CHIPS,f
+TestFindUser,ILMARI,c
 TestFindUser,MITHALDU,c
 TestFindUser,MSTROUT,f
 TestFramework,JDB,f

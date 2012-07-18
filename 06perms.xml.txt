@@ -1083,6 +1083,7 @@ XML::Tags,EDENC,c
 XML::Tags,ETHER,c
 XML::Tags,FLORA,c
 XML::Tags,FREW,c
+XML::Tags,ILMARI,c
 XML::Tags,JJNAPIORK,c
 XML::Tags,MITHALDU,c
 XML::Tags,MSTROUT,f
@@ -1098,6 +1099,7 @@ XML::Tags::StringThing,EDENC,c
 XML::Tags::StringThing,ETHER,c
 XML::Tags::StringThing,FLORA,c
 XML::Tags::StringThing,FREW,c
+XML::Tags::StringThing,ILMARI,c
 XML::Tags::StringThing,JJNAPIORK,c
 XML::Tags::StringThing,MITHALDU,c
 XML::Tags::StringThing,MSTROUT,f
@@ -1113,6 +1115,7 @@ XML::Tags::TIEHANDLE,EDENC,c
 XML::Tags::TIEHANDLE,ETHER,c
 XML::Tags::TIEHANDLE,FLORA,c
 XML::Tags::TIEHANDLE,FREW,c
+XML::Tags::TIEHANDLE,ILMARI,c
 XML::Tags::TIEHANDLE,JJNAPIORK,c
 XML::Tags::TIEHANDLE,MITHALDU,c
 XML::Tags::TIEHANDLE,MSTROUT,f
@@ -1128,6 +1131,7 @@ XML::Tags::Unex,EDENC,c
 XML::Tags::Unex,ETHER,c
 XML::Tags::Unex,FLORA,c
 XML::Tags::Unex,FREW,c
+XML::Tags::Unex,ILMARI,c
 XML::Tags::Unex,JJNAPIORK,c
 XML::Tags::Unex,MITHALDU,c
 XML::Tags::Unex,MSTROUT,f

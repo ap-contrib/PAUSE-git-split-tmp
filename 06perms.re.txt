@@ -9,6 +9,7 @@ Reaction::UI::Widget::Value::Collection,ETHER,c
 Reaction::UI::Widget::Value::Collection,FLORA,c
 Reaction::UI::Widget::Value::Collection,FREW,c
 Reaction::UI::Widget::Value::Collection,GRODITI,c
+Reaction::UI::Widget::Value::Collection,ILMARI,c
 Reaction::UI::Widget::Value::Collection,JJNAPIORK,c
 Reaction::UI::Widget::Value::Collection,MITHALDU,c
 Reaction::UI::Widget::Value::Collection,MSTROUT,f
@@ -27,6 +28,7 @@ Reaction::UI::Widget::Value::DateTime,ETHER,c
 Reaction::UI::Widget::Value::DateTime,FLORA,c
 Reaction::UI::Widget::Value::DateTime,FREW,c
 Reaction::UI::Widget::Value::DateTime,GRODITI,c
+Reaction::UI::Widget::Value::DateTime,ILMARI,c
 Reaction::UI::Widget::Value::DateTime,JJNAPIORK,c
 Reaction::UI::Widget::Value::DateTime,MITHALDU,c
 Reaction::UI::Widget::Value::DateTime,MSTROUT,f
@@ -45,6 +47,7 @@ Reaction::UI::Widget::Value::Image,ETHER,c
 Reaction::UI::Widget::Value::Image,FLORA,c
 Reaction::UI::Widget::Value::Image,FREW,c
 Reaction::UI::Widget::Value::Image,GRODITI,c
+Reaction::UI::Widget::Value::Image,ILMARI,c
 Reaction::UI::Widget::Value::Image,JJNAPIORK,c
 Reaction::UI::Widget::Value::Image,MITHALDU,c
 Reaction::UI::Widget::Value::Image,MSTROUT,f
@@ -63,6 +66,7 @@ Reaction::UI::Widget::Value::Number,ETHER,c
 Reaction::UI::Widget::Value::Number,FLORA,c
 Reaction::UI::Widget::Value::Number,FREW,c
 Reaction::UI::Widget::Value::Number,GRODITI,c
+Reaction::UI::Widget::Value::Number,ILMARI,c
 Reaction::UI::Widget::Value::Number,JJNAPIORK,c
 Reaction::UI::Widget::Value::Number,MITHALDU,c
 Reaction::UI::Widget::Value::Number,MSTROUT,f
@@ -81,6 +85,7 @@ Reaction::UI::Widget::Value::RelatedObject,ETHER,c
 Reaction::UI::Widget::Value::RelatedObject,FLORA,c
 Reaction::UI::Widget::Value::RelatedObject,FREW,c
 Reaction::UI::Widget::Value::RelatedObject,GRODITI,c
+Reaction::UI::Widget::Value::RelatedObject,ILMARI,c
 Reaction::UI::Widget::Value::RelatedObject,JJNAPIORK,c
 Reaction::UI::Widget::Value::RelatedObject,MITHALDU,c
 Reaction::UI::Widget::Value::RelatedObject,MSTROUT,f
@@ -99,6 +104,7 @@ Reaction::UI::Widget::Value::String,ETHER,c
 Reaction::UI::Widget::Value::String,FLORA,c
 Reaction::UI::Widget::Value::String,FREW,c
 Reaction::UI::Widget::Value::String,GRODITI,c
+Reaction::UI::Widget::Value::String,ILMARI,c
 Reaction::UI::Widget::Value::String,JJNAPIORK,c
 Reaction::UI::Widget::Value::String,MITHALDU,c
 Reaction::UI::Widget::Value::String,MSTROUT,f
@@ -117,6 +123,7 @@ Reaction::UI::Widget::Value::Text,ETHER,c
 Reaction::UI::Widget::Value::Text,FLORA,c
 Reaction::UI::Widget::Value::Text,FREW,c
 Reaction::UI::Widget::Value::Text,GRODITI,c
+Reaction::UI::Widget::Value::Text,ILMARI,c
 Reaction::UI::Widget::Value::Text,JJNAPIORK,c
 Reaction::UI::Widget::Value::Text,MITHALDU,c
 Reaction::UI::Widget::Value::Text,MSTROUT,f
@@ -135,6 +142,7 @@ Reaction::UI::WidgetClass,ETHER,c
 Reaction::UI::WidgetClass,FLORA,c
 Reaction::UI::WidgetClass,FREW,c
 Reaction::UI::WidgetClass,GRODITI,c
+Reaction::UI::WidgetClass,ILMARI,c
 Reaction::UI::WidgetClass,JJNAPIORK,c
 Reaction::UI::WidgetClass,MITHALDU,c
 Reaction::UI::WidgetClass,MSTROUT,f
@@ -153,6 +161,7 @@ Reaction::UI::WidgetClass::_OVER,ETHER,c
 Reaction::UI::WidgetClass::_OVER,FLORA,c
 Reaction::UI::WidgetClass::_OVER,FREW,c
 Reaction::UI::WidgetClass::_OVER,GRODITI,c
+Reaction::UI::WidgetClass::_OVER,ILMARI,c
 Reaction::UI::WidgetClass::_OVER,JJNAPIORK,c
 Reaction::UI::WidgetClass::_OVER,MITHALDU,c
 Reaction::UI::WidgetClass::_OVER,MSTROUT,f
@@ -171,6 +180,7 @@ Reaction::UI::Window,ETHER,c
 Reaction::UI::Window,FLORA,c
 Reaction::UI::Window,FREW,c
 Reaction::UI::Window,GRODITI,c
+Reaction::UI::Window,ILMARI,c
 Reaction::UI::Window,JJNAPIORK,c
 Reaction::UI::Window,MITHALDU,c
 Reaction::UI::Window,MSTROUT,f

@@ -51,6 +51,7 @@ Data::CapabilityBased,EDENC,c
 Data::CapabilityBased,ETHER,c
 Data::CapabilityBased,FLORA,c
 Data::CapabilityBased,FREW,c
+Data::CapabilityBased,ILMARI,c
 Data::CapabilityBased,JJNAPIORK,c
 Data::CapabilityBased,MITHALDU,c
 Data::CapabilityBased,MSTROUT,f
@@ -80,6 +81,7 @@ Data::Collection,EDENC,c
 Data::Collection,ETHER,c
 Data::Collection,FLORA,c
 Data::Collection,FREW,c
+Data::Collection,ILMARI,c
 Data::Collection,JJNAPIORK,c
 Data::Collection,MITHALDU,c
 Data::Collection,MSTROUT,f
@@ -600,6 +602,7 @@ Data::Dumper::Concise,EDENC,c
 Data::Dumper::Concise,ETHER,c
 Data::Dumper::Concise,FLORA,c
 Data::Dumper::Concise,FREW,c
+Data::Dumper::Concise,ILMARI,c
 Data::Dumper::Concise,JJNAPIORK,c
 Data::Dumper::Concise,MITHALDU,c
 Data::Dumper::Concise,MSTROUT,f
@@ -616,6 +619,7 @@ Data::Dumper::Concise::Sugar,EDENC,c
 Data::Dumper::Concise::Sugar,ETHER,c
 Data::Dumper::Concise::Sugar,FLORA,c
 Data::Dumper::Concise::Sugar,FREW,c
+Data::Dumper::Concise::Sugar,ILMARI,c
 Data::Dumper::Concise::Sugar,JJNAPIORK,c
 Data::Dumper::Concise::Sugar,MITHALDU,c
 Data::Dumper::Concise::Sugar,MSTROUT,f

@@ -410,6 +410,7 @@ Lyrics::Fetcher::LyricsTime,REFLOG,c
 M,APEIRON,c
 M,EDENC,c
 M,ETHER,c
+M,ILMARI,c
 M,JJNAPIORK,c
 M,MITHALDU,c
 M,MSTROUT,f

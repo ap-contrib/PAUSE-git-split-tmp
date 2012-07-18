@@ -222,6 +222,7 @@ Class::DBI::Frozen::301,ETHER,c
 Class::DBI::Frozen::301,FLORA,c
 Class::DBI::Frozen::301,FREW,c
 Class::DBI::Frozen::301,GRODITI,c
+Class::DBI::Frozen::301,ILMARI,c
 Class::DBI::Frozen::301,JJNAPIORK,c
 Class::DBI::Frozen::301,MITHALDU,c
 Class::DBI::Frozen::301,MSTROUT,f
@@ -414,6 +415,7 @@ Class::DBI::Sweet::Topping,ETHER,c
 Class::DBI::Sweet::Topping,FLORA,c
 Class::DBI::Sweet::Topping,FREW,c
 Class::DBI::Sweet::Topping,GRODITI,c
+Class::DBI::Sweet::Topping,ILMARI,c
 Class::DBI::Sweet::Topping,JJNAPIORK,c
 Class::DBI::Sweet::Topping,LSAUNDERS,c
 Class::DBI::Sweet::Topping,MITHALDU,c

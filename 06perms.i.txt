@@ -218,6 +218,7 @@ Import::Admin,ANDY,f
 Import::Client,ANDY,f
 Import::Datasource,ANDY,f
 Import::Into,APEIRON,c
+Import::Into,ILMARI,c
 Import::Into,MITHALDU,c
 Import::Into,MSTROUT,f
 ImportAllFoos,PFISCHER,f

@@ -581,6 +581,7 @@ Class::MethodFilter,ETHER,c
 Class::MethodFilter,FLORA,c
 Class::MethodFilter,FREW,c
 Class::MethodFilter,GRODITI,c
+Class::MethodFilter,ILMARI,c
 Class::MethodFilter,JJNAPIORK,c
 Class::MethodFilter,LSAUNDERS,c
 Class::MethodFilter,MITHALDU,c

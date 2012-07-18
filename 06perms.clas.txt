@@ -902,6 +902,7 @@ Class::XML,ETHER,c
 Class::XML,FLORA,c
 Class::XML,FREW,c
 Class::XML,GRODITI,c
+Class::XML,ILMARI,c
 Class::XML,JJNAPIORK,c
 Class::XML,LSAUNDERS,c
 Class::XML,MITHALDU,c
@@ -922,6 +923,7 @@ Class::XML::DummyLayer,ETHER,c
 Class::XML::DummyLayer,FLORA,c
 Class::XML::DummyLayer,FREW,c
 Class::XML::DummyLayer,GRODITI,c
+Class::XML::DummyLayer,ILMARI,c
 Class::XML::DummyLayer,JJNAPIORK,c
 Class::XML::DummyLayer,LSAUNDERS,c
 Class::XML::DummyLayer,MITHALDU,c

@@ -134,6 +134,7 @@ spreadsheet,MMARCO,f
 sprite_view,METZZO,f
 sql_block,PHILCROW,f
 sqlite_comparison,CJONES,f
+start,ILMARI,c
 start,MITHALDU,c
 start,MSTROUT,f
 startPage,DRUOSO,f
@@ -171,6 +172,7 @@ strictures,DOY,c
 strictures,EDENC,c
 strictures,ETHER,c
 strictures,FLORA,c
+strictures,ILMARI,c
 strictures,JJNAPIORK,c
 strictures,MITHALDU,c
 strictures,MSTROUT,f
