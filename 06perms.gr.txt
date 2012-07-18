@@ -623,6 +623,7 @@ Gtk2::Allocation,GTHYNI,c
 Gtk2::Allocation,RMCFARLA,c
 Gtk2::Allocation,TSCH,f
 Gtk2::Allocation,XAOC,c
+Gtk2::AppIndicator,OESTERHOL,f
 Gtk2::Arrow,FLORA,c
 Gtk2::Arrow,GTHYNI,c
 Gtk2::Arrow,RMCFARLA,c
