@@ -422,7 +422,7 @@ Tie::Cache                         0.17  C/CH/CHAMAS/Tie-Cache-0.19.tar.gz
 Tie::Cache::Autoupdater            0.21  A/AN/ANTONFIN/Tie-Cache-Autoupdater-0.21.tar.gz
 Tie::Cache::LRU                20110205  M/MS/MSCHWERN/Tie-Cache-LRU-20110205.tar.gz
 Tie::Cache::LRU::Array            undef  M/MS/MSCHWERN/Tie-Cache-LRU-20110205.tar.gz
-Tie::Cache::LRU::Expires           0.54  O/OE/OESTERHOL/Tie-Cache-LRU-Expires-0.54.tar.gz
+Tie::Cache::LRU::Expires           0.55  O/OE/OESTERHOL/Tie-Cache-LRU-Expires-0.55.tar.gz
 Tie::Cache::LRU::LinkedList       undef  M/MS/MSCHWERN/Tie-Cache-LRU-20110205.tar.gz
 Tie::Cache::LRU::Virtual          undef  M/MS/MSCHWERN/Tie-Cache-LRU-20110205.tar.gz
 Tie::CacheHash                     0.50  J/JA/JAMCC/Tie-CacheHash-0.50.tar.gz
