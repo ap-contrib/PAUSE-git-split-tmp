@@ -504,7 +504,7 @@ invoker                            0.32  C/CL/CLKAO/invoker-0.32.tar.gz
 IO                                 1.25  G/GB/GBARR/IO-1.25.tar.gz
 IO::AIO                            4.15  M/ML/MLEHMANN/IO-AIO-4.15.tar.gz
 IO::AIO::Util                      0.09  G/GR/GRAY/IO-AIO-Util-0.09.tar.gz
-IO::All                            0.44  I/IN/INGY/IO-All-0.44.tar.gz
+IO::All                            0.45  G/GE/GETTY/IO-All-0.45.tar.gz
 IO::All::Base                     undef  I/IN/INGY/IO-All-0.44.tar.gz
 IO::All::DBM                      undef  I/IN/INGY/IO-All-0.44.tar.gz
 IO::All::Dir                      undef  I/IN/INGY/IO-All-0.44.tar.gz
