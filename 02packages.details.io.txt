@@ -238,8 +238,8 @@ IO::Socket::CLI::POP3             undef  A/AS/ASHLEYW/IO-Socket-CLI-0.02.tar.gz
 IO::Socket::CLI::POP3S            undef  A/AS/ASHLEYW/IO-Socket-CLI-0.02.tar.gz
 IO::Socket::CLI::SMTP             undef  A/AS/ASHLEYW/IO-Socket-CLI-0.02.tar.gz
 IO::Socket::CLI::SMTPS            undef  A/AS/ASHLEYW/IO-Socket-CLI-0.02.tar.gz
-IO::Socket::DNS                   0.020  B/BB/BBB/IO-Socket-DNS-0.020.tar.gz
-IO::Socket::DNS::Server           0.020  B/BB/BBB/IO-Socket-DNS-0.020.tar.gz
+IO::Socket::DNS                   0.021  B/BB/BBB/IO-Socket-DNS-0.021.tar.gz
+IO::Socket::DNS::Server           0.021  B/BB/BBB/IO-Socket-DNS-0.021.tar.gz
 IO::Socket::Forwarder              0.02  S/SA/SALVA/IO-Socket-Forwarder-0.02.tar.gz
 IO::Socket::INET                   1.31  G/GB/GBARR/IO-1.25.tar.gz
 IO::Socket::INET6                  2.69  S/SH/SHLOMIF/IO-Socket-INET6-2.69.tar.gz
