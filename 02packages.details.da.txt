@@ -1461,6 +1461,10 @@ DBD::Redbase::DataStream          undef  I/IL/ILYAVERL/DBD-Redbase-0.22.tar.gz
 DBD::Redbase::db                   0.22  I/IL/ILYAVERL/DBD-Redbase-0.22.tar.gz
 DBD::Redbase::dr                   0.22  I/IL/ILYAVERL/DBD-Redbase-0.22.tar.gz
 DBD::Redbase::st                   0.22  I/IL/ILYAVERL/DBD-Redbase-0.22.tar.gz
+DBD::Safe                          0.06  M/MM/MMCLERIC/DBD-Safe-0.06.tar.gz
+DBD::Safe::db                      0.06  M/MM/MMCLERIC/DBD-Safe-0.06.tar.gz
+DBD::Safe::dr                      0.06  M/MM/MMCLERIC/DBD-Safe-0.06.tar.gz
+DBD::Safe::st                      0.06  M/MM/MMCLERIC/DBD-Safe-0.06.tar.gz
 DBD::Salesforce                    0.04  B/BA/BAYSIDE/DBD-Salesforce-0.04.tar.gz
 DBD::Salesforce::db                0.01  B/BA/BAYSIDE/DBD-Salesforce-0.04.tar.gz
 DBD::Salesforce::dr                0.01  B/BA/BAYSIDE/DBD-Salesforce-0.04.tar.gz

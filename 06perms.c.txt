@@ -1365,6 +1365,10 @@ DBD::SQLite::dr,DUNCAND,c
 DBD::SQLite::dr,ISHIGAKI,c
 DBD::SQLite::dr,MSERGEANT,f
 DBD::SQLrelay,DMOW,m
+DBD::Safe,MMCLERIC,f
+DBD::Safe::db,MMCLERIC,f
+DBD::Safe::dr,MMCLERIC,f
+DBD::Safe::st,MMCLERIC,f
 DBD::Salesforce,BAYSIDE,m
 DBD::Salesforce::db,BAYSIDE,f
 DBD::Salesforce::dr,BAYSIDE,f
