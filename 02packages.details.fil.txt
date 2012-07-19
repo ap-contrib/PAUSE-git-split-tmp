@@ -141,7 +141,7 @@ Finance::Bank::INGDirect::Account  1.05  D/DR/DRAUONER/Finance-Bank-INGDirect-1.
 Finance::Bank::INGDirect::Statement 1.05  D/DR/DRAUONER/Finance-Bank-INGDirect-1.05.tar.gz
 Finance::Bank::JP::Mizuho          0.02  N/NG/NGS/Finance-Bank-JP-Mizuho-0.02.tar.gz
 Finance::Bank::JP::Mizuho::Account 0.02  N/NG/NGS/Finance-Bank-JP-Mizuho-0.02.tar.gz
-Finance::Bank::JP::MUFG            0.04  P/PE/PERFORB/Finance-Bank-JP-MUFG-0.04.tar.gz
+Finance::Bank::JP::MUFG            0.05  P/PE/PERFORB/Finance-Bank-JP-MUFG-0.05.tar.gz
 Finance::Bank::LaPoste             7.06  P/PI/PIXEL/Finance-Bank-LaPoste-7.06.tar.gz
 Finance::Bank::LaPoste::Account    7.06  P/PI/PIXEL/Finance-Bank-LaPoste-7.06.tar.gz
 Finance::Bank::LaPoste::Statement  7.06  P/PI/PIXEL/Finance-Bank-LaPoste-7.06.tar.gz
