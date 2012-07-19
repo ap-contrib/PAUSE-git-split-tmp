@@ -195,6 +195,10 @@ App::cpansearch,CORNELIUS,m
 App::distfind,MARCEL,f
 App::envfile,XAICRON,f
 App::epoch,TRON,f
+App::etcvs,ALEXBIO,f
+App::etcvs::Command::import,ALEXBIO,f
+App::etcvs::Command::init,ALEXBIO,f
+App::etcvs::Command::restore,ALEXBIO,f
 App::gcal,ARJONES,f
 App::gh,CORNELIUS,f
 App::gh::API,CORNELIUS,f
