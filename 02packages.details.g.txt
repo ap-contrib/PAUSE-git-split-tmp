@@ -147,7 +147,7 @@ Gtk2::Net::LDAP::Widgets::LdapTreeSelector 2.000001  A/AD/ADAMOWSKI/Gtk2-Net-LDA
 Gtk2::Net::LDAP::Widgets::LdapTreeView 2.000001  A/AD/ADAMOWSKI/Gtk2-Net-LDAP-Widgets-2.0.1.tar.gz
 Gtk2::Net::LDAP::Widgets::Util 2.000001  A/AD/ADAMOWSKI/Gtk2-Net-LDAP-Widgets-2.0.1.tar.gz
 Gtk2::Notify                       0.05  F/FL/FLORA/Gtk2-Notify-0.05.tar.gz
-Gtk2::OSXApplication               0.05  O/OE/OESTERHOL/Gtk2-OSXApplication-0.05.tar.gz
+Gtk2::OSXApplication               0.06  O/OE/OESTERHOL/Gtk2-OSXApplication-0.06.tar.gz
 Gtk2::Pango                        0.01  X/XA/XAOC/Gtk2-1.244.tar.gz
 Gtk2::PathButtonBar            0.001002  V/VV/VVELOX/Gtk2-PathButtonBar-0.1.2.tar.gz
 Gtk2::Phat                         0.08  F/FL/FLORA/Gtk2-Phat-0.08.tar.gz
