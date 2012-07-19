@@ -332,8 +332,10 @@ Business::BR::PIS,FERREIRA,f
 Business::BR::RG,RENTOCRON,f
 Business::BalancedPayments,IRONCAMEL,c
 Business::BalancedPayments,KHUSSEIN,f
+Business::BalancedPayments,WWOLF,c
 Business::BalancedPayments::HTTP,IRONCAMEL,c
 Business::BalancedPayments::HTTP,KHUSSEIN,f
+Business::BalancedPayments::HTTP,WWOLF,c
 Business::BancaSella,EBRUNI,f
 Business::BancaSella::Decode,EBRUNI,f
 Business::BancaSella::Decode::Gateway,EBRUNI,f
