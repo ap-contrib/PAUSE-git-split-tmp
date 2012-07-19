@@ -665,7 +665,7 @@ Rhetoric::Views                    0.06  B/BE/BEPPU/Rhetoric-0.06.tar.gz
 Rhetoric::Widgets                 undef  B/BE/BEPPU/Rhetoric-0.06.tar.gz
 RHP::Timer                          0.1  P/PH/PHRED/RHP-Timer-0.1.tar.gz
 ri_plot                             1.5  C/CJ/CJONES/Microarray-0.45c.zip
-Riap                           1.001014  S/SH/SHARYANTO/Riap-1.1.14.tar.gz
+Riap                           1.001015  S/SH/SHARYANTO/Riap-1.1.15.tar.gz
 rig                                0.04  R/RO/RODRIGO/rig-0.04.tar.gz
 rig::cmd::cpan                     0.04  R/RO/RODRIGO/rig-0.04.tar.gz
 rig::cmd::cpanm                    0.04  R/RO/RODRIGO/rig-0.04.tar.gz
