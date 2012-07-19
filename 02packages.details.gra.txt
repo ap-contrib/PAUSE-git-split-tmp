@@ -454,7 +454,7 @@ GT::DB::Chart                       246  K/KR/KRYDE/chart-246.tar.gz
 GTestRunnerSuite                  undef  G/GU/GUIDO/Test-Unit-GTestRunner-0.04.tar.gz
 Gtk                              0.7009  M/ML/MLEHMANN/Gtk-Perl-0.7009.tar.gz
 Gtk2                              1.244  X/XA/XAOC/Gtk2-1.244.tar.gz
-Gtk2::AppIndicator                 0.11  O/OE/OESTERHOL/Gtk2-AppIndicator-0.11.tar.gz
+Gtk2::AppIndicator                 0.12  O/OE/OESTERHOL/Gtk2-AppIndicator-0.12.tar.gz
 Gtk2::Builder                     1.244  X/XA/XAOC/Gtk2-1.244.tar.gz
 Gtk2::CellLayout::DataFunc        1.244  X/XA/XAOC/Gtk2-1.244.tar.gz
 Gtk2::Chmod                         0.0  V/VV/VVELOX/Gtk2-Chmod-0.0.0.tar.gz
