@@ -1191,7 +1191,7 @@ HTTP::Link::Parser::PlainLiteral  0.103  T/TO/TOBYINK/HTTP-Link-Parser-0.103.tar
 HTTP::Lint                        undef  L/LK/LKUNDRAK/HTTP-Lint-1.1.tar.gz
 HTTP::Lint::Message               undef  L/LK/LKUNDRAK/HTTP-Lint-1.1.tar.gz
 HTTP::Lint::UserAgent             undef  L/LK/LKUNDRAK/HTTP-Lint-1.1.tar.gz
-HTTP::Lite                          2.3  A/AD/ADAMK/HTTP-Lite-2.3.tar.gz
+HTTP::Lite                          2.4  N/NE/NEILB/HTTP-Lite-2.4.tar.gz
 HTTP::LoadGen                      0.07  O/OP/OPI/HTTP-LoadGen-0.07.tar.gz
 HTTP::LoadGen::Logger              0.02  O/OP/OPI/HTTP-LoadGen-0.07.tar.gz
 HTTP::LoadGen::Run                 0.03  O/OP/OPI/HTTP-LoadGen-0.07.tar.gz
