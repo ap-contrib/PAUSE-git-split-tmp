@@ -520,9 +520,12 @@ Test::Resub,BELDEN,f
 Test::Reuse,BRADH,f
 Test::Role,JFITZ,f
 Test::Routine,RJBS,f
+Test::Routine::AutoClear,PDCAWLEY,f
 Test::Routine::Common,RJBS,f
 Test::Routine::Compositor,RJBS,f
+Test::Routine::DoesAutoClear,PDCAWLEY,f
 Test::Routine::Manual::Demo,RJBS,f
+Test::Routine::Meta::Attribute::Trait::AutoClear,PDCAWLEY,f
 Test::Routine::Runner,RJBS,f
 Test::Routine::Test,RJBS,f
 Test::Routine::Test::Role,RJBS,f

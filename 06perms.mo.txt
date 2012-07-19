@@ -609,6 +609,7 @@ Moose::Meta::Attribute::Custom::Trait::App::Tags,MAROS,f
 Moose::Meta::Attribute::Custom::Trait::AppBase,MAROS,f
 Moose::Meta::Attribute::Custom::Trait::AppOption,MAROS,f
 Moose::Meta::Attribute::Custom::Trait::AttributeDisplayDefaults,DCHESTER,f
+Moose::Meta::Attribute::Custom::Trait::AutoClear,PDCAWLEY,f
 Moose::Meta::Attribute::Custom::Trait::AutoDestruct,RSRCHBOY,f
 Moose::Meta::Attribute::Custom::Trait::AutoIncrement,JHALLOCK,f
 Moose::Meta::Attribute::Custom::Trait::Bar,SCHWIGON,f

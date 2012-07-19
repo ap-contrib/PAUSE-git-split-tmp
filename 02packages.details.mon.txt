@@ -197,6 +197,7 @@ Moose::Meta::Attribute::Custom::Trait::App::Tags undef  M/MA/MAROS/MooseX-App-1.
 Moose::Meta::Attribute::Custom::Trait::AppBase undef  M/MA/MAROS/MooseX-App-1.04.tar.gz
 Moose::Meta::Attribute::Custom::Trait::AppOption undef  M/MA/MAROS/MooseX-App-1.05.tar.gz
 Moose::Meta::Attribute::Custom::Trait::AttributeDisplayDefaults undef  D/DC/DCHESTER/Norma-0.02.tar.gz
+Moose::Meta::Attribute::Custom::Trait::AutoClear 0.002  P/PD/PDCAWLEY/Test-Routine-AutoClear-0.002.tar.gz
 Moose::Meta::Attribute::Custom::Trait::AutoDestruct 0.009  R/RS/RSRCHBOY/MooseX-AutoDestruct-0.009.tar.gz
 Moose::Meta::Attribute::Custom::Trait::AutoIncrement undef  J/JH/JHALLOCK/Storm-0.10-withoutworldwriteables.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Binary 0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz

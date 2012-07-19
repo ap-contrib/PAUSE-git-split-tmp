@@ -821,9 +821,12 @@ Test::Resub                        2.01  B/BE/BELDEN/Test-Resub-2.01.tar.gz
 Test::Reuse                       0.001  B/BR/BRADH/Test-Reuse-0.001.tar.gz
 Test::Role                        0.012  J/JF/JFITZ/Test-Role-0.12.tar.gz
 Test::Routine                     0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
+Test::Routine::AutoClear          0.002  P/PD/PDCAWLEY/Test-Routine-AutoClear-0.002.tar.gz
 Test::Routine::Common             0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
 Test::Routine::Compositor         0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
+Test::Routine::DoesAutoClear      0.002  P/PD/PDCAWLEY/Test-Routine-AutoClear-0.002.tar.gz
 Test::Routine::Manual::Demo       0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
+Test::Routine::Meta::Attribute::Trait::AutoClear 0.002  P/PD/PDCAWLEY/Test-Routine-AutoClear-0.002.tar.gz
 Test::Routine::Runner             0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
 Test::Routine::Test               0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
 Test::Routine::Test::Role         0.015  R/RJ/RJBS/Test-Routine-0.015.tar.gz
