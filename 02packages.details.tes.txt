@@ -50,7 +50,7 @@ Test::CGI::Multipart::Gen::Text  v0.0.3  S/SI/SILASMONK/Test-CGI-Multipart-v0.0.
 Test::CGI::Untaint                 1.10  P/PR/PROFERO/Test-CGI-Untaint-1.10.tar.gz
 Test::CheckChanges                 0.14  G/GA/GAM/Test-CheckChanges-0.14.tar.gz
 Test::CheckDeps                   0.002  L/LE/LEONT/Test-CheckDeps-0.002.tar.gz
-Test::CheckManifest                1.25  R/RE/RENEEB/Test-CheckManifest-1.25.tar.gz
+Test::CheckManifest                1.26  R/RE/RENEEB/Test-CheckManifest-1.26.tar.gz
 Test::Chimps                       0.07  Z/ZE/ZEV/Test-Chimps-0.07.tar.gz
 Test::Chimps::Anna                 0.04  Z/ZE/ZEV/Test-Chimps-Anna-0.04.tar.gz
 Test::Chimps::Client               0.05  Z/ZE/ZEV/Test-Chimps-Client-0.05.tar.gz
