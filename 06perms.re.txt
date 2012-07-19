@@ -517,6 +517,8 @@ Regexp::Compare,VBAR,f
 Regexp::Compost,SHIELDS,m
 Regexp::Constant,DTIBERIO,f
 Regexp::Copy,JDUNCAN,f
+Regexp::Debugger,DCONWAY,f
+Regexp::Debugger::Precursor,DCONWAY,f
 Regexp::DeferredExecution,AMACKEY,f
 Regexp::English,CHROMATIC,f
 Regexp::Ethiopic,DYACOB,f
