@@ -191,6 +191,11 @@ Wraf::Result,JONAS,f
 Wrap,XIAOMO,m
 Wrapper,CMUNGALL,f
 Wrapper,SJCARBON,c
+WriteAt,ZAG,f
+WriteAt::AUTHOR,ZAG,f
+WriteAt::CHANGES,ZAG,f
+WriteAt::To,ZAG,f
+WriteAt::To::DocBook,ZAG,f
 Writeat,ZAG,f
 Writeat::AUTHOR,ZAG,f
 Writeat::CHANGES,ZAG,f
