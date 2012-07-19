@@ -21,6 +21,8 @@ Business::AU::Ledger::View::Receipt 0.88  R/RS/RSAVAGE/Business-AU-Ledger-0.88.t
 Business::AU::Ledger::View::Reconciliation 0.88  R/RS/RSAVAGE/Business-AU-Ledger-0.88.tgz
 Business::AU::TFN                   0.1  S/SC/SCOTT/Business-AU-TFN-0.1.tar.gz
 Business::AuthorizeNet::CIM        0.06  F/FA/FAYLAND/Business-AuthorizeNet-CIM-0.06.tar.gz
+Business::BalancedPayments       0.0001  K/KH/KHUSSEIN/Business-BalancedPayments-0.0001.tar.gz
+Business::BalancedPayments::HTTP 0.0001  K/KH/KHUSSEIN/Business-BalancedPayments-0.0001.tar.gz
 Business::BancaSella               0.13  E/EB/EBRUNI/Business-BancaSella-0.13.tar.gz
 Business::BancaSella::Decode       0.11  E/EB/EBRUNI/Business-BancaSella-0.13.tar.gz
 Business::BancaSella::Decode::Gateway 0.11  E/EB/EBRUNI/Business-BancaSella-0.13.tar.gz
