@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   118573
-Last-Updated: Thu, 19 Jul 2012 23:35:04 GMT
+Last-Updated: Thu, 19 Jul 2012 23:39:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -367,7 +367,7 @@ Acme::DreamyImage                   1.1  G/GU/GUGOD/Acme-DreamyImage-1.1.tar.gz
 Acme::DRM                          0.03  B/BW/BWARDEN/Acme-DRM-0.03.tar.gz
 Acme::Drunk                        0.03  C/CW/CWEST/Acme-Drunk-0.03.tar.gz
 Acme::dwcarder                     0.03  D/DW/DWCARDER/Acme-dwcarder-0.03.tar.gz
-Acme::DWIM                         1.05  D/DC/DCONWAY/Acme-Bleach-1.13.tar.gz
+Acme::DWIM                         1.05  D/DC/DCONWAY/Acme-Bleach-1.014.tar.gz
 Acme::Dyoung                       0.01  D/DY/DYOUNG/Acme-Dyoung-0.01.tar.gz
 Acme::Echo                         0.02  D/DA/DAVIDRW/Acme-Echo-0.02.tar.gz
 Acme::EdError                      0.01  J/JM/JMATES/Acme-EdError-0.01.tar.gz
