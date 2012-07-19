@@ -510,7 +510,7 @@ WWW::Delicious::Simple            undef  A/AJ/AJCT/WWW-Delicious-Simple-0.02.tar
 WWW::Deutschepost::Detail           0.1  S/ST/STEFANOS/WWW-Deutschepost-Detail-0.1.tar.gz
 WWW::DHL::Detail                    0.2  S/ST/STEFANOS/WWW-DHL-Detail-0.2.tar.gz
 WWW::Dict                      0.000001  G/GU/GUGOD/WWW-Dict-0.0.1.tar.gz
-WWW::Dict::Leo::Org                1.34  T/TL/TLINDEN/WWW-Dict-Leo-Org-1.34.tar.gz
+WWW::Dict::Leo::Org                1.35  T/TL/TLINDEN/WWW-Dict-Leo-Org-1.35.tar.gz
 WWW::Dict::TWMOE::Phrase           0.05  G/GU/GUGOD/WWW-Dict-TWMOE-Phrase-0.05.tar.gz
 WWW::Dict::Zdic                0.000004  G/GU/GUGOD/WWW-Dict-Zdic-0.0.4.tar.gz
 WWW::Dictionary                    0.01  C/CO/COG/WWW-Dictionary-0.01.tar.gz
