@@ -282,6 +282,7 @@ App::olson::LocalDateTime,ZEFRAM,f
 App::olson::UtcDateTime,ZEFRAM,f
 App::p,IRONCAMEL,f
 App::padadoy,VOJ,f
+App::perlall,RURBAN,f
 App::perlbrew,GUGOD,f
 App::perlfind,MARCEL,f
 App::perlfind::Plugin::FoundIn,MARCEL,f
