@@ -32,6 +32,7 @@ DataCube::FileUtils::FileReader,DAVEGMX,f
 DataCube::FileUtils::TableMerger,DAVEGMX,f
 DataCube::MeasureUpdater,DAVEGMX,f
 DataCube::Pathwalker,DAVEGMX,f
+DataCube::PgLoader,DAVEGMX,f
 DataCube::Query,DAVEGMX,f
 DataCube::Query::Iterator,DAVEGMX,f
 DataCube::Report::Formatter,DAVEGMX,f
