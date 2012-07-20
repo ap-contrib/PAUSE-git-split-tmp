@@ -395,7 +395,7 @@ Catalyst::Plugin::Static::TT      0.002  H/HD/HDP/Catalyst-Plugin-Static-TT-0.00
 Catalyst::Plugin::StatusMessage 1.002000  H/HK/HKCLARK/Catalyst-Plugin-StatusMessage-1.002000.tar.gz
 Catalyst::Plugin::StatusMessageTypeRole undef  H/HK/HKCLARK/Catalyst-Plugin-StatusMessage-0.003000.tar.gz
 Catalyst::Plugin::StripScripts      0.1  X/XE/XERN/Catalyst-Plugin-StripScripts-0.1.tar.gz
-Catalyst::Plugin::SubRequest       0.18  E/ED/EDENC/Catalyst-Plugin-SubRequest-0.18.tar.gz
+Catalyst::Plugin::SubRequest       0.19  E/ED/EDENC/Catalyst-Plugin-SubRequest-0.19.tar.gz
 Catalyst::Plugin::SuperForm        0.01  M/MR/MRAMBERG/Catalyst-Plugin-SuperForm-0.01.tar.gz
 Catalyst::Plugin::SwiffUploaderCookieHack 0.01  T/TR/TRWWW/Catalyst-Plugin-SwiffUploaderCookieHack-0.01.tar.gz
 Catalyst::Plugin::Textile          0.01  B/BO/BOBTFISH/Catalyst-Plugin-Textile-0.01.tar.gz
