@@ -606,7 +606,7 @@ Pod::Elemental::Element::Pod5::Ordinary 0.102362  R/RJ/RJBS/Pod-Elemental-0.1023
 Pod::Elemental::Element::Pod5::Region 0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Element::Pod5::Verbatim 0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Flat           0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
-Pod::Elemental::MakeSelector       0.01  C/CJ/CJM/Pod-Elemental-MakeSelector-0.01.tar.gz
+Pod::Elemental::MakeSelector       0.02  C/CJ/CJM/Pod-Elemental-MakeSelector-0.02.tar.gz
 Pod::Elemental::Node           0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Objectifier    0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Paragraph      0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
