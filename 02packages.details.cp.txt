@@ -953,11 +953,11 @@ Crypt::PPDES                      undef  V/VI/VIPUL/Crypt-TripleDES-0.24.tar.gz
 Crypt::Primes                      0.50  V/VI/VIPUL/Crypt-Primes-0.50.tar.gz
 Crypt::PW44                        0.13  B/BR/BRIAND/Crypt-PW44-0.13.tar.gz
 Crypt::Pwsafe                       1.2  T/TA/TANGENT/Crypt-Pwsafe-1.2.tar.gz
-Crypt::PWSafe3                     1.03  T/TL/TLINDEN/Crypt-PWSafe3-1.03.tar.gz
-Crypt::PWSafe3::Field              1.01  T/TL/TLINDEN/Crypt-PWSafe3-1.03.tar.gz
-Crypt::PWSafe3::HeaderField        1.01  T/TL/TLINDEN/Crypt-PWSafe3-1.03.tar.gz
-Crypt::PWSafe3::Record             1.02  T/TL/TLINDEN/Crypt-PWSafe3-1.03.tar.gz
-Crypt::PWSafe3::SHA256             1.01  T/TL/TLINDEN/Crypt-PWSafe3-1.03.tar.gz
+Crypt::PWSafe3                     1.04  T/TL/TLINDEN/Crypt-PWSafe3-1.04.tar.gz
+Crypt::PWSafe3::Field              1.01  T/TL/TLINDEN/Crypt-PWSafe3-1.04.tar.gz
+Crypt::PWSafe3::HeaderField        1.01  T/TL/TLINDEN/Crypt-PWSafe3-1.04.tar.gz
+Crypt::PWSafe3::Record             1.03  T/TL/TLINDEN/Crypt-PWSafe3-1.04.tar.gz
+Crypt::PWSafe3::SHA256             1.01  T/TL/TLINDEN/Crypt-PWSafe3-1.04.tar.gz
 Crypt::Rabbit                       1.0  J/JC/JCDUQUE/Crypt-Rabbit-1.0.0.tar.gz
 Crypt::Rainbow                      1.0  J/JC/JCDUQUE/Crypt-Rainbow-1.0.0.tar.gz
 Crypt::Random                      1.25  V/VI/VIPUL/Crypt-Random-1.25.tar.gz
