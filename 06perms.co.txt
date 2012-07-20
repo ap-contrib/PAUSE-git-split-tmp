@@ -307,6 +307,8 @@ Config::PackageGlobal::OO,MSTROUT,c
 Config::PackageGlobal::OO,NUFFIN,f
 Config::PackageGlobal::OO,SAMV,c
 Config::PackageGlobal::OO,STEVAN,c
+Config::Param,THORGIS,f
+Config::Param::FileWorker,THORGIS,f
 Config::Patch,MSCHILLI,f
 Config::Patch::Hunk,MSCHILLI,f
 Config::Patcher::Util,MSCHILLI,f
