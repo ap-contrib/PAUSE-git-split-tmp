@@ -289,8 +289,11 @@ WWW::SmugMug::API,FLOWERYSO,f
 WWW::Socrata,OVENMAN,m
 WWW::SolveMedia,SOLVE,f
 WWW::SourceForge,GUGOD,f
+WWW::SourceForge,RBOW,c
 WWW::SourceForge::Project,GUGOD,f
+WWW::SourceForge::Project,RBOW,c
 WWW::SourceForge::User,GUGOD,f
+WWW::SourceForge::User,RBOW,c
 WWW::Spamla,GRAY,m
 WWW::Spamla::ListItem,GRAY,f
 WWW::SpiTract,XERN,f
