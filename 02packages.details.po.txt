@@ -258,9 +258,9 @@ POE::Component::SmokeBox::Backend::Test::Stress 0.48  B/BI/BINGOS/POE-Component-
 POE::Component::SmokeBox::Dists    1.06  B/BI/BINGOS/POE-Component-SmokeBox-Dists-1.06.tar.gz
 POE::Component::SmokeBox::Job      0.48  B/BI/BINGOS/POE-Component-SmokeBox-0.48.tar.gz
 POE::Component::SmokeBox::JobQueue 0.48  B/BI/BINGOS/POE-Component-SmokeBox-0.48.tar.gz
-POE::Component::SmokeBox::Recent   1.36  B/BI/BINGOS/POE-Component-SmokeBox-Recent-1.36.tar.gz
-POE::Component::SmokeBox::Recent::FTP 1.36  B/BI/BINGOS/POE-Component-SmokeBox-Recent-1.36.tar.gz
-POE::Component::SmokeBox::Recent::HTTP 1.36  B/BI/BINGOS/POE-Component-SmokeBox-Recent-1.36.tar.gz
+POE::Component::SmokeBox::Recent   1.38  B/BI/BINGOS/POE-Component-SmokeBox-Recent-1.38.tar.gz
+POE::Component::SmokeBox::Recent::FTP 1.38  B/BI/BINGOS/POE-Component-SmokeBox-Recent-1.38.tar.gz
+POE::Component::SmokeBox::Recent::HTTP 1.38  B/BI/BINGOS/POE-Component-SmokeBox-Recent-1.38.tar.gz
 POE::Component::SmokeBox::Result   0.48  B/BI/BINGOS/POE-Component-SmokeBox-0.48.tar.gz
 POE::Component::SmokeBox::Smoker   0.48  B/BI/BINGOS/POE-Component-SmokeBox-0.48.tar.gz
 POE::Component::SmokeBox::Uploads::CPAN::Mini 1.00  B/BI/BINGOS/POE-Component-SmokeBox-Uploads-CPAN-Mini-1.00.tar.gz
