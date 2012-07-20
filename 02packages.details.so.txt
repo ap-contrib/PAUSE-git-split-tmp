@@ -678,6 +678,7 @@ SQL::Dialects::iPod                0.01  A/AL/ALLENDAY/DBD-iPod-0.01.tar.gz
 SQL::Dialects::Role                1.33  R/RE/REHSACK/SQL-Statement-1.33.tar.gz
 SQL::Dialects::Salesforce          0.01  B/BA/BAYSIDE/DBD-Salesforce-0.04.tar.gz
 SQL::DMLGenerator                  0.01  A/AD/ADRIANWIT/SQL-Entity-0.05.tar.gz
+SQL::Easy                          0.05  B/BE/BESSARABV/SQL-Easy-0.05.tar.gz
 SQL::Entity                        0.05  A/AD/ADRIANWIT/SQL-Entity-0.05.tar.gz
 SQL::Entity::Column                0.02  A/AD/ADRIANWIT/SQL-Entity-0.05.tar.gz
 SQL::Entity::Column::LOB           0.02  A/AD/ADRIANWIT/SQL-Entity-0.05.tar.gz
