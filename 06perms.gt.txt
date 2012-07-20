@@ -674,6 +674,7 @@ Gtk::io::UNIX,MLEHMANN,c
 Gtk::lazy,LUPUS,f
 Gtk::lazy,MLEHMANN,c
 Guard,MLEHMANN,f
+Guard::State::Washington,CJCOLLIER,f
 Guardian::OpenPlatform::API,DAVECROSS,f
 Guess,AWWAIID,f
 GuessDirectories,TWH,f
