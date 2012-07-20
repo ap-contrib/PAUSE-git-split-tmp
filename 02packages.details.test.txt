@@ -987,7 +987,7 @@ Text::FormBuilder                  0.14  P/PE/PEICHMAN/Text-FormBuilder-0.14.tar
 Text::FormBuilder::Parser         undef  P/PE/PEICHMAN/Text-FormBuilder-0.13.tar.gz
 Text::Fracture                     1.02  J/JN/JNW/Text-Fracture-1.02.tar.gz
 Text::FromAny                      0.21  Z/ZE/ZERODOGG/Text-FromAny-0.21.tar.gz
-Text::Fuzzy                        0.02  B/BK/BKB/Text-Fuzzy-0.02.tar.gz
+Text::Fuzzy                        0.03  B/BK/BKB/Text-Fuzzy-0.03.tar.gz
 Text::GaleChurch                   1.00  A/AC/ACHIMRU/Text-GaleChurch-1.00.tar.gz
 Text::GenderFromName               0.33  E/ED/EDALY/Text-GenderFromName-0.33.tar.gz
 Text::German                       0.06  U/UL/ULPFR/Text-German-0.06.tar.gz
