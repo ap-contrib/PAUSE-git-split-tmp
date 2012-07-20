@@ -288,9 +288,9 @@ WWW::Slides::Talk,POLETTIX,f
 WWW::SmugMug::API,FLOWERYSO,f
 WWW::Socrata,OVENMAN,m
 WWW::SolveMedia,SOLVE,f
-WWW::SourceForge,GUGOD,f
-WWW::SourceForge::Project,GUGOD,f
-WWW::SourceForge::User,GUGOD,f
+WWW::SourceForge,GUGOD,c
+WWW::SourceForge::Project,GUGOD,c
+WWW::SourceForge::User,GUGOD,c
 WWW::Spamla,GRAY,m
 WWW::Spamla::ListItem,GRAY,f
 WWW::SpiTract,XERN,f
