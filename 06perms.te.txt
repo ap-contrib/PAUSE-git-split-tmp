@@ -10,7 +10,9 @@ Text::Wigwam,DJOHNSTON,m
 Text::Wigwam,WINGNUT,c
 Text::WikiCreole,JBURNETT,m
 Text::WikiFormat,CHROMATIC,f
+Text::WikiFormat,CYCLES,c
 Text::WikiFormat::Blocks,CHROMATIC,f
+Text::WikiFormat::Blocks,CYCLES,c
 Text::WikiFormat::SAX,MSERGEANT,f
 Text::WikiText,MIGO,f
 Text::WikiText::InputFilter,MIGO,f
