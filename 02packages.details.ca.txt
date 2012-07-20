@@ -284,7 +284,7 @@ Catalyst::Plugin::Log::Log4perl    0.01  P/PR/PRAVUS/Catalyst-Plugin-Log-Log4per
 Catalyst::Plugin::Log::Log4perlSimple 0.3  M/MS/MSMITH/Catalyst-Plugin-Log-Log4perlSimple-0.3.tar.gz
 Catalyst::Plugin::Log::Message     0.02  M/MI/MICHIEL/Catalyst-Plugin-Log-Message-0.02.tar.gz
 Catalyst::Plugin::Log::Message::Backend 0.02  M/MI/MICHIEL/Catalyst-Plugin-Log-Message-0.02.tar.gz
-Catalyst::Plugin::LogDeep         0.0.2  I/IV/IVANWILLS/Catalyst-Plugin-LogDeep-0.0.2.tar.gz
+Catalyst::Plugin::LogDeep        v0.0.3  I/IV/IVANWILLS/Catalyst-Plugin-LogDeep-v0.0.3.tar.gz
 Catalyst::Plugin::LogWarnings      0.03  B/BO/BOBTFISH/Catalyst-Plugin-LogWarnings-0.03.tar.gz
 Catalyst::Plugin::Markdown         0.01  C/CL/CLACO/Catalyst-Plugin-Markdown-0.01.tar.gz
 Catalyst::Plugin::MemoryUsage    v0.3.1  Y/YA/YANICK/Catalyst-Plugin-MemoryUsage-0.3.1.tar.gz
