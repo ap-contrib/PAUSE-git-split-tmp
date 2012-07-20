@@ -347,7 +347,6 @@ File::Properties::PropsCache       0.01  W/WO/WOHL/File-Properties-0.02.tar.gz
 File::Properties::Regular          0.02  W/WO/WOHL/File-Properties-0.02.tar.gz
 File::pushd                       1.002  D/DA/DAGOLDEN/File-pushd-1.002.tar.gz
 File::Queue                        1.01  J/JL/JLAVOLD/File-Queue-1.01a.tar.gz
-File::quotas                       0.20  C/CM/CMORRIS/File-quotas-0.20.tar.gz
 File::Random                       0.17  B/BI/BIGJ/File-Random-0.17.tar.gz
 File::RandomAccess                 1.10  E/EX/EXIFTOOL/Image-ExifTool-8.90.tar.gz
 File::RandomLine                   0.19  D/DA/DAGOLDEN/File-RandomLine-0.19.tar.gz
