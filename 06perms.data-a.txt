@@ -12,7 +12,7 @@ DataControl,SEN,f
 DataCop::DataFile,SOFTDIA,f
 DataCop::DataFileI,SOFTDIA,f
 DataCop::FileType::FormDB,SOFTDIA,f
-DataCube,DAVEGMX,f
+DataCube,DAVEGMX,m
 DataCube::Connection,DAVEGMX,f
 DataCube::Connection::Table,DAVEGMX,f
 DataCube::Controller,DAVEGMX,f
