@@ -230,7 +230,7 @@ Move                                1.1  C/CH/CHESSKIT/Chess-ChessKit-ChessKit-0
 MoveCommand                       undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Movie::Info                         0.2  S/SI/SIMONW/Movie-Info-0.2.tar.gz
 MoviePlayer                       undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-Movies::Organizer                   0.6  C/CE/CELOGEEK/Movies-Organizer-0.6.tar.gz
+Movies::Organizer                   0.7  C/CE/CELOGEEK/Movies-Organizer-0.7.tar.gz
 Moxy                               0.63  T/TO/TOKUHIROM/Moxy-0.63.tar.gz
 Moxy::Attribute::CarrierHook      undef  T/TO/TOKUHIROM/Moxy-0.63.tar.gz
 Moxy::Component::Context          undef  T/TO/TOKUHIROM/Moxy-0.63.tar.gz
