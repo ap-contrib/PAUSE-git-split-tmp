@@ -825,7 +825,7 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                     1.22  A/AH/AHICOX/Time-Interval-1.22.tar.gz
 Time::JulianDay                2011.0505  M/MU/MUIR/modules/Time-modules-2011.0517.tar.gz
-Time::Local                      1.2200  D/DR/DROLSKY/Time-Local-1.2200.tar.gz
+Time::Local                      1.2300  D/DR/DROLSKY/Time-Local-1.2300.tar.gz
 Time::localtime                    1.02  F/FL/FLORA/perl-5.15.4.tar.gz
 Time::LST                         0.038  R/RG/RGARTON/Time-LST-0.038.tar.gz
 Time::Mock                       v0.0.2  E/EW/EWILHELM/Time-Mock-v0.0.2.tar.gz
