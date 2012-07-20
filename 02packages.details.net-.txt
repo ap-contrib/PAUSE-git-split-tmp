@@ -406,6 +406,7 @@ Net::HTTP::Spore::Middleware::Format::Auto 0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.0
 Net::HTTP::Spore::Middleware::Format::JSON 0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
 Net::HTTP::Spore::Middleware::Format::XML 0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
 Net::HTTP::Spore::Middleware::Format::YAML 0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
+Net::HTTP::Spore::Middleware::Header 0.01  C/CE/CELOGEEK/Net-HTTP-Spore-Middleware-Header-0.01.tar.gz
 Net::HTTP::Spore::Middleware::LogDispatch 0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
 Net::HTTP::Spore::Middleware::Mock 0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
 Net::HTTP::Spore::Middleware::Redirection 0.04  F/FR/FRANCKC/Net-HTTP-Spore-0.04.tar.gz
