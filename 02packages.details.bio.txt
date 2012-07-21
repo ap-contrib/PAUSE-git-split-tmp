@@ -1232,6 +1232,8 @@ Bio::OntologyIO::soflat        1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::ORA                            1.7  C/CE/CERATITES/ora-1.7.tar.gz
 Bio::Oxbench::Util                undef  W/WA/WALSHTP/Bio-Oxbench-0.01.tar.gz
 Bio::ParameterBaseI            1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
+Bio::PDB::Structure::Atom          0.01  R/RU/RULIX/Bio-PDB-Structure-0.01.tar.gz
+Bio::PDB::Structure::Molecule      0.01  R/RU/RULIX/Bio-PDB-Structure-0.01.tar.gz
 Bio::Perl                      1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::Phenotype::Correlate      1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::Phenotype::Measure        1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz

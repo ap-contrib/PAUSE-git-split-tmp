@@ -2130,6 +2130,8 @@ Bio::OntologyIO::soflat,CJFIELDS,c
 Bio::OntologyIO::soflat,SENDU,c
 Bio::OntologyIO::soflat,STAJICH,c
 Bio::Oxbench::Util,WALSHTP,f
+Bio::PDB::Structure::Atom,RULIX,f
+Bio::PDB::Structure::Molecule,RULIX,f
 Bio::ParameterBaseI,BIOPERLML,f
 Bio::ParameterBaseI,CJFIELDS,c
 Bio::Parse,BIRNEY,c
