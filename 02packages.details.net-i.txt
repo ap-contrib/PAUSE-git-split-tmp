@@ -354,11 +354,11 @@ Net::Jabber::Stanza               undef  R/RE/REATMON/Net-Jabber-2.0.tar.gz
 Net::Jabber::X                     1.30  R/RE/REATMON/Net-Jabber-1.30.tar.gz
 Net::Jabber::XDB                    2.0  R/RE/REATMON/Net-Jabber-2.0.tar.gz
 Net::Jaiku                       0.0501  R/RI/RICKM/Net-Jaiku-0.0501.tgz
-Net::Jenkins                       0.05  C/CO/CORNELIUS/Net-Jenkins-0.05.tar.gz
-Net::Jenkins::Job                 undef  C/CO/CORNELIUS/Net-Jenkins-0.05.tar.gz
-Net::Jenkins::Job::Build          undef  C/CO/CORNELIUS/Net-Jenkins-0.05.tar.gz
-Net::Jenkins::Job::QueueItem      undef  C/CO/CORNELIUS/Net-Jenkins-0.05.tar.gz
-Net::Jenkins::Utils               undef  C/CO/CORNELIUS/Net-Jenkins-0.05.tar.gz
+Net::Jenkins                       0.06  C/CO/CORNELIUS/Net-Jenkins-0.06.tar.gz
+Net::Jenkins::Job                 undef  C/CO/CORNELIUS/Net-Jenkins-0.06.tar.gz
+Net::Jenkins::Job::Build          undef  C/CO/CORNELIUS/Net-Jenkins-0.06.tar.gz
+Net::Jenkins::Job::QueueItem      undef  C/CO/CORNELIUS/Net-Jenkins-0.06.tar.gz
+Net::Jenkins::Utils               undef  C/CO/CORNELIUS/Net-Jenkins-0.06.tar.gz
 Net::Jifty                         0.14  S/SA/SARTAK/Net-Jifty-0.14.tar.gz
 Net::Journyx                       0.12  S/SA/SARTAK/Net-Journyx-0.12.tar.gz
 Net::Journyx::Attribute           undef  S/SA/SARTAK/Net-Journyx-0.12.tar.gz
