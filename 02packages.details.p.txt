@@ -681,7 +681,7 @@ Proxy                             undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Proxy::HTML                       undef  T/TO/TOMC/scripts/CS-Talk/source/web/Proxy/HTML.pm.gz
 PRSG                              undef  G/GA/GARY/Math-PRSG-1.0.tar.gz
 psconn                             4629  P/PR/PRO/Net-DirectConnect-0.10.tar.gz
-PSGI                               1.10  M/MI/MIYAGAWA/PSGI-1.10.tar.gz
+PSGI                              1.101  M/MI/MIYAGAWA/PSGI-1.101.tar.gz
 Psh                                 1.8  G/GR/GREGOR/psh-1.8.tar.gz
 Psh::_version                     undef  G/GR/GREGOR/psh-1.8.1.tar.gz
 Psh::Builtins::Alias              undef  G/GR/GREGOR/psh-1.8.1.tar.gz
