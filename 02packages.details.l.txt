@@ -630,10 +630,10 @@ Log::Caller                        0.04  S/SK/SKAUFMAN/Log-Caller-0.04.tar.gz
 Log::Channel                        0.7  J/JM/JMAY/Log-Channel-0.7.tar.gz
 Log::Channel::Config                0.7  J/JM/JMAY/Log-Channel-0.7.tar.gz
 Log::Common                        1.00  M/MH/MHAMILTON/Log-Common-1.00.tar.gz
-Log::Contextual                0.004100  F/FR/FREW/Log-Contextual-0.004100.tar.gz
-Log::Contextual::SimpleLogger     undef  F/FR/FREW/Log-Contextual-0.004100.tar.gz
-Log::Contextual::TeeLogger        undef  F/FR/FREW/Log-Contextual-0.004100.tar.gz
-Log::Contextual::WarnLogger       undef  F/FR/FREW/Log-Contextual-0.004100.tar.gz
+Log::Contextual                0.004200  F/FR/FREW/Log-Contextual-0.004200.tar.gz
+Log::Contextual::SimpleLogger     undef  F/FR/FREW/Log-Contextual-0.004200.tar.gz
+Log::Contextual::TeeLogger        undef  F/FR/FREW/Log-Contextual-0.004200.tar.gz
+Log::Contextual::WarnLogger       undef  F/FR/FREW/Log-Contextual-0.004200.tar.gz
 Log::CSVLogger                      0.1  G/GA/GAURAVKH/Log-CSVLogger-0.1.tar.gz
 Log::Deep                        v0.3.2  I/IV/IVANWILLS/Log-Deep-v0.3.2.tar.gz
 Log::Deep::File                  v0.3.1  I/IV/IVANWILLS/Log-Deep-v0.3.2.tar.gz
