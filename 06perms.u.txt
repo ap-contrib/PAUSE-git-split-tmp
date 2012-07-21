@@ -36,6 +36,7 @@ UnixODBC::Properties,RKIES,f
 UnixODBC::RSS,RKIES,f
 UnixODBC::RSS::Ver10,RKIES,f
 Unixify,DROLSKY,f
+Unixish,SHARYANTO,f
 UnmappedObject,RCAPUTO,f
 UnmappedPackage,RCAPUTO,f
 UnnamedSymbtab,PERRAD,f

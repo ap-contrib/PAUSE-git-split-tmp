@@ -293,6 +293,7 @@ Unix::Uptime::BSD::XS            0.3701  P/PI/PIOTO/Unix-Uptime-0.3701.tar.gz
 Unix::Uptime::FreeBSD              0.36  P/PI/PIOTO/Unix-Uptime-0.36.tar.gz
 Unix::Uptime::Linux              0.3701  P/PI/PIOTO/Unix-Uptime-0.3701.tar.gz
 Unixify                            1.12  D/DR/DROLSKY/perl-5.15.6.tar.gz
+Unixish                        1.000001  S/SH/SHARYANTO/Unixish-1.0.1.tar.gz
 UnixODBC                           0.34  R/RK/RKIES/UnixODBC-0.34.tar.gz
 UnixODBC::BridgeServer             0.25  R/RK/RKIES/UnixODBC-0.34.tar.gz
 UnixODBC::DriverConf               0.02  R/RK/RKIES/UnixODBC-0.34.tar.gz
