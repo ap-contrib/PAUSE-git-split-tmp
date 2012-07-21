@@ -21,6 +21,7 @@ Gtk2::Ex::History::MenuToolButton,KRYDE,f
 Gtk2::Ex::History::ModelSensitive,KRYDE,f
 Gtk2::Ex::ICal::Recur,OFEYAIKON,f
 Gtk2::Ex::ICal::Recur::Selection,OFEYAIKON,f
+Gtk2::Ex::IdleObject,KRYDE,f
 Gtk2::Ex::KeySnooper,KRYDE,f
 Gtk2::Ex::Lasso,KRYDE,f
 Gtk2::Ex::LayoutBits,KRYDE,f
@@ -106,6 +107,7 @@ Gtk2::Ex::Simple::Tree,FLORA,c
 Gtk2::Ex::Simple::Tree,RMCFARLA,c
 Gtk2::Ex::Simple::Tree,TSCH,f
 Gtk2::Ex::Simple::Tree,XAOC,c
+Gtk2::Ex::SourceObject,KRYDE,f
 Gtk2::Ex::Spinner,STRZELEC,f
 Gtk2::Ex::Spinner::CellRenderer,STRZELEC,f
 Gtk2::Ex::Spinner::EntryWithCancel,STRZELEC,f
@@ -123,6 +125,7 @@ Gtk2::Ex::TiedListColumn,KRYDE,f
 Gtk2::Ex::TiedMenuChildren,KRYDE,f
 Gtk2::Ex::TiedTreePath,KRYDE,f
 Gtk2::Ex::TimeEntry,JHALLOCK,m
+Gtk2::Ex::TimerObject,KRYDE,f
 Gtk2::Ex::ToolItem::CheckButton,KRYDE,f
 Gtk2::Ex::ToolItem::ComboEnum,KRYDE,f
 Gtk2::Ex::ToolItem::OverflowToDialog,KRYDE,f
@@ -133,9 +136,11 @@ Gtk2::Ex::TreeMaker::FlatInterface,OFEYAIKON,f
 Gtk2::Ex::TreeMap,OFEYAIKON,f
 Gtk2::Ex::TreeModel::ImplBits,KRYDE,f
 Gtk2::Ex::TreeModelBits,KRYDE,f
+Gtk2::Ex::TreeModelConcat,KRYDE,f
 Gtk2::Ex::TreeModelFilter::Change,KRYDE,f
 Gtk2::Ex::TreeModelFilter::DragDest,KRYDE,f
 Gtk2::Ex::TreeModelFilter::Draggable,KRYDE,f
+Gtk2::Ex::TreeOfTreesModel,KRYDE,f
 Gtk2::Ex::TreeViewBits,KRYDE,f
 Gtk2::Ex::Units,KRYDE,f
 Gtk2::Ex::Units::DummyScreen,KRYDE,f

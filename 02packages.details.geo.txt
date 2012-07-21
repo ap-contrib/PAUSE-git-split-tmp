@@ -507,6 +507,7 @@ Glib::Ex::ObjectBits                 15  K/KR/KRYDE/Glib-Ex-ObjectBits-15.tar.gz
 Glib::Ex::SignalBits                 15  K/KR/KRYDE/Glib-Ex-ObjectBits-15.tar.gz
 Glib::Ex::SignalHookIds              15  K/KR/KRYDE/Glib-Ex-ObjectBits-15.tar.gz
 Glib::Ex::SignalIds                  15  K/KR/KRYDE/Glib-Ex-ObjectBits-15.tar.gz
+Glib::Ex::SignalObject            undef  K/KR/KRYDE/chart-247.tar.gz
 Glib::Ex::SourceIds                  15  K/KR/KRYDE/Glib-Ex-ObjectBits-15.tar.gz
 Glib::Ex::TieProperties              15  K/KR/KRYDE/Glib-Ex-ObjectBits-15.tar.gz
 Glib::Flags                       1.261  X/XA/XAOC/Glib-1.261.tar.gz

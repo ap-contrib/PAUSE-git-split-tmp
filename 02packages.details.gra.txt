@@ -450,7 +450,7 @@ GStreamer::GConf                   0.01  T/TS/TSCH/GStreamer-GConf-0.01.tar.gz
 GStreamer::Interfaces              0.06  T/TS/TSCH/GStreamer-Interfaces-0.06.tar.gz
 GSuggestCompletion                undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 gt                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
-GT::DB::Chart                       246  K/KR/KRYDE/chart-246.tar.gz
+GT::DB::Chart                       247  K/KR/KRYDE/chart-247.tar.gz
 GTestRunnerSuite                  undef  G/GU/GUIDO/Test-Unit-GTestRunner-0.04.tar.gz
 Gtk                              0.7009  M/ML/MLEHMANN/Gtk-Perl-0.7009.tar.gz
 Gtk2                              1.244  X/XA/XAOC/Gtk2-1.244.tar.gz

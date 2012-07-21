@@ -17,6 +17,7 @@ Gtk2::Ex::History::Menu               8  K/KR/KRYDE/Gtk2-Ex-History-8.tar.gz
 Gtk2::Ex::History::MenuToolButton     8  K/KR/KRYDE/Gtk2-Ex-History-8.tar.gz
 Gtk2::Ex::ICal::Recur              0.06  O/OF/OFEYAIKON/Gtk2-Ex-ICal-Recur-0.06.tar.gz
 Gtk2::Ex::ICal::Recur::Selection   0.04  O/OF/OFEYAIKON/Gtk2-Ex-ICal-Recur-0.06.tar.gz
+Gtk2::Ex::IdleObject              undef  K/KR/KRYDE/chart-247.tar.gz
 Gtk2::Ex::KeySnooper                 45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Gtk2::Ex::Lasso                      22  K/KR/KRYDE/Gtk2-Ex-Xor-22.tar.gz
 Gtk2::Ex::LayoutBits                 45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
@@ -80,6 +81,7 @@ Gtk2::Ex::Simple::TiedList          0.1  R/RM/RMCFARLA/Gtk2-Perl-Ex/Gtk2-Ex-Simp
 Gtk2::Ex::Simple::TiedRow           0.1  R/RM/RMCFARLA/Gtk2-Perl-Ex/Gtk2-Ex-Simple-List-0.50.tar.gz
 Gtk2::Ex::Simple::TiedTree          0.1  R/RM/RMCFARLA/Gtk2-Perl-Ex/Gtk2-Ex-Simple-Tree-0.50.tar.gz
 Gtk2::Ex::Simple::Tree             0.50  R/RM/RMCFARLA/Gtk2-Perl-Ex/Gtk2-Ex-Simple-Tree-0.50.tar.gz
+Gtk2::Ex::SourceObject            undef  K/KR/KRYDE/chart-247.tar.gz
 Gtk2::Ex::Spinner                  0.21  S/ST/STRZELEC/Gtk2-Ex-Spinner-0.21.tar.gz
 Gtk2::Ex::Spinner::CellRenderer     5.1  S/ST/STRZELEC/Gtk2-Ex-Spinner-0.21.tar.gz
 Gtk2::Ex::Spinner::EntryWithCancel  5.1  S/ST/STRZELEC/Gtk2-Ex-Spinner-0.21.tar.gz
@@ -96,6 +98,7 @@ Gtk2::Ex::TickerView                 15  K/KR/KRYDE/Gtk2-Ex-TickerView-15.tar.gz
 Gtk2::Ex::TiedListColumn              5  K/KR/KRYDE/Gtk2-Ex-TiedListColumn-5.tar.gz
 Gtk2::Ex::TiedMenuChildren            5  K/KR/KRYDE/Gtk2-Ex-TiedListColumn-5.tar.gz
 Gtk2::Ex::TiedTreePath                5  K/KR/KRYDE/Gtk2-Ex-TiedListColumn-5.tar.gz
+Gtk2::Ex::TimerObject             undef  K/KR/KRYDE/chart-247.tar.gz
 Gtk2::Ex::ToolbarBits                45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Gtk2::Ex::ToolItem::CheckButton      45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Gtk2::Ex::ToolItem::ComboEnum        32  K/KR/KRYDE/Gtk2-Ex-ComboBoxBits-32.tar.gz
@@ -106,9 +109,11 @@ Gtk2::Ex::TreeMaker::FlatInterface 0.10  O/OF/OFEYAIKON/Gtk2-Ex-TreeMaker-0.11.t
 Gtk2::Ex::TreeMap                  0.02  O/OF/OFEYAIKON/Gtk2-Ex-TreeMap-0.02.tar.gz
 Gtk2::Ex::TreeModel::ImplBits        45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Gtk2::Ex::TreeModelBits              45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
+Gtk2::Ex::TreeModelConcat         undef  K/KR/KRYDE/chart-247.tar.gz
 Gtk2::Ex::TreeModelFilter::Change    45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Gtk2::Ex::TreeModelFilter::DragDest   3  K/KR/KRYDE/Gtk2-Ex-TreeModelFilter-DragDest-3.tar.gz
 Gtk2::Ex::TreeModelFilter::Draggable  3  K/KR/KRYDE/Gtk2-Ex-TreeModelFilter-DragDest-3.tar.gz
+Gtk2::Ex::TreeOfTreesModel        undef  K/KR/KRYDE/chart-247.tar.gz
 Gtk2::Ex::TreeViewBits               45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Gtk2::Ex::Units                      45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
 Gtk2::Ex::Units::DummyScreen         45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz

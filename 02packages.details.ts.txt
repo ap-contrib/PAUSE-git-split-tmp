@@ -125,7 +125,7 @@ Twitter::Shell                     0.03  D/DM/DMAKI/Twitter-Shell-0.03.tar.gz
 Twitter::Shell::Base              undef  D/DM/DMAKI/Twitter-Shell-0.02.tar.gz
 Twitter::Shell::Shell             undef  D/DM/DMAKI/Twitter-Shell-0.03.tar.gz
 Twitter::TagGrep                 1.0000  D/DS/DSHEROH/Twitter-TagGrep-1.0000.tar.gz
-two_face                          undef  K/KR/KRYDE/chart-246.tar.gz
+two_face                          undef  K/KR/KRYDE/chart-247.tar.gz
 TX                                 0.09  O/OP/OPI/TX-0.09.tar.gz
 TX::Escape                         0.01  O/OP/OPI/TX-0.09.tar.gz
 TXTCOD                             4.71  A/AL/ALAMAZ/TXTCOD-4.7.1b.tar.gz

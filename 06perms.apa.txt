@@ -467,10 +467,15 @@ App::Chart,KRYDE,f
 App::Chart::Annotation,KRYDE,f
 App::Chart::Annotation::Alert,KRYDE,f
 App::Chart::Annotation::Line,KRYDE,f
+App::Chart::Average::Median,KRYDE,f
+App::Chart::Average::SMA,KRYDE,f
 App::Chart::Barchart,KRYDE,f
+App::Chart::BrowseHistoryDialog,KRYDE,f
+App::Chart::CommSec,KRYDE,f
 App::Chart::DBI,KRYDE,f
 App::Chart::Database,KRYDE,f
 App::Chart::Database::Create,KRYDE,f
+App::Chart::Delayer,KRYDE,f
 App::Chart::Download,KRYDE,f
 App::Chart::DownloadCost,KRYDE,f
 App::Chart::DownloadHandler,KRYDE,f
@@ -480,6 +485,7 @@ App::Chart::DownloadHandler::IndivInfo,KRYDE,f
 App::Chart::EmacsMain,KRYDE,f
 App::Chart::Finance::Yahoo::Exchanges,KRYDE,f
 App::Chart::FinanceQuote,KRYDE,f
+App::Chart::Float,KRYDE,f
 App::Chart::Glib::Ex::ChildPid,KRYDE,f
 App::Chart::Glib::Ex::DirBroadcast,KRYDE,f
 App::Chart::Glib::Ex::DirBroadcast::Hold,KRYDE,f
@@ -621,6 +627,7 @@ App::Chart::Memoize::ConstSecond,KRYDE,f
 App::Chart::Pagebits,KRYDE,f
 App::Chart::Pango::Ex::ANSItoMarkup,KRYDE,f
 App::Chart::Proc::ChildPid,KRYDE,f
+App::Chart::RawDailyModel,KRYDE,f
 App::Chart::Series,KRYDE,f
 App::Chart::Series::AddSub,KRYDE,f
 App::Chart::Series::Calculation,KRYDE,f
@@ -817,6 +824,7 @@ App::Chart::Suffix::VI,KRYDE,f
 App::Chart::Suffix::VX,KRYDE,f
 App::Chart::Suffix::WCE,KRYDE,f
 App::Chart::Suffix::ZAG,KRYDE,f
+App::Chart::SymbolHistory,KRYDE,f
 App::Chart::SymbolMatch,KRYDE,f
 App::Chart::Sympred,KRYDE,f
 App::Chart::Sympred::Any,KRYDE,f

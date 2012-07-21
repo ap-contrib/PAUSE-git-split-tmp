@@ -264,7 +264,7 @@ Finance::Quote::ASX                1.17  E/EC/ECOCODE/Finance-Quote-1.17.tar.gz
 Finance::Quote::BMONesbittBurns    1.17  E/EC/ECOCODE/Finance-Quote-1.17.tar.gz
 Finance::Quote::Bourso            undef  H/HA/HAMPTON/Finance-Quote-1.13.tar.gz
 Finance::Quote::Cdnfundlibrary     1.17  E/EC/ECOCODE/Finance-Quote-1.17.tar.gz
-Finance::Quote::Chart               246  K/KR/KRYDE/chart-246.tar.gz
+Finance::Quote::Chart               247  K/KR/KRYDE/chart-247.tar.gz
 Finance::Quote::Cominvest          1.17  E/EC/ECOCODE/Finance-Quote-1.17.tar.gz
 Finance::Quote::Currencies         1.17  E/EC/ECOCODE/Finance-Quote-1.17.tar.gz
 Finance::Quote::Deka               1.17  E/EC/ECOCODE/Finance-Quote-1.17.tar.gz

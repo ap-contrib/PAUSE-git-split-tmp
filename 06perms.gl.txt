@@ -32,6 +32,7 @@ Glib::Ex::ObjectBits,KRYDE,f
 Glib::Ex::SignalBits,KRYDE,f
 Glib::Ex::SignalHookIds,KRYDE,f
 Glib::Ex::SignalIds,KRYDE,f
+Glib::Ex::SignalObject,KRYDE,f
 Glib::Ex::SourceIds,KRYDE,f
 Glib::Ex::TieProperties,KRYDE,f
 Glib::Flags,FLORA,c
