@@ -1,9 +1,9 @@
-ShipIt::Util::TempDir             undef  B/BR/BRADFITZ/ShipIt-0.55.tar.gz
-ShipIt::VC                        undef  B/BR/BRADFITZ/ShipIt-0.55.tar.gz
-ShipIt::VC::Git                   undef  B/BR/BRADFITZ/ShipIt-0.55.tar.gz
-ShipIt::VC::Mercurial             undef  B/BR/BRADFITZ/ShipIt-0.55.tar.gz
-ShipIt::VC::SVK                   undef  B/BR/BRADFITZ/ShipIt-0.55.tar.gz
-ShipIt::VC::SVN                   undef  B/BR/BRADFITZ/ShipIt-0.55.tar.gz
+ShipIt::Util::TempDir             undef  M/MI/MIYAGAWA/ShipIt-0.55.tar.gz
+ShipIt::VC                        undef  M/MI/MIYAGAWA/ShipIt-0.55.tar.gz
+ShipIt::VC::Git                   undef  M/MI/MIYAGAWA/ShipIt-0.55.tar.gz
+ShipIt::VC::Mercurial             undef  M/MI/MIYAGAWA/ShipIt-0.55.tar.gz
+ShipIt::VC::SVK                   undef  M/MI/MIYAGAWA/ShipIt-0.55.tar.gz
+ShipIt::VC::SVN                   undef  M/MI/MIYAGAWA/ShipIt-0.55.tar.gz
 Shipment                           0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz
 Shipment::Address                  0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz
 Shipment::Base                     0.04  B/BA/BAERGAJ/Shipment-0.04.tar.gz

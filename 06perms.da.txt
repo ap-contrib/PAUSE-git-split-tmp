@@ -1550,6 +1550,7 @@ DateTimeX::Easy,RKRIMEN,c
 DateTimeX::Easy,ROKR,f
 DateTimeX::Factory,TAKUJI,m
 DateTimeX::Factory::Declare,TAKUJI,f
+DateTimeX::Fiscal::Fiscal5253,BOFTX,f
 DateTimeX::Format,ECARROLL,f
 DateTimeX::Format::Ago,TOBYINK,f
 DateTimeX::Format::CustomPattern,ECARROLL,f
