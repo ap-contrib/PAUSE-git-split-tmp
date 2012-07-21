@@ -332,6 +332,7 @@ Date::Indian,SYAMAL,f
 Date::Interval,KTORP,m
 Date::JD,ZEFRAM,f
 Date::Jalali,AHMAD,f
+Date::Jalali2,EHSAN,f
 Date::Japanese,RBOW,m
 Date::Japanese::Era,MIYAGAWA,m
 Date::Japanese::Era::Table,MIYAGAWA,f
