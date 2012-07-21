@@ -478,6 +478,7 @@ Scalar::Util::Numeric              0.22  C/CH/CHOCOLATE/Scalar-Util-Numeric-0.22
 Scalar::Util::PP                   1.23  G/GB/GBARR/Scalar-List-Utils-1.23.tar.gz
 Scalar::Util::Reftype              0.40  B/BU/BURAK/Scalar-Util-Reftype-0.40.tar.gz
 Scalar::Vec::Util                  0.06  V/VP/VPIT/Scalar-Vec-Util-0.06.tar.gz
+ScalarHandle                          0  I/IV/IVANWILLS/Getopt-Alt-v0.0.1.tar.gz
 Scale                             0.061  M/MA/MARKWIN/CNC-Cog-0.061.tar.gz
 Scanner::Actions                  undef  J/JW/JWIEGLEY/libparse-0.71.tar.gz
 Scanner::Device                   undef  D/DA/DALEAMON/Scanner-0.02-5.tar.gz
