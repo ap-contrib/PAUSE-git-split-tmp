@@ -307,6 +307,7 @@ DateTime::Calendar::Coptic::Language::Coptic,DYACOB,f
 DateTime::Calendar::Coptic::Language::English,DYACOB,f
 DateTime::Calendar::CopticEthiopic,DYACOB,f
 DateTime::Calendar::Discordian,JALDHAR,f
+DateTime::Calendar::Fiscal5253,BOFTX,f
 DateTime::Calendar::FrenchRevolutionary,JFORGET,f
 DateTime::Calendar::FrenchRevolutionary::Locale,JFORGET,f
 DateTime::Calendar::FrenchRevolutionary::Locale::en,JFORGET,f
