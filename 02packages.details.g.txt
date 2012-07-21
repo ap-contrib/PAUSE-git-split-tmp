@@ -511,7 +511,7 @@ Hash::Identity                     0.01  C/CI/CINDY/Hash-Identity-0.01.tar.gz
 Hash::Inflator                 1.100820  M/MA/MARCEL/Hash-Inflator-1.100820.tar.gz
 Hash::Lazy                         0.01  G/GU/GUGOD/Hash-Lazy-0.01.tar.gz
 Hash::Lazy::Tie                   undef  G/GU/GUGOD/Hash-Lazy-0.01.tar.gz
-Hash::Map                         0.008  S/ST/STEFFENW/Hash-Map-0.008.tar.gz
+Hash::Map                         undef  S/ST/STEFFENW/Hash-Map-0.008.tar.gz
 Hash::Merge                        0.12  D/DM/DMUEY/Hash-Merge-0.12.tar.gz
 Hash::Merge::Simple               0.051  R/RO/ROKR/Hash-Merge-Simple-0.051.tar.gz
 Hash::Mogrify                      0.03  S/SE/SEBASTIAN/Hash-Mogrify-0.03.tar.gz
