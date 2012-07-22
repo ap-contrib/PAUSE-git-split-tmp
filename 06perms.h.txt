@@ -318,6 +318,7 @@ liberty::si2ObjectIdT,YORKWU,f
 liberty::si2drExprT,YORKWU,f
 liberty::si2drExprT_u,YORKWU,f
 libertyc,YORKWU,f
+libsoldout,ROS,f
 lightn,LARSLUND,f
 like,ANDYA,f
 lims,CJONES,f
