@@ -145,7 +145,7 @@ Date::Interval                     0.03  K/KT/KTORP/KTORP/Interval.0.03.tar.gz
 Date::ISO                          1.30  R/RB/RBOW/Date-ISO-1.30.tar.gz
 Date::ISO8601                     0.004  Z/ZE/ZEFRAM/Date-ISO8601-0.004.tar.gz
 Date::Jalali                       0.01  A/AH/AHMAD/Date-Jalali-0.01.tar.gz
-Date::Jalali2                      0.02  E/EH/EHSAN/Date-Jalali2.tar.gz
+Date::Jalali2                      0.02  E/EH/EHSAN/Date-Jalali2-0.02.tar.gz
 Date::Japanese::Era                0.06  M/MI/MIYAGAWA/Date-Japanese-Era-0.06.tar.gz
 Date::Japanese::Era::Table         0.04  M/MI/MIYAGAWA/Date-Japanese-Era-0.06.tar.gz
 Date::Japanese::Era::Table::JIS_X0301 0.01  M/MI/MIYAGAWA/Date-Japanese-Era-0.06.tar.gz
