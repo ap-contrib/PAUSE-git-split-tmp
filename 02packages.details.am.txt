@@ -390,11 +390,11 @@ AnyEvent::FCP                       0.3  M/ML/MLEHMANN/AnyEvent-FCP-0.3.tar.gz
 AnyEvent::FDpasser             0.003000  F/FR/FRACTAL/AnyEvent-FDpasser-0.3.0.tar.gz
 AnyEvent::Feed                      0.3  E/EL/ELMEX/AnyEvent-Feed-0.3.tar.gz
 AnyEvent::FIFO                  0.00002  D/DM/DMAKI/AnyEvent-FIFO-0.00002.tar.gz
-AnyEvent::Filesys::Notify          0.06  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.06.tar.gz
-AnyEvent::Filesys::Notify::Event      0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.06.tar.gz
-AnyEvent::Filesys::Notify::Role::Fallback 0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.06.tar.gz
-AnyEvent::Filesys::Notify::Role::Linux 0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.06.tar.gz
-AnyEvent::Filesys::Notify::Role::Mac  0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.06.tar.gz
+AnyEvent::Filesys::Notify          0.07  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
+AnyEvent::Filesys::Notify::Event      0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
+AnyEvent::Filesys::Notify::Role::Fallback 0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
+AnyEvent::Filesys::Notify::Role::Linux 0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
+AnyEvent::Filesys::Notify::Role::Mac  0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
 AnyEvent::ForkManager              0.01  K/KA/KARUPA/AnyEvent-ForkManager-0.01.tar.gz
 AnyEvent::ForkObject               0.09  U/UN/UNERA/AnyEvent-ForkObject-0.09.tar.gz
 AnyEvent::ForkObject::OneObject    0.09  U/UN/UNERA/AnyEvent-ForkObject-0.09.tar.gz
