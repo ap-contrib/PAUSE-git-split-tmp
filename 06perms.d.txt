@@ -449,8 +449,13 @@ Drogo::Dispatcher::Attributes,MJFLICK,f
 Drogo::Dispatcher::Request,MJFLICK,f
 Drogo::Dispatcher::RequestResponse,MJFLICK,f
 Drogo::Dispatcher::Response,MJFLICK,f
+Drogo::Guts,MJFLICK,f
+Drogo::LoadModules,MJFLICK,f
 Drogo::MultiPart,MJFLICK,f
 Drogo::Plugin::DBIx::Class,MJFLICK,f
+Drogo::Request,MJFLICK,f
+Drogo::RequestResponse,MJFLICK,f
+Drogo::Response,MJFLICK,f
 Drogo::Server,MJFLICK,f
 Drogo::Server::Nginx,MJFLICK,f
 Drogo::Server::PSGI,MJFLICK,f
