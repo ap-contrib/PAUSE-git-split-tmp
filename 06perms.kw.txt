@@ -503,6 +503,8 @@ LLEval::CLI,GFUJI,f
 LLVM,ALEXBIO,f
 LLVM::Builder,ALEXBIO,f
 LLVM::Context,ALEXBIO,f
+LLVM::ExecutionEngine,ALEXBIO,f
+LLVM::GenericValue,ALEXBIO,f
 LLVM::Module,ALEXBIO,f
 LLVM::Type,ALEXBIO,f
 LLVM::Value,ALEXBIO,f
