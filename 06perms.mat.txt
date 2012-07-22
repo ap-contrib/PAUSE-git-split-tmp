@@ -243,6 +243,8 @@ Math::PlanePath::AlternatePaperMidpoint,KRYDE,f
 Math::PlanePath::AnvilSpiral,KRYDE,f
 Math::PlanePath::ArchimedeanChords,KRYDE,f
 Math::PlanePath::AztecDiamondRings,KRYDE,f
+Math::PlanePath::Base::Digits,KRYDE,f
+Math::PlanePath::Base::Generic,KRYDE,f
 Math::PlanePath::BetaOmega,KRYDE,f
 Math::PlanePath::BoxFractalQuarter,KRYDE,f
 Math::PlanePath::CCurve,KRYDE,f
