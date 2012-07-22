@@ -210,6 +210,7 @@ AsyncData,MJD,f
 AsyncTimeout,MJD,f
 Async_Editor,GROMMIER,f
 Asyncore,SEBA,m
+Asyncore::Dispatcher,SEBA,f
 AtExit,BRADAPP,m
 Atheme,PIPPIJN,c
 Atheme,STEPHANJ,f
