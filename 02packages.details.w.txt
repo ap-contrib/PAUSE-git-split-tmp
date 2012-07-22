@@ -352,7 +352,7 @@ WWW::Bugzilla::Search               0.2  B/BM/BMC/WWW-Bugzilla-1.5.tar.gz
 WWW::BurrpTV                       0.03  R/RA/RARBOX/WWW-BurrpTV-0.04.tar.gz
 WWW::Cache::Google                 0.04  M/MI/MIYAGAWA/WWW-Cache-Google-0.04.tar.gz
 WWW::Cache::Google::Imode          0.04  M/MI/MIYAGAWA/WWW-Cache-Google-0.04.tar.gz
-WWW::CBF                           0.01  G/GA/GARU/WWW-CBF-0.01.tar.gz
+WWW::CBF                           0.02  G/GA/GARU/WWW-CBF-0.02.tar.gz
 WWW::CDBaby                        0.08  G/GR/GRANTG/WWW-CDBaby-0.08.tar.gz
 WWW::CDTV                          0.05  Y/YU/YUSUKEBE/WWW-CDTV-0.05.tar.gz
 WWW::CDTV::Track                  undef  Y/YU/YUSUKEBE/WWW-CDTV-0.05.tar.gz
