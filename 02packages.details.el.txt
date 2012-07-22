@@ -173,7 +173,7 @@ Email::LocalDelivery::Mbox        1.103  R/RJ/RJBS/Email-LocalDelivery-0.217.tar
 Email::LocalDelivery::OverwriteMbox 2.001  R/RJ/RJBS/Email-Delete-2.001.tar.gz
 Email::LocalDelivery::Store        0.01  B/BD/BDWELLE/Email-LocalDelivery-Store-0.01.tar.gz
 Email::MessageID                  1.402  R/RJ/RJBS/Email-MessageID-1.402.tar.gz
-Email::MIME                       1.910  R/RJ/RJBS/Email-MIME-1.910.tar.gz
+Email::MIME                       1.911  R/RJ/RJBS/Email-MIME-1.911.tar.gz
 Email::MIME::Attachment::Stripper 1.316  R/RJ/RJBS/Email-MIME-Attachment-Stripper-1.316.tar.gz
 Email::MIME::ContentType          1.015  R/RJ/RJBS/Email-MIME-ContentType-1.015.tar.gz
 Email::MIME::CreateHTML           1.030  B/BB/BBC/Email-MIME-CreateHTML-1.030.tar.gz
@@ -181,10 +181,10 @@ Email::MIME::CreateHTML::Resolver 1.005  B/BB/BBC/Email-MIME-CreateHTML-1.030.ta
 Email::MIME::CreateHTML::Resolver::Cached 1.004  B/BB/BBC/Email-MIME-CreateHTML-1.030.tar.gz
 Email::MIME::CreateHTML::Resolver::Filesystem 1.006  B/BB/BBC/Email-MIME-CreateHTML-1.030.tar.gz
 Email::MIME::CreateHTML::Resolver::LWP 1.007  B/BB/BBC/Email-MIME-CreateHTML-1.030.tar.gz
-Email::MIME::Creator              1.910  R/RJ/RJBS/Email-MIME-1.910.tar.gz
+Email::MIME::Creator              1.911  R/RJ/RJBS/Email-MIME-1.911.tar.gz
 Email::MIME::Creator::ISO_2022_JP  0.02  I/IS/ISHIGAKI/Email-MIME-Creator-ISO_2022_JP-0.02.tar.gz
 Email::MIME::Encodings            1.313  R/RJ/RJBS/Email-MIME-Encodings-1.313.tar.gz
-Email::MIME::Header               1.910  R/RJ/RJBS/Email-MIME-1.910.tar.gz
+Email::MIME::Header               1.911  R/RJ/RJBS/Email-MIME-1.911.tar.gz
 Email::MIME::Kit               2.102010  R/RJ/RJBS/Email-MIME-Kit-2.102010.tar.gz
 Email::MIME::Kit::Assembler::Markdown 0.100000  R/RJ/RJBS/Email-MIME-Kit-Assembler-Markdown-0.100000.tar.gz
 Email::MIME::Kit::Assembler::Standard 2.102010  R/RJ/RJBS/Email-MIME-Kit-2.102010.tar.gz
@@ -209,7 +209,7 @@ Email::MIME::MobileJP              0.06  T/TO/TOKUHIROM/Email-MIME-MobileJP-0.06
 Email::MIME::MobileJP::Creator        0  T/TO/TOKUHIROM/Email-MIME-MobileJP-0.06.tar.gz
 Email::MIME::MobileJP::Parser         0  T/TO/TOKUHIROM/Email-MIME-MobileJP-0.06.tar.gz
 Email::MIME::MobileJP::Template       0  T/TO/TOKUHIROM/Email-MIME-MobileJP-0.06.tar.gz
-Email::MIME::Modifier             1.910  R/RJ/RJBS/Email-MIME-1.910.tar.gz
+Email::MIME::Modifier             1.911  R/RJ/RJBS/Email-MIME-1.911.tar.gz
 Email::MIME::RFC2047               0.91  N/NW/NWELLNHOF/Email-MIME-RFC2047-0.91.tar.gz
 Email::MIME::RFC2047::Address      0.91  N/NW/NWELLNHOF/Email-MIME-RFC2047-0.91.tar.gz
 Email::MIME::RFC2047::AddressList  0.91  N/NW/NWELLNHOF/Email-MIME-RFC2047-0.91.tar.gz
