@@ -506,6 +506,9 @@ LLVM::Context,ALEXBIO,f
 LLVM::ExecutionEngine,ALEXBIO,f
 LLVM::GenericValue,ALEXBIO,f
 LLVM::Module,ALEXBIO,f
+LLVM::PassManager,ALEXBIO,f
+LLVM::Transform,ALEXBIO,f
+LLVM::Transform::IPO,ALEXBIO,f
 LLVM::Type,ALEXBIO,f
 LLVM::Value,ALEXBIO,f
 LLg,YVESP,f
