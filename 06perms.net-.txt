@@ -868,6 +868,8 @@ Net::PulseMeter::Sensor::Timeline,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Average,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Counter,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::HashedCounter,MOTONAROL,f
+Net::PulseMeter::Sensor::Timelined::HashedIndicator,MOTONAROL,f
+Net::PulseMeter::Sensor::Timelined::Indicator,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Max,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Median,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Min,MOTONAROL,f
