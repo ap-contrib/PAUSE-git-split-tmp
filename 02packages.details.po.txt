@@ -144,7 +144,6 @@ POE::Component::ResourcePool::Resource::TokenBucket 0.01  N/NU/NUFFIN/POE-Compon
 POE::Component::ResourcePool::Resource::TryList undef  N/NU/NUFFIN/POE-Component-ResourcePool-0.04.tar.gz
 POE::Component::RSS                3.01  S/SU/SUNGO/POE-Component-RSS-0.09.tar.gz
 POE::Component::RSSAggregator      1.11  J/JB/JBISBEE/POE-Component-RSSAggregator-1.11.tar.gz
-POE::Component::Runner             0.04  D/DY/DYLAN/POE-Component-Runner-0.04.b.tar.gz
 POE::Component::SASLAuthd          0.03  K/KI/KIRILLM/POE-Component-SASLAuthd-0.03.tgz
 POE::Component::Schedule           0.95  D/DO/DOLMEN/POE-Component-Schedule-0.95.tar.gz
 POE::Component::Server::AsyncEndpoint 0.10  A/AI/AIMASS/POE-Component-Server-AsyncEndpoint-0.10_a.tar.gz
