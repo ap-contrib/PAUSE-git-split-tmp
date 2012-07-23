@@ -1511,6 +1511,7 @@ MooseX::Types::Structured::OverflowHandler,PERIGRIN,c
 MooseX::Types::Structured::OverflowHandler,PHAYLON,c
 MooseX::Types::Tied,RSRCHBOY,f
 MooseX::Types::Tied::Hash::IxHash,RSRCHBOY,f
+MooseX::Types::Time::Piece,STEVENL,f
 MooseX::Types::TypeDecorator,DROLSKY,c
 MooseX::Types::TypeDecorator,FLORA,c
 MooseX::Types::TypeDecorator,JJNAPIORK,c
