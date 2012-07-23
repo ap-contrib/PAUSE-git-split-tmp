@@ -807,8 +807,8 @@ Devel::CoverReport::Table          0.05  N/NA/NATANAEL/Devel-CoverReport-0.05.ta
 Devel::CoverReport::VCS::Fake      0.05  N/NA/NATANAEL/Devel-CoverReport-0.05.tar.gz
 Devel::CoverReport::VCS::Git       0.05  N/NA/NATANAEL/Devel-CoverReport-0.05.tar.gz
 Devel::CoverReport::VCS::SVN       0.05  N/NA/NATANAEL/Devel-CoverReport-0.05.tar.gz
-Devel::CoverX::Covered            0.012  J/JO/JOHANL/Devel-CoverX-Covered-0.012.tar.gz
-Devel::CoverX::Covered::Db        undef  J/JO/JOHANL/Devel-CoverX-Covered-0.012.tar.gz
+Devel::CoverX::Covered            0.012  J/JO/JOHANL/Devel-CoverX-Covered-0.013.tar.gz
+Devel::CoverX::Covered::Db        0.013  J/JO/JOHANL/Devel-CoverX-Covered-0.013.tar.gz
 Devel::Cycle                       1.11  L/LD/LDS/Devel-Cycle-1.11.tar.gz
 Devel::DebugInit                    0.3  J/JA/JASONS/Devel-DebugInit-0.3.tar.gz
 Devel::DebugInit::GDB               0.1  J/JA/JASONS/Devel-DebugInit-0.3.tar.gz
