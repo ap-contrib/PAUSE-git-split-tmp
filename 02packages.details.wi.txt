@@ -470,7 +470,7 @@ Win32::Shortcut                    0.07  J/JD/JDB/Win32-Shortcut-0.07.tar.gz
 Win32::ShutDown                    0.01  C/CD/CDRAKE/Win32-ShutDown-0.01.tar.gz
 Win32::SimpleProcess              undef  T/TE/TEDK/Win32/SimpleProcess/SimpleProcess_1.0.zip
 Win32::Snarl                       1.01  A/AB/ABERNDT/Win32-Snarl/win32-snarl-1.01.tar.gz
-Win32::Socketpair                  0.01  S/SA/SALVA/Win32-Socketpair-0.01.tar.gz
+Win32::Socketpair                  0.02  B/BR/BROWSERUK/Win32-Socketpair-0.02.tar.gz
 Win32::Sound                       0.51  A/AC/ACALPINI/Win32-Sound-0.51.tar.gz
 Win32::Sound::WaveOut              0.51  A/AC/ACALPINI/Win32-Sound-0.51.tar.gz
 Win32::SoundRec                    0.02  J/JO/JOUKE/Win32-SoundRec-0.02.tar.gz
