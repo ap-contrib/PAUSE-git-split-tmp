@@ -155,8 +155,8 @@ App::Mypp                          0.13  J/JH/JHTHORSEN/App-Mypp-0.13.tar.gz
 App::Mypp::ShowINC                undef  J/JH/JHTHORSEN/App-Mypp-0.13.tar.gz
 App::Nag                          0.002  D/DF/DFH/App-Nag-0.002.tar.gz
 App::Nag::Slap                    0.002  D/DF/DFH/App-Nag-0.002.tar.gz
-App::Navegante                     0.01  S/SM/SMASH/App-Navegante-0.01.tar.gz
-App::Navegante::CGI                0.01  S/SM/SMASH/App-Navegante-0.01.tar.gz
+App::Navegante                     0.02  S/SM/SMASH/App-Navegante-0.02.tar.gz
+App::Navegante::CGI                0.02  S/SM/SMASH/App-Navegante-0.02.tar.gz
 App::NoPAN                        undef  K/KA/KAZUHO/App-NoPAN-0.01.tar.gz
 App::NoPAN::Installer             undef  K/KA/KAZUHO/App-NoPAN-0.01.tar.gz
 App::NoPAN::Installer::Configure  undef  K/KA/KAZUHO/App-NoPAN-0.01.tar.gz
