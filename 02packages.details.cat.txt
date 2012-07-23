@@ -49,6 +49,7 @@ Catalyst::View::SVGTTGraph         0.02  S/SH/SHOT/Catalyst-View-SVGTTGraph-0.02
 Catalyst::View::SVGTTGraphObj      0.02  S/SH/SHOT/Catalyst-View-SVGTTGraph-0.02.tar.gz
 Catalyst::View::TD                 0.12  D/DW/DWHEELER/Catalyst-View-TD-0.12.tar.gz
 Catalyst::View::Template::Declare  0.04  J/JR/JROCKWAY/Catalyst-View-Template-Declare-0.04.tar.gz
+Catalyst::View::Template::PHP      0.02  M/MO/MOB/Catalyst-View-Template-PHP-0.02.tar.gz
 Catalyst::View::Templated          0.02  J/JR/JROCKWAY/Catalyst-View-Templated-0.02.tar.gz
 Catalyst::View::Tenjin         0.050001  I/ID/IDOPEREL/Catalyst-View-Tenjin-0.050001.tar.gz
 Catalyst::View::Text::Template    0.007  R/RJ/RJBS/Catalyst-View-Text-Template-0.007.tar.gz

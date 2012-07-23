@@ -247,6 +247,7 @@ Catalyst::View::Template::Declare,JROCKWAY,f
 Catalyst::View::Template::Declare,MRAMBERG,c
 Catalyst::View::Template::Declare,MSTROUT,c
 Catalyst::View::Template::Declare,NUFFIN,c
+Catalyst::View::Template::PHP,MOB,f
 Catalyst::View::Templated,BOBTFISH,c
 Catalyst::View::Templated,BRICAS,c
 Catalyst::View::Templated,FLORA,c
