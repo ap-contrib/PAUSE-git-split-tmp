@@ -6,8 +6,10 @@ Text::WagnerFischer::Amharic       0.01  D/DY/DYACOB/Text-WagnerFischer-Amharic-
 Text::WagnerFischer::Armenian      0.03  A/AU/AURUM/Text-WagnerFischer-Armenian-0.03.tar.gz
 Text::Widont                       0.01  D/DC/DCARDWELL/Text-Widont-0.01.tar.gz
 Text::WikiCreole                   0.07  J/JB/JBURNETT/Text-WikiCreole-0.07.tar.gz
-Text::WikiFormat                   0.79  C/CH/CHROMATIC/Text-WikiFormat-0.79.tar.gz
-Text::WikiFormat::Blocks          undef  C/CH/CHROMATIC/Text-WikiFormat-0.79.tar.gz
+Text::WikiFormat                   0.80  C/CY/CYCLES/Text-WikiFormat-0.80.tar.gz
+Text::WikiFormat::Block           undef  C/CY/CYCLES/Text-WikiFormat-0.80.tar.gz
+Text::WikiFormat::Block::code     undef  C/CY/CYCLES/Text-WikiFormat-0.80.tar.gz
+Text::WikiFormat::Blocks          undef  C/CY/CYCLES/Text-WikiFormat-0.80.tar.gz
 Text::WikiFormat::SAX              0.03  M/MS/MSERGEANT/Text-WikiFormat-SAX-0.03.tar.gz
 Text::Wikispaces2Markdown           0.1  M/MR/MRAMBERG/MojoMojo-1.05.tar.gz
 Text::WikiText                     1.01  M/MI/MIGO/wikitext-perl-1.01.tar.gz

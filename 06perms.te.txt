@@ -11,6 +11,8 @@ Text::Wigwam,WINGNUT,c
 Text::WikiCreole,JBURNETT,m
 Text::WikiFormat,CHROMATIC,f
 Text::WikiFormat,CYCLES,c
+Text::WikiFormat::Block,CYCLES,f
+Text::WikiFormat::Block::code,CYCLES,f
 Text::WikiFormat::Blocks,CHROMATIC,f
 Text::WikiFormat::Blocks,CYCLES,c
 Text::WikiFormat::SAX,MSERGEANT,f
