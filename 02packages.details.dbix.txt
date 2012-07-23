@@ -966,7 +966,7 @@ Devel::FileProfile                 0.22  M/MU/MUIR/modules/Devel-FileProfile-0.2
 Devel::FindAmpersand              undef  A/AN/ANDK/Devel-SawAmpersand-0.32.tar.gz
 Devel::FindBlessedRefs            1.253  J/JE/JETTERO/Devel-FindBlessedRefs-1.253.tar.gz
 Devel::FindGlobals                 0.03  C/CN/CNANDOR/Devel-FindGlobals-0.03.tar.gz
-Devel::FindPerl                   0.002  L/LE/LEONT/Devel-FindPerl-0.002.tar.gz
+Devel::FindPerl                   0.003  L/LE/LEONT/Devel-FindPerl-0.003.tar.gz
 Devel::FindRef                    1.422  M/ML/MLEHMANN/Devel-FindRef-1.422.tar.gz
 Devel::FIXME                       0.01  N/NU/NUFFIN/Devel-FIXME-0.01.tar.gz
 Devel::FIXME::Rules::PerlFile     undef  N/NU/NUFFIN/Devel-FIXME-0.01.tar.gz
