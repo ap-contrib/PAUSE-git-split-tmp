@@ -637,7 +637,7 @@ Business::ISBM::Data              undef  B/BD/BDFOY/Business-ISMN-1.11.tar.gz
 Business::ISBN                     2.05  B/BD/BDFOY/Business-ISBN-2.05.tar.gz
 Business::ISBN10                   2.05  B/BD/BDFOY/Business-ISBN-2.05.tar.gz
 Business::ISBN13                   2.05  B/BD/BDFOY/Business-ISBN-2.05.tar.gz
-Business::ISBN::Data           20120718  B/BD/BDFOY/Business-ISBN-Data-20120718.tar.gz
+Business::ISBN::Data           20120719  B/BD/BDFOY/Business-ISBN-Data-20120719.tar.gz
 Business::ISIN                     0.20  D/DI/DIVEC/Business-ISIN-0.20.tgz
 Business::ISMN                     1.11  B/BD/BDFOY/Business-ISMN-1.11.tar.gz
 Business::ISSN                     0.91  B/BD/BDFOY/Business-ISSN-0.91.tar.gz
