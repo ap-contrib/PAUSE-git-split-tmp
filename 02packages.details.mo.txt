@@ -19,9 +19,9 @@ MooX::HasEnv                      0.003  G/GE/GETTY/MooX-HasEnv-0.003.tar.gz
 MooX::Options                       2.2  C/CE/CELOGEEK/MooX-Options-2.2.tar.gz
 MooX::Role                        0.101  G/GE/GETTY/MooX-0.101.tar.gz
 MooX::Singleton                1.121160  A/AJ/AJGB/MooX-Singleton-1.121160.tar.gz
-MooX::Types::MooseLike             0.08  M/MA/MATEU/MooX-Types-MooseLike-0.08.tar.gz
-MooX::Types::MooseLike::Base      undef  M/MA/MATEU/MooX-Types-MooseLike-0.08.tar.gz
-MooX::Types::MooseLike::Numeric   undef  M/MA/MATEU/MooX-Types-MooseLike-0.08.tar.gz
+MooX::Types::MooseLike             0.09  M/MA/MATEU/MooX-Types-MooseLike-0.09.tar.gz
+MooX::Types::MooseLike::Base      undef  M/MA/MATEU/MooX-Types-MooseLike-0.09.tar.gz
+MooX::Types::MooseLike::Numeric   undef  M/MA/MATEU/MooX-Types-MooseLike-0.09.tar.gz
 MOP::MetaModule                   undef  O/OR/ORTALO/MOP-1.00.tar.gz
 MOP::MOP                           1.00  O/OR/ORTALO/MOP-1.00.tar.gz
 MOP::Remote                        0.80  O/OR/ORTALO/MOP-1.00.tar.gz
