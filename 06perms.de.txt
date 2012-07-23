@@ -1747,6 +1747,7 @@ Dist::Zilla::Role::InstallTool,RJBS,f
 Dist::Zilla::Role::Logger,RJBS,f
 Dist::Zilla::Role::MVPReader,RJBS,f
 Dist::Zilla::Role::Meta::Dynamic::Config,BINGOS,f
+Dist::Zilla::Role::MetaCPANInterfacer,BBYRD,f
 Dist::Zilla::Role::MetaProvider,RJBS,f
 Dist::Zilla::Role::MetaProvider::Provider,KENTNL,f
 Dist::Zilla::Role::MintingProfile,RJBS,f
