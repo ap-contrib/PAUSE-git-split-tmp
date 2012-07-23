@@ -296,6 +296,7 @@ Perldoc::Server::View::Pod2Source,JONALLEN,f
 Perldoc::Server::View::TT,JONALLEN,f
 Perldoc::Writer,INGY,f
 Perldoc::Writer::XML,INGY,f
+Perlet,ZARABOZO,m
 Perlilog,BILLAUER,f
 Perlilog::PLerror,BILLAUER,f
 Perlipse,JAE,m
@@ -328,6 +329,7 @@ Perlito::Ruby::AnonSub,FGLOCK,f
 Perlito::Ruby::LexicalBlock,FGLOCK,f
 Perlito::Test,FGLOCK,f
 Perlize,PETDANCE,f
+Perlmazing,ZARABOZO,m
 Perlude,MARCC,f
 Perlude::Lazy,MARCC,f
 Perlude::Sh,MARCC,f
