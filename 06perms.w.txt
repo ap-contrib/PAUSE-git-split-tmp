@@ -578,6 +578,7 @@ X11::WM::Sawfish::XProp,AGRICOCB,f
 X11::WMCtrl,GBROWN,f
 X11::Wallpaper,RJH,f
 X11::Wcl,JHPB,m
+X11::WindowHierarchy,TEAM,f
 X11::XCB,MSTPLBG,f
 X11::XCB::Atom,MSTPLBG,f
 X11::XCB::Color,MSTPLBG,f
