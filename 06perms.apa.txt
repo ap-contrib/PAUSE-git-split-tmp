@@ -461,6 +461,14 @@ App::CamelPKI::SysV::Apache,GRM,f
 App::CamelPKI::Time,GRM,f
 App::CamelPKI::View::JSON,GRM,f
 App::CamelPKI::View::TT,GRM,f
+App::Cerberus,DRTECH,f
+App::Cerberus::Plugin,DRTECH,f
+App::Cerberus::Plugin::BrowserDetect,DRTECH,f
+App::Cerberus::Plugin::GeoIP,DRTECH,f
+App::Cerberus::Plugin::Throttle,DRTECH,f
+App::Cerberus::Plugin::Throttle::Memcached,DRTECH,f
+App::Cerberus::Plugin::Throttle::Memory,DRTECH,f
+App::Cerberus::Plugin::TimeZone,DRTECH,f
 App::Chained,NKH,f
 App::Changelog2x,RJRAY,f
 App::Chart,KRYDE,f
