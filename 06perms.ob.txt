@@ -392,9 +392,12 @@ Object::Remote::Connector::UNIX,MSTROUT,f
 Object::Remote::FatNode,ILMARI,c
 Object::Remote::FatNode,MITHALDU,c
 Object::Remote::FatNode,MSTROUT,f
+Object::Remote::FromData,MSTROUT,f
 Object::Remote::Future,ILMARI,c
 Object::Remote::Future,MITHALDU,c
 Object::Remote::Future,MSTROUT,f
+Object::Remote::GlobContainer,MSTROUT,f
+Object::Remote::GlobProxy,MSTROUT,f
 Object::Remote::Handle,ILMARI,c
 Object::Remote::Handle,MITHALDU,c
 Object::Remote::Handle,MSTROUT,f
@@ -416,9 +419,11 @@ Object::Remote::Node,MSTROUT,f
 Object::Remote::Null,ILMARI,c
 Object::Remote::Null,MITHALDU,c
 Object::Remote::Null,MSTROUT,f
+Object::Remote::Prompt,MSTROUT,f
 Object::Remote::Proxy,ILMARI,c
 Object::Remote::Proxy,MITHALDU,c
 Object::Remote::Proxy,MSTROUT,f
+Object::Remote::ReadChannel,MSTROUT,f
 Object::Remote::Role::Connector,ILMARI,c
 Object::Remote::Role::Connector,MITHALDU,c
 Object::Remote::Role::Connector,MSTROUT,f

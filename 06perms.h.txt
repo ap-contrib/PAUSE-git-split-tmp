@@ -387,6 +387,7 @@ manager2,HEIKOWU,f
 manor_clone_level,CJONES,f
 mathscript,WSDOOKADR,f
 maybe,DEXTER,f
+maybe::start,MSTROUT,f
 mcoder,SALVA,f
 mcoder::array::calculated,SALVA,f
 mcoder::array::get,SALVA,f
