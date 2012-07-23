@@ -98,9 +98,9 @@ WWW::SmugMug::API                  1.03  F/FL/FLOWERYSO/SmugMug/WWW-SmugMug-API-
 WWW::Socrata                       0.02  O/OV/OVENMAN/WWW-Socrata-0.02.tar.gz
 WWW::SolveMedia                     1.1  S/SO/SOLVE/WWW-SolveMedia-1.1.tar.gz
 WWW::SourceForge                   0.10  G/GU/GUGOD/WWW-SourceForge-0.10.tar.gz
-WWW::SourceForge::API              0.30  R/RB/RBOW/WWW-SourceForge-0.33.tar.gz
-WWW::SourceForge::Project          0.10  R/RB/RBOW/WWW-SourceForge-0.33.tar.gz
-WWW::SourceForge::User             0.10  R/RB/RBOW/WWW-SourceForge-0.33.tar.gz
+WWW::SourceForge::API              0.30  R/RB/RBOW/WWW-SourceForge-0.34.tar.gz
+WWW::SourceForge::Project          0.10  R/RB/RBOW/WWW-SourceForge-0.34.tar.gz
+WWW::SourceForge::User             0.10  R/RB/RBOW/WWW-SourceForge-0.34.tar.gz
 WWW::Spiegel                        1.0  S/SE/SENGER/WWW-Spiegel_V1.0.tar.gz
 WWW::Spinn3r                   3.00700001  V/VI/VIPUL/WWW-Spinn3r-3.00700001.tar.gz
 WWW::Spinn3r::Common              undef  V/VI/VIPUL/WWW-Spinn3r-3.00700001.tar.gz
