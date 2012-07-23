@@ -116,15 +116,10 @@ Wosbee::Admin                      0.02  S/SE/SEESTIETO/Wosbee-Admin-0.02.tar.gz
 WoW::Wiki                          0.01  S/SS/SSCOTTO/WoW-Wiki-0.01.tar.gz
 Wraf::Result                      undef  J/JO/JONAS/RDF-Service-0.04.tar.gz
 Wrapper                           undef  S/SJ/SJCARBON/go-db-perl-0.04.tar.gz
-Writeat                            0.01  Z/ZA/ZAG/Writeat-0.01.tar.gz
 WriteAt                            0.02  Z/ZA/ZAG/WriteAt-0.02.tar.gz
-Writeat::AUTHOR                       0  Z/ZA/ZAG/Writeat-0.01.tar.gz
 WriteAt::AUTHOR                       0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
-Writeat::CHANGES                      0  Z/ZA/ZAG/Writeat-0.01.tar.gz
 WriteAt::CHANGES                      0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
-Writeat::To                           0  Z/ZA/ZAG/Writeat-0.01.tar.gz
 WriteAt::To                           0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
-Writeat::To::DocBook                  0  Z/ZA/ZAG/Writeat-0.01.tar.gz
 WriteAt::To::DocBook                  0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
 ws                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
 WSDL::Compile                      0.03  A/AJ/AJGB/WSDL-Compile-0.03.tar.gz
