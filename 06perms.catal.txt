@@ -638,6 +638,16 @@ CatalystX::REPL,SADRAK,c
 CatalystX::RelatedClassRoles,FLORA,c
 CatalystX::RelatedClassRoles,HDP,f
 CatalystX::RequestRole::StrictParams,SARGIE,f
+CatalystX::Resource,DAVEWOOD,f
+CatalystX::Resource::Controller::Resource,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::Create,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::Delete,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::Edit,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::Form,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::List,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::MergeUploadParams,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::Show,DAVEWOOD,f
+CatalystX::Resource::TraitFor::Controller::Resource::Sortable,DAVEWOOD,f
 CatalystX::Restarter::GTK,DHAVAL,f
 CatalystX::RoleApplicator,FLORA,c
 CatalystX::RoleApplicator,HDP,f
