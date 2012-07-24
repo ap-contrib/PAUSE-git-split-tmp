@@ -126,7 +126,7 @@ WWW::Pipeline::Services::Output     0.1  H/HO/HOWARS/WWW-Pipeline-0.1.1.tar.gz
 WWW::Pipeline::Services::RunModes   0.1  H/HO/HOWARS/WWW-Pipeline-0.1.1.tar.gz
 WWW::PivotalTracker                0.17  J/JH/JHELWIG/WWW-PivotalTracker-0.17.tar.gz
 WWW::PivotalTracker::Command       1.00  J/JH/JHELWIG/WWW-PivotalTracker-1.00.tar.gz
-WWW::Pixelletter                    0.1  R/RC/RCL/WWW--Pixelletter-0.1.tar.gz
+WWW::Pixelletter                    0.2  R/RC/RCL/WWW-Pixelletter-0.2.tar.gz
 WWW::PkgFind                       1.00  B/BR/BRYCE/WWW-PkgFind-1.3.1.tar.gz
 WWW::PlaceEngine                   0.03  K/KO/KOKOGIKO/WWW-PlaceEngine-0.03.tar.gz
 WWW::PlaceEngine::Object           0.01  K/KO/KOKOGIKO/WWW-PlaceEngine-0.01.tar.gz
