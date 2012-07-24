@@ -78,7 +78,7 @@ Crypt::XkcdPassword::Words::IT    0.004  T/TO/TOBYINK/Crypt-XkcdPassword-0.004.t
 Crypt::XXTEA                          1  A/AN/ANDOT/Crypt-XXTEA-1.00.zip
 Crypt::XXTEA::CImpl                0.01  I/IE/IEFREMOV/Crypt-XXTEA-CImpl-0.01.tar.gz
 Crypt::YAPassGen                   0.02  G/GI/GIULIENK/Crypt-YAPassGen-0.02.tar.gz
-cs                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+cs                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Csistck                          0.1002  A/AG/AGJ/Csistck-0.1002.tar.gz
 Csistck::Config                   undef  A/AG/AGJ/Csistck-0.1002.tar.gz
 Csistck::Oper                     undef  A/AG/AGJ/Csistck-0.1002.tar.gz
@@ -364,7 +364,7 @@ Cursor                            undef  G/GR/GROMMIER/Text-Editor-Easy-0.01.tar
 CursorBase                        undef  S/SO/SOREAR/STD-20101111.tar.gz
 CursorBase::dfa                   undef  S/SO/SOREAR/STD-20101111.tar.gz
 Customer                          0.002  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
-CustomPodView                     undef  K/KA/KARASIK/Prima-1.34.tar.gz
+CustomPodView                     undef  K/KA/KARASIK/Prima-1.35.tar.gz
 CustomSqlModel                    undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Cv                                 0.12  Y/YU/YUTA/Cv-0.12.tar.gz
 Cv::Arr                            0.04  Y/YU/YUTA/Cv-0.04.tar.gz

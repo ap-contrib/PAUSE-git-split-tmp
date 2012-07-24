@@ -722,7 +722,7 @@ LiveGeez::Services                 0.20  D/DY/DYACOB/Zobel-0.20-100701.tar.gz
 LiveGeez::URI                      0.20  D/DY/DYACOB/Zobel-0.20-100701.tar.gz
 LiveGeez::WebFonts                undef  D/DY/DYACOB/Zobel-0.20-100701.tar.gz
 Livelink::DAV                    0.0013  D/DB/DBMOLESTA/Livelink-DAV-0.0013.tar.gz
-lj                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+lj                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 LJ::GetCookieSession               0.01  A/AS/ASDEEVA/LJ-GetCookieSession-0.01.tar.gz
 LJ::Schedule                        0.6  K/KI/KITTY/LJ-Schedule-0.6.tar.gz
 LJ::Schedule::Post                  0.6  K/KI/KITTY/LJ-Schedule-0.6.tar.gz

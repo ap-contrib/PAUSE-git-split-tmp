@@ -625,7 +625,7 @@ CQL::TermNode                     undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Token                        undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Utils                        undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Visitor                      undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
-cr                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+cr                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 crap                               0.02  B/BI/BINGOS/crap-0.02.tar.gz
 CrawlApache                       undef  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.024.tar.gz
 Creature                          undef  M/MS/MSCHLUE/Class-Classgen-classgen-3.03.tar.gz

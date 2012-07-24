@@ -443,7 +443,7 @@ Kasago::Token                     undef  L/LB/LBROCARD/Kasago-0.29.tar.gz
 KashFlowAPI                       undef  S/SI/SIMON/Net-KashFlow-0.01.tar.gz
 KAsteroidsView                    undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 KAstTopLevel                      undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-kb                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+kb                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 KBit                              undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 KDE                               0.004  A/AW/AWIN/PerlKDE-0.004.tar.gz
 kdocAstUtil                       undef  G/GG/GGARAND/PerlQt-3.008.tar.gz

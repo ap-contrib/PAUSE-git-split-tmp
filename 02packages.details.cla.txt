@@ -485,7 +485,7 @@ Clutter::Knot                     1.002  E/EB/EBASSI/Clutter-1.002.tar.gz
 Clutter::Script                   1.002  E/EB/EBASSI/Clutter-1.002.tar.gz
 Clutter::TestHelper                0.01  E/EB/EBASSI/Clutter-1.002.tar.gz
 Clutter::Vertex                   1.002  E/EB/EBASSI/Clutter-1.002.tar.gz
-cm                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+cm                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 CM::EquivalenceClass               0.94  W/WS/WSDOOKADR/CM-Permutation-0.94.tar.gz
 CM::Group                          0.94  W/WS/WSDOOKADR/CM-Permutation-0.94.tar.gz
 CM::Group::Altern                  0.94  W/WS/WSDOOKADR/CM-Permutation-0.94.tar.gz

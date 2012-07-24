@@ -95,6 +95,7 @@ boolean,INGY,f
 bot__God,SFLEX,f
 bot_imob,SFLEX,f
 bs,MSISK,f
+bt,KARASIK,f
 build::Wx::XSP::Enum,MBARBON,f
 build::Wx::XSP::Enum,MDOOTSON,c
 build::Wx::XSP::Event,MBARBON,f
@@ -227,7 +228,9 @@ chezlib,LDACHARY,f
 chori_bac_feature,CJONES,f
 chromosome_cgh,CJONES,f
 chunk,INGY,f
+ci,KARASIK,f
 circular::require,DOY,f
+cl,KARASIK,f
 class_name,BRUMMETT,c
 class_name,SAKOHT,f
 classes,RMUHLE,f
@@ -238,6 +241,7 @@ classifyPlugInTemplate,AARDO,f
 clobber,JPIERCE,f
 clone_locn_file,CJONES,f
 cloud,LARSLUND,f
+cm,KARASIK,f
 cmo::rpn::deco::CalcDeco,SMAN,f
 cmo::rpn::deco::CalcImpl,SMAN,f
 cmo::rpn::deco::Divide,SMAN,f
@@ -295,12 +299,14 @@ controller_method,PHILCROW,f
 controller_statement,PHILCROW,f
 core,SFLEX,f
 coroutine0,DAVIDNICO,f
+cr,KARASIK,f
 crap,BINGOS,f
 criticism,CDOLAN,c
 criticism,CRITICRE,f
 criticism,ELLIOTJS,c
 criticism,THALJEF,c
 criticism,WYANT,c
+cs,KARASIK,f
 csv,MMARCO,f
 ctflags,SALVA,f
 ctflags::check,SALVA,f
@@ -414,9 +420,11 @@ dirs,SHERWOOD,f
 dirtyRSS,BILLAUER,f
 dlg,SHERWOOD,f
 dlgLogin,OESTERHOL,f
+dmfp,KARASIK,f
 doc,PERRAD,f
 double,RURBAN,f
 drop,LARSLUND,f
+dt,KARASIK,f
 dtRdr,EWILHELM,f
 dtRdr::Accessor,EWILHELM,f
 dtRdr::Annotation,EWILHELM,f

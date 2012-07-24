@@ -121,7 +121,7 @@ WriteAt::AUTHOR                       0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
 WriteAt::CHANGES                      0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
 WriteAt::To                           0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
 WriteAt::To::DocBook                  0  Z/ZA/ZAG/WriteAt-0.02.tar.gz
-ws                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+ws                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 WSDL::Compile                      0.03  A/AJ/AJGB/WSDL-Compile-0.03.tar.gz
 WSDL::Compile::Meta::Attribute::WSDL 0.02  A/AJ/AJGB/WSDL-Compile-0.03.tar.gz
 WSDL::Compile::Utils               0.03  A/AJ/AJGB/WSDL-Compile-0.03.tar.gz

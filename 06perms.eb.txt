@@ -490,6 +490,9 @@ fail_example_testsuite_setup,CLEMBURG,c
 fail_example_testsuite_setup,MCAST,f
 fake,ATOURBIN,f
 fake_sth,BJORNARDO,f
+fdo,KARASIK,f
+fds,KARASIK,f
+fe,KARASIK,f
 feature,DAPM,c
 feature,FLORA,c
 feature,JESSE,c
@@ -567,8 +570,13 @@ fp::lambda,STEVAN,f
 fp::lambda::utils,NUFFIN,c
 fp::lambda::utils,RKINYON,c
 fp::lambda::utils,STEVAN,f
+fr,KARASIK,f
+fra,KARASIK,f
 from,SKNPP,f
+frr,KARASIK,f
+fs,KARASIK,f
 future,SREZIC,f
+fw,KARASIK,f
 fwlog,EDB,f
 fytwORM,NEOPHENIX,f
 gal_file,CJONES,f
@@ -616,7 +624,13 @@ get_wn_info,TPEDERSE,c
 getaddress,CNANGEL,f
 gettext,PVANDRY,f
 globexport,JLISHEV,f
+gm,KARASIK,f
+gr,KARASIK,f
 group,JUSTER,f
+grow,KARASIK,f
+gsci,KARASIK,f
+gt,KARASIK,f
+gui,KARASIK,f
 gurpmi,TVIGNAUD,f
 hail,METZZO,f
 hashbang,INGY,f

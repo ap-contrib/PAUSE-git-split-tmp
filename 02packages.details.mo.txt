@@ -573,7 +573,7 @@ Mpp::Signature::xml_md5           undef  P/PF/PFEIFFER/makepp-1.50.100422.tgz
 Mpp::Signature::xml_space         undef  P/PF/PFEIFFER/makepp-2.0.tgz
 Mpp::Subs                         undef  P/PF/PFEIFFER/makepp-2.0.tgz
 Mpp::Text                         undef  P/PF/PFEIFFER/makepp-2.0.tgz
-MPropListViewer                   undef  K/KA/KARASIK/Prima-1.34.tar.gz
+MPropListViewer                   undef  K/KA/KARASIK/Prima-1.35.tar.gz
 MQdb                              0.954  J/JM/JMS/MQdb_0.954.tar.gz
 MQdb::Database                    0.954  J/JM/JMS/MQdb_0.954.tar.gz
 MQdb::DBObject                    0.954  J/JM/JMS/MQdb_0.954.tar.gz
@@ -701,7 +701,7 @@ MSWord::ToHTML::HTML              undef  A/AM/AMIRI/MSWord-ToHTML-0.006.tar.gz
 MSWord::ToHTML::Roles::HasHTML    undef  A/AM/AMIRI/MSWord-ToHTML-0.006.tar.gz
 MSWord::ToHTML::Types::Library    undef  A/AM/AMIRI/MSWord-ToHTML-0.006.tar.gz
 MT                                 1.74  S/SH/SHERZODR/Net-MovableType-1.74.tar.gz
-mt                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+mt                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 MT::Import::Base                   1.01  A/AS/ASCOPE/MT-Import-Base-1.01.tar.gz
 MT::Import::Mbox                   1.01  A/AS/ASCOPE/MT-Import-Mbox-1.01.tar.gz
 mt_1536                            1.17  C/CJ/CJONES/LIMS-MT_Plate-1.17.zip

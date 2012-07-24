@@ -333,7 +333,7 @@ MyModule                              1  C/CE/CECALA/CECALA.tar.gz
 MyMP3Play                         undef  J/JR/JRED/MPEG-MP3Play-0.16.tar.gz
 MyObject                          1.351  R/RC/RCAPUTO/POE-Test-Loops-1.351.tar.gz
 MyOEIS                            undef  K/KR/KRYDE/Math-PlanePath-82.tar.gz
-MyOutline                         undef  K/KA/KARASIK/Prima-1.34.tar.gz
+MyOutline                         undef  K/KA/KARASIK/Prima-1.35.tar.gz
 MyOutRouter                       undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 MyOutSession                      undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 MyP2P                             undef  S/SU/SUZUKI/POEIKC-0.04.tar.gz

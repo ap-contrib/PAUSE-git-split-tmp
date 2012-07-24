@@ -350,7 +350,7 @@ Kite::XML::Node::Part              1.02  A/AB/ABW/Kite-0.4.tar.gz
 Kite::XML::Node::Point             1.02  A/AB/ABW/Kite-0.4.tar.gz
 Kite::XML::Node::Text              1.02  A/AB/ABW/Kite-0.4.tar.gz
 Kite::XML::Parser                  1.01  A/AB/ABW/Kite-0.4.tar.gz
-km                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+km                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 KMissile                          undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Koha::Contrib::Tamil              0.024  F/FR/FREDERICD/Koha-Contrib-Tamil-0.024.tar.gz
 Koha::Contrib::Tamil::AuthoritiesLoader 0.024  F/FR/FREDERICD/Koha-Contrib-Tamil-0.024.tar.gz

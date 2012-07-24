@@ -1047,7 +1047,7 @@ Lorem::Util                       undef  J/JH/JHALLOCK/Lorem-0.16-withoutworldwr
 LotusNotes::LoadExport             1.01  G/GN/GNG/LotusNotes-LoadExport-1.01.tar.gz
 Loud                              undef  D/DC/DCONWAY/Attribute-Handlers-Prospective-0.01.tar.gz
 Love::Match::Calc                   0.2  S/ST/STEFANOS/Love-Match-Calc-0.2.tar.gz
-lp                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+lp                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 LPDS                               0.02  L/LA/LANCET/LPDS-0.02.tar.gz
 LPDS::Renderer                        0  L/LA/LANCET/LPDS-0.02.tar.gz
 LPDS::RendererAxis                    0  L/LA/LANCET/LPDS-0.02.tar.gz

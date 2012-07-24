@@ -229,7 +229,7 @@ FvwmPiazza::Layouts::Tall        0.2002  R/RU/RUBYKAT/FvwmPiazza-0.2002.tar.gz
 FvwmPiazza::Layouts::Wide        0.2002  R/RU/RUBYKAT/FvwmPiazza-0.2002.tar.gz
 FvwmPiazza::Page                 0.2002  R/RU/RUBYKAT/FvwmPiazza-0.2002.tar.gz
 FvwmPiazza::Tiler                0.2002  R/RU/RUBYKAT/FvwmPiazza-0.2002.tar.gz
-fw                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+fw                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Fwctl                              0.28  F/FR/FRAJULAC/Fwctl-0.28.tar.gz
 Fwctl::RuleSet                    undef  F/FR/FRAJULAC/Fwctl-0.28.tar.gz
 Fwctl::Services::all              undef  F/FR/FRAJULAC/Fwctl-0.28.tar.gz

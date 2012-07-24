@@ -434,12 +434,14 @@ all,DEXTER,c
 all,JDUNCAN,f
 all::your::base::are::belong::to,TOBYINK,f
 also,BMORROW,f
+am,KARASIK,f
 analysis,CJONES,f
 animate,METZZO,f
 anti_spam,SFLEX,f
 any,DMUEY,f
 any::feature,MARCEL,f
 apache_test_config,JANPAZ,f
+apc,KARASIK,f
 app_body,PHILCROW,f
 app_config_block,PHILCROW,f
 app_config_statement,PHILCROW,f
@@ -614,6 +616,7 @@ beagle::BeagleResourceList,RVOSA,f
 beaglec,RVOSA,f
 begin,ELIZABETH,f
 best,HUGHES,f
+bi,KARASIK,f
 bigint,FLORA,c
 bigint,TELS,f
 bignum,FLORA,c

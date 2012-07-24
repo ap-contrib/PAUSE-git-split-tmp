@@ -5,6 +5,7 @@ rlib,GAAS,f
 rlib,GBARR,c
 rms,JCTEBBAL,f
 root_t::Daemon,MMCLERIC,f
+rop,KARASIK,f
 routine,CHIPS,f
 rowcol_plate_file,CJONES,f
 rubyisms,PETDANCE,f
@@ -15,6 +16,7 @@ sane,PUNYTAN,f
 sanity,BBYRD,f
 sapnwrfc,PIERS,f
 savevars,SREZIC,f
+sbmp,KARASIK,f
 sc,DCMERTENS,f
 scalar::object,DANKOGAI,f
 scriptname,MASSA,f
@@ -134,6 +136,7 @@ spreadsheet,MMARCO,f
 sprite_view,METZZO,f
 sql_block,PHILCROW,f
 sqlite_comparison,CJONES,f
+ss,KARASIK,f
 start,ILMARI,c
 start,MITHALDU,c
 start,MSTROUT,f
@@ -207,6 +210,7 @@ subs::parallel,NILSONSFJ,f
 suite_calc,PERRAD,f
 sun,LARSLUND,f
 super,DROLSKY,f
+sv,KARASIK,f
 swd,VIDUL,f
 swig,DBEAZLEY,f
 syntax,FLORA,c
@@ -322,9 +326,11 @@ tTemplate::ExprNode,TATE,f
 tTemplate::ExprParser,TATE,f
 t_live::lib::Utils,ISHIGAKI,f
 t_live::urllist,ISHIGAKI,f
+ta,KARASIK,f
 table_body,PHILCROW,f
 table_element_block,PHILCROW,f
 table_example,TBONE,f
+tb,KARASIK,f
 tcpcat,SAMPO,f
 teh,INGY,f
 template,ABALAMA,f
@@ -501,9 +507,13 @@ tinyurl::Model::CDBI::TinyUrl,BAYSIDE,f
 tinyurl::View::TT,BAYSIDE,f
 tkShortcuts,ROBINBANK,f
 tkShortcuts1,ROBINBANK,f
+tka,KARASIK,f
+tm,KARASIK,f
 tmi,TPEDERSE,f
 tmi3,TPEDERSE,f
 tmpdir,SANFACE,f
+tno,KARASIK,f
+tns,KARASIK,f
 to,SPROUT,f
 tounix,MHOSKEN,f
 tpadm,AFRYER,f
@@ -527,6 +537,7 @@ tt,NUFFIN,f
 tt,SAMV,c
 tt,STEVAN,c
 tube,CJONES,f
+tw,KARASIK,f
 two_face,KRYDE,f
 types,ABERGMAN,f
 types,RURBAN,c

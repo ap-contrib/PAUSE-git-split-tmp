@@ -8,7 +8,7 @@ NSNMP::Agent                      undef  K/KR/KRAGEN/NSNMP-0.5.tar.gz
 NSNMP::Mapper                     undef  K/KR/KRAGEN/NSNMP-0.5.tar.gz
 NSNMP::Message                     0.50  K/KR/KRAGEN/NSNMP-0.5.tar.gz
 NSNMP::Simple                     undef  K/KR/KRAGEN/NSNMP-0.5.tar.gz
-nt                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+nt                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 NTree                             undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/NTree.pm.gz
 NTS::SqlLink                        2.0  N/NA/NATTIS/NTS_SqlLink-2.0.tar.gz
 NTS::Template                       2.1  N/NA/NATTIS/NTS-Template-2.1.tar.gz

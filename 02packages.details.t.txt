@@ -9,7 +9,7 @@ Tk::Zinc::Text                     1.02  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz
 Tk::Zinc::Trace                    1.13  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz
 Tk::Zinc::TraceErrors              1.08  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz
 Tk::Zinc::TraceUtils               1.07  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz
-tka                               undef  K/KA/KARASIK/Prima-1.34.tar.gz
+tka                               undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Tkbound                               1  D/DM/DMPETIT/Tk-Bounded-1.0.2.tar.gz
 Tkbound::bXEvent                      1  D/DM/DMPETIT/Tk-Bounded-1.0.2.tar.gz
 Tkboundtags                           1  D/DM/DMPETIT/Tk-Bounded-1.0.2.tar.gz
@@ -40,7 +40,7 @@ TL1ng::Source                      0.07  S/SS/SSCAFFIDI/TL1ng-0.08.tar.gz
 TL1ng::Source::Telnet              0.07  S/SS/SSCAFFIDI/TL1ng-0.08.tar.gz
 Tlack::Runner                         0  T/TO/TOKUHIROM/nana-0.22.tar.gz
 TM                                 1.56  D/DR/DRRHO/TM-1.56.tar.gz
-tm                                undef  K/KA/KARASIK/Prima-1.34.tar.gz
+tm                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 TM::Analysis                       0.91  D/DR/DRRHO/TM-1.56.tar.gz
 TM::AsTMa::Fact                   undef  D/DR/DRRHO/TM-1.56.tar.gz
 TM::AsTMa::Fact2                  undef  D/DR/DRRHO/TM-1.56.tar.gz
@@ -137,8 +137,8 @@ Tmptext::Wikrad                    0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
 Tmptext::Wikrad::Listbox           0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
 Tmptext::Wikrad::PageViewer        0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
 Tmptext::Wikrad::Window            0.07  I/IN/INGY/Stackato-Stackrad-0.01.tar.gz
-tno                               undef  K/KA/KARASIK/Prima-1.34.tar.gz
-tns                               undef  K/KA/KARASIK/Prima-1.34.tar.gz
+tno                               undef  K/KA/KARASIK/Prima-1.35.tar.gz
+tns                               undef  K/KA/KARASIK/Prima-1.35.tar.gz
 to                                undef  S/SP/SPROUT/Tie-Util-0.03.tar.gz
 To_Add_Fails                      undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 To_Add_Fails_Too                  undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
