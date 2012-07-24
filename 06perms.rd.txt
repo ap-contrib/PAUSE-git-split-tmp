@@ -863,6 +863,7 @@ RT::Condition::SLA_RequireStartsSet,RUZ,c
 RT::Condition::SLA_RequireStartsSet,TSIBLEY,f
 RT::Config,ELACOUR,f
 RT::Crypt::SMIME,ALEXMV,c
+RT::Crypt::SMIME,FALCONE,c
 RT::Crypt::SMIME,JESSE,f
 RT::Crypt::SMIME,TSIBLEY,c
 RT::CustomField,ALEXMV,c
@@ -989,6 +990,7 @@ RT::Extension::MergeUsers,JESSE,f
 RT::Extension::MergeUsers,KEVINR,c
 RT::Extension::MergeUsers,RUZ,c
 RT::Extension::MergeUsers,TSIBLEY,c
+RT::Extension::MobileUI,FALCONE,c
 RT::Extension::MobileUI,JESSE,f
 RT::Extension::MobileUI,TSIBLEY,c
 RT::Extension::MoveRules,RUZ,c
@@ -1108,9 +1110,11 @@ RT::Interface::Email,JESSE,f
 RT::Interface::Email,RUZ,c
 RT::Interface::Email,TSIBLEY,c
 RT::Interface::Email::Auth::SMIME,ALEXMV,c
+RT::Interface::Email::Auth::SMIME,FALCONE,c
 RT::Interface::Email::Auth::SMIME,JESSE,f
 RT::Interface::Email::Auth::SMIME,TSIBLEY,c
 RT::Interface::Email::Auth::StrictSMIME,ALEXMV,c
+RT::Interface::Email::Auth::StrictSMIME,FALCONE,c
 RT::Interface::Email::Auth::StrictSMIME,JESSE,f
 RT::Interface::Email::Auth::StrictSMIME,TSIBLEY,c
 RT::Interface::Email::Filter::SimpleGPGVerify,ALEXMV,c
@@ -1433,6 +1437,7 @@ RTx::Shredder::Plugin::Users,JESSE,c
 RTx::Shredder::Plugin::Users,RUZ,c
 RTx::Shredder::Plugin::Users,TSIBLEY,f
 RTx::Tags,JPIERCE,f
+RTx::Ticketlist::Transactions,FALCONE,c
 RTx::Ticketlist::Transactions,JESSE,f
 RTx::Ticketlist::Transactions,TSIBLEY,c
 RTx::TicketlistTransactions,TSIBLEY,f
@@ -1441,8 +1446,10 @@ RTx::WebCronTool,AUTRIJUS,c
 RTx::WebCronTool,JESSE,c
 RTx::WebCronTool,NUFFIN,c
 RTx::WorkflowBuilder,CLKAO,c
+RTx::WorkflowBuilder,FALCONE,c
 RTx::WorkflowBuilder,JESSE,f
 RTx::WorkflowBuilder::Stage,CLKAO,c
+RTx::WorkflowBuilder::Stage,FALCONE,c
 RTx::WorkflowBuilder::Stage,JESSE,f
 RWDE,DAMJANP,f
 RWDE,KAMELKEV,c
