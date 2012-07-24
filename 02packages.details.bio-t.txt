@@ -1103,7 +1103,7 @@ Bundle::Net::Nessus                0.02  J/JW/JWIED/Net-Nessus-0.08.tar.gz
 Bundle::Net::Radius::Server       1.003  L/LU/LUISMUNOZ/Bundle-Net-Radius-Server-1.003.tar.gz
 Bundle::Net::SNMP::Mixin           0.11  G/GA/GAISSMAI/Bundle-Net-SNMP-Mixin-0.11.tar.gz
 Bundle::NiceSleep                  0.11  J/JO/JOSHR/Bundle-NiceSleep-0.11.tar.gz
-Bundle::Object::InsideOut          3.94  J/JD/JDHEDDEN/Object-InsideOut-3.94.tar.gz
+Bundle::Object::InsideOut          3.95  J/JD/JDHEDDEN/Object-InsideOut-3.95.tar.gz
 Bundle::OpenILS                    0.07  K/KA/KADOS/Bundle-OpenILS-0.07.tar.gz
 Bundle::OpenInteract               1.11  C/CW/CWINTERS/Bundle-OpenInteract-1.11.tar.gz
 Bundle::OpenInteract2              1.03  C/CW/CWINTERS/Bundle-OpenInteract2-1.03.tar.gz

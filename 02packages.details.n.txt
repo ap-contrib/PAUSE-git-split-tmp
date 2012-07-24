@@ -488,12 +488,12 @@ Object::I18n::Storage::MemHash    undef  D/DE/DELANEY/Object-I18n-0.02.tar.gz
 Object::ID                       v0.1.2  M/MS/MSCHWERN/Object-ID-v0.1.2.tar.gz
 Object::Import                    1.002  A/AM/AMBRUS/Object-Import-1.002.tar.gz
 Object::Info                        1.1  J/JA/JACKS/Object-Info-1.1.pm.gz
-Object::InsideOut                  3.94  J/JD/JDHEDDEN/Object-InsideOut-3.94.tar.gz
-Object::InsideOut::Exception       3.94  J/JD/JDHEDDEN/Object-InsideOut-3.94.tar.gz
-Object::InsideOut::Metadata        3.94  J/JD/JDHEDDEN/Object-InsideOut-3.94.tar.gz
+Object::InsideOut                  3.95  J/JD/JDHEDDEN/Object-InsideOut-3.95.tar.gz
+Object::InsideOut::Exception       3.95  J/JD/JDHEDDEN/Object-InsideOut-3.95.tar.gz
+Object::InsideOut::Metadata        3.95  J/JD/JDHEDDEN/Object-InsideOut-3.95.tar.gz
 Object::InsideOut::Results        undef  J/JD/JDHEDDEN/Object-InsideOut-1.33.tar.gz
-Object::InsideOut::Secure          3.94  J/JD/JDHEDDEN/Object-InsideOut-3.94.tar.gz
-Object::InsideOut::Util            3.94  J/JD/JDHEDDEN/Object-InsideOut-3.94.tar.gz
+Object::InsideOut::Secure          3.95  J/JD/JDHEDDEN/Object-InsideOut-3.95.tar.gz
+Object::InsideOut::Util            3.95  J/JD/JDHEDDEN/Object-InsideOut-3.95.tar.gz
 Object::Interface                   1.1  G/GW/GWELCH/Object-Interface-1.1.zip
 Object::InterfaceType              0.01  Y/YA/YAPPO/Object-InterfaceType-0.01.tar.gz
 Object::Iterate                    1.12  B/BD/BDFOY/Object-Iterate-1.12.tar.gz
