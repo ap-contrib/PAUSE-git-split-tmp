@@ -317,7 +317,6 @@ Silki::Wiki::Exporter              0.29  D/DR/DROLSKY/Silki-0.29.tar.gz
 Silki::Wiki::Importer              0.29  D/DR/DROLSKY/Silki-0.29.tar.gz
 SilkiX::Converter::Kwiki           0.03  D/DR/DROLSKY/SilkiX-Converter-Kwiki-0.03.tar.gz
 SilkiX::Converter::Kwiki::HTMLToWiki 0.03  D/DR/DROLSKY/SilkiX-Converter-Kwiki-0.03.tar.gz
-Silly::Krad                        0.03  M/MS/MSLAGLE/Silly-Krad-0.03.tar.gz
 Silly::StringMaths                 0.13  S/SK/SKINGTON/Silly-StringMaths-0.13.tar.gz
 Silly::Werder                      0.90  C/CX/CXREG/Silly-Werder-0.90.tar.gz
 Silly::Werder::English             0.90  C/CX/CXREG/Silly-Werder-0.90.tar.gz

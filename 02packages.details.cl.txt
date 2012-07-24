@@ -286,7 +286,6 @@ Class::List                       undef  C/CR/CROSSWIRE/Class-GAPI-1.1.tar.gz
 Class::Listener                0.001004  M/MU/MUENALAN/Class-Listener-0.01.04.tar.gz
 Class::Load                        0.20  D/DR/DROLSKY/Class-Load-0.20.tar.gz
 Class::Load::PP                    0.20  D/DR/DROLSKY/Class-Load-0.20.tar.gz
-Class::Load::Tiny                  0.05  A/AL/ALEXBIO/Class-Load-Tiny-0.05.tar.gz
 Class::Load::XS                    0.04  D/DR/DROLSKY/Class-Load-XS-0.04.tar.gz
 Class::Loader                      2.03  V/VI/VIPUL/Class-Loader-2.03.tar.gz
 Class::LoaderTest                 undef  V/VI/VIPUL/Class-Loader-2.03.tar.gz
