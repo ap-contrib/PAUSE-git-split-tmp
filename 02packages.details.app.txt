@@ -822,11 +822,12 @@ Archive::SimpleExtractor::Zip      0.03  T/TM/TMULEVICH/Archive-SimpleExtractor-
 Archive::StringToZip               1.03  B/BA/BABF/Archive-StringToZip-1.03.tar.gz
 Archive::Tar                       1.88  B/BI/BINGOS/Archive-Tar-1.88.tar.gz
 Archive::Tar::_io                  0.22  S/SR/SRZ/Archive-Tar-0.22.tar.gz
-Archive::Tar::Builder               0.4  C/CP/CPANEL/Archive-Tar-Builder-0.4.tar.gz
+Archive::Tar::Builder               0.5  C/CP/CPANEL/Archive-Tar-Builder-0.5.tar.gz
 Archive::Tar::Builder::Bits       undef  C/CP/CPANEL/Archive-Tar-Builder-0.4.tar.gz
 Archive::Tar::Builder::Header     undef  C/CP/CPANEL/Archive-Tar-Builder-0.4.tar.gz
 Archive::Tar::Builder::Inode      undef  C/CP/CPANEL/Archive-Tar-Builder-0.4.tar.gz
 Archive::Tar::Builder::Match        0.4  C/CP/CPANEL/Archive-Tar-Builder-0.4.tar.gz
+Archive::Tar::Builder::UserCache  undef  C/CP/CPANEL/Archive-Tar-Builder-0.5.tar.gz
 Archive::Tar::Constant             1.88  B/BI/BINGOS/Archive-Tar-1.88.tar.gz
 Archive::Tar::File                 1.88  B/BI/BINGOS/Archive-Tar-1.88.tar.gz
 Archive::Tar::LogError             0.04  N/NU/NUFFIN/Verby-Action-Untar-0.04.tar.gz
