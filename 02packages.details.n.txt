@@ -613,6 +613,8 @@ ObjectDB::SQL::Select             undef  V/VT/VTI/ObjectDB-0.990103.tar.gz
 ObjectDB::SQL::Update             undef  V/VT/VTI/ObjectDB-0.990103.tar.gz
 ObjectDBI                          0.15  K/KJ/KJH/ObjectDBI-0.15.tar.gz
 ObjectDBI::Cursor                  0.15  K/KJ/KJH/ObjectDBI-0.15.tar.gz
+Objectified                       0.001  D/DA/DAGOLDEN/Objectify-0.001.tar.gz
+Objectify                         0.001  D/DA/DAGOLDEN/Objectify-0.001.tar.gz
 ObjectivePerl                      0.04  K/KY/KYLED/ObjectivePerl/ObjectivePerl-0.04.tar.gz
 ObjectivePerl::InstanceVariable   undef  K/KY/KYLED/ObjectivePerl/ObjectivePerl-0.04.tar.gz
 ObjectivePerl::Object             undef  K/KY/KYLED/ObjectivePerl/ObjectivePerl-0.04.tar.gz

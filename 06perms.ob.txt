@@ -523,6 +523,8 @@ ObjectRowMap,CWELCH,f
 ObjectRowMapTest,CWELCH,f
 ObjectTemplate,SRIRAM,c
 ObjectType,PERRAD,f
+Objectified,DAGOLDEN,f
+Objectify,DAGOLDEN,f
 ObjectivePerl,KYLED,f
 ObjectivePerl::InstanceVariable,KYLED,f
 ObjectivePerl::Object,KYLED,f
