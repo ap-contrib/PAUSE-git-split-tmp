@@ -1129,6 +1129,7 @@ HTML::Content::HTMLTokenizer,JTAVERNI,f
 HTML::Content::TokeParserTokenizer,JTAVERNI,f
 HTML::ContentExtractor,JZHANG,m
 HTML::Copy,TKURITA,m
+HTML::CruftText,DRLARO,f
 HTML::DBForm,KRAILEY,f
 HTML::DBForm::Search,KRAILEY,f
 HTML::DBForm::Search::DropDown,KRAILEY,f
