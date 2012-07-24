@@ -830,7 +830,7 @@ CGI::Application::Plus             1.21  D/DO/DOMIZIO/CGI-Application-Plus-1.21.
 CGI::Application::Plus::Capt       1.21  D/DO/DOMIZIO/CGI-Application-Plus-1.21.tar.gz
 CGI::Application::Plus::Util      undef  D/DO/DOMIZIO/CGI-Application-Plus-1.21.tar.gz
 CGI::Application::PSGI             1.00  M/MA/MARKSTOS/CGI-Application-PSGI-1.00.tar.gz
-CGI::Application::Search           1.13  W/WO/WONKO/CGI-Application-Search-1.13.tar.gz
+CGI::Application::Search           1.14  W/WO/WONKO/CGI-Application-Search-1.14.tar.gz
 CGI::Application::Server          0.062  R/RJ/RJBS/CGI-Application-Server-0.062.tar.gz
 CGI::Application::Standard::Config 1.01  M/MA/MARKSTOS/CGI-Application-Standard-Config-1.01.tar.gz
 CGI::Application::Structured      0.007  V/VA/VANAMBURG/CGI-Application-Structured-0.007.tar.gz
