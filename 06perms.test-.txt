@@ -762,6 +762,7 @@ Test::YAML::Valid,SARTAK,c
 Test::iMETAr,JKUTEJ,f
 Test::local::lib::deps,EXODIST,f
 Test::mysqld,KAZUHO,f
+Test::podimage,KARASIK,f
 Test::postgresql,KAZUHO,f
 Test::t,RKRIMEN,c
 Test::t,ROKR,f

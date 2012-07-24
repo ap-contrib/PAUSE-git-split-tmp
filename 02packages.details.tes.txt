@@ -749,6 +749,7 @@ Test::Pod::Snippets                0.06  Y/YA/YANICK/Test-Pod-Snippets-0.06.tar.
 Test::Pod::Snippets::Parser        0.06  Y/YA/YANICK/Test-Pod-Snippets-0.06.tar.gz
 Test::Pod::Spelling                 0.3  L/LG/LGODDARD/Pod-Spelling-0.15.tar.gz
 Test::Pod::Spelling::CommonMistakes 1.000  A/AP/APOCAL/Test-Pod-Spelling-CommonMistakes-1.000.tar.gz
+Test::podimage                     0.01  K/KA/KARASIK/Test-podimage-0.01.tar.gz
 Test::POE::Client::TCP             1.10  B/BI/BINGOS/Test-POE-Client-TCP-1.10.tar.gz
 Test::POE::Server::TCP             1.16  B/BI/BINGOS/Test-POE-Server-TCP-1.16.tar.gz
 Test::POE::Stopping                1.09  A/AD/ADAMK/Test-POE-Stopping-1.09.tar.gz
