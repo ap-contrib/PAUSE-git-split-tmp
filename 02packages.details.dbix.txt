@@ -1085,9 +1085,9 @@ Devel::OptreeDiff                   2.3  J/JJ/JJORE/Devel-OptreeDiff-2.3.tar.gz
 Devel::Package                     1.00  G/GL/GLENNWOOD/Devel-Diagram-1.00.tar.gz
 Devel::PackagePath                 0.03  P/PE/PERIGRIN/Devel-PackagePath-0.03.tar.gz
 Devel::PartialDump                 0.15  F/FL/FLORA/Devel-PartialDump-0.15.tar.gz
-Devel::PatchPerl                   0.72  B/BI/BINGOS/Devel-PatchPerl-0.72.tar.gz
-Devel::PatchPerl::Hints            0.72  B/BI/BINGOS/Devel-PatchPerl-0.72.tar.gz
-Devel::PatchPerl::Plugin           0.72  B/BI/BINGOS/Devel-PatchPerl-0.72.tar.gz
+Devel::PatchPerl                   0.74  B/BI/BINGOS/Devel-PatchPerl-0.74.tar.gz
+Devel::PatchPerl::Hints            0.74  B/BI/BINGOS/Devel-PatchPerl-0.74.tar.gz
+Devel::PatchPerl::Plugin           0.74  B/BI/BINGOS/Devel-PatchPerl-0.74.tar.gz
 Devel::PDB                         0.06  I/IV/IVANWONG/Devel-PDB-0.06.tar.gz
 Devel::PDB::Dialog::FileBrowser     1.0  I/IV/IVANWONG/Devel-PDB-0.06.tar.gz
 Devel::PDB::Dialog::Message         1.0  I/IV/IVANWONG/Devel-PDB-0.06.tar.gz
