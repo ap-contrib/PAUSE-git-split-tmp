@@ -1240,6 +1240,8 @@ Code::TidyAll::Plugin::PerlCritic,JSWARTZ,f
 Code::TidyAll::Plugin::PerlTidy,JSWARTZ,f
 Code::TidyAll::Plugin::PodTidy,JSWARTZ,f
 Code::TidyAll::Result,JSWARTZ,f
+Code::TidyAll::SVN::Precommit,JSWARTZ,f
+Code::TidyAll::Util::Zglob,JSWARTZ,f
 CodeBase,ANDREWF,f
 CodeBase::FilePtr,ANDREWF,f
 CodeEditor,KARASIK,f

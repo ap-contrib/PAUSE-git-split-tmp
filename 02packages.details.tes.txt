@@ -78,7 +78,7 @@ Test::Classy::Base                undef  I/IS/ISHIGAKI/Test-Classy-0.09.tar.gz
 Test::CleanNamespaces              0.03  F/FL/FLORA/Test-CleanNamespaces-0.03.tar.gz
 Test::Cmd                          1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
 Test::Cmd::Common                  1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
-Test::Code::TidyAll                0.02  J/JS/JSWARTZ/Code-TidyAll-0.02.tar.gz
+Test::Code::TidyAll                0.03  J/JS/JSWARTZ/Code-TidyAll-0.03.tar.gz
 Test::Command                      0.08  D/DA/DANBOO/Test-Command-0.08.tar.gz
 Test::Command::Simple              0.03  D/DM/DMCBRIDE/Test-Command-Simple-0.03.tar.gz
 Test::Common                       0.07  I/IN/INGY/Test-Common-0.07.tar.gz
