@@ -282,6 +282,7 @@ Parse::Dia::SQL::Const,AFF,f
 Parse::Dia::SQL::Logger,AFF,f
 Parse::Dia::SQL::Output,AFF,f
 Parse::Dia::SQL::Output::DB2,AFF,f
+Parse::Dia::SQL::Output::HTML,AFF,f
 Parse::Dia::SQL::Output::Informix,AFF,f
 Parse::Dia::SQL::Output::Ingres,AFF,f
 Parse::Dia::SQL::Output::MySQL,AFF,f
@@ -290,6 +291,7 @@ Parse::Dia::SQL::Output::MySQL::MyISAM,AFF,f
 Parse::Dia::SQL::Output::Oracle,AFF,f
 Parse::Dia::SQL::Output::Postgres,AFF,f
 Parse::Dia::SQL::Output::SQLite3,AFF,f
+Parse::Dia::SQL::Output::SQLite3fk,AFF,f
 Parse::Dia::SQL::Output::Sas,AFF,f
 Parse::Dia::SQL::Output::Sybase,AFF,f
 Parse::Dia::SQL::Utils,AFF,f
