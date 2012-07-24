@@ -947,7 +947,7 @@ Builder::Utils                     0.03  D/DR/DRAEGTUN/Builder-0.05.tar.gz
 Builder::XML                       0.03  D/DR/DRAEGTUN/Builder-0.05.tar.gz
 Builder::XML::Utils                0.03  D/DR/DRAEGTUN/Builder-0.05.tar.gz
 BuildTools                         0.01  R/RO/ROBERTMAY/Win32-GUI/Win32-GUI-1.06.tar.gz
-Builtin::Logged                    0.03  S/SH/SHARYANTO/Builtin-Logged-0.03.tar.gz
+Builtin::Logged                    0.05  S/SH/SHARYANTO/Builtin-Logged-0.05.tar.gz
 Bundle::Advent::All                0.05  D/DA/DAVIDRW/Advent-Bundles-0.05.tar.gz
 Bundle::Advent::Year2000           0.02  D/DA/DAVIDRW/Advent-Bundles-0.05.tar.gz
 Bundle::Advent::Year2001           0.02  D/DA/DAVIDRW/Advent-Bundles-0.05.tar.gz
