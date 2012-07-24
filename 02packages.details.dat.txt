@@ -466,7 +466,8 @@ Data::Structure::Util              0.15  A/AN/ANDYA/Data-Structure-Util-0.15.tar
 Data::Swap                         0.08  X/XM/XMATH/Data-Swap-0.08.tar.gz
 Data::Sync                         0.08  C/CC/CCOLBOURN/Data-Sync/Data-Sync-0.08.tar.gz
 Data::Sync::Advanced              undef  C/CC/CCOLBOURN/Data-Sync/Data-Sync-0.08.tar.gz
-Data::Table                        1.63  E/EZ/EZDB/Data-Table-1.63.tar.gz
+Data::Table                        1.65  E/EZ/EZDB/Data-Table-1.65.tar.gz
+Data::Table::Excel                  0.1  E/EZ/EZDB/Data-Table-Excel-0.1.tar.gz
 Data::TableAutoSum                 0.08  B/BI/BIGJ/Data-TableAutoSum-0.08.tar.gz
 Data::Tabular                      0.29  G/GA/GAM/Data-Tabular-0.29.tar.gz
 Data::Tabular::Config::Extra      undef  G/GA/GAM/Data-Tabular-0.29.tar.gz

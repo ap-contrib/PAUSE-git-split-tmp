@@ -693,6 +693,7 @@ Data::TUID,RKRIMEN,c
 Data::TUID,ROKR,f
 Data::TUID::BestUUID,ROKR,f
 Data::Table,EZDB,f
+Data::Table::Excel,EZDB,f
 Data::TableAutoSum,BIGJ,f
 Data::Tabular,GAM,m
 Data::Tabular::Cell,GAM,f
