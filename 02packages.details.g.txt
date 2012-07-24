@@ -525,6 +525,8 @@ Hash::MultiKey                     0.06  F/FX/FXN/Hash-MultiKey-0.06.tar.gz
 Hash::MultiValue                   0.12  A/AR/ARISTOTLE/Hash-MultiValue-0.12.tar.gz
 Hash::NoRef                        0.03  G/GM/GMPASSOS/Hash-NoRef-0.03.tar.gz
 Hash::NoVivify                     0.01  B/BP/BPOWERS/Hash-NoVivify-0.01.tar.gz
+Hash::Objectified                 0.001  D/DA/DAGOLDEN/Hash-Objectify-0.001.tar.gz
+Hash::Objectify                   0.001  D/DA/DAGOLDEN/Hash-Objectify-0.001.tar.gz
 Hash::Override                    undef  W/WS/WSDOOKADR/Hash-Override-0.021.tar.gz
 Hash::Param                        0.04  R/RK/RKRIMEN/Hash-Param-0.04.tar.gz
 Hash::Path                         0.02  I/IZ/IZUT/Hash-Path-0.02.tar.gz
