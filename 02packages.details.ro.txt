@@ -335,10 +335,10 @@ RT::Atom                           0.03  A/AU/AUTRIJUS/RT-Atom-0.03.tar.gz
 RT::Attachment                    undef  R/RU/RUZ/RTx-Shredder-0.07.tar.gz
 RT::Authen::Bitcard                0.04  R/RU/RUZ/RT-Authen-Bitcard-0.04.tar.gz
 RT::Authen::CookieAuth             0.02  Z/ZO/ZORDRAK/RT-Authen-CookieAuth-0.02.tar.gz
-RT::Authen::ExternalAuth           0.10  T/TS/TSIBLEY/RT-Authen-ExternalAuth-0.10.tar.gz
-RT::Authen::ExternalAuth::DBI     undef  T/TS/TSIBLEY/RT-Authen-ExternalAuth-0.10.tar.gz
-RT::Authen::ExternalAuth::DBI::Cookie undef  T/TS/TSIBLEY/RT-Authen-ExternalAuth-0.10.tar.gz
-RT::Authen::ExternalAuth::LDAP    undef  T/TS/TSIBLEY/RT-Authen-ExternalAuth-0.10.tar.gz
+RT::Authen::ExternalAuth           0.11  F/FA/FALCONE/RT-Authen-ExternalAuth-0.11.tar.gz
+RT::Authen::ExternalAuth::DBI     undef  F/FA/FALCONE/RT-Authen-ExternalAuth-0.11.tar.gz
+RT::Authen::ExternalAuth::DBI::Cookie undef  F/FA/FALCONE/RT-Authen-ExternalAuth-0.11.tar.gz
+RT::Authen::ExternalAuth::LDAP    undef  F/FA/FALCONE/RT-Authen-ExternalAuth-0.11.tar.gz
 RT::Authen::Federation         1.002001  C/CA/CARLOSFB/RT/RT-Authen-Federation-1.2.2.tar.gz
 RT::Authen::OpenID                 0.01  A/AB/ABERGMAN/RT-Authen-OpenID-0.01.tar.gz
 RT::Authen::PAUSE                  0.02  R/RU/RUZ/RT-Authen-PAUSE-0.02.tar.gz
@@ -442,7 +442,7 @@ RT::Extension::MandatorySubject    0.05  E/EL/ELACOUR/RT-Extension-MandatorySubj
 RT::Extension::MenuBarSearches     0.06  J/JE/JESSE/RT-Extension-MenubarSearches-0.06.tar.gz
 RT::Extension::MenuBarUserTickets   1.1  D/DU/DUMB/RT-Extension-MenubarUserTickets/RT-Extension-MenubarUserTickets-1.1.tar.gz
 RT::Extension::MergeUsers          0.06  T/TS/TSIBLEY/RT-Extension-MergeUsers-0.06.tar.gz
-RT::Extension::MobileUI            1.01  J/JE/JESSE/RT-Extension-MobileUI-1.01.tar.gz
+RT::Extension::MobileUI            1.02  F/FA/FALCONE/RT-Extension-MobileUI-1.02.tar.gz
 RT::Extension::MoveRules           0.01  R/RU/RUZ/RT-Extension-MoveRules-0.01.tar.gz
 RT::Extension::MoveRules::Test    undef  R/RU/RUZ/RT-Extension-MoveRules-0.01.tar.gz
 RT::Extension::Nagios              0.06  S/SU/SUNNAVY/RT-Extension-Nagios-0.06.tar.gz
