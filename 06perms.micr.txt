@@ -766,6 +766,14 @@ Module::Build::SDL,FROGGS,c
 Module::Build::SDL,GARU,c
 Module::Build::SDL,JTPALMER,c
 Module::Build::SDL,KTHAKORE,f
+Module::Build::Service,MDORMAN,f
+Module::Build::Service::Base,MDORMAN,f
+Module::Build::Service::Fork,MDORMAN,f
+Module::Build::Service::clamd,MDORMAN,f
+Module::Build::Service::gearmand,MDORMAN,f
+Module::Build::Service::memcached,MDORMAN,f
+Module::Build::Service::postgresql,MDORMAN,f
+Module::Build::Service::slapd,MDORMAN,f
 Module::Build::Smolder,WONKO,f
 Module::Build::SysPath,JKUTEJ,f
 Module::Build::TAPArchive,WONKO,f

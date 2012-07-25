@@ -1072,6 +1072,7 @@ Dist::Zilla::App::Command::dumpphases,KENTNL,f
 Dist::Zilla::App::Command::gconf,RJBS,f
 Dist::Zilla::App::Command::gh,ALEXBIO,f
 Dist::Zilla::App::Command::install,RJBS,f
+Dist::Zilla::App::Command::interact,MDORMAN,f
 Dist::Zilla::App::Command::listdeps,RJBS,f
 Dist::Zilla::App::Command::listdeps_darkpan,KENTNL,f
 Dist::Zilla::App::Command::mkrpmspec,SCLOUSE,f
