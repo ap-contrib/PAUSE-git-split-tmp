@@ -595,6 +595,7 @@ IO::All::HTTPS,DANKOGAI,c
 IO::All::HTTPS,INGY,c
 IO::All::HTTPS,ITUB,f
 IO::All::HTTPS,STENNIE,c
+IO::All::IO,INGY,f
 IO::All::LWP,DANKOGAI,c
 IO::All::LWP,INGY,c
 IO::All::LWP,ITUB,f
@@ -603,6 +604,8 @@ IO::All::Link,INGY,f
 IO::All::Link,SMUELLER,c
 IO::All::MLDBM,INGY,f
 IO::All::MLDBM,SMUELLER,c
+IO::All::OO,INGY,f
+IO::All::OO::Object,INGY,f
 IO::All::Pipe,INGY,f
 IO::All::Pipe,SMUELLER,c
 IO::All::SFTP,RSN,f
