@@ -466,6 +466,8 @@ Math::Polynomial::Solve,JGAMBLE,m
 Math::Preference::SVD,SWALTERS,f
 Math::Primality,BUBAFLUB,c
 Math::Primality,LETO,m
+Math::Primality::AKS,LETO,f
+Math::Primality::BigPolynomial,LETO,f
 Math::Prime,GARY,c
 Math::Prime,TELS,m
 Math::Prime::FastSieve,DAVIDO,m
