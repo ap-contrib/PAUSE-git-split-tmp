@@ -29,8 +29,8 @@ Lingua::JA::TFIDF               0.00004  M/MI/MIKI/Lingua-JA-TFIDF-0.00004.tar.g
 Lingua::JA::TFIDF::Base           undef  M/MI/MIKI/Lingua-JA-TFIDF-0.00004.tar.gz
 Lingua::JA::TFIDF::Fetcher        undef  M/MI/MIKI/Lingua-JA-TFIDF-0.00004.tar.gz
 Lingua::JA::TFIDF::Result         undef  M/MI/MIKI/Lingua-JA-TFIDF-0.00004.tar.gz
-Lingua::JA::TFWebIDF               0.30  P/PA/PAWAPAWA/Lingua-JA-TFWebIDF-0.30.tar.gz
-Lingua::JA::TFWebIDF::Result      undef  P/PA/PAWAPAWA/Lingua-JA-TFWebIDF-0.30.tar.gz
+Lingua::JA::TFWebIDF               0.31  P/PA/PAWAPAWA/Lingua-JA-TFWebIDF-0.31.tar.gz
+Lingua::JA::TFWebIDF::Result      undef  P/PA/PAWAPAWA/Lingua-JA-TFWebIDF-0.31.tar.gz
 Lingua::JA::WebIDF                 0.30  P/PA/PAWAPAWA/Lingua-JA-WebIDF-0.30.tar.gz
 Lingua::JA::WebIDF::API::Bing     undef  P/PA/PAWAPAWA/Lingua-JA-WebIDF-0.30.tar.gz
 Lingua::JA::WebIDF::API::Yahoo    undef  P/PA/PAWAPAWA/Lingua-JA-WebIDF-0.30.tar.gz
