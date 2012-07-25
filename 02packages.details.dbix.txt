@@ -12,6 +12,9 @@ DBIx::Tree::NestedSet::SQLite      0.15  D/DJ/DJCP/DBIx-Tree-NestedSet-0.16.tar.
 DBIx::Tree::Persist                1.01  R/RS/RSAVAGE/DBIx-Tree-Persist-1.01.tgz
 DBIx::Tree::Persist::Config        1.01  R/RS/RSAVAGE/DBIx-Tree-Persist-1.01.tgz
 DBIx::Tree::Persist::Create        1.01  R/RS/RSAVAGE/DBIx-Tree-Persist-1.01.tgz
+DBIx::TryAgain                     0.01  B/BD/BDUGGAN/DBIx-TryAgain-0.01.tar.gz
+DBIx::TryAgain::db                    0  B/BD/BDUGGAN/DBIx-TryAgain-0.01.tar.gz
+DBIx::TryAgain::st                    0  B/BD/BDUGGAN/DBIx-TryAgain-0.01.tar.gz
 DBIx::UserDB                        1.6  F/FR/FRAJULAC/Apache-iNcom-0.09.tar.gz
 DBIx::Version                      0.01  J/JB/JBRIGGS/DBIx-Version-0.01.tar.gz
 DBIx::VersionedDDL                 0.16  D/DH/DHORNE/DBIx-VersionedDDL-0.16.tar.gz

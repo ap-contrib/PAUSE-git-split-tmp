@@ -189,6 +189,9 @@ DBIx::Tree::NestedSet::SQLite,DJCP,f
 DBIx::Tree::Persist,RSAVAGE,f
 DBIx::Tree::Persist::Config,RSAVAGE,f
 DBIx::Tree::Persist::Create,RSAVAGE,f
+DBIx::TryAgain,BDUGGAN,f
+DBIx::TryAgain::db,BDUGGAN,f
+DBIx::TryAgain::st,BDUGGAN,f
 DBIx::UserDB,FRAJULAC,f
 DBIx::Vd,AUDREYT,c
 DBIx::Vd,BRICAS,c
