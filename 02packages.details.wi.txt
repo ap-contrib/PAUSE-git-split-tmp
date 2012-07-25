@@ -231,10 +231,10 @@ Win32::GUI::XMLBuilder             0.39  B/BS/BSDZ/Win32-GUI-XMLBuilder-0.39.tar
 Win32::Guidgen                     0.04  J/JO/JOEPHAYES/win32-guidgen-0.04.zip
 Win32::GUIRobot                    0.05  K/KA/KARASIK/Win32-GUIRobot-0.05.tar.gz
 Win32::GUITaskAutomate             0.05  Z/ZO/ZOFFIX/Win32-GUITaskAutomate-0.05.tar.gz
-Win32::GuiTest                     1.59  K/KA/KARASIK/Win32-GuiTest-1.59.tar.gz
+Win32::GuiTest                     1.60  K/KA/KARASIK/Win32-GuiTest-1.60.tar.gz
 Win32::GuiTest::Cmd               undef  K/KA/KARASIK/Win32-GuiTest-1.57.tar.gz
 Win32::GuiTest::Examples          undef  K/KA/KARASIK/Win32-GuiTest-1.57.tar.gz
-Win32::GuiTest::Window             1.59  K/KA/KARASIK/Win32-GuiTest-1.59.tar.gz
+Win32::GuiTest::Window             1.60  K/KA/KARASIK/Win32-GuiTest-1.60.tar.gz
 Win32::Hardlink                    0.11  A/AU/AUDREYT/Win32-Hardlink-0.11.tar.gz
 Win32::HideConsole                 1.00  P/PH/PHATWARES/Win32-HideConsole-1.00.tar.gz
 Win32::HostExplorer                0.01  G/GE/GEOKEVHAT/Win32-HostExplorer-01.zip
