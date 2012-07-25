@@ -653,6 +653,7 @@ Pgreet::I18N,ELAGACHE,f
 Pgreet::I18N::en_us,ELAGACHE,f
 Pgreet::I18N::fr_fr,ELAGACHE,f
 Pgreet::I18N::i_default,ELAGACHE,f
+Pharaoh::BootStrap,ZDM,f
 Phaylon::Class::Cloner,PHAYLON,f
 PheMail::General,DECIUS,f
 PheMail::Server,DECIUS,f
