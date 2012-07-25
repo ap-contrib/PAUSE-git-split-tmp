@@ -609,7 +609,7 @@ Mo::Mouse                          0.31  I/IN/INGY/Mo-0.31.tar.gz
 Mo::option                         0.31  I/IN/INGY/Mo-0.31.tar.gz
 Mo::required                       0.31  I/IN/INGY/Mo-0.31.tar.gz
 Mo::xs                             0.31  I/IN/INGY/Mo-0.31.tar.gz
-Mo::xxx                            0.11  I/IN/INGY/Mo-xxx-0.11.tar.gz
+Mo::xxx                            0.12  I/IN/INGY/Mo-xxx-0.12.tar.gz
 MobaSiF::Template                  0.02  B/BO/BOBPP/MobaSiF-Template-0.02.tar.gz
 MobaSiF::Template::Compiler        0.03  B/BO/BOBPP/MobaSiF-Template-0.02.tar.gz
 Mobile::Ads                    0.000002  T/TC/TCHATZI/Mobile-Ads-0.0.2.tar.gz
