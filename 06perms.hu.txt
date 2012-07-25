@@ -152,6 +152,7 @@ I18N::Langinfo,NWCLARK,f
 I18N::Langinfo,P5P,c
 I18N::Langinfo,RJBS,c
 I18N::Langinfo::Wide,KRYDE,f
+I18N::String,DRTECH,f
 I18N::WideMulti,JHI,m
 I18NFool,BPOSTLE,f
 I18NFool::Extractor,BPOSTLE,f

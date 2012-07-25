@@ -365,6 +365,7 @@ MooX::Cmd,GETTY,f
 MooX::HasEnv,GETTY,f
 MooX::Option,CELOGEEK,f
 MooX::Options,CELOGEEK,f
+MooX::Options::Role,CELOGEEK,f
 MooX::Role,GETTY,f
 MooX::Singleton,AJGB,f
 MooX::Types::MooseLike,MATEU,f

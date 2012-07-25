@@ -129,6 +129,7 @@ I18N::Langinfo::Wide                  7  K/KR/KRYDE/I18N-Langinfo-Wide-7.tar.gz
 I18N::LangTags                     0.35  L/LB/LBROCARD/perl-5.12.4.tar.gz
 I18N::LangTags::Detect             1.04  L/LB/LBROCARD/perl-5.12.4.tar.gz
 I18N::LangTags::List               0.35  L/LB/LBROCARD/perl-5.12.4.tar.gz
+I18N::String                       0.01  D/DR/DRTECH/I18N-String-0.01.tar.gz
 i18n::string                       0.07  A/AU/AUTRIJUS/i18n-0.07.tar.gz
 i18n::var                          0.07  A/AU/AUTRIJUS/i18n-0.07.tar.gz
 I18NFool                           0.31  B/BP/BPOSTLE/I18NFool-0.31.tar.gz
