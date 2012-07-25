@@ -126,9 +126,9 @@ Geo::Coder::Canada::Error          0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.g
 Geo::Coder::Canada::Response       0.01  J/JE/JETTRA/Geo-Coder-Canada-0.01.tar.gz
 Geo::Coder::Cloudmade               0.2  F/FR/FRIFFIN/Geo-Coder-Cloudmade-0.2.tar.gz
 Geo::Coder::Geocoder::US          0.003  W/WY/WYANT/Geo-Coder-Geocoder-US-0.003.tar.gz
-Geo::Coder::Google                 0.10  A/AR/ARCANEZ/Geo-Coder-Google-0.10.tar.gz
-Geo::Coder::Google::V2             0.10  A/AR/ARCANEZ/Geo-Coder-Google-0.10.tar.gz
-Geo::Coder::Google::V3             0.10  A/AR/ARCANEZ/Geo-Coder-Google-0.10.tar.gz
+Geo::Coder::Google                 0.11  A/AR/ARCANEZ/Geo-Coder-Google-0.11.tar.gz
+Geo::Coder::Google::V2             0.11  A/AR/ARCANEZ/Geo-Coder-Google-0.11.tar.gz
+Geo::Coder::Google::V3             0.11  A/AR/ARCANEZ/Geo-Coder-Google-0.11.tar.gz
 Geo::Coder::GoogleMaps              0.4  D/DU/DUPUISARN/Geo-Coder-GoogleMaps-0.4.tar.gz
 Geo::Coder::GoogleMaps::Location    0.4  D/DU/DUPUISARN/Geo-Coder-GoogleMaps-0.4.tar.gz
 Geo::Coder::GoogleMaps::Response    0.4  D/DU/DUPUISARN/Geo-Coder-GoogleMaps-0.4.tar.gz
