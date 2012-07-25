@@ -577,7 +577,7 @@ Test::MockCommand::Recorder       undef  K/KY/KYZ/Test-MockCommand-0.02.tar.gz
 Test::MockCommand::Result         undef  K/KY/KYZ/Test-MockCommand-0.02.tar.gz
 Test::MockCommand::ScalarReadline undef  K/KY/KYZ/Test-MockCommand-0.02.tar.gz
 Test::MockCommand::TiedFH         undef  K/KY/KYZ/Test-MockCommand-0.02.tar.gz
-Test::MockDBI                      0.65  A/AF/AFF/Test-MockDBI-0.65.tar.gz
+Test::MockDBI                      0.66  A/AF/AFF/Test-MockDBI-0.66.tar.gz
 Test::MockHTTP                    undef  K/KA/KAPPA/Net-FriendFeed-0.93.tar.gz
 Test::MockModule                   0.05  S/SI/SIMONFLK/Test-MockModule-0.05.tar.gz
 Test::MockObject               1.20120301  C/CH/CHROMATIC/Test-MockObject-1.20120301.tar.gz
