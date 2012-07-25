@@ -93,6 +93,7 @@ No::PersonNr,GAAS,m
 No::Sort,GAAS,m
 No::Telenor,GAAS,m
 No::Worries,LCONS,f
+No::Worries::DN,LCONS,f
 No::Worries::Date,LCONS,f
 No::Worries::Die,LCONS,f
 No::Worries::Dir,LCONS,f
