@@ -1376,6 +1376,7 @@ Dist::Zilla::Plugin::MetaYAML,RJBS,f
 Dist::Zilla::Plugin::MetaYaml,RJBS,f
 Dist::Zilla::Plugin::Metadata,CJM,f
 Dist::Zilla::Plugin::MinimumPerl,APOCAL,f
+Dist::Zilla::Plugin::MinimumPrereqs,BBYRD,f
 Dist::Zilla::Plugin::MinimumVersionTests,DOHERTY,c
 Dist::Zilla::Plugin::MinimumVersionTests,MARCEL,f
 Dist::Zilla::Plugin::MinimumVersionTests,XENO,c
@@ -1442,6 +1443,7 @@ Dist::Zilla::Plugin::Prepender,JQUELIN,f
 Dist::Zilla::Plugin::Prereq,RJBS,f
 Dist::Zilla::Plugin::Prereqs,RJBS,f
 Dist::Zilla::Plugin::Prereqs::DarkPAN,KENTNL,f
+Dist::Zilla::Plugin::PrereqsClean,BBYRD,f
 Dist::Zilla::Plugin::PreviousVersion::Changelog,YANICK,f
 Dist::Zilla::Plugin::ProgCriticTests,MITHALDU,f
 Dist::Zilla::Plugin::PruneCruft,RJBS,f
@@ -1690,6 +1692,7 @@ Dist::Zilla::PluginBundle::NUFFIN,NUFFIN,f
 Dist::Zilla::PluginBundle::OLIVER,OLIVER,f
 Dist::Zilla::PluginBundle::PDONELAN,PDONELAN,f
 Dist::Zilla::PluginBundle::PadrePlugin,AZAWAWI,f
+Dist::Zilla::PluginBundle::Prereqs,BBYRD,f
 Dist::Zilla::PluginBundle::RBO,RBO,f
 Dist::Zilla::PluginBundle::RBUELS,RBUELS,f
 Dist::Zilla::PluginBundle::RJBS,RJBS,f
