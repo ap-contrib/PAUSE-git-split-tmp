@@ -705,6 +705,7 @@ MooseX::Role::RelatedClassRoles,SARTAK,c
 MooseX::Role::Restricted,GBARR,f
 MooseX::Role::Searchable,GPHAT,f
 MooseX::Role::Strict,OVID,f
+MooseX::Role::Tempdir,IAMB,f
 MooseX::Role::Timer,MILA,f
 MooseX::Role::TraitConstructor,CODEREPOS,c
 MooseX::Role::TraitConstructor,DOY,c

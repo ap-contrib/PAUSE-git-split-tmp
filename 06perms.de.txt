@@ -1760,6 +1760,7 @@ Dist::Zilla::Role::Plugin,RJBS,f
 Dist::Zilla::Role::PluginBundle,RJBS,f
 Dist::Zilla::Role::PluginBundle::Config::Slicer,RWSTAUNER,f
 Dist::Zilla::Role::PluginBundle::Easy,RJBS,f
+Dist::Zilla::Role::PluginBundle::Merged,BBYRD,f
 Dist::Zilla::Role::PluginBundle::PluginRemover,RWSTAUNER,f
 Dist::Zilla::Role::PrereqSource,RJBS,f
 Dist::Zilla::Role::PrereqSource::External,KENTNL,f
