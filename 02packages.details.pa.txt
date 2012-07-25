@@ -256,8 +256,6 @@ PCL::Simple                        1.01  P/PR/PRL/PCL-Simple-1.02.tar.gz
 PCSC                                1.0  T/TC/TCHINCHOW/pcsc-perl-1.0.8.tar.gz
 PCSC::Card                          1.0  T/TC/TCHINCHOW/pcsc-perl-1.0.8.tar.gz
 PCX::Loader                        0.50  J/JB/JBRYAN/PCX-Loader-0.50.zip
-PDB::Atom                          0.01  R/RU/RULIX/PDB-Molecule-0.01.tar.gz
-PDB::Molecule                      0.01  R/RU/RULIX/PDB-Molecule-0.01.tar.gz
 PDF                                1.11  A/AN/ANTRO/PDF-111.tgz
 PDF::API2                         2.019  S/SS/SSIMMS/PDF-API2-2.019.tar.gz
 PDF::API2::Annotation             2.019  S/SS/SSIMMS/PDF-API2-2.019.tar.gz
