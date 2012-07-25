@@ -488,9 +488,9 @@ Net::LDAP::Shell::Parse               1  L/LO/LOOSIFER/ldapsh-2.00.tar.gz
 Net::LDAP::Shell::Parser           1.05  L/LO/LOOSIFER/ldapsh-2.00.tar.gz
 Net::LDAP::Shell::Schema          undef  L/LO/LOOSIFER/ldapsh-2.00.tar.gz
 Net::LDAP::Shell::Util                1  L/LO/LOOSIFER/ldapsh-2.00.tar.gz
-Net::LDAP::SimpleServer        0.000016  R/RU/RUSSOZ/Net-LDAP-SimpleServer-0.0.16.tar.gz
-Net::LDAP::SimpleServer::LDIFStore 0.000016  R/RU/RUSSOZ/Net-LDAP-SimpleServer-0.0.16.tar.gz
-Net::LDAP::SimpleServer::ProtocolHandler 0.000016  R/RU/RUSSOZ/Net-LDAP-SimpleServer-0.0.16.tar.gz
+Net::LDAP::SimpleServer        0.000017  R/RU/RUSSOZ/Net-LDAP-SimpleServer-0.0.17.tar.gz
+Net::LDAP::SimpleServer::LDIFStore 0.000017  R/RU/RUSSOZ/Net-LDAP-SimpleServer-0.0.17.tar.gz
+Net::LDAP::SimpleServer::ProtocolHandler 0.000017  R/RU/RUSSOZ/Net-LDAP-SimpleServer-0.0.17.tar.gz
 Net::LDAP::Util                    0.12  M/MA/MARSCHAP/perl-ldap-0.44.tar.gz
 Net::LDAPapi                   3.000003  M/MI/MISHIKAL/Net-LDAPapi-3.0.3.tar.gz
 Net::LDAPI                         0.03  M/MA/MARSCHAP/perl-ldap-0.44.tar.gz
