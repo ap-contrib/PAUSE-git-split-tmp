@@ -65,7 +65,7 @@ Catalyst::View::TT::FunctionGenerator 0.02  N/NU/NUFFIN/Catalyst-View-TT-Functio
 Catalyst::View::TT::Layout         0.01  C/CH/CHUNZI/Catalyst-View-TT-Layout-0.01.tar.gz
 Catalyst::View::TT::XHTML         1.103  B/BO/BOBTFISH/Catalyst-View-ContentNegotiation-XHTML-1.103.tar.gz
 Catalyst::View::vCard              0.04  B/BR/BRICAS/Catalyst-View-vCard-0.04.tar.gz
-Catalyst::View::Wkhtmltopdf    0.005001  A/AR/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1.tar.gz
+Catalyst::View::Wkhtmltopdf    0.005002  A/AR/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.2.tar.gz
 Catalyst::View::XML::Feed          0.07  M/MS/MSTRAT/Catalyst-View-XML-Feed-0.07.tar.gz
 Catalyst::View::XML::Generator     0.02  N/NA/NACHBAUR/Catalyst-View-XML-Generator-0.02.tar.gz
 Catalyst::View::XML::Hash::LX      0.04  G/GU/GUGU/Catalyst-View-XML-Hash-LX-0.04.tar.gz
