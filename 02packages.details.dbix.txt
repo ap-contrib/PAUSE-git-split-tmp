@@ -979,7 +979,7 @@ Devel::GDB::Reflect::DelegateProvider::STL undef  A/AF/AFN/Devel-GDB-Reflect-0.2
 Devel::GDB::Reflect::MessageMethod undef  A/AF/AFN/Devel-GDB-Reflect-0.2.tar.gz
 Devel::GDB::Reflect::PrettyPrinter undef  A/AF/AFN/Devel-GDB-Reflect-0.2.tar.gz
 Devel::Gladiator                   0.01  N/NU/NUFFIN/Devel-Gladiator-0.01.tar.gz
-Devel::GlobalDestruction           0.06  R/RI/RIBASUSHI/Devel-GlobalDestruction-0.06.tar.gz
+Devel::GlobalDestruction           0.07  F/FL/FLORA/Devel-GlobalDestruction-0.07.tar.gz
 Devel::Graph                       0.12  T/TE/TELS/devel/Devel-Graph-0.12.tar.gz
 Devel::GraphVizProf                2.10  R/RS/RSAVAGE/GraphViz-2.10.tgz
 Devel::Hexdump                     0.02  M/MO/MONS/Devel-Hexdump-0.02.tar.gz
