@@ -1220,7 +1220,7 @@ Devel::Scooby                      4.12  B/BA/BARRYPJ/Devel-Scooby-4.12.tar.gz
 Devel::SearchINC               2.103460  M/MA/MARCEL/Devel-SearchINC-2.103460.tar.gz
 Devel::SelfStubber                 1.05  F/FL/FLORA/Devel-SelfStubber-1.05.tar.gz
 Devel::SimpleTrace                 0.08  S/SA/SAPER/Devel-SimpleTrace-0.08.tar.gz
-Devel::Size                        0.77  N/NW/NWCLARK/Devel-Size-0.77.tar.gz
+Devel::Size                        0.78  N/NW/NWCLARK/Devel-Size-0.78.tar.gz
 Devel::Size::Report                0.13  T/TE/TELS/devel/Devel-Size-Report-0.13.tar.gz
 Devel::SlowBless                   0.04  B/BH/BHOLZMAN/Devel-SlowBless-0.04.tar.gz
 Devel::SmallProf                   2.02  S/SA/SALVA/Devel-SmallProf-2.02.tar.gz
