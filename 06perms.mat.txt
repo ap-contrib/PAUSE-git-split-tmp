@@ -539,6 +539,7 @@ Math::Round::Var::Float,EWILHELM,f
 Math::Round::Var::Fraction,EWILHELM,f
 Math::RungeKutta,PJB,f
 Math::SO3,FISCH,f
+Math::SegmentedEnvelope,EGOR,f
 Math::Sequence,SMUELLER,f
 Math::Series,SMUELLER,f
 Math::SigFigs,SBECK,m

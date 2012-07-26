@@ -215,14 +215,14 @@ UNIVERSAL                          1.09  F/FL/FLORA/perl-5.15.4.tar.gz
 UNIVERSAL::Acme                    0.01  S/SE/SEANO/UNIVERSAL-Acme-0.01.tar.gz
 UNIVERSAL::AUTHORITY              0.005  T/TO/TOBYINK/UNIVERSAL-AUTHORITY-0.005.tar.gz
 UNIVERSAL::AUTHORITY::Lexical     0.002  T/TO/TOBYINK/UNIVERSAL-AUTHORITY-Lexical-0.002.tar.gz
-UNIVERSAL::can                 1.20110617  C/CH/CHROMATIC/UNIVERSAL-can-1.20110617.tar.gz
+UNIVERSAL::can                 1.20120726  C/CH/CHROMATIC/UNIVERSAL-can-1.20120726.tar.gz
 UNIVERSAL::canAUTOLOAD             0.01  R/RC/RCLAMP/UNIVERSAL-canAUTOLOAD-0.01.tar.gz
 UNIVERSAL::cant                0.000001  D/DM/DMUEY/UNIVERSAL-cant-v0.0.1.tar.gz
 UNIVERSAL::derived_classes         0.02  T/TA/TAMASHIRO/UNIVERSAL-derived_classes-0.02.tar.gz
 UNIVERSAL::DOES                   0.004  G/GF/GFUJI/UNIVERSAL-DOES-0.004.tar.gz
 UNIVERSAL::dump                    0.06  E/EL/ELIZABETH/UNIVERSAL-dump-0.06.tar.gz
 UNIVERSAL::filename                0.03  S/SH/SHELLING/UNIVERSAL-filename-0.03.tar.gz
-UNIVERSAL::isa                 1.20120418  C/CH/CHROMATIC/UNIVERSAL-isa-1.20120418.tar.gz
+UNIVERSAL::isa                 1.20120726  C/CH/CHROMATIC/UNIVERSAL-isa-1.20120726.tar.gz
 UNIVERSAL::moniker                 0.08  K/KA/KASEI/UNIVERSAL-moniker-0.08.tar.gz
 UNIVERSAL::Object::ID            v0.1.2  M/MS/MSCHWERN/Object-ID-v0.1.2.tar.gz
 UNIVERSAL::Object::Method         undef  G/GU/GUGOD/Object-Method-0.01.tar.gz
