@@ -696,7 +696,7 @@ Net::StackExchange::Role::Response 0.102740  H/HA/HAGGAI/Net-StackExchange-0.102
 Net::StackExchange::Route      0.102740  H/HA/HAGGAI/Net-StackExchange-0.102740.tar.gz
 Net::StackExchange::Types      0.102740  H/HA/HAGGAI/Net-StackExchange-0.102740.tar.gz
 Net::Starnet::DataAccounting        1.2  S/SP/SPOON/Net-Starnet-DataAccounting-1.2.tar.gz
-Net::Statsd                        0.05  C/CO/COSIMO/Net-Statsd-0.05.tar.gz
+Net::Statsd                        0.06  C/CO/COSIMO/Net-Statsd-0.06.tar.gz
 Net::STF::Bucket                  undef  D/DM/DMAKI/Net-STF-Client-1.00.tar.gz
 Net::STF::Client                   1.00  D/DM/DMAKI/Net-STF-Client-1.00.tar.gz
 Net::STF::Object                  undef  D/DM/DMAKI/Net-STF-Client-1.00.tar.gz
