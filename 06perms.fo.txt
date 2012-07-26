@@ -44,12 +44,6 @@ FormFu::Controller::Root,PSHANGOV,f
 FormFu::Model::Books,PSHANGOV,f
 FormFu::View::TT,PSHANGOV,f
 FormInput,JONADAB,f
-FormMagick,SKUD,c
-FormMagick::L10N,SKUD,c
-FormMagick::L10N::en,SKUD,c
-FormMagick::L10N::fr,SKUD,c
-FormMagick::TagMaker,SKUD,c
-FormMagick::Validator,SKUD,c
 FormUserAgent,YOHAMED,f
 FormValidator::LazyWay,TARO,f
 FormValidator::LazyWay,TOMYHERO,c
