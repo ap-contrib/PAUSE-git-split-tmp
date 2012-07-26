@@ -114,6 +114,8 @@ Games::Die::Dice,RJBS,f
 Games::Diplomacy,JAMESTHOM,m
 Games::Dissociate,AVIF,m
 Games::Domino,MANWAR,m
+Games::Domino::Player,MANWAR,f
+Games::Domino::Tile,MANWAR,f
 Games::DungeonMaker,ACDALTON,m
 Games::DungeonMaker::Builder,ACDALTON,f
 Games::DungeonMaker::Config,ACDALTON,f
