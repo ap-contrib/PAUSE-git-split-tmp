@@ -433,13 +433,6 @@ envy_config,JPRIT,f
 ep::MojoApp,MBP,f
 error,SFLEX,f
 errors,INGY,f
-esmith,SKUD,c
-esmith::cgi,SKUD,c
-esmith::config,SKUD,c
-esmith::db,SKUD,c
-esmith::ethernet,SKUD,c
-esmith::event,SKUD,c
-esmith::util,SKUD,c
 eta,BOOK,f
 everywhere,AWWAIID,f
 ex::caution,ARC,c
