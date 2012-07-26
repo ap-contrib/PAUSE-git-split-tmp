@@ -572,7 +572,7 @@ Bot::Cobalt::Plugin::Silly::Rot13     0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.00
 Bot::Cobalt::Plugin::Silly::ThreatLevel 0  A/AV/AVENJ/Bot-Cobalt-Plugin-Silly-0.001.tar.gz
 Bot::Cobalt::Plugin::Version      0.014  A/AV/AVENJ/Bot-Cobalt-0.014.tar.gz
 Bot::Cobalt::Plugin::WWW          0.014  A/AV/AVENJ/Bot-Cobalt-0.014.tar.gz
-Bot::Cobalt::Plugin::YouTube      0.001  A/AV/AVENJ/Bot-Cobalt-Plugin-YouTube-0.001.tar.gz
+Bot::Cobalt::Plugin::YouTube      0.002  A/AV/AVENJ/Bot-Cobalt-Plugin-YouTube-0.002.tar.gz
 Bot::Cobalt::Serializer           0.014  A/AV/AVENJ/Bot-Cobalt-0.014.tar.gz
 Bot::Cobalt::Timer                0.014  A/AV/AVENJ/Bot-Cobalt-0.014.tar.gz
 Bot::Cobalt::Utils                0.014  A/AV/AVENJ/Bot-Cobalt-0.014.tar.gz
