@@ -421,7 +421,7 @@ RT::Extension::Converter::RT3::Config undef  F/FA/FALCONE/RT-Extension-Converter
 RT::Extension::CustomField::Checkbox 0.03  R/RU/RUZ/RT-Extension-CustomField-Checkbox-0.03.tar.gz
 RT::Extension::CustomField::HideEmptyValues 0.02  T/TS/TSIBLEY/RT-Extension-CustomField-HideEmptyValues-0.02.tar.gz
 RT::Extension::CustomFieldsOnUpdate 0.01  R/RU/RUZ/RT-Extension-CustomFieldsOnUpdate-0.01.tar.gz
-RT::Extension::CustomizeContentType 0.01  S/SU/SUNNAVY/RT-Extension-CustomizeContentType-0.01.tar.gz
+RT::Extension::CustomizeContentType 0.02  S/SU/SUNNAVY/RT-Extension-CustomizeContentType-0.02.tar.gz
 RT::Extension::DateDiscordian      0.01  F/FA/FALCONE/RT-Extension-DateDiscordian-0.01.tar.gz
 RT::Extension::DateTAI64           0.01  F/FA/FALCONE/RT-Extension-DateTAI64-0.01.tar.gz
 RT::Extension::Drafts              0.01  E/EL/ELACOUR/RT-Extension-Drafts-0.01.tar.gz

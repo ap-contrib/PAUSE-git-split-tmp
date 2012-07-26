@@ -929,6 +929,7 @@ RT::Extension::CustomField::HideEmptyValues,RUZ,c
 RT::Extension::CustomField::HideEmptyValues,TSIBLEY,f
 RT::Extension::CustomFieldsOnUpdate,RUZ,f
 RT::Extension::CustomizeContentType,ALEXMV,c
+RT::Extension::CustomizeContentType,CBRANDT,c
 RT::Extension::CustomizeContentType,FALCONE,c
 RT::Extension::CustomizeContentType,JESSE,c
 RT::Extension::CustomizeContentType,RUZ,c
