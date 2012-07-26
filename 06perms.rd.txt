@@ -939,6 +939,7 @@ RT::Extension::DateDiscordian,FALCONE,f
 RT::Extension::DateTAI64,FALCONE,f
 RT::Extension::Drafts,ELACOUR,f
 RT::Extension::EasyRelatedTickets,ALEXMV,c
+RT::Extension::EasyRelatedTickets,CBRANDT,c
 RT::Extension::EasyRelatedTickets,FALCONE,c
 RT::Extension::EasyRelatedTickets,JASONMAY,c
 RT::Extension::EasyRelatedTickets,JESSE,c
@@ -962,6 +963,7 @@ RT::Extension::ExtractSubjectTagOnTransaction,TSIBLEY,c
 RT::Extension::Gravatar,CLOOS,f
 RT::Extension::HistoryFilter,CLOOS,f
 RT::Extension::JSGantt,ALEXMV,c
+RT::Extension::JSGantt,CBRANDT,c
 RT::Extension::JSGantt,FALCONE,c
 RT::Extension::JSGantt,JASONMAY,c
 RT::Extension::JSGantt,JESSE,c
@@ -1004,6 +1006,7 @@ RT::Extension::MoveRules,TSIBLEY,f
 RT::Extension::MoveRules::Test,RUZ,c
 RT::Extension::MoveRules::Test,TSIBLEY,f
 RT::Extension::Nagios,ALEXMV,c
+RT::Extension::Nagios,CBRANDT,c
 RT::Extension::Nagios,FALCONE,c
 RT::Extension::Nagios,JASONMAY,c
 RT::Extension::Nagios,JESSE,c
