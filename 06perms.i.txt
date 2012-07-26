@@ -376,6 +376,7 @@ Inline::Guile,MSTROUT,c
 Inline::Guile,SAMTREGAR,m
 Inline::Interp,IAMCAL,f
 Inline::Interp::Loader,IAMCAL,f
+Inline::JSON,KILNA,f
 Inline::Java,PATL,m
 Inline::Java::Array,PATL,f
 Inline::Java::Array::Normalizer,PATL,f
