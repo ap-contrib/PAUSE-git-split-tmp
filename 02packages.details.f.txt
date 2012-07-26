@@ -424,6 +424,8 @@ Games::Cards::CardSet              1.45  A/AK/AKARGER/Games-Cards-1.45.tar.gz
 Games::Cards::Deck                 1.45  A/AK/AKARGER/Games-Cards-1.45.tar.gz
 Games::Cards::Game                 1.45  A/AK/AKARGER/Games-Cards-1.45.tar.gz
 Games::Cards::Hand                 1.45  A/AK/AKARGER/Games-Cards-1.45.tar.gz
+Games::Cards::Pair                 0.01  M/MA/MANWAR/Games-Cards-Pair-0.01.tar.gz
+Games::Cards::Pair::Card           0.01  M/MA/MANWAR/Games-Cards-Pair-0.01.tar.gz
 Games::Cards::Pile                 1.45  A/AK/AKARGER/Games-Cards-1.45.tar.gz
 Games::Cards::Poker            1.002565  P/PI/PIP/Games-Cards-Poker-1.2.565CHh5.tgz
 Games::Cards::Queue                1.45  A/AK/AKARGER/Games-Cards-1.45.tar.gz
