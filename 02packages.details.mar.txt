@@ -68,9 +68,9 @@ Markdent::Simple::Document         0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
 Markdent::Simple::Fragment         0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
 Markdent::Types                    0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
 Markdent::Types::Internal          0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
-Markdown::Pod                     0.002  K/KE/KEEDI/Markdown-Pod-0.002.tar.gz
-Markdown::Pod::Handler            0.002  K/KE/KEEDI/Markdown-Pod-0.002.tar.gz
-Markdown::Pod::script             0.002  K/KE/KEEDI/Markdown-Pod-0.002.tar.gz
+Markdown::Pod                     0.003  K/KE/KEEDI/Markdown-Pod-0.003.tar.gz
+Markdown::Pod::Handler            0.003  K/KE/KEEDI/Markdown-Pod-0.003.tar.gz
+Markdown::Pod::script             0.003  K/KE/KEEDI/Markdown-Pod-0.003.tar.gz
 Markup::Content                     1.0  B/BP/BPRUDENT/Markup-Content-1.0.1.tar.gz
 Markup::MatchNode                   1.0  B/BP/BPRUDENT/Markup-MatchNode-1.0.0.tar.gz
 Markup::MatchTree                   1.0  B/BP/BPRUDENT/Markup-MatchTree-1.0.0.tar.gz

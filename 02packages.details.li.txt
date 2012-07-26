@@ -440,7 +440,7 @@ Linux::CDROM::Cookbook            undef  V/VP/VPARSEVAL/Linux-CDROM-0.02.tar.gz
 Linux::Clone                       0.01  M/ML/MLEHMANN/Linux-Clone-0.01.tar.gz
 Linux::Cpuinfo                      1.7  J/JS/JSTOWE/Linux-Cpuinfo-1.7.tar.gz
 Linux::Cpuinfo::Cpu                 1.7  J/JS/JSTOWE/Linux-Cpuinfo-1.7.tar.gz
-Linux::DesktopFiles                0.05  T/TR/TRIZEN/Linux-DesktopFiles-0.05.tar.gz
+Linux::DesktopFiles                0.06  T/TR/TRIZEN/Linux-DesktopFiles-0.06.tar.gz
 Linux::Distribution                0.21  C/CH/CHORNY/Linux-Distribution-0.21.tar.gz
 Linux::Distribution::Packages      0.05  J/JU/JUDITH/Linux-Distribution-Packages-0.05.tar.gz
 Linux::Distribution::Packages::dpkg 0.05  J/JU/JUDITH/Linux-Distribution-Packages-0.05.tar.gz
