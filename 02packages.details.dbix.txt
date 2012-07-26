@@ -928,7 +928,7 @@ Devel::ebug::Wx::View::Output     undef  M/MB/MBARBON/Devel-ebug-Wx-0.09.tar.gz
 Devel::ebug::Wx::View::PackageBrowser undef  M/MB/MBARBON/Devel-ebug-Wx-0.09.tar.gz
 Devel::ebug::Wx::View::StackTrace undef  M/MB/MBARBON/Devel-ebug-Wx-0.09.tar.gz
 Devel::EdTrace                     0.10  E/ES/ESP/Devel-EdTrace-0.95.tar.gz
-Devel::EndStats                    0.06  S/SH/SHARYANTO/Devel-EndStats-0.06.tar.gz
+Devel::EndStats                    0.07  S/SH/SHARYANTO/Devel-EndStats-0.07.tar.gz
 Devel::EnforceEncapsulation        0.50  C/CL/CLOTHO/Devel-EnforceEncapsulation-0.50.tgz
 Devel::eps                     0.000003  E/EW/EWILHELM/Devel-TraceDeps-v0.0.3.tar.gz
 Devel::Eval                        1.01  A/AD/ADAMK/Devel-Eval-1.01.tar.gz
