@@ -487,6 +487,7 @@ File::Temp::Dir                    0.22  T/TJ/TJENNESS/File-Temp-0.22.tar.gz
 File::Temp::Trace                  0.02  R/RR/RRWO/File-Temp-Trace-0.02.tar.gz
 File::Tempdir                      0.02  N/NA/NANARDON/File-Tempdir-0.02.tar.gz
 File::Tempdir::ForPackage        v0.1.0  K/KE/KENTNL/File-Tempdir-ForPackage-0.1.0.tar.gz
+File::Tempdir::ForPackage::FromArchive v0.1.0  K/KE/KENTNL/File-Tempdir-ForPackage-FromArchive-0.1.0.tar.gz
 File::TinyLock                      1.1  J/JK/JKISTER/File-TinyLock-1.01.tgz
 File::Tools                        0.05  S/SZ/SZABGAB/File-Tools-0.05.tar.gz
 File::Touch                        0.08  N/NW/NWETTERS/File-Touch-0.08.tar.gz

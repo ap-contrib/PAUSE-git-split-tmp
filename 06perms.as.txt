@@ -209,6 +209,7 @@ AsyncAwhileRole,RCAPUTO,f
 AsyncData,MJD,f
 AsyncTimeout,MJD,f
 Async_Editor,GROMMIER,f
+Asynchat,SEBA,m
 Asyncore,SEBA,m
 Asyncore::Dispatcher,SEBA,f
 AtExit,BRADAPP,m
