@@ -55,7 +55,7 @@ Catalyst::View::Tenjin         0.050001  I/ID/IDOPEREL/Catalyst-View-Tenjin-0.05
 Catalyst::View::Text::Template    0.007  R/RJ/RJBS/Catalyst-View-Text-Template-0.007.tar.gz
 Catalyst::View::TextForge          0.02  M/MA/MAURICE/Catalyst-View-TextForge-0.02.tar.gz
 Catalyst::View::Thumbnail          0.01  J/JO/JONALLEN/Catalyst-View-Thumbnail-0.01.tar.gz
-Catalyst::View::Thumbnail::Simple 0.0009  A/AE/AESOP/Catalyst-View-Thumbnail-Simple-0.0009.tar.gz
+Catalyst::View::Thumbnail::Simple 0.001  A/AE/AESOP/Catalyst-View-Thumbnail-Simple-0.0010.tar.gz
 Catalyst::View::TT                 0.39  B/BO/BOBTFISH/Catalyst-View-TT-0.39.tar.gz
 Catalyst::View::TT::Alloy       0.00003  P/PE/PERLER/Catalyst-View-TT-Alloy-0.00003.tar.gz
 Catalyst::View::TT::ControllerLocal 0.02  J/JO/JOHANL/Catalyst-View-TT-ControllerLocal-0.02.tar.gz
