@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   118769
-Last-Updated: Fri, 27 Jul 2012 02:19:03 GMT
+Last-Updated: Fri, 27 Jul 2012 02:27:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -399,8 +399,8 @@ Acme::Fork::Bomb                    2.0  H/HA/HANENKAMP/Acme-Fork-Bomb-2.0.tar.g
 Acme::Fork::Lazy                   0.02  O/OS/OSFAMERON/Acme-Fork-Lazy-0.02.tar.gz
 Acme::Geo::Whitwell::Name          0.04  M/MC/MCMAHON/Acme-Geo-Whitwell-Name-0.04.tar.gz
 Acme::Github::Test                 0.01  M/MA/MALLEN/Acme-Github-Test-0.01.tar.gz
-Acme::Given::Hash                 0.003  N/NO/NOTBENH/Acme-Given-Hash-0.003.tar.gz
-Acme::Given::Hash::Object         0.003  N/NO/NOTBENH/Acme-Given-Hash-0.003.tar.gz
+Acme::Given::Hash                 0.004  N/NO/NOTBENH/Acme-Given-Hash-0.004.tar.gz
+Acme::Given::Hash::Object         0.004  N/NO/NOTBENH/Acme-Given-Hash-0.004.tar.gz
 Acme::Globule                     0.004  M/MO/MOOLI/Acme-Globule-0.004.tar.gz
 Acme::Globule::Range              0.004  M/MO/MOOLI/Acme-Globule-0.004.tar.gz
 Acme::Goatse                       0.02  I/IA/IAMCAL/Acme-Goatse-0.02.tar.gz
