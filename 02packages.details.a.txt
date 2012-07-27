@@ -1,7 +1,7 @@
 Astro::Correlate::Method::RITMatch 0.02  B/BR/BRADC/Astro-Correlate-1.0.tar.gz
 Astro::Cosmology                   0.90  D/DJ/DJBURKE/Astro-Cosmology-0.90.tar.gz
 Astro::DSS                          1.7  A/AA/AALLAN/Astro-DSS-1.6.1.tar.gz
-Astro::FITS::CFITSIO               1.08  P/PR/PRATZLAFF/Astro-FITS-CFITSIO-1.08.tar.gz
+Astro::FITS::CFITSIO               1.09  P/PR/PRATZLAFF/Astro-FITS-CFITSIO-1.09.tar.gz
 Astro::FITS::CFITSIO::CheckStatus  0.03  D/DJ/DJERIUS/Astro-FITS-CFITSIO-CheckStatus-0.03.tar.gz
 Astro::FITS::CFITSIO::Simple       0.18  D/DJ/DJERIUS/Astro-FITS-CFITSIO-Simple-0.18.tar.gz
 Astro::FITS::CFITSIO::Simple::Cleanup 0.18  D/DJ/DJERIUS/Astro-FITS-CFITSIO-Simple-0.18.tar.gz
