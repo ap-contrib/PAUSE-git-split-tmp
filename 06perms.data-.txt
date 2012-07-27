@@ -1159,6 +1159,9 @@ Data::Unixish::Implementation,SHARYANTO,f
 Data::Unixish::cat,SHARYANTO,f
 Data::Unixish::date,SHARYANTO,f
 Data::Unixish::head,SHARYANTO,f
+Data::Unixish::pick,SHARYANTO,f
+Data::Unixish::rev,SHARYANTO,f
+Data::Unixish::shuf,SHARYANTO,f
 Data::Unixish::sort,SHARYANTO,f
 Data::Unixish::sum,SHARYANTO,f
 Data::Unixish::tail,SHARYANTO,f
