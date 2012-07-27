@@ -1191,6 +1191,9 @@ Games::Shogi::Taikyoku             0.01  J/JG/JGOFF/Games-Shogi-0.03.tar.gz
 Games::Shogi::Tenjiku              0.01  J/JG/JGOFF/Games-Shogi-0.03.tar.gz
 Games::Shogi::Tori                 0.01  J/JG/JGOFF/Games-Shogi-0.03.tar.gz
 Games::Shogi::Wa                   0.01  J/JG/JGOFF/Games-Shogi-0.03.tar.gz
+Games::Snake                   0.000001  J/JT/JTPALMER/Games-Snake-0.000001.tar.gz
+Games::Snake::Level            0.000001  J/JT/JTPALMER/Games-Snake-0.000001.tar.gz
+Games::Snake::Player           0.000001  J/JT/JTPALMER/Games-Snake-0.000001.tar.gz
 Games::Sokoban                     1.01  M/ML/MLEHMANN/Games-Sokoban-1.01.tar.gz
 Games::Sokoban::Controller         0.01  I/IS/ISHIGAKI/Games-Sokoban-Controller-0.01.tar.gz
 Games::SolarConflict           0.000001  J/JT/JTPALMER/Games-SolarConflict-0.000001.tar.gz

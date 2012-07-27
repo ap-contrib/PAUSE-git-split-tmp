@@ -848,6 +848,9 @@ Games::Shogi::Taikyoku,JGOFF,f
 Games::Shogi::Tenjiku,JGOFF,f
 Games::Shogi::Tori,JGOFF,f
 Games::Shogi::Wa,JGOFF,f
+Games::Snake,JTPALMER,f
+Games::Snake::Level,JTPALMER,f
+Games::Snake::Player,JTPALMER,f
 Games::Sokoban,MLEHMANN,f
 Games::Sokoban::Controller,ISHIGAKI,f
 Games::SolarConflict,JTPALMER,f
