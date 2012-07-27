@@ -242,6 +242,7 @@ RemoteComponent,GNUSTAVO,f
 RemoteCustomFieldValue,GNUSTAVO,f
 RemoteFieldValue,GNUSTAVO,f
 RemoteVersion,GNUSTAVO,f
+RenRen,CODEBREAK,f
 RenderMan,GMLEWIS,m
 RenderMojoMojo,MATEU,f
 Renderer,PHILCROW,f
