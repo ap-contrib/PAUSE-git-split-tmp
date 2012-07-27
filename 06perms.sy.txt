@@ -22,11 +22,13 @@ Syntax::Collector::Example,TOBYINK,f
 Syntax::Feature::CatalystAction,JJNAPIORK,f
 Syntax::Feature::Corolocal,WINTER,f
 Syntax::Feature::Dispatcher,TOBYINK,f
+Syntax::Feature::EachOnArray,SHARYANTO,f
 Syntax::Feature::Function,FLORA,c
 Syntax::Feature::Function,PHAYLON,f
 Syntax::Feature::Gather,FREW,f
 Syntax::Feature::Io,PHAYLON,f
 Syntax::Feature::Junction,FREW,f
+Syntax::Feature::KeysOnArray,SHARYANTO,f
 Syntax::Feature::Loop,IKEGAMI,f
 Syntax::Feature::Maybe,TOBYINK,f
 Syntax::Feature::Method,FLORA,c
@@ -39,6 +41,7 @@ Syntax::Feature::Simple,PHAYLON,f
 Syntax::Feature::Simple::V1,PHAYLON,f
 Syntax::Feature::Simple::V2,PHAYLON,f
 Syntax::Feature::Sugar::Callbacks,PHAYLON,f
+Syntax::Feature::ValuesOnArray,SHARYANTO,f
 Syntax::Highlight::CSS,ZOFFIX,f
 Syntax::Highlight::Engine::Kate,HANJE,f
 Syntax::Highlight::Engine::Kate,SZABGAB,c

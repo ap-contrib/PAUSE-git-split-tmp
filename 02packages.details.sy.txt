@@ -165,10 +165,12 @@ Syntax::Collector::Example        undef  T/TO/TOBYINK/Syntax-Collector-0.003.tar
 Syntax::Feature::CatalystAction    0.01  J/JJ/JJNAPIORK/CatalystX-Syntax-Action-0.01.tar.gz
 Syntax::Feature::Corolocal     0.001002  W/WI/WINTER/Coro-Localize-0.1.2.tar.gz
 Syntax::Feature::Dispatcher       0.002  T/TO/TOBYINK/Smart-Dispatch-0.002.tar.gz
+Syntax::Feature::EachOnArray       0.02  S/SH/SHARYANTO/Syntax-Feature-EachOnArray-0.02.tar.gz
 Syntax::Feature::Function         0.001  P/PH/PHAYLON/Syntax-Feature-Function-0.001.tar.gz
 Syntax::Feature::Gather        1.001000  F/FR/FREW/Syntax-Keyword-Gather-1.001000.tar.gz
 Syntax::Feature::Io               0.001  P/PH/PHAYLON/Syntax-Feature-Io-0.001.tar.gz
 Syntax::Feature::Junction      0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
+Syntax::Feature::KeysOnArray       0.02  S/SH/SHARYANTO/Syntax-Feature-EachOnArray-0.02.tar.gz
 Syntax::Feature::Loop            v1.6.0  I/IK/IKEGAMI/Syntax-Feature-Loop-v1.6.0.tar.gz
 Syntax::Feature::Maybe            0.002  T/TO/TOBYINK/PerlX-Maybe-0.002.tar.gz
 Syntax::Feature::Method           0.001  P/PH/PHAYLON/Syntax-Feature-Method-0.001.tar.gz
@@ -180,6 +182,7 @@ Syntax::Feature::Simple           0.002  P/PH/PHAYLON/Syntax-Feature-Simple-0.00
 Syntax::Feature::Simple::V1       0.002  P/PH/PHAYLON/Syntax-Feature-Simple-0.002.tar.gz
 Syntax::Feature::Simple::V2       0.002  P/PH/PHAYLON/Syntax-Feature-Simple-0.002.tar.gz
 Syntax::Feature::Sugar::Callbacks 0.002  P/PH/PHAYLON/Syntax-Feature-Sugar-Callbacks-0.002.tar.gz
+Syntax::Feature::ValuesOnArray     0.02  S/SH/SHARYANTO/Syntax-Feature-EachOnArray-0.02.tar.gz
 Syntax::Highlight::CSS           0.0101  Z/ZO/ZOFFIX/Syntax-Highlight-CSS-0.0101.tar.gz
 Syntax::Highlight::Engine::Kate    0.06  S/SZ/SZABGAB/Syntax-Highlight-Engine-Kate-0.06.tar.gz
 Syntax::Highlight::Engine::Kate::ABC 0.06  S/SZ/SZABGAB/Syntax-Highlight-Engine-Kate-0.06.tar.gz
