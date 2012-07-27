@@ -223,10 +223,10 @@ Email::MIME::XMTP                  0.42  A/AR/AREGGIORI/Email-MIME-XMTP-0.42.tar
 Email::MIME::XPath                0.005  H/HD/HDP/Email-MIME-XPath-0.005.tar.gz
 Email::MIME::XPath::Attribute     0.005  H/HD/HDP/Email-MIME-XPath-0.005.tar.gz
 Email::MIME::XPath::Root          0.005  H/HD/HDP/Email-MIME-XPath-0.005.tar.gz
-Email::Outlook::Message           0.911  M/MV/MVZ/Email-Outlook-Message-0.911.tar.gz
-Email::Outlook::Message::AddressInfo  0  M/MV/MVZ/Email-Outlook-Message-0.911.tar.gz
-Email::Outlook::Message::Attachment   0  M/MV/MVZ/Email-Outlook-Message-0.911.tar.gz
-Email::Outlook::Message::Base         0  M/MV/MVZ/Email-Outlook-Message-0.911.tar.gz
+Email::Outlook::Message           0.912  M/MV/MVZ/Email-Outlook-Message-0.912.tar.gz
+Email::Outlook::Message::AddressInfo  0  M/MV/MVZ/Email-Outlook-Message-0.912.tar.gz
+Email::Outlook::Message::Attachment   0  M/MV/MVZ/Email-Outlook-Message-0.912.tar.gz
+Email::Outlook::Message::Base         0  M/MV/MVZ/Email-Outlook-Message-0.912.tar.gz
 Email::Pipemailer                 1.000  R/RJ/RJBS/Email-Pipemailer-1.000.tar.gz
 Email::Pipemailer::DieHandler     1.000  R/RJ/RJBS/Email-Pipemailer-1.000.tar.gz
 Email::Public                      0.13  J/JE/JETEVE/Email-Public-0.13.tar.gz
