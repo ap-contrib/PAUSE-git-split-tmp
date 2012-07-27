@@ -508,7 +508,6 @@ Prima::Image::GBM::lbm            undef  K/KA/KARASIK/Prima-1.32.tar.gz
 Prima::Image::gif                 undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Prima::Image::jpeg                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Prima::Image::Magick               0.06  K/KA/KARASIK/Prima-Image-Magick-0.06.tar.gz
-Prima::Image::png                 undef  K/KA/KARASIK/Prima-1.28.tar.gz
 Prima::Image::tiff                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Prima::Image::TransparencyControl undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Prima::ImageDialog                undef  K/KA/KARASIK/Prima-1.35.tar.gz
