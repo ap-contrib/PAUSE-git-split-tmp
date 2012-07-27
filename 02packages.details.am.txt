@@ -525,11 +525,11 @@ AnyEvent::MSN::Protocol           0.002  S/SA/SANKO/AnyEvent-MSN-0.002.tar.gz
 AnyEvent::MSN::Types              0.002  S/SA/SANKO/AnyEvent-MSN-0.002.tar.gz
 AnyEvent::MtGox::Stream            0.02  G/GR/GRAY/AnyEvent-MtGox-Stream-0.02.tar.gz
 AnyEvent::Multilog                 0.01  J/JR/JROCKWAY/AnyEvent-Multilog-1.102861.tar.gz
-AnyEvent::Net::Curl::Const        0.024  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.024.tar.gz
-AnyEvent::Net::Curl::Queued       0.024  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.024.tar.gz
-AnyEvent::Net::Curl::Queued::Easy 0.024  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.024.tar.gz
-AnyEvent::Net::Curl::Queued::Multi 0.024  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.024.tar.gz
-AnyEvent::Net::Curl::Queued::Stats 0.024  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.024.tar.gz
+AnyEvent::Net::Curl::Const        0.025  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.025.tar.gz
+AnyEvent::Net::Curl::Queued       0.025  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.025.tar.gz
+AnyEvent::Net::Curl::Queued::Easy 0.025  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.025.tar.gz
+AnyEvent::Net::Curl::Queued::Multi 0.025  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.025.tar.gz
+AnyEvent::Net::Curl::Queued::Stats 0.025  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.025.tar.gz
 AnyEvent::OWNet                1.110430  B/BE/BEANZ/AnyEvent-OWNet-1.110430.tar.gz
 AnyEvent::OWNet::Constants     1.110430  B/BE/BEANZ/AnyEvent-OWNet-1.110430.tar.gz
 AnyEvent::OWNet::Response      1.110430  B/BE/BEANZ/AnyEvent-OWNet-1.110430.tar.gz

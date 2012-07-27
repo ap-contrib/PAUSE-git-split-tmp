@@ -418,7 +418,7 @@ ZConf::Cron::GUI::GTK               1.0  V/VV/VVELOX/ZConf-Cron-GUI-GTK-1.0.0.ta
 ZConf::DBI                     0.001000  V/VV/VVELOX/ZConf-DBI-0.1.0.tar.gz
 ZConf::DBI::utils                   0.0  V/VV/VVELOX/ZConf-DBI-utils-0.0.0.tar.gz
 ZConf::DevTemplate             0.001001  V/VV/VVELOX/ZConf-DevTemplate-0.1.1.tar.gz
-ZConf::GUI                     1.000003  V/VV/VVELOX/ZConf-GUI-1.0.3.tar.gz
+ZConf::GUI                     1.001000  V/VV/VVELOX/ZConf-GUI-1.1.0.tar.gz
 ZConf::Mail                         2.0  V/VV/VVELOX/ZConf-Mail-2.0.0.tar.gz
 ZConf::Mail::GUI               0.001000  V/VV/VVELOX/ZConf-Mail-1.4.1.tar.gz
 ZConf::Mail::GUI::Curses       0.001001  V/VV/VVELOX/ZConf-Mail-1.4.1.tar.gz
