@@ -97,6 +97,7 @@ WWW::Reddit,JON,c
 WWW::Reddit::Reader,MATTDEES,m
 WWW::RedditAPI,AQUILINA,m
 WWW::Rediff::iShare,SHARDIWAL,f
+WWW::RenRen,CODEBREAK,f
 WWW::Resource,IWOODHEAD,f
 WWW::Restaurant::DE::Munich::Edison::Menu::Lunch,JMEHNLE,f
 WWW::Restaurant::Menu,JMEHNLE,f
