@@ -60,7 +60,7 @@ Text::Xslate::Bridge::Star        undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::Bridge::TT2        1.0002  G/GF/GFUJI/Text-Xslate-Bridge-TT2-1.0002.tar.gz
 Text::Xslate::Bridge::TT2Like   0.00010  D/DM/DMAKI/Text-Xslate-Bridge-TT2Like-0.00010.tar.gz
 Text::Xslate::Compiler            undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
-Text::Xslate::Compiler::HTMLTemplate undef  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1003.tar.gz
+Text::Xslate::Compiler::HTMLTemplate undef  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1004.tar.gz
 Text::Xslate::Engine             1.5015  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::HashWithDefault     undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::Parser              undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
@@ -74,9 +74,9 @@ Text::Xslate::PP::Type::Pair      undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::PP::Type::Raw       undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::Runner              undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::Symbol              undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
-Text::Xslate::Syntax::HTMLTemplate 0.1003  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1003.tar.gz
-Text::Xslate::Syntax::HTMLTemplate::_delegate 0.1003  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1003.tar.gz
-Text::Xslate::Syntax::HTMLTemplate::StringOrFunction 0.1003  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1003.tar.gz
+Text::Xslate::Syntax::HTMLTemplate 0.1004  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1004.tar.gz
+Text::Xslate::Syntax::HTMLTemplate::_delegate 0.1004  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1004.tar.gz
+Text::Xslate::Syntax::HTMLTemplate::StringOrFunction 0.1004  S/SH/SHMORIMO/Text-Xslate-Syntax-HTMLTemplate-0.1004.tar.gz
 Text::Xslate::Syntax::Kolon       undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::Syntax::Metakolon   undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
 Text::Xslate::Syntax::TTerse      undef  G/GF/GFUJI/Text-Xslate-1.5015.tar.gz
