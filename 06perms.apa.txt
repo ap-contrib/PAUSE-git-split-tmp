@@ -462,6 +462,7 @@ App::CamelPKI::Time,GRM,f
 App::CamelPKI::View::JSON,GRM,f
 App::CamelPKI::View::TT,GRM,f
 App::Cerberus,DRTECH,f
+App::Cerberus::Client,DRTECH,f
 App::Cerberus::Plugin,DRTECH,f
 App::Cerberus::Plugin::BrowserDetect,DRTECH,f
 App::Cerberus::Plugin::GeoIP,DRTECH,f
