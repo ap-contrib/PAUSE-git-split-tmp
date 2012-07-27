@@ -492,9 +492,12 @@ feature,JESSE,c
 feature,LBROCARD,c
 feature,RGARCIA,f
 feature,RJBS,c
+feature::each_on_array,SHARYANTO,f
 feature::globally,AWWAIID,f
+feature::keys_on_array,SHARYANTO,f
 feature::loop,IKEGAMI,f
 feature::qw_comments,IKEGAMI,f
+feature::values_on_array,SHARYANTO,f
 fewer,RJBS,f
 field_body,PHILCROW,f
 field_statement,PHILCROW,f
