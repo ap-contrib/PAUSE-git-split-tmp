@@ -1,4 +1,5 @@
 Search::OpenSearch::Response,KARMAN,f
+Search::OpenSearch::Response::ExtJS,KARMAN,f
 Search::OpenSearch::Response::JSON,KARMAN,f
 Search::OpenSearch::Response::XML,KARMAN,f
 Search::OpenSearch::Server,KARMAN,f
