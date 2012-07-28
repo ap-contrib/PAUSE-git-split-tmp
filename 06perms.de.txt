@@ -1058,6 +1058,7 @@ Dist::Zilla::App::Command::add_header,NPLATONOV,f
 Dist::Zilla::App::Command::authordeps,RJBS,f
 Dist::Zilla::App::Command::build,RJBS,f
 Dist::Zilla::App::Command::bundle,NPLATONOV,f
+Dist::Zilla::App::Command::chainsmoke,BBYRD,f
 Dist::Zilla::App::Command::clean,RJBS,f
 Dist::Zilla::App::Command::configure_CSJEWELL,CSJEWELL,f
 Dist::Zilla::App::Command::cook,THALJEF,f
@@ -1100,6 +1101,7 @@ Dist::Zilla::App::Command::weaverconf,EDENC,c
 Dist::Zilla::App::Command::weaverconf,ETHER,c
 Dist::Zilla::App::Command::weaverconf,FLORA,f
 Dist::Zilla::App::Command::xtest,DAGOLDEN,f
+Dist::Zilla::App::CommandHelper::ChainSmoking,BBYRD,f
 Dist::Zilla::App::Tester,RJBS,f
 Dist::Zilla::App::Tester::Result,RJBS,f
 Dist::Zilla::BeLike::CSJEWELL,CSJEWELL,f
@@ -1568,6 +1570,7 @@ Dist::Zilla::Plugin::Test::UnusedVars,DOHERTY,f
 Dist::Zilla::Plugin::Test::UseAllModules,RUSSOZ,f
 Dist::Zilla::Plugin::Test::Version,XENO,f
 Dist::Zilla::Plugin::TestRelease,RJBS,f
+Dist::Zilla::Plugin::TravisYML,BBYRD,f
 Dist::Zilla::Plugin::Twitter,DAGOLDEN,f
 Dist::Zilla::Plugin::Twitter,DOHERTY,c
 Dist::Zilla::Plugin::UnusedVarsTests,DOHERTY,c
@@ -1779,6 +1782,7 @@ Dist::Zilla::Role::Subversion,MJGARDNER,m
 Dist::Zilla::Role::Tempdir,KENTNL,f
 Dist::Zilla::Role::TestRunner,RJBS,f
 Dist::Zilla::Role::TextTemplate,RJBS,f
+Dist::Zilla::Role::TravisYML,BBYRD,f
 Dist::Zilla::Role::VersionProvider,RJBS,f
 Dist::Zilla::Role::YANICK::PreviousVersionProvider,YANICK,f
 Dist::Zilla::Role::xPANResolver,KENTNL,f

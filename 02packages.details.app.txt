@@ -1011,7 +1011,7 @@ Asm::Preproc::Lexer                0.06  P/PS/PSCUST/Asm-Preproc-0.06.tar.gz
 Asm::Preproc::Line                 0.06  P/PS/PSCUST/Asm-Preproc-0.06.tar.gz
 Asm::Preproc::Stream               0.06  P/PS/PSCUST/Asm-Preproc-0.06.tar.gz
 Asm::Preproc::Token                0.06  P/PS/PSCUST/Asm-Preproc-0.06.tar.gz
-Asm::X86                           0.13  B/BO/BOGDRO/Asm-X86-0.13.tar.gz
+Asm::X86                           0.14  B/BO/BOGDRO/Asm-X86-0.14.tar.gz
 Asm::Z80::Table                    0.02  P/PS/PSCUST/Asm-Z80-Table-0.02.tar.gz
 Asmens::Kodas                      0.02  K/KU/KUDARASP/Asmens-Kodas-0.02.tar.gz
 ASNMTAP::Asnmtap               3.002003  A/AS/ASNMTAP/ASNMTAP-3.002003.tar.gz
