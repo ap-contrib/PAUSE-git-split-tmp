@@ -325,13 +325,13 @@ Test::Warn::Categorization         0.24  C/CH/CHORNY/Test-Warn-0.24.tar.gz
 Test::Warn::DAG_Node_Tree          0.24  C/CH/CHORNY/Test-Warn-0.24.tar.gz
 Test::Weaken                   3.020000  K/KR/KRYDE/Test-Weaken-3.020000.tar.gz
 Test::Weaken::ExtraBits               3  K/KR/KRYDE/Test-VariousBits-3.tar.gz
-Test::Weaken::Gtk2                   45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
+Test::Weaken::Gtk2                   46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
 Test::Weaken::Internal         3.020000  K/KR/KRYDE/Test-Weaken-3.020000.tar.gz
 Test::WebDriver                   undef  L/LU/LUKEC/Test-WebDriver-0.01.tar.gz
 Test::Wiretap                      1.01  A/AI/AIRWAVE/Test-Wiretap-1.01.tar.gz
 Test::Without                     0.100  R/RJ/RJRAY/Test-Without-0.10.tar.gz
 Test::Without::GD                     3  K/KR/KRYDE/Test-VariousBits-3.tar.gz
-Test::Without::Gtk2Things            45  K/KR/KRYDE/Gtk2-Ex-WidgetBits-45.tar.gz
+Test::Without::Gtk2Things            46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
 Test::Without::Module              0.17  C/CO/CORION/Test-Without-Module-0.17.tar.gz
 Test::Without::Shm                    3  K/KR/KRYDE/Test-VariousBits-3.tar.gz
 Test::Workflow                        0  E/EX/EXODIST/Fennec-1.012.tar.gz
