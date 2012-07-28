@@ -820,7 +820,7 @@ Bio::KEGGI::pathway            0.001005  Z/ZE/ZEROLIU/Bio-KEGGI-v0.1.50.tar.gz
 Bio::LITE::RDP                    undef  M/MO/MOTIF/Bio-LITE-Taxonomy-0.04.tar.gz
 Bio::LITE::Taxonomy                0.07  M/MO/MOTIF/Bio-LITE-Taxonomy-0.07.tar.gz
 Bio::LITE::Taxonomy::NCBI          0.07  M/MO/MOTIF/Bio-LITE-Taxonomy-NCBI-0.07.tar.gz
-Bio::LITE::Taxonomy::NCBI::Gi2taxid 0.05  M/MO/MOTIF/Bio-LITE-Taxonomy-NCBI-Gi2taxid-0.05.tar.gz
+Bio::LITE::Taxonomy::NCBI::Gi2taxid 0.06  M/MO/MOTIF/Bio-LITE-Taxonomy-NCBI-Gi2taxid-0.06.tar.gz
 Bio::LITE::Taxonomy::RDP           0.03  M/MO/MOTIF/Bio-LITE-Taxonomy-RDP-0.03.tar.gz
 Bio::LiveSeq::AARange          1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::LiveSeq::Chain            1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
