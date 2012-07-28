@@ -600,6 +600,8 @@ Pod::PlainText,MAREKR,f
 Pod::Plainer,DAPM,c
 Pod::Plainer,NWCLARK,f
 Pod::Plainer,RMBARKER,m
+Pod::PluginCatalog,CJM,f
+Pod::PluginCatalog::Entry,CJM,f
 Pod::Pod,KJALB,m
 Pod::ProjectDocs,ADAMK,c
 Pod::ProjectDocs,LYOKATO,f

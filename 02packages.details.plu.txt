@@ -753,6 +753,8 @@ Pod::Perldocs                      0.16  I/IS/ISHIGAKI/Pod-Perldocs-0.17.tar.gz
 Pod::PerlPoint                     0.05  J/JS/JSTENZEL/Pod-PerlPoint-0.06.tar.gz
 Pod::Plainer                       1.03  R/RM/RMBARKER/Pod-Plainer-1.03.tar.gz
 Pod::PlainText                     2.05  M/MA/MAREKR/Pod-Parser-1.51.tar.gz
+Pod::PluginCatalog                 0.01  C/CJ/CJM/Pod-PluginCatalog-0.01.tar.gz
+Pod::PluginCatalog::Entry          0.01  C/CJ/CJM/Pod-PluginCatalog-0.01.tar.gz
 Pod::POM                           0.27  A/AN/ANDREWF/Pod-POM-0.27.tar.gz
 Pod::POM::Constants                1.01  A/AN/ANDREWF/Pod-POM-0.27.tar.gz
 Pod::POM::Node                     1.05  A/AN/ANDREWF/Pod-POM-0.27.tar.gz
