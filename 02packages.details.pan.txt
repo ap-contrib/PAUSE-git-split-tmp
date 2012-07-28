@@ -342,8 +342,8 @@ PApp::Prefs                        1.45  M/ML/MLEHMANN/PApp-1.45.tar.gz
 PApp::Preprocessor                 1.45  M/ML/MLEHMANN/PApp-1.45.tar.gz
 PApp::Recode                       1.45  M/ML/MLEHMANN/PApp-1.45.tar.gz
 PApp::Session                      1.45  M/ML/MLEHMANN/PApp-1.45.tar.gz
-PApp::SQL                          1.05  M/ML/MLEHMANN/PApp-SQL-1.05.tar.gz
-PApp::SQL::Database                1.05  M/ML/MLEHMANN/PApp-SQL-1.05.tar.gz
+PApp::SQL                           2.0  M/ML/MLEHMANN/PApp-SQL-2.0.tar.gz
+PApp::SQL::Database                 2.0  M/ML/MLEHMANN/PApp-SQL-2.0.tar.gz
 PApp::Storable                     2.18  M/ML/MLEHMANN/PApp-1.45.tar.gz
 PApp::User                         1.45  M/ML/MLEHMANN/PApp-1.45.tar.gz
 PApp::UserObs                      1.45  M/ML/MLEHMANN/PApp-1.45.tar.gz
