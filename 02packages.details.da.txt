@@ -948,7 +948,7 @@ DateTime::y2038                       0  M/MS/MSCHWERN/perl5i-v2.10.0.tar.gz
 DateTimeX::AATW                    0.04  K/KM/KMCGRATH/DateTimeX-AATW-0.04.tar.gz
 DateTimeX::Auto                   0.005  T/TO/TOBYINK/DateTimeX-Auto-0.005.tar.gz
 DateTimeX::Auto::Duration         0.005  T/TO/TOBYINK/DateTimeX-Auto-0.005.tar.gz
-DateTimeX::Duration::SkipDays     0.001  A/AY/AYOUNG/DateTimeX-Duration-SkipDays-0.001.tar.gz
+DateTimeX::Duration::SkipDays     0.002  A/AY/AYOUNG/DateTimeX-Duration-SkipDays-0.002.tar.gz
 DateTimeX::Easy                   0.089  R/RO/ROKR/DateTimeX-Easy-0.089.tar.gz
 DateTimeX::Factory                 0.03  T/TA/TAKUJI/DateTimeX-Factory-0.03.tar.gz
 DateTimeX::Factory::Declare           0  T/TA/TAKUJI/DateTimeX-Factory-0.03.tar.gz
