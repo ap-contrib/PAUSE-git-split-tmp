@@ -182,7 +182,8 @@ Test::TAP::Model::Subtest         undef  N/NU/NUFFIN/Test-TAP-Model-0.10.tar.gz
 Test::TAP::Model::Subtest::Visual undef  N/NU/NUFFIN/Test-TAP-HTMLMatrix-0.09.tar.gz
 Test::TAP::Model::Visual          undef  N/NU/NUFFIN/Test-TAP-HTMLMatrix-0.09.tar.gz
 Test::TAPv13                      0.001  S/SC/SCHWIGON/Test-TAPv13-0.001.tar.gz
-Test::TCP                          1.16  T/TO/TOKUHIROM/Test-TCP-1.16.tar.gz
+Test::TCP                          1.17  T/TO/TOKUHIROM/Test-TCP-1.17.tar.gz
+Test::TCP::CheckPort              undef  T/TO/TOKUHIROM/Test-TCP-1.17.tar.gz
 Test::TCP::Multi                0.00004  D/DM/DMAKI/Test-TCP-Multi-0.00004.tar.gz
 Test::Tech                         1.26  S/SO/SOFTDIA/Test-Tech-0.26.tar.gz
 Test::Tech::Output                 1.26  S/SO/SOFTDIA/Test-Tech-0.26.tar.gz

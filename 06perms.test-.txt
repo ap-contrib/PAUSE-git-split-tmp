@@ -374,6 +374,7 @@ Test::TAP::Model::Visual,STEVAN,c
 Test::TAP::XML,WONKO,f
 Test::TAPv13,SCHWIGON,f
 Test::TCP,TOKUHIROM,f
+Test::TCP::CheckPort,TOKUHIROM,f
 Test::TCP::Multi,DMAKI,f
 Test::TT,BOLAV,f
 Test::TableDriven,BOBTFISH,c
