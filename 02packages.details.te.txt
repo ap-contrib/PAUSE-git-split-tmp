@@ -420,7 +420,7 @@ Tie::Array::Sorted                 1.41  T/TM/TMTM/Tie-Array-Sorted-1.41.tar.gz
 Tie::Array::Sorted::Lazy            1.2  S/SI/SIMON/Tie-Array-Sorted-1.2.tar.gz
 Tie::Array::Unique                 0.01  P/PI/PINYAN/Tie-Array-Unique-0.01.tar.gz
 Tie::Array::Unique::How            0.01  P/PI/PINYAN/Tie-Array-Unique-0.01.tar.gz
-Tie::ArrayAsHash                   0.02  S/SH/SHARYANTO/Syntax-Feature-EachOnArray-0.02.tar.gz
+Tie::ArrayAsHash                   0.03  S/SH/SHARYANTO/Syntax-Feature-EachOnArray-0.03.tar.gz
 Tie::Autotie                       0.03  P/PI/PINYAN/Tie-Autotie-0.03.tar.gz
 Tie::Cache                         0.17  C/CH/CHAMAS/Tie-Cache-0.19.tar.gz
 Tie::Cache::Autoupdater            0.21  A/AN/ANTONFIN/Tie-Cache-Autoupdater-0.21.tar.gz
