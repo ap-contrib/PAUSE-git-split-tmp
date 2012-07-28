@@ -282,6 +282,7 @@ Email::Sender::Transport::Failable 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar
 Email::Sender::Transport::Maildir 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
 Email::Sender::Transport::Mbox 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
 Email::Sender::Transport::Print 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
+Email::Sender::Transport::Redirect 0.0001  H/HO/HORNBURG/Email-Sender-Transport-Redirect-0.0001.tar.gz
 Email::Sender::Transport::Sendmail 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
 Email::Sender::Transport::SMTP 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
 Email::Sender::Transport::SMTP::Persistent 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz

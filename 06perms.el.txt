@@ -403,6 +403,7 @@ Email::Sender::Transport::Failable,RJBS,f
 Email::Sender::Transport::Maildir,RJBS,f
 Email::Sender::Transport::Mbox,RJBS,f
 Email::Sender::Transport::Print,RJBS,f
+Email::Sender::Transport::Redirect,HORNBURG,f
 Email::Sender::Transport::SMTP,RJBS,f
 Email::Sender::Transport::SMTP::Persistent,RJBS,f
 Email::Sender::Transport::SMTP::TLS,FAYLAND,f
