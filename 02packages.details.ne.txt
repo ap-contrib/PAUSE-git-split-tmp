@@ -663,7 +663,7 @@ Net::SSH::Perl::Util::Term        undef  T/TU/TURNSTEP/Net-SSH-Perl-1.34.tar.gz
 Net::SSH::Perl::WithSocks          0.02  B/BD/BDFOY/Net-SSH-Perl-WithSocks-0.02.tar.gz
 Net::SSH::W32Perl                  0.05  S/SC/SCOTTS/Net-SSH-W32Perl-0.05.tar.gz
 Net::SSH::W32Perl::SSH2           undef  S/SC/SCOTTS/Net-SSH-W32Perl-0.05.tar.gz
-Net::SSL                           2.85  N/NA/NANIS/Crypt-SSLeay-0.58.tar.gz
+Net::SSL                           2.85  N/NA/NANIS/Crypt-SSLeay-0.60.tar.gz
 Net::SSL::AutoCA                    0.0  V/VV/VVELOX/Net-SSL-AutoCA-0.0.0.tar.gz
 Net::SSL::ExpireDate               1.10  H/HI/HIROSE/Net-SSL-ExpireDate-1.10.tar.gz
 Net::SSLeay                        1.48  M/MI/MIKEM/Net-SSLeay-1.48.tar.gz
