@@ -200,7 +200,7 @@ App::TailRabbit::Growl            0.001  B/BO/BOBTFISH/App-TailRabbit-Growl-0.00
 App::Tak                          undef  M/MS/MSTROUT/Tak-0.001003.tar.gz
 App::TarColor                     0.011  M/MS/MSABRAMO/App-TarColor-0.011.tar.gz
 App::TaskBuilder                  1.000  H/HD/HDP/App-TaskBuilder-1.000.tar.gz
-App::Taskflow                       0.3  F/FA/FARHAD/App-Taskflow-0.3.tar.gz
+App::Taskflow                       0.4  F/FA/FARHAD/App-Taskflow-0.4.tar.gz
 App::TemplateCMD                 v0.5.0  I/IV/IVANWILLS/App-TemplateCMD-v0.5.0.tar.gz
 App::TemplateCMD::Command        v0.1.0  I/IV/IVANWILLS/App-TemplateCMD-v0.5.0.tar.gz
 App::TemplateCMD::Command::Build v0.1.0  I/IV/IVANWILLS/App-TemplateCMD-v0.5.0.tar.gz
