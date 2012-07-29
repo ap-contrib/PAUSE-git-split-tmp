@@ -1676,6 +1676,7 @@ Module::Metadata,MITHALDU,c
 Module::Metadata,MSTROUT,f
 Module::Metadata,RIBASUSHI,c
 Module::Metadata,SSCAFFIDI,c
+Module::Metadata,VPIT,c
 Module::Metadata,WSHELDAHL,c
 Module::Metadata::Changes,RSAVAGE,m
 Module::Metadata::CoreList,RSAVAGE,f
@@ -1695,6 +1696,7 @@ Module::Metadata::Version,MITHALDU,c
 Module::Metadata::Version,MSTROUT,f
 Module::Metadata::Version,RIBASUSHI,c
 Module::Metadata::Version,SSCAFFIDI,c
+Module::Metadata::Version,VPIT,c
 Module::Metadata::Version,WSHELDAHL,c
 Module::MultiConf,OLIVER,f
 Module::New,ISHIGAKI,f
