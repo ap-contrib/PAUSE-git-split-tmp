@@ -114,6 +114,7 @@ Event::TopServer,JPRIT,f
 Event::TopServer::Client,JPRIT,f
 Event::Watcher,JPRIT,f
 Event::Watcher::Tied,JPRIT,f
+Event::Wrappable,WINTER,f
 Event::atexit,JPRIT,f
 Event::generic,JPRIT,f
 Event::generic::Source,JPRIT,f
