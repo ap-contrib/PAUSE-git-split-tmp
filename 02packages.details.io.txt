@@ -196,6 +196,7 @@ IO::Pipe                           1.13  G/GB/GBARR/IO-1.25.tar.gz
 IO::Pipe::End                      1.13  G/GB/GBARR/IO-1.25.tar.gz
 IO::Pipe::Producer                  1.5  R/RO/ROBLEACH/IO-Pipe-Producer-1.5.tar.gz
 IO::Pipeline                   0.009002  M/MS/MSTROUT/IO-Pipeline-0.009002.tar.gz
+IO::Pipely                        0.001  R/RC/RCAPUTO/IO-Pipely-0.001.tar.gz
 IO::Plumbing                       0.08  S/SA/SAMV/IO-Plumbing-0.08.tar.gz
 IO::Plumbing::Bucket              undef  S/SA/SAMV/IO-Plumbing-0.08.tar.gz
 IO::Plumbing::Hose                undef  S/SA/SAMV/IO-Plumbing-0.08.tar.gz
