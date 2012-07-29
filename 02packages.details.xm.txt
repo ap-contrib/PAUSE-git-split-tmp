@@ -502,8 +502,8 @@ XML::Overlay                       0.01  M/MS/MSTROUT/XML-Overlay-0.01.tar.gz
 XML::Overlay::action              undef  M/MS/MSTROUT/XML-Overlay-0.01.tar.gz
 XML::Overlay::target              undef  M/MS/MSTROUT/XML-Overlay-0.01.tar.gz
 XML::ParseDTD                  0.001004  M/MO/MORNI/XML-ParseDTD-0.1.4.tar.gz
-XML::Parsepp                       0.02  K/KE/KEICHNER/XML-Parsepp-0.02.tar.gz
-XML::Parsepp::ExpatNB                 0  K/KE/KEICHNER/XML-Parsepp-0.02.tar.gz
+XML::Parsepp                       0.03  K/KE/KEICHNER/XML-Parsepp-0.03.tar.gz
+XML::Parsepp::ExpatNB                 0  K/KE/KEICHNER/XML-Parsepp-0.03.tar.gz
 XML::Parser                        2.41  T/TO/TODDR/XML-Parser-2.41.tar.gz
 XML::Parser::ContentModel          2.36  M/MS/MSERGEANT/XML-Parser-2.36.tar.gz
 XML::Parser::Debug                 2.31  C/CO/COOPERCL/XML-Parser-2.31.tar.gz
