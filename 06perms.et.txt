@@ -475,6 +475,17 @@ Expect::Angel::Cisco,MINGZHANG,f
 Expect::Angel::Juniper,MINGZHANG,f
 Expect::Angel::Linux,MINGZHANG,f
 Expect::Simple,DJERIUS,f
+ExpenseTracker,TCONST,f
+ExpenseTracker::Controllers::Base,TCONST,f
+ExpenseTracker::Controllers::Currency,TCONST,f
+ExpenseTracker::Controllers::Site,TCONST,f
+ExpenseTracker::Models,TCONST,f
+ExpenseTracker::Models::Result::Category,TCONST,f
+ExpenseTracker::Models::Result::Currency,TCONST,f
+ExpenseTracker::Models::Result::Operation,TCONST,f
+ExpenseTracker::Models::Result::OperationsCategory,TCONST,f
+ExpenseTracker::Models::Result::User,TCONST,f
+ExpenseTracker::Routes,TCONST,f
 Experimental::Eval,JPRIT,f
 Experimental::Eval::Context,JPRIT,f
 Experimental::Sample,CLEMBURG,c
