@@ -485,6 +485,7 @@ Sub::Exporter,RJBS,f
 Sub::Exporter::ForMethods,RJBS,f
 Sub::Exporter::GlobExporter,RJBS,f
 Sub::Exporter::Lexical,RJBS,f
+Sub::Exporter::Progressive,FREW,f
 Sub::Exporter::Simple,MITHALDU,f
 Sub::Exporter::Util,RJBS,f
 Sub::Filter,ZEFRAM,f
