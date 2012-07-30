@@ -314,7 +314,7 @@ Opsview::REST::Status             0.004  M/MR/MRUIZ/Opsview-REST-0.004.tar.gz
 Opsview::StatusAPI                 0.02  J/JL/JLMARTIN/Opsview-StatusAPI-0.02.tar.gz
 Opt                               undef  Y/YV/YVESP/llg-1.07.tar.gz
 Opt::Imistic                       0.03  A/AL/ALTREUS/Opt-Imistic-0.03.tar.gz
-OptArgs                        0.000001  M/ML/MLAWREN/OptArgs-0.0.1.tar.gz
+OptArgs                        0.000002  M/ML/MLAWREN/OptArgs-0.0.2.tar.gz
 optimize                           0.05  R/RU/RURBAN/optimize-0.05.tar.gz
 optimize::int                     undef  R/RU/RURBAN/optimize-0.05.tar.gz
 optimizer                          0.08  R/RU/RURBAN/optimizer-0.08.tar.gz
