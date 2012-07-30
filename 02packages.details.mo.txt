@@ -20,6 +20,7 @@ MooX::Options                       2.4  C/CE/CELOGEEK/MooX-Options-2.4.tar.gz
 MooX::Options::Role                 2.4  C/CE/CELOGEEK/MooX-Options-2.4.tar.gz
 MooX::Role                        0.101  G/GE/GETTY/MooX-0.101.tar.gz
 MooX::Singleton                1.121160  A/AJ/AJGB/MooX-Singleton-1.121160.tar.gz
+MooX::Types::CLike                 0.90  B/BB/BBYRD/MooX-Types-CLike-0.90.tar.gz
 MooX::Types::MooseLike             0.09  M/MA/MATEU/MooX-Types-MooseLike-0.09.tar.gz
 MooX::Types::MooseLike::Base      undef  M/MA/MATEU/MooX-Types-MooseLike-0.09.tar.gz
 MooX::Types::MooseLike::Numeric   undef  M/MA/MATEU/MooX-Types-MooseLike-0.09.tar.gz
