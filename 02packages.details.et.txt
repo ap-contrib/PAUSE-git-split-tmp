@@ -142,7 +142,7 @@ Event::type                       undef  J/JP/JPRIT/Event-1.20.tar.gz
 Event::var                        undef  J/JP/JPRIT/Event-1.20.tar.gz
 Event::Watcher                    undef  J/JP/JPRIT/Event-1.20.tar.gz
 Event::Watcher::Tied              undef  J/JP/JPRIT/Event-1.20.tar.gz
-Event::Wrappable               0.001000  W/WI/WINTER/Event-Wrappable-0.1.0.tar.gz
+Event::Wrappable               0.001001  W/WI/WINTER/Event-Wrappable-0.1.1.tar.gz
 Eventhandlers                      0.07  K/KI/KITOMER/App-XUL-0.07.tar.gz
 EventListeners                    undef  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
 Events                            undef  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
