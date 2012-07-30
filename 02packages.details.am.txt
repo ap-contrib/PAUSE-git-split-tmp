@@ -556,7 +556,7 @@ AnyEvent::RabbitMQ::Channel        1.04  I/IK/IKUTA/AnyEvent-RabbitMQ-1.04.tar.g
 AnyEvent::RabbitMQ::LocalQueue     1.04  I/IK/IKUTA/AnyEvent-RabbitMQ-1.04.tar.gz
 AnyEvent::ReadLine::Gnu             1.0  M/ML/MLEHMANN/AnyEvent-ReadLine-Gnu-1.0.tar.gz
 AnyEvent::Redis                    0.23  D/DG/DGL/AnyEvent-Redis-0.23.tar.gz
-AnyEvent::Redis::Federated         0.02  J/JZ/JZAWODNY/AnyEvent-Redis-Federated-0.02.tar.gz
+AnyEvent::Redis::Federated         0.03  J/JZ/JZAWODNY/AnyEvent-Redis-Federated-0.03.tar.gz
 AnyEvent::Redis::Protocol         undef  D/DG/DGL/AnyEvent-Redis-0.23.tar.gz
 AnyEvent::Redis::RipeRedis     0.807211  I/IP/IPH/AnyEvent-Redis-RipeRedis-0.807211.tar.gz
 AnyEvent::Retry                    0.03  J/JR/JROCKWAY/AnyEvent-Retry-0.03.tar.gz
