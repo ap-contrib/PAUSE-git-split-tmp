@@ -644,10 +644,10 @@ Business::ISSN                     0.91  B/BD/BDFOY/Business-ISSN-0.91.tar.gz
 Business::KontoCheck                4.1  M/MI/MICHEL/Business-KontoCheck-4.1.tar.gz
 Business::LCCN                     1.01  A/AN/ANIRVAN/Business-LCCN-1.01.tar.gz
 Business::LiveDrive                0.01  C/CL/CLIFFORDJ/Business-LiveDrive-0.01.tar.gz
-Business::MaxMind::CreditCardFraudDetection 1.51  B/BO/BORISZ/Business-MaxMind-1.51.tar.gz
-Business::MaxMind::HTTPBase        1.51  B/BO/BORISZ/Business-MaxMind-1.51.tar.gz
+Business::MaxMind::CreditCardFraudDetection 1.54  B/BO/BORISZ/Business-MaxMind-1.54.tar.gz
+Business::MaxMind::HTTPBase        1.54  B/BO/BORISZ/Business-MaxMind-1.54.tar.gz
 Business::MaxMind::LocationVerification 1.3  B/BO/BORISZ/Business-MaxMind-1.50.tar.gz
-Business::MaxMind::TelephoneVerification 1.0  B/BO/BORISZ/Business-MaxMind-1.51.tar.gz
+Business::MaxMind::TelephoneVerification 1.0  B/BO/BORISZ/Business-MaxMind-1.54.tar.gz
 Business::NETeller::Direct         1.00  S/SH/SHERZODR/Business-NETeller-Direct-1.00.tar.gz
 Business::NoChex                   0.02  R/RS/RSZEMETI/Business-NoChex-0.02.tar.gz
 Business::OnlinePayment            3.02  I/IV/IVAN/Business-OnlinePayment-3.02.tar.gz
