@@ -525,7 +525,6 @@ POE::Resources                    1.354  R/RC/RCAPUTO/POE-1.354.tar.gz
 POE::Session                      1.354  R/RC/RCAPUTO/POE-1.354.tar.gz
 POE::Session::Attribute            0.80  J/JS/JSN/POE-Session-Attribute-0.80.tar.gz
 POE::Session::AttributeBased       0.10  C/CF/CFEDDE/POE-Session-AttributeBased-0.10.tar.gz
-POE::Session::Cascading            2.01  S/SU/SUNGO/POE-Session-Cascading-1.04.tar.gz
 POE::Session::GladeXML2            0.40  M/MA/MARTIJN/POE-Session-GladeXML2-0.40.tar.gz
 POE::Session::Irssi                0.50  M/MA/MARTIJN/POE-Session-Irssi-0.50.tar.gz
 POE::Session::Message             0.111  R/RC/RCAPUTO/POE-Session-MessageBased-0.111.tar.gz

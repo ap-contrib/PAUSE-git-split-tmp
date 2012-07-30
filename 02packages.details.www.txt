@@ -157,7 +157,6 @@ WWW::Rapidshare::Free              0.01  H/HA/HAGGAI/WWW-Rapidshare-Free-0.01.ta
 WWW::RaptureReady                   0.2  B/BL/BLAIR/WWW-RaptureReady-0.2.tar.gz
 WWW::Reddit                        0.10  J/JO/JON/WWW-Reddit-0.10.tar.gz
 WWW::Rediff::iShare                0.05  S/SH/SHARDIWAL/WWW-Rediff-iShare-0.05.tar.gz
-WWW::RenRen                        0.01  C/CO/CODEBREAK/WWW-RenRen-0.01.tar.gz
 WWW::Resource                      0.01  I/IW/IWOODHEAD/WWW-Resource-0.01.tar.gz
 WWW::REST                          0.01  A/AU/AUTRIJUS/WWW-REST-0.01.tar.gz
 WWW::Restaurant::DE::Munich::Edison::Menu::Lunch 0.11  J/JM/JMEHNLE/www-restaurant-menu/WWW-Restaurant-Menu-0.11.tar.gz
