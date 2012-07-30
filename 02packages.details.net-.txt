@@ -324,7 +324,7 @@ Net::GPSD::Server::Fake            0.16  M/MR/MRDVT/Net-GPSD-Server-Fake-0.16.ta
 Net::GPSD::Server::Fake::Circle    0.16  M/MR/MRDVT/Net-GPSD-Server-Fake-0.16.tar.gz
 Net::GPSD::Server::Fake::Stationary 0.16  M/MR/MRDVT/Net-GPSD-Server-Fake-0.16.tar.gz
 Net::GPSD::Server::Fake::Track     0.16  M/MR/MRDVT/Net-GPSD-Server-Fake-0.16.tar.gz
-Net::Graphite                      0.01  S/SL/SLANNING/Net-Graphite-0.01.tar.gz
+Net::Graphite                      0.10  S/SL/SLANNING/Net-Graphite-0.10.tar.gz
 Net::GraphSpace                  0.0009  I/IR/IRONCAMEL/Net-GraphSpace-0.0009.tar.gz
 Net::GraphSpace::AttributesToJSON undef  I/IR/IRONCAMEL/Net-GraphSpace-0.0009.tar.gz
 Net::GraphSpace::Edge             undef  I/IR/IRONCAMEL/Net-GraphSpace-0.0009.tar.gz
