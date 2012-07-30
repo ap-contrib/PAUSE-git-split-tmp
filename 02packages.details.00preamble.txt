@@ -4,8 +4,8 @@ Description:  Package names found in directory $CPAN/authors/id/
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
-Line-Count:   118832
-Last-Updated: Mon, 30 Jul 2012 13:23:03 GMT
+Line-Count:   118833
+Last-Updated: Mon, 30 Jul 2012 13:39:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -220,6 +220,7 @@ Acme::AirRead                      0.01  K/KO/KOJIMAGI/Acme-AirRead-0.01.tar.gz
 Acme::Akashic::Records             0.01  D/DA/DANKOGAI/Acme-Akashic-Records-0.01.tar.gz
 Acme::Albed                        0.03  H/HA/HAOYAYOI/Acme-Albed-0.03.tar.gz
 Acme::AlgebraicToRPN               0.02  T/TH/THECRAMPS/Acme-AlgebraicToRPN-0.02.tar.gz
+Acme::Alien::DontPanic            0.001  J/JB/JBERGER/Acme-Alien-DontPanic-0.001.tar.gz
 Acme::AliG                       0.0101  I/IR/IRONCAMEL/Acme-AliG-0.0101.tar.gz
 Acme::Anything                     0.04  J/JJ/JJORE/Acme-Anything-0.04.tar.gz
 Acme::Apache::Werewolf             1.05  R/RB/RBOW/Acme-Apache-Werewolf-1.05.tar.gz
