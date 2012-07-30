@@ -674,8 +674,8 @@ Helm::Task::run                       0  W/WO/WONKO/helm-0.4.tar.gz
 Helm::Task::unlock                    0  W/WO/WONKO/helm-0.4.tar.gz
 help                              undef  S/SH/SHERWOOD/xisofs-1.3.tar.gz
 HelpBrowser                       undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-Helper::Commit                 0.000003  M/MU/MUGENKEN/Helper-Commit-0.000003.tar.gz
-Helper::Commit::Version        0.000003  M/MU/MUGENKEN/Helper-Commit-0.000003.tar.gz
+Helper::Commit                 0.000004  M/MU/MUGENKEN/Helper-Commit-0.000004.tar.gz
+Helper::Commit::Version        0.000004  M/MU/MUGENKEN/Helper-Commit-0.000004.tar.gz
 here                               0.03  A/AS/ASG/here-0.03.tar.gz
 here::debug                           0  A/AS/ASG/here-0.03.tar.gz
 here::declare                      0.03  A/AS/ASG/here-0.03.tar.gz

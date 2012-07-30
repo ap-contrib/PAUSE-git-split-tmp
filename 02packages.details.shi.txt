@@ -656,6 +656,7 @@ SMS::Send::AU::Test                0.06  A/AD/ADAMK/SMS-Send-1.06.tar.gz
 SMS::Send::Clickatell              0.02  N/NO/NOBULL/SMS-Send-Clickatell-0.02.tar.gz
 SMS::Send::CSoft               1.111490  B/BE/BEANZ/SMS-Send-CSoft-1.111490.tar.gz
 SMS::Send::DE::MeinBMW             0.06  B/BO/BORISZ/SMS-Send-DE-MeinBMW-0.06.tar.gz
+SMS::Send::DE::Sipgate             0.01  T/TE/TEX/SMS-Send-DE-Sipgate-0.01.tar.gz
 SMS::Send::DeviceGsm               1.06  B/BI/BINGOS/SMS-Send-DeviceGsm-1.06.tar.gz
 SMS::Send::DistributeSMS           0.01  D/DS/DSOBON/SMS-Send-DistributeSMS-0.01.tar.gz
 SMS::Send::Driver                  0.06  A/AD/ADAMK/SMS-Send-1.06.tar.gz
