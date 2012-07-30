@@ -425,6 +425,7 @@ Test::Trap::Builder::TempFile,EBHANSSEN,f
 Test::Trivial,CORYB,f
 Test::Trivial::Builder,CORYB,f
 Test::Trivial::IO::Tee,CORYB,f
+Test::Type,AUBERTG,f
 Test::TypeConstraints,YOSHIMI,f
 Test::U32,JFREEMAN,f
 Test::URI,BDFOY,m
