@@ -952,6 +952,7 @@ CPAN::FTP,DAGOLDEN,c
 CPAN::FTP::netrc,ANDK,f
 CPAN::FTP::netrc,DAGOLDEN,c
 CPAN::Faker,RJBS,f
+CPAN::Faker::HTTPD,PSHANGOV,f
 CPAN::FindDependencies,DCANTRELL,f
 CPAN::FindDependencies::Dependency,DCANTRELL,f
 CPAN::FindDependencies::MakeMaker,DCANTRELL,f

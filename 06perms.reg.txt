@@ -20,7 +20,7 @@ Regexp::Copy,JDUNCAN,f
 Regexp::Debugger,DCONWAY,f
 Regexp::Debugger::Precursor,DCONWAY,f
 Regexp::DeferredExecution,AMACKEY,f
-Regexp::ERE,LOIC,f
+Regexp::ERE,LOIC,m
 Regexp::English,CHROMATIC,f
 Regexp::Ethiopic,DYACOB,f
 Regexp::Ethiopic::Amharic,DYACOB,f
