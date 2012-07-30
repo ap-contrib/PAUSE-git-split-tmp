@@ -405,7 +405,7 @@ Mysql::st                        1.2401  C/CA/CAPTTOFU/DBD-mysql-3.0008.tar.gz
 Mysql::Statement                 1.2401  C/CA/CAPTTOFU/DBD-mysql-3.0008.tar.gz
 MySQL::Table                      undef  A/AS/ASPIERS/MySQL-Diff-0.33.tar.gz
 MySQL::TableInfo                   1.01  S/SH/SHERZODR/MySQL-TableInfo-1.01.tar.gz
-MySQL::Util                        0.03  G/GR/GRAVATTJ/MySQL-Util-0.03.tar.gz
+MySQL::Util                        0.10  G/GR/GRAVATTJ/MySQL-Util-0.10.tar.gz
 MySQL::Utils                      undef  A/AS/ASPIERS/MySQL-Diff-0.33.tar.gz
 mysql_comparison                    1.1  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
 MyStamp                           undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
