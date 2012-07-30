@@ -70,8 +70,8 @@ XML::RDDL                          1.02  R/RB/RBERJON/XML-RDDL-1.02.tar.gz
 XML::RDDL::Directory               0.01  R/RB/RBERJON/XML-RDDL-1.02.tar.gz
 XML::RDDL::Driver                 undef  R/RB/RBERJON/XML-RDDL-1.02.tar.gz
 XML::RDDL::Resource                0.01  R/RB/RBERJON/XML-RDDL-1.02.tar.gz
-XML::Reader                        0.41  K/KE/KEICHNER/XML-Reader-0.41.tar.gz
-XML::Reader::Token                 0.41  K/KE/KEICHNER/XML-Reader-0.41.tar.gz
+XML::Reader                        0.42  K/KE/KEICHNER/XML-Reader-0.42.tar.gz
+XML::Reader::Token                 0.42  K/KE/KEICHNER/XML-Reader-0.42.tar.gz
 XML::Records                       0.12  E/EB/EBOHLMAN/XML-Records-0.12.tar.gz
 XML::RegExp                        0.04  T/TJ/TJMATHER/XML-RegExp-0.04.tar.gz
 XML::Registry                      0.02  E/EI/EISEN/XML-Registry-0.02.tar.gz
