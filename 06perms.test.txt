@@ -477,6 +477,7 @@ Test::RandomResults,COG,m
 Test::Ranger,XIONG,f
 Test::Ranger::List,XIONG,f
 Test::Recent,MARKF,f
+Test::RedisServer,TYPESTER,f
 Test::Refcount,PEVANS,f
 Test::Regex,PETDANCE,f
 Test::Regexp,ABIGAIL,f
