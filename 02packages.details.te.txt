@@ -1493,6 +1493,7 @@ Tk::TiedListbox                     2.5  A/AC/ACH/Tk-Contrib-0.07.tar.gz
 Tk::TIFF                           0.10  S/SR/SREZIC/Tk-TIFF-0.10.tar.gz
 Tk::Tiler                         4.013  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::TimePick                       0.02  K/KN/KNORR/Tk-TimePick-0.02.tar.gz
+Tk::TipEntry                       0.01  A/AS/ASB/Tk-TipEntry-0.01.tar.gz
 Tk::TixGrid                       4.010  S/SR/SREZIC/Tk-804.030.tar.gz
 Tk::TixWidget                     undef  C/CT/CTDEAN/Tk-Tree-0.05.tar.gz
 Tk::TList                         4.006  S/SR/SREZIC/Tk-804.030.tar.gz
