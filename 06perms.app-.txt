@@ -285,6 +285,7 @@ App::nztop,JCUA,m
 App::olson,ZEFRAM,f
 App::olson::LocalDateTime,ZEFRAM,f
 App::olson::UtcDateTime,ZEFRAM,f
+App::optargs,MLAWREN,f
 App::p,IRONCAMEL,f
 App::padadoy,VOJ,f
 App::perlall,RURBAN,f

@@ -418,6 +418,7 @@ Opsview::REST::Status,MRUIZ,f
 Opsview::StatusAPI,JLMARTIN,f
 Opt,YVESP,f
 Opt::Imistic,ALTREUS,f
+OptArgs,MLAWREN,f
 Options,PCHRISTE,f
 Options::Generator,INFRARED,f
 Options::Test,PCHRISTE,f
