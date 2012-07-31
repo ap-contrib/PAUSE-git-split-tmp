@@ -358,10 +358,10 @@ Number::UN                        undef  T/TA/TANTALOR/Number-UN-0.002.tar.gz
 Number::Uncertainty                 1.4  A/AA/AALLAN/Number-Uncertainty-0.1.tar.gz
 Number::WithError                  1.01  S/SM/SMUELLER/Number-WithError-1.01.tar.gz
 Number::WithError::LaTeX           0.06  S/SM/SMUELLER/Number-WithError-LaTeX-0.06.tar.gz
-Number::ZipCode::JP            0.20120629  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120629.tar.gz
-Number::ZipCode::JP::Table     0.20120629  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120629.tar.gz
-Number::ZipCode::JP::Table::Area 0.20120629  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120629.tar.gz
-Number::ZipCode::JP::Table::Company 0.20120629  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120629.tar.gz
+Number::ZipCode::JP            0.20120731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120731.tar.gz
+Number::ZipCode::JP::Table     0.20120731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120731.tar.gz
+Number::ZipCode::JP::Table::Area 0.20120731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120731.tar.gz
+Number::ZipCode::JP::Table::Company 0.20120731  T/TA/TANIGUCHI/Number-ZipCode-JP-0.20120731.tar.gz
 Numeric::LL_Array                0.1504  I/IL/ILYAZ/modules/Numeric-LL_Array-0.1504.tar.gz
 NumericCodes                       0.04  M/MC/MCAUDILL/Net-Bot-IRC-NumericCodes-0.04.tar.gz
 NVDefined                          0.02  B/BP/BPOWERS/NVDefined-0.02.tar.gz
