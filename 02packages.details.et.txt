@@ -386,9 +386,9 @@ Expect::Simple                     0.04  D/DJ/DJERIUS/Expect-Simple-0.04.tar.gz
 ExpenseTracker                      0.3  T/TC/TCONST/Expense-Tracker-0.3.tar.gz
 ExpenseTracker::Controllers::Base   0.3  T/TC/TCONST/Expense-Tracker-0.3.tar.gz
 ExpenseTracker::Controllers::Currency 0.3  T/TC/TCONST/Expense-Tracker-0.3.tar.gz
-ExpenseTracker::Controllers::Login 0.004  T/TC/TCONST/Expense-Tracker-0.004.tar.gz
+ExpenseTracker::Controllers::Login 0.005  T/TC/TCONST/Expense-Tracker-0.005.tar.gz
 ExpenseTracker::Controllers::Site   0.3  T/TC/TCONST/Expense-Tracker-0.3.tar.gz
-ExpenseTracker::Controllers::User 0.004  T/TC/TCONST/Expense-Tracker-0.004.tar.gz
+ExpenseTracker::Controllers::User 0.005  T/TC/TCONST/Expense-Tracker-0.005.tar.gz
 ExpenseTracker::Models              0.3  T/TC/TCONST/Expense-Tracker-0.3.tar.gz
 ExpenseTracker::Models::Result::Category 0.3  T/TC/TCONST/Expense-Tracker-0.3.tar.gz
 ExpenseTracker::Models::Result::Currency 0.3  T/TC/TCONST/Expense-Tracker-0.3.tar.gz
