@@ -255,7 +255,7 @@ Lingua::TreeTagger::Filter        undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
 Lingua::TreeTagger::Filter::Element undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
 Lingua::TreeTagger::Filter::Result undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
 Lingua::TreeTagger::Filter::Result::Hit undef  B/BG/BGAY/Lingua-TreeTagger-Filter.zip
-Lingua::TreeTagger::Installer      0.12  A/AM/AMBS/Lingua/Lingua-TreeTagger-Installer-0.12.tar.gz
+Lingua::TreeTagger::Installer      0.13  A/AM/AMBS/Lingua/Lingua-TreeTagger-Installer-0.13.tar.gz
 Lingua::TreeTagger::TaggedText     0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.04.tar.gz
 Lingua::TreeTagger::Token          0.01  A/AX/AXANTHOS/Lingua-TreeTagger-0.04.tar.gz
 Lingua::TypoGenerator              0.01  I/IT/ITUB/Lingua-TypoGenerator-0.01.tar.gz
