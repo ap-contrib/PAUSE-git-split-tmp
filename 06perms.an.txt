@@ -180,6 +180,7 @@ Apache2::AuthPAM,TIMB,f
 Apache2::AuthTicket,MSCHOUT,f
 Apache2::AuthZLDAP,DOUMBZH,m
 Apache2::AuthZSympa,DOUMBZH,m
+Apache2::Authen::OdinAuth,MPASTERN,f
 Apache2::AuthenDBMCache,REGGERS,m
 Apache2::AuthenMSAD,REGGERS,m
 Apache2::AuthenNIS,ITEAHAUS,f

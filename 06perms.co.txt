@@ -1377,6 +1377,7 @@ Crypt::OTR,DHOSS,c
 Crypt::OTR,HLP,c
 Crypt::OTR,REVMISCHA,m
 Crypt::OTR::PublicKey,REVMISCHA,f
+Crypt::OdinAuth,MPASTERN,f
 Crypt::OpenPGP,BTROTT,m
 Crypt::OpenPGP::Armour,BTROTT,f
 Crypt::OpenPGP::Buffer,BTROTT,f
