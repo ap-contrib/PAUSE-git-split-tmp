@@ -1032,6 +1032,7 @@ Net::RackSpace::CloudServers::Image,MFONTANI,f
 Net::RackSpace::CloudServers::Limits,MFONTANI,f
 Net::RackSpace::CloudServers::Server,MFONTANI,f
 Net::Rackspace::Notes,IRONCAMEL,f
+Net::Radiator::Monitor,LTP,f
 Net::Radio::Location::SUPL::DBusObject,REHSACK,f
 Net::Radio::Location::SUPL::DBusObject::RecvPushMsg,REHSACK,f
 Net::Radio::Location::SUPL::DBusObject::Translator,REHSACK,f
