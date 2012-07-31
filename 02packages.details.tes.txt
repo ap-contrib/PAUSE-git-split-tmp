@@ -359,7 +359,7 @@ test::fuse28::Entity              undef  T/TO/TOSHIFJW/Fuse-Class-0.02.tar.gz
 test::fuse28::File                undef  T/TO/TOSHIFJW/Fuse-Class-0.02.tar.gz
 test::fuse28::Symlink             undef  T/TO/TOSHIFJW/Fuse-Class-0.02.tar.gz
 Test::Games::BonDigi               0.02  C/CO/COSIMO/Games-BonDigi-0.02.tar.gz
-Test::Git                          1.01  B/BO/BOOK/Git-Repository-1.25.tar.gz
+Test::Git                          1.02  B/BO/BOOK/Git-Repository-1.26.tar.gz
 Test::Glade                           1  N/NM/NMUELLER/Test-Glade-1.tar.gz
 Test::Glade::Obj                      1  N/NM/NMUELLER/Test-Glade-1.tar.gz
 Test::GreaterVersion               0.01  G/GG/GGOLDBACH/Test-GreaterVersion-0.01.tar.gz
