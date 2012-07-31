@@ -507,6 +507,10 @@ Gentoo::Overlay::Group::INI::Section,KENTNL,f
 Gentoo::Overlay::Group::INI::Section::Overlays,KENTNL,f
 Gentoo::Overlay::Package,KENTNL,f
 Gentoo::Overlay::Types,KENTNL,f
+Gentoo::Perl::Distmap,KENTNL,f
+Gentoo::Perl::Distmap::Map,KENTNL,f
+Gentoo::Perl::Distmap::Record,KENTNL,f
+Gentoo::Perl::Distmap::RecordSet,KENTNL,f
 Gentoo::PerlMod::Version,KENTNL,f
 Gentoo::PerlMod::Version::FixEbuild,KENTNL,f
 Gentoo::Probe,RPAUL,f
