@@ -1308,6 +1308,7 @@ MooseX::Types::Base,MSTROUT,c
 MooseX::Types::Base,PHAYLON,f
 MooseX::Types::Base,RKITOVER,c
 MooseX::Types::Buf,AUDREYT,f
+MooseX::Types::CIDR,TBR,f
 MooseX::Types::CNPJ,TBR,f
 MooseX::Types::CPF,TBR,f
 MooseX::Types::CacheFileHandle,DEXTER,f
