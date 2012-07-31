@@ -123,6 +123,7 @@ Iodef::Pb::Simple::Plugin::Guid,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Hash,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Incidentid,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Ipv4,SAXJAZMAN,f
+Iodef::Pb::Simple::Plugin::Malware,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Md5,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Purpose,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Relatedactivity,SAXJAZMAN,f
