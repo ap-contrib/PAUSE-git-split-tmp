@@ -95,6 +95,7 @@ DynGig::Util::Logger,KAN,f
 DynGig::Util::MapReduce,KAN,f
 DynGig::Util::MultiPhase,KAN,f
 DynGig::Util::Setuid,KAN,f
+DynGig::Util::Symlink,KAN,f
 DynGig::Util::Sysrw,KAN,f
 DynGig::Util::TCPServer,KAN,f
 DynGig::Util::Time,KAN,f
