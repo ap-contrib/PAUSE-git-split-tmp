@@ -426,6 +426,7 @@ Result                              0.3  A/AS/ASCOPE/Net-Google-0.62.tar.gz
 Retry                              0.12  T/TJ/TJC/Retry-0.12.tar.gz
 Return::DataButBool            0.000003  D/DM/DMUEY/Return-DataButBool-0.0.3.tar.gz
 Return::Value                  1.666001  R/RJ/RJBS/Return-Value-1.666001.tar.gz
+returning                         0.001  T/TO/TOBYINK/returning-0.001.tar.gz
 Reuters::SSL                       0.52  C/CB/CBARKEY/Reuters-SSL-0.52.tar.gz
 revphone                           0.01  P/PH/PHOCUS/revphone-0.01.tar.gz
 Rex                            0.030002  J/JF/JFRIED/Rex-0.30.2.tar.gz
