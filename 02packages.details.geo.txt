@@ -153,9 +153,9 @@ Getopt::LL::Simple                  1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::LL::SimpleExporter          1.0  A/AS/ASKSH/Getopt-LL-1.0.0.tar.gz
 Getopt::Long                       2.38  J/JV/JV/Getopt-Long-2.38.tar.gz
 Getopt::Long::CallBack             2.38  J/JV/JV/Getopt-Long-2.38.tar.gz
-Getopt::Long::Descriptive         0.091  R/RJ/RJBS/Getopt-Long-Descriptive-0.091.tar.gz
-Getopt::Long::Descriptive::Opts   0.091  R/RJ/RJBS/Getopt-Long-Descriptive-0.091.tar.gz
-Getopt::Long::Descriptive::Usage  0.091  R/RJ/RJBS/Getopt-Long-Descriptive-0.091.tar.gz
+Getopt::Long::Descriptive         0.092  R/RJ/RJBS/Getopt-Long-Descriptive-0.092.tar.gz
+Getopt::Long::Descriptive::Opts   0.092  R/RJ/RJBS/Getopt-Long-Descriptive-0.092.tar.gz
+Getopt::Long::Descriptive::Usage  0.092  R/RJ/RJBS/Getopt-Long-Descriptive-0.092.tar.gz
 Getopt::Long::DescriptivePod       0.02  S/ST/STEFFENW/Getopt-Long-DescriptivePod-0.02.tar.gz
 Getopt::Long::GUI                   0.1  H/HA/HARDAKER/Getopt-Long-GUI-0.1.tar.gz
 Getopt::Long::Parser               2.38  J/JV/JV/Getopt-Long-2.38.tar.gz
