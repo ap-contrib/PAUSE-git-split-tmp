@@ -143,8 +143,8 @@ Async_Editor                       0.01  G/GR/GROMMIER/Text-Editor-Easy-0.01.tar
 AsyncAwhileClass                  undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 AsyncAwhileRole                   undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 AsyncData                          0.10  M/MJ/MJD/Async-0.10.tar.gz
-Asyncore                           0.02  S/SE/SEBA/Asyncore-0.02.tar.gz
-Asyncore::Dispatcher               0.02  S/SE/SEBA/Asyncore-0.02.tar.gz
+Asyncore                           0.03  S/SE/SEBA/Asyncore-0.03.tar.gz
+Asyncore::Dispatcher               0.03  S/SE/SEBA/Asyncore-0.03.tar.gz
 AsyncTimeout                       0.10  M/MJ/MJD/Async-0.10.tar.gz
 AtExit                             2.01  B/BR/BRADAPP/AtExit-2.01.tar.gz
 Atheme                           0.0001  S/ST/STEPHANJ/Atheme-0.0001.tar.gz
