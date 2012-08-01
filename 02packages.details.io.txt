@@ -364,8 +364,8 @@ IOC::Slinky::Container::Item::Ref     0  D/DT/DTADY/IOC-Slinky-Container-0.1001.
 IOC::Visitor::SearchForContainer   0.03  S/ST/STEVAN/IOC-0.29.tar.gz
 IOC::Visitor::SearchForService     0.03  S/ST/STEVAN/IOC-0.29.tar.gz
 iodbc                              0.01  J/JM/JMAHAN/iodbc_ext_0_1.tar.gz
-Iodef::_Pb                        undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-0.01.tar.gz
-Iodef::Pb                          0.01  S/SA/SAXJAZMAN/iodef/Iodef-Pb-0.01.tar.gz
+Iodef::_Pb                        undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-0.02.tar.gz
+Iodef::Pb                          0.02  S/SA/SAXJAZMAN/iodef/Iodef-Pb-0.02.tar.gz
 Iodef::Pb::Format                  0.03  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.03.tar.gz
 Iodef::Pb::Format::Csv            undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.03.tar.gz
 Iodef::Pb::Format::Snort          undef  S/SA/SAXJAZMAN/iodef/Iodef-Pb-Format-0.03.tar.gz
