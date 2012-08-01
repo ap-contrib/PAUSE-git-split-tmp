@@ -225,6 +225,7 @@ Finance::Edgar                     0.01  D/DE/DENNISON/Finance-Edgar-0.01.zip
 Finance::FITF                      0.31  C/CL/CLKAO/Finance-FITF-0.31.tar.gz
 Finance::FITF::Writer             undef  C/CL/CLKAO/Finance-FITF-0.31.tar.gz
 Finance::FIX                       0.01  B/BL/BLAIR/Finance-FIX-0.01.tar.gz
+Finance::FXCM::Simple             0.006  J/JO/JOAOCOSTA/Finance-FXCM-Simple-0.006.tar.gz
 Finance::Google::Sector::Mean      0.07  S/SA/SANTEX/Finance-Google-Sector-Mean-0.07.tar.gz
 Finance::HSHrates                  0.01  D/DJ/DJPADZ/Finance-HSHrates-0.01.tar.gz
 Finance::Huntington::Statement    undef  C/CN/CNLAVY/Finance-Huntington-0.01.tar.gz
