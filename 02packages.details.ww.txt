@@ -524,7 +524,7 @@ WWW::MobileCarrierJP::ThirdForce::Java undef  Y/YO/YOSHIMI/WWW-MobileCarrierJP-0
 WWW::MobileCarrierJP::ThirdForce::PictogramInfo undef  Y/YO/YOSHIMI/WWW-MobileCarrierJP-0.62.tar.gz
 WWW::MobileCarrierJP::ThirdForce::Service undef  Y/YO/YOSHIMI/WWW-MobileCarrierJP-0.62.tar.gz
 WWW::MobileCarrierJP::ThirdForce::UserAgent undef  Y/YO/YOSHIMI/WWW-MobileCarrierJP-0.62.tar.gz
-WWW::MobileDevice                  0.01  K/KI/KIELSTR/WWW-MobileDevice-01.tar.gz
+WWW::MobileDevice                  0.01  K/KI/KIELSTR/WWW-MobileDevice-02.tar.gz
 WWW::Modbot                        0.02  M/MI/MICHAEL/modbot/WWW-Modbot-0.02.tar.gz
 WWW::Modbot::Archive               0.01  M/MI/MICHAEL/modbot/WWW-Modbot-0.02.tar.gz
 WWW::Modbot::Archive::HTTP         0.01  M/MI/MICHAEL/modbot/WWW-Modbot-0.02.tar.gz
