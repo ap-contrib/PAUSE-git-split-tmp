@@ -361,7 +361,7 @@ Test::WWW::Mechanize::HSS          0.02  C/CO/CORION/Test-WWW-Mechanize-HSS-0.02
 Test::WWW::Mechanize::JSON         0.72  L/LG/LGODDARD/Test-WWW-Mechanize-JSON-0.72.tar.gz
 Test::WWW::Mechanize::LibXML     v0.0.2  S/SH/SHLOMIF/Test-WWW-Mechanize-LibXML-v0.0.2.tar.gz
 Test::WWW::Mechanize::Maypole      0.23  D/DA/DAVEBAIRD/Test-WWW-Mechanize-Maypole-0.23.tar.gz
-Test::WWW::Mechanize::Mojo      v0.0.10  S/SH/SHLOMIF/Test-WWW-Mechanize-Mojo-v0.0.10.tar.gz
+Test::WWW::Mechanize::Mojo      v0.0.11  S/SH/SHLOMIF/Test-WWW-Mechanize-Mojo-v0.0.11.tar.gz
 Test::WWW::Mechanize::Object      0.020  H/HD/HDP/Test-WWW-Mechanize-Object-0.020.tar.gz
 Test::WWW::Mechanize::PSGI         0.35  L/LB/LBROCARD/Test-WWW-Mechanize-PSGI-0.35.tar.gz
 Test::WWW::Selenium                1.33  L/LU/LUKEC/Test-WWW-Selenium-1.33.tar.gz
