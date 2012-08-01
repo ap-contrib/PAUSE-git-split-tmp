@@ -273,8 +273,8 @@ JSON::T                           0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
 JSON::T::JE                       0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
 JSON::T::SpiderMonkey             0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
 JSON::Util                         0.05  J/JK/JKUTEJ/JSON-Util-0.05.tar.gz
-JSON::XS                           2.32  M/ML/MLEHMANN/JSON-XS-2.32.tar.gz
-JSON::XS::Boolean                  2.32  M/ML/MLEHMANN/JSON-XS-2.32.tar.gz
+JSON::XS                           2.33  M/ML/MLEHMANN/JSON-XS-2.33.tar.gz
+JSON::XS::Boolean                  2.33  M/ML/MLEHMANN/JSON-XS-2.33.tar.gz
 JSON::XS::VersionOneAndTwo         0.31  L/LB/LBROCARD/JSON-XS-VersionOneAndTwo-0.31.tar.gz
 JSON::YAJL                         0.10  L/LB/LBROCARD/JSON-YAJL-0.10.tar.gz
 JSON::YAJL::Generator              0.10  L/LB/LBROCARD/JSON-YAJL-0.10.tar.gz
