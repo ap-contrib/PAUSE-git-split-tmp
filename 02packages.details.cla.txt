@@ -387,9 +387,9 @@ ClearPress::util                    413  R/RP/RPETTETT/ClearPress-441.tar.gz
 ClearPress::view                    423  R/RP/RPETTETT/ClearPress-441.tar.gz
 ClearPress::view::error             413  R/RP/RPETTETT/ClearPress-441.tar.gz
 CLI::Application                   0.03  J/JK/JKRAMER/CLI-Application-0.03.tar.gz
-CLI::Dispatch                      0.14  I/IS/ISHIGAKI/CLI-Dispatch-0.14.tar.gz
-CLI::Dispatch::Command            undef  I/IS/ISHIGAKI/CLI-Dispatch-0.14.tar.gz
-CLI::Dispatch::Help               undef  I/IS/ISHIGAKI/CLI-Dispatch-0.14.tar.gz
+CLI::Dispatch                      0.15  I/IS/ISHIGAKI/CLI-Dispatch-0.15.tar.gz
+CLI::Dispatch::Command            undef  I/IS/ISHIGAKI/CLI-Dispatch-0.15.tar.gz
+CLI::Dispatch::Help               undef  I/IS/ISHIGAKI/CLI-Dispatch-0.15.tar.gz
 CLI::Framework                     0.05  K/KE/KERISMAN/CLI-Framework-0.05.tar.gz
 CLI::Framework::Application        0.04  K/KE/KERISMAN/CLI-Framework-0.05.tar.gz
 CLI::Framework::Cache              0.04  K/KE/KERISMAN/CLI-Framework-0.05.tar.gz
