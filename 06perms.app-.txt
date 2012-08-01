@@ -391,6 +391,7 @@ App::wmiirc::Ssh,DGL,f
 App::wmiirc::Tag,DGL,f
 App::wmiirc::Util,DGL,f
 App::wmiirc::Volume,DGL,f
+App::wrapspeak,MUCKER,f
 AppConfig,ABW,m
 AppConfig,ADAMK,c
 AppConfig::Args,ABW,c
