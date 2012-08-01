@@ -1085,6 +1085,7 @@ RT::Extension::TicketLocking,TSIBLEY,f
 RT::Extension::Timeline,HTCHAPMAN,f
 RT::Extension::ToggleSuperUser,ELACOUR,f
 RT::Extension::UserDetails,ELACOUR,f
+RT::Extension::UsernameFormat::Organization,TSIBLEY,f
 RT::Extension::Utils,RUZ,c
 RT::Extension::Utils,TSIBLEY,f
 RT::Extension::ViaLink::UpdateTicket,RUZ,c

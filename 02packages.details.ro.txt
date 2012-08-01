@@ -475,6 +475,7 @@ RT::Extension::TicketLocking       0.10  R/RU/RUZ/RT-Extension-TicketLocking-0.1
 RT::Extension::Timeline            0.03  H/HT/HTCHAPMAN/RTx-Timeline-0.03.tar.gz
 RT::Extension::ToggleSuperUser     0.02  E/EL/ELACOUR/RT-Extension-ToggleSuperUser-0.02.tar.gz
 RT::Extension::UserDetails         0.02  E/EL/ELACOUR/RT-Extension-UserDetails-0.02.tar.gz
+RT::Extension::UsernameFormat::Organization 0.01  T/TS/TSIBLEY/RT-Extension-UsernameFormat-Organization-0.01.tar.gz
 RT::Extension::Utils               0.05  R/RU/RUZ/RT-Extension-Utils-0.05.tar.gz
 RT::Extension::ViaLink::UpdateTicket 0.02  R/RU/RUZ/RT-Extension-ViaLink-UpdateTicket-0.02.tar.gz
 RT::Extension::WatchedQueues       0.03  E/EL/ELACOUR/RT-Extension-WatchedQueues-0.03.tar.gz
