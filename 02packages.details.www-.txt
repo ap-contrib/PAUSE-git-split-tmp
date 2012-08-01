@@ -1123,7 +1123,7 @@ X11::Top                            0.2  B/BW/BWKECK/xchar-0.2.tar.gz
 X11::Tops                           0.2  B/BW/BWKECK/xchar-0.2.tar.gz
 X11::Wallpaper                    undef  R/RJ/RJH/X11-Wallpaper-1.1.tar.gz
 X11::Wcl                            0.3  J/JH/JHPB/X11-Wcl-0.3.tar.gz
-X11::WindowHierarchy              0.002  T/TE/TEAM/X11-WindowHierarchy-0.002.tar.gz
+X11::WindowHierarchy              0.003  T/TE/TEAM/X11-WindowHierarchy-0.003.tar.gz
 X11::WM::Sawfish                   0.03  A/AG/AGRICOCB/X11-WM-Sawfish-0.03.tar.gz
 X11::WM::Sawfish::UNIX             0.02  A/AG/AGRICOCB/X11-WM-Sawfish-0.03.tar.gz
 X11::WM::Sawfish::XProp            0.01  A/AG/AGRICOCB/X11-WM-Sawfish-0.03.tar.gz
