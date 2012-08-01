@@ -567,8 +567,8 @@ Mac::Finder::DSStore::BuddyAllocator::Block undef  W/WI/WIML/Mac-Finder-DSStore-
 Mac::Finder::DSStore::BuddyAllocator::StringBlock undef  W/WI/WIML/Mac-Finder-DSStore-0.96.tar.gz
 Mac::Finder::DSStore::BuddyAllocator::WriteBlock undef  W/WI/WIML/Mac-Finder-DSStore-0.96.tar.gz
 Mac::Finder::DSStore::Entry       undef  W/WI/WIML/Mac-Finder-DSStore-0.96.tar.gz
-Mac::FSEvents                      0.08  R/RH/RHOELZ/Mac-FSEvents-0.08.tar.gz
-Mac::FSEvents::Event              undef  R/RH/RHOELZ/Mac-FSEvents-0.08.tar.gz
+Mac::FSEvents                      0.09  R/RH/RHOELZ/Mac-FSEvents-0.09.tar.gz
+Mac::FSEvents::Event              undef  R/RH/RHOELZ/Mac-FSEvents-0.09.tar.gz
 Mac::Gestalt                       1.03  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
 Mac::Gestalt::_GestaltHash         1.03  C/CN/CNANDOR/Mac-Carbon-0.82.tar.gz
 Mac::Glue                          1.30  C/CN/CNANDOR/Mac-Glue-1.30.tar.gz
