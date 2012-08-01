@@ -738,9 +738,9 @@ true::VERSION                      0.18  C/CH/CHOCOLATE/true-0.18.tar.gz
 Trustee                           0.002  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 Try::Tiny                          0.11  D/DO/DOY/Try-Tiny-0.11.tar.gz
 Try::Tiny::ScopeGuard              0.07  R/RJ/RJBS/Try-Tiny-0.07.tar.gz
-Try::Tiny::SmartCatch               0.2  M/MY/MYSZ/Try-Tiny-SmartCatch-0.2.tar.gz
-Try::Tiny::SmartCatch::Catch::Default 0.2  M/MY/MYSZ/Try-Tiny-SmartCatch-0.2.tar.gz
-Try::Tiny::SmartCatch::Catch::When  0.2  M/MY/MYSZ/Try-Tiny-SmartCatch-0.2.tar.gz
+Try::Tiny::SmartCatch               0.3  M/MY/MYSZ/Try-Tiny-SmartCatch-0.3.tar.gz
+Try::Tiny::SmartCatch::Catch::Default 0.3  M/MY/MYSZ/Try-Tiny-SmartCatch-0.3.tar.gz
+Try::Tiny::SmartCatch::Catch::When  0.3  M/MY/MYSZ/Try-Tiny-SmartCatch-0.3.tar.gz
 Try::Tiny::WarnCaught              0.01  R/RA/RATAXIS/Try-Tiny-WarnCaught-0.01.tar.gz
 TryCatch                       1.003000  A/AS/ASH/TryCatch-1.003000.tar.gz
 TryCatch::Error                    0.01  P/PF/PFIG/TryCatch-Error-0.01.tar.gz
