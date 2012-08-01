@@ -946,6 +946,7 @@ Task::Cpanel::Kensho,CPANEL,f
 Task::Dancer,AMBS,c
 Task::Dancer,XSAWYERX,f
 Task::Data::Format::Pretty,SHARYANTO,f
+Task::Data::Sah,SHARYANTO,f
 Task::Data::Unixish,SHARYANTO,f
 Task::DataFlow,RUSSOZ,f
 Task::Deprecations::5_12,CHROMATIC,c
