@@ -212,7 +212,7 @@ User::Utmp                          1.8  M/MP/MPIOTR/User-Utmp-1.8.tar.gz
 UserStoryData                     undef  M/MS/MSCHWERN/XPlanner-0.01.tar.gz
 Uses                               2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 utf8                               1.09  F/FL/FLORA/perl-5.15.4.tar.gz
-utf8::all                         0.006  D/DO/DOHERTY/utf8-all-0.006.tar.gz
+utf8::all                         0.007  D/DO/DOHERTY/utf8-all-0.007.tar.gz
 UTF8BOM                            1.02  L/LY/LYOKATO/UTF8BOM-1.02.tar.gz
 Util::Any                          0.22  K/KT/KTAT/Util-Any-0.22.tar.gz
 Util::BLOB                          0.1  A/AR/AREGGIORI/RDFStore-0.51.tar.gz
