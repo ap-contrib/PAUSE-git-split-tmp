@@ -369,7 +369,7 @@ Image::ANSI::Pixel                 0.10  B/BR/BRICAS/Image-ANSI-0.10.tar.gz
 Image::ANSI::Utils                 0.10  B/BR/BRICAS/Image-ANSI-0.10.tar.gz
 Image::ANSIMation                  0.10  B/BR/BRICAS/Image-ANSI-0.10.tar.gz
 Image::ANSIMation::Parser          0.10  B/BR/BRICAS/Image-ANSI-0.10.tar.gz
-Image::Base                        1.16  K/KR/KRYDE/Image-Base-1.16.tar.gz
+Image::Base                        1.17  K/KR/KRYDE/Image-Base-1.17.tar.gz
 Image::Base::GD                      15  K/KR/KRYDE/Image-Base-GD-15.tar.gz
 Image::Base::Gtk2::Gdk::Drawable     11  K/KR/KRYDE/Image-Base-Gtk2-11.tar.gz
 Image::Base::Gtk2::Gdk::Image        11  K/KR/KRYDE/Image-Base-Gtk2-11.tar.gz
