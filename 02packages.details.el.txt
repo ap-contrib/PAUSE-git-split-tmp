@@ -55,7 +55,7 @@ Email::Abstract::MailMessage      undef  R/RJ/RJBS/Email-Abstract-3.004.tar.gz
 Email::Abstract::MIMEEntity       undef  R/RJ/RJBS/Email-Abstract-3.004.tar.gz
 Email::Abstract::Plugin           3.004  R/RJ/RJBS/Email-Abstract-3.004.tar.gz
 Email::Abstract::QpsmtpdTransaction 0.02  T/TO/TOMITA/Email-Abstract-QpsmtpdTransaction-0.02.tar.gz
-Email::Address                    1.895  R/RJ/RJBS/Email-Address-1.895.tar.gz
+Email::Address                    1.896  R/RJ/RJBS/Email-Address-1.896.tar.gz
 Email::Address::JP::Mobile         0.08  T/TO/TOMITA/Email-Address-JP-Mobile-0.08.tar.gz
 Email::Address::JP::Mobile::AirH  undef  T/TO/TOMITA/Email-Address-JP-Mobile-0.08.tar.gz
 Email::Address::JP::Mobile::Base  undef  T/TO/TOMITA/Email-Address-JP-Mobile-0.08.tar.gz
