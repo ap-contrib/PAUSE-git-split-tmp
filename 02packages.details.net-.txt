@@ -288,7 +288,7 @@ Net::Google::SafeBrowsing2::DBI     0.7  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-
 Net::Google::SafeBrowsing2::Lookup  0.2  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-1.07.tar.gz
 Net::Google::SafeBrowsing2::MySQL   0.5  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-1.07.tar.gz
 Net::Google::SafeBrowsing2::Postgres 0.02  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-1.07.tar.gz
-Net::Google::SafeBrowsing2::Redis   0.2  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-Redis-0.2.tar.gz
+Net::Google::SafeBrowsing2::Redis   0.3  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-Redis-0.3.tar.gz
 Net::Google::SafeBrowsing2::Sqlite  0.8  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-1.07.tar.gz
 Net::Google::SafeBrowsing2::Storage 0.4  J/JS/JSOBRIER/Net-Google-SafeBrowsing2-1.07.tar.gz
 Net::Google::SafeBrowsing::UpdateRequest 1.06  D/DA/DANBORN/Net-Google-SafeBrowsing-UpdateRequest-1.06.tar.gz
