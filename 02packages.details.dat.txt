@@ -873,7 +873,7 @@ Data::Util                         0.59  G/GF/GFUJI/Data-Util-0.59.tar.gz
 Data::Util::Error                 undef  G/GF/GFUJI/Data-Util-0.59.tar.gz
 Data::Util::PurePerl              undef  G/GF/GFUJI/Data-Util-0.59.tar.gz
 Data::Utilities                    0.04  C/CO/CORNELIS/Data-Utilities-0.04.tar.gz
-Data::UUID                        1.217  R/RJ/RJBS/Data-UUID-1.217.tar.gz
+Data::UUID                        1.218  R/RJ/RJBS/Data-UUID-1.218.tar.gz
 Data::UUID::Base64URLSafe          0.34  L/LB/LBROCARD/Data-UUID-Base64URLSafe-0.34.tar.gz
 Data::UUID::Concise            0.121240  N/NR/NRR/Data-UUID-Concise-0.121240.tar.gz
 Data::UUID::LibUUID                0.05  N/NU/NUFFIN/Data-UUID-LibUUID-0.05.tar.gz
