@@ -307,10 +307,10 @@ App::Twpin                        0.007  R/RE/REDICAPS/App-Twpin-0.007.tar.gz
 App::Uni                              8  A/AU/AUDREYT/App-Uni-8.tar.gz
 App::UniqFiles                     0.05  S/SH/SHARYANTO/App-UniqFiles-0.05.tar.gz
 App::Unix::RPasswd                 0.40  N/NX/NXADM/App-Unix-RPasswd-0.40.tar.gz
-App::Upfiles                          5  K/KR/KRYDE/upfiles-5.tar.gz
-App::Upfiles::Conf                    5  K/KR/KRYDE/upfiles-5.tar.gz
-App::Upfiles::FTPlazy                 5  K/KR/KRYDE/upfiles-5.tar.gz
-App::Upfiles::Tie::Handle::Throttle   5  K/KR/KRYDE/upfiles-5.tar.gz
+App::Upfiles                          6  K/KR/KRYDE/upfiles-6.tar.gz
+App::Upfiles::Conf                    6  K/KR/KRYDE/upfiles-6.tar.gz
+App::Upfiles::FTPlazy                 6  K/KR/KRYDE/upfiles-6.tar.gz
+App::Upfiles::Tie::Handle::Throttle   6  K/KR/KRYDE/upfiles-6.tar.gz
 App::USBKeyCopyCon                 1.02  G/GR/GRANTM/App-USBKeyCopyCon-1.02.tar.gz
 App::USBKeyCopyCon::Chrome        undef  G/GR/GRANTM/App-USBKeyCopyCon-1.02.tar.gz
 App::User                          1.01  C/CW/CWINTERS/Workflow-0.15.tar.gz

@@ -114,8 +114,10 @@ Gtk2::Ex::Spinner::EntryWithCancel,STRZELEC,f
 Gtk2::Ex::Spinner::PopupForEntry,STRZELEC,f
 Gtk2::Ex::Splash,KRYDE,f
 Gtk2::Ex::Statusbar::DynamicContext,KRYDE,f
+Gtk2::Ex::Statusbar::Message,KRYDE,f
 Gtk2::Ex::Statusbar::MessageUntilKey,KRYDE,f
 Gtk2::Ex::SyncCall,KRYDE,f
+Gtk2::Ex::TableBits,KRYDE,f
 Gtk2::Ex::TextBufferBits,KRYDE,f
 Gtk2::Ex::TextView::FollowAppend,KRYDE,f
 Gtk2::Ex::Threads::DBI,OFEYAIKON,f

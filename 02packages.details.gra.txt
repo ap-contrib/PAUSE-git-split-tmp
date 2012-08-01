@@ -473,8 +473,8 @@ Gtk2::CV::PrintDialog             undef  M/ML/MLEHMANN/Gtk2-CV-1.56.tar.gz
 Gtk2::CV::Progress                undef  M/ML/MLEHMANN/Gtk2-CV-1.56.tar.gz
 Gtk2::CV::Schnauzer               undef  M/ML/MLEHMANN/Gtk2-CV-1.56.tar.gz
 Gtk2::CV::Schnauzer::DrawingArea  undef  M/ML/MLEHMANN/Gtk2-CV-1.56.tar.gz
-Gtk2::Ex::ActionTooltips             46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
-Gtk2::Ex::AdjustmentBits             46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
+Gtk2::Ex::ActionTooltips             47  K/KR/KRYDE/Gtk2-Ex-WidgetBits-47.tar.gz
+Gtk2::Ex::AdjustmentBits             47  K/KR/KRYDE/Gtk2-Ex-WidgetBits-47.tar.gz
 Gtk2::Ex::Builder              0.003001  A/AM/AMORETTE/Gtk2-Ex-Builder-0.003001.tar.gz
 Gtk2::Ex::CalendarButton           0.01  O/OF/OFEYAIKON/Gtk2-Ex-CalendarButton-0.01.tar.gz
 Gtk2::Ex::Carp                     0.01  G/GB/GBROWN/Gtk2-Ex-Carp-0.01.tar.gz
@@ -490,7 +490,7 @@ Gtk2::Ex::ComboBox::PixbufType       32  K/KR/KRYDE/Gtk2-Ex-ComboBoxBits-32.tar.
 Gtk2::Ex::ComboBox::Text             32  K/KR/KRYDE/Gtk2-Ex-ComboBoxBits-32.tar.gz
 Gtk2::Ex::ComboBoxBits               32  K/KR/KRYDE/Gtk2-Ex-ComboBoxBits-32.tar.gz
 Gtk2::Ex::Constants                0.08  K/KC/KCK/Gtk2-Ex-Utils-0.09.tar.gz
-Gtk2::Ex::ContainerBits              46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
+Gtk2::Ex::ContainerBits              47  K/KR/KRYDE/Gtk2-Ex-WidgetBits-47.tar.gz
 Gtk2::Ex::CrossHair                  22  K/KR/KRYDE/Gtk2-Ex-Xor-22.tar.gz
 Gtk2::Ex::Dashes                      2  K/KR/KRYDE/Gtk2-Ex-Dashes-2.tar.gz
 Gtk2::Ex::Dashes::MenuItem            2  K/KR/KRYDE/Gtk2-Ex-Dashes-2.tar.gz
@@ -521,7 +521,7 @@ Gtk2::Ex::Email::AddressVBox   0.000001  V/VV/VVELOX/Gtk2-Ex-Email-AddressVBox-0
 Gtk2::Ex::Email::AttachmentVBox 0.000001  V/VV/VVELOX/Gtk2-Ex-Email-AttachmentVBox-0.0.1.tar.gz
 Gtk2::Ex::Email::Compose       0.001000  V/VV/VVELOX/Gtk2-Ex-Email-Compose-0.1.0.tar.gz
 Gtk2::Ex::Entry::Pango             0.10  P/PO/POTYL/Gtk2-Ex-Entry-Pango-0.10.tar.gz
-Gtk2::Ex::EntryBits                  46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
+Gtk2::Ex::EntryBits                  47  K/KR/KRYDE/Gtk2-Ex-WidgetBits-47.tar.gz
 Gtk2::Ex::ErrorTextDialog            10  K/KR/KRYDE/Gtk2-Ex-ErrorTextDialog-10.tar.gz
 Gtk2::Ex::ErrorTextDialog::Handler   10  K/KR/KRYDE/Gtk2-Ex-ErrorTextDialog-10.tar.gz
 Gtk2::Ex::ErrorTextDialog::SaveDialog 10  K/KR/KRYDE/Gtk2-Ex-ErrorTextDialog-10.tar.gz
@@ -573,8 +573,8 @@ Gtk2::Ex::FormFactory::VSeparator undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.
 Gtk2::Ex::FormFactory::Widget     undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
 Gtk2::Ex::FormFactory::Window     undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
 Gtk2::Ex::FormFactory::YesNo      undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
-Gtk2::Ex::FreezeChildNotify          46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
-Gtk2::Ex::GdkBits                    46  K/KR/KRYDE/Gtk2-Ex-WidgetBits-46.tar.gz
+Gtk2::Ex::FreezeChildNotify          47  K/KR/KRYDE/Gtk2-Ex-WidgetBits-47.tar.gz
+Gtk2::Ex::GdkBits                    47  K/KR/KRYDE/Gtk2-Ex-WidgetBits-47.tar.gz
 Gtk2::Ex::Geo                      0.63  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.63.tar.gz
 Gtk2::Ex::Geo::Canvas              0.62  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.63.tar.gz
 Gtk2::Ex::Geo::Composite           0.43  A/AJ/AJOLMA/Gtk2-Ex-Geo-0.43.tar.gz
