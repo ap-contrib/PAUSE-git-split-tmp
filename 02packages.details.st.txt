@@ -89,7 +89,7 @@ Sub::Exporter                     0.984  R/RJ/RJBS/Sub-Exporter-0.984.tar.gz
 Sub::Exporter::ForMethods      0.100050  R/RJ/RJBS/Sub-Exporter-ForMethods-0.100050.tar.gz
 Sub::Exporter::GlobExporter       0.002  R/RJ/RJBS/Sub-Exporter-GlobExporter-0.002.tar.gz
 Sub::Exporter::Lexical         0.092291  R/RJ/RJBS/Sub-Exporter-Lexical-0.092291.tar.gz
-Sub::Exporter::Progressive     0.001002  F/FR/FREW/Sub-Exporter-Progressive-0.001002.tar.gz
+Sub::Exporter::Progressive     0.001003  F/FR/FREW/Sub-Exporter-Progressive-0.001003.tar.gz
 Sub::Exporter::Simple          1.103210  M/MI/MITHALDU/Sub-Exporter-Simple-1.103210.tar.gz
 Sub::Exporter::Util               0.984  R/RJ/RJBS/Sub-Exporter-0.984.tar.gz
 Sub::Filter                       0.003  Z/ZE/ZEFRAM/Sub-Filter-0.003.tar.gz
