@@ -68,7 +68,7 @@ Markdent::Simple::Document         0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
 Markdent::Simple::Fragment         0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
 Markdent::Types                    0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
 Markdent::Types::Internal          0.22  D/DR/DROLSKY/Markdent-0.22.tar.gz
-Markdown::Foswiki                  0.02  S/SK/SKYEND/Markdown-Foswiki-0.02.tar.gz
+Markdown::Foswiki                  0.03  S/SK/SKYEND/Markdown-Foswiki-0.03.tar.gz
 Markdown::Pod                     0.003  K/KE/KEEDI/Markdown-Pod-0.003.tar.gz
 Markdown::Pod::Handler            0.003  K/KE/KEEDI/Markdown-Pod-0.003.tar.gz
 Markdown::Pod::script             0.003  K/KE/KEEDI/Markdown-Pod-0.003.tar.gz
