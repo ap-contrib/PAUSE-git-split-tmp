@@ -862,6 +862,7 @@ Net::PubSubHubbub::Publisher,BRADFITZ,f
 Net::PulseMeter,MOTONAROL,f
 Net::PulseMeter::Sensor::Base,MOTONAROL,f
 Net::PulseMeter::Sensor::Counter,MOTONAROL,f
+Net::PulseMeter::Sensor::HashedCounter,MOTONAROL,f
 Net::PulseMeter::Sensor::HashedIndicator,MOTONAROL,f
 Net::PulseMeter::Sensor::Indicator,MOTONAROL,f
 Net::PulseMeter::Sensor::Timeline,MOTONAROL,f
