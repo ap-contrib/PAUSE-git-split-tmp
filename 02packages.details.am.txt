@@ -1,9 +1,9 @@
-Amon2::Util                       undef  T/TO/TOKUHIROM/Amon2-3.37.tar.gz
-Amon2::Web                        undef  T/TO/TOKUHIROM/Amon2-3.37.tar.gz
-Amon2::Web::Dispatcher::Lite      undef  T/TO/TOKUHIROM/Amon2-3.37.tar.gz
-Amon2::Web::Dispatcher::RouterSimple undef  T/TO/TOKUHIROM/Amon2-3.37.tar.gz
-Amon2::Web::Request               undef  T/TO/TOKUHIROM/Amon2-3.37.tar.gz
-Amon2::Web::Response              undef  T/TO/TOKUHIROM/Amon2-3.37.tar.gz
+Amon2::Util                       undef  T/TO/TOKUHIROM/Amon2-3.38.tar.gz
+Amon2::Web                        undef  T/TO/TOKUHIROM/Amon2-3.38.tar.gz
+Amon2::Web::Dispatcher::Lite      undef  T/TO/TOKUHIROM/Amon2-3.38.tar.gz
+Amon2::Web::Dispatcher::RouterSimple undef  T/TO/TOKUHIROM/Amon2-3.38.tar.gz
+Amon2::Web::Request               undef  T/TO/TOKUHIROM/Amon2-3.38.tar.gz
+Amon2::Web::Response              undef  T/TO/TOKUHIROM/Amon2-3.38.tar.gz
 AMPR::Rip44                        0.03  C/CJ/CJCOLLIER/AMPRRip44/AMPR-Rip44-0.03.tar.gz
 AMSSerializer                      0.02  J/JA/JASHMENN/SOAP-Amazon-MerchantTransport-0.02.tar.gz
 AMX2                              undef  J/JZ/JZOBEL/Apache2-ModXml2-0.01.tar.gz
