@@ -388,7 +388,7 @@ LWP::Protocol::GHTTP              undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::gopher             undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::http               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::http10              6.03  G/GA/GAAS/LWP-Protocol-http10-6.03.tar.gz
-LWP::Protocol::http::hosts        undef  M/MA/MASAKI/LWP-UserAgent-DNS-Hosts-0.04.tar.gz
+LWP::Protocol::http::hosts        undef  M/MA/MASAKI/LWP-UserAgent-DNS-Hosts-0.05.tar.gz
 LWP::Protocol::http::Socket       undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::http::SocketMethods undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::http::SocketUnix    0.02  F/FL/FLORA/LWP-Protocol-http-SocketUnix-0.02.tar.gz
@@ -402,7 +402,7 @@ LWP::Protocol::http::SocksChain10   1.7  G/GO/GOSHA/LWP-Protocol-http-SocksChain
 LWP::Protocol::http::SocksChain::Socket 1.7  G/GO/GOSHA/LWP-Protocol-http-SocksChain-1.7.tar.gz
 LWP::Protocol::https               6.03  G/GA/GAAS/LWP-Protocol-https-6.03.tar.gz
 LWP::Protocol::https10            undef  G/GA/GAAS/libwww-perl-6.01.tar.gz
-LWP::Protocol::https::hosts       undef  M/MA/MASAKI/LWP-UserAgent-DNS-Hosts-0.04.tar.gz
+LWP::Protocol::https::hosts       undef  M/MA/MASAKI/LWP-UserAgent-DNS-Hosts-0.05.tar.gz
 LWP::Protocol::https::Socket       6.03  G/GA/GAAS/LWP-Protocol-https-6.03.tar.gz
 LWP::Protocol::https::socks         1.6  S/SC/SCR/LWP-Protocol-socks-1.6.tar.gz
 LWP::Protocol::https::socks::Socket 1.6  S/SC/SCR/LWP-Protocol-socks-1.6.tar.gz
@@ -461,7 +461,7 @@ LWP::UserAgent::AtomClient        undef  M/MI/MIYAGAWA/XML-Atom-0.41.tar.gz
 LWP::UserAgent::Cache::Memcached   0.02  S/SH/SHIRAIWA/LWP-UserAgent-Cache-Memcached-0.02.tar.gz
 LWP::UserAgent::Cached             0.03  O/OL/OLEG/LWP-UserAgent-Cached-0.03.tar.gz
 LWP::UserAgent::Determined         1.06  J/JE/JESSE/LWP-UserAgent-Determined-1.06.tar.gz
-LWP::UserAgent::DNS::Hosts         0.04  M/MA/MASAKI/LWP-UserAgent-DNS-Hosts-0.04.tar.gz
+LWP::UserAgent::DNS::Hosts         0.05  M/MA/MASAKI/LWP-UserAgent-DNS-Hosts-0.05.tar.gz
 LWP::UserAgent::ExponentialBackoff 0.04  M/MA/MARROTTE/LWP-UserAgent-ExponentialBackoff-004/LWP-UserAgent-ExponentialBackoff-0.04.tar.gz
 LWP::UserAgent::FramesReady       1.023  D/DE/DERHAAG/FramesReady-1.023.tar.gz
 LWP::UserAgent::Keychain           0.01  M/MI/MIYAGAWA/LWP-UserAgent-Keychain-0.01.tar.gz
