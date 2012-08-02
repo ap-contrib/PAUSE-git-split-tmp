@@ -490,7 +490,7 @@ Geo::Shape                         0.93  M/MA/MARKOV/Geo-Point-0.93.tar.gz
 Geo::ShapeFile                     2.52  J/JA/JASONK/Geo-ShapeFile-2.52.tar.gz
 Geo::ShapeFile::Point              2.52  J/JA/JASONK/Geo-ShapeFile-2.52.tar.gz
 Geo::ShapeFile::Shape              2.52  J/JA/JASONK/Geo-ShapeFile-2.52.tar.gz
-Geo::Shapefile::Writer            0.002  L/LI/LIOSHA/Geo-Shapefile-Writer-0.002.tar.gz
+Geo::Shapefile::Writer            0.003  L/LI/LIOSHA/Geo-Shapefile-Writer-0.003.tar.gz
 Geo::Shapelib                      0.20  A/AJ/AJOLMA/Geo-Shapelib-0.20.tar.gz
 Geo::Space                         0.93  M/MA/MARKOV/Geo-Point-0.93.tar.gz
 Geo::SpaceManager                  0.91  J/JG/JGIBSON/Geo-SpaceManager-0.91.tar.gz

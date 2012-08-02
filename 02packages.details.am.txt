@@ -351,7 +351,7 @@ AnyEvent::Callback                 0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.g
 AnyEvent::Callback::Stack          0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.gz
 AnyEvent::Callback::Stack::Result  0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.gz
 AnyEvent::CallbackStack            0.09  B/BL/BLUET/AnyEvent-CallbackStack-0.09.tgz
-AnyEvent::Capture              0.001000  W/WI/WINTER/AnyEvent-Capture-0.1.0.tar.gz
+AnyEvent::Capture              0.001001  W/WI/WINTER/AnyEvent-Capture-0.1.1.tar.gz
 AnyEvent::Collect              0.001000  W/WI/WINTER/AnyEvent-Collect-0.1.0.tar.gz
 AnyEvent::CondVar                  7.01  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
 AnyEvent::CondVar::Base            7.01  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
