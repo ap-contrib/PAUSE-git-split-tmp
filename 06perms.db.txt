@@ -251,6 +251,7 @@ DBIx::Class::Migration::SqliteSandbox,JJNAPIORK,f
 DBIx::Class::Migration::TargetDirSandboxBuilder,JJNAPIORK,f
 DBIx::Class::Migration::TempDirBuilder,JJNAPIORK,f
 DBIx::Class::Migration::TempDirSandboxBuilder,JJNAPIORK,f
+DBIx::Class::Migration::Types,JJNAPIORK,f
 DBIx::Class::MooseColumns,MENDEL,f
 DBIx::Class::MooseColumns,MSTROUT,c
 DBIx::Class::MooseColumns,RIBASUSHI,c
