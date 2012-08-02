@@ -36,6 +36,7 @@ Math::Curve::Hilbert,TEEJAY,f
 Math::DVector,CHM,f
 Math::DVector,LUKKA,c
 Math::Decimal,ZEFRAM,f
+Math::Decimal64,SISYPHUS,f
 Math::Derivative,CHORNY,m
 Math::Derivative,JARW,c
 Math::Derivative,MIWALTER,c

@@ -870,7 +870,11 @@ SQL::DB::ARow,MLAWREN,f
 SQL::DB::Column,MLAWREN,f
 SQL::DB::Cursor,MLAWREN,f
 SQL::DB::Expr,MLAWREN,f
+SQL::DB::Expr::BindValue,MLAWREN,f
+SQL::DB::Expr::Quote,MLAWREN,f
+SQL::DB::Expr::SQL,MLAWREN,f
 SQL::DB::Function,MLAWREN,f
+SQL::DB::Iter,MLAWREN,f
 SQL::DB::Object,MLAWREN,f
 SQL::DB::Query,MLAWREN,f
 SQL::DB::Query::Delete,MLAWREN,f
@@ -886,6 +890,12 @@ SQL::DB::Schema::Expr,MLAWREN,f
 SQL::DB::Schema::Query,MLAWREN,f
 SQL::DB::Schema::Table,MLAWREN,f
 SQL::DB::Table,MLAWREN,f
+SQL::DBx::Deploy,MLAWREN,f
+SQL::DBx::Pg,MLAWREN,f
+SQL::DBx::SQLite,MLAWREN,f
+SQL::DBx::SQLite::agg_sha1,MLAWREN,f
+SQL::DBx::SQLite::agg_sha1_base64,MLAWREN,f
+SQL::DBx::SQLite::agg_sha1_hex,MLAWREN,f
 SQL::DMLGenerator,ADRIANWIT,f
 SQL::Dialect,BLUEFEET,f
 SQL::Dialects::ANSI,JZUCKER,c
