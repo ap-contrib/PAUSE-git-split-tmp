@@ -185,7 +185,8 @@ Sphinx::Log::Parser                0.03  F/FA/FAYLAND/Sphinx-Log-Parser-0.03.tar
 Sphinx::Manager                    0.06  J/JJ/JJSCHUTZ/Sphinx-Manager-0.06.tar.gz
 Sphinx::XML::Pipe2                undef  E/EG/EGOR/Sphinx-XML-Pipe2-0.002.tar.gz
 spice                              0.01  S/SR/SROHIT/Spice-0_01.tar.gz
-Spiffy                             0.30  I/IN/INGY/Spiffy-0.30.tar.gz
+Spiffy                             0.31  I/IN/INGY/Spiffy-0.31.tar.gz
+Spiffy::mixin                     undef  I/IN/INGY/Spiffy-0.31.tar.gz
 SpinBoxDelegate                   undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 SplashItem                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Spline                            undef  F/FI/FIGANIM/FigAnim-0.1.tar.gz
