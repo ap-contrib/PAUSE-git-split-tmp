@@ -301,9 +301,9 @@ Proc::Swarm::Queue                  1.0  D/DI/DIEDERICH/Proc-Swarm-0.5.tar.gz
 Proc::Swarm::Result                 1.0  D/DI/DIEDERICH/Proc-Swarm-0.5.tar.gz
 Proc::Swarm::Results                1.0  D/DI/DIEDERICH/Proc-Swarm-0.5.tar.gz
 Proc::SyncExec                     1.01  R/RO/ROSCH/Proc-SyncExec-1.01.tar.gz
-Proc::Terminator                   0.04  M/MN/MNUNBERG/Proc-Terminator-0.04.tar.gz
-Proc::Terminator::Batch            0.04  M/MN/MNUNBERG/Proc-Terminator-0.04.tar.gz
-Proc::Terminator::Ctx              0.04  M/MN/MNUNBERG/Proc-Terminator-0.04.tar.gz
+Proc::Terminator                   0.05  M/MN/MNUNBERG/Proc-Terminator-0.05.tar.gz
+Proc::Terminator::Batch            0.05  M/MN/MNUNBERG/Proc-Terminator-0.05.tar.gz
+Proc::Terminator::Ctx              0.05  M/MN/MNUNBERG/Proc-Terminator-0.05.tar.gz
 Proc::Terminator::Struct           0.03  M/MN/MNUNBERG/Proc-Terminator-0.03.tar.gz
 Proc::Topus                        0.01  P/PR/PRAVUS/Proc-Topus-0.01.tar.gz
 Proc::UID                          0.05  P/PJ/PJF/Proc-UID-0.05.tar.gz
