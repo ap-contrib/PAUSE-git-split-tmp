@@ -126,7 +126,7 @@ Patterns::ChainOfResponsibility::Filter undef  J/JJ/JJNAPIORK/Patterns-ChainOfRe
 Patterns::ChainOfResponsibility::Provider undef  J/JJ/JJNAPIORK/Patterns-ChainOfResponsibility-0.02.tar.gz
 Patterns::ChainOfResponsibility::Role::Dispatcher undef  J/JJ/JJNAPIORK/Patterns-ChainOfResponsibility-0.02.tar.gz
 Patterns::ChainOfResponsibility::Role::Handler undef  J/JJ/JJNAPIORK/Patterns-ChainOfResponsibility-0.02.tar.gz
-Patterns::UndefObject             0.002  J/JJ/JJNAPIORK/Patterns-UndefObject-0.002.tar.gz
+Patterns::UndefObject             0.003  J/JJ/JJNAPIORK/Patterns-UndefObject-0.003.tar.gz
 Paw                                0.54  U/UG/UGANSERT/Paw-0.54.tar.gz
 Paw::Box                           0.50  U/UG/UGANSERT/Paw-0.52.tar.gz
 Paw::Button                        0.50  U/UG/UGANSERT/Paw-0.52.tar.gz
