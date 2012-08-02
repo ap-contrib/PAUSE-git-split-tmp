@@ -1,8 +1,8 @@
 Reflexive::Role::Collective    1.113340  N/NP/NPEREZ/Reflexive-Role-Collective-1.113340.tar.gz
 Reflexive::Role::DataMover     1.122130  N/NP/NPEREZ/Reflexive-Role-DataMover-1.122130.tar.gz
-Reflexive::Role::StreamFiltering 1.121580  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.121580.tar.gz
+Reflexive::Role::StreamFiltering 1.122150  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.122150.tar.gz
 Reflexive::Role::TCPServer     1.121580  N/NP/NPEREZ/Reflexive-Role-TCPServer-1.121580.tar.gz
-Reflexive::Stream::Filtering   1.121580  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.121580.tar.gz
+Reflexive::Stream::Filtering   1.122150  N/NP/NPEREZ/Reflexive-Stream-Filtering-1.122150.tar.gz
 Reflexive::ZmqSocket           1.121730  N/NP/NPEREZ/Reflexive-ZmqSocket-1.121730.tar.gz
 Reflexive::ZmqSocket::DealerSocket 1.121730  N/NP/NPEREZ/Reflexive-ZmqSocket-1.121730.tar.gz
 Reflexive::ZmqSocket::PairSocket 1.121730  N/NP/NPEREZ/Reflexive-ZmqSocket-1.121730.tar.gz
