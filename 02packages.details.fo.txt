@@ -311,10 +311,10 @@ Fortran::Format::RootList          0.90  I/IT/ITUB/Fortran-Format-0.90.tar.gz
 Fortran::Format::Writer            0.90  I/IT/ITUB/Fortran-Format-0.90.tar.gz
 Fortran::Namelist                  0.10  V/VM/VMS/Fortran-Namelist-0.10.tar.gz
 Fortune                             0.2  G/GW/GWARD/Fortune-0.2.tar.gz
-Forward::Routes                    0.50  F/FO/FORWARD/Forward-Routes-0.50.zip
-Forward::Routes::Match            undef  F/FO/FORWARD/Forward-Routes-0.50.zip
-Forward::Routes::Pattern          undef  F/FO/FORWARD/Forward-Routes-0.50.zip
-Forward::Routes::Resources        undef  F/FO/FORWARD/Forward-Routes-0.50.zip
+Forward::Routes                    0.51  F/FO/FORWARD/Forward-Routes-0.51.zip
+Forward::Routes::Match            undef  F/FO/FORWARD/Forward-Routes-0.51.zip
+Forward::Routes::Pattern          undef  F/FO/FORWARD/Forward-Routes-0.51.zip
+Forward::Routes::Resources        undef  F/FO/FORWARD/Forward-Routes-0.51.zip
 ForwardAbstractEvent               2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 ForwardAbstractInterface           2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 ForwardAbstractValue               2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
