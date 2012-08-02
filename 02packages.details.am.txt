@@ -446,6 +446,10 @@ AnyEvent::HTTPD::Request          undef  E/EL/ELMEX/AnyEvent-HTTPD-0.93.tar.gz
 AnyEvent::HTTPD::Util             undef  E/EL/ELMEX/AnyEvent-HTTPD-0.93.tar.gz
 AnyEvent::I3                       0.12  M/MS/MSTPLBG/AnyEvent-I3-0.12.tar.gz
 AnyEvent::ImageShack              0.021  D/DM/DMITRYNOD/AnyEvent-ImageShack-0.021.tar.gz
+AnyEvent::IMAP                     0.01  T/TO/TOKUHIROM/AnyEvent-IMAP-0.01.tar.gz
+AnyEvent::IMAP::Address               0  T/TO/TOKUHIROM/AnyEvent-IMAP-0.01.tar.gz
+AnyEvent::IMAP::Envelope              0  T/TO/TOKUHIROM/AnyEvent-IMAP-0.01.tar.gz
+AnyEvent::IMAP::Util                  0  T/TO/TOKUHIROM/AnyEvent-IMAP-0.01.tar.gz
 AnyEvent::Impl::Cocoa             undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
 AnyEvent::Impl::EV                undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
 AnyEvent::Impl::Event             undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
