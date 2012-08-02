@@ -243,6 +243,7 @@ Sphinx::Manager,JJSCHUTZ,f
 Sphinx::Search,JJSCHUTZ,m
 Sphinx::XML::Pipe2,EGOR,f
 Spiffy,INGY,f
+Spiffy::mixin,INGY,f
 Splash::DB,BEN,m
 Spline,FIGANIM,f
 Splunk,PFIG,m
