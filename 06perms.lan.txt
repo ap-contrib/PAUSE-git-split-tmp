@@ -757,6 +757,7 @@ Lingua::EN::Sentence::Offsets,ANDREFS,m
 Lingua::EN::SimilarNames::Levenshtein,MATEU,f
 Lingua::EN::Splitter,SPLICE,f
 Lingua::EN::Squeeze,JARIAALTO,m
+Lingua::EN::StopWordList,RSAVAGE,f
 Lingua::EN::StopWords,SPLICE,f
 Lingua::EN::Summarize,FIMM,f
 Lingua::EN::Summarize::Filters,FIMM,f
