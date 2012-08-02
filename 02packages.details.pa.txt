@@ -51,7 +51,7 @@ Path::Class::Dir                   0.26  K/KW/KWILLIAMS/Path-Class-0.26.tar.gz
 Path::Class::Each                  0.03  A/AN/ANDYA/Path-Class-Each-0.03.tar.gz
 Path::Class::Entity                0.26  K/KW/KWILLIAMS/Path-Class-0.26.tar.gz
 Path::Class::File                  0.26  K/KW/KWILLIAMS/Path-Class-0.26.tar.gz
-Path::Class::File::Lockable        0.02  K/KA/KARMAN/Path-Class-File-Lockable-0.02.tar.gz
+Path::Class::File::Lockable        0.03  K/KA/KARMAN/Path-Class-File-Lockable-0.03.tar.gz
 Path::Class::File::Stat            0.03  K/KA/KARMAN/Path-Class-File-Stat-0.03.tar.gz
 Path::Class::Iterator              0.05  K/KA/KARMAN/Path-Class-Iterator-0.05.tar.gz
 Path::Class::Iterator::Dir         0.05  K/KA/KARMAN/Path-Class-Iterator-0.05.tar.gz
