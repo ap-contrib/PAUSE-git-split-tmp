@@ -55,7 +55,7 @@ Business::BR::Ids::Common        0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.ta
 Business::BR::IE                 0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.tar.gz
 Business::BR::PIS                0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.tar.gz
 Business::BR::RG                  0.001  R/RE/RENTOCRON/Business-BR-RG-0.002.tar.gz
-Business::CA::GST                  1.00  O/OA/OALDERS/Business-CA-GST-1.00.tar.gz
+Business::CA::GST                  1.01  O/OA/OALDERS/Business-CA-GST-1.01.tar.gz
 Business::CanadaPost               1.06  Y/YA/YANICK/Business-CanadaPost-1.06.tar.gz
 Business::CardInfo                 0.12  E/EL/ELLIOTT/Business-CardInfo-0.12.tar.gz
 Business::Cart::Generic            0.85  R/RS/RSAVAGE/Business-Cart-Generic-0.85.tgz
