@@ -204,7 +204,7 @@ Agni::Callback                    undef  M/ML/MLEHMANN/PApp-1.45.tar.gz
 AI::ANN                           0.008  D/DC/DCOLLINS/AI-ANN-0.008.tar.gz
 AI::ANN::Evolver                  0.008  D/DC/DCOLLINS/AI-ANN-0.008.tar.gz
 AI::ANN::Neuron                   0.008  D/DC/DCOLLINS/AI-ANN-0.008.tar.gz
-AI::Calibrate                       1.3  T/TO/TOMFA/AI-Calibrate-1.3.tar.gz
+AI::Calibrate                       1.4  T/TO/TOMFA/AI-Calibrate-1.4.tar.gz
 AI::Categorizer                    0.09  K/KW/KWILLIAMS/AI-Categorizer-0.09.tar.gz
 AI::Categorizer::Category         undef  K/KW/KWILLIAMS/AI-Categorizer-0.09.tar.gz
 AI::Categorizer::Collection       undef  K/KW/KWILLIAMS/AI-Categorizer-0.09.tar.gz
