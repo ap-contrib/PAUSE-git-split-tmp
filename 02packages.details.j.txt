@@ -587,7 +587,7 @@ JiftyX::Markapl                    0.03  G/GU/GUGOD/JiftyX-Markapl-0.03.tar.gz
 JiftyX::Markapl::Handler          undef  G/GU/GUGOD/JiftyX-Markapl-0.03.tar.gz
 JiftyX::Markapl::Helpers          undef  G/GU/GUGOD/JiftyX-Markapl-0.03.tar.gz
 JiftyX::ModelHelpers               0.23  G/GU/GUGOD/JiftyX-ModelHelpers-0.23.tar.gz
-JIRA::Client                       0.39  G/GN/GNUSTAVO/JIRA-Client-0.39.tar.gz
+JIRA::Client                       0.40  G/GN/GNUSTAVO/JIRA-Client-0.40.tar.gz
 JIRA::Client::REST                 0.06  G/GP/GPHAT/JIRA-Client-REST-0.06.tar.gz
 JLdap                              0.20  T/TU/TURNERJW/DBD-LDAP-0.20.tar.gz
 JListbox                            .01  D/DJ/DJBERG/Tk-JListbox-0.01.tar.gz

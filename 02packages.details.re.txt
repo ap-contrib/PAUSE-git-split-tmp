@@ -256,11 +256,11 @@ Remind::Parser                     0.07  N/NK/NKUITSE/Remind-Parser-0.07.tar.gz
 Remote::Use                        0.04  C/CA/CASIANO/Remote-Use-0.04.tar.gz
 Remote::Which                      0.05  C/CA/CASIANO/Remote-Use-0.04.tar.gz
 remote_control                    undef  A/AL/ALEXE/Opener_chat_0.7_source.zip
-RemoteComponent                    0.39  G/GN/GNUSTAVO/JIRA-Client-0.39.tar.gz
+RemoteComponent                    0.40  G/GN/GNUSTAVO/JIRA-Client-0.40.tar.gz
 RemoteControl                     undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-RemoteCustomFieldValue             0.39  G/GN/GNUSTAVO/JIRA-Client-0.39.tar.gz
-RemoteFieldValue                   0.39  G/GN/GNUSTAVO/JIRA-Client-0.39.tar.gz
-RemoteVersion                      0.39  G/GN/GNUSTAVO/JIRA-Client-0.39.tar.gz
+RemoteCustomFieldValue             0.40  G/GN/GNUSTAVO/JIRA-Client-0.40.tar.gz
+RemoteFieldValue                   0.40  G/GN/GNUSTAVO/JIRA-Client-0.40.tar.gz
+RemoteVersion                      0.40  G/GN/GNUSTAVO/JIRA-Client-0.40.tar.gz
 remove_file_and_try_executable_again 0.07  A/AU/AUTRIJUS/PAR-0.88.tar.gz
 RenderArea                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 RenderMan                          0.04  G/GM/GMLEWIS/RenderMan-0.04.tar.gz
