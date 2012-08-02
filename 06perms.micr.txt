@@ -1244,6 +1244,7 @@ Module::Extract,ADAMK,f
 Module::Extract::DeclaredMinimumPerl,BDFOY,f
 Module::Extract::Namespaces,BDFOY,f
 Module::Extract::Use,BDFOY,f
+Module::Extract::Use::Item,BDFOY,f
 Module::Extract::VERSION,BDFOY,f
 Module::ExtractUse,DOMM,f
 Module::ExtractUse::Grammar,DOMM,f
