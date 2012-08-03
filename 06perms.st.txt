@@ -481,6 +481,7 @@ Sub::Define,LODIN,f
 Sub::Delete,SPROUT,m
 Sub::Documentation,MARCEL,f
 Sub::Documentation::Attributes,MARCEL,f
+Sub::Exception,TYPESTER,f
 Sub::Exporter,RJBS,f
 Sub::Exporter::ForMethods,RJBS,f
 Sub::Exporter::GlobExporter,RJBS,f

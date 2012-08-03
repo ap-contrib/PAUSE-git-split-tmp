@@ -85,6 +85,7 @@ Sub::DeferredPartial::Op::Unary    0.01  S/SG/SGOELDNER/Sub-DeferredPartial-0.01
 Sub::Delete                     1.00002  S/SP/SPROUT/Sub-Delete-1.00002.tar.gz
 Sub::Documentation             1.100880  M/MA/MARCEL/Sub-Documentation-1.100880.tar.gz
 Sub::Documentation::Attributes 1.100880  M/MA/MARCEL/Sub-Documentation-1.100880.tar.gz
+Sub::Exception                     0.01  T/TY/TYPESTER/Sub-Exception-0.01.tar.gz
 Sub::Exporter                     0.984  R/RJ/RJBS/Sub-Exporter-0.984.tar.gz
 Sub::Exporter::ForMethods      0.100050  R/RJ/RJBS/Sub-Exporter-ForMethods-0.100050.tar.gz
 Sub::Exporter::GlobExporter       0.002  R/RJ/RJBS/Sub-Exporter-GlobExporter-0.002.tar.gz
