@@ -791,7 +791,7 @@ Test::RDF                          1.00  K/KJ/KJETILK/Test-RDF-1.00.tar.gz
 Test::RDF::DOAP::Version          0.008  T/TO/TOBYINK/Test-RDF-DOAP-Version-0.008.tar.gz
 Test::RDF::Trine::Store           1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
 Test::Recent                       2.02  M/MA/MARKF/Test-Recent-2.02.tar.gz
-Test::RedisServer                  0.03  T/TY/TYPESTER/Test-RedisServer-0.03.tar.gz
+Test::RedisServer                  0.04  T/TY/TYPESTER/Test-RedisServer-0.04.tar.gz
 Test::Refcount                     0.07  P/PE/PEVANS/Test-Refcount-0.07.tar.gz
 Test::Regexp                   2009121701  A/AB/ABIGAIL/Test-Regexp-2009121701.tar.gz
 Test::Regexp::Object           2009121701  A/AB/ABIGAIL/Test-Regexp-2009121701.tar.gz
