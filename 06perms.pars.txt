@@ -390,6 +390,7 @@ Parse::Lexer,EKMETT,m
 Parse::Log::OpenSSH::SFTP,SHAW,m
 Parse::Log::Smbd,AFFC,f
 Parse::Lotus123::WK4,RECKON,f
+Parse::MIME,ARISTOTLE,f
 Parse::Man,PEVANS,f
 Parse::Man::DOM,PEVANS,f
 Parse::Man::DOM::Break,PEVANS,f
