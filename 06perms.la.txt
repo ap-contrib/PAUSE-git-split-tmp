@@ -16,6 +16,7 @@ Lab::Bus::IsoBus,AKHUETTEL,f
 Lab::Bus::LinuxGPIB,AKHUETTEL,f
 Lab::Bus::MODBUS_RS232,AKHUETTEL,f
 Lab::Bus::RS232,AKHUETTEL,f
+Lab::Bus::USBtmc,AKHUETTEL,f
 Lab::Bus::VISA,AKHUETTEL,f
 Lab::Connection,AKHUETTEL,f
 Lab::Connection::DEBUG,AKHUETTEL,f
@@ -23,8 +24,11 @@ Lab::Connection::GPIB,AKHUETTEL,f
 Lab::Connection::IsoBus,AKHUETTEL,f
 Lab::Connection::LinuxGPIB,AKHUETTEL,f
 Lab::Connection::MODBUS_RS232,AKHUETTEL,f
+Lab::Connection::RS232,AKHUETTEL,f
+Lab::Connection::USBtmc,AKHUETTEL,f
 Lab::Connection::VISA,AKHUETTEL,f
 Lab::Connection::VISA_GPIB,AKHUETTEL,f
+Lab::Connection::VISA_RS232,AKHUETTEL,f
 Lab::Data::Meta,AKHUETTEL,c
 Lab::Data::Meta,SCHROEER,f
 Lab::Data::PDL,AKHUETTEL,f
@@ -78,6 +82,8 @@ Lab::Instrument::Lakeshore370,SCHROEER,f
 Lab::Instrument::MagnetSupply,AKHUETTEL,c
 Lab::Instrument::MagnetSupply,SCHROEER,f
 Lab::Instrument::Multimeter,AKHUETTEL,f
+Lab::Instrument::OI_IPS,AKHUETTEL,f
+Lab::Instrument::PD11042,AKHUETTEL,f
 Lab::Instrument::SR620,AKHUETTEL,c
 Lab::Instrument::SR620,SCHROEER,f
 Lab::Instrument::SR780,AKHUETTEL,c
@@ -94,11 +100,13 @@ Lab::Instrument::TRMC2,AKHUETTEL,c
 Lab::Instrument::TRMC2,SCHROEER,f
 Lab::Instrument::TemperatureControl,AKHUETTEL,f
 Lab::Instrument::TemperatureControl::TLK43,AKHUETTEL,f
+Lab::Instrument::U2000,AKHUETTEL,f
 Lab::Instrument::Yokogawa7651,AKHUETTEL,c
 Lab::Instrument::Yokogawa7651,SCHROEER,f
 Lab::Instrument::YokogawaGS200,AKHUETTEL,f
 Lab::Measurement,AKHUETTEL,c
 Lab::Measurement,SCHROEER,f
+Lab::Measurement::KeyboardHandling,AKHUETTEL,f
 Lab::Measurement::Ladediagramm,AKHUETTEL,f
 Lab::VISA,AKHUETTEL,c
 Lab::VISA,SCHROEER,f
