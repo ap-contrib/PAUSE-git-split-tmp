@@ -290,7 +290,7 @@ Test::URI                          1.08  B/BD/BDFOY/Test-URI-1.08.tar.gz
 Test::Usage                        0.08  L/LU/LUCS/Test-Usage-0.08.tar.gz
 Test::Usage::Example               0.08  L/LU/LUCS/Test-Usage-0.08.tar.gz
 Test::use::ok                      0.02  A/AU/AUDREYT/Test-use-ok-0.02.tar.gz
-Test::UseAllModules                0.13  I/IS/ISHIGAKI/Test-UseAllModules-0.13.tar.gz
+Test::UseAllModules                0.14  I/IS/ISHIGAKI/Test-UseAllModules-0.14.tar.gz
 Test::Uses                         0.01  S/SN/SNKWATT/Test-Uses-0.01.tar.gz
 test::useshared                   undef  G/GM/GMPASSOS/Safe-World-0.14.tar.gz
 Test::utf8                         1.00  M/MA/MARKF/Test-utf8-1.00.tar.gz
