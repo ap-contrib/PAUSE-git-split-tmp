@@ -1134,6 +1134,7 @@ Message::Passing::Input::ZeroMQ,BOBTFISH,c
 Message::Passing::Input::ZeroMQ,GHENRY,f
 Message::Passing::Output::AMQP,BOBTFISH,c
 Message::Passing::Output::AMQP,GHENRY,f
+Message::Passing::Output::AMQP::Proxy,DLAMBLEY,f
 Message::Passing::Output::Callback,BOBTFISH,c
 Message::Passing::Output::Callback,GHENRY,f
 Message::Passing::Output::ElasticSearch,DAMS,c
