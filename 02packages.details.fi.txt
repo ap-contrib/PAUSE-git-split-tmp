@@ -471,7 +471,7 @@ File::Tabular::Web::Attachments   undef  D/DA/DAMI/File-Tabular-Web-0.19.tar.gz
 File::Tabular::Web::Attachments::Indexed undef  D/DA/DAMI/File-Tabular-Web-0.19.tar.gz
 File::Tail                     0.099003  M/MG/MGRABNAR/File-Tail-0.99.3.tar.gz
 File::Tail::App                     0.4  D/DM/DMUEY/File-Tail-App-0.4.tar.gz
-File::Tail::Dir                    0.10  J/JJ/JJSCHUTZ/File-Tail-Dir-0.10.tar.gz
+File::Tail::Dir                    0.11  J/JJ/JJSCHUTZ/File-Tail-Dir-0.11.tar.gz
 File::Tail::FAM                    0.02  M/MS/MSCHILLI/File-Tail-FAM-0.02.tar.gz
 File::Tail::Multi                   0.1  A/AT/ATRIPPS/File-Tail-Multi-0.1.tar.gz
 File::Tail::Scribe                 0.13  J/JJ/JJSCHUTZ/File-Tail-Scribe-0.13.tar.gz
