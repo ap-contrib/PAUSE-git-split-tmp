@@ -705,8 +705,8 @@ XML::Elemental::SAXHandler         0.11  T/TI/TIMA/XML-Elemental-2.11.tar.gz
 XML::Elemental::Util              undef  T/TI/TIMA/XML-Elemental-2.11.tar.gz
 XML::Embperl                   2.004000  G/GR/GRICHTER/Embperl-2.4.0.tar.gz
 XML::Encoding                      2.08  S/SH/SHAY/XML-Encoding-2.08.tar.gz
-XML::Entities                    1.0000  S/SI/SIXTEASE/XML-Entities-1.0000.tar.gz
-XML::Entities::Data               undef  S/SI/SIXTEASE/XML-Entities-1.0000.tar.gz
+XML::Entities                    1.0001  S/SI/SIXTEASE/XML-Entities-1.0001.tar.gz
+XML::Entities::Data               undef  S/SI/SIXTEASE/XML-Entities-1.0001.tar.gz
 XML::EP                            0.01  J/JW/JWIED/XML-EP-0.01.tar.gz
 XML::EP::Config                    0.01  J/JW/JWIED/XML-EP-0.01.tar.gz
 XML::EP::Control                   0.01  J/JW/JWIED/XML-EP-0.01.tar.gz
