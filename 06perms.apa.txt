@@ -304,6 +304,7 @@ App::Bernard::Magic::Fuzzaccept,MARNANEL,f
 App::Bernard::Magic::Fuzzreview,MARNANEL,f
 App::Bernard::Magic::Gnome,MARNANEL,f
 App::Bernard::Magic::Single,MARNANEL,f
+App::Birthday,FARHAD,f
 App::Bondage,HINRIK,f
 App::Bondage::Away,HINRIK,f
 App::Bondage::Client,HINRIK,f
