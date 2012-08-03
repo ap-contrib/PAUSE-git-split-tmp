@@ -114,8 +114,8 @@ CSS::Croco::Term::Ident           undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Term::Number          undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Term::String          undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
 CSS::Croco::Term::URI             undef  G/GU/GUGU/CSS-Croco-0.09.tar.gz
-CSS::Declare                      undef  M/MS/MSTROUT/Web-Simple-0.019.tar.gz
-CSS::Declare::Unex                undef  M/MS/MSTROUT/Web-Simple-0.019.tar.gz
+CSS::Declare                      undef  M/MS/MSTROUT/Web-Simple-0.020.tar.gz
+CSS::Declare::Unex                undef  M/MS/MSTROUT/Web-Simple-0.020.tar.gz
 CSS::DOM                           0.14  S/SP/SPROUT/CSS-DOM-0.14.tar.gz
 CSS::DOM::Array                    0.14  S/SP/SPROUT/CSS-DOM-0.14.tar.gz
 CSS::DOM::Constants                0.14  S/SP/SPROUT/CSS-DOM-0.14.tar.gz

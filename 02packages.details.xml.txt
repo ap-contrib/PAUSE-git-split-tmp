@@ -483,10 +483,10 @@ XML::Table2XML                      1.4  R/RK/RKAPL/XML-Table2XML-1.4.tar.gz
 XML::Tag                            0.1  M/MA/MARCC/xml-tag-0.1.tar.gz
 XML::Tag::html5                   undef  M/MA/MARCC/xml-tag-0.1.tar.gz
 XML::Tag::html5_bootstrap         undef  M/MA/MARCC/xml-tag-0.1.tar.gz
-XML::Tags                         undef  M/MS/MSTROUT/Web-Simple-0.019.tar.gz
-XML::Tags::StringThing            undef  M/MS/MSTROUT/Web-Simple-0.019.tar.gz
-XML::Tags::TIEHANDLE              undef  M/MS/MSTROUT/Web-Simple-0.019.tar.gz
-XML::Tags::Unex                   undef  M/MS/MSTROUT/Web-Simple-0.019.tar.gz
+XML::Tags                         undef  M/MS/MSTROUT/Web-Simple-0.020.tar.gz
+XML::Tags::StringThing            undef  M/MS/MSTROUT/Web-Simple-0.020.tar.gz
+XML::Tags::TIEHANDLE              undef  M/MS/MSTROUT/Web-Simple-0.020.tar.gz
+XML::Tags::Unex                   undef  M/MS/MSTROUT/Web-Simple-0.020.tar.gz
 XML::Tape                           1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
 XML::Tape::Admin                    1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
 XML::Tape::Identifier               1.7  H/HO/HOCHSTEN/XML-Tape-0.22.tar.gz
