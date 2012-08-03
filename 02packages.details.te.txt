@@ -836,7 +836,7 @@ Time::Mock                       v0.0.2  E/EW/EWILHELM/Time-Mock-v0.0.2.tar.gz
 Time::Normalize                    0.08  R/RO/ROODE/Time-Normalize-0.08.tar.gz
 Time::NT                          0.007  F/FR/FRIED/Time-NT-0.007.tar.gz
 Time::Object                       1.00  M/MS/MSERGEANT/Time-Object-1.00.tar.gz
-Time::OlsonTZ::Data            0.201204  Z/ZE/ZEFRAM/Time-OlsonTZ-Data-0.201204.tar.gz
+Time::OlsonTZ::Data            0.201205  Z/ZE/ZEFRAM/Time-OlsonTZ-Data-0.201205.tar.gz
 Time::OlsonTZ::Download           0.004  Z/ZE/ZEFRAM/Time-OlsonTZ-Download-0.004.tar.gz
 Time::Out                          0.11  P/PA/PATL/Time-Out-0.11.tar.gz
 Time::ParseDate                2011.0517  M/MU/MUIR/modules/Time-modules-2011.0517.tar.gz
