@@ -67,6 +67,8 @@ Data::Classifier,TRIDDLE,m
 Data::Classifier::NaiveBayes,LOGIE,f
 Data::Classifier::NaiveBayes::Tokenizer,LOGIE,f
 Data::Classifier::Result,TRIDDLE,f
+Data::Clean::Base,SHARYANTO,f
+Data::Clean::JSON,SHARYANTO,f
 Data::ClearSilver::HDF,ZIGOROU,f
 Data::Clone,GFUJI,f
 Data::Cloud,NYARLA,f
