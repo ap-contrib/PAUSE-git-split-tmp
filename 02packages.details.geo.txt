@@ -55,7 +55,7 @@ Geometry::Primitive::Point        undef  G/GP/GPHAT/Geometry-Primitive-0.22.tar.
 Geometry::Primitive::Polygon      undef  G/GP/GPHAT/Geometry-Primitive-0.22.tar.gz
 Geometry::Primitive::Rectangle    undef  G/GP/GPHAT/Geometry-Primitive-0.22.tar.gz
 Geometry::Primitive::Shape        undef  G/GP/GPHAT/Geometry-Primitive-0.22.tar.gz
-Gepok                              0.21  S/SH/SHARYANTO/Gepok-0.21.tar.gz
+Gepok                              0.22  S/SH/SHARYANTO/Gepok-0.22.tar.gz
 Gesture::Simple                    0.01  S/SA/SARTAK/Gesture-Simple-0.01.tar.gz
 Gesture::Simple::Gesture          undef  S/SA/SARTAK/Gesture-Simple-0.01.tar.gz
 Gesture::Simple::Match            undef  S/SA/SARTAK/Gesture-Simple-0.01.tar.gz
