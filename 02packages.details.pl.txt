@@ -18,11 +18,11 @@ Plack::Middleware::OAuth::UserInfo::Twitter undef  C/CO/CORNELIUS/Plack-Middlewa
 Plack::Middleware::Options         0.01  R/RH/RHOELZ/Plack-Middleware-Options-0.01.tar.gz
 Plack::Middleware::OptionsOK       0.01  L/LL/LLAP/Plack-Middleware-OptionsOK-0.01.tar.gz
 Plack::Middleware::PeriAHS::Authz::ACL undef  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.14.tar.gz
-Plack::Middleware::PeriAHS::CheckAccess 0.19  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.19.tar.gz
+Plack::Middleware::PeriAHS::CheckAccess 0.20  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.20.tar.gz
 Plack::Middleware::PeriAHS::LimitRate undef  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.14.tar.gz
-Plack::Middleware::PeriAHS::LogAccess 0.19  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.19.tar.gz
-Plack::Middleware::PeriAHS::ParseRequest 0.19  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.19.tar.gz
-Plack::Middleware::PeriAHS::Respond 0.19  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.19.tar.gz
+Plack::Middleware::PeriAHS::LogAccess 0.20  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.20.tar.gz
+Plack::Middleware::PeriAHS::ParseRequest 0.20  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.20.tar.gz
+Plack::Middleware::PeriAHS::Respond 0.20  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.20.tar.gz
 Plack::Middleware::Pjax        1.113400  M/MA/MATTP/Plack-Middleware-Pjax-1.113400.tar.gz
 Plack::Middleware::Precompressed  1.005  A/AR/ARISTOTLE/Plack-Middleware-Precompressed-1.005.tar.gz
 Plack::Middleware::Proxy::AddVia   0.01  H/HI/HIRATARA/Plack-App-Proxy-0.21.tar.gz
@@ -154,7 +154,7 @@ Plack::Test::Suite                undef  M/MI/MIYAGAWA/Plack-1.0001.tar.gz
 Plack::Util                       undef  M/MI/MIYAGAWA/Plack-1.0001.tar.gz
 Plack::Util::Accessor             undef  M/MI/MIYAGAWA/Plack-1.0001.tar.gz
 Plack::Util::IOWithPath           undef  M/MI/MIYAGAWA/Plack-1.0001.tar.gz
-Plack::Util::PeriAHS               0.19  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.19.tar.gz
+Plack::Util::PeriAHS               0.20  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.20.tar.gz
 Plack::Util::Prototype            undef  M/MI/MIYAGAWA/Plack-1.0001.tar.gz
 Plack::VCR                         0.03  R/RH/RHOELZ/Plack-Middleware-Recorder-0.03.tar.gz
 Plack::VCR::Interaction            0.03  R/RH/RHOELZ/Plack-Middleware-Recorder-0.03.tar.gz
