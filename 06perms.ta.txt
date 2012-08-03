@@ -897,6 +897,7 @@ Task::BeLike::SCHWIGON,SCHWIGON,f
 Task::BeLike::SHARYANTO::Apps,SHARYANTO,f
 Task::BeLike::SHARYANTO::Authored,SHARYANTO,f
 Task::BeLike::SHARYANTO::Devel,SHARYANTO,f
+Task::BeLike::SHARYANTO::Patches,SHARYANTO,f
 Task::BeLike::SHARYANTO::Spec,SHARYANTO,f
 Task::BeLike::Shantanu,SHANTANU,f
 Task::BeLike::TOBYINK,TOBYINK,f
