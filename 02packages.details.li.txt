@@ -217,7 +217,7 @@ Lingua::StopWords::PT              0.08  C/CR/CREAMYG/Lingua-StopWords-0.09.tar.
 Lingua::StopWords::RU              0.08  C/CR/CREAMYG/Lingua-StopWords-0.09.tar.gz
 Lingua::StopWords::SV              0.08  C/CR/CREAMYG/Lingua-StopWords-0.09.tar.gz
 Lingua::Strfname                   0.13  D/DW/DWHEELER/Lingua-Strfname-0.13.tar.gz
-Lingua::SU::Nums2Words             0.01  S/SH/SHARYANTO/Lingua-SU-Nums2Words-0.01.tar.gz
+Lingua::SU::Nums2Words             0.02  S/SH/SHARYANTO/Lingua-SU-Nums2Words-0.02.tar.gz
 Lingua::SV::Num2Word               0.05  V/VX/VXX/Lingua-SV-Num2Word-0.05.tar.gz
 Lingua::SV::Numbers                0.04  T/TI/TIM/Lingua-SV-Numbers-0.04.tar.gz
 Lingua::Syllable                   0.03  L/LG/LGODDARD/Lingua-Syllable-0.03.tar.gz
