@@ -626,7 +626,7 @@ Test::MultiFork::Control            0.6  M/MU/MUIR/modules/Test-MultiFork-0.6.ta
 Test::MultiFork::Timer              0.6  M/MU/MUIR/modules/Test-MultiFork-0.6.tar.gz
 Test::MultiProcess                 0.01  D/DB/DBRIAN/Test-MultiProcess-0.01.tar.gz
 Test::mysqld                       0.14  K/KA/KAZUHO/Test-mysqld-0.14.tar.gz
-Test::Name::FromLine               0.04  S/SA/SATOH/Test-Name-FromLine-0.04.tar.gz
+Test::Name::FromLine               0.05  S/SA/SATOH/Test-Name-FromLine-0.05.tar.gz
 Test::NameNote                     0.04  N/NC/NCLEATON/Test-NameNote-0.04.tar.gz
 Test::NeedsDisplay                 1.07  A/AD/ADAMK/Test-NeedsDisplay-1.07.tar.gz
 Test::Net::Connect                 0.03  N/NI/NIKC/Test-Net-Connect-0.03.tar.gz

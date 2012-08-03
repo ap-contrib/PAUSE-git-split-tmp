@@ -18,6 +18,7 @@ Acme::WWW::Cyborg,SCHUBIGER,f
 Acme::Wabby,POZNICK,m
 Acme::WalkMethods,LLAP,f
 Acme::WallisdsFirstModule,WALLISDS,f
+Acme::Warn::LOLCAT,AQUILINA,f
 Acme::Web,ETHER,c
 Acme::Web,PERIGRIN,f
 Acme::Web20::Validator,NAOYA,f
