@@ -1342,6 +1342,7 @@ Business::WorldPay::Junior,CLIFFORDJ,m
 Business::Zahlschein,HAVI,f
 Business::iDEAL::Adyen,BLOM,f
 Business::iDEAL::Mollie,BLOM,f
+BusinessHours,BRICAS,c
 BusinessHours,SOLARANT,f
 BusinessLogic,AMD,f
 ButtonGroup,PHILCROW,f

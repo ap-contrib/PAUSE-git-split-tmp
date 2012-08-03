@@ -295,6 +295,7 @@ Date:Jalali,AHMAD,m
 DateStamp,TWYLIE,f
 DateTime,DROLSKY,m
 DateTime::AATW,KMCGRATH,f
+DateTime::BusinessHours,BRICAS,c
 DateTime::BusinessHours,SOLARANT,m
 DateTime::Calendar::Chinese,CODEREPOS,c
 DateTime::Calendar::Chinese,DMAKI,f
