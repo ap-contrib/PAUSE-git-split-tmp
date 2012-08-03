@@ -73,6 +73,9 @@ Config::KingKong::File,RAPHINK,f
 Config::LDAP,JSMITH,f
 Config::LDAPClient,MFOWLER,f
 Config::LDAPClient::Search,MFOWLER,f
+Config::Layered,SYMKAT,f
+Config::Layered::Source::ConfigAny,SYMKAT,f
+Config::Layered::Source::Getopt,SYMKAT,f
 Config::Loader,APEIRON,c
 Config::Loader,ARCANEZ,c
 Config::Loader,ASH,c
