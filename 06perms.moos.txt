@@ -1025,6 +1025,9 @@ MooseX::Storage::Basic,GRODITI,c
 MooseX::Storage::Basic,NUFFIN,c
 MooseX::Storage::Basic,PERIGRIN,c
 MooseX::Storage::Basic,STEVAN,f
+MooseX::Storage::DBIC,REVMISCHA,f
+MooseX::Storage::DBIC::Basic,REVMISCHA,f
+MooseX::Storage::DBIC::Engine::Traits::Default,REVMISCHA,f
 MooseX::Storage::Deferred,BOBTFISH,c
 MooseX::Storage::Deferred,DROLSKY,c
 MooseX::Storage::Deferred,NUFFIN,c
