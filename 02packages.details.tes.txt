@@ -301,6 +301,7 @@ Test::Expectation::Base           undef  S/ST/STEVEHA/Test-Expectation-0.06.tar.
 Test::Expectation::Negative       undef  S/ST/STEVEHA/Test-Expectation-0.06.tar.gz
 Test::Expectation::Positive       undef  S/ST/STEVEHA/Test-Expectation-0.06.tar.gz
 Test::Exports                         1  B/BM/BMORROW/Test-Exports-1.tar.gz
+Test::ExtDirect                    0.01  T/TO/TOKAREV/Test-ExtDirect-0.01.tar.gz
 Test::Extreme                      0.12  A/AS/ASIMJALIS/Test-Extreme-0.12.tar.gz
 Test::Fake::HTTPD                  0.04  M/MA/MASAKI/Test-Fake-HTTPD-0.04.tar.gz
 Test::Fatal                       0.010  R/RJ/RJBS/Test-Fatal-0.010.tar.gz
