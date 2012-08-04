@@ -231,8 +231,8 @@ Finance::HSHrates                  0.01  D/DJ/DJPADZ/Finance-HSHrates-0.01.tar.g
 Finance::Huntington::Statement    undef  C/CN/CNLAVY/Finance-Huntington-0.01.tar.gz
 Finance::IIF                   0.020001  P/PL/PLOBBES/Finance-IIF-0.20.01.tar.gz
 Finance::InteractiveBrokers::API   0.03  I/IN/INFIDEL/Finance-InteractiveBrokers-API-0.03.tar.gz
-Finance::InteractiveBrokers::SWIG  0.06  I/IN/INFIDEL/Finance-InteractiveBrokers-SWIG-0.06.tar.gz
-Finance::InteractiveBrokers::SWIG::EventHandler 0.06  I/IN/INFIDEL/Finance-InteractiveBrokers-SWIG-0.06.tar.gz
+Finance::InteractiveBrokers::SWIG  0.07  I/IN/INFIDEL/Finance-InteractiveBrokers-SWIG-0.07.tar.gz
+Finance::InteractiveBrokers::SWIG::EventHandler 0.07  I/IN/INFIDEL/Finance-InteractiveBrokers-SWIG-0.07.tar.gz
 Finance::InteractiveBrokers::TWS 0.001001  J/JS/JSTRAUSS/Finance-InteractiveBrokers-TWS-0.1.1.tar.gz
 Finance::Loan                      0.06  Z/ZA/ZAKZ/Finance-Loan-0.06.tar.gz
 Finance::Loan::Private             0.01  R/RA/RAPMANKIN/Finance-Loan-Private-0.01.tar.gz
