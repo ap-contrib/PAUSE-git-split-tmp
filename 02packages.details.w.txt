@@ -403,8 +403,8 @@ WWW::CNic::Response::UnlockDomain undef  G/GB/GBROWN/WWW-CNic-0.38.tar.gz
 WWW::CNic::Response::ValidateDomain undef  G/GB/GBROWN/WWW-CNic-0.38.tar.gz
 WWW::CNic::Response::Whois        undef  G/GB/GBROWN/WWW-CNic-0.38.tar.gz
 WWW::CNic::Simple                 undef  G/GB/GBROWN/WWW-CNic-0.38.tar.gz
-WWW::Coderwall                    undef  R/RP/RPICARD/WWW-Coderwall-0.002.tar.gz
-WWW::Coderwall::User              undef  R/RP/RPICARD/WWW-Coderwall-0.002.tar.gz
+WWW::Coderwall                    0.003  R/RP/RPICARD/WWW-Coderwall-0.003.tar.gz
+WWW::Coderwall::User              undef  R/RP/RPICARD/WWW-Coderwall-0.003.tar.gz
 WWW::ColiPoste                     0.03  S/SA/SAPER/WWW-ColiPoste-0.03.tar.gz
 WWW::Comic                         1.06  N/NI/NICOLAW/WWW-Comic-1.06.tar.gz
 WWW::Comic::Plugin                 1.07  N/NI/NICOLAW/WWW-Comic-1.06.tar.gz
