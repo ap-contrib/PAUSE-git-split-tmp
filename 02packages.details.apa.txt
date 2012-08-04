@@ -382,7 +382,7 @@ App::Bernard::Magic::Fuzzaccept   undef  M/MA/MARNANEL/App-Bernard-0.01.tar.gz
 App::Bernard::Magic::Fuzzreview   undef  M/MA/MARNANEL/App-Bernard-0.01.tar.gz
 App::Bernard::Magic::Gnome        undef  M/MA/MARNANEL/App-Bernard-0.01.tar.gz
 App::Bernard::Magic::Single       undef  M/MA/MARNANEL/App-Bernard-0.01.tar.gz
-App::Birthday                       0.1  F/FA/FARHAD/App-Birthday-0.1.tar.gz
+App::Birthday                       0.2  F/FA/FARHAD/App-Birthday-0.2.tar.gz
 App::bk                            0.05  D/DU/DUNCS/App-bk-0.05.tar.gz
 App::BLT                           0.22  M/MA/MARNANEL/blt-0.22.tar.gz
 App::bmkpasswd                     1.07  A/AV/AVENJ/App-bmkpasswd-1.07.tar.gz
