@@ -478,7 +478,7 @@ XML::Mini::Node                    1.36  P/PD/PDEEGAN/XML-Mini-1.38.tar.gz
 XML::Mini::TreeComponent           1.28  P/PD/PDEEGAN/XML-Mini-1.38.tar.gz
 XML::miniXQL                       0.04  M/MS/MSERGEANT/XML-miniXQL-0.04.tar.gz
 XML::miniXQL::Parser               0.01  M/MS/MSERGEANT/XML-miniXQL-0.04.tar.gz
-XML::MinWriter                     0.05  K/KE/KEICHNER/XML-MinWriter-0.05.tar.gz
+XML::MinWriter                     0.06  K/KE/KEICHNER/XML-MinWriter-0.06.tar.gz
 XML::MyXML                       0.0986  K/KA/KARJALA/MyXML/XML-MyXML-0.0986.tar.gz
 XML::MyXML::Object               0.0986  K/KA/KARJALA/MyXML/XML-MyXML-0.0986.tar.gz
 XML::Namespace                     0.02  A/AB/ABW/XML-Namespace-0.02.tar.gz
