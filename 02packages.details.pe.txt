@@ -693,6 +693,7 @@ Perl::PrereqScanner               1.014  R/RJ/RJBS/Perl-PrereqScanner-1.014.tar.
 Perl::PrereqScanner::Scanner      1.014  R/RJ/RJBS/Perl-PrereqScanner-1.014.tar.gz
 Perl::PrereqScanner::Scanner::Aliased 1.014  R/RJ/RJBS/Perl-PrereqScanner-1.014.tar.gz
 Perl::PrereqScanner::Scanner::Moose 1.014  R/RJ/RJBS/Perl-PrereqScanner-1.014.tar.gz
+Perl::PrereqScanner::Scanner::MooseXTypesCombine 0.001  R/RW/RWSTAUNER/Perl-PrereqScanner-Scanner-MooseXTypesCombine-0.001.tar.gz
 Perl::PrereqScanner::Scanner::Perl5 1.014  R/RJ/RJBS/Perl-PrereqScanner-1.014.tar.gz
 Perl::PrereqScanner::Scanner::POE 1.014  R/RJ/RJBS/Perl-PrereqScanner-1.014.tar.gz
 Perl::PrereqScanner::Scanner::TestMore 1.014  R/RJ/RJBS/Perl-PrereqScanner-1.014.tar.gz
