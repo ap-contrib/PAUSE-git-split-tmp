@@ -481,7 +481,7 @@ ExtUtils::Install                  1.54  Y/YV/YVES/ExtUtils-Install-1.54.tar.gz
 ExtUtils::Install::Warn            1.54  Y/YV/YVES/ExtUtils-Install-1.54.tar.gz
 ExtUtils::Installed                1.43  Y/YV/YVES/ExtUtils-Install-1.52.tar.gz
 ExtUtils::InstallPAR               0.03  S/SM/SMUELLER/ExtUtils-InstallPAR-0.03.tar.gz
-ExtUtils::InstallPaths            0.005  L/LE/LEONT/ExtUtils-InstallPaths-0.005.tar.gz
+ExtUtils::InstallPaths            0.006  L/LE/LEONT/ExtUtils-InstallPaths-0.006.tar.gz
 ExtUtils::LibBuilder               0.04  A/AM/AMBS/ExtUtils/ExtUtils-LibBuilder-0.04.tar.gz
 ExtUtils::Liblist                  6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz
 ExtUtils::Liblist::Kid             6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz
