@@ -397,7 +397,7 @@ AnyEvent::Filesys::Notify::Event      0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.
 AnyEvent::Filesys::Notify::Role::Fallback 0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
 AnyEvent::Filesys::Notify::Role::Linux 0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
 AnyEvent::Filesys::Notify::Role::Mac  0  M/MG/MGRIMES/AnyEvent-Filesys-Notify-0.07.tar.gz
-AnyEvent::ForkManager              0.01  K/KA/KARUPA/AnyEvent-ForkManager-0.01.tar.gz
+AnyEvent::ForkManager              0.02  K/KA/KARUPA/AnyEvent-ForkManager-0.02.tar.gz
 AnyEvent::ForkObject               0.09  U/UN/UNERA/AnyEvent-ForkObject-0.09.tar.gz
 AnyEvent::ForkObject::OneObject    0.09  U/UN/UNERA/AnyEvent-ForkObject-0.09.tar.gz
 AnyEvent::FreeSWITCH               0.01  Q/QU/QUENTUS/AnyEvent-FreeSWITCH-0.01.tar.gz
