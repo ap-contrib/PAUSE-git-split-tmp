@@ -680,6 +680,7 @@ IO::AtomicFile,DSKOLL,m
 IO::AtomicFile,ERYQ,c
 IO::Automatic,RCLAMP,f
 IO::BLOB::Pg,MAHEX,f
+IO::Barf,SKIM,f
 IO::BindHandles,DRUOSO,f
 IO::Bit,SHARADA,f
 IO::Buffered,TLBDK,f
