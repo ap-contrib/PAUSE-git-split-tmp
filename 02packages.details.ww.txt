@@ -194,7 +194,7 @@ WWW::Google::PageRank              0.17  Y/YK/YKAR/WWW-Google-PageRank-0.17.tar.
 WWW::Google::PageSpeedOnline       0.08  M/MA/MANWAR/WWW-Google-PageSpeedOnline-0.08.tar.gz
 WWW::Google::Places                0.04  M/MA/MANWAR/WWW-Google-Places-0.04.tar.gz
 WWW::Google::Time                0.0118  Z/ZO/ZOFFIX/WWW-Google-Time-0.0118.tar.gz
-WWW::Google::Translate             0.06  D/DY/DYLAN/WWW-Google-Translate-0.06.tar.gz
+WWW::Google::Translate             0.07  D/DY/DYLAN/WWW-Google-Translate-0.07.tar.gz
 WWW::Google::URLShortener          0.05  M/MA/MANWAR/WWW-Google-URLShortener-0.05.tar.gz
 WWW::GoogleAnalytics::Mobile       0.01  K/KA/KAZEBURO/WWW-GoogleAnalytics-Mobile-0.01.tar.gz
 WWW::GoogleAnalytics::Mobile::PSGI undef  K/KA/KAZEBURO/WWW-GoogleAnalytics-Mobile-0.01.tar.gz
