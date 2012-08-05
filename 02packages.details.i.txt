@@ -582,7 +582,7 @@ IO::Async::Timer::Countdown        0.52  P/PE/PEVANS/IO-Async-0.52.tar.gz
 IO::Async::Timer::Periodic         0.52  P/PE/PEVANS/IO-Async-0.52.tar.gz
 IO::AtomicFile                    2.110  D/DS/DSKOLL/IO-stringy-2.110.tar.gz
 IO::Automatic                      0.03  R/RC/RCLAMP/IO-Automatic-0.03.tar.gz
-IO::Barf                           0.01  S/SK/SKIM/IO-Barf-0.01.tar.gz
+IO::Barf                           0.02  S/SK/SKIM/IO-Barf-0.02.tar.gz
 IO::BindHandles                   undef  D/DR/DRUOSO/IO-BindHandles-0.005.tar.gz
 IO::BLOB::Pg                       0.91  M/MA/MAHEX/IO-BLOB-Pg-0.91.tar.gz
 IO::Buffered                       1.00  T/TL/TLBDK/IO-Buffered-1.00.tar.gz
