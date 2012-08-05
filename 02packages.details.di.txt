@@ -112,8 +112,8 @@ DJabberd::VHost                   undef  M/MA/MART/DJabberd-0.85.tar.gz
 DJabberd::XMLElement              undef  M/MA/MART/DJabberd-0.85.tar.gz
 DJabberd::XMLParser                1.00  M/MA/MART/DJabberd-0.85.tar.gz
 dlg                               undef  S/SH/SHERWOOD/xisofs-1.3.tar.gz
-DLM::Client                        0.01  K/KO/KOORCHIK/DLM-Client-0.01.tar.gz
-DLM::Client::Simple                0.01  K/KO/KOORCHIK/DLM-Client-0.01.tar.gz
+DLM::Client                        0.02  K/KO/KOORCHIK/DLM-Client-0.02.tar.gz
+DLM::Client::Simple                0.01  K/KO/KOORCHIK/DLM-Client-0.02.tar.gz
 DMA::FSM                          undef  D/DA/DALEAMON/DMAMisc-1.01-3.tar.gz
 DMA::ISODate                      undef  D/DA/DALEAMON/DMAMisc-1.01-3.tar.gz
 DMA::ldconfig                     undef  D/DA/DALEAMON/DMAMisc-1.01-3.tar.gz
