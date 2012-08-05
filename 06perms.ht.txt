@@ -1030,6 +1030,7 @@ HTML::Index::Store::DataDumper,AWRIGLEY,f
 HTML::Info,JPOWERS,m
 HTML::InfoVis,ADAMK,f
 HTML::InfoVis::Graph,ADAMK,f
+HTML::Inject,TOBYINK,f
 HTML::JQuery,BRADH,f
 HTML::JQuery::Data,BRADH,f
 HTML::KTemplate,KASPER,f
