@@ -447,10 +447,13 @@ Inline::Python::namespace,NINE,c
 Inline::Rakudo,SZABGAB,f
 Inline::Ruby,EDPRATOMO,c
 Inline::Ruby,NEILW,f
+Inline::Ruby,SHLOMIF,c
 Inline::Ruby::Exception,EDPRATOMO,c
 Inline::Ruby::Exception,NEILW,f
+Inline::Ruby::Exception,SHLOMIF,c
 Inline::Ruby::Object,EDPRATOMO,c
 Inline::Ruby::Object,NEILW,f
+Inline::Ruby::Object,SHLOMIF,c
 Inline::Ruby::dRuby::Client,TATENO,f
 Inline::SLang,DJBURKE,f
 Inline::SLang::DataType_Type,DJBURKE,f
