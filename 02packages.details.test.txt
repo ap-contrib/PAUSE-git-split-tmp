@@ -56,7 +56,7 @@ Test::SharedFork::Store           undef  T/TO/TOKUHIROM/Test-SharedFork-0.20.tar
 Test::ShellScript                  0.04  B/BI/BITMAN/Test-ShellScript-0.04.tar.gz
 Test::Signature                    1.10  A/AU/AUDREYT/Test-Signature-1.10.tar.gz
 Test::Simple                       0.98  M/MS/MSCHWERN/Test-Simple-0.98.tar.gz
-Test::Simpler                  0.000002  D/DC/DCONWAY/Test-Simpler-0.000002.tar.gz
+Test::Simpler                  0.000004  D/DC/DCONWAY/Test-Simpler-0.000004.tar.gz
 Test::Sims                     20090704.203236  M/MS/MSCHWERN/Test-Sims-20090704.203236.tar.gz
 Test::Singleton                    1.02  T/TP/TPG/Test-Singleton-1.02.tar.gz
 Test::Skip::UnlessExistsExecutable 0.041  K/KI/KITANO/Test-Skip-UnlessExistsExecutable-0.041.tar.gz
