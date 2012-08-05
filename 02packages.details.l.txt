@@ -688,7 +688,7 @@ Log::Dispatch::MacGrowl            0.04  R/RY/RYOCHIN/Log-Dispatch-MacGrowl/Log-
 Log::Dispatch::MacGrowl::Cocoa     0.01  R/RY/RYOCHIN/Log-Dispatch-MacGrowl/Log-Dispatch-MacGrowl-0.04.tar.gz
 Log::Dispatch::MacGrowl::Mac       0.01  R/RY/RYOCHIN/Log-Dispatch-MacGrowl/Log-Dispatch-MacGrowl-0.04.tar.gz
 Log::Dispatch::MacGrowl::Tiny      0.01  R/RY/RYOCHIN/Log-Dispatch-MacGrowl/Log-Dispatch-MacGrowl-0.04.tar.gz
-Log::Dispatch::Message::Passing   0.005  B/BO/BOBTFISH/Log-Dispatch-Message-Passing-0.005.tar.gz
+Log::Dispatch::Message::Passing   0.006  G/GH/GHENRY/Log-Dispatch-Message-Passing-0.006.tar.gz
 Log::Dispatch::MongoDB            undef  S/ST/STEVAN/Log-Dispatch-MongoDB-0.001.tar.gz
 Log::Dispatch::Null                2.32  D/DR/DROLSKY/Log-Dispatch-2.32.tar.gz
 Log::Dispatch::Output              2.32  D/DR/DROLSKY/Log-Dispatch-2.32.tar.gz
