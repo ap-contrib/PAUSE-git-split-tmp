@@ -100,9 +100,9 @@ WWW::Getsy                        undef  J/JG/JGOULAH/WWW-Getsy-0.999005.tar.gz
 WWW::Getsy::Client                undef  J/JG/JGOULAH/WWW-Getsy-0.999005.tar.gz
 WWW::Getsy::OAuth                 undef  J/JG/JGOULAH/WWW-Getsy-0.999003.tar.gz
 WWW::Getsy::Types                 undef  J/JG/JGOULAH/WWW-Getsy-0.999003.tar.gz
-WWW::GitHub::Gist                  0.14  A/AL/ALEXBIO/WWW-GitHub-Gist-0.14.tar.gz
+WWW::GitHub::Gist                  0.15  A/AL/ALEXBIO/WWW-GitHub-Gist-0.15.tar.gz
 WWW::GitHub::Gist::v2              0.14  A/AL/ALEXBIO/WWW-GitHub-Gist-0.14.tar.gz
-WWW::GitHub::Gist::v3              0.14  A/AL/ALEXBIO/WWW-GitHub-Gist-0.14.tar.gz
+WWW::GitHub::Gist::v3              0.15  A/AL/ALEXBIO/WWW-GitHub-Gist-0.15.tar.gz
 WWW::GitHub::PostReceiveHook      0.002  M/MA/MATTP/WWW-GitHub-PostReceiveHook-0.002.tar.gz
 WWW::GLS::Detail                    0.1  S/ST/STEFANOS/WWW-GLS-Detail-0.1.tar.gz
 WWW::Golem                          1.0  S/SE/SENGER/WWW-Golem_V1.0.tar.gz
