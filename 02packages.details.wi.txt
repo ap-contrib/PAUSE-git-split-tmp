@@ -507,7 +507,7 @@ Win32::SqlServer::DTS::TaskFactory 0.02  A/AR/ARFREITAS/Win32-SqlServer-DTS-0.09
 Win32::SqlServer::DTS::TaskTypes   0.03  A/AR/ARFREITAS/Win32-SqlServer-DTS-0.09.tar.gz
 Win32::SqlServer::ErrInfo         2.007  S/SO/SOMMAR/Win32-SqlServer-2.007.zip
 Win32::SqlServer::ErrInfo::Messages 2.007  S/SO/SOMMAR/Win32-SqlServer-2.007.zip
-Win32::Status                      0.80  R/RO/ROHANPM/Win32-Status-0.80.tar.gz
+Win32::Status                      0.81  R/RO/ROHANPM/Win32-Status-0.81.tar.gz
 Win32::StreamNames                 1.04  C/CL/CLIVE/Win32-StreamNames-1.04.tar.gz
 Win32::StrictFileNames             0.01  J/JL/JLMOREL/Win32-StrictFileNames-0.01.tar.gz
 Win32::Symlink                     0.05  A/AU/AUDREYT/Win32-Symlink-0.05.tar.gz
