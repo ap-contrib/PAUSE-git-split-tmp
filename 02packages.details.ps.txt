@@ -273,7 +273,7 @@ Qmail::Deliverable                 1.06  J/JU/JUERD/Qmail-Deliverable-1.06.tar.g
 Qmail::Deliverable::Client        undef  J/JU/JUERD/Qmail-Deliverable-1.06.tar.gz
 Qmail::Envelope                    0.53  M/MJ/MJA/Qmail-Envelope-0.53.tar.gz
 Qmail::Mysql                       0.02  E/EB/EBRUNI/Qmail-Mysql-0.02.tar.gz
-QMake::Project                     0.82  R/RO/ROHANPM/QMake-Project-0.82.tar.gz
+QMake::Project                     0.83  R/RO/ROHANPM/QMake-Project-0.83.tar.gz
 QMenuBar                           1.03  A/AW/AWIN/PerlQt-1.06.tar.gz
 QMenuData                          1.03  A/AW/AWIN/PerlQt-1.06.tar.gz
 QMessageBox                        1.03  A/AW/AWIN/PerlQt-1.06.tar.gz
