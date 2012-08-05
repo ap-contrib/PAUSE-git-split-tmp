@@ -114,7 +114,7 @@ WWW::Google::API::Account::ProgrammaticLogin undef  J/JC/JCAP/WWW-Google-API-0.0
 WWW::Google::API::Base            0.001  J/JC/JCAP/WWW-Google-API-0.003.tar.gz
 WWW::Google::APIDiscovery          0.05  M/MA/MANWAR/WWW-Google-APIDiscovery-0.05.tar.gz
 WWW::Google::APIDiscovery::Result  0.05  M/MA/MANWAR/WWW-Google-APIDiscovery-0.05.tar.gz
-WWW::Google::Auth::ClientLogin     0.05  A/AL/ALEXBIO/WWW-Google-Auth-ClientLogin-0.05.tar.gz
+WWW::Google::Auth::ClientLogin     0.06  A/AL/ALEXBIO/WWW-Google-Auth-ClientLogin-0.06.tar.gz
 WWW::Google::Buzz                  0.07  M/MA/MANWAR/WWW-Google-Buzz-0.07.tar.gz
 WWW::Google::C2DM                  0.08  X/XA/XAICRON/WWW-Google-C2DM-0.08.tar.gz
 WWW::Google::C2DM::Constants      undef  X/XA/XAICRON/WWW-Google-C2DM-0.08.tar.gz
