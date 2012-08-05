@@ -171,7 +171,7 @@ Typist::Template::Context         undef  T/TI/TIMA/Typist-0.02.tar.gz
 Typist::Template::Filters          0.11  T/TI/TIMA/Typist-0.02.tar.gz
 Typist::Template::Tags             0.34  T/TI/TIMA/Typist-0.02.tar.gz
 Typist::Util::String              undef  T/TI/TIMA/Typist-0.02.tar.gz
-U64                               2.052  P/PM/PMQS/IO-Compress-2.052.tar.gz
+U64                               2.055  P/PM/PMQS/IO-Compress-2.055.tar.gz
 UberBot::Factoid                  undef  M/MS/MSERGEANT/Bot-Pluggable-0.03.tar.gz
 UberBot::Joiner                   undef  M/MS/MSERGEANT/Bot-Pluggable-0.03.tar.gz
 UberBot::Logger                   undef  M/MS/MSERGEANT/Bot-Pluggable-0.03.tar.gz

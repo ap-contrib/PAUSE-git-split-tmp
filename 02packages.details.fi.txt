@@ -176,7 +176,7 @@ File::Gettext::Storage::PO     v0.11.401  P/PJ/PJFL/file-dataclass/File-DataClas
 File::Glob                         1.13  F/FL/FLORA/perl-5.15.4.tar.gz
 File::Glob::Slurp                  0.02  D/DA/DANKOGAI/File-Glob-Slurp-0.02.tar.gz
 File::Glob::Windows               0.1.5  T/TA/TATE/File-Glob-Windows-0.1.5.tar.gz
-File::GlobMapper                  1.000  P/PM/PMQS/IO-Compress-2.052.tar.gz
+File::GlobMapper                  1.000  P/PM/PMQS/IO-Compress-2.055.tar.gz
 File::Grep                         0.02  M/MN/MNEYLON/File-Grep-0.02.tar.gz
 File::HashCache                   undef  D/DA/DAVID/File-HashCache-JavaScript-0.10.0.0.tar.gz
 File::HashCache::JavaScript      0.10.0  D/DA/DAVID/File-HashCache-JavaScript-0.10.0.0.tar.gz

@@ -620,8 +620,8 @@ Zeta::Util                         0.02  Z/ZE/ZETA/Zeta-0.04.tar.gz
 ZincExtension                      1.05  C/CM/CMERTZ/svg-svg2zinc-0.05.tar.gz
 ZipTie::Client                      1.3  L/LB/LBAYER/ZipTie-Client-1.3.tar.gz
 ZipTie::Client::Port                1.3  L/LB/LBAYER/ZipTie-Client-1.3.tar.gz
-Zlib::OldDeflate                  2.052  P/PM/PMQS/IO-Compress-2.052.tar.gz
-Zlib::OldInflate                  2.052  P/PM/PMQS/IO-Compress-2.052.tar.gz
+Zlib::OldDeflate                  2.055  P/PM/PMQS/IO-Compress-2.055.tar.gz
+Zlib::OldInflate                  2.055  P/PM/PMQS/IO-Compress-2.055.tar.gz
 ZM::Session                    0.002001  M/MA/MAXICO/ZM-Session-0.2.1.tar.gz
 ZM::SSI                             0.0  M/MA/MAXICO/ZM-SSI-0.0.5.tar.gz
 ZM::Template                   0.007002  M/MA/MAXICO/ZM-Template-0.7.2.tar.gz

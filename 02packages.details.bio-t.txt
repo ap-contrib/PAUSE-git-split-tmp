@@ -1000,7 +1000,7 @@ Bundle::Colloquy::BotBot2          1.00  N/NI/NICOLAW/Bundle-Colloquy-BotBot2-1.
 Bundle::Combust                    1.03  A/AB/ABH/Bundle-Combust-1.03.tar.gz
 Bundle::Combust::Extras           undef  A/AB/ABH/Bundle-Combust-1.03.tar.gz
 Bundle::CommonModules              1.03  K/KE/KEVINRICE/Bundle-CommonModules-1.03.tar.gz
-Bundle::Compress::Zlib            2.052  P/PM/PMQS/Bundle-Compress-Zlib-2.052.tar.gz
+Bundle::Compress::Zlib            2.055  P/PM/PMQS/Bundle-Compress-Zlib-2.055.tar.gz
 Bundle::CPAN                      1.861  A/AN/ANDK/Bundle-CPAN-1.861.tar.gz
 Bundle::CPANPLUS                   0.01  K/KA/KANE/Bundle-CPANPLUS-0.01.tar.gz
 Bundle::CPANPLUS::Dependencies     0.03  K/KA/KANE/Bundle-CPANPLUS-Dependencies-0.03.tar.gz
@@ -1057,7 +1057,7 @@ Bundle::Image::Info::XPM           0.01  S/SR/SREZIC/Image-Info-1.32.tar.gz
 Bundle::Interchange                1.05  M/MI/MIKEH/Bundle-Interchange-1.05.tar.gz
 Bundle::Interchange4               0.07  M/MI/MIKEH/Bundle-Interchange4-0.07.tar.gz
 Bundle::InterchangeKitchenSink     1.08  M/MI/MIKEH/Bundle-InterchangeKitchenSink-1.08.tar.gz
-Bundle::IO::Compress::Bzip2       2.052  P/PM/PMQS/Bundle-IO-Compress-Bzip2-2.052.tar.gz
+Bundle::IO::Compress::Bzip2       2.055  P/PM/PMQS/Bundle-IO-Compress-Bzip2-2.055.tar.gz
 Bundle::IspMailGate                0.01  J/JW/JWIED/Mail-IspMailGate-1.1011.tar.gz
 Bundle::JONASBN                    0.05  J/JO/JONASBN/Bundle-JONASBN-0.05.tar.gz
 Bundle::Knetrix                     1.0  I/IC/ICESPIRIT/Bundle-Knetrix-1.0.tar.gz
