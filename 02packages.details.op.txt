@@ -28,6 +28,7 @@ OpenGL::Earth::Physics            undef  C/CO/COSIMO/OpenGL-Earth-0.04.tar.gz
 OpenGL::Earth::Render             undef  C/CO/COSIMO/OpenGL-Earth-0.04.tar.gz
 OpenGL::Earth::Scene              undef  C/CO/COSIMO/OpenGL-Earth-0.04.tar.gz
 OpenGL::Earth::Wiimote            undef  C/CO/COSIMO/OpenGL-Earth-0.04.tar.gz
+OpenGL::FTGL                       0.01  J/JL/JLMOREL/OpenGL-FTGL-0.01.tar.gz
 OpenGL::GLM                        0.01  J/JC/JCHIN/OpenGL-GLM-0.01.tar.gz
 OpenGL::Image                      1.03  B/BF/BFREE/OpenGL-Image-1.03.tar.gz
 OpenGL::Image::Common              1.01  B/BF/BFREE/OpenGL-Image-1.03.tar.gz
