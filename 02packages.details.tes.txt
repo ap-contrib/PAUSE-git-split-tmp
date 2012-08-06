@@ -631,7 +631,7 @@ Test::Name::FromLine               0.05  S/SA/SATOH/Test-Name-FromLine-0.05.tar.
 Test::NameNote                     0.04  N/NC/NCLEATON/Test-NameNote-0.04.tar.gz
 Test::NeedsDisplay                 1.07  A/AD/ADAMK/Test-NeedsDisplay-1.07.tar.gz
 Test::Net::Connect                 0.03  N/NI/NIKC/Test-Net-Connect-0.03.tar.gz
-Test::Net::Prober::HTTPServer      0.06  C/CO/COSIMO/Net-Prober-0.06.tar.gz
+Test::Net::Prober::HTTPServer      0.07  C/CO/COSIMO/Net-Prober-0.07.tar.gz
 Test::Net::RabbitMQ                0.09  G/GP/GPHAT/Test-Net-RabbitMQ-0.09.tar.gz
 Test::Net::Service                 0.06  J/JK/JKUTEJ/Test-Server-0.06.tar.gz
 Test::Nginx                        0.20  A/AG/AGENT/Test-Nginx-0.20.tar.gz
