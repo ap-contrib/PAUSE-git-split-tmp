@@ -1225,6 +1225,7 @@ TAP::Harness::Compatible,ANDYA,f
 TAP::Harness::Compatible,OVID,c
 TAP::Harness::JUnit,JLAVALLEE,c
 TAP::Harness::JUnit,LKUNDRAK,m
+TAP::Harness::JUnit::Parser,JLAVALLEE,c
 TAP::Harness::JUnit::Parser,LKUNDRAK,f
 TAP::Harness::Remote,ALEXMV,f
 TAP::Harness::Remote::EC2,ALEXMV,f
