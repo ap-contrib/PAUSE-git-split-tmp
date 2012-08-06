@@ -247,7 +247,7 @@ RRD::Editor                        0.12  D/DO/DOUGLEITH/RRD-Editor-0.12.tar.gz
 RRD::Query                        1.015  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
 RRD::Simple                        1.44  N/NI/NICOLAW/RRD-Simple-1.44.tar.gz
 RRD::Threshold                    1.009  R/RS/RSOLIV/rrdpoller-1.5.0.tar.gz
-RRD::Tweak                         0.11  S/SS/SSINYAGIN/RRD-Tweak-0.11.tar.gz
+RRD::Tweak                         1.00  S/SS/SSINYAGIN/RRD-Tweak-1.00.tar.gz
 RRDTool::Creator                    1.0  J/JA/JACQUELIN/RRDTool-Creator-1.0.tar.gz
 RRDTool::Creator::DayPDP            0.2  J/JA/JACQUELIN/RRDTool-Creator-1.0.tar.gz
 RRDTool::Creator::HourPDP           0.2  J/JA/JACQUELIN/RRDTool-Creator-1.0.tar.gz
