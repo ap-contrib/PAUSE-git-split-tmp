@@ -371,6 +371,7 @@ WWW::TarPipe,ANDYA,f
 WWW::TasteKid,DVWRIGHT,f
 WWW::TasteKidResult,DVWRIGHT,f
 WWW::Teamxbox,SENGER,f
+WWW::Testafy,TELKINS,f
 WWW::TextMarks,WILSOND,f
 WWW::TheMovieDB::Search,PJOBSON,f
 WWW::TinySong,MIOREL,m
