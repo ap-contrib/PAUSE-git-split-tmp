@@ -484,7 +484,6 @@ PGXN::Site::Locale::fr          v0.10.0  D/DW/DWHEELER/PGXN-Site-v0.10.0.tar.gz
 PGXN::Site::Router              v0.10.0  D/DW/DWHEELER/PGXN-Site-v0.10.0.tar.gz
 PGXN::Site::Templates           v0.10.0  D/DW/DWHEELER/PGXN-Site-v0.10.0.tar.gz
 Ph                                 2.01  G/GD/GDAMORE/Ph-2.01.tar.gz
-Pharaoh::BootStrap                undef  Z/ZD/ZDM/Pharaoh-BootStrap-0.01.tar.gz
 Phaylon::Class::Cloner             0.01  P/PH/PHAYLON/Phaylon-Class-Cloner-0.01.tar.gz
 PheMail::General                   0.01  D/DE/DECIUS/PheMail-General-0.01.tar.gz
 PheMail::Server                    0.04  D/DE/DECIUS/PheMail-Server-0.04.tar.gz
