@@ -1091,7 +1091,7 @@ Bundle::Math::Statistics           1.01  S/SM/SMUELLER/Bundle-Math-Statistics-1.
 Bundle::Math::Symbolic             1.02  S/SM/SMUELLER/Bundle-Math-Symbolic-1.02.tar.gz
 Bundle::Melody::extlib         0.009029  T/TI/TIMA/Bundle-Melody-extlib-0.9.29.tar.gz
 Bundle::Melody::Test           0.009006  T/TI/TIMA/Bundle-Melody-Test-0.9.6a.tar.gz
-Bundle::MetaSyntactic             1.022  B/BO/BOOK/Bundle-MetaSyntactic-1.022.tar.gz
+Bundle::MetaSyntactic             1.023  B/BO/BOOK/Bundle-MetaSyntactic-1.023.tar.gz
 Bundle::Minivend                    4.0  M/MI/MIKEH/Bundle-Minivend-4.0.tar.gz
 Bundle::MMS::Mail::Parser          0.03  R/RO/ROBL/Bundle-MMS-Mail-Parser-0.03.tar.gz
 Bundle::MP3                        1.00  L/LD/LDS/Bundle-MP3-1.00.tar.gz
