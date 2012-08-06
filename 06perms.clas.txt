@@ -1236,6 +1236,7 @@ Code::Statistics::Target::nop,MITHALDU,f
 Code::TidyAll,JSWARTZ,f
 Code::TidyAll::Cache,JSWARTZ,f
 Code::TidyAll::Plugin,JSWARTZ,f
+Code::TidyAll::Plugin::Perl::AlignMooseAttributes,JSWARTZ,f
 Code::TidyAll::Plugin::PerlCritic,JSWARTZ,f
 Code::TidyAll::Plugin::PerlTidy,JSWARTZ,f
 Code::TidyAll::Plugin::PodTidy,JSWARTZ,f

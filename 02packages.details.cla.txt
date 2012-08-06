@@ -603,6 +603,7 @@ Code::Statistics::Target::Sub  1.112980  M/MI/MITHALDU/Code-Statistics-1.112980.
 Code::TidyAll                      0.03  J/JS/JSWARTZ/Code-TidyAll-0.03.tar.gz
 Code::TidyAll::Cache               0.03  J/JS/JSWARTZ/Code-TidyAll-0.03.tar.gz
 Code::TidyAll::Plugin              0.03  J/JS/JSWARTZ/Code-TidyAll-0.03.tar.gz
+Code::TidyAll::Plugin::Perl::AlignMooseAttributes 0.01  J/JS/JSWARTZ/Code-TidyAll-Plugin-Perl-AlignMooseAttributes-0.01.tar.gz
 Code::TidyAll::Plugin::PerlCritic  0.02  J/JS/JSWARTZ/Code-TidyAll-0.02.tar.gz
 Code::TidyAll::Plugin::PerlTidy    0.02  J/JS/JSWARTZ/Code-TidyAll-0.02.tar.gz
 Code::TidyAll::Plugin::PodTidy     0.03  J/JS/JSWARTZ/Code-TidyAll-0.03.tar.gz
