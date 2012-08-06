@@ -125,7 +125,7 @@ Business::Cart::Generic::View::Order 0.85  R/RS/RSAVAGE/Business-Cart-Generic-0.
 Business::Cart::Generic::View::Product 0.85  R/RS/RSAVAGE/Business-Cart-Generic-0.85.tgz
 Business::Cart::Generic::View::Search 0.85  R/RS/RSAVAGE/Business-Cart-Generic-0.85.tgz
 Business::Cashcow                  0.61  G/GK/GKE/Business-Cashcow-0.08.tar.gz
-Business::CCCheck                  0.04  M/MI/MIKER/Business-CCCheck-0.04.tar.gz
+Business::CCCheck                  0.05  M/MI/MIKER/Business-CCCheck-0.05.tar.gz
 Business::CCProcessor              0.09  H/HE/HESCO/Business-CCProcessor-0.09.tar.gz
 Business::CINS                     1.13  T/TA/TAYERS/Business-CINS-1.13.tar.gz
 Business::CN::IdentityCard         0.05  F/FA/FAYLAND/Business-CN-IdentityCard-0.05.tar.gz
