@@ -36,6 +36,7 @@ Data::Random::Contact::Country::US,DROLSKY,f
 Data::Random::Contact::Language::EN,DROLSKY,f
 Data::Random::Contact::Types,DROLSKY,f
 Data::Random::Contact::Types::Internal,DROLSKY,f
+Data::Random::Nucleotides,AGORDON,f
 Data::Random::String,MAKIS,f
 Data::Random::WordList,ADEO,c
 Data::Random::WordList,BAREFOOT,f
