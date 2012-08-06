@@ -9,6 +9,10 @@ Amon2::Plugin::Web::NoCache,TOKUHIROM,f
 Amon2::Plugin::Web::PlackSession,TOKUHIROM,f
 Amon2::Setup::Asset::Blueprint,TOKUHIROM,f
 Amon2::Setup::Asset::Bootstrap,TOKUHIROM,f
+Amon2::Setup::Asset::ES5Shim,TOKUHIROM,f
+Amon2::Setup::Asset::MicroTemplateJS,TOKUHIROM,f
+Amon2::Setup::Asset::SprintfJS,TOKUHIROM,f
+Amon2::Setup::Asset::StrftimeJS,TOKUHIROM,f
 Amon2::Setup::Asset::jQuery,TOKUHIROM,f
 Amon2::Setup::Flavor,TOKUHIROM,f
 Amon2::Setup::Flavor::Basic,TOKUHIROM,f
