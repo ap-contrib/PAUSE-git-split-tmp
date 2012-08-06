@@ -72,7 +72,7 @@ WWW::FreeProxy::Look              undef  S/SW/SWINED/WWW-FreeProxy-0.04.tar.gz
 WWW::FreeProxy::Proxy4Free        undef  S/SW/SWINED/WWW-FreeProxy-0.04.tar.gz
 WWW::FreeProxy::PublicProxyServers undef  S/SW/SWINED/WWW-FreeProxy-0.04.tar.gz
 WWW::FreeProxy::Samair            undef  S/SW/SWINED/WWW-FreeProxy-0.04.tar.gz
-WWW::FreeProxyListsCom            0.002  Z/ZO/ZOFFIX/WWW-FreeProxyListsCom-0.002.tar.gz
+WWW::FreeProxyListsCom            0.003  Z/ZO/ZOFFIX/WWW-FreeProxyListsCom-0.003.tar.gz
 WWW::FreshBooks::API           0.001000  M/MI/MINDHACK/WWW-FreshBooks-API-0.1.0.tar.gz
 WWW::Freshmeat                     0.22  C/CH/CHORNY/WWW-Freshmeat-0.22.tar.gz
 WWW::FreshMeat::API                0.03  D/DR/DRAEGTUN/WWW-FreshMeat-API-0.03.tar.gz

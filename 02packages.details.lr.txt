@@ -473,7 +473,7 @@ LWP::UserAgent::POE                0.03  M/MS/MSCHILLI/LWP-UserAgent-POE-0.03.ta
 LWP::UserAgent::ProgressBar    1.100810  M/MA/MARCEL/LWP-UserAgent-ProgressBar-1.100810.tar.gz
 LWP::UserAgent::ProxyAny           1.01  Q/QJ/QJZHOU/LWP-UserAgent-ProxyAny-1.01.tar.gz
 LWP::UserAgent::ProxyHopper       0.004  Z/ZO/ZOFFIX/LWP-UserAgent-ProxyHopper-0.004.tar.gz
-LWP::UserAgent::ProxyHopper::Base 0.002  Z/ZO/ZOFFIX/LWP-UserAgent-ProxyHopper-Base-0.002.tar.gz
+LWP::UserAgent::ProxyHopper::Base 0.003  Z/ZO/ZOFFIX/LWP-UserAgent-ProxyHopper-Base-0.003.tar.gz
 LWP::UserAgent::RedirectNotOk     undef  E/ET/ETJ/Mail-POP3-3.0.zip
 LWP::UserAgent::RTClient          undef  A/AU/AUTRIJUS/RT-Client-0.01.tar.gz
 LWP::UserAgent::Snapshot           v0.2  N/NP/NPW/LWP-UserAgent-Snapshot-v0.2.tar.gz
