@@ -11,7 +11,7 @@ Text::WikiFormat::Block           undef  C/CY/CYCLES/Text-WikiFormat-0.80.tar.gz
 Text::WikiFormat::Block::code     undef  C/CY/CYCLES/Text-WikiFormat-0.80.tar.gz
 Text::WikiFormat::Blocks          undef  C/CY/CYCLES/Text-WikiFormat-0.80.tar.gz
 Text::WikiFormat::SAX              0.03  M/MS/MSERGEANT/Text-WikiFormat-SAX-0.03.tar.gz
-Text::Wikispaces2Markdown           0.1  M/MR/MRAMBERG/MojoMojo-1.05.tar.gz
+Text::Wikispaces2Markdown           0.1  M/MR/MRAMBERG/MojoMojo-1.06.tar.gz
 Text::WikiText                     1.01  M/MI/MIGO/wikitext-perl-1.01.tar.gz
 Text::WikiText::InputFilter       undef  M/MI/MIGO/wikitext-perl-1.01.tar.gz
 Text::WikiText::Output            undef  M/MI/MIGO/wikitext-perl-1.01.tar.gz
