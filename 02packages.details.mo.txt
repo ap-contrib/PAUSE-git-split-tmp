@@ -828,7 +828,7 @@ Music::Audioscrobbler::MPD         0.13  E/EA/EALLENIII/Music-Audioscrobbler-MPD
 Music::Audioscrobbler::Submit      0.05  E/EA/EALLENIII/Music-Audioscrobbler-Submit-0.05.tar.gz
 Music::Chord::Namer                0.01  J/JI/JIMI/Music-Chord-Namer-0.01.tar.gz
 Music::Chord::Note                0.0.6  B/BA/BAYASHI/Music-Chord-Note-0.0.6.tar.gz
-Music::Chord::Positions            0.50  J/JM/JMATES/Music-Chord-Positions-0.50.tar.gz
+Music::Chord::Positions            0.51  J/JM/JMATES/Music-Chord-Positions-0.51.tar.gz
 Music::Config                     undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
 Music::DBI                        undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
 Music::Genre                      undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
