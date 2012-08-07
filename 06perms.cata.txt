@@ -19,6 +19,7 @@ Catalyst::Plugin::SubRequest,RIBASUSHI,c
 Catalyst::Plugin::SubRequest,SRI,c
 Catalyst::Plugin::SubRequest,SSCAFFIDI,c
 Catalyst::Plugin::SubRequest,WSHELDAHL,c
+Catalyst::Plugin::SubRequest::Writer,EDENC,f
 Catalyst::Plugin::SuperForm,AGRUNDMA,c
 Catalyst::Plugin::SuperForm,APEIRON,c
 Catalyst::Plugin::SuperForm,ARCANEZ,c
