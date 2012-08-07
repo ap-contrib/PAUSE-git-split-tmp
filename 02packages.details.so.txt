@@ -1180,8 +1180,8 @@ Stardust::Demo                    undef  B/BE/BEPPU/Stardust-0.08.tar.gz
 Stardust::Demo::Controllers       undef  B/BE/BEPPU/Stardust-0.08.tar.gz
 Stardust::Demo::Views             undef  B/BE/BEPPU/Stardust-0.08.tar.gz
 StarEditor                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-Starlet                            0.14  K/KA/KAZUHO/Starlet-0.14.tar.gz
-Starlet::Server                   undef  K/KA/KAZUHO/Starlet-0.14.tar.gz
+Starlet                            0.15  K/KA/KAZUHO/Starlet-0.15.tar.gz
+Starlet::Server                   undef  K/KA/KAZUHO/Starlet-0.15.tar.gz
 Starlink::AST                      1.02  T/TJ/TJENNESS/Starlink-AST-1.02.tar.gz
 Starlink::AST::Axis                0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
 Starlink::AST::Box                 0.99  T/TJ/TJENNESS/Starlink-AST-0.99.tar.gz
