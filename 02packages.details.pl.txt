@@ -47,7 +47,7 @@ Plack::Middleware::ReverseProxy    0.14  M/MI/MIYAGAWA/Plack-Middleware-ReverseP
 Plack::Middleware::ReverseProxyPath 0.03  B/BO/BOWMANBS/Plack-Middleware-ReverseProxyPath-0.03.tar.gz
 Plack::Middleware::Rewrite        1.005  A/AR/ARISTOTLE/Plack-Middleware-Rewrite-1.005.tar.gz
 Plack::Middleware::Runtime        undef  M/MI/MIYAGAWA/Plack-1.0001.tar.gz
-Plack::Middleware::Scope::Container 0.02  K/KA/KAZEBURO/Plack-Middleware-Scope-Container-0.02.tar.gz
+Plack::Middleware::Scope::Container 0.03  K/KA/KAZEBURO/Plack-Middleware-Scope-Container-0.03.tar.gz
 Plack::Middleware::Scope::Session  0.01  H/HD/HDAICHI/Plack-Middleware-Scope-Session-0.01.tar.gz
 Plack::Middleware::Scrutiny        0.02  A/AW/AWWAIID/Plack-Middleware-Scrutiny-0.02.tar.gz
 Plack::Middleware::Scrutiny::Child undef  A/AW/AWWAIID/Plack-Middleware-Scrutiny-0.02.tar.gz
