@@ -7,6 +7,7 @@ Amon2::Plugin::Web::MobileAgent,TOKUHIROM,f
 Amon2::Plugin::Web::MobileCharset,TOKUHIROM,f
 Amon2::Plugin::Web::NoCache,TOKUHIROM,f
 Amon2::Plugin::Web::PlackSession,TOKUHIROM,f
+Amon2::Plugin::Web::WebSocket,TOKUHIROM,f
 Amon2::Setup::Asset::Blueprint,TOKUHIROM,f
 Amon2::Setup::Asset::Bootstrap,TOKUHIROM,f
 Amon2::Setup::Asset::ES5Shim,TOKUHIROM,f
@@ -31,6 +32,8 @@ Amon2::Web::Dispatcher::Lite,TOKUHIROM,f
 Amon2::Web::Dispatcher::RouterSimple,TOKUHIROM,f
 Amon2::Web::Request,TOKUHIROM,f
 Amon2::Web::Response,TOKUHIROM,f
+Amon2::Web::Response::Callback,TOKUHIROM,f
+Amon2::Web::WebSocket,TOKUHIROM,f
 AnalogClock,AWIN,f
 Ananke::SqlLink,NATTIS,f
 Ananke::Template,NATTIS,f
