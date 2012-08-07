@@ -113,6 +113,7 @@ Plack::Middleware::Throttle::Daily,FRANCKC,f
 Plack::Middleware::Throttle::Hourly,FRANCKC,f
 Plack::Middleware::Throttle::Interval,FRANCKC,f
 Plack::Middleware::Throttle::Limiter,FRANCKC,f
+Plack::Middleware::TrafficLog,DEXTER,f
 Plack::Middleware::UseChromeFrame,ARISTOTLE,f
 Plack::Middleware::Watermark,ZIGUZAGU,f
 Plack::Middleware::Writer,MIYAGAWA,f

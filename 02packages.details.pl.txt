@@ -89,6 +89,7 @@ Plack::Middleware::Throttle::Hourly undef  F/FR/FRANCKC/Plack-Middleware-Throttl
 Plack::Middleware::Throttle::Interval undef  F/FR/FRANCKC/Plack-Middleware-Throttle-0.01.tar.gz
 Plack::Middleware::Throttle::Limiter undef  F/FR/FRANCKC/Plack-Middleware-Throttle-0.01.tar.gz
 Plack::Middleware::TMT             0.03  B/BA/BAYASHI/Plack-Middleware-TMT-0.03.tar.gz
+Plack::Middleware::TrafficLog      0.01  D/DE/DEXTER/Plack-Middleware-TrafficLog-0.01.tar.gz
 Plack::Middleware::UseChromeFrame 1.003  A/AR/ARISTOTLE/Plack-Middleware-UseChromeFrame-1.003.tar.gz
 Plack::Middleware::Watermark       0.01  Z/ZI/ZIGUZAGU/Plack-Middleware-Watermark-0.01.tar.gz
 Plack::Middleware::Writer         undef  M/MI/MIYAGAWA/Plack-1.0000.tar.gz
