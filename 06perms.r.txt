@@ -51,6 +51,7 @@ signatures,FLORA,f
 signatures,HDP,c
 signatures,JJNAPIORK,c
 signatures,JROCKWAY,c
+signatures,KAPPA,c
 signatures,SADRAK,c
 sigtrap,DAPM,c
 sigtrap,FLORA,c
