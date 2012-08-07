@@ -194,6 +194,7 @@ App::cpanoutdated,TOKUHIROM,f
 App::cpansearch,CORNELIUS,m
 App::digestarchive,HOLLY,f
 App::distfind,MARCEL,f
+App::dux,SHARYANTO,f
 App::envfile,XAICRON,f
 App::epoch,TRON,f
 App::etcvs,ALEXBIO,f
