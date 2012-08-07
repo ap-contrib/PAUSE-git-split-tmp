@@ -971,7 +971,7 @@ Bundle::Apache::ASP                1.10  C/CH/CHAMAS/Apache-ASP-2.62.tar.gz
 Bundle::Apache::ASP::Extra         1.02  C/CH/CHAMAS/Apache-ASP-2.62.tar.gz
 Bundle::Apache::Roaming            0.01  J/JW/JWIED/Apache-Roaming-0.1003.tar.gz
 Bundle::Apache::Wombat         0.005001  I/IX/IX/Bundle-Apache-Wombat-0.5.1.tar.gz
-Bundle::ApacheTest                 0.01  P/PH/PHRED/Apache-Test-1.37.tar.gz
+Bundle::ApacheTest                 0.02  P/PH/PHRED/Apache-Test-1.38.tar.gz
 Bundle::Application::Magic        undef  D/DO/DOMIZIO/CGI-Application-Plus-1.21.tar.gz
 Bundle::Atoll                      0.03  I/IC/ICABRERA/Bundle-Atoll-0.03.tar.gz
 Bundle::BDFOY                  20070101  B/BD/BDFOY/Bundle-BDFOY-20070101.tar.gz
