@@ -229,8 +229,8 @@ WWW::Agent::Plugins::GoldCoasting  0.01  D/DR/DRRHO/WWW-Agent-0.03.tar.gz
 WWW::Agent::Zombie                 0.04  D/DR/DRRHO/WWW-Agent-0.03.tar.gz
 WWW::Alexa::TrafficRank             1.7  G/GU/GURUPERL/WWW-Alexa-TrafficRank-1.7.tgz
 WWW::Amazon::Wishlist             2.006  M/MT/MTHURN/WWW-Amazon-Wishlist-2.006.tar.gz
-WWW::Analytics::MultiTouch         0.32  J/JJ/JJSCHUTZ/WWW-Analytics-MultiTouch-0.32.tar.gz
-WWW::Analytics::MultiTouch::Tabular undef  J/JJ/JJSCHUTZ/WWW-Analytics-MultiTouch-0.32.tar.gz
+WWW::Analytics::MultiTouch         0.33  J/JJ/JJSCHUTZ/WWW-Analytics-MultiTouch-0.33.tar.gz
+WWW::Analytics::MultiTouch::Tabular undef  J/JJ/JJSCHUTZ/WWW-Analytics-MultiTouch-0.33.tar.gz
 WWW::Anonymouse                    0.04  G/GR/GRAY/WWW-Anonymouse-0.04.tar.gz
 WWW::Anonymouse::Email             0.04  G/GR/GRAY/WWW-Anonymouse-0.04.tar.gz
 WWW::Anonymouse::News              0.04  G/GR/GRAY/WWW-Anonymouse-0.04.tar.gz
