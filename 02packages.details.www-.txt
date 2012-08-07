@@ -7,7 +7,7 @@ WWW::Shorten::Digg                 0.01  B/BR/BROERSE/WWW-Shorten-Digg-0.01.tar.
 WWW::Shorten::Durl                 0.05  J/JE/JEEN/WWW-Shorten-Durl-0.05.tar.gz
 WWW::Shorten::Flickr               0.03  P/PO/POPPEN/WWW-Shorten-Flickr-0.03.tar.gz
 WWW::Shorten::generic              1.92  D/DA/DAVECROSS/WWW-Shorten-3.03.tar.gz
-WWW::Shorten::GitHub           0.001002  J/JA/JAITKEN/WWW-Shorten-GitHub-0.1.2.tar.gz
+WWW::Shorten::GitHub           0.001003  J/JA/JAITKEN/WWW-Shorten-GitHub-0.1.3.tar.gz
 WWW::Shorten::Googl                1.02  M/ME/MERIXZON/WWW-Shorten-Googl-1.02.tar.gz
 WWW::Shorten::Google               0.01  Y/YA/YAPPO/WWW-Shorten-Google-0.01.tar.gz
 WWW::Shorten::IsGd                0.003  D/DO/DOHERTY/WWW-Shorten-IsGd-0.003.tar.gz
