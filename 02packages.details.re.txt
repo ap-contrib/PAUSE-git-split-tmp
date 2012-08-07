@@ -265,7 +265,7 @@ remove_file_and_try_executable_again 0.07  A/AU/AUTRIJUS/PAR-0.88.tar.gz
 RenderArea                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 RenderMan                          0.04  G/GM/GMLEWIS/RenderMan-0.04.tar.gz
 RenderMojoMojo                    undef  M/MA/MATEU/Mojito-0.20.tar.gz
-RenRen                             0.02  C/CO/CODEBREAK/WWW-RenRen-0.02.tar.gz
+RenRen                             0.03  C/CO/CODEBREAK/WWW-RenRen-0.03.tar.gz
 REPartition                         1.5  A/AV/AVIF/String-REPartition-1.5.tar.gz
 RepFormatPtr                       0.01  R/RV/RVAZ/Data-Reporter-1.4.tar.gz
 Repl::Cmd::DumpCmd                undef  B/BR/BRANSCHA/Repl-Loop-1.00.tar.gz
