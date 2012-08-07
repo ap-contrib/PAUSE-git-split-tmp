@@ -377,7 +377,7 @@ SaveAs                            undef  P/PV/PVHP/ptkFAQ-0_03.tar.gz
 savevars                           0.07  S/SR/SREZIC/savevars-0.07.tar.gz
 SAVI                               0.30  P/PH/PHENSON/SAVI-Perl-0.30.tar.gz
 sbmp                              undef  K/KA/KARASIK/Prima-1.35.tar.gz
-sc                                    0  D/DC/DCMERTENS/PDL-Graphics-Prima-0.08.tar.gz
+sc                                    0  D/DC/DCMERTENS/PDL-Graphics-Prima-0.09.tar.gz
 Scaffold                           0.10  K/KE/KESTEB/Scaffold-0.10.tar.gz
 Scaffold::Base                     0.01  K/KE/KESTEB/Scaffold-0.10.tar.gz
 Scaffold::Cache                    0.01  K/KE/KESTEB/Scaffold-0.10.tar.gz

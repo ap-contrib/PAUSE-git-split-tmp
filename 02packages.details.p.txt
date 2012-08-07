@@ -1,5 +1,5 @@
 Prima::Panel                      undef  K/KA/KARASIK/Prima-1.35.tar.gz
-Prima::Plot                           0  D/DC/DCMERTENS/PDL-Graphics-Prima-0.08.tar.gz
+Prima::Plot                           0  D/DC/DCMERTENS/PDL-Graphics-Prima-0.09.tar.gz
 Prima::PodView                    undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Prima::PodView::Link              undef  K/KA/KARASIK/Prima-1.35.tar.gz
 Prima::PodViewWindow              undef  K/KA/KARASIK/Prima-1.35.tar.gz
