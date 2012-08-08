@@ -208,7 +208,7 @@ Safe::World::stdout                0.02  G/GM/GMPASSOS/Safe-World-0.14.tar.gz
 Safe::World::stdoutsimple          0.02  G/GM/GMPASSOS/Safe-World-0.14.tar.gz
 SafeCall                          undef  B/BR/BRIAN/RCGI-1.20.tar.gz
 Sah                            0.009000  S/SH/SHARYANTO/Sah-0.9.0.tar.gz
-Sailthru::Client                  1.001  S/SA/SAILTHRU/Sailthru-Client-1.001.tar.gz
+Sailthru::Client                  1.002  S/SA/SAILTHRU/Sailthru-Client-1.002.tar.gz
 Sakai::Nakamura                    0.13  X/XE/XEONTIME/Sakai-Nakamura-0.13.tar.gz
 Sakai::Nakamura::Authn             0.13  X/XE/XEONTIME/Sakai-Nakamura-0.13.tar.gz
 Sakai::Nakamura::AuthnUtil         0.13  X/XE/XEONTIME/Sakai-Nakamura-0.13.tar.gz
