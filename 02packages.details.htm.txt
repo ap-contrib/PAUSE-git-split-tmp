@@ -118,7 +118,7 @@ HTML::Puzzle::DBTable              0.12  E/EB/EBRUNI/HTML-Puzzle-0.13.tar.gz
 HTML::Puzzle::Format               0.12  E/EB/EBRUNI/HTML-Puzzle-0.13.tar.gz
 HTML::Puzzle::Template             0.03  E/EB/EBRUNI/HTML-Puzzle-0.07.tar.gz
 HTML::QRCode                       0.01  H/HI/HIDE/HTML-QRCode-0.01.tar.gz
-HTML::Query                        0.07  K/KA/KAMELKEV/HTML-Query-0.07.tar.gz
+HTML::Query                        0.08  K/KA/KAMELKEV/HTML-Query-0.08.tar.gz
 HTML::QuickCheck                  undef  Y/YL/YLU/HTML-QuickCheck-1.0b1.tar.gz
 HTML::QuickTable                   1.12  N/NW/NWIGER/HTML-QuickTable-1.12.tar.gz
 HTML::Quoted                       0.03  R/RU/RUZ/HTML-Quoted-0.03.tar.gz
