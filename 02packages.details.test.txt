@@ -204,7 +204,7 @@ Test::Timer::TimeoutException      0.01  J/JO/JONASBN/Test-Timer-0.05.tar.gz
 Test::Tiny                         0.02  S/SE/SEANO/Test-Tiny-0.02.tar.gz
 Test::TinyMocker                   0.03  S/SU/SUKRIA/Test-TinyMocker-0.03.tar.gz
 Test::Tolerant                    1.701  R/RJ/RJBS/Number-Tolerant-1.701.tar.gz
-Test::TrailingSpace               undef  S/SH/SHLOMIF/Test-TrailingSpace-0.0100.tar.gz
+Test::TrailingSpace              0.0101  S/SH/SHLOMIF/Test-TrailingSpace-0.0101.tar.gz
 Test::Trap                       v0.2.2  E/EB/EBHANSSEN/Test-Trap-v0.2.2.tar.gz
 Test::Trap::Builder              v0.2.2  E/EB/EBHANSSEN/Test-Trap-v0.2.2.tar.gz
 Test::Trap::Builder::PerlIO      v0.2.2  E/EB/EBHANSSEN/Test-Trap-v0.2.2.tar.gz
