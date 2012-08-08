@@ -1234,6 +1234,7 @@ Dist::Zilla::Plugin::EOLTests,FLORA,f
 Dist::Zilla::Plugin::EmailNotify,XSAWYERX,f
 Dist::Zilla::Plugin::ExecDir,RJBS,f
 Dist::Zilla::Plugin::ExtraTests,RJBS,f
+Dist::Zilla::Plugin::Extras,SHARYANTO,f
 Dist::Zilla::Plugin::FakeFaker,BINGOS,f
 Dist::Zilla::Plugin::FakeRelease,RJBS,f
 Dist::Zilla::Plugin::FatPacker,DOHERTY,c
