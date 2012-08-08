@@ -7,6 +7,8 @@ Amon2::Plugin::Web::MobileAgent,TOKUHIROM,f
 Amon2::Plugin::Web::MobileCharset,TOKUHIROM,f
 Amon2::Plugin::Web::NoCache,TOKUHIROM,f
 Amon2::Plugin::Web::PlackSession,TOKUHIROM,f
+Amon2::Plugin::Web::Streaming,TOKUHIROM,f
+Amon2::Plugin::Web::Streaming::Writer,TOKUHIROM,f
 Amon2::Plugin::Web::WebSocket,TOKUHIROM,f
 Amon2::Setup::Asset::Blueprint,TOKUHIROM,f
 Amon2::Setup::Asset::Bootstrap,TOKUHIROM,f
