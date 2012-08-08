@@ -1196,6 +1196,7 @@ Dist::Zilla::Plugin::CheckChangesTests,MARCEL,f
 Dist::Zilla::Plugin::CheckChangesTests,XENO,c
 Dist::Zilla::Plugin::CheckEmacsChangeLog,TULSOFT,f
 Dist::Zilla::Plugin::CheckExtraTests,DAGOLDEN,f
+Dist::Zilla::Plugin::CheckMetaResources,DAGOLDEN,f
 Dist::Zilla::Plugin::CheckPrereqsIndexed,RJBS,f
 Dist::Zilla::Plugin::CheckVersionIncrement,RTHOMPSON,f
 Dist::Zilla::Plugin::Clean,ALEXBIO,f
