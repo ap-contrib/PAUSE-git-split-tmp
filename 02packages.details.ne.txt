@@ -833,7 +833,7 @@ Net::Trac::TicketHistory          undef  S/SP/SPANG/Net-Trac-0.16.tar.gz
 Net::Trac::TicketHistoryEntry     undef  S/SP/SPANG/Net-Trac-0.16.tar.gz
 Net::Trac::TicketPropChange       undef  S/SP/SPANG/Net-Trac-0.16.tar.gz
 Net::Trac::TicketSearch           undef  S/SP/SPANG/Net-Trac-0.16.tar.gz
-Net::Traceroute                    1.13  H/HA/HAG/Net-Traceroute-1.13.tar.gz
+Net::Traceroute                    1.14  H/HA/HAG/Net-Traceroute-1.14.tar.gz
 Net::Traceroute6                   0.03  M/MO/MOHACSI/Net-Traceroute6-0.03.tar.gz
 Net::Traceroute::PurePerl          0.10  A/AH/AHOYING/Net-Traceroute-PurePerl-0.10.tar.gz
 Net::Traces::SSFNet                0.02  K/KO/KOSTAS/Net-Traces-SSFNet-0.02.tar.gz
