@@ -116,7 +116,7 @@ Graph::Undirected::Components::External 0.31  K/KU/KUBINA/Graph-Undirected-Compo
 Graph::UnionFind                  undef  J/JH/JHI/Graph-0.94.tar.gz
 Graph::Usage                       0.12  T/TE/TELS/graph/Graph-Usage-0.12.tar.gz
 Graph::Vertex                     undef  J/JH/JHI/Graph-0.005.tar.gz
-Graph::Weighted                  0.5201  G/GE/GENE/Graph-Weighted-0.5201.tar.gz
+Graph::Weighted                    0.53  G/GE/GENE/Graph-Weighted-0.53.tar.gz
 Graph::Writer                      2.03  N/NE/NEILB/Graph-ReadWrite-2.03.tar.gz
 Graph::Writer::Cytoscape           1.00  H/HS/HSUREN/Graph-Writer-Cytoscape-1.00.tar.gz
 Graph::Writer::daVinci             2.03  N/NE/NEILB/Graph-ReadWrite-2.03.tar.gz
