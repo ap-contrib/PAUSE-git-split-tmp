@@ -770,6 +770,7 @@ Lingua::EN::Titlecase::Simple,IDOPEREL,f
 Lingua::EN::Tokenizer::Offsets,ANDREFS,m
 Lingua::EN::VarCon,ADAMK,f
 Lingua::EN::VerbTense,JBRYAN,f
+Lingua::EN::VerbTense,JJNAPIORK,c
 Lingua::EN::WSD::CorpusBased,REITER,f
 Lingua::EN::WSD::CorpusBased::Corpus,REITER,f
 Lingua::EN::Words2Nums,JOEY,f
