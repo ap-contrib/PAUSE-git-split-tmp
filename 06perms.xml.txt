@@ -366,6 +366,9 @@ XML::Rabbit::Trait::XPathValue,ROBINS,f
 XML::Rabbit::Trait::XPathValueList,ROBINS,f
 XML::Rabbit::Trait::XPathValueMap,ROBINS,f
 XML::Reader,KEICHNER,m
+XML::Reader::PP,KEICHNER,f
+XML::Reader::RS,KEICHNER,f
+XML::Reader::Testcases,KEICHNER,f
 XML::Reader::Token,KEICHNER,f
 XML::Records,EBOHLMAN,f
 XML::RegExp,ENNO,c

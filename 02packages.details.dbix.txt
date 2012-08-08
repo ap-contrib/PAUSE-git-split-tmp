@@ -391,6 +391,7 @@ DDLock::Server::Client::DLMFS     undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
 DDLock::Server::Client::Internal  undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
 DDP                               undef  G/GA/GARU/Data-Printer-0.3.tar.gz
 Dead                              undef  K/KH/KHAMPTON/RDF-Helper-0.21.tar.gz
+DebCnt                                0  K/KE/KEICHNER/XML-Reader-0.47.tar.gz
 Debian::Apt::PM                    0.08  J/JK/JKUTEJ/Debian-Apt-PM-0.08.tar.gz
 Debian::Apt::PM::SPc               0.08  J/JK/JKUTEJ/Debian-Apt-PM-0.08.tar.gz
 Debian::AptContents                   0  D/DA/DAM/DhMakePerl-0.75.tar.gz
