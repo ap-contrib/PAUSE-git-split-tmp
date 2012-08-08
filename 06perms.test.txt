@@ -418,6 +418,7 @@ Test::Timestamp,PKENT,f
 Test::Tiny,SEANO,f
 Test::TinyMocker,SUKRIA,f
 Test::Tolerant,RJBS,f
+Test::TrailingSpace,SHLOMIF,f
 Test::Trap,EBHANSSEN,m
 Test::Trap::Builder,EBHANSSEN,f
 Test::Trap::Builder::PerlIO,EBHANSSEN,f
