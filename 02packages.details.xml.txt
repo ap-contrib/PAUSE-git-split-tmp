@@ -612,9 +612,9 @@ XML::TreePuller::Element::Attribute 0.001000  T/TR/TRIDDLE/XML-TreePuller-0.1.2.
 XML::TreePuller::Element::Document 0.001000  T/TR/TRIDDLE/XML-TreePuller-0.1.2.tar.gz
 XML::Trivial                       0.06  P/PA/PAJOUT/XML-Trivial-0.06.tar.gz
 XML::Trivial::Element              0.06  P/PA/PAJOUT/XML-Trivial-0.06.tar.gz
-XML::Twig                          3.40  M/MI/MIROD/XML-Twig-3.40.tar.gz
-XML::Twig::Elt                     3.40  M/MI/MIROD/XML-Twig-3.40.tar.gz
-XML::Twig::Entity                  3.40  M/MI/MIROD/XML-Twig-3.40.tar.gz
-XML::Twig::Entity_list             3.40  M/MI/MIROD/XML-Twig-3.40.tar.gz
-XML::Twig::XPath                   0.02  M/MI/MIROD/XML-Twig-3.40.tar.gz
-XML::Twig::XPath::Attribute        0.02  M/MI/MIROD/XML-Twig-3.40.tar.gz
+XML::Twig                          3.41  M/MI/MIROD/XML-Twig-3.41.tar.gz
+XML::Twig::Elt                     3.41  M/MI/MIROD/XML-Twig-3.41.tar.gz
+XML::Twig::Entity                  3.41  M/MI/MIROD/XML-Twig-3.41.tar.gz
+XML::Twig::Entity_list             3.41  M/MI/MIROD/XML-Twig-3.41.tar.gz
+XML::Twig::XPath                   0.02  M/MI/MIROD/XML-Twig-3.41.tar.gz
+XML::Twig::XPath::Attribute        0.02  M/MI/MIROD/XML-Twig-3.41.tar.gz

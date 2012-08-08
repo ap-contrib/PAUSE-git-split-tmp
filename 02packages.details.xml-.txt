@@ -1,5 +1,5 @@
-XML::Twig::XPath::Elt              0.02  M/MI/MIROD/XML-Twig-3.40.tar.gz
-XML::Twig::XPath::Namespace        0.02  M/MI/MIROD/XML-Twig-3.40.tar.gz
+XML::Twig::XPath::Elt              0.02  M/MI/MIROD/XML-Twig-3.41.tar.gz
+XML::Twig::XPath::Namespace        0.02  M/MI/MIROD/XML-Twig-3.41.tar.gz
 XML::UM                            0.01  T/TJ/TJMATHER/XML-UM-0.01.tar.gz
 XML::UM::SlowMapper               undef  E/EN/ENNO/libxml-enno-1.02.tar.gz
 XML::UM::SlowMapper::UTF8         undef  E/EN/ENNO/libxml-enno-1.02.tar.gz
