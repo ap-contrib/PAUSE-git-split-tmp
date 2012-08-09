@@ -70,7 +70,7 @@ URI::OpenURL::requester        0.004006  T/TI/TIMBRODY/URI-OpenURL-0.4.6.tar.gz
 URI::OpenURL::resolver         0.004006  T/TI/TIMBRODY/URI-OpenURL-0.4.6.tar.gz
 URI::OpenURL::serviceType      0.004006  T/TI/TIMBRODY/URI-OpenURL-0.4.6.tar.gz
 URI::pack                      0.002001  D/DO/DOUGDUDE/URI-pack-0.002001.tar.gz
-URI::ParseSearchString            3.442  S/SD/SDEN/URI-ParseSearchString-3.442.tar.gz
+URI::ParseSearchString              3.5  S/SD/SDEN/URI-ParseSearchString-3.5.tar.gz
 URI::ParseSearchString::More       0.13  O/OA/OALDERS/URI-ParseSearchString-More-0.13.tar.gz
 URI::PathAbstract                  0.01  R/RK/RKRIMEN/URI-PathAbstract-0.01.tar.gz
 URI::Platonic                      0.03  M/MA/MASAKI/URI-Platonic-0.03.tar.gz
