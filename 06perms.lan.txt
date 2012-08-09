@@ -708,6 +708,12 @@ Lingua::EN::Fathom,KIMRYAN,m
 Lingua::EN::FindNumber,TMTM,f
 Lingua::EN::Gender,GOSSAMER,f
 Lingua::EN::GeniaTagger,XERN,f
+Lingua::EN::GivenNames,RSAVAGE,f
+Lingua::EN::GivenNames::Database,RSAVAGE,f
+Lingua::EN::GivenNames::Database::Create,RSAVAGE,f
+Lingua::EN::GivenNames::Database::Download,RSAVAGE,f
+Lingua::EN::GivenNames::Database::Export,RSAVAGE,f
+Lingua::EN::GivenNames::Database::Import,RSAVAGE,f
 Lingua::EN::Hyphenate,DCONWAY,m
 Lingua::EN::Hyphenate,MSCHWERN,c
 Lingua::EN::Infinitive,RSAVAGE,m
