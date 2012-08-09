@@ -1177,6 +1177,7 @@ HTTP::Daemon::App,DMUEY,f
 HTTP::Daemon::ClientConn,GAAS,f
 HTTP::Daemon::ClientConn::SSL,AUFFLICK,c
 HTTP::Daemon::ClientConn::SSL,BEHROOZI,f
+HTTP::Daemon::Patch::IPv6,SHARYANTO,f
 HTTP::Daemon::SSL,AUFFLICK,c
 HTTP::Daemon::SSL,BEHROOZI,f
 HTTP::Daemon::SSL::DummyDaemon,AUFFLICK,c
