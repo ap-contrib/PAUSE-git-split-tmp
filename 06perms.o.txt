@@ -443,6 +443,7 @@ perlrun_decl,APML,f
 perlrun_decl,GOZER,c
 perlrun_decl,PGOLLUCCI,c
 perlrun_decl,PHRED,c
+perlrun_decl,SHAY,c
 perlsecret,BOOK,f
 perltugues,FCO,f
 perltugues::caracter,FCO,f

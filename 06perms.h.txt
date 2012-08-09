@@ -444,12 +444,15 @@ mod_perl,APML,f
 mod_perl,DOUGM,c
 mod_perl,GEOFF,c
 mod_perl,GOZER,c
+mod_perl,SHAY,c
 mod_perl2,APML,f
 mod_perl2,GEOFF,c
 mod_perl2,GOZER,c
 mod_perl2,PGOLLUCCI,c
 mod_perl2,PHRED,c
+mod_perl2,SHAY,c
 mod_perl_guide,APML,f
+mod_perl_guide,SHAY,c
 mod_perl_guide,STAS,c
 mod_perl_openssh,SALVA,f
 mode,RBS,f

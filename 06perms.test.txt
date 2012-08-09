@@ -1025,10 +1025,12 @@ TestMore::testmorepm,APML,f
 TestMore::testmorepm,GOZER,c
 TestMore::testmorepm,PGOLLUCCI,c
 TestMore::testmorepm,PHRED,c
+TestMore::testmorepm,SHAY,c
 TestMore::testpm,APML,f
 TestMore::testpm,GOZER,c
 TestMore::testpm,PGOLLUCCI,c
 TestMore::testpm,PHRED,c
+TestMore::testpm,SHAY,c
 TestObject,BIOPERLML,f
 TestObject,BIRNEY,c
 TestObject,CJFIELDS,c

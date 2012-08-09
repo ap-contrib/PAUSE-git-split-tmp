@@ -312,10 +312,10 @@ Inline::Python::Function           0.40  N/NI/NINE/Inline-Python-0.40.tar.gz
 Inline::Python::Object             0.40  N/NI/NINE/Inline-Python-0.40.tar.gz
 Inline::Python::Object::Data       0.40  N/NI/NINE/Inline-Python-0.40.tar.gz
 Inline::Rakudo                     0.02  S/SZ/SZABGAB/Inline-Rakudo-0.02.tar.gz
-Inline::Ruby                       0.02  N/NE/NEILW/Inline-Ruby-0.02.tar.gz
+Inline::Ruby                       0.03  S/SH/SHLOMIF/Inline-Ruby-0.03.tar.gz
 Inline::Ruby::dRuby::Client    0.000002  T/TA/TATENO/Inline-Ruby-dRuby-Client-0.0.2.tar.gz
-Inline::Ruby::Exception            0.02  N/NE/NEILW/Inline-Ruby-0.02.tar.gz
-Inline::Ruby::Object               0.02  N/NE/NEILW/Inline-Ruby-0.02.tar.gz
+Inline::Ruby::Exception            0.03  S/SH/SHLOMIF/Inline-Ruby-0.03.tar.gz
+Inline::Ruby::Object               0.03  S/SH/SHLOMIF/Inline-Ruby-0.03.tar.gz
 Inline::Select                     0.01  P/PA/PATL/Inline-Select-0.01.tar.gz
 Inline::Select::Register          undef  P/PA/PATL/Inline-Select-0.01.tar.gz
 Inline::SLang                      1.00  D/DJ/DJBURKE/Inline-SLang-1.00.tar.gz
