@@ -219,12 +219,12 @@ Supervisor::RPC::Server            0.02  K/KE/KESTEB/Supervisor-0.08.tar.gz
 Supervisor::Session                0.02  K/KE/KESTEB/Supervisor-0.08.tar.gz
 Supervisor::Utils                 undef  K/KE/KESTEB/Supervisor-0.08.tar.gz
 sv                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
-SVG                                2.52  S/SZ/SZABGAB/SVG-2.52.tar.gz
+SVG                                2.53  S/SZ/SZABGAB/SVG-2.53.tar.gz
 SVG::Calendar                    v0.3.1  I/IV/IVANWILLS/SVG-Calendar-v0.3.1.tar.gz
 SVG::Convert                       0.02  Z/ZI/ZIGOROU/SVG-Convert-0.02.tar.gz
 SVG::Convert::BaseDriver           0.02  Z/ZI/ZIGOROU/SVG-Convert-0.02.tar.gz
 SVG::Convert::Driver::XAML         0.02  Z/ZI/ZIGOROU/SVG-Convert-Driver-XAML-0.02.tar.gz
-SVG::DOM                           2.52  S/SZ/SZABGAB/SVG-2.52.tar.gz
+SVG::DOM                           2.52  S/SZ/SZABGAB/SVG-2.53.tar.gz
 SVG::DOM2                          1.00  D/DO/DOCTORMO/SVG-DOM2-1.00.tar.gz
 SVG::DOM2::Attribute::Colour      undef  D/DO/DOCTORMO/SVG-DOM2-1.00.tar.gz
 SVG::DOM2::Attribute::Metric      undef  D/DO/DOCTORMO/SVG-DOM2-1.00.tar.gz
@@ -248,8 +248,8 @@ SVG::DOM2::Element::Shape::Fill   undef  D/DO/DOCTORMO/SVG-DOM2-1.00.tar.gz
 SVG::DOM2::Element::Shape::Font   undef  D/DO/DOCTORMO/SVG-DOM2-1.00.tar.gz
 SVG::DOM2::Element::Shape::Stroke undef  D/DO/DOCTORMO/SVG-DOM2-1.00.tar.gz
 SVG::DOM2::Element::Text          undef  D/DO/DOCTORMO/SVG-DOM2-1.00.tar.gz
-SVG::Element                       2.52  S/SZ/SZABGAB/SVG-2.52.tar.gz
-SVG::Extension                     2.52  S/SZ/SZABGAB/SVG-2.52.tar.gz
+SVG::Element                       2.52  S/SZ/SZABGAB/SVG-2.53.tar.gz
+SVG::Extension                     2.52  S/SZ/SZABGAB/SVG-2.53.tar.gz
 SVG::GD                            0.20  R/RO/RONAN/SVG-GD-0.20.tar.gz
 SVG::GD::Font                      0.20  R/RO/RONAN/SVG-GD-0.20.tar.gz
 SVG::GD::Image                     0.20  R/RO/RONAN/SVG-GD-0.20.tar.gz
@@ -274,7 +274,7 @@ SVG::Graph::Glyph::tree           undef  A/AL/ALLENDAY/SVG-Graph-0.02.tar.gz
 SVG::Graph::Glyph::wedge          undef  A/AL/ALLENDAY/SVG-Graph-0.02.tar.gz
 SVG::Graph::Group                 undef  A/AL/ALLENDAY/SVG-Graph-0.02.tar.gz
 SVG::Graph::Kit                    0.04  G/GE/GENE/SVG-Graph-Kit-0.04.tar.gz
-SVG::Manual                        2.52  S/SZ/SZABGAB/SVG-2.52.tar.gz
+SVG::Manual                        2.52  S/SZ/SZABGAB/SVG-2.53.tar.gz
 SVG::Metadata                      0.28  B/BR/BRYCE/SVG-Metadata-0.28.tar.gz
 SVG::Parser                        1.03  P/PE/PETERW/SVG-Parser-1.03.tar.gz
 SVG::Parser::Base                  1.03  P/PE/PETERW/SVG-Parser-1.03.tar.gz
@@ -348,7 +348,7 @@ SVG::TT::Graph::Line              undef  F/FA/FANGLY/SVG-TT-Graph-0.21.tar.gz
 SVG::TT::Graph::Pie               undef  F/FA/FANGLY/SVG-TT-Graph-0.21.tar.gz
 SVG::TT::Graph::TimeSeries         0.11  I/IA/IANRODDIS/SVG-TT-Graph-0.12.tar.gz
 SVG::TT::Graph::XY                undef  F/FA/FANGLY/SVG-TT-Graph-0.21.tar.gz
-SVG::XML                           2.52  S/SZ/SZABGAB/SVG-2.52.tar.gz
+SVG::XML                           2.52  S/SZ/SZABGAB/SVG-2.53.tar.gz
 SVGExtension                       1.06  C/CM/CMERTZ/svg-svg2zinc-0.10.tar.gz
 SVGGraph                           0.07  T/TE/TEUN/SVGGraph-0.07.tar.gz
 SVGGraph::Pie                      0.06  M/MI/MILANO/SVGGraph-Pie-0.06.tar.gz
