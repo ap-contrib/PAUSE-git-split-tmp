@@ -462,8 +462,8 @@ Tie::Array::FileWriter              0.1  G/GR/GREGOR/Tie-Array-FileWriter-0.1.ta
 Tie::Array::Iterable               0.03  M/MN/MNEYLON/Tie-Array-Iterable-0.03.tar.gz
 Tie::Array::Iterable::BackwardIterator 0.03  M/MN/MNEYLON/Tie-Array-Iterable-0.03.tar.gz
 Tie::Array::Iterable::ForwardIterator 0.03  M/MN/MNEYLON/Tie-Array-Iterable-0.03.tar.gz
-Tie::Array::Lazier                 0.01  D/DA/DANKOGAI/Tie-Array-Lazy-0.01.tar.gz
-Tie::Array::Lazy                   0.01  D/DA/DANKOGAI/Tie-Array-Lazy-0.01.tar.gz
+Tie::Array::Lazier                 0.02  D/DA/DANKOGAI/Tie-Array-Lazy-0.02.tar.gz
+Tie::Array::Lazy                   0.02  D/DA/DANKOGAI/Tie-Array-Lazy-0.02.tar.gz
 Tie::Array::Pack                   0.02  D/DA/DANKOGAI/Tie-Array-Pack-0.02.tar.gz
 Tie::Array::Packed                 0.11  S/SA/SALVA/Tie-Array-Packed-0.11.tar.gz
 Tie::Array::Packed::Auto           0.03  S/SA/SALVA/Tie-Array-Packed-Auto-0.03.tar.gz
