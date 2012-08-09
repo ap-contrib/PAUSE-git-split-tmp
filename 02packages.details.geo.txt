@@ -259,10 +259,11 @@ Gimp::ScriptFu::Client             1.01  A/AS/ASTEWART/Gimp-ScriptFu-Client-1.01
 Gimp::Tile                        1.211  M/ML/MLEHMANN/Gimp-1.211.tar.gz
 Gimp::UI                          1.211  M/ML/MLEHMANN/Gimp-1.211.tar.gz
 Gimp::Util                        1.211  M/ML/MLEHMANN/Gimp-1.211.tar.gz
-Giovanni                            1.4  N/NO/NORBU/Giovanni-1.4.tar.gz
-Giovanni::Plugins::Git            undef  N/NO/NORBU/Giovanni-1.4.tar.gz
-Giovanni::Plugins::Jabber         undef  N/NO/NORBU/Giovanni-1.4.tar.gz
-Giovanni::Stages                  undef  N/NO/NORBU/Giovanni-1.4.tar.gz
+Giovanni                            1.6  N/NO/NORBU/Giovanni-1.6.tar.gz
+Giovanni::Plugins::Git            undef  N/NO/NORBU/Giovanni-1.6.tar.gz
+Giovanni::Plugins::Hipchat        undef  N/NO/NORBU/Giovanni-1.6.tar.gz
+Giovanni::Plugins::Jabber         undef  N/NO/NORBU/Giovanni-1.6.tar.gz
+Giovanni::Stages                  undef  N/NO/NORBU/Giovanni-1.6.tar.gz
 GIS::Distance                      0.08  B/BL/BLUEFEET/GIS-Distance-0.08.tar.gz
 GIS::Distance::Fast                0.07  B/BL/BLUEFEET/GIS-Distance-Fast-0.07.tar.gz
 GIS::Distance::Formula             0.08  B/BL/BLUEFEET/GIS-Distance-0.08.tar.gz
