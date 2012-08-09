@@ -169,7 +169,7 @@ WWW::Google::Contacts::Type::When  0.35  M/ME/MERIXZON/WWW-Google-Contacts-0.35.
 WWW::Google::Contacts::Type::Where 0.35  M/ME/MERIXZON/WWW-Google-Contacts-0.35.tar.gz
 WWW::Google::Contacts::Types       0.35  M/ME/MERIXZON/WWW-Google-Contacts-0.35.tar.gz
 WWW::Google::CustomSearch          0.06  M/MA/MANWAR/WWW-Google-CustomSearch-0.06.tar.gz
-WWW::Google::Diacritize            0.06  M/MA/MANWAR/WWW-Google-Diacritize-0.06.tar.gz
+WWW::Google::Diacritize            0.07  M/MA/MANWAR/WWW-Google-Diacritize-0.07.tar.gz
 WWW::Google::DistanceMatrix        0.02  M/MA/MANWAR/WWW-Google-DistanceMatrix-0.02.tar.gz
 WWW::Google::Docs::Upload          0.02  T/TY/TYPESTER/WWW-Google-Docs-Upload-0.02.tar.gz
 WWW::Google::Groups                0.09  X/XE/XERN/WWW-Google-Groups-0.09.tar.gz
