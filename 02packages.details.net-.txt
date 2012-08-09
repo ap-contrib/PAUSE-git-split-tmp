@@ -187,7 +187,7 @@ Net::Gnutella::Packet::Reply        0.1  I/IW/IWADE/Net-Gnutella-0.1.tar.gz
 Net::Gnutella::Server               0.1  I/IW/IWADE/Net-Gnutella-0.1.tar.gz
 Net::Goofey                         1.4  G/GO/GOSSAMER/Net-Goofey-1.4.tar.gz
 Net::Google                         1.0  A/AS/ASCOPE/Net-Google-1.0.tar.gz
-Net::Google::Analytics             3.00  N/NW/NWELLNHOF/Net-Google-Analytics-3.00.tar.gz
+Net::Google::Analytics             3.01  N/NW/NWELLNHOF/Net-Google-Analytics-3.01.tar.gz
 Net::Google::Analytics::AccountFeed 0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.11003.tar.gz
 Net::Google::Analytics::AccountFeedEntry 0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.11003.tar.gz
 Net::Google::Analytics::AccountFeedResponse 0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.11003.tar.gz
@@ -200,10 +200,10 @@ Net::Google::Analytics::Feed    0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.1
 Net::Google::Analytics::FeedRequest 0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.11003.tar.gz
 Net::Google::Analytics::FeedResponse 0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.11003.tar.gz
 Net::Google::Analytics::Metric  0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.11003.tar.gz
-Net::Google::Analytics::OAuth2     3.00  N/NW/NWELLNHOF/Net-Google-Analytics-3.00.tar.gz
-Net::Google::Analytics::Request    3.00  N/NW/NWELLNHOF/Net-Google-Analytics-3.00.tar.gz
-Net::Google::Analytics::Response   3.00  N/NW/NWELLNHOF/Net-Google-Analytics-3.00.tar.gz
-Net::Google::Analytics::Row        3.00  N/NW/NWELLNHOF/Net-Google-Analytics-3.00.tar.gz
+Net::Google::Analytics::OAuth2     3.01  N/NW/NWELLNHOF/Net-Google-Analytics-3.01.tar.gz
+Net::Google::Analytics::Request    3.01  N/NW/NWELLNHOF/Net-Google-Analytics-3.01.tar.gz
+Net::Google::Analytics::Response   3.01  N/NW/NWELLNHOF/Net-Google-Analytics-3.01.tar.gz
+Net::Google::Analytics::Row        3.01  N/NW/NWELLNHOF/Net-Google-Analytics-3.01.tar.gz
 Net::Google::Analytics::XML     0.11003  N/NW/NWELLNHOF/Net-Google-Analytics-0.11003.tar.gz
 Net::Google::Authenticate          0.01  A/AY/AYOUNG/Net-Google-GData-0.01.tgz
 Net::Google::AuthSub                0.5  S/SI/SIMONW/Net-Google-AuthSub-0.5.tar.gz
