@@ -238,11 +238,13 @@ Sendmail::M4::mail8,CML,m
 Sendmail::M4::mail8_zombie,CML,m
 Sendmail::M4::test_cgi,CML,m
 Sendmail::Milter,CYING,m
-Sendmail::PMilter,AVAR,f
+Sendmail::PMilter,AVAR,c
 Sendmail::PMilter,TVIERLING,c
+Sendmail::PMilter,ULIANOV,f
 Sendmail::PMilter,ZUMMO,c
-Sendmail::PMilter::Context,AVAR,f
+Sendmail::PMilter::Context,AVAR,c
 Sendmail::PMilter::Context,TVIERLING,c
+Sendmail::PMilter::Context,ULIANOV,f
 Sendmail::PMilter::Context,ZUMMO,c
 Sendmail::Queue,DONEILL,f
 Sendmail::Queue,DSKOLL,c
