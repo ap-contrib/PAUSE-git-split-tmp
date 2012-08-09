@@ -216,7 +216,7 @@ MIDI::Simple                       0.81  C/CO/CONKLIN/MIDI-Perl-0.82.tar.gz
 MIDI::Simple::Drummer              0.02  G/GE/GENE/MIDI-Simple-Drummer-0.02.tar.gz
 MIDI::Simple::Drummer::Jazz        0.01  G/GE/GENE/MIDI-Simple-Drummer-0.02.tar.gz
 MIDI::Simple::Drummer::Rock        0.01  G/GE/GENE/MIDI-Simple-Drummer-0.02.tar.gz
-MIDI::SoundFont                    1.04  P/PJ/PJB/MIDI-SoundFont-1.04.tar.gz
+MIDI::SoundFont                    1.05  P/PJ/PJB/MIDI-SoundFont-1.05.tar.gz
 MIDI::Tab                          0.03  G/GE/GENE/MIDI-Tab-0.03.tar.gz
 MIDI::Tools                        0.02  C/CR/CRENZ/MIDI-Tools-0.02.tar.gz
 MIDI::Track                        0.81  C/CO/CONKLIN/MIDI-Perl-0.82.tar.gz
