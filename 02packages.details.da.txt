@@ -952,7 +952,7 @@ DateTimeX::Duration::SkipDays     0.002  A/AY/AYOUNG/DateTimeX-Duration-SkipDays
 DateTimeX::Easy                   0.089  R/RO/ROKR/DateTimeX-Easy-0.089.tar.gz
 DateTimeX::Factory                 0.03  T/TA/TAKUJI/DateTimeX-Factory-0.03.tar.gz
 DateTimeX::Factory::Declare           0  T/TA/TAKUJI/DateTimeX-Factory-0.03.tar.gz
-DateTimeX::Fiscal::Fiscal5253      0.05  B/BO/BOFTX/Fiscal5253/DateTimeX-Fiscal-Fiscal5253-0.05.tar.gz
+DateTimeX::Fiscal::Fiscal5253      1.01  B/BO/BOFTX/Fiscal5253/DateTimeX-Fiscal-Fiscal5253-1.01.tar.gz
 DateTimeX::Format                  1.04  E/EC/ECARROLL/DateTimeX-Format-1.04.tar.gz
 DateTimeX::Format::Ago            0.002  T/TO/TOBYINK/DateTimeX-Format-Ago-0.002.tar.gz
 DateTimeX::Format::CustomPattern  undef  E/EC/ECARROLL/DateTimeX-Format-1.04.tar.gz
