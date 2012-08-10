@@ -815,6 +815,7 @@ RDF::Helper::Node::Resource,KHAMPTON,f
 RDF::Helper::Object,KHAMPTON,f
 RDF::Helper::PerlConvenience,KHAMPTON,f
 RDF::Helper::Properties,KJETILK,f
+RDF::Helper::Properties,TOBYINK,c
 RDF::Helper::RDFCore,KHAMPTON,f
 RDF::Helper::RDFCore::Enumerator,KHAMPTON,f
 RDF::Helper::RDFQuery,KHAMPTON,f
