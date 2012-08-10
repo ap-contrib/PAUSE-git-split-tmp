@@ -114,6 +114,7 @@ Iodef::Pb::Simple::Plugin::AdditionalData,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Alternativeid,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Assessment,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Bgp,SAXJAZMAN,f
+Iodef::Pb::Simple::Plugin::Carboncopy,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Contact,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Detecttime,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Domain,SAXJAZMAN,f
@@ -125,6 +126,7 @@ Iodef::Pb::Simple::Plugin::Incidentid,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Ipv4,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Malware,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Md5,SAXJAZMAN,f
+Iodef::Pb::Simple::Plugin::Method,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Purpose,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Relatedactivity,SAXJAZMAN,f
 Iodef::Pb::Simple::Plugin::Reporttime,SAXJAZMAN,f
