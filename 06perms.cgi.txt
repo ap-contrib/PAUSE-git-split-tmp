@@ -342,7 +342,7 @@ CHI::Driver::Role::IsSizeAware,JSWARTZ,f
 CHI::Driver::Role::IsSubcache,JSWARTZ,f
 CHI::Driver::Role::SizeAware,JSWARTZ,f
 CHI::Driver::Role::Universal,JSWARTZ,f
-CHI::Driver::SharedMem,NHORNE,f
+CHI::Driver::SharedMem,NHORNE,m
 CHI::Driver::SharedMem::t::CHIDriverTests,NHORNE,f
 CHI::Driver::TokyoTyrant,JIRA,f
 CHI::Driver::Wrapper,JSWARTZ,f
