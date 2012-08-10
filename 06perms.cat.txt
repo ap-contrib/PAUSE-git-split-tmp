@@ -928,6 +928,7 @@ Catalyst::Plugin::Static::Simple,CYCLES,c
 Catalyst::Plugin::Static::Simple,FLORA,c
 Catalyst::Plugin::Static::Simple,MRAMBERG,c
 Catalyst::Plugin::Static::Simple,MSTROUT,c
+Catalyst::Plugin::Static::Simple::ButMaintained,ECARROLL,f
 Catalyst::Plugin::Static::Simple::ByClass,KARMAN,f
 Catalyst::Plugin::Static::TT,HDP,f
 Catalyst::Plugin::StatusMessage,HKCLARK,f

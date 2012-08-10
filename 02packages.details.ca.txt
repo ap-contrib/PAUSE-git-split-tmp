@@ -390,6 +390,7 @@ Catalyst::Plugin::SpecialAction::Trail 0.01  M/ME/MENDEL/Catalyst-Plugin-Special
 Catalyst::Plugin::StackTrace       0.11  M/MS/MSTROUT/Catalyst-Plugin-StackTrace-0.11.tar.gz
 Catalyst::Plugin::Static           0.11  B/BO/BOBTFISH/Catalyst-Plugin-Static-0.11.tar.gz
 Catalyst::Plugin::Static::Simple   0.30  A/AB/ABRAXXA/Catalyst-Plugin-Static-Simple-0.30.tar.gz
+Catalyst::Plugin::Static::Simple::ButMaintained 0.30  E/EC/ECARROLL/Catalyst-Plugin-Static-Simple-ButMaintained-0.30.tar.gz
 Catalyst::Plugin::Static::Simple::ByClass 0.004  K/KA/KARMAN/Catalyst-Plugin-Static-Simple-ByClass-0.004.tar.gz
 Catalyst::Plugin::Static::TT      0.002  H/HD/HDP/Catalyst-Plugin-Static-TT-0.002.tar.gz
 Catalyst::Plugin::StatusMessage 1.002000  H/HK/HKCLARK/Catalyst-Plugin-StatusMessage-1.002000.tar.gz
