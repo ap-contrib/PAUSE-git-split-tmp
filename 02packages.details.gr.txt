@@ -82,6 +82,11 @@ Graph::Reader::XML                 2.03  N/NE/NEILB/Graph-ReadWrite-2.03.tar.gz
 Graph::Regexp                      0.05  T/TE/TELS/graph/Graph-Regexp-0.05.tar.gz
 Graph::Renderer                    0.03  P/PA/PASKY/Graph-Layderer-0.03.tar.gz
 Graph::Renderer::Imager            0.03  P/PA/PASKY/Graph-Layderer-0.03.tar.gz
+Graph::Similarity                v0.0.1  S/SH/SHOHEIK/Graph-Similarity-v0.0.1.tar.gz
+Graph::Similarity::CoupledNodeEdgeScoring 0.01  S/SH/SHOHEIK/Graph-Similarity-v0.0.1.tar.gz
+Graph::Similarity::Method             0  S/SH/SHOHEIK/Graph-Similarity-v0.0.1.tar.gz
+Graph::Similarity::SimilarityFlooding 0.01  S/SH/SHOHEIK/Graph-Similarity-v0.0.1.tar.gz
+Graph::Similarity::SimRank         0.01  S/SH/SHOHEIK/Graph-Similarity-v0.0.1.tar.gz
 Graph::SocialMap                   0.12  G/GU/GUGOD/Graph-SocialMap-0.12.tar.gz
 Graph::SPTHeapElem                 0.01  J/JH/JHI/Graph-0.94.tar.gz
 Graph::Statistics                  0.02  E/EM/EMORISSE/Graph-Statistics-0.02.tar.gz
