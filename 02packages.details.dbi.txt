@@ -156,7 +156,7 @@ DBIx::Perform::Widgets::ButtonSet undef  W/WE/WEAV/DBIx-Perform-0.05.tar.gz
 DBIx::Perform::Widgets::TextField undef  W/WE/WEAV/DBIx-Perform-0.05.tar.gz
 DBIx::Perlish                      0.59  G/GR/GRUBER/DBIx-Perlish-0.59.tar.gz
 DBIx::Perlish::Parse              undef  G/GR/GRUBER/DBIx-Perlish-0.59.tar.gz
-DBIx::Pg::CallFunction            0.011  J/JO/JOELJAC/DBIx-Pg-CallFunction-0.011.tar.gz
+DBIx::Pg::CallFunction            0.012  J/JO/JOELJAC/DBIx-Pg-CallFunction-0.012.tar.gz
 DBIx::PgLink                       0.01  A/AS/ASVBR/DBIx-PgLink-0.01.tar.gz
 DBIx::PgLink::Accessor            undef  A/AS/ASVBR/DBIx-PgLink-0.01.tar.gz
 DBIx::PgLink::Accessor::BaseAccessor undef  A/AS/ASVBR/DBIx-PgLink-0.01.tar.gz
