@@ -1262,10 +1262,10 @@ DBD::Ingres                        0.53  S/SR/SREAGLE/DBD-Ingres-0.53.tar.gz
 DBD::Ingres::db                    0.53  S/SR/SREAGLE/DBD-Ingres-0.53.tar.gz
 DBD::Ingres::dr                    0.53  S/SR/SREAGLE/DBD-Ingres-0.53.tar.gz
 DBD::Ingres::st                    0.53  S/SR/SREAGLE/DBD-Ingres-0.53.tar.gz
-DBD::IngresII                      0.80  X/XE/XENU/DBD-IngresII-0.80.tar.gz
-DBD::IngresII::db                  0.80  X/XE/XENU/DBD-IngresII-0.80.tar.gz
-DBD::IngresII::dr                  0.80  X/XE/XENU/DBD-IngresII-0.80.tar.gz
-DBD::IngresII::st                  0.80  X/XE/XENU/DBD-IngresII-0.80.tar.gz
+DBD::IngresII                      0.81  X/XE/XENU/DBD-IngresII-0.81.tar.gz
+DBD::IngresII::db                  0.81  X/XE/XENU/DBD-IngresII-0.81.tar.gz
+DBD::IngresII::dr                  0.81  X/XE/XENU/DBD-IngresII-0.81.tar.gz
+DBD::IngresII::st                  0.81  X/XE/XENU/DBD-IngresII-0.81.tar.gz
 DBD::InterBase                     0.48  E/ED/EDPRATOMO/DBD-InterBase-0.48.tar.gz
 DBD::InterBase::db                 0.48  E/ED/EDPRATOMO/DBD-InterBase-0.48.tar.gz
 DBD::InterBase::dr                 0.48  E/ED/EDPRATOMO/DBD-InterBase-0.48.tar.gz
