@@ -160,11 +160,11 @@ Mason::Plugin::PSGIHandler::Request 0.06  J/JS/JSWARTZ/Mason-Plugin-PSGIHandler-
 Mason::Plugin::PSGIHandler::Result 0.06  J/JS/JSWARTZ/Mason-Plugin-PSGIHandler-0.06.tar.gz
 Mason::Plugin::PSGIHandler::t::Basic 0.06  J/JS/JSWARTZ/Mason-Plugin-PSGIHandler-0.06.tar.gz
 Mason::Plugin::QuoteFilters       0.002  S/SC/SCLOUSE/Mason-Plugin-QuoteFilters-0.002.tar.gz
-Mason::Plugin::RouterSimple        0.05  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.05.tar.gz
-Mason::Plugin::RouterSimple::Component 0.05  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.05.tar.gz
-Mason::Plugin::RouterSimple::Component::Import 0.05  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.05.tar.gz
-Mason::Plugin::RouterSimple::Interp 0.05  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.05.tar.gz
-Mason::Plugin::RouterSimple::Request 0.05  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.05.tar.gz
+Mason::Plugin::RouterSimple        0.06  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.06.tar.gz
+Mason::Plugin::RouterSimple::Component 0.06  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.06.tar.gz
+Mason::Plugin::RouterSimple::Component::Import 0.06  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.06.tar.gz
+Mason::Plugin::RouterSimple::Interp 0.06  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.06.tar.gz
+Mason::Plugin::RouterSimple::Request 0.06  J/JS/JSWARTZ/Mason-Plugin-RouterSimple-0.06.tar.gz
 Mason::Plugin::TidyObjectFiles     2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 Mason::Plugin::TidyObjectFiles::Interp 2.01  J/JS/JSWARTZ/Mason-2.01.tar.gz
 Mason::PluginBundle                2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
