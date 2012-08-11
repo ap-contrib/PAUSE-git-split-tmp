@@ -626,7 +626,6 @@ Log::Any::Test                     0.14  J/JS/JSWARTZ/Log-Any-0.14.tar.gz
 Log::AutoDump                      0.08  C/CA/CAGAO/Log-AutoDump-0.08.tar.gz
 Log::Cabin                         0.06  J/JO/JORVIS/Log-Cabin/Log-Cabin-0.06.tar.gz
 Log::Cabin::Foundation             0.06  J/JO/JORVIS/Log-Cabin/Log-Cabin-0.06.tar.gz
-Log::Caller                      0.0441  S/SK/SKAUFMAN/Log-Caller-0.0441.tar.gz
 Log::Channel                        0.7  J/JM/JMAY/Log-Channel-0.7.tar.gz
 Log::Channel::Config                0.7  J/JM/JMAY/Log-Channel-0.7.tar.gz
 Log::Common                        1.00  M/MH/MHAMILTON/Log-Common-1.00.tar.gz
