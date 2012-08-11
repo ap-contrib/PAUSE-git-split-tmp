@@ -43,6 +43,7 @@ WordPress::Base::Text             undef  L/LE/LEOCHARRE/WordPress-API-1.10.tar.g
 WordPress::CLI                     1.04  L/LE/LEOCHARRE/WordPress-CLI-1.04.tar.gz
 WordPress::CLI::Base               1.01  L/LE/LEOCHARRE/WordPress-CLI-1.04.tar.gz
 WordPress::CLIDeprecated          undef  L/LE/LEOCHARRE/WordPress-Post-1.07.tar.gz
+WordPress::Plugin::WallFlower  0.000002  C/CJ/CJCOLLIER/WordPress-Plugin/WordPress-Plugin-WallFlower-0.0.2.tar.gz
 WordPress::Post                    1.07  L/LE/LEOCHARRE/WordPress-Post-1.07.tar.gz
 WordPress::XMLRPC                  1.23  L/LE/LEOCHARRE/WordPress-XMLRPC-1.23.tar.gz
 Worker::Test                      undef  N/NE/NEKOKAK/Qudo-Parallel-Manager-0.06.tar.gz

@@ -80,6 +80,7 @@ WordPress::Base::Text,LEOCHARRE,f
 WordPress::CLI,LEOCHARRE,f
 WordPress::CLI::Base,LEOCHARRE,f
 WordPress::CLIDeprecated,LEOCHARRE,f
+WordPress::Plugin::WallFlower,CJCOLLIER,f
 WordPress::Post,LEOCHARRE,f
 WordPress::XMLRPC,LEOCHARRE,f
 WordReturn,GRISKEY,f
