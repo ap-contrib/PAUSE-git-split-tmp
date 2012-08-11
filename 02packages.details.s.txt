@@ -268,7 +268,7 @@ SWF::SoundStream                  undef  L/LI/LISCOVIUS/SWF-0.4.0-beta6_02.tar.g
 SWF::Text                         undef  L/LI/LISCOVIUS/SWF-0.4.0-beta6_02.tar.gz
 SWF::TextField                    undef  L/LI/LISCOVIUS/SWF-0.4.0-beta6_02.tar.gz
 SWF::VideoStream                  undef  L/LI/LISCOVIUS/SWF-0.4.0-beta6_02.tar.gz
-SWFEditor                          0.04  H/HI/HIMACHOCO/SWFEditor-0.04.tar.gz
+SWFEditor                          0.05  H/HI/HIMACHOCO/SWFEditor-0.05.tar.gz
 SWIFT::Factory::ApplicationHeader  0.02  B/BI/BIKER/SWIFT-Factory-ApplicationHeader-0.02.tar.gz
 SWIFT::Factory::BasicHeader        0.03  B/BI/BIKER/SWIFT-Factory-BasicHeader-0.03.tar.gz
 SWIFT::Factory::Tag::Tag15         0.02  B/BI/BIKER/SWIFT-Factory-Tag-Tag15-0.02.tar.gz
