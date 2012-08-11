@@ -340,7 +340,7 @@ Inline::WSC                        0.02  J/JO/JOHND/Inline-WSC-0.02.tar.gz
 Inline::XSH                         0.1  P/PA/PAJAS/XML-XSH-1.8.2.tar.gz
 Inline::YAML                       0.11  I/IN/INGY/Inline-YAML-0.11.tar.gz
 InlineX::C2XS                      0.22  S/SI/SISYPHUS/InlineX-C2XS-0.22.tar.gz
-InlineX::CPP2XS                    0.22  S/SI/SISYPHUS/InlineX-CPP2XS-0.22.tar.gz
+InlineX::CPP2XS                    0.23  S/SI/SISYPHUS/InlineX-CPP2XS-0.23.tar.gz
 InlineX::XS                        0.02  S/SM/SMUELLER/InlineX-XS-0.02.tar.gz
 InlineX::XS::MM                    0.01  S/SM/SMUELLER/InlineX-XS-0.02.tar.gz
 InnerHTML                         undef  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
