@@ -17,9 +17,7 @@ Plack::Middleware::OAuth::UserInfo::Live undef  C/CO/CORNELIUS/Plack-Middleware-
 Plack::Middleware::OAuth::UserInfo::Twitter undef  C/CO/CORNELIUS/Plack-Middleware-OAuth-0.10.tar.gz
 Plack::Middleware::Options         0.01  R/RH/RHOELZ/Plack-Middleware-Options-0.01.tar.gz
 Plack::Middleware::OptionsOK       0.01  L/LL/LLAP/Plack-Middleware-OptionsOK-0.01.tar.gz
-Plack::Middleware::PeriAHS::Authz::ACL undef  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.14.tar.gz
 Plack::Middleware::PeriAHS::CheckAccess 0.21  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.21.tar.gz
-Plack::Middleware::PeriAHS::LimitRate undef  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.14.tar.gz
 Plack::Middleware::PeriAHS::LogAccess 0.21  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.21.tar.gz
 Plack::Middleware::PeriAHS::ParseRequest 0.21  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.21.tar.gz
 Plack::Middleware::PeriAHS::Respond 0.21  S/SH/SHARYANTO/Perinci-Access-HTTP-Server-0.21.tar.gz
