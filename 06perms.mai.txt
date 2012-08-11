@@ -96,6 +96,7 @@ Mail::SendEasy::IOScalar,GMPASSOS,f
 Mail::SendEasy::SMTP,GMPASSOS,f
 Mail::SendGrid,NEILB,f
 Mail::SendGrid::Bounce,NEILB,f
+Mail::SendGrid::SmtpApiHeader,POTYL,f
 Mail::SendVarious,MUIR,f
 Mail::SendVarious::Fork,MUIR,f
 Mail::Sender,JENDA,m
