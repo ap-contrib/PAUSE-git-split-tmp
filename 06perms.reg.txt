@@ -456,6 +456,13 @@ Rex::Commands::Upload,JFRIED,f
 Rex::Commands::User,JFRIED,f
 Rex::Commands::Virtualization,JFRIED,f
 Rex::Config,JFRIED,f
+Rex::Endpoint::HTTP,JFRIED,f
+Rex::Endpoint::HTTP::Base,JFRIED,f
+Rex::Endpoint::HTTP::Execute,JFRIED,f
+Rex::Endpoint::HTTP::File,JFRIED,f
+Rex::Endpoint::HTTP::Fs,JFRIED,f
+Rex::Endpoint::HTTP::Login,JFRIED,f
+Rex::Endpoint::HTTP::Mojolicious::Plugin::Auth,JFRIED,f
 Rex::Exporter,JFRIED,f
 Rex::FS::File,JFRIED,f
 Rex::File::Parser::Data,JFRIED,f
