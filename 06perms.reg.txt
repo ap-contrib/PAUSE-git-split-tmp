@@ -470,6 +470,7 @@ Rex::File::Parser::Ini,JFRIED,f
 Rex::Fork::Manager,JFRIED,f
 Rex::Fork::Task,JFRIED,f
 Rex::Group,JFRIED,f
+Rex::Group::Entry::Server,JFRIED,f
 Rex::Group::Lookup::File,JFRIED,f
 Rex::Hardware,JFRIED,f
 Rex::Hardware::Host,JFRIED,f
@@ -509,10 +510,13 @@ Rex::IO::Server::Service,JFRIED,f
 Rex::Interface::Connection,JFRIED,f
 Rex::Interface::Connection::Base,JFRIED,f
 Rex::Interface::Connection::Fake,JFRIED,f
+Rex::Interface::Connection::HTTP,JFRIED,f
+Rex::Interface::Connection::HTTPS,JFRIED,f
 Rex::Interface::Connection::Local,JFRIED,f
 Rex::Interface::Connection::SSH,JFRIED,f
 Rex::Interface::Exec,JFRIED,f
 Rex::Interface::Exec::Base,JFRIED,f
+Rex::Interface::Exec::HTTP,JFRIED,f
 Rex::Interface::Exec::Local,JFRIED,f
 Rex::Interface::Exec::SSH,JFRIED,f
 Rex::Interface::Exec::Sudo,JFRIED,f
@@ -521,11 +525,13 @@ Rex::Interface::Executor::Base,JFRIED,f
 Rex::Interface::Executor::Default,JFRIED,f
 Rex::Interface::File,JFRIED,f
 Rex::Interface::File::Base,JFRIED,f
+Rex::Interface::File::HTTP,JFRIED,f
 Rex::Interface::File::Local,JFRIED,f
 Rex::Interface::File::SSH,JFRIED,f
 Rex::Interface::File::Sudo,JFRIED,f
 Rex::Interface::Fs,JFRIED,f
 Rex::Interface::Fs::Base,JFRIED,f
+Rex::Interface::Fs::HTTP,JFRIED,f
 Rex::Interface::Fs::Local,JFRIED,f
 Rex::Interface::Fs::SSH,JFRIED,f
 Rex::Interface::Fs::Sudo,JFRIED,f
