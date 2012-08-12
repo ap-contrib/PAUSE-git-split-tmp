@@ -366,7 +366,7 @@ ClearCase::Region_Cfg_Parser       1.01  L/LE/LESPAUL/ClearCase/Region/ClearCase
 ClearCase::SyncTree                0.59  D/DS/DSB/ClearCase-SyncTree-0.59.tar.gz
 ClearCase::Vob_Cfg_Parser          1.01  L/LE/LESPAUL/ClearCase/Region/ClearCase-Region-1.01.tar.gz
 ClearCase::VobPathConv            undef  M/MG/MGI/ClearCase-Wrapper-MGi-0.32.tar.gz
-ClearCase::Wrapper                 1.16  D/DS/DSB/ClearCase-Wrapper-1.16.tar.gz
+ClearCase::Wrapper                 1.17  D/DS/DSB/ClearCase-Wrapper-1.17.tar.gz
 ClearCase::Wrapper::DSB            1.14  D/DS/DSB/ClearCase-Wrapper-DSB-1.14.tar.gz
 ClearCase::Wrapper::MGi            0.32  M/MG/MGI/ClearCase-Wrapper-MGi-0.32.tar.gz
 ClearPress                          441  R/RP/RPETTETT/ClearPress-441.tar.gz
