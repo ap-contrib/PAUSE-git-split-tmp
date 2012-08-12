@@ -1908,6 +1908,7 @@ DBIx::Compare::SQLite,CJONES,f
 DBIx::Compare::mysql,CJONES,f
 DBIx::Compat,GRICHTER,f
 DBIx::Composer,PLISCO,f
+DBIx::Config,SYMKAT,f
 DBIx::Connect,TBONE,f
 DBIx::Connect::FromConfig,SAPER,f
 DBIx::Connection,ADRIANWIT,f
