@@ -112,10 +112,10 @@ Test::Count::Lib                      0  S/SH/SHLOMIF/Test-Count-0.0802.tar.gz
 Test::Count::Parser              0.0802  S/SH/SHLOMIF/Test-Count-0.0802.tar.gz
 Test::CPAN::Changes                0.19  B/BR/BRICAS/CPAN-Changes-0.19.tar.gz
 Test::CPAN::Changes::ReallyStrict v0.1.4  K/KE/KENTNL/Test-CPAN-Changes-ReallyStrict-0.1.4.tar.gz
-Test::CPAN::Meta                   0.21  B/BA/BARBIE/Test-CPAN-Meta-0.21.tar.gz
+Test::CPAN::Meta                   0.22  B/BA/BARBIE/Test-CPAN-Meta-0.22.tar.gz
 Test::CPAN::Meta::JSON             0.14  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.14.tar.gz
 Test::CPAN::Meta::JSON::Version    0.14  B/BA/BARBIE/Test-CPAN-Meta-JSON-0.14.tar.gz
-Test::CPAN::Meta::Version          0.21  B/BA/BARBIE/Test-CPAN-Meta-0.21.tar.gz
+Test::CPAN::Meta::Version          0.22  B/BA/BARBIE/Test-CPAN-Meta-0.22.tar.gz
 Test::CPAN::Meta::YAML             0.21  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.21.tar.gz
 Test::CPAN::Meta::YAML::Version    0.21  B/BA/BARBIE/Test-CPAN-Meta-YAML-0.21.tar.gz
 Test::CPANpm                      0.010  C/CR/CRAKRJACK/Test-CPANpm-0.010.tar.gz
