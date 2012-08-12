@@ -347,10 +347,15 @@ Class::DBI::Plugin::Iterator::subquery,ASAKURA,f
 Class::DBI::Plugin::MultiDatabases,MAKAMAKA,f
 Class::DBI::Plugin::NoCache,LYOKATO,f
 Class::DBI::Plugin::Pager,DAVEBAIRD,m
+Class::DBI::Plugin::Pager,MAJESTIC,c
 Class::DBI::Plugin::Pager::LimitOffset,DAVEBAIRD,f
+Class::DBI::Plugin::Pager::LimitOffset,MAJESTIC,c
 Class::DBI::Plugin::Pager::LimitXY,DAVEBAIRD,f
+Class::DBI::Plugin::Pager::LimitXY,MAJESTIC,c
 Class::DBI::Plugin::Pager::LimitYX,DAVEBAIRD,f
+Class::DBI::Plugin::Pager::LimitYX,MAJESTIC,c
 Class::DBI::Plugin::Pager::RowsTo,DAVEBAIRD,f
+Class::DBI::Plugin::Pager::RowsTo,MAJESTIC,c
 Class::DBI::Plugin::Param,NAOYA,f
 Class::DBI::Plugin::PseudoColumns,TANIGUCHI,f
 Class::DBI::Plugin::QueriesTime,NEKOKAK,f
