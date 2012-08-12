@@ -463,6 +463,11 @@ Web::Machine::Util::BodyEncoding,STEVAN,f
 Web::Machine::Util::ContentNegotiation,STEVAN,f
 Web::Magic,TOBYINK,f
 Web::Magic::Async,TOBYINK,f
+Web::Magic::Spellbook::Acme,TOBYINK,f
+Web::Magic::Spellbook::Feeds,TOBYINK,f
+Web::Magic::Spellbook::JSON,TOBYINK,f
+Web::Magic::Spellbook::RDF,TOBYINK,f
+Web::Magic::Spellbook::XML,TOBYINK,f
 Web::Magic::Util,TOBYINK,f
 Web::MicroID,RECLAW,f
 Web::Passwd,EVANK,f

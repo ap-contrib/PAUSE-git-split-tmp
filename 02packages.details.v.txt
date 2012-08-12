@@ -1175,8 +1175,13 @@ Web::Machine::Resource             0.03  S/ST/STEVAN/Web-Machine-0.03.tar.gz
 Web::Machine::Util                 0.03  S/ST/STEVAN/Web-Machine-0.03.tar.gz
 Web::Machine::Util::BodyEncoding   0.03  S/ST/STEVAN/Web-Machine-0.03.tar.gz
 Web::Machine::Util::ContentNegotiation 0.03  S/ST/STEVAN/Web-Machine-0.03.tar.gz
-Web::Magic                        0.008  T/TO/TOBYINK/Web-Magic-0.008.tar.gz
-Web::Magic::Async                 0.008  T/TO/TOBYINK/Web-Magic-0.008.tar.gz
+Web::Magic                        0.009  T/TO/TOBYINK/Web-Magic-0.009.tar.gz
+Web::Magic::Async                 0.009  T/TO/TOBYINK/Web-Magic-0.009.tar.gz
+Web::Magic::Spellbook::Acme       0.009  T/TO/TOBYINK/Web-Magic-0.009.tar.gz
+Web::Magic::Spellbook::Feeds      0.009  T/TO/TOBYINK/Web-Magic-0.009.tar.gz
+Web::Magic::Spellbook::JSON       0.009  T/TO/TOBYINK/Web-Magic-0.009.tar.gz
+Web::Magic::Spellbook::RDF        0.009  T/TO/TOBYINK/Web-Magic-0.009.tar.gz
+Web::Magic::Spellbook::XML        0.009  T/TO/TOBYINK/Web-Magic-0.009.tar.gz
 Web::Magic::Util                  0.008  T/TO/TOBYINK/Web-Magic-0.008.tar.gz
 Web::MicroID                       0.02  R/RE/RECLAW/Web-MicroID-0.02.tar.gz
 Web::oEmbed                        0.04  M/MI/MIYAGAWA/Web-oEmbed-0.04.tar.gz
