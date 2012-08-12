@@ -364,6 +364,7 @@ App::sh2p::Runtime,CLIVE,f
 App::sh2p::Statement,CLIVE,f
 App::sh2p::Trap,CLIVE,f
 App::sh2p::Utils,CLIVE,f
+App::soapcli,DEXTER,f
 App::starbucksloginator,ROKR,f
 App::sync_cpantesters,CODEREPOS,c
 App::sync_cpantesters,MARCEL,f

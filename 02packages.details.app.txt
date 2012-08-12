@@ -152,6 +152,7 @@ App::SmokeBrew::Tools              0.36  B/BI/BINGOS/smokebrew-0.36.tar.gz
 App::SmokeBrew::Types              0.36  B/BI/BINGOS/smokebrew-0.36.tar.gz
 App::Smolder::Report               0.04  M/ME/MELO/App-Smolder-Report-0.04.tar.gz
 App::SnerpVortex                  1.000  R/RC/RCAPUTO/App-SnerpVortex-1.000.tar.gz
+App::soapcli                       0.01  D/DE/DEXTER/App-soapcli-0.01.tar.gz
 App::SocialCalc::Multiplayer   20110626  A/AU/AUDREYT/App-SocialCalc-Multiplayer-20110626.tar.gz
 App::SocialCalc::Multiplayer::ChatMultipartPollHandler 20091119  A/AU/AUDREYT/App-SocialCalc-Multiplayer-20091119.tar.gz
 App::SocialCalc::Multiplayer::ChatPollHandler 20091119  A/AU/AUDREYT/App-SocialCalc-Multiplayer-20091119.tar.gz
