@@ -51,6 +51,7 @@ Class::Fields::Attribs,MSCHWERN,f
 Class::Fields::Fuxor,MSCHWERN,f
 Class::Fields::Inherit,MSCHWERN,f
 Class::Flyweight,DKUBB,m
+Class::Forward,AWNCORP,f
 Class::Frame,DENYSV,f
 Class::Framework,THINCH,f
 Class::Framework::Accessor,CODEREPOS,c
