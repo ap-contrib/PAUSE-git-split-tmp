@@ -87,7 +87,7 @@ URI::Sequin                         1.2  S/SA/SARGIE/URI-Sequin-1.2.tar.gz
 URI::sftp                          0.01  S/SA/SALVA/URI-sftp-0.01.tar.gz
 URI::sip                           0.11  G/GA/GAAS/URI-1.60.tar.gz
 URI::sips                         undef  G/GA/GAAS/URI-1.60.tar.gz
-URI::SmartURI                     0.031  R/RK/RKITOVER/URI-SmartURI-0.031.tar.gz
+URI::SmartURI                     0.032  R/RK/RKITOVER/URI-SmartURI-0.032.tar.gz
 URI::snews                        undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::socks                        undef  S/SC/SCR/LWP-Protocol-socks-1.6.tar.gz
 URI::socks4                       undef  S/SC/SCR/LWP-Protocol-socks-1.6.tar.gz
