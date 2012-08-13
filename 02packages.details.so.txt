@@ -153,7 +153,7 @@ SparkX::Form::Field::Validator::Regex 0.2102  K/KE/KENTNL/Spark-Form-0.2102.tar.
 SparkX::Form::Printer::List      0.2102  K/KE/KENTNL/Spark-Form-0.2102.tar.gz
 Sparse                             0.03  A/AM/AMRUTA/Sparse-0.03.tar.gz
 Sparse::Vector                     0.03  A/AM/AMRUTA/Sparse-0.03.tar.gz
-Spawn::Safe                       2.003  J/JE/JEAGLE/Spawn-Safe-2.003.tar.gz
+Spawn::Safe                       2.004  J/JE/JEAGLE/Spawn-Safe-2.004.tar.gz
 SpecialVars                        0.08  P/PH/PHILCROW/Data-HTMLDumper-0.08.tar.gz
 Specification                      2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Spectrum::CLI                     1.016  P/PL/PLONKA/Spectrum-CLI-1.016.tar.gz
