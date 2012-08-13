@@ -416,7 +416,7 @@ LWP::Protocol::mailto             undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::MyFTP              undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::nntp               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::nogo               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
-LWP::Protocol::PSGI                0.02  M/MI/MIYAGAWA/LWP-Protocol-PSGI-0.02.tar.gz
+LWP::Protocol::PSGI                0.03  M/MI/MIYAGAWA/LWP-Protocol-PSGI-0.03.tar.gz
 LWP::Protocol::sftp                0.04  S/SA/SALVA/LWP-Protocol-sftp-0.04.tar.gz
 LWP::Protocol::socks                1.6  S/SC/SCR/LWP-Protocol-socks-1.6.tar.gz
 LWP::Protocol::socks4             undef  S/SC/SCR/LWP-Protocol-socks-1.6.tar.gz
