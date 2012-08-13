@@ -1131,6 +1131,7 @@ DBIx::Class::Schema::AuditLog,IONCACHE,f
 DBIx::Class::Schema::AuditLog::Structure,IONCACHE,f
 DBIx::Class::Schema::AuditLog::Structure::Action,IONCACHE,f
 DBIx::Class::Schema::AuditLog::Structure::AuditedTable,IONCACHE,f
+DBIx::Class::Schema::AuditLog::Structure::Base,IONCACHE,f
 DBIx::Class::Schema::AuditLog::Structure::Change,IONCACHE,f
 DBIx::Class::Schema::AuditLog::Structure::Changeset,IONCACHE,f
 DBIx::Class::Schema::AuditLog::Structure::Field,IONCACHE,f
