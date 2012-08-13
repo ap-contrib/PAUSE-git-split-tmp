@@ -778,6 +778,7 @@ CatalystX::Test::MessageDriven,BOBTFISH,c
 CatalystX::Test::MessageDriven,CHRISA,f
 CatalystX::Test::MessageDriven,PMOONEY,c
 CatalystX::Test::MockContext,EDENC,f
+CatalystX::Test::Most,ASHLEY,f
 CatalystX::Test::Recorder,PERLER,f
 CatalystX::Test::Recorder::Controller,PERLER,f
 CatalystX::TraitFor::Dispatcher::ExactMatch,TOBYINK,f
