@@ -91,10 +91,11 @@ Gentoo::Overlay::Group::INI::Section v0.2.1  K/KE/KENTNL/Gentoo-Overlay-Group-IN
 Gentoo::Overlay::Group::INI::Section::Overlays v0.2.1  K/KE/KENTNL/Gentoo-Overlay-Group-INI-0.2.1.tar.gz
 Gentoo::Overlay::Package         v1.0.2  K/KE/KENTNL/Gentoo-Overlay-1.0.2.tar.gz
 Gentoo::Overlay::Types           v1.0.2  K/KE/KENTNL/Gentoo-Overlay-1.0.2.tar.gz
-Gentoo::Perl::Distmap            v0.1.2  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.2.tar.gz
-Gentoo::Perl::Distmap::Map       v0.1.2  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.2.tar.gz
-Gentoo::Perl::Distmap::Record    v0.1.2  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.2.tar.gz
-Gentoo::Perl::Distmap::RecordSet v0.1.2  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.2.tar.gz
+Gentoo::Perl::Distmap            v0.1.3  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.3.tar.gz
+Gentoo::Perl::Distmap::Map       v0.1.3  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.3.tar.gz
+Gentoo::Perl::Distmap::Record    v0.1.3  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.3.tar.gz
+Gentoo::Perl::Distmap::RecordSet v0.1.3  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.3.tar.gz
+Gentoo::Perl::Distmap::Role::Serialize v0.1.3  K/KE/KENTNL/Gentoo-Perl-Distmap-0.1.3.tar.gz
 Gentoo::PerlMod::Version         v0.5.0  K/KE/KENTNL/Gentoo-PerlMod-Version-0.5.0.tar.gz
 Gentoo::PerlMod::Version::FixEbuild v0.1.1  K/KE/KENTNL/Gentoo-PerlMod-Version-FixEbuild-0.1.1.tar.gz
 Gentoo::Probe                  1.000006  R/RP/RPAUL/Gentoo-Probe-1.0.6.tar.gz
