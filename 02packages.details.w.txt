@@ -311,6 +311,7 @@ WWW::BigDoor::NamedTransactionGroup undef  A/AL/ALEXD/WWW-BigDoor-v0.1.1.tar.gz
 WWW::BigDoor::Profile             undef  A/AL/ALEXD/WWW-BigDoor-v0.1.1.tar.gz
 WWW::BigDoor::Resource            undef  A/AL/ALEXD/WWW-BigDoor-v0.1.1.tar.gz
 WWW::BigDoor::URL                 undef  A/AL/ALEXD/WWW-BigDoor-v0.1.1.tar.gz
+WWW::Bing::Search                 0.011  E/ED/EDAM/WWW-Bing-Search-0.011.tar.gz
 WWW::Bing::Serach                 0.010  E/ED/EDAM/WWW-Bing-Search-0.010.tar.gz
 WWW::BitTorrent                    0.01  A/AM/AMITSIDES/WWW/WWW-BitTorrent-0.01.tar.gz
 WWW::Bleep                         0.92  S/SN/SNEVINE/WWW-Bleep-092/WWW-Bleep-0.92.tgz
