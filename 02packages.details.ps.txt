@@ -959,7 +959,7 @@ RDF::Helper::Node::Literal        undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::Node::Resource       undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::Object               undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
 RDF::Helper::PerlConvenience      undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
-RDF::Helper::Properties            0.20  K/KJ/KJETILK/RDF-Helper-Properties-0.20.tar.gz
+RDF::Helper::Properties            0.22  T/TO/TOBYINK/RDF-Helper-Properties-0.22.tar.gz
 RDF::Helper::RDFCore              undef  K/KH/KHAMPTON/RDF-Helper-1.06.tar.gz
 RDF::Helper::RDFCore::Enumerator  undef  K/KH/KHAMPTON/RDF-Helper-1.06.tar.gz
 RDF::Helper::RDFQuery             undef  K/KH/KHAMPTON/RDF-Helper-2.0.tar.gz
