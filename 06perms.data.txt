@@ -1101,6 +1101,7 @@ Data::Printer::Filter::ClassicRegex,GARU,f
 Data::Printer::Filter::DB,GARU,f
 Data::Printer::Filter::DateTime,GARU,f
 Data::Printer::Filter::Digest,GARU,f
+Data::Printer::Filter::JSON,NUBA,f
 Data::Printer::Filter::URI,SYP,f
 Data::PrioQ::SkewBinomial,MAUKE,f
 Data::Properties,IX,f
