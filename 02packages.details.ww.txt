@@ -312,7 +312,7 @@ WWW::Lovefilm::API                 0.13  P/PM/PMOONEY/WWW-Lovefilm-API-0.13.tar.
 WWW::Lovefilm::API::_UrlAppender   0.13  P/PM/PMOONEY/WWW-Lovefilm-API-0.13.tar.gz
 WWW::Mail15                        0.01  R/RE/REFLOG/WWW-Mail15-0.01.tar.gz
 WWW::Mail15::Message               0.01  R/RE/REFLOG/WWW-Mail15-0.01.tar.gz
-WWW::Mailchimp                    0.005  A/AR/ARCANEZ/WWW-Mailchimp-0.005.tar.gz
+WWW::Mailchimp                    0.006  A/AR/ARCANEZ/WWW-Mailchimp-0.006.tar.gz
 WWW::Mailgun                        0.4  E/EL/ELBOW/WWW-Mailgun-0.4.tar.gz
 WWW::Mailman                       1.05  B/BO/BOOK/WWW-Mailman-1.05.tar.gz
 WWW::MapBlast                      0.02  L/LG/LGODDARD/WWW-MapBlast-0.02.tar.gz
