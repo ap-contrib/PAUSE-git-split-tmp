@@ -494,6 +494,7 @@ Data::Describe,GEOTIGER,m
 Data::Diff,GCAMPBELL,m
 Data::Difference,GBARR,f
 Data::Differences,CORNELIS,f
+Data::Difflet,TOKUHIROM,f
 Data::Digest,ADAMK,f
 Data::Dimensions,AJGOUGH,f
 Data::Dimensions::Map,AJGOUGH,f
