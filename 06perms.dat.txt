@@ -633,6 +633,7 @@ Data::Dumper::Declare,TOBYINK,f
 Data::Dumper::Declare::Parser,TOBYINK,f
 Data::Dumper::EasyOO,JCROMIE,f
 Data::Dumper::HTML,DMUEY,m
+Data::Dumper::Limited,SMUELLER,f
 Data::Dumper::Names,OVID,f
 Data::Dumper::Perltidy,JMCNAMARA,f
 Data::Dumper::Simple,OVID,f
