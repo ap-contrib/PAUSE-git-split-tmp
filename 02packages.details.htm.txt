@@ -207,6 +207,12 @@ HTML::Stream::FileHandle           1.60  D/DS/DSTAAL/HTML-Stream-1.60.tar.gz
 HTML::Stream::Latin1               1.60  D/DS/DSTAAL/HTML-Stream-1.60.tar.gz
 HTML::Stream::LinkRepairForm       1.06  M/MI/MIKEDLR/WWW-Link-0.036.tar.gz
 HTML::Stream::LinkReport           1.07  M/MI/MIKEDLR/WWW-Link-0.036.tar.gz
+HTML::String                   1.000000  M/MS/MSTROUT/HTML-String-1.000000.tar.gz
+HTML::String::Overload            undef  M/MS/MSTROUT/HTML-String-1.000000.tar.gz
+HTML::String::TT                  undef  M/MS/MSTROUT/HTML-String-1.000000.tar.gz
+HTML::String::TT::_TMPL           undef  M/MS/MSTROUT/HTML-String-1.000000.tar.gz
+HTML::String::TT::Directive       undef  M/MS/MSTROUT/HTML-String-1.000000.tar.gz
+HTML::String::Value               undef  M/MS/MSTROUT/HTML-String-1.000000.tar.gz
 HTML::Strip                        1.06  K/KI/KILINRAX/HTML-Strip-1.06.tar.gz
 HTML::Strip::Whitespace        0.001006  S/SH/SHLOMIF/HTML-Strip-Whitespace-0.1.6.tar.gz
 HTML::StripScripts                 1.05  D/DR/DRTECH/HTML-StripScripts-1.05.tar.gz

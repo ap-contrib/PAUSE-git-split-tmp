@@ -266,6 +266,12 @@ HTML::Stream::Latin1,DSTAAL,f
 HTML::Stream::Latin1,ERYQ,c
 HTML::Stream::LinkRepairForm,MIKEDLR,f
 HTML::Stream::LinkReport,MIKEDLR,f
+HTML::String,MSTROUT,f
+HTML::String::Overload,MSTROUT,f
+HTML::String::TT,MSTROUT,f
+HTML::String::TT::Directive,MSTROUT,f
+HTML::String::TT::_TMPL,MSTROUT,f
+HTML::String::Value,MSTROUT,f
 HTML::Strip,DMUEY,c
 HTML::Strip,KILINRAX,f
 HTML::Strip::Whitespace,SHLOMIF,f
