@@ -191,6 +191,10 @@ Data::Rlist,ASPINDLER,m
 Data::Rmap,BOWMANBS,f
 Data::RoundRobin,GUGOD,f
 Data::RoundRobinShared,SPRADEEP,m
+Data::RuledCluster,NEKOKAK,f
+Data::RuledCluster::Strategy,NEKOKAK,f
+Data::RuledCluster::Strategy::Key,NEKOKAK,f
+Data::RuledCluster::Strategy::List,NEKOKAK,f
 Data::RuledValidator,KTAT,m
 Data::RuledValidator::Closure,KTAT,f
 Data::RuledValidator::Filter,KTAT,f

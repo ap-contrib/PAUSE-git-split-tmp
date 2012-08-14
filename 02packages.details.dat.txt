@@ -135,6 +135,10 @@ Data::Rlist                        1.44  A/AS/ASPINDLER/Data-Rlist-1.44.tar.gz
 Data::Rmap                         0.62  B/BO/BOWMANBS/Data-Rmap-0.62.tar.gz
 Data::RoundRobin                   0.03  G/GU/GUGOD/Data-RoundRobin-0.03.tar.gz
 Data::RoundRobinShared             0.11  S/SP/SPRADEEP/Data-RoundRobinShared-0.11.tar.gz
+Data::RuledCluster                 0.02  N/NE/NEKOKAK/Data-RuledCluster-0.02.tar.gz
+Data::RuledCluster::Strategy      undef  N/NE/NEKOKAK/Data-RuledCluster-0.02.tar.gz
+Data::RuledCluster::Strategy::Key undef  N/NE/NEKOKAK/Data-RuledCluster-0.02.tar.gz
+Data::RuledCluster::Strategy::List undef  N/NE/NEKOKAK/Data-RuledCluster-0.02.tar.gz
 Data::RuledValidator               0.12  K/KT/KTAT/Data-RuledValidator-0.12.tar.gz
 Data::RuledValidator::Closure      0.05  K/KT/KTAT/Data-RuledValidator-0.12.tar.gz
 Data::RuledValidator::Filter       0.02  K/KT/KTAT/Data-RuledValidator-0.12.tar.gz
