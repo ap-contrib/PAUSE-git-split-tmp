@@ -407,6 +407,7 @@ Config::Validate,CMO,f
 Config::Validator,LCONS,m
 Config::Vars,ROODE,f
 Config::Versioned,MRSCOTTY,m
+Config::WebTest::PlayGround,REHSACK,f
 Config::Wild,DJERIUS,f
 Config::Wrest,BBC,f
 Config::XMLPerl,GMPASSOS,f

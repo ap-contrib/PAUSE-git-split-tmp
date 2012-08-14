@@ -371,6 +371,14 @@ WWW::Mechanize::Plugin::Snapshot   0.20  M/MC/MCMAHON/WWW-Mechanize-Plugin-Snaps
 WWW::Mechanize::Plugin::Web::Scraper 0.02  B/BL/BLOM/WWW-Mechanize-Plugin-Web-Scraper-0.02.tar.gz
 WWW::Mechanize::Query              0.02  S/SU/SUPERASN/WWW-Mechanize-Query-0.02.tar.gz
 WWW::Mechanize::Retry              0.03  M/MS/MSCHILLI/Buffalo-G54-0.03.tar.gz
+WWW::Mechanize::Script            0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
+WWW::Mechanize::Script::Plugin    0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
+WWW::Mechanize::Script::Plugin::ContentSizeTest 0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
+WWW::Mechanize::Script::Plugin::RegexMatchTest 0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
+WWW::Mechanize::Script::Plugin::ResponseTimeTest 0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
+WWW::Mechanize::Script::Plugin::StatusTest 0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
+WWW::Mechanize::Script::Plugin::TextMatchTest 0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
+WWW::Mechanize::Script::Util      0.100  R/RE/REHSACK/WWW-Mechanize-Script-0.100.tar.gz
 WWW::Mechanize::Shell              0.52  C/CO/CORION/WWW-Mechanize-Shell-0.52.tar.gz
 WWW::Mechanize::Sleepy              0.7  K/KN/KNTONAS/WWW-Mechanize-Sleepy-0.7.tar.gz
 WWW::Mechanize::SpamCop            0.08  A/AD/ADAMOWSKI/WWW-Mechanize-SpamCop-0.08.tar.gz
