@@ -202,7 +202,7 @@ Class::Fields                     0.204  M/MS/MSCHWERN/Class-Fields-0.204.tar.gz
 Class::Fields::Attribs             0.03  M/MS/MSCHWERN/Class-Fields-0.204.tar.gz
 Class::Fields::Fuxor               0.06  M/MS/MSCHWERN/Class-Fields-0.204.tar.gz
 Class::Fields::Inherit             0.06  M/MS/MSCHWERN/Class-Fields-0.204.tar.gz
-Class::Forward                     0.03  A/AW/AWNCORP/Class-Forward-0.03.tar.gz
+Class::Forward                     0.04  A/AW/AWNCORP/Class-Forward-0.04.tar.gz
 Class::Frame                        1.0  D/DE/DENYSV/Class-Frame-1.0.tar.gz
 Class::Framework                  1.228  T/TH/THINCH/Class-Framework-1.228.tar.gz
 Class::Framework::New             1.228  T/TH/THINCH/Class-Framework-1.228.tar.gz
