@@ -476,7 +476,7 @@ Test::Logger                      undef  L/LE/LEIRA/HTTP-Recorder-0.02.tar.gz
 Test::LongString                   0.15  R/RG/RGARCIA/Test-LongString-0.15.tar.gz
 Test::LWP::MockSocket::http        0.05  M/MN/MNUNBERG/Test-LWP-MockSocket-http-0.05.tar.gz
 Test::LWP::Recorder              v0.1.0  E/EA/EALLENIII/Test-LWP-Recorder-0.1.0.tar.gz
-Test::LWP::UserAgent              0.005  E/ET/ETHER/Test-LWP-UserAgent-0.005.tar.gz
+Test::LWP::UserAgent              0.007  E/ET/ETHER/Test-LWP-UserAgent-0.007.tar.gz
 Test::Magic                        0.21  A/AS/ASG/Test-Magic-0.21.tar.gz
 Test::Magpie                       0.05  C/CY/CYCLES/Test-Magpie-0.05.tar.gz
 Test::Magpie::ArgumentMatcher      0.05  C/CY/CYCLES/Test-Magpie-0.05.tar.gz
