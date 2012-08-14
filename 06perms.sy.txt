@@ -708,6 +708,8 @@ SystemTray::Applet,PSINNOTT,f
 SystemTray::Applet::CmdLine,PSINNOTT,f
 SystemTray::Applet::Gnome,PSINNOTT,f
 SystemTray::Applet::Win32,PSINNOTT,f
+Sysync,MJFLICK,f
+Sysync::File,MJFLICK,f
 T,CASIANO,f
 T2,NUFFIN,c
 T2,SAMV,f
