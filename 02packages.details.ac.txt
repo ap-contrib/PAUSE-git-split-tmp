@@ -93,11 +93,11 @@ AddressBook::Entry                 0.12  D/DL/DLEIGH/AddressBook-0.16.tar.gz
 AddressDedup                       1.09  G/GL/GLENNWOOD/Scraper-3.05.tar.gz
 AddressWidget                     undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Advent::Bundles                    0.05  D/DA/DAVIDRW/Advent-Bundles-0.05.tar.gz
-AE                                undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
+AE                                undef  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
 AE::CS                            undef  B/BL/BLUET/AnyEvent-CallbackStack-0.09.tgz
-AE::Log::COLLECT                  undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
-AE::Log::FILTER                   undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
-AE::Log::LOG                      undef  M/ML/MLEHMANN/AnyEvent-7.01.tar.gz
+AE::Log::COLLECT                  undef  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
+AE::Log::FILTER                   undef  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
+AE::Log::LOG                      undef  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
 AEAE                               0.02  J/JE/JETEVE/AEAE-0.02.tar.gz
 AEAE::AsyncCGIPage                undef  J/JE/JETEVE/AEAE-0.02.tar.gz
 AEAE::Command                     undef  J/JE/JETEVE/AEAE-0.02.tar.gz
