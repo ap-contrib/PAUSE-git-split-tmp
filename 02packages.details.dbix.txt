@@ -992,7 +992,7 @@ Devel::Hints                       0.21  A/AU/AUDREYT/Devel-Hints-0.21.tar.gz
 Devel::Hook                       0.005  F/FE/FERREIRA/Devel-Hook-0.005.tar.gz
 Devel::INC::Sorted                 0.02  N/NU/NUFFIN/Devel-INC-Sorted-0.02.tar.gz
 Devel::InheritNamespace         0.00002  D/DM/DMAKI/Devel-InheritNamespace-0.00002.tar.gz
-Devel::InnerPackage                 0.4  S/SI/SIMONW/Module-Pluggable-4.1.tar.gz
+Devel::InnerPackage                 0.4  S/SI/SIMONW/Module-Pluggable-4.2.tar.gz
 Devel::InPackage                   0.01  J/JR/JROCKWAY/Devel-InPackage-0.01.tar.gz
 Devel::IntelliPerl                 0.04  P/PE/PERLER/Devel-IntelliPerl-0.04.tar.gz
 Devel::IntelliPerl::Editor         0.04  P/PE/PERLER/Devel-IntelliPerl-0.04.tar.gz
