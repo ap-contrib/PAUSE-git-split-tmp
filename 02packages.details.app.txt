@@ -911,7 +911,7 @@ Array::Autojoin                    0.03  S/SB/SBURKE/Array-Autojoin-0.03.tar.gz
 Array::Autojoin::X                 0.03  S/SB/SBURKE/Array-Autojoin-0.03.tar.gz
 Array::Average                     0.02  M/MR/MRDVT/Array-Average-0.02.tar.gz
 Array::Base                       0.005  Z/ZE/ZEFRAM/Array-Base-0.005.tar.gz
-Array::Columnize                   1.00  R/RO/ROCKY/Array-Columnize-1.00.tar.gz
+Array::Columnize                   1.01  R/RO/ROCKY/Array-Columnize-1.01.tar.gz
 Array::Compare                     2.02  D/DA/DAVECROSS/Array-Compare-2.02.tar.gz
 Array::CompareAndFilter        1.000002  D/DA/DADERUS/Array-CompareAndFilter-v1.0.2.tar.gz
 Array::DeepUtils                    0.2  T/TO/TOMK/Array-DeepUtils-0.2.tar.gz
