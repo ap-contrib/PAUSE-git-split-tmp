@@ -32,7 +32,7 @@ CPAN::Local::Distribution::Role::Metadata 0.003  P/PS/PSHANGOV/CPAN-Local-0.003.
 CPAN::Local::Distribution::Role::NameInfo 0.003  P/PS/PSHANGOV/CPAN-Local-0.003.tar.gz
 CPAN::Local::MVP::Assembler       0.003  P/PS/PSHANGOV/CPAN-Local-0.003.tar.gz
 CPAN::Local::Plugin               0.003  P/PS/PSHANGOV/CPAN-Local-0.003.tar.gz
-CPAN::Local::Plugin::DistroList   0.002  P/PS/PSHANGOV/CPAN-Local-Plugin-DistroList-0.002.tar.gz
+CPAN::Local::Plugin::DistroList   0.003  P/PS/PSHANGOV/CPAN-Local-Plugin-DistroList-0.003.tar.gz
 CPAN::Local::Plugin::Duplicates   0.003  P/PS/PSHANGOV/CPAN-Local-0.003.tar.gz
 CPAN::Local::Plugin::Indices      0.003  P/PS/PSHANGOV/CPAN-Local-0.003.tar.gz
 CPAN::Local::Plugin::Inject       0.003  P/PS/PSHANGOV/CPAN-Local-0.003.tar.gz
