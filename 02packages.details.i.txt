@@ -56,9 +56,9 @@ Imager::Expr::Infix               1.005  T/TO/TONYC/Imager-0.92.tar.gz
 Imager::Expr::Postfix             1.005  T/TO/TONYC/Imager-0.92.tar.gz
 Imager::ExtUtils                  1.002  T/TO/TONYC/Imager-0.92.tar.gz
 Imager::File::CUR                 undef  T/TO/TONYC/Imager-0.92.tar.gz
-Imager::File::GIF                  0.83  T/TO/TONYC/Imager-File-GIF-0.83.tar.gz
+Imager::File::GIF                  0.84  T/TO/TONYC/Imager-File-GIF-0.84.tar.gz
 Imager::File::ICO                  0.03  T/TO/TONYC/Imager-0.92.tar.gz
-Imager::File::JPEG                 0.83  T/TO/TONYC/Imager-File-JPEG-0.83.tar.gz
+Imager::File::JPEG                 0.84  T/TO/TONYC/Imager-File-JPEG-0.84.tar.gz
 Imager::File::PNG                  0.85  T/TO/TONYC/Imager-File-PNG-0.85.tar.gz
 Imager::File::SGI                  0.03  T/TO/TONYC/Imager-0.92.tar.gz
 Imager::File::TIFF                 0.83  T/TO/TONYC/Imager-File-TIFF-0.83.tar.gz
