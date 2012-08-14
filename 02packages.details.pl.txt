@@ -26,6 +26,7 @@ Plack::Middleware::Precompressed  1.005  A/AR/ARISTOTLE/Plack-Middleware-Precomp
 Plack::Middleware::Proxy::AddVia   0.01  H/HI/HIRATARA/Plack-App-Proxy-0.21.tar.gz
 Plack::Middleware::Proxy::Connect  0.01  H/HI/HIRATARA/Plack-App-Proxy-0.21.tar.gz
 Plack::Middleware::Proxy::LoadBalancer 0.01  H/HI/HIRATARA/Plack-App-Proxy-0.21.tar.gz
+Plack::Middleware::Proxy::Requests 0.01  D/DE/DEXTER/Plack-Middleware-Proxy-Requests-0.01.tar.gz
 Plack::Middleware::Proxy::RewriteLocation undef  H/HI/HIRATARA/Plack-App-Proxy-0.21.tar.gz
 Plack::Middleware::ProxyMap        0.12  I/IN/INGY/Plack-Middleware-ProxyMap-0.12.tar.gz
 Plack::Middleware::QRCode          0.02  C/CO/CORNELIUS/Plack-Middleware-QRCode-0.02.tar.gz

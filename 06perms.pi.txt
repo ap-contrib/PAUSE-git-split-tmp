@@ -434,6 +434,7 @@ Plack::Middleware::Proxy::Connect,HIRATARA,f
 Plack::Middleware::Proxy::Connect,LEEDO,c
 Plack::Middleware::Proxy::LoadBalancer,HIRATARA,f
 Plack::Middleware::Proxy::LoadBalancer,LEEDO,c
+Plack::Middleware::Proxy::Requests,DEXTER,f
 Plack::Middleware::Proxy::RewriteLocation,HIRATARA,f
 Plack::Middleware::Proxy::RewriteLocation,LEEDO,c
 Plack::Middleware::ProxyMap,INGY,f
