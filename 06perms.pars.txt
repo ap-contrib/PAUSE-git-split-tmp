@@ -381,6 +381,8 @@ Parse::IRCLog,RJBS,f
 Parse::IRCLog::Result,RJBS,f
 Parse::ISF,RAZOR,m
 Parse::Indented,MICHAEL,f
+Parse::JapanesePostalCode,YAPPO,f
+Parse::JapanesePostalCode::Row,YAPPO,f
 Parse::Krb5::Config,PKNOWLES,m
 Parse::Lex,PSCUST,c
 Parse::Lex,PVERD,m
