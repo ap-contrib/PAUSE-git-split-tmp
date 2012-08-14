@@ -312,7 +312,7 @@ CatalystX::Starter                 0.07  B/BO/BOBTFISH/CatalystX-Starter-0.07.ta
 CatalystX::Syntax::Action          0.01  J/JJ/JJNAPIORK/CatalystX-Syntax-Action-0.01.tar.gz
 CatalystX::Test::MessageDriven    undef  P/PM/PMOONEY/Catalyst-Engine-Stomp-0.17.tar.gz
 CatalystX::Test::MockContext      undef  E/ED/EDENC/CatalystX-Test-MockContext-0.000001.tar.gz
-CatalystX::Test::Most              0.02  A/AS/ASHLEY/CatalystX-Test-Most-0.02.tar.gz
+CatalystX::Test::Most              0.03  A/AS/ASHLEY/CatalystX-Test-Most-0.03.tar.gz
 CatalystX::Test::Recorder        v1.0.0  P/PE/PERLER/CatalystX-Test-Recorder-1.0.0.tar.gz
 CatalystX::Test::Recorder::Controller v1.0.0  P/PE/PERLER/CatalystX-Test-Recorder-1.0.0.tar.gz
 CatalystX::TraitFor::Dispatcher::ExactMatch 0.002  T/TO/TOBYINK/CatalystX-TraitFor-Dispatcher-ExactMatch-0.002.tar.gz
