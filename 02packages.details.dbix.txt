@@ -1177,7 +1177,7 @@ Devel::REPL::Plugin::CompletionDriver::LexEnv undef  C/CH/CHM/Devel-REPL-1.00301
 Devel::REPL::Plugin::CompletionDriver::Methods undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::CompletionDriver::SOOT undef  S/SM/SMUELLER/SOOT-App-0.04.tar.gz
 Devel::REPL::Plugin::CompletionDriver::Turtles undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
-Devel::REPL::Plugin::DataPrinter  0.003  G/GA/GARU/Devel-REPL-Plugin-DataPrinter-0.003.tar.gz
+Devel::REPL::Plugin::DataPrinter  0.004  G/GA/GARU/Devel-REPL-Plugin-DataPrinter-0.004.tar.gz
 Devel::REPL::Plugin::DDC          undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::DDS          undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
 Devel::REPL::Plugin::DumpHistory  undef  C/CH/CHM/Devel-REPL-1.003013.tar.gz
