@@ -791,7 +791,7 @@ POSIX::Account::LDAP               0.01  J/JF/JFENAL/POSIX-Account-LDAP-0.01.tar
 POSIX::AtFork                      0.02  G/GF/GFUJI/POSIX-AtFork-0.02.tar.gz
 POSIX::bsearch                     0.02  D/DA/DAVIDNICO/POSIX-bsearch-0.02.tar.gz
 POSIX::Open3                       0.01  A/AM/AMBS/POSIX/POSIX-Open3-0.01.tar.gz
-POSIX::pselect                     0.02  G/GF/GFUJI/POSIX-pselect-0.02.tar.gz
+POSIX::pselect                     0.03  G/GF/GFUJI/POSIX-pselect-0.03.tar.gz
 POSIX::Regex                     1.0001  J/JE/JETTERO/POSIX-Regex-1.0001.tar.gz
 POSIX::RT::Clock                  0.014  L/LE/LEONT/POSIX-RT-Timer-0.014.tar.gz
 POSIX::RT::MQ                      0.03  I/IL/ILJATABAC/POSIX-RT-MQ-0.03.tar.gz
