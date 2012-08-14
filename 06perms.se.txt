@@ -334,6 +334,8 @@ Server::Control,JSWARTZ,f
 Server::Control::Apache,JSWARTZ,f
 Server::Control::HTTPServerSimple,JSWARTZ,f
 Server::Control::NetServer,JSWARTZ,f
+Server::Control::Nginx,JSWARTZ,f
+Server::Control::Starman,JSWARTZ,f
 Server::Control::Test::Class,JSWARTZ,f
 Server::Control::Test::PoliteApache,JSWARTZ,f
 Server::Control::Util,JSWARTZ,f
