@@ -1553,6 +1553,7 @@ Crypt::Passwd::XS,LIGHTSEY,f
 Crypt::PasswdMD5,LUISMUNOZ,m
 Crypt::Password,DRSTEVE,m
 Crypt::PerfectPaperPasswords,ANDYA,f
+Crypt::Present,GODE,f
 Crypt::Primes,VIPUL,f
 Crypt::ProtectedString,IDO,m
 Crypt::Pwsafe,TANGENT,f
