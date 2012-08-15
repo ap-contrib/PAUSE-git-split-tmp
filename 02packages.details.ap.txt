@@ -184,7 +184,7 @@ App::Nopaste::Service::Snitch     undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
 App::Nopaste::Service::Sprunge    0.004  D/DO/DOHERTY/App-Nopaste-Service-Sprunge-0.004.tar.gz
 App::Nopaste::Service::ssh        undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
 App::Nopaste::Service::Ubuntu     undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
-App::Notes                        0.011  W/WW/WWOLF/App-Notes-0.011.tar.gz
+App::Notes                        0.012  W/WW/WWOLF/App-Notes-0.012.tar.gz
 App::Notifier::Client             undef  S/SH/SHLOMIF/App-Notifier-Client-0.0102.tar.gz
 App::Notifier::Client::Notifier_App undef  S/SH/SHLOMIF/App-Notifier-Client-0.0102.tar.gz
 App::Notifier::Service           0.0202  S/SH/SHLOMIF/App-Notifier-Service-0.0202.tar.gz
