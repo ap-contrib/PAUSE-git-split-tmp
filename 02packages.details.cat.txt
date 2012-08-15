@@ -567,7 +567,7 @@ Cdk::Slider                       undef  G/GL/GLOVER/Curses-Devkit-4.9.3.tar.gz
 Cdk::Swindow                      undef  G/GL/GLOVER/Curses-Devkit-4.9.3.tar.gz
 Cdk::Template                     undef  G/GL/GLOVER/Curses-Devkit-4.9.3.tar.gz
 Cdk::Viewer                       undef  G/GL/GLOVER/Curses-Devkit-4.9.3.tar.gz
-CDMIUtils                         undef  R/RD/RDO/Bio-KBase-0.05.tar.gz
+CDMIUtils                         undef  R/RD/RDO/Bio-KBase-0.06.tar.gz
 CDP                               0.032  J/JO/JON/CDP-0.032.tar.gz
 CDP::backupTask                   undef  J/JO/JON/CDP-0.032.tar.gz
 CDP::Connect                      undef  J/JO/JON/CDP-0.032.tar.gz
