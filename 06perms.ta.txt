@@ -1031,6 +1031,7 @@ Task::Moose,PERIGRIN,c
 Task::Moose,SARTAK,c
 Task::Moose,STEVAN,f
 Task::OTRS,MICHIELB,m
+Task::OTRS::Win32,MICHIELB,f
 Task::POE::All,APOCAL,f
 Task::POE::Filter::Compression,BINGOS,f
 Task::POE::IRC,BINGOS,f
