@@ -405,7 +405,8 @@ Fl_Wordwrap_Input,MKENNEDY,f
 Fl_Wordwrap_Input,SANKO,c
 Fl_Wordwrap_Output,MKENNEDY,f
 Fl_Wordwrap_Output,SANKO,c
-Flags,KRISTINA,f
+Flags,FRIEDO,f
+Flags,KRISTINA,c
 Flail,ATTILA,f
 Flail::AddressBook,ATTILA,f
 Flail::CLI,ATTILA,f
