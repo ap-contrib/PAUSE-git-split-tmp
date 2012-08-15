@@ -159,7 +159,7 @@ Lingua::Romana::Perligata          0.50  D/DC/DCONWAY/Lingua-Romana-Perligata-0.
 Lingua::RU::Antimat                1.00  I/IL/ILYAS/Lingua-RU-Antimat-1.00.tar.gz
 Lingua::RU::Charset                0.02  F/FA/FARBER/Lingua-RU-Charset-0.02.tar.gz
 Lingua::RU::Detect                  1.1  A/AN/ANDY/Lingua-RU-Detect-1.1.tar.gz
-Lingua::RU::Inflect                0.02  S/SH/SHOORICK/Lingua-RU-Inflect-0.02.tar.gz
+Lingua::RU::Inflect                0.04  S/SH/SHOORICK/Lingua-RU-Inflect-0.04.tar.gz
 Lingua::RU::Jcuken                 1.04  S/ST/STRO/Lingua-RU-Jcuken-1.04.tar.gz
 Lingua::RU::NameParse              0.02  M/MC/MCEGLOWS/Lingua-RU-NameParse-0.02.tar.gz
 Lingua::RU::Number                 0.05  S/SA/SAFRONOV/Lingua-RU-Number-0.05.tar.gz
