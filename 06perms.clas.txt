@@ -1243,6 +1243,7 @@ Code::TidyAll::Plugin::PerlTidy,JSWARTZ,f
 Code::TidyAll::Plugin::PodTidy,JSWARTZ,f
 Code::TidyAll::Result,JSWARTZ,f
 Code::TidyAll::SVN::Precommit,JSWARTZ,f
+Code::TidyAll::SVN::Util,JSWARTZ,f
 Code::TidyAll::Util::Zglob,JSWARTZ,f
 CodeBase,ANDREWF,f
 CodeBase::FilePtr,ANDREWF,f
