@@ -78,7 +78,7 @@ Perldoc::Server::View::Pod2Source undef  J/JO/JONALLEN/Perldoc-Server-0.10.tar.g
 Perldoc::Server::View::TT         undef  J/JO/JONALLEN/Perldoc-Server-0.10.tar.gz
 Perldoc::Writer                   undef  I/IN/INGY/Perldoc-0.20.tar.gz
 perlec                            undef  H/HI/HIO/perlec-0.08.tar.gz
-perlfaq                        5.0150040  L/LL/LLAP/perlfaq-5.0150040.tar.gz
+perlfaq                        5.0150041  L/LL/LLAP/perlfaq-5.0150041.tar.gz
 PerlFM                         0.002000  V/VV/VVELOX/PerlFM-0.2.0.tar.gz
 PerlGSL                           0.002  J/JB/JBERGER/PerlGSL-0.002.tar.gz
 PerlGSL::DiffEq                    0.08  J/JB/JBERGER/PerlGSL-DiffEq-0.08.tar.gz
