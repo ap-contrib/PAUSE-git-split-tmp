@@ -506,7 +506,7 @@ XML::Compile::SOAP::Util           2.28  M/MA/MARKOV/XML-Compile-SOAP-2.28.tar.g
 XML::Compile::SOAP::WSA            0.12  M/MA/MARKOV/XML-Compile-SOAP-WSA-0.12.tar.gz
 XML::Compile::SOAP::WSA::Util      0.12  M/MA/MARKOV/XML-Compile-SOAP-WSA-0.12.tar.gz
 XML::Compile::SOAP::WSS            0.14  M/MA/MARKOV/XML-Compile-WSS-0.14.tar.gz
-XML::Compile::Tester               0.06  M/MA/MARKOV/XML-Compile-Tester-0.06.tar.gz
+XML::Compile::Tester               0.90  M/MA/MARKOV/XML-Compile-Tester-0.90.tar.gz
 XML::Compile::Translate            1.25  M/MA/MARKOV/XML-Compile-1.25.tar.gz
 XML::Compile::Translate::Reader    1.25  M/MA/MARKOV/XML-Compile-1.25.tar.gz
 XML::Compile::Translate::Template  1.25  M/MA/MARKOV/XML-Compile-1.25.tar.gz

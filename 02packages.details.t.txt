@@ -192,7 +192,7 @@ Toolbox::CryptOTP                  0.52  D/DO/DOCG/Toolbox-0.52.tar.gz
 Toolbox::Simple                    0.52  D/DO/DOCG/Toolbox-0.52.tar.gz
 Toolkit                        0.000002  D/DC/DCONWAY/Toolkit-0.0.2.tar.gz
 Toolkit::Sandbox               0.000002  D/DC/DCONWAY/Toolkit-0.0.2.tar.gz
-Tools                             2.105  M/MA/MARKOV/Mail-Box-2.105.tar.gz
+Tools                             2.106  M/MA/MARKOV/Mail-Box-2.106.tar.gz
 ToolSet                            1.00  D/DA/DAGOLDEN/ToolSet-1.00.tar.gz
 ToolSet::SWC                       1.00  D/DA/DAGOLDEN/ToolSet-1.00.tar.gz
 ToolSet::y                         0.01  J/JM/JMELTZER/ToolSet-y-0.01.tar.gz
