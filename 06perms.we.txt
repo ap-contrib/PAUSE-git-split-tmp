@@ -1230,6 +1230,7 @@ Win32::AD::Constant,AKR,f
 Win32::AD::Control::DirSync,AKR,m
 Win32::AD::User,PREFECT,f
 Win32::ADO,MSERGEANT,m
+Win32::ADRecurse,BINGOS,f
 Win32::ANSIConsole,JLMOREL,f
 Win32::ANSIConsole::IO,JLMOREL,f
 Win32::API,ACALPINI,m
