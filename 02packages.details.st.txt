@@ -162,7 +162,7 @@ Sub::WrapPackages                   2.0  D/DC/DCANTRELL/Sub-WrapPackages-2.0.tar
 SubBusFrame                        0.01  D/DM/DMUSGR/Glade-Perl-0.57.tar.gz
 Subfileselection1                  0.01  D/DM/DMUSGR/Glade-Perl-0.57.tar.gz
 subimp                            undef  G/GR/GRICHTER/Embperl-2.4.0.tar.gz
-subroutine                        1.108  S/SC/SCHWIGON/perl-formance/Benchmark-Perl-Formance-Cargo-0.03.tar.gz
+subroutine                        1.108  S/SC/SCHWIGON/Benchmark-Perl-Formance-Cargo-0.04.tar.gz
 subs                               1.00  F/FL/FLORA/perl-5.15.4.tar.gz
 subs::auto                         0.07  V/VP/VPIT/subs-auto-0.07.tar.gz
 subs::parallel                     0.08  N/NI/NILSONSFJ/subs-parallel-0.08.tar.gz

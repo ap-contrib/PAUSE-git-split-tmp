@@ -501,7 +501,7 @@ Decl::Semantics::Use               0.01  M/MI/MICHAEL/Decl-0.11.tar.gz
 Decl::Semantics::Value             0.01  M/MI/MICHAEL/Decl-0.11.tar.gz
 Decl::Template                     0.01  M/MI/MICHAEL/Decl-0.11.tar.gz
 Decl::Util                         0.01  M/MI/MICHAEL/Decl-0.11.tar.gz
-declaration                       1.108  S/SC/SCHWIGON/perl-formance/Benchmark-Perl-Formance-Cargo-0.03.tar.gz
+declaration                       1.108  S/SC/SCHWIGON/Benchmark-Perl-Formance-Cargo-0.04.tar.gz
 declare                            0.02  N/NI/NIF/Class-Root-0.02.tar.gz
 Declare::Constraints::Simple       0.03  P/PH/PHAYLON/Declare-Constraints-Simple-0.03.tar.gz
 Declare::Constraints::Simple::Library undef  P/PH/PHAYLON/Declare-Constraints-Simple-0.03.tar.gz
