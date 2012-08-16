@@ -3,6 +3,7 @@ StringType                         2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 StrNum                            undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz
 StrTree                           undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz
 Struct::Compare                     1.0  Z/ZE/ZENSPIDER/Struct-Compare-1.0.1.tar.gz
+Struct::Dumb                       0.01  P/PE/PEVANS/Struct-Dumb-0.01.tar.gz
 Struct_Type                        1.00  D/DJ/DJBURKE/Inline-SLang-1.00.tar.gz
 StructType                         2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Stub::StubService                  0.01  L/LA/LAJANDY/Helios-2.23.tar.gz

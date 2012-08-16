@@ -360,6 +360,7 @@ StringWithNewline,OLIVER,c
 StringWithWhitespace,MSCHWERN,c
 Stringify::Deep,AQUILINA,f
 Struct::Compare,ZENSPIDER,f
+Struct::Dumb,PEVANS,f
 StructType,PERRAD,f
 Struct_File,JRED,f
 Struct_Type,DJBURKE,f
