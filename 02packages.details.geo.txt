@@ -383,11 +383,12 @@ Git::Raw::Tag                      0.05  A/AL/ALEXBIO/Git-Raw-0.05.tar.gz
 Git::Raw::Tree                     0.05  A/AL/ALEXBIO/Git-Raw-0.05.tar.gz
 Git::Raw::TreeEntry                0.05  A/AL/ALEXBIO/Git-Raw-0.05.tar.gz
 Git::Raw::Walker                   0.05  A/AL/ALEXBIO/Git-Raw-0.05.tar.gz
-Git::Release                       0.02  C/CO/CORNELIUS/Git-Release-0.02.tar.gz
-Git::Release::Branch              undef  C/CO/CORNELIUS/Git-Release-0.02.tar.gz
-Git::Release::BranchManager       undef  C/CO/CORNELIUS/Git-Release-0.02.tar.gz
-Git::Release::Config              undef  C/CO/CORNELIUS/Git-Release-0.02.tar.gz
-Git::Release::RemoteManager       undef  C/CO/CORNELIUS/Git-Release-0.02.tar.gz
+Git::Release                       0.03  C/CO/CORNELIUS/Git-Release-0.03.tar.gz
+Git::Release::Branch              undef  C/CO/CORNELIUS/Git-Release-0.03.tar.gz
+Git::Release::BranchManager       undef  C/CO/CORNELIUS/Git-Release-0.03.tar.gz
+Git::Release::Config              undef  C/CO/CORNELIUS/Git-Release-0.03.tar.gz
+Git::Release::Remote              undef  C/CO/CORNELIUS/Git-Release-0.03.tar.gz
+Git::Release::RemoteManager       undef  C/CO/CORNELIUS/Git-Release-0.03.tar.gz
 Git::Repository                    1.26  B/BO/BOOK/Git-Repository-1.26.tar.gz
 Git::Repository::Command           1.15  B/BO/BOOK/Git-Repository-1.26.tar.gz
 Git::Repository::Command::Reaper  undef  B/BO/BOOK/Git-Repository-1.16.tar.gz
