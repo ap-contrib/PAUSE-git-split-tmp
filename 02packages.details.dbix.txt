@@ -738,6 +738,7 @@ Devel::Command::HelloWorld         0.01  M/MC/MCMAHON/Devel-Command-0.11.tar.gz
 Devel::Command::NewF               0.02  M/MC/MCMAHON/Devel-Command-NewF-0.02.tar.gz
 Devel::Command::Tdump               1.1  M/MC/MCMAHON/Devel-Command-Tdump-1.1.tar.gz
 Devel::Command::Viz                0.02  M/MC/MCMAHON/Devel-Command-Viz-0.02.tar.gz
+Devel::Comment::Output             0.01  M/MO/MOTEMEN/Devel-Comment-Output-0.01.tar.gz
 Devel::Comments                  v1.1.4  X/XI/XIONG/developer-tools/Devel-Comments-v1.1.4.tar.gz
 Devel::CompiledCalls               2.00  M/MA/MARKF/Devel-CompiledCalls-2.00.tar.gz
 Devel::Constants                   1.01  N/NE/NEILB/Devel-Constants-1.01.tar.gz
