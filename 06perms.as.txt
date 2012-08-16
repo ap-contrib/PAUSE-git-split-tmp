@@ -259,6 +259,7 @@ Attribute::Curried,SEANO,f
 Attribute::Default,STEPHEN,f
 Attribute::Deprecated,KASEI,m
 Attribute::Exporter,AJWANS,m
+Attribute::Exporter::TieScalar,AJWANS,f
 Attribute::Final,SCOTT,f
 Attribute::Generator,RINTARO,f
 Attribute::Generator::State,RINTARO,f

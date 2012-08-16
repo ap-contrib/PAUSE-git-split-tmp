@@ -178,6 +178,8 @@ Attribute::Context                0.042  O/OV/OVID/Attribute-Context-0.042.tar.g
 Attribute::Curried                 0.02  S/SE/SEANO/Attribute-Curried-0.02.tar.gz
 Attribute::Default                 1.32  S/ST/STEPHEN/Attribute-Default-1.31.tar.gz
 Attribute::Deprecated              1.04  K/KA/KASEI/Attribute-Deprecated-1.04.tar.gz
+Attribute::Exporter                1.00  A/AJ/AJWANS/Attribute-Exporter-0.01.tar.gz
+Attribute::Exporter::TieScalar     1.00  A/AJ/AJWANS/Attribute-Exporter-0.01.tar.gz
 Attribute::Final                    1.3  S/SC/SCOTT/Attribute-Final-1.3.tar.gz
 Attribute::Generator               0.02  R/RI/RINTARO/Attribute-Generator-0.02.tar.gz
 Attribute::Generator::State        0.02  R/RI/RINTARO/Attribute-Generator-0.02.tar.gz
