@@ -490,10 +490,10 @@ Linux::DVB::Frontend               1.01  M/ML/MLEHMANN/Linux-DVB-1.01.tar.gz
 Linux::Epoll                      0.006  L/LE/LEONT/Linux-Epoll-0.006.tar.gz
 Linux::Epoll::Util                0.004  L/LE/LEONT/Linux-Epoll-0.004.tar.gz
 Linux::Ext2::FileAttributes        0.01  D/DW/DWILSON/Linux-Ext2-FileAttributes-0.01.tar.gz
-Linux::FD                         0.008  L/LE/LEONT/Linux-FD-0.008.tar.gz
-Linux::FD::Event                  0.008  L/LE/LEONT/Linux-FD-0.008.tar.gz
-Linux::FD::Signal                 0.008  L/LE/LEONT/Linux-FD-0.008.tar.gz
-Linux::FD::Timer                  0.008  L/LE/LEONT/Linux-FD-0.008.tar.gz
+Linux::FD                         0.009  L/LE/LEONT/Linux-FD-0.009.tar.gz
+Linux::FD::Event                  0.009  L/LE/LEONT/Linux-FD-0.009.tar.gz
+Linux::FD::Signal                 0.009  L/LE/LEONT/Linux-FD-0.009.tar.gz
+Linux::FD::Timer                  0.009  L/LE/LEONT/Linux-FD-0.009.tar.gz
 Linux::Fuser                        1.5  J/JS/JSTOWE/Linux-Fuser-1.5.tar.gz
 Linux::Fuser::FileDescriptor        1.5  J/JS/JSTOWE/Linux-Fuser-1.5.tar.gz
 Linux::Fuser::Procinfo              1.5  J/JS/JSTOWE/Linux-Fuser-1.5.tar.gz
