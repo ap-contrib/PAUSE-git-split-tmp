@@ -647,6 +647,7 @@ MooseX::Role::DBIC,RBUELS,f
 MooseX::Role::DBIx::Connector,RBUELS,f
 MooseX::Role::Data::Verifier,GPHAT,f
 MooseX::Role::Debugger,DHOUSTON,f
+MooseX::Role::HTML::Grabber,TRCJR,f
 MooseX::Role::Listenable,EILARA,f
 MooseX::Role::LogHandler,NJWALKER,f
 MooseX::Role::Loggable,XSAWYERX,f
