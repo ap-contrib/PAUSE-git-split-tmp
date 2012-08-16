@@ -756,9 +756,9 @@ Mail::Addressbook::Convert::Tsv   undef  I/IN/INTERGURU/Mail-Addressbook-Convert
 Mail::Addressbook::Convert::Utilities undef  I/IN/INTERGURU/Mail-Addressbook-Convert-1.1.tar.gz
 Mail::AddressSort                     1  C/CH/CHRISJ/Mail-AddressSort-1.tar.gz
 Mail::Alias                        1.12  Z/ZE/ZELT/Mail-Alias-1.12.tar.gz
-Mail::Alias::Reader                0.05  C/CP/CPANEL/Mail-Alias-Reader-0.05.tar.gz
-Mail::Alias::Reader::Parser       undef  C/CP/CPANEL/Mail-Alias-Reader-0.05.tar.gz
-Mail::Alias::Reader::Token        undef  C/CP/CPANEL/Mail-Alias-Reader-0.05.tar.gz
+Mail::Alias::Reader                0.06  C/CP/CPANEL/Mail-Alias-Reader-0.06.tar.gz
+Mail::Alias::Reader::Parser       undef  C/CP/CPANEL/Mail-Alias-Reader-0.06.tar.gz
+Mail::Alias::Reader::Token        undef  C/CP/CPANEL/Mail-Alias-Reader-0.06.tar.gz
 Mail::ArchiveIterator             undef  M/MS/MSERGEANT/Mail-SpamAssassin-2.43.tar.gz
 Mail::Audit                       2.227  R/RJ/RJBS/Mail-Audit-2.227.tar.gz
 Mail::Audit::Attach                0.96  C/CR/CRENZ/Mail-Audit-Attach-0.96.tar.gz
