@@ -361,7 +361,7 @@ Math::Expression::Evaluator::Optimizer undef  M/MO/MORITZ/Math-Expression-Evalua
 Math::Expression::Evaluator::Parser undef  M/MO/MORITZ/Math-Expression-Evaluator-v0.3.2.tar.gz
 Math::Expression::Evaluator::Util undef  M/MO/MORITZ/Math-Expression-Evaluator-v0.3.2.tar.gz
 Math::ExprEval                      1.0  P/PH/PHOENIXL/expr_eval_1_0.zip
-Math::Factor::XS                   0.39  K/KR/KRYDE/Math-Factor-XS-0.39.tar.gz
+Math::Factor::XS                   0.40  K/KR/KRYDE/Math-Factor-XS-0.40.tar.gz
 Math::FastGF2                      0.04  D/DM/DMALONE/Math-FastGF2/Math-FastGF2-0.04.tar.gz
 Math::FastGF2::Matrix              0.04  D/DM/DMALONE/Math-FastGF2/Math-FastGF2-0.04.tar.gz
 Math::FFT                          1.28  R/RK/RKOBES/Math-FFT-1.28.tar.gz
