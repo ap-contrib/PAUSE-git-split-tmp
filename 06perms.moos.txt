@@ -365,6 +365,7 @@ MooseX::NonMoose,DOY,f
 MooseX::NonMoose::InsideOut,DOY,f
 MooseX::NonMoose::Meta::Role::Class,DOY,f
 MooseX::NonMoose::Meta::Role::Constructor,DOY,f
+MooseX::NotRequired,NEWELLC,f
 MooseX::Notification,RLB,f
 MooseX::Object::Pluggable,ARCANEZ,c
 MooseX::Object::Pluggable,GRODITI,f
