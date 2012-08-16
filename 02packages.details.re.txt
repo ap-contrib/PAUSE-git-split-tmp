@@ -125,11 +125,11 @@ Regexp::Genex::oct                 0.07  B/BO/BOWMANBS/Regexp-Genex-0.07.tar.gz
 Regexp::Genex::slash               0.07  B/BO/BOWMANBS/Regexp-Genex-0.07.tar.gz
 Regexp::Genex::text                0.07  B/BO/BOWMANBS/Regexp-Genex-0.07.tar.gz
 Regexp::Genex::utf8hex             0.07  B/BO/BOWMANBS/Regexp-Genex-0.07.tar.gz
-Regexp::Grammars                  1.016  D/DC/DCONWAY/Regexp-Grammars-1.016.tar.gz
+Regexp::Grammars                  1.020  D/DC/DCONWAY/Regexp-Grammars-1.020.tar.gz
 Regexp::Grammars::Common::String 0.01000002  K/KE/KENTNL/Regexp-Grammars-Common-String-0.01000002.tar.gz
-Regexp::Grammars::ContextRestorer 1.016  D/DC/DCONWAY/Regexp-Grammars-1.016.tar.gz
-Regexp::Grammars::Precursor       1.016  D/DC/DCONWAY/Regexp-Grammars-1.016.tar.gz
-Regexp::Grammars::TranslatorRestorer 1.016  D/DC/DCONWAY/Regexp-Grammars-1.016.tar.gz
+Regexp::Grammars::ContextRestorer 1.020  D/DC/DCONWAY/Regexp-Grammars-1.020.tar.gz
+Regexp::Grammars::Precursor       1.020  D/DC/DCONWAY/Regexp-Grammars-1.020.tar.gz
+Regexp::Grammars::TranslatorRestorer 1.020  D/DC/DCONWAY/Regexp-Grammars-1.020.tar.gz
 Regexp::HTMLify                   0.002  P/PE/PERLBOY/Regexp-HTMLify-0.002.tar.gz
 Regexp::Ignore                     0.03  R/RA/RANI/Regexp-Ignore-0.03.tar.gz
 Regexp::IgnoreHTML                undef  R/RA/RANI/Regexp-Ignore-0.03.tar.gz
