@@ -23,6 +23,7 @@ Glib::Ex::ConnectProperties::Element::model_rows,KRYDE,f
 Glib::Ex::ConnectProperties::Element::object,KRYDE,f
 Glib::Ex::ConnectProperties::Element::response_sensitive,KRYDE,f
 Glib::Ex::ConnectProperties::Element::screen_size,KRYDE,f
+Glib::Ex::ConnectProperties::Element::textbuffer,KRYDE,f
 Glib::Ex::ConnectProperties::Element::tree_selection,KRYDE,f
 Glib::Ex::ConnectProperties::Element::widget,KRYDE,f
 Glib::Ex::ConnectProperties::Element::widget_allocation,KRYDE,f

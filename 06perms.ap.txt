@@ -7,6 +7,7 @@ App::MathImage::Wx::Perl::PodRichText,KRYDE,f
 App::MathImage::Wx::Perl::PodRichText::ChangedEvent,KRYDE,f
 App::MathImage::Wx::Perl::PodRichText::PodParser,KRYDE,f
 App::MathImage::Wx::Perl::PodRichText::SimpleParser,KRYDE,f
+App::MathImage::Wx::Printout,KRYDE,f
 App::MathImage::X11::Generator,KRYDE,f
 App::MathImage::X11::Protocol::Async,KRYDE,f
 App::MathImage::X11::Protocol::EventHandlerExtra,KRYDE,f
