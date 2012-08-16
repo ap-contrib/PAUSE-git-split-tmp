@@ -1113,6 +1113,7 @@ Cluster::Init::Process,STEVEGT,f
 Cluster::Init::Status,STEVEGT,f
 Cluster::Init::Util,STEVEGT,f
 Cluster::Similarity,INGRIF,m
+Clustericious::Log,BDUGGAN,f
 Clusterize,VMOISEEV,f
 Clusterize::Pattern,VMOISEEV,f
 Clutch,NEKOKAK,f

@@ -470,6 +470,7 @@ Cluster::Init::Process            undef  S/ST/STEVEGT/Cluster-Init-0.215.tar.gz
 Cluster::Init::Status             undef  S/ST/STEVEGT/Cluster-Init-0.215.tar.gz
 Cluster::Init::Util               undef  S/ST/STEVEGT/Cluster-Init-0.215.tar.gz
 Cluster::Similarity            0.002000  I/IN/INGRIF/Cluster-Similarity-v0.02.tar.gz
+Clustericious::Log                 0.10  B/BD/BDUGGAN/Clustericious-Log-0.10.tar.gz
 Clusterize                         0.02  V/VM/VMOISEEV/Clusterize-0.02.tar.gz
 Clusterize::Pattern                0.02  V/VM/VMOISEEV/Clusterize-0.02.tar.gz
 Clutch                             0.05  N/NE/NEKOKAK/Clutch-0.05.tar.gz
