@@ -23,6 +23,7 @@ Test::Log::Dispatch,JSWARTZ,f
 Test::Log::Log4perl,CLKAO,f
 Test::Logger,LEIRA,f
 Test::LongString,RGARCIA,f
+Test::MBD,BDUGGAN,f
 Test::MTA::Exim4,NIGELM,f
 Test::Magic,ASG,f
 Test::Magpie,CYCLES,f

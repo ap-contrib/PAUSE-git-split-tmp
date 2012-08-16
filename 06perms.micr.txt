@@ -663,6 +663,11 @@ Module::Build::DB,DWHEELER,f
 Module::Build::DBD::Pg,DWHEELER,f
 Module::Build::DBD::SQLite,DWHEELER,f
 Module::Build::DBD::mysql,DWHEELER,f
+Module::Build::Database,BDUGGAN,f
+Module::Build::Database::Helpers,BDUGGAN,f
+Module::Build::Database::PostgreSQL,BDUGGAN,f
+Module::Build::Database::PostgreSQL::Templates,BDUGGAN,f
+Module::Build::Database::SQLite,BDUGGAN,f
 Module::Build::Debian,ASKSH,f
 Module::Build::DistVersion,CJM,f
 Module::Build::DistVersion::SaveStats,CJM,f
