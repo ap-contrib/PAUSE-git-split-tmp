@@ -1,6 +1,5 @@
 Bing::Search::Source::Video       undef  D/DH/DHOUSTON/Bing-Search-1.121210.tar.gz
 Bing::Search::Source::Web         undef  D/DH/DHOUSTON/Bing-Search-1.121210.tar.gz
-Bing::Serach                      0.010  E/ED/EDAM/Bing-Search-0.010.tar.bz2
 BingoX::Argon                      1.92  C/CN/CNATION/BingoX-1.93.tar.gz
 BingoX::Carbon                     1.92  C/CN/CNATION/BingoX-1.93.tar.gz
 BingoX::Carbon::Stream             1.92  C/CN/CNATION/BingoX-1.93.tar.gz

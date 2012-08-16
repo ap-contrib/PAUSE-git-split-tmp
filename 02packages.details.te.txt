@@ -815,7 +815,6 @@ Tie::Watch::Scalar                  1.2  L/LU/LUSOL/Tie-Watch-1.2.tar.gz
 Tie::Wx::Widget                     1.0  L/LI/LICHTKIND/Tie-Wx-Widget-1.0.tar.gz
 Tie::YAML                          0.03  D/DA/DANKOGAI/Tie-SaveLater-0.04.tar.gz
 TieCSV                             0.01  G/GA/GARGAMEL/App-CCSV-0.02.tar.gz
-TiedFunc                          undef  S/SW/SWESTRUP/App-FileTools-BulkRename-0.03.tar.gz
 TiedMatrix                        undef  K/KT/KTHAKORE/SDL-2.501.tar.gz
 TiedMatrixRow                     undef  K/KT/KTHAKORE/SDL-2.501.tar.gz
 TieFile                           undef  S/SR/SRIRAM/examples.tar.gz
