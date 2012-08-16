@@ -487,7 +487,7 @@ Linux::DVB::DVBT::Freq             1.01  S/SD/SDPRICE/Linux-DVB-DVBT-2.15.tar.gz
 Linux::DVB::DVBT::TS               0.08  S/SD/SDPRICE/Linux-DVB-DVBT-TS-0.08.tar.gz
 Linux::DVB::DVBT::Utils            2.06  S/SD/SDPRICE/Linux-DVB-DVBT-2.15.tar.gz
 Linux::DVB::Frontend               1.01  M/ML/MLEHMANN/Linux-DVB-1.01.tar.gz
-Linux::Epoll                      0.006  L/LE/LEONT/Linux-Epoll-0.006.tar.gz
+Linux::Epoll                      0.007  L/LE/LEONT/Linux-Epoll-0.007.tar.gz
 Linux::Epoll::Util                0.004  L/LE/LEONT/Linux-Epoll-0.004.tar.gz
 Linux::Ext2::FileAttributes        0.01  D/DW/DWILSON/Linux-Ext2-FileAttributes-0.01.tar.gz
 Linux::FD                         0.009  L/LE/LEONT/Linux-FD-0.009.tar.gz
