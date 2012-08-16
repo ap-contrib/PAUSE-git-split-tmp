@@ -278,6 +278,7 @@ Firefox::Application,CORION,f
 Firefox::Application::API35,CORION,f
 Firefox::Application::API36,CORION,f
 Firefox::Application::API40,CORION,f
+Firefox::Sync::Client,SCHRORG,f
 Firepear::Catechesis,FIREPEAR,f
 Firepear::Catechesis::Parser,FIREPEAR,f
 Firepear::Catechesis::TAP,FIREPEAR,f
