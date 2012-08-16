@@ -131,10 +131,10 @@ BLOB                               1.01  J/JU/JUERD/BLOB-1.01.tar.gz
 Block::NamedVar                   0.008  E/EX/EXODIST/Block-NamedVar-0.008.tar.gz
 Block::NamedVar::ForLike          undef  E/EX/EXODIST/Block-NamedVar-0.008.tar.gz
 Block::NamedVar::MapLike          undef  E/EX/EXODIST/Block-NamedVar-0.008.tar.gz
-Blog::Article                     undef  J/JS/JSWARTZ/Poet-0.11.tar.gz
+Blog::Article                     undef  J/JS/JSWARTZ/Poet-0.12.tar.gz
 Blog::BlogML::Reader               1.03  M/MM/MMATHEWS/Blog-BlogML-Reader-1.03.tar.gz
 Blog::Blosxom                      0.10  A/AL/ALTREUS/Blog-Blosxom-0.10.tar.gz
-Blog::DB                          undef  J/JS/JSWARTZ/Poet-0.11.tar.gz
+Blog::DB                          undef  J/JS/JSWARTZ/Poet-0.12.tar.gz
 Blog::Normalize                     0.0  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
 Blog::Normalize::Blogger          undef  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
 Blog::Normalize::MovableType        0.0  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
