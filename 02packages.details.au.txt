@@ -582,7 +582,7 @@ B::Clobbers                        0.01  A/AT/ATOURBIN/rpm-build-perl-0.80.tar.g
 B::CodeLines                        1.1  R/RO/ROCKY/B-CodeLines-1.1.tar.gz
 B::Compiling                       0.02  F/FL/FLORA/B-Compiling-0.02.tar.gz
 B::Concise                         0.86  F/FL/FLORA/perl-5.15.4.tar.gz
-B::Debug                           1.17  R/RU/RURBAN/B-Debug-1.17.tar.gz
+B::Debug                           1.18  R/RU/RURBAN/B-Debug-1.18.tar.gz
 B::Debugger                        0.13  R/RU/RURBAN/B-Debugger-0.13.tar.gz
 B::Deobfuscate                     0.20  J/JJ/JJORE/B-Deobfuscate-0.20.tar.gz
 B::Deobfuscate::Dict::Flowers     undef  J/JJ/JJORE/B-Deobfuscate-0.20.tar.gz
