@@ -440,7 +440,7 @@ Firefox::Application               0.66  C/CO/CORION/WWW-Mechanize-Firefox-0.66.
 Firefox::Application::API35        0.66  C/CO/CORION/WWW-Mechanize-Firefox-0.66.tar.gz
 Firefox::Application::API36        0.66  C/CO/CORION/WWW-Mechanize-Firefox-0.66.tar.gz
 Firefox::Application::API40        0.66  C/CO/CORION/WWW-Mechanize-Firefox-0.66.tar.gz
-Firefox::Sync::Client              0.01  S/SC/SCHRORG/Firefox-Sync-Client-0.01.tar.gz
+Firefox::Sync::Client              0.02  S/SC/SCHRORG/Firefox-Sync-Client-0.02.tar.gz
 first                          0.000001  D/DM/DMUEY/first-v0.0.1.tar.gz
 FirstGoodURL                       1.11  P/PI/PINYAN/FirstGoodURL-1.11.tar.gz
 FixedPtConstType                   2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
