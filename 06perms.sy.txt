@@ -1196,6 +1196,7 @@ TAP::Formatter::Console::ParallelSession,ANDYA,f
 TAP::Formatter::Console::ParallelSession,OVID,c
 TAP::Formatter::Console::Session,ANDYA,f
 TAP::Formatter::Console::Session,OVID,c
+TAP::Formatter::Elapsed,CGRAU,f
 TAP::Formatter::Event,TEAM,f
 TAP::Formatter::Event::Session,TEAM,f
 TAP::Formatter::File,ANDYA,f
