@@ -539,6 +539,7 @@ XMLRPC::Transport::HTTP::Daemon,KULCHENKO,f
 XMLRPC::Transport::HTTP::Daemon,MKUTTER,c
 XMLRPC::Transport::HTTP::Nginx,CYGA,m
 XMLRPC::Transport::HTTP::Plack,HELENA,f
+XMLRPC::Transport::HTTP::Server,JELU,f
 XMLRPC::Transport::POP3,BYRNE,c
 XMLRPC::Transport::POP3,KULCHENKO,f
 XMLRPC::Transport::POP3,MKUTTER,c

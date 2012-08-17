@@ -477,6 +477,7 @@ XMLRPC::Transport::HTTP::CGI      0.715  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 XMLRPC::Transport::HTTP::Daemon   0.715  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 XMLRPC::Transport::HTTP::Nginx     0.01  C/CY/CYGA/SOAP-Transport-HTTP-Nginx-0.01.tar.gz
 XMLRPC::Transport::HTTP::Plack     0.03  H/HE/HELENA/SOAP-Transport-HTTP-Plack-0.03.tar.gz
+XMLRPC::Transport::HTTP::Server    0.12  J/JE/JELU/XMLRPC-Transport-HTTP-Server-0.12.tar.gz
 XMLRPC::Transport::POP3           0.715  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 XMLRPC::Transport::POP3::Server   0.715  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 XMLRPC::Transport::TCP            0.715  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz

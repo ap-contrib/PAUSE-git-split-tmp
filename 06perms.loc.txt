@@ -481,6 +481,7 @@ Log::Log4perl::Appender::File,MSCHILLI,f
 Log::Log4perl::Appender::File::FixedSize,EVOZON,c
 Log::Log4perl::Appender::File::FixedSize,HOREA,f
 Log::Log4perl::Appender::Gearman,CLKAO,f
+Log::Log4perl::Appender::Lim::CLI,JELU,f
 Log::Log4perl::Appender::Limit,MSCHILLI,f
 Log::Log4perl::Appender::RRDs,MSCHILLI,f
 Log::Log4perl::Appender::RabbitMQ,BUNDACIA,f

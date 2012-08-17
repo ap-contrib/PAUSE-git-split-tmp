@@ -763,6 +763,7 @@ Log::Log4perl::Appender::DBIx::Class 0.02  G/GP/GPHAT/Log-Log4perl-Appender-DBIx
 Log::Log4perl::Appender::File     undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
 Log::Log4perl::Appender::File::FixedSize 0.01  H/HO/HOREA/Log-Log4perl/Log-Log4perl-Appender-File-FixedSize-0.01.tar.gz
 Log::Log4perl::Appender::Gearman   0.29  C/CL/CLKAO/Log-Log4perl-Appender-Gearman-0.29.tar.gz
+Log::Log4perl::Appender::Lim::CLI  0.12  J/JE/JELU/Log-Log4perl-Appender-Lim-CLI-0.12.tar.gz
 Log::Log4perl::Appender::Limit    undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
 Log::Log4perl::Appender::RabbitMQ 0.102220  B/BU/BUNDACIA/Log-Log4perl-Appender-RabbitMQ-0.102220.tar.gz
 Log::Log4perl::Appender::RRDs     undef  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
