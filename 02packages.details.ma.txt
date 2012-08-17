@@ -294,7 +294,7 @@ MailBox::Test::81bodyconv::Definition 2.106  M/MA/MARKOV/Mail-Box-2.106.tar.gz
 Maildir::Lite                      0.02  D/DE/DEIAN/Maildir-Lite-0.02.tar.gz
 Maildir::Quota                      0.3  L/LW/LWA/Maildir-Quota-0.3.tar.gz
 Maildir::Reader                     0.3  S/SK/SKX/Maildir-Reader-0.3.tar.gz
-MailTool                          undef  R/RJ/RJBS/MIME-Lite-3.028.tar.gz
+MailTool                          undef  R/RJ/RJBS/MIME-Lite-3.029.tar.gz
 MAIN                                0.1  P/PI/PING/PBJ-JNI-0.1.tar.gz
 Main                               0.95  P/PA/PARDUS/zoidberg/Zoidberg-0.95.tar.gz
 Maintainers                        0.03  D/DA/DAPM/perl-5.10.1.tar.gz
