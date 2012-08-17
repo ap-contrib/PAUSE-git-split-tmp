@@ -88,6 +88,8 @@ Benchmark::Featureset::LocaleCountry,RSAVAGE,f
 Benchmark::Featureset::LocaleCountry::Config,RSAVAGE,f
 Benchmark::Featureset::SetOps,RSAVAGE,f
 Benchmark::Featureset::SetOps::Config,RSAVAGE,f
+Benchmark::Featureset::StopwordLists,RSAVAGE,f
+Benchmark::Featureset::StopwordLists::Config,RSAVAGE,f
 Benchmark::Forking,EVO,m
 Benchmark::Harness,GLENNWOOD,f
 Benchmark::Harness::Constants,GLENNWOOD,f
