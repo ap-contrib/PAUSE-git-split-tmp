@@ -58,9 +58,9 @@ Number::Phone::Country              1.7  D/DC/DCANTRELL/Number-Phone-2.0.tar.gz
 Number::Phone::Country::Data        1.0  D/DC/DCANTRELL/Number-Phone-2.0.tar.gz
 Number::Phone::CountryCode         0.02  M/MS/MSCHOUT/Number-Phone-CountryCode-0.02.tar.gz
 Number::Phone::DE::Mobile             1  N/NE/NETSRAK/Number-Phone-DE-Mobile-1_1.tgz
-Number::Phone::FR                  0.06  D/DO/DOLMEN/Number-Phone-FR-0.0612174.tar.gz
-Number::Phone::FR::Full        0.0612174  D/DO/DOLMEN/Number-Phone-FR-0.0612174.tar.gz
-Number::Phone::FR::Simple             0  D/DO/DOLMEN/Number-Phone-FR-0.0612174.tar.gz
+Number::Phone::FR                  0.06  D/DO/DOLMEN/Number-Phone-FR-0.0612192.tar.gz
+Number::Phone::FR::Full        0.0612192  D/DO/DOLMEN/Number-Phone-FR-0.0612192.tar.gz
+Number::Phone::FR::Simple             0  D/DO/DOLMEN/Number-Phone-FR-0.0612192.tar.gz
 Number::Phone::IE                   0.2  D/DE/DERMOT/Number-Phone-IE-0.2.tar.gz
 Number::Phone::IE::Data           undef  D/DE/DERMOT/Number-Phone-IE-0.2.tar.gz
 Number::Phone::JP              0.20120801  T/TA/TANIGUCHI/Number-Phone-JP-0.20120801.tar.gz
