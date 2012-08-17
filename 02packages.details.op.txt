@@ -355,7 +355,7 @@ Oracle::Trace::Header              1.09  R/RF/RFOLEY/Oracle-Trace-1.08.tar.gz
 Oracle::Trace::Utils               1.03  R/RF/RFOLEY/Oracle-Trace-1.08.tar.gz
 Oracle::Trigger                    0.22  G/GE/GEOTIGER/Oracle-Trigger-0.22.tar.gz
 oracle_comparison                   1.1  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
-Oraperl                            1.44  P/PY/PYTHIAN/DBD-Oracle-1.36.tar.gz
+Oraperl                            1.50  P/PY/PYTHIAN/Oraperl-1.50.tar.gz
 ORDB::AU::Census2006               0.01  A/AD/ADAMK/ORDB-AU-Census2006-0.01.tar.gz
 ORDB::CPAN::Mageia             1.121690  J/JQ/JQUELIN/ORDB-CPAN-Mageia-1.121690.tar.gz
 ORDB::CPAN::Mageia::Module     1.121690  J/JQ/JQUELIN/ORDB-CPAN-Mageia-1.121690.tar.gz
