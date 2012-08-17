@@ -383,6 +383,7 @@ Data::JavaScript::Compactor,UNRTST,f
 Data::JavaScript::LiteObject,JPIERCE,f
 Data::Kanji::KanjiVG,BKB,f
 Data::Kanji::Kanjidic,BKB,f
+Data::Kanji::Tomoe,BKB,f
 Data::KeyDiff,RKRIMEN,c
 Data::KeyDiff,ROKR,f
 Data::KeyDiff::Element,RKRIMEN,c
