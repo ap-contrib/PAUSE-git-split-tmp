@@ -472,6 +472,13 @@ Cluster::Init::Util               undef  S/ST/STEVEGT/Cluster-Init-0.215.tar.gz
 Cluster::Similarity            0.002000  I/IN/INGRIF/Cluster-Similarity-v0.02.tar.gz
 Clustericious                    0.9901  B/BD/BDUGGAN/Clustericious-0.9901.tar.gz
 Clustericious::App                    0  B/BD/BDUGGAN/Clustericious-0.9901.tar.gz
+Clustericious::Client              0.64  B/BD/BDUGGAN/Clustericious-Client-0.64.tar.gz
+Clustericious::Client::Command        0  B/BD/BDUGGAN/Clustericious-Client-0.64.tar.gz
+Clustericious::Client::Meta           0  B/BD/BDUGGAN/Clustericious-Client-0.64.tar.gz
+Clustericious::Client::Meta::Route    0  B/BD/BDUGGAN/Clustericious-Client-0.64.tar.gz
+Clustericious::Client::Object         0  B/BD/BDUGGAN/Clustericious-Client-0.64.tar.gz
+Clustericious::Client::Object::DateTime 0  B/BD/BDUGGAN/Clustericious-Client-0.64.tar.gz
+Clustericious::Client::Object::Params 0  B/BD/BDUGGAN/Clustericious-Client-0.64.tar.gz
 Clustericious::Command                0  B/BD/BDUGGAN/Clustericious-0.9901.tar.gz
 Clustericious::Command::apache        0  B/BD/BDUGGAN/Clustericious-0.9901.tar.gz
 Clustericious::Command::generate      0  B/BD/BDUGGAN/Clustericious-0.9901.tar.gz
