@@ -245,7 +245,7 @@ IO::Socket::Forwarder              0.02  S/SA/SALVA/IO-Socket-Forwarder-0.02.tar
 IO::Socket::INET                   1.31  G/GB/GBARR/IO-1.25.tar.gz
 IO::Socket::INET6                  2.69  S/SH/SHLOMIF/IO-Socket-INET6-2.69.tar.gz
 IO::Socket::INET::Daemon           0.04  J/JK/JKRAMER/IO-Socket-INET-Daemon-0.04.tar.gz
-IO::Socket::IP                     0.16  P/PE/PEVANS/IO-Socket-IP-0.16.tar.gz
+IO::Socket::IP                     0.17  P/PE/PEVANS/IO-Socket-IP-0.17.tar.gz
 IO::Socket::Multicast              1.12  B/BR/BRAMBLE/IO-Socket-Multicast-1.12.tar.gz
 IO::Socket::Multicast6             0.03  N/NJ/NJH/IO-Socket-Multicast6-0.03.tar.gz
 IO::Socket::Netlink                0.04  P/PE/PEVANS/Socket-Netlink-0.04.tar.gz

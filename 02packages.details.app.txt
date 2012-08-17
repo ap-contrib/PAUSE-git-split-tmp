@@ -666,6 +666,7 @@ ApplicationWindow                 undef  A/AW/AWIN/PerlQt-2.105.tar.gz
 Applify                            0.05  J/JH/JHTHORSEN/Applify-0.05.tar.gz
 Apply                             undef  F/FG/FGLOCK/v6-0.044.tar.gz
 ApplyTemplate                         1  D/DU/DUELAFN/Test-WWW-Mechanize-Driver-0.6.tar.gz
+Apporo                         0.000001  O/OV/OVERLAST/Apporo-0.000001.tar.gz
 AppReg                            undef  M/MH/MHAT/DBIx-DBObj-1.00.tar.gz
 APR                            0.009000  P/PH/PHRED/mod_perl-2.0.7.tar.gz
 APR::Base64                       0.009  P/PH/PHRED/mod_perl-2.0.7.tar.gz

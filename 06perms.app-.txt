@@ -437,6 +437,7 @@ Applify,JHTHORSEN,f
 Apply,AVAR,c
 Apply,FGLOCK,f
 ApplyTemplate,DUELAFN,f
+Apporo,OVERLAST,f
 Approx::Sub,DAVECROSS,f
 Arc,FIGANIM,f
 Arc::Command,PBOETTCH,f
