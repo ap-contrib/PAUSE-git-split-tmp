@@ -1115,6 +1115,13 @@ Cluster::Init::Util,STEVEGT,f
 Cluster::Similarity,INGRIF,m
 Clustericious,BDUGGAN,f
 Clustericious::App,BDUGGAN,f
+Clustericious::Client,BDUGGAN,f
+Clustericious::Client::Command,BDUGGAN,f
+Clustericious::Client::Meta,BDUGGAN,f
+Clustericious::Client::Meta::Route,BDUGGAN,f
+Clustericious::Client::Object,BDUGGAN,f
+Clustericious::Client::Object::DateTime,BDUGGAN,f
+Clustericious::Client::Object::Params,BDUGGAN,f
 Clustericious::Command,BDUGGAN,f
 Clustericious::Command::apache,BDUGGAN,f
 Clustericious::Command::generate,BDUGGAN,f
