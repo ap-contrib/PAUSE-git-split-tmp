@@ -188,7 +188,7 @@ DBIx::Compare::SQLite               1.1  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
 DBIx::Compat                      undef  G/GR/GRICHTER/DBIx-Recordset-0.26.tar.gz
 DBIx::Composer                     1.00  P/PL/PLISCO/DBIx-Composer-1.00.tgz
 DBIx::Config                   0.000001  S/SY/SYMKAT/DBIx-Config-0.000001.tar.gz
-DBIx::Connect::FromConfig          0.05  S/SA/SAPER/DBIx-Connect-FromConfig-0.05.tar.gz
+DBIx::Connect::FromConfig          0.06  S/SA/SAPER/DBIx-Connect-FromConfig-0.06.tar.gz
 DBIx::Connection                   0.08  A/AD/ADRIANWIT/DBIx-Connection-0.08.tar.gz
 DBIx::Connection::MySQL::PLSQL     0.02  A/AD/ADRIANWIT/DBIx-Connection-0.08.tar.gz
 DBIx::Connection::MySQL::SQL       0.03  A/AD/ADRIANWIT/DBIx-Connection-0.08.tar.gz
