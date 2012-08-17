@@ -1125,6 +1125,7 @@ Clustericious::Client::Object::Params,BDUGGAN,f
 Clustericious::Command,BDUGGAN,f
 Clustericious::Command::apache,BDUGGAN,f
 Clustericious::Command::generate,BDUGGAN,f
+Clustericious::Command::generate::client,BDUGGAN,f
 Clustericious::Command::generate::mbd_app,BDUGGAN,f
 Clustericious::Command::hypnotoad,BDUGGAN,f
 Clustericious::Command::lighttpd,BDUGGAN,f

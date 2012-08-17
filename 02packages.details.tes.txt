@@ -76,7 +76,7 @@ Test::ClassAPI                     1.06  A/AD/ADAMK/Test-ClassAPI-1.06.tar.gz
 Test::Classy                       0.09  I/IS/ISHIGAKI/Test-Classy-0.09.tar.gz
 Test::Classy::Base                undef  I/IS/ISHIGAKI/Test-Classy-0.09.tar.gz
 Test::CleanNamespaces              0.03  F/FL/FLORA/Test-CleanNamespaces-0.03.tar.gz
-Test::Clustericious                   0  B/BD/BDUGGAN/Clustericious-0.9901.tar.gz
+Test::Clustericious                   0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
 Test::Cmd                          1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
 Test::Cmd::Common                  1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
 Test::Code::TidyAll                0.04  J/JS/JSWARTZ/Code-TidyAll-0.04.tar.gz
