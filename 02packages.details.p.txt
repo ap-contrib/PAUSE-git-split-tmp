@@ -227,7 +227,7 @@ Proc::Fork                         0.71  A/AR/ARISTOTLE/Proc-Fork-0.71.tar.gz
 Proc::Fork::Runner                 0.71  A/AR/ARISTOTLE/Proc-Fork-0.71.tar.gz
 Proc::Forkfunc                 96.041701  M/MU/MUIR/modules/Proc-Forkfunc-96.042201.tar.gz
 Proc::Forking                      1.50  F/FD/FDULAU/Proc-Forking-1.50.tar.gz
-Proc::Forkmap                     0.021  T/TR/TRSKI/Proc-Forkmap-0.021.tar.gz
+Proc::Forkmap                     0.022  T/TR/TRSKI/Proc-Forkmap-0.022.tar.gz
 Proc::Guard                        0.06  T/TO/TOKUHIROM/Proc-Guard-0.06.tar.gz
 Proc::Hevy                        undef  P/PR/PRAVUS/Proc-Lite-0.09.tar.gz
 Proc::Hevy::Reader                undef  P/PR/PRAVUS/Proc-Lite-0.09.tar.gz
