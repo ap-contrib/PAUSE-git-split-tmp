@@ -181,8 +181,8 @@ FusionInventory::Agent::XML::Query undef  F/FU/FUSINV/FusionInventory-Agent-2.2.
 FusionInventory::Agent::XML::Query::Inventory undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::XML::Query::Prolog undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::XML::Response undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
-FusionInventory::VMware::SOAP     undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-2.1.0.tar.gz
-FusionInventory::VMware::SOAP::Host undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-2.1.0.tar.gz
+FusionInventory::VMware::SOAP     undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-2.2.0.tar.gz
+FusionInventory::VMware::SOAP::Host undef  F/FU/FUSINV/FusionInventory-Agent-Task-ESX-2.2.0.tar.gz
 FusqlFS                           0.005  K/KS/KSTEPME/FusqlFS-0.005.tar.gz
 FusqlFS::Artifact                 0.005  K/KS/KSTEPME/FusqlFS-0.005.tar.gz
 FusqlFS::Artifact::Table::Lazy    0.005  K/KS/KSTEPME/FusqlFS-0.005.tar.gz
