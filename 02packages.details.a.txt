@@ -574,7 +574,7 @@ AudioFile::Info::Build               22  D/DA/DAVECROSS/AudioFile-Info-Ogg-Vorbi
 AudioFile::Info::MP3::ID3Lib         25  D/DA/DAVECROSS/AudioFile-Info-MP3-ID3Lib-1.07.tar.gz
 AudioFile::Info::MP3::Info           11  D/DA/DAVECROSS/AudioFile-Info-MP3-Info-1.04.tar.gz
 AudioFile::Info::MP3::Tag          1.06  D/DA/DAVECROSS/AudioFile-Info-MP3-Tag-1.06.tar.gz
-AudioFile::Info::MP4::Info          0.5  S/SI/SIMONW/AudioFile-Info-MP4-Info-0.5.tar.gz
+AudioFile::Info::MP4::Info          0.6  S/SI/SIMONW/AudioFile-Info-MP4-Info-0.6.tar.gz
 AudioFile::Info::Ogg::Vorbis::Header 22  D/DA/DAVECROSS/AudioFile-Info-Ogg-Vorbis-Header-1.08.tar.gz
 AudioFile::Info::Ogg::Vorbis::Header::PurePerl 17  D/DA/DAVECROSS/AudioFile-Info-Ogg-Vorbis-Header-PurePerl-1.05.tar.gz
 AuditLog                          undef  M/MR/MRJC/cvswebedit-v2.0b1.tar.gz
