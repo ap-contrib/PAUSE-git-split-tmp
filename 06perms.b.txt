@@ -232,6 +232,7 @@ ci,KARASIK,f
 circular::require,DOY,f
 cl,KARASIK,f
 class_name,BRUMMETT,c
+class_name,NNUTTER,c
 class_name,SAKOHT,f
 classes,RMUHLE,f
 classes::Test,RMUHLE,f

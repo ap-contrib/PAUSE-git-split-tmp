@@ -398,6 +398,7 @@ Stump::Heavy,INGY,f
 StupidMarkov,JTGANS,f
 StupidTree,TOMC,f
 Style,BRUMMETT,c
+Style,NNUTTER,c
 Style,SAKOHT,f
 StyleSequence,CJM,f
 Su,LOTTZ,f

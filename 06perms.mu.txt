@@ -152,6 +152,7 @@ My::TAP::Parser::Timer,SAKOHT,c
 My::Table,DMCBRIDE,f
 My::Tagger,PETDANCE,f
 My::Test::Harness::Straps,BRUMMETT,c
+My::Test::Harness::Straps,NNUTTER,c
 My::Test::Harness::Straps,SAKOHT,f
 My::Track,WROSS,f
 My::Trait::Bar,SCHWIGON,f

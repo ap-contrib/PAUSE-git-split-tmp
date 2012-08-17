@@ -43,6 +43,7 @@ Xfce4,BJT,m
 Xforms,MARTINB,f
 XiaoI,LAOMOI,f
 Xml,BRUMMETT,c
+Xml,NNUTTER,c
 Xml,SAKOHT,f
 Xmldoom,DSNOPEK,m
 Xmldoom::Criteria,DSNOPEK,f

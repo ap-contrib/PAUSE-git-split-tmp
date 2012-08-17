@@ -411,6 +411,7 @@ a_to_z,AKALINUX,f
 abbreviation,MIYAGAWA,f
 about,SHERWOOD,f
 above,BRUMMETT,c
+above,NNUTTER,c
 above,SAKOHT,f
 accessors,SPURKIS,f
 accessors::chained,SPURKIS,f

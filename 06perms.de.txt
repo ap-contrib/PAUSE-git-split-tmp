@@ -229,6 +229,7 @@ Devel::bt,EDENC,c
 Devel::bt,ETHER,c
 Devel::bt,FLORA,f
 Devel::callsfrom,BRUMMETT,c
+Devel::callsfrom,NNUTTER,c
 Devel::callsfrom,SAKOHT,f
 Devel::dbg,JLISHEV,c
 Devel::dbg,LORDSPACE,m
