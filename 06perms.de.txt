@@ -542,6 +542,9 @@ Dezi::Doc,KARMAN,f
 Dezi::Response,KARMAN,f
 Dezi::Server,KARMAN,f
 Dezi::Server::About,KARMAN,f
+Dezi::Stats,KARMAN,f
+Dezi::Stats::DBI,KARMAN,f
+Dezi::Stats::File,KARMAN,f
 Dezi::UI,KARMAN,f
 DfClient,MSROTH,f
 DfException,MSROTH,f
