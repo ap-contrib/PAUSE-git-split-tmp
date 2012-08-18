@@ -326,7 +326,7 @@ DBIx::ShowCaller::st               0.80  J/JA/JANPAZ/DBIx-ShowCaller-0.80.tar.gz
 DBIx::Simple                       1.35  J/JU/JUERD/DBIx-Simple-1.35.tar.gz
 DBIx::Simple::Batch                1.69  A/AW/AWNCORP/DBIx-Simple-Batch-1.69.tar.gz
 DBIx::Simple::Batch::Map           1.68  A/AW/AWNCORP/DBIx-Simple-Batch-1.68.tar.gz
-DBIx::Simple::Class                0.66  B/BE/BEROV/DBIx-Simple-Class-0.66.tar.gz
+DBIx::Simple::Class                0.67  B/BE/BEROV/DBIx-Simple-Class-0.67.tar.gz
 DBIx::Simple::DataSection          0.02  K/KI/KITANO/DBIx-Simple-DataSection-0.02.tar.gz
 DBIx::Simple::DeadObject           1.35  J/JU/JUERD/DBIx-Simple-1.35.tar.gz
 DBIx::Simple::Dummy                1.35  J/JU/JUERD/DBIx-Simple-1.35.tar.gz
