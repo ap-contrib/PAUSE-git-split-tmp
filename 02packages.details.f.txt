@@ -564,9 +564,9 @@ Games::Dice::Advanced               1.1  D/DC/DCANTRELL/Games-Dice-Advanced-1.1.
 Games::Dice::Loaded               0.001  M/MG/MGOULD/Games-Dice-Loaded-0.001.tar.gz
 Games::Dice::Probability           0.02  J/JA/JAD/Games-Dice-Probability-0.02.tar.gz
 Games::Dissociate                     1  A/AV/AVIF/Games-Dissociate-1.tar.gz
-Games::Domino                      0.03  M/MA/MANWAR/Games-Domino-0.03.tar.gz
-Games::Domino::Player              0.03  M/MA/MANWAR/Games-Domino-0.03.tar.gz
-Games::Domino::Tile                0.03  M/MA/MANWAR/Games-Domino-0.03.tar.gz
+Games::Domino                      0.04  M/MA/MANWAR/Games-Domino-0.04.tar.gz
+Games::Domino::Player              0.04  M/MA/MANWAR/Games-Domino-0.04.tar.gz
+Games::Domino::Tile                0.04  M/MA/MANWAR/Games-Domino-0.04.tar.gz
 Games::DungeonMaker                0.01  A/AC/ACDALTON/Games-DungeonMaker-0.01.tar.gz
 Games::DungeonMaker::Builder       0.01  A/AC/ACDALTON/Games-DungeonMaker-0.01.tar.gz
 Games::DungeonMaker::Config        0.01  A/AC/ACDALTON/Games-DungeonMaker-0.01.tar.gz
