@@ -331,7 +331,7 @@ Variable::Alias::Scalar            0.01  B/BR/BRENTDAX/Variable-Alias-0.01.tar.g
 Variable::Eject                    0.02  M/MO/MONS/Variable-Eject-0.02.tar.gz
 Variable::Lazy                     0.03  L/LE/LEONT/Variable-Lazy-0.03.tar.gz
 Variable::Lazy::Guts               0.03  L/LE/LEONT/Variable-Lazy-0.03.tar.gz
-Variable::Magic                    0.50  V/VP/VPIT/Variable-Magic-0.50.tar.gz
+Variable::Magic                    0.51  V/VP/VPIT/Variable-Magic-0.51.tar.gz
 Variable::OnDestruct               0.03  L/LE/LEONT/Variable-OnDestruct-0.03.tar.gz
 Variable::Strongly::Typed      1.001000  M/ME/METZZO/Variable-Strongly-Typed-v1.1.0.tar.gz
 Variable::Strongly::Typed::Array 1.000000  M/ME/METZZO/Variable-Strongly-Typed-v1.1.0.tar.gz
