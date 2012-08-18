@@ -180,8 +180,8 @@ Perl6::Signature::Val::Sig        undef  G/GA/GAAL/Perl6-Signature-0.03.tar.gz
 Perl6::Signature::Val::SigParam   undef  G/GA/GAAL/Perl6-Signature-0.03.tar.gz
 Perl6::Slurp                   0.051001  D/DC/DCONWAY/Perl6-Slurp-0.051001.tar.gz
 Perl6::Slurp::Interpret            0.15  C/CT/CTBROWN/Perl6-Slurp-Interpret-0.15.tar.gz
-Perl6::Str                       v0.0.4  M/MO/MORITZ/Perl6-Str-v0.0.4.tar.gz
-Perl6::Str::Test                  undef  M/MO/MORITZ/Perl6-Str-v0.0.4.tar.gz
+Perl6::Str                       v0.0.5  M/MO/MORITZ/Perl6-Str-v0.0.5.tar.gz
+Perl6::Str::Test                      0  M/MO/MORITZ/Perl6-Str-v0.0.5.tar.gz
 Perl6::Take                        0.04  G/GA/GAAL/Perl6-Take-0.04.tar.gz
 Perl6::Tokener                     0.01  S/SI/SIMON/Perl6-Tokener-0.01.tar.gz
 Perl6::Variables                   0.01  D/DC/DCONWAY/Perl6-Variables-0.01.tar.gz
