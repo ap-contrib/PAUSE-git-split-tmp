@@ -853,11 +853,11 @@ Net::Amazon::Response::UPC        undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
 Net::Amazon::Response::Wishlist   undef  B/BO/BOUMENOT/Net-Amazon-0.60.tar.gz
 Net::Amazon::Result::Seller       undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
 Net::Amazon::Result::Seller::Listing undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
-Net::Amazon::Route53           0.113630  M/MF/MFONTANI/Net-Amazon-Route53-0.113630.tar.gz
-Net::Amazon::Route53::Change   0.113630  M/MF/MFONTANI/Net-Amazon-Route53-0.113630.tar.gz
-Net::Amazon::Route53::HostedZone 0.113630  M/MF/MFONTANI/Net-Amazon-Route53-0.113630.tar.gz
-Net::Amazon::Route53::ResourceRecordSet 0.113630  M/MF/MFONTANI/Net-Amazon-Route53-0.113630.tar.gz
-Net::Amazon::Route53::ResourceRecordSet::Change 0.113630  M/MF/MFONTANI/Net-Amazon-Route53-0.113630.tar.gz
+Net::Amazon::Route53           0.122310  M/MF/MFONTANI/Net-Amazon-Route53-0.122310.tar.gz
+Net::Amazon::Route53::Change   0.122310  M/MF/MFONTANI/Net-Amazon-Route53-0.122310.tar.gz
+Net::Amazon::Route53::HostedZone 0.122310  M/MF/MFONTANI/Net-Amazon-Route53-0.122310.tar.gz
+Net::Amazon::Route53::ResourceRecordSet 0.122310  M/MF/MFONTANI/Net-Amazon-Route53-0.122310.tar.gz
+Net::Amazon::Route53::ResourceRecordSet::Change 0.122310  M/MF/MFONTANI/Net-Amazon-Route53-0.122310.tar.gz
 Net::Amazon::S3                    0.56  P/PF/PFIG/Net-Amazon-S3-0.56.tar.gz
 Net::Amazon::S3::ACL           0.001000  P/PO/POLETTIX/Net-Amazon-S3-ACL-0.1.0.tar.gz
 Net::Amazon::S3::ACL::Grant       undef  P/PO/POLETTIX/Net-Amazon-S3-ACL-0.1.0.tar.gz
