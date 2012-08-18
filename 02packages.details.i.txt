@@ -184,8 +184,8 @@ IMS::ReleaseMgr::Utils             1.19  K/KG/KGREENE/releasesystem-1.00.tar.gz
 in                                 6.48  N/NW/NWCLARK/perl-5.8.9.tar.gz
 In::Korean::Numbers::SinoKorean    0.04  B/BR/BRYAN/In-Korean-Numbers-SinoKorean-0.04.tar.gz
 inc                                0.01  I/IN/INGY/inc-0.01.tar.gz
-inc::latest                      0.4002  L/LE/LEONT/Module-Build-0.4002.tar.gz
-inc::latest::private             0.4002  L/LE/LEONT/Module-Build-0.4002.tar.gz
+inc::latest                      0.4003  L/LE/LEONT/Module-Build-0.4003.tar.gz
+inc::latest::private             0.4003  L/LE/LEONT/Module-Build-0.4003.tar.gz
 inc::Module::Build::Functions      0.04  N/NP/NPLATONOV/Module-Build-Functions-0.04.tar.gz
 inc::Module::Build::Functions::DSL 0.04  N/NP/NPLATONOV/Module-Build-Functions-0.04.tar.gz
 inc::Module::Install               1.06  A/AD/ADAMK/Module-Install-1.06.tar.gz
