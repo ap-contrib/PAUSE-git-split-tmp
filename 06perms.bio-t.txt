@@ -288,6 +288,8 @@ Blosxom::Header::Proxy,ANAZAWA,f
 Blosxom::Header::Util,ANAZAWA,f
 Blosxom::Include,GAVINC,f
 Blosxom::Plugin,ANAZAWA,m
+Blosxom::Plugin::Core,ANAZAWA,f
+Blosxom::Plugin::DataSection,ANAZAWA,f
 Blosxom::Plugin::Request,ANAZAWA,f
 Blosxom::Plugin::Request::Upload,ANAZAWA,f
 Blosxom::Plugin::Response,ANAZAWA,f
