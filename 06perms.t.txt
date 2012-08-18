@@ -889,6 +889,7 @@ Tripletail::Value,HIO,c
 Tripletail::Value,MIKAGE,f
 True::Truth,NORBU,f
 Trustee,MUENALAN,f
+Try,DOY,f
 Try::Tiny,DOY,c
 Try::Tiny,FLORA,c
 Try::Tiny,NUFFIN,f
