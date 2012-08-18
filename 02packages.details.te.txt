@@ -24,7 +24,7 @@ Text::WordDiff::Base                  0  D/DW/DWHEELER/Text-WordDiff-0.08.tar.gz
 Text::WordDiff::HTML               0.08  D/DW/DWHEELER/Text-WordDiff-0.08.tar.gz
 Text::WordDiff::HTMLTwoLines       0.08  D/DW/DWHEELER/Text-WordDiff-0.08.tar.gz
 Text::WordGrams                    0.06  A/AM/AMBS/Text/Text-WordGrams-0.06.tar.gz
-Text::Wrap                     2012.0815  M/MU/MUIR/modules/Text-Tabs+Wrap-2012.0815.tar.gz
+Text::Wrap                     2012.0818  M/MU/MUIR/modules/Text-Tabs+Wrap-2012.0818.tar.gz
 Text::Wrap::Smart                   0.6  S/SC/SCHUBIGER/Text-Wrap-Smart-0.6.tar.gz
 Text::Wrap::Smart::XS              0.06  S/SC/SCHUBIGER/Text-Wrap-Smart-XS-0.06.tar.gz
 Text::WrapI18N                     0.06  K/KU/KUBOTA/Text-WrapI18N-0.06.tar.gz
