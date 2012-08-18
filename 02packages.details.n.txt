@@ -512,10 +512,10 @@ Object::KVC::Integer               0.04  T/TJ/TJOHNSON/Object-KVC-0.04.tar.gz
 Object::KVC::List                  0.04  T/TJ/TJOHNSON/Object-KVC-0.04.tar.gz
 Object::KVC::Set                   0.04  T/TJ/TJOHNSON/Object-KVC-0.04.tar.gz
 Object::KVC::String                0.04  T/TJ/TJOHNSON/Object-KVC-0.04.tar.gz
-Object::Lazy                       0.11  S/ST/STEFFENW/Object-Lazy-0.11.tar.gz
-Object::Lazy::Ref                  0.01  S/ST/STEFFENW/Object-Lazy-0.11.tar.gz
-Object::Lazy::Validate             0.08  S/ST/STEFFENW/Object-Lazy-0.11.tar.gz
-Object::Lazy::Version                 0  S/ST/STEFFENW/Object-Lazy-0.11.tar.gz
+Object::Lazy                       0.12  S/ST/STEFFENW/Object-Lazy-0.12.tar.gz
+Object::Lazy::Ref                  0.12  S/ST/STEFFENW/Object-Lazy-0.12.tar.gz
+Object::Lazy::Validate             0.12  S/ST/STEFFENW/Object-Lazy-0.12.tar.gz
+Object::Lazy::Version                 0  S/ST/STEFFENW/Object-Lazy-0.12.tar.gz
 Object::Lexical                    0.02  S/SW/SWALTERS/Object-Lexical-0.02.tar.gz
 Object::LocalVars                  0.20  D/DA/DAGOLDEN/Object-LocalVars-0.20.tar.gz
 Object::Meta::Plugin               0.01  N/NU/NUFFIN/Object-Meta-Plugin-0.01.tar.gz
