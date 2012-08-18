@@ -891,7 +891,7 @@ Archive::Zip::Parser::Entry::DataDescriptor undef  H/HA/HAGGAI/Archive-Zip-Parse
 Archive::Zip::Parser::Entry::Header undef  H/HA/HAGGAI/Archive-Zip-Parser-v0.0.3.tar.gz
 Archive::Zip::Parser::Entry::LocalFileHeader undef  H/HA/HAGGAI/Archive-Zip-Parser-v0.0.3.tar.gz
 Archive::Zip::Parser::Exception   undef  H/HA/HAGGAI/Archive-Zip-Parser-v0.0.3.tar.gz
-Archive::Zip::SimpleZip           0.003  P/PM/PMQS/Archive-Zip-SimpleZip-0.003.tar.gz
+Archive::Zip::SimpleZip           0.004  P/PM/PMQS/Archive-Zip-SimpleZip-0.004.tar.gz
 Archive::Zip::StringMember         1.30  A/AD/ADAMK/Archive-Zip-1.30.tar.gz
 Archive::Zip::Tree                 1.30  A/AD/ADAMK/Archive-Zip-1.30.tar.gz
 Archive::Zip::ZipFileMember        1.30  A/AD/ADAMK/Archive-Zip-1.30.tar.gz
