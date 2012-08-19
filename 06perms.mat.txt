@@ -1129,6 +1129,8 @@ Message::Passing::Input::STDIN,BOBTFISH,c
 Message::Passing::Input::STDIN,GHENRY,f
 Message::Passing::Input::STOMP,BOBTFISH,c
 Message::Passing::Input::STOMP,GHENRY,f
+Message::Passing::Input::Socket::UDP,BOBTFISH,c
+Message::Passing::Input::Socket::UDP,GHENRY,f
 Message::Passing::Input::Syslog,BOBTFISH,c
 Message::Passing::Input::Syslog,GHENRY,f
 Message::Passing::Input::ZeroMQ,BOBTFISH,c
@@ -1155,6 +1157,8 @@ Message::Passing::Output::STDOUT,BOBTFISH,c
 Message::Passing::Output::STDOUT,GHENRY,f
 Message::Passing::Output::STOMP,BOBTFISH,c
 Message::Passing::Output::STOMP,GHENRY,f
+Message::Passing::Output::Socket::UDP,BOBTFISH,c
+Message::Passing::Output::Socket::UDP,GHENRY,f
 Message::Passing::Output::Syslog,BOBTFISH,c
 Message::Passing::Output::Syslog,GHENRY,f
 Message::Passing::Output::Test,BOBTFISH,c
