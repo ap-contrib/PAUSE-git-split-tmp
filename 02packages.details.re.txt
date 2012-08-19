@@ -82,8 +82,8 @@ Regexp::Common::zip            2010010201  A/AB/ABIGAIL/Regexp-Common-2011121001
 Regexp::Compare                    0.19  V/VB/VBAR/Regexp-Compare-0.19.tar.gz
 Regexp::Constant                   1.22  D/DT/DTIBERIO/Regexp-Constant-1.22.tar.gz
 Regexp::Copy                       0.06  J/JD/JDUNCAN/Regexp-Copy-0.06.tar.gz
-Regexp::Debugger               0.001007  D/DC/DCONWAY/Regexp-Debugger-0.001007.tar.gz
-Regexp::Debugger::Precursor    0.001007  D/DC/DCONWAY/Regexp-Debugger-0.001007.tar.gz
+Regexp::Debugger               0.001008  D/DC/DCONWAY/Regexp-Debugger-0.001008.tar.gz
+Regexp::Debugger::Precursor    0.001008  D/DC/DCONWAY/Regexp-Debugger-0.001008.tar.gz
 Regexp::DefaultFlags               0.01  A/AU/AUTRIJUS/Regexp-DefaultFlags-0.01.tar.gz
 Regexp::DeferredExecution          0.05  A/AM/AMACKEY/Regexp-DeferredExecution-0.05.tar.gz
 Regexp::English                    1.01  C/CH/CHROMATIC/Regexp-English-1.01.tar.gz
