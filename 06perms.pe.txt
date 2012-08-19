@@ -2,8 +2,8 @@ Perl6::Perldoc::Block::CHAPTER,DCONWAY,f
 Perl6::Perldoc::Block::CHAPTERS,DCONWAY,f
 Perl6::Perldoc::Block::COPYRIGHT,DCONWAY,f
 Perl6::Perldoc::Block::COPYRIGHTS,DCONWAY,f
-Perl6::Perldoc::Block::DATA,DCONWAY,c
-Perl6::Perldoc::Block::DEFAULT,DCONWAY,c
+Perl6::Perldoc::Block::DATA,DCONWAY,f
+Perl6::Perldoc::Block::DEFAULT,DCONWAY,f
 Perl6::Perldoc::Block::DEPENDENCIES,DCONWAY,f
 Perl6::Perldoc::Block::DEPENDENCY,DCONWAY,f
 Perl6::Perldoc::Block::DESCRIPTION,DCONWAY,f
@@ -33,7 +33,7 @@ Perl6::Perldoc::Block::NAMES,DCONWAY,f
 Perl6::Perldoc::Block::Named,DCONWAY,f
 Perl6::Perldoc::Block::OPTION,DCONWAY,f
 Perl6::Perldoc::Block::OPTIONS,DCONWAY,f
-Perl6::Perldoc::Block::PURPOSE,DCONWAY,c
+Perl6::Perldoc::Block::PURPOSE,DCONWAY,f
 Perl6::Perldoc::Block::SECTION,DCONWAY,f
 Perl6::Perldoc::Block::SECTIONS,DCONWAY,f
 Perl6::Perldoc::Block::SEEALSO,DCONWAY,f
@@ -58,6 +58,7 @@ Perl6::Perldoc::Block::WARNINGS,DCONWAY,f
 Perl6::Perldoc::Block::code,DCONWAY,f
 Perl6::Perldoc::Block::comment,DCONWAY,f
 Perl6::Perldoc::Block::config,DCONWAY,f
+Perl6::Perldoc::Block::defn,DCONWAY,f
 Perl6::Perldoc::Block::encoding,DCONWAY,f
 Perl6::Perldoc::Block::head1,DCONWAY,f
 Perl6::Perldoc::Block::head2,DCONWAY,f
