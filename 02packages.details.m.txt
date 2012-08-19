@@ -688,7 +688,7 @@ Net::Akamai::ResponseData         undef  J/JG/JGOULAH/Net-Akamai-0.14.tar.gz
 Net::Akismet                       0.05  N/NI/NIKOLAY/Net-Akismet-0.05.tar.gz
 Net::Akismet::Protocol             0.02  M/MR/MRAMBERG/Net-Akismet-Protocol-0.02.tar.gz
 Net::Amazon                        0.61  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
-Net::Amazon::ATS                   0.02  S/SH/SHEVEK/Net-Amazon-ATS-0.02.tar.gz
+Net::Amazon::ATS                   0.03  S/SH/SHEVEK/Net-Amazon-ATS-0.03.tar.gz
 Net::Amazon::Attribute::Review    undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
 Net::Amazon::Attribute::ReviewSet undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
 Net::Amazon::AWIS                  0.36  S/SH/SHEVEK/Net-Amazon-AWIS-0.36.tar.gz
