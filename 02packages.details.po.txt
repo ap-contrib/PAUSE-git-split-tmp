@@ -578,7 +578,7 @@ POE::Wheel::SocketFactory         1.354  R/RC/RCAPUTO/POE-1.354.tar.gz
 POE::Wheel::TermKey                0.02  P/PE/PEVANS/POE-Wheel-TermKey-0.02.tar.gz
 POE::Wheel::UDP                    0.02  H/HA/HACHI/POE-Wheel-UDP-0.02.tar.gz
 POE::Wheel::VimColor              undef  M/MO/MOCONNOR/POE-Wheel-VimColor-0.01.tar.gz
-POE::XS::Loop::EPoll              1.001  T/TO/TONYC/POE-XS-Loop-EPoll-1.001.tar.gz
+POE::XS::Loop::EPoll              1.002  T/TO/TONYC/POE-XS-Loop-EPoll-1.002.tar.gz
 POE::XS::Loop::Poll               1.000  T/TO/TONYC/POE-XS-Loop-Poll-1.000.tar.gz
 POE::XS::Queue::Array             0.006  T/TO/TONYC/POE-XS-Queue-Array-0.006.tar.gz
 POE::XUL::Application            0.0600  G/GW/GWYN/POE-XUL-0.0600.tar.gz
