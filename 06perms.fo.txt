@@ -489,6 +489,7 @@ Fukurama::Class::Rigid,TOBIWAN,f
 Fukurama::Class::Tree,TOBIWAN,f
 Fukurama::Class::Version,TOBIWAN,f
 FulltextSearch::CLucene,PEDWARDS,f
+Fun,DOY,f
 Function,PERRAD,f
 Function::ID,ROODE,f
 Function::Override,MSCHWERN,f
