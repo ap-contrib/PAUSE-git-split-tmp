@@ -35,6 +35,7 @@ XML::PYX::Parser::ToCSF,MSERGEANT,f
 XML::ParseDTD,MORNI,f
 XML::Parsepp,KEICHNER,f
 XML::Parsepp::ExpatNB,KEICHNER,f
+XML::Parsepp::Testgen,KEICHNER,f
 XML::Parser,CHORNY,c
 XML::Parser,COOPERCL,c
 XML::Parser,MIROD,c
