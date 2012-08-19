@@ -955,6 +955,7 @@ Task::Deprecations::5_12,RJBS,f
 Task::Deprecations::5_14,AUGGY,c
 Task::Deprecations::5_14,EDENC,c
 Task::Deprecations::5_14,FLORA,f
+Task::Devel::Cover::Recommended,VPIT,f
 Task::Digest,GRAY,f
 Task::Digest,SKI,c
 Task::Dist::Zilla,JQUELIN,f
