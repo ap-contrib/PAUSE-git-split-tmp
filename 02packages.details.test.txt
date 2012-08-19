@@ -781,7 +781,7 @@ Text::Corpus::NewYorkTimes::Document 1.01  K/KU/KUBINA/Text-Corpus-NewYorkTimes-
 Text::Corpus::Summaries::Wikipedia 0.21  K/KU/KUBINA/Text-Corpus-Summaries-Wikipedia-0.21.tar.gz
 Text::Corpus::VoiceOfAmerica       1.03  K/KU/KUBINA/Text-Corpus-VoiceOfAmerica-1.03.tar.gz
 Text::Corpus::VoiceOfAmerica::Document 1.03  K/KU/KUBINA/Text-Corpus-VoiceOfAmerica-1.03.tar.gz
-Text::CPP                          0.12  S/SH/SHEVEK/Text-CPP-0.12.tar.gz
+Text::CPP                          0.14  S/SH/SHEVEK/Text-CPP-0.14.tar.gz
 Text::CSV                          1.21  M/MA/MAKAMAKA/Text-CSV-1.21.tar.gz
 Text::CSV2TXT                       2.0  S/SA/SANFACE/csv2txt-2.0.tar.gz
 Text::CSV::Auto                    0.06  B/BL/BLUEFEET/Text-CSV-Auto-0.06.tar.gz
