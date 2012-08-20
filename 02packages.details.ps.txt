@@ -1284,6 +1284,6 @@ RDF::Trine::Error::QuerySyntaxError 1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
 RDF::Trine::Error::SerializationError 1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
 RDF::Trine::Error::UnimplementedError 1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
 RDF::Trine::Exporter::CSV         1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
-RDF::Trine::Exporter::GraphViz     0.14  V/VO/VOJ/RDF-Trine-Exporter-GraphViz-0.14.tar.gz
+RDF::Trine::Exporter::GraphViz    0.141  V/VO/VOJ/RDF-Trine-Exporter-GraphViz-0.141.tar.gz
 RDF::Trine::Graph                 1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
 RDF::Trine::Iterator              1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
