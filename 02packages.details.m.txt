@@ -17,6 +17,7 @@ MusicRoom::ValidAlbums            undef  S/SJ/SJHAWTIN/MusicRoom-0.40.tar.gz
 MusicRoom::ValidArtists           undef  S/SJ/SJHAWTIN/MusicRoom-0.40.tar.gz
 MusicRoom::ValidSongs             undef  S/SJ/SJHAWTIN/MusicRoom-0.40.tar.gz
 MusicRoom::Zone                   undef  S/SJ/SJHAWTIN/MusicRoom-0.40.tar.gz
+MustBe::Loaded                     0.01  S/SH/SHAY/perl-5.17.3.tar.gz
 Mvalve                          0.00014  D/DM/DMAKI/Mvalve-0.00014.tar.gz
 Mvalve::Base                      undef  D/DM/DMAKI/Mvalve-0.00014.tar.gz
 Mvalve::CLI::ConfigFromFile       undef  D/DM/DMAKI/Mvalve-0.00014.tar.gz
@@ -45,6 +46,7 @@ MY                                 6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.t
 My::Album                         undef  W/WR/WROSS/Class-DBI-Factory-0.994.tar.gz
 My::App                           undef  C/CO/CORION/DBIx-VersionedSubs-0.07.tar.gz
 My::Artist                        undef  W/WR/WROSS/Class-DBI-Factory-0.994.tar.gz
+my::autodie                       undef  S/SH/SHAY/perl-5.17.3.tar.gz
 My::CDBI                          undef  B/BO/BOZO/Fry-Lib-CDBI-Basic-0.15.tar.gz
 My::Chat                          undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 My::Codec                         undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
@@ -262,6 +264,7 @@ MyCPAN::Indexer::Reporter::Base    1.28  B/BD/BDFOY/MyCPAN-Indexer-1.28.tar.gz
 MyCPAN::Indexer::TestCensus        1.28  B/BD/BDFOY/MyCPAN-Indexer-1.28.tar.gz
 MyCPAN::Indexer::Tutorial          1.28  B/BD/BDFOY/MyCPAN-Indexer-1.28.tar.gz
 MyCPAN::Indexer::Worker            1.28  B/BD/BDFOY/MyCPAN-Indexer-1.28.tar.gz
+MyCustom                          undef  S/SH/SHAY/perl-5.17.3.tar.gz
 MyCustomButton                    undef  E/EI/EILARA/XUL-Node-0.06.tar.gz
 MyCustomButtonBox                 undef  E/EI/EILARA/XUL-Node-0.06.tar.gz
 MyData                            undef  A/AR/ARLIN/Bio-NEXUS-0.78.tar.gz
@@ -285,6 +288,8 @@ MyExampleCalls                     3.05  M/MA/MARKOV/XML-Compile-SOAP-Daemon-3.0
 MyExampleData                      3.05  M/MA/MARKOV/XML-Compile-SOAP-Daemon-3.05.tar.gz
 MyFake                             1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
 MyFeatureFileLoader                   0  L/LD/LDS/GBrowse-2.49.tar.gz
+MyFileSourceHandler               undef  S/SH/SHAY/perl-5.17.3.tar.gz
+MyGrammar                         undef  S/SH/SHAY/perl-5.17.3.tar.gz
 MyHandler                         undef  K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
 MyHash                            undef  S/SE/SEYN/Pogo-0.10.tar.gz
 MyHTML                             0.02  C/CK/CKONG/LibWeb-0.02.tar.gz
@@ -339,11 +344,14 @@ MyOutSession                      undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 MyP2P                             undef  S/SU/SUZUKI/POEIKC-0.04.tar.gz
 MyParser                           0.30  A/AU/AUDREYT/Locale-Maketext-Lexicon-0.71.tar.gz
 MyPassword                        undef  C/CH/CHISEL/Data-Password-Check-0.08.tar.gz
+MyPerlSourceHandler               undef  S/SH/SHAY/perl-5.17.3.tar.gz
 MyPermissionFactory               undef  A/AW/AWKAY/Apache2/Apache2-SiteControl-1.05.tar.gz
 MyPktRouter                       undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 MyPktUser                         undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 MyPodHtml                        1.0503  G/GA/GAAS/perlbench-0.93.tar.gz
 MyPodXhtml                         0.77  I/IS/ISHIGAKI/CPAN-Search-Lite-0.78.tar.gz
+MyResult                          undef  S/SH/SHAY/perl-5.17.3.tar.gz
+MyResultFactory                   undef  S/SH/SHAY/perl-5.17.3.tar.gz
 MySAX_Breadcrumbs                  0.21  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.21.tar.gz
 MySAX_Image                        0.21  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.21.tar.gz
 MySAX_Scaled                       0.21  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.21.tar.gz
@@ -354,6 +362,7 @@ MySessionEnd                      undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 MySessionStart                    undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
 mySOAP::Client                     0.45  D/DY/DYACOB/SOAP-Lite-ActiveWorks-0.10.tar.gz
 MySortFilterProxyModel            undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
+MySourceHandler                   undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Mysql                            1.2401  C/CA/CAPTTOFU/DBD-mysql-3.0008.tar.gz
 MySQL::Admin                       0.62  L/LZ/LZE/MySQL-Admin-0.62.tar.gz
 MySQL::Admin::Actions              0.62  L/LZ/LZE/MySQL-Admin-0.62.tar.gz
@@ -420,6 +429,7 @@ MyTest::SingleChild               undef  M/MS/MSTROUT/Class-XML-0.06.tar.gz
 MyTest::SuperAttrs                undef  M/MS/MSTROUT/Class-XML-0.06.tar.gz
 MyTest::TopNode                   undef  M/MS/MSTROUT/Class-XML-0.06.tar.gz
 MyTestModule                      undef  L/LB/LBROCARD/perl-5.12.4.tar.gz
+MyTestModule2                     undef  S/SH/SHAY/perl-5.17.3.tar.gz
 MyTheme                            0.02  C/CK/CKONG/LibWeb-0.02.tar.gz
 MyTimer                           undef  J/JM/JMOORE/Devel-Timer-0.01.tar.gz
 MyTreeBuilder                     undef  H/HA/HABEGGER/WebSource-2.4.5.tar.gz

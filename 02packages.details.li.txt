@@ -758,6 +758,7 @@ LoaderException2_2                undef  M/MR/MRAMBERG/Mojolicious-2.58.tar.gz
 LoaderException2_3                undef  M/MR/MRAMBERG/Mojolicious-2.58.tar.gz
 LoaderTest::A                     undef  M/MR/MRAMBERG/Mojolicious-2.58.tar.gz
 LoadHtml                           7.04  T/TU/TURNERJW/LoadHtml-7.04.tar.gz
+LoadIt                                1  S/SH/SHAY/perl-5.17.3.tar.gz
 Local::Abstract                   undef  A/AH/AHERNIT/Class-Injection-1.08.tar.gz
 local::c                          0.001  G/GE/GETTY/local-c-0.001.tar.gz
 Local::DBD::ADO::DSN              undef  S/SG/SGOELDNER/DBD-ADO-2.99.tar.gz

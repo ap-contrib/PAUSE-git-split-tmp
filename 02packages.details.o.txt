@@ -116,6 +116,9 @@ overload                           1.15  F/FL/FLORA/perl-5.15.4.tar.gz
 overload::eval                     0.10  J/JJ/JJORE/overload-eval-0.10.tar.gz
 overload::numbers                 undef  F/FL/FLORA/perl-5.15.4.tar.gz
 overload::substr                   0.03  P/PE/PEVANS/overload-substr-0.03.tar.gz
+Overloaded                        undef  S/SH/SHAY/perl-5.17.3.tar.gz
+Overloaded::Compare               undef  S/SH/SHAY/perl-5.17.3.tar.gz
+Overloaded::Ify                   undef  S/SH/SHAY/perl-5.17.3.tar.gz
 OverloadedClass                       0  M/MA/MARKSTOS/CGI-Session-4.48.tar.gz
 OverloadedObjectClass              1.54  S/SH/SHERZODR/CGI-Session-4.10.tar.gz
 overloading                        0.01  F/FL/FLORA/perl-5.15.4.tar.gz

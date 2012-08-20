@@ -1032,7 +1032,7 @@ ArticleSystem                      0.55  F/FP/FPREICH/XML-BMEcat-0.55.tar.gz
 ARWT::Template                    undef  J/JM/JMURPHY/ARSperl-1.91.tgz
 arXiv                              1.01  S/SI/SIMEON/arXiv-1.01.tar.gz
 arXiv::FileGuess                  undef  S/SI/SIMEON/arXiv-1.01.tar.gz
-arybase                            0.01  S/SH/SHAY/perl-5.15.5.tar.gz
+arybase                            0.05  S/SH/SHAY/perl-5.17.3.tar.gz
 as                                 0.08  E/EL/ELIZABETH/as-0.08.tar.gz
 asa                                1.03  A/AD/ADAMK/asa-1.03.tar.gz
 AsciiDB::TagFile                   1.06  J/JO/JOSERODR/AsciiDB-TagFile-1.06.tar.gz

@@ -62,6 +62,8 @@ Pugs::Runtime::Rule               undef  F/FG/FGLOCK/Pugs-Compiler-Rule-0.37.tar
 Pugs::Runtime::StrPos             undef  F/FG/FGLOCK/Pugs-Compiler-Rule-0.37.tar.gz
 Pugs::Runtime::Tracer             undef  A/AG/AGENT/Pugs-Compiler-Rule-0.28.tar.gz
 PugsConfig                        undef  A/AU/AUTRIJUS/Perl6-Pugs-6.0.12.tar.gz
+pujHa::ghach                      undef  S/SH/SHAY/perl-5.17.3.tar.gz
+pujHa::ghach::Dotlh               undef  S/SH/SHAY/perl-5.17.3.tar.gz
 punctuation                        0.02  M/MJ/MJD/punctuation-0.02.tar.gz
 Puppet::Any                        0.04  D/DD/DDUMONT/Puppet-Any-0.04.tar.gz
 Puppet::Body                      1.015  D/DD/DDUMONT/Puppet-Body-1.018.tar.gz

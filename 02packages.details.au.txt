@@ -323,8 +323,14 @@ autodie                            2.12  P/PJ/PJF/autodie-2.12.tar.gz
 autodie::exception                 2.12  P/PJ/PJF/autodie-2.12.tar.gz
 autodie::exception::system         2.12  P/PJ/PJF/autodie-2.12.tar.gz
 autodie::hints                     2.12  P/PJ/PJF/autodie-2.12.tar.gz
+autodie::hints::provider          undef  S/SH/SHAY/perl-5.17.3.tar.gz
 autodie::Scope::Guard              2.12  P/PJ/PJF/autodie-2.12.tar.gz
+autodie::test::au                 undef  S/SH/SHAY/perl-5.17.3.tar.gz
+autodie::test::au::exception      undef  S/SH/SHAY/perl-5.17.3.tar.gz
+autodie::test::badname            undef  S/SH/SHAY/perl-5.17.3.tar.gz
+autodie::test::missing            undef  S/SH/SHAY/perl-5.17.3.tar.gz
 autodie::variables                0.004  L/LE/LEONT/autodie-variables-0.004.tar.gz
+autodie_test_module               undef  S/SH/SHAY/perl-5.17.3.tar.gz
 autodynaload                       0.08  P/PA/PATL/autorequire-0.08.tar.gz
 AutoLoad                           0.01  B/BB/BBB/Module-AutoLoad-0.01.tar.gz
 AutoloadComponent                 undef  H/HO/HOLT/makepp-1.19.tar.gz

@@ -195,6 +195,7 @@ inc::Module::JSAN::DSL                0  N/NP/NPLATONOV/Module-JSAN-0.04.tar.gz
 inc::Module::Package               0.30  I/IN/INGY/Module-Package-0.30.tar.gz
 inc::Package                       0.10  I/IN/INGY/Package-0.10.tar.gz
 IncludePaths                      undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
+IncludeTester                     undef  S/SH/SHAY/perl-5.17.3.tar.gz
 IncomeTax::IND                     0.03  M/MA/MANWAR/IncomeTax-IND-0.03.tar.gz
 IncomeTax::UK                      0.08  M/MA/MANWAR/IncomeTax-UK-0.08.tar.gz
 IncSub                            undef  P/PJ/PJCJ/Devel-Cover-0.72.tar.gz
@@ -344,6 +345,7 @@ InlineX::CPP2XS                    0.23  S/SI/SISYPHUS/InlineX-CPP2XS-0.23.tar.g
 InlineX::XS                        0.02  S/SM/SMUELLER/InlineX-XS-0.02.tar.gz
 InlineX::XS::MM                    0.01  S/SM/SMUELLER/InlineX-XS-0.02.tar.gz
 InnerHTML                         undef  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
+InPod                                 2  S/SH/SHAY/perl-5.17.3.tar.gz
 input                              0.72  J/JP/JPRIT/ObjStore-1.59.tar.gz
 Input::Validator               0.001005  V/VT/VTI/Input-Validator-0.001005.tar.gz
 Input::Validator::Base            undef  V/VT/VTI/Input-Validator-0.001005.tar.gz
@@ -594,4 +596,5 @@ IO::Buffered::Size                 1.00  T/TL/TLBDK/IO-Buffered-1.00.tar.gz
 IO::Buffered::Split                1.00  T/TL/TLBDK/IO-Buffered-1.00.tar.gz
 IO::BufferedSelect                  1.0  A/AF/AFN/IO-BufferedSelect-1.0.tar.gz
 IO::Busy                       0.000003  D/DC/DCONWAY/IO-Busy-0.0.3.tar.gz
+IO::c55Capture                    undef  S/SH/SHAY/perl-5.17.3.tar.gz
 IO::Callback                       1.08  P/PU/PUBNOOP/IO-Callback-1.08.tar.gz

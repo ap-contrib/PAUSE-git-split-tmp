@@ -514,11 +514,14 @@ No::Worries::Proc                   0.5  L/LC/LCONS/No-Worries-0.5.tar.gz
 No::Worries::Syslog                 0.5  L/LC/LCONS/No-Worries-0.5.tar.gz
 No::Worries::Warn                   0.5  L/LC/LCONS/No-Worries-0.5.tar.gz
 Node                               0.01  S/SE/SEYHAN/HTML-STable-0.01.tar.gz
+NoExporter                         1.02  S/SH/SHAY/perl-5.17.3.tar.gz
+NoFork                            undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Noid                              0.424  J/JA/JAK/Noid-0.424.tar.gz
 Nokia::File::NFB                   0.01  R/RP/RPRICE/Nokia-File-NFB-0.01.tar.gz
 Nokia::File::NFB::Element          0.01  R/RP/RPRICE/Nokia-File-NFB-0.01.tar.gz
 Nomad                             undef  F/FL/FLORA/perl-5.15.4.tar.gz
 nonsense                           0.01  J/JR/JROCKWAY/nonsense-0.01.tar.gz
+NOP                               undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Norma                              0.02  D/DC/DCHESTER/Norma-0.02.tar.gz
 Norma::DB                          0.02  D/DC/DCHESTER/Norma-0.02.tar.gz
 Norma::DB::MySQL                   0.02  D/DC/DCHESTER/Norma-0.02.tar.gz
@@ -556,6 +559,7 @@ Notify::Email                  0.000001  M/MG/MGILFIX/Notify-0.0.1.tar.gz
 Notify::Notice                 0.000001  M/MG/MGILFIX/Notify-0.0.1.tar.gz
 Notify::NoticePool             0.000001  M/MG/MGILFIX/Notify-0.0.1.tar.gz
 NotModule2                        undef  P/PJ/PJCJ/Devel-Cover-0.72.tar.gz
+NotX                                  1  S/SH/SHAY/perl-5.17.3.tar.gz
 NPRG                                0.3  I/IF/IFROL/NPRG-0.31.zip
 NRD::Client                       undef  J/JL/JLMARTIN/NRD-Daemon-0.04.tar.gz
 NRD::Daemon                        0.04  J/JL/JLMARTIN/NRD-Daemon-0.04.tar.gz

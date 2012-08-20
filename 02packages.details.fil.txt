@@ -66,7 +66,12 @@ Filter::QuasiQuote                 0.07  A/AG/AGENT/Filter-QuasiQuote-0.07.tar.g
 Filter::Rijndael                   0.02  A/AS/ASP/Filter-Rijndael-0.02.tar.gz
 Filter::sh                         1.43  R/RU/RURBAN/Filter-1.45.tar.gz
 Filter::Simple                     0.88  S/SM/SMUELLER/Filter-Simple-0.88.tar.gz
+Filter::Simple::CodeNoComments    undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Filter::Simple::Compile            0.02  A/AU/AUDREYT/Filter-Simple-Compile-0.02.tar.gz
+Filter::Simple::ExportTest        undef  S/SH/SHAY/perl-5.17.3.tar.gz
+Filter::Simple::FilterOnlyTest    undef  S/SH/SHAY/perl-5.17.3.tar.gz
+Filter::Simple::FilterTest        undef  S/SH/SHAY/perl-5.17.3.tar.gz
+Filter::Simple::ImportTest        undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Filter::SQL                        0.10  K/KA/KAZUHO/Filter-SQL-0.10.tar.gz
 Filter::tee                        1.45  R/RU/RURBAN/Filter-1.45.tar.gz
 Filter::Template                  1.040  R/RC/RCAPUTO/Filter-Template-1.040.tar.gz

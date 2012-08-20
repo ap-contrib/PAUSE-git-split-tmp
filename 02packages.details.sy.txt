@@ -647,7 +647,9 @@ T2::Schema                        undef  S/SA/SAMV/T2-0.10.tar.gz
 T2::Storage                       undef  S/SA/SAMV/T2-0.10.tar.gz
 t::BHK                            undef  F/FL/FLORA/perl-5.15.4.tar.gz
 T::DBI                            undef  B/BO/BOSU/Apache-SWIT-0.54.tar.gz
+t::lib::Test                      undef  S/SH/SHAY/perl-5.17.3.tar.bz2
 t::Markers                        undef  F/FL/FLORA/perl-5.15.4.tar.gz
 T::TempDB                         undef  B/BO/BOSU/Apache-SWIT-0.54.tar.gz
 T::Test                           undef  B/BO/BOSU/Apache-SWIT-0.54.tar.gz
 t::Util                            0.01  T/TO/TOKUHIROM/Amon2-2.54.tar.gz
+t::Watchdog                       undef  S/SH/SHAY/perl-5.17.3.tar.gz

@@ -298,6 +298,7 @@ blx::xsdsql::xsd_parser::type::simple_content undef  B/BL/BLX/XSDSQL_20120617.ta
 blx::xsdsql::xsd_parser::type_restriction undef  B/BL/BLX/XSDSQL_20120617.tar.bz2
 Board                               1.1  C/CH/CHESSKIT/Chess-ChessKit-ChessKit-0.05.tar.gz
 BokkaKumiai                        0.02  D/DU/DUKKIE/BokkaKumiai-0.02.tar.gz
+BOMTest::UTF8                         1  S/SH/SHAY/perl-5.17.3.tar.gz
 Bone::Easy                         0.04  M/MS/MSCHWERN/Bone-Easy-0.04.tar.gz
 Bone::Easy::Rules                 undef  M/MS/MSCHWERN/Bone-Easy-0.04.tar.gz
 Bonobo                           0.7008  L/LU/LUPUS/Gtk-Perl-0.7008.tar.gz

@@ -449,6 +449,7 @@ Emits                              2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Empire::Land                      undef  R/RO/ROMM/Empire-0.121.tar.gz
 Employee                          undef  S/SR/SRIRAM/examples.tar.gz
 EmptyModule                       undef  B/BW/BWARFIELD/NRGN/Test-AutoLoader-0.03.tar.gz
+EmptyParser                       undef  S/SH/SHAY/perl-5.17.3.tar.gz
 EnableModule                      undef  S/ST/STEVAN/perl-5.15.3.tar.bz2
 Enbugger                          2.013  J/JJ/JJORE/Enbugger-2.013.tar.gz
 Enbugger::ebug                    undef  J/JJ/JJORE/Enbugger-2.013.tar.gz

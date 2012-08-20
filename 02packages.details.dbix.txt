@@ -631,6 +631,7 @@ DetailsPage                       undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Detect::Module                      1.2  R/RP/RPOLZER/Detect-Module-1.2.tar.gz
 Detect::Module::Internal            1.2  R/RP/RPOLZER/Detect-Module-1.2.tar.gz
 Dev::Bollocks                      0.06  T/TE/TELS/Dev-Bollocks-0.06.tar.gz
+Dev::Null                         undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Devel::Arena                       0.23  N/NW/NWCLARK/Devel-Arena-0.23.tar.gz
 Devel::ArgNames                    0.03  N/NU/NUFFIN/Devel-ArgNames-0.03.tar.gz
 Devel::Assert                      0.02  R/RA/RANDIR/Devel-Assert-0.02.tar.gz

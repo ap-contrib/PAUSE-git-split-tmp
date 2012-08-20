@@ -170,6 +170,7 @@ SigarWrapper::Perl                undef  D/DO/DOUGM/hyperic-sigar-1.6.3-src.tar.
 SigarWrapper::PHP                 undef  D/DO/DOUGM/hyperic-sigar-1.6.3-src.tar.gz
 SigarWrapper::Python              undef  D/DO/DOUGM/hyperic-sigar-1.6.3-src.tar.gz
 SigarWrapper::Ruby                undef  D/DO/DOUGM/hyperic-sigar-1.6.3-src.tar.gz
+SigDie                            undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Signal                             0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
 Signal::Mask                      0.006  L/LE/LEONT/Signal-Mask-0.006.tar.gz
 Signal::More                      0.009  L/LE/LEONT/POSIX-RT-Signal-0.009.tar.gz
@@ -710,6 +711,7 @@ SNA::Network::Node::Plugin::Test      0  O/OB/OBRADOVIC/SNA-Network-0.15.tar.gz
 SNA::Network::Plugin::Test            0  O/OB/OBRADOVIC/SNA-Network-0.15.tar.gz
 Snail::CSV                         0.07  M/MI/MIT/Snail-CSV-0.07.tar.gz
 snaked                             0.13  K/KO/KOHTS/snaked-0.13.tar.gz
+Snapshot                           0.01  S/SH/SHAY/perl-5.17.3.tar.bz2
 Snartemo::Tk                        0.6  H/HE/HERVEUS/Weaving-Tablet-0.8.tar.gz
 SNC::Manipulator                   0.30  C/CM/CMORRIS/SNC-Manipulator-0.30.tar.gz
 Sniffer::Connection                0.23  C/CO/CORION/Sniffer-HTTP-0.23.tar.gz

@@ -391,6 +391,7 @@ MIME::WordDecoder::US_ASCII       undef  D/DS/DSKOLL/MIME-tools-5.503.tar.gz
 MIME::WordDecoder::UTF_8          undef  D/DS/DSKOLL/MIME-tools-5.503.tar.gz
 MIME::Words                       5.503  D/DS/DSKOLL/MIME-tools-5.503.tar.gz
 MimeData                          undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
+Min::PerlVers                      0.05  S/SH/SHAY/perl-5.17.3.tar.bz2
 Mindcal                            0.01  M/MS/MSCHILLI/Mindcal-0.01.tar.gz
 Minecraft::RCON                  v0.1.2  D/DE/DEMMY/Minecraft-RCON-v0.1.2.tar.gz
 Minilla                           undef  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz

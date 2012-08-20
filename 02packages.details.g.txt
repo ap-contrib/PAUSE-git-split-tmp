@@ -476,6 +476,7 @@ Hardware::Vhdl::Parser             0.12  G/GS/GSLONDON/Hardware-Vhdl-Parser-0.12
 Hardware::Vhdl::Tidy                0.8  M/MY/MYKL/Hardware-Vhdl-Tidy-0.8.tar.gz
 Harness::Hook                     undef  A/AN/ANDYA/Test-Harness-3.14.tar.gz
 Harvey                             1.02  M/ME/MEYERCJM/Harvey-1.02.1.tar.gz
+HAS_ATTACH                        undef  S/SH/SHAY/perl-5.17.3.tar.gz
 HASH                                0.5  S/SW/SWALTERS/autobox-Core-0.5.tar.gz
 Hash::Abbrev                       0.01  A/AS/ASG/Hash-Abbrev-0.01.tar.gz
 Hash::AsObject                     0.13  N/NK/NKUITSE/Hash-AsObject-0.13.tar.gz
@@ -560,6 +561,7 @@ hashbang                           0.10  I/IN/INGY/HashBang-0.10.tar.gz
 HashEmp                           undef  S/SR/SRIRAM/examples.tar.gz
 HashInflator                     0.0501  R/RI/RICKM/Net-Jaiku-0.0501.tgz
 hashtie                            0.08  M/MI/MICHAEL/Decl-0.11.tar.gz
+HasSigDie                         undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Hatena::API::Auth                  0.05  N/NA/NAOYA/Hatena-API-Auth-0.05.tar.gz
 Hatena::API::Auth::User            0.05  N/NA/NAOYA/Hatena-API-Auth-0.05.tar.gz
 Hatena::Formatter                  0.03  Y/YA/YAPPO/Hatena-Formatter-0.03.tar.gz
@@ -625,6 +627,7 @@ Heap::Simple::StringReverse        0.03  T/TH/THOSPEL/Heap-Simple-Perl-0.14.tar.
 Heap::Simple::Wrapper              0.04  T/TH/THOSPEL/Heap-Simple-Perl-0.14.tar.gz
 Heap::Simple::XS                   0.10  T/TH/THOSPEL/Heap-Simple-XS-0.10.tar.gz
 Heap::Simple::XS::Package          0.10  T/TH/THOSPEL/Heap-Simple-XS-0.10.tar.gz
+Heart                                 1  S/SH/SHAY/perl-5.17.3.tar.gz
 heatmap                             1.5  C/CJ/CJONES/Microarray-0.45c.zip
 Heimdal::Kadm5                     0.08  L/LE/LEIFJ/Heimdal-Kadm5-0.08.tar.gz
 Heimdal::Kadm5::Client             0.08  L/LE/LEIFJ/Heimdal-Kadm5-0.08.tar.gz

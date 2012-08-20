@@ -35,6 +35,7 @@ Solution::Variable               v0.9.1  S/SA/SANKO/Solution-v0.9.1.tar.gz
 SOM                              0.0601  I/IL/ILYAZ/modules/SOM-0.0601.zip
 Some::Class                       undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 Some::Handler1                    undef  P/PI/PIERS/Jabber-mod_perl-0.15.tar.gz
+Some::Module                      undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Some::Other::Role                 undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 Some::Role                        undef  D/DO/DOY/KiokuDB-0.52.tar.gz
 Some::Third::Role                 undef  D/DO/DOY/KiokuDB-0.52.tar.gz
@@ -1040,6 +1041,7 @@ SQLite_File                        0.02  M/MA/MAJENSEN/SQLite_File-0.02.tar.gz
 SQLite_File::BTREEINFO            undef  M/MA/MAJENSEN/SQLite_File-0.02.tar.gz
 SQLite_File::HASHINFO             undef  M/MA/MAJENSEN/SQLite_File-0.02.tar.gz
 SQLite_File::RECNOINFO            undef  M/MA/MAJENSEN/SQLite_File-0.02.tar.gz
+squaa                             undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Squatting                          0.81  B/BE/BEPPU/Squatting-0.81.tar.gz
 Squatting::Controller             undef  B/BE/BEPPU/Squatting-0.81.tar.gz
 Squatting::H                      undef  B/BE/BEPPU/Squatting-0.81.tar.gz

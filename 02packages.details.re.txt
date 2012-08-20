@@ -427,6 +427,7 @@ Retry                              0.12  T/TJ/TJC/Retry-0.12.tar.gz
 Return::DataButBool            0.000003  D/DM/DMUEY/Return-DataButBool-0.0.3.tar.gz
 Return::Value                  1.666001  R/RJ/RJBS/Return-Value-1.666001.tar.gz
 returning                         0.001  T/TO/TOBYINK/returning-0.001.tar.gz
+ReturnsFalse                      undef  S/SH/SHAY/perl-5.17.3.tar.gz
 Reuters::SSL                       0.52  C/CB/CBARKEY/Reuters-SSL-0.52.tar.gz
 revphone                           0.01  P/PH/PHOCUS/revphone-0.01.tar.gz
 Rex                            0.031005  J/JF/JFRIED/Rex-0.31.5.tar.gz
