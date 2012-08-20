@@ -62,7 +62,7 @@ DBIx::XMLServer::NumberField      undef  M/MJ/MJBRIGHT/DBIx-XMLServer-0.02.tar.g
 DBIx::XMLServer::OrderSpec         0.02  M/MJ/MJBRIGHT/DBIx-XMLServer-0.02.tar.gz
 DBIx::XMLServer::Request           0.02  M/MJ/MJBRIGHT/DBIx-XMLServer-0.02.tar.gz
 DBIx::XMLServer::TextField        undef  M/MJ/MJBRIGHT/DBIx-XMLServer-0.02.tar.gz
-DBIx::YAWM                         2.32  A/AH/AHICOX/DBIx-YAWM-2.32.tar.gz
+DBIx::YAWM                         2.34  A/AH/AHICOX/DBIx-YAWM-2.34.tar.gz
 Dblink                              1.0  B/BH/BHUVAN/bhuvan/Dblink-1.0.tar.gz
 DBM::Any                            0.1  T/TM/TMONROE/DBM-Any-0.1.tar.gz
 DBM::DBass                         0.54  S/SP/SPIDERBOY/DBM-DBass-0.54.tar.gz
