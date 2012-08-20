@@ -242,6 +242,7 @@ Parse::CPAN::Distributions,BARBIE,f
 Parse::CPAN::Meta,ADAMK,f
 Parse::CPAN::Meta,DAGOLDEN,c
 Parse::CPAN::Meta,SMUELLER,c
+Parse::CPAN::Meta::Test,SHAY,f
 Parse::CPAN::MirroredBy,ADAMK,f
 Parse::CPAN::Modlist,SIMONW,f
 Parse::CPAN::Modlist::Module,SIMONW,f

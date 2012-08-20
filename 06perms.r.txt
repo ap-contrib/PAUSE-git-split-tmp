@@ -137,6 +137,7 @@ spreadsheet,MMARCO,f
 sprite_view,METZZO,f
 sql_block,PHILCROW,f
 sqlite_comparison,CJONES,f
+squaa,SHAY,f
 ss,KARASIK,f
 start,ILMARI,c
 start,MITHALDU,c
@@ -321,6 +322,8 @@ t::Util,TOKUHIROM,f
 t::Utils,MMCLERIC,f
 t::Utils::IgnoreWarn,MMCLERIC,f
 t::Utils::IgnoreWarnGuard,MMCLERIC,f
+t::Watchdog,SHAY,f
+t::lib::Test,SHAY,f
 tTemplate,TATE,f
 tTemplate::Dataset,TATE,f
 tTemplate::ExprNode,TATE,f
@@ -617,9 +620,11 @@ utf8,LBROCARD,c
 utf8,NWCLARK,f
 utf8,RJBS,c
 utf8::all,DOHERTY,f
+util,SHAY,f
 util::embed,ZAPHAR,f
 util::tester,ZAPHAR,f
 utl,NES,f
+v,SHAY,c
 v6,AGENT,c
 v6,AUDREYT,c
 v6,AUTRIJUS,c

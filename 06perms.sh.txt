@@ -362,6 +362,7 @@ Sig::PackageScoped,DROLSKY,f
 Sig::PackageScoped::Paranoid,DROLSKY,f
 Sig::PackageScoped::Paranoid::Tie,DROLSKY,f
 SigAction::SetCallBack,CCCP,f
+SigDie,SHAY,f
 SigSlot,AWIN,f
 Sigar,DOUGM,f
 SigarWrapper,DOUGM,f

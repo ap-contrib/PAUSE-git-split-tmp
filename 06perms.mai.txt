@@ -1229,7 +1229,14 @@ MakeEvent::WaitingSubroutine,HOLT,f
 MakeEvent::WaitingSubroutine,PFEIFFER,c
 MakeHelper,TSCH,f
 MakeHelper,XAOC,c
+MakeMaker::Test::NoXS,SHAY,f
+MakeMaker::Test::Setup::BFD,SHAY,f
+MakeMaker::Test::Setup::MPV,SHAY,f
+MakeMaker::Test::Setup::PL_FILES,SHAY,f
+MakeMaker::Test::Setup::Problem,SHAY,f
 MakeMaker::Test::Setup::Recurs,ABERGMAN,f
+MakeMaker::Test::Setup::SAS,SHAY,f
+MakeMaker::Test::Setup::XS,SHAY,f
 MakeMaker::Test::Utils,ABERGMAN,f
 MakeUtil,RGARCIA,f
 Makecmds,PFEIFFER,f

@@ -278,6 +278,7 @@ less,NWCLARK,c
 less,P5P,m
 less,RJBS,c
 less,perl,c
+lethal,SHAY,f
 lexicals,INGY,f
 lib,FLORA,c
 lib,P5P,m
@@ -477,6 +478,7 @@ mt_plate_file,CJONES,f
 multi_step,NES,f
 multibyte,PERRAD,f
 multidimensional,ILMARI,f
+my::autodie,SHAY,f
 myItem,DJERIUS,f
 mySOAP::Client,DYACOB,f
 myServiceGroup,EKAWAS,f

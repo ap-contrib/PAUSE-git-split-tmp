@@ -36,6 +36,7 @@ Some::Class,DOY,c
 Some::Class,FLORA,c
 Some::Class,NUFFIN,f
 Some::Handler1,PIERS,f
+Some::Module,SHAY,f
 Some::Other::Role,DOY,c
 Some::Other::Role,FLORA,c
 Some::Other::Role,NUFFIN,f

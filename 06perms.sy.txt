@@ -1233,6 +1233,7 @@ TAP::Harness::JUnit::Parser,LKUNDRAK,f
 TAP::Harness::Remote,ALEXMV,f
 TAP::Harness::Remote::EC2,ALEXMV,f
 TAP::Harness::ReportByDescription,JKEENAN,f
+TAP::Harness::TestSubclass,SHAY,f
 TAP::Object,ANDYA,f
 TAP::Object,OVID,c
 TAP::Parser,ANDYA,f
@@ -1314,6 +1315,7 @@ TAP::Parser::SourceHandler::Worker::PBS,LSF,f
 TAP::Parser::SourceHandler::Worker::SSH,LSF,f
 TAP::Parser::SourceHandler::pgTAP,ANDYA,c
 TAP::Parser::SourceHandler::pgTAP,DWHEELER,f
+TAP::Parser::SubclassTest,SHAY,f
 TAP::Parser::Utils,ANDYA,f
 TAP::Parser::Utils,OVID,c
 TAP::Parser::YAML,ANDYA,f

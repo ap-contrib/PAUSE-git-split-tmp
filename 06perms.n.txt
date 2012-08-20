@@ -104,6 +104,8 @@ No::Worries::PidFile,LCONS,f
 No::Worries::Proc,LCONS,f
 No::Worries::Syslog,LCONS,f
 No::Worries::Warn,LCONS,f
+NoExporter,SHAY,f
+NoFork,SHAY,f
 NoInlineAccessor,SCHWIGON,f
 NoSuchGI_,JONJ,c
 NoSuchGI_,KMACLEOD,f
@@ -128,6 +130,7 @@ Norma::ORM::Table,DCHESTER,f
 Normalize,KAKADU,f
 Normalize::Text::Music_Fields,ILYAZ,f
 NotModule2,PJCJ,f
+NotX,SHAY,f
 Notes::Acl,CCLOUTIER,f
 Notes::AclEntry,CCLOUTIER,f
 Notes::Database,CCLOUTIER,f

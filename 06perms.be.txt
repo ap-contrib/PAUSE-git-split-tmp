@@ -385,6 +385,8 @@ Biblio::Thesaurus::SQLite,ROOT,f
 Biblio::Util,PTANDLER,f
 Biblio::WebPortal,AMBS,f
 Biff,AWIN,f
+Big::Dummy,SHAY,f
+Big::Liar,SHAY,f
 BigBrother::Object,DONSHANK,f
 BigBrother::Object::Downtime,DONSHANK,f
 BigIP::ParseConfig,SSCHNEID,m

@@ -1225,6 +1225,7 @@ Wily::Connect,SHOLDEN,f
 Wily::Message,SHOLDEN,f
 Wily::RPC,SHOLDEN,f
 Wily::Win,SHOLDEN,f
+Win3,SHAY,f
 Win32,JDB,f
 Win32::AD::Constant,AKR,f
 Win32::AD::Control::DirSync,AKR,m

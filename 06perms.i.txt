@@ -224,6 +224,7 @@ Import::Into,MSTROUT,f
 ImportAllFoos,PFISCHER,f
 ImportTest,DCONWAY,f
 In::Korean::Numbers::SinoKorean,BRYAN,f
+InPod,SHAY,f
 InSilicoSpectro,ALEXMASS,f
 InSilicoSpectro::Databanks,ALEXMASS,f
 InSilicoSpectro::Databanks::DBEntry,ALEXMASS,f
@@ -268,6 +269,7 @@ IncPatch::UI,SARTAK,f
 IncSub,PJCJ,f
 Include,GBARR,m
 IncludePaths,MDUPONT,f
+IncludeTester,SHAY,f
 IncomeTax::IND,MANWAR,m
 IncomeTax::UK,MANWAR,m
 IncrVar,PERRAD,f

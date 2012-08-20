@@ -691,6 +691,7 @@ Digest::DJB,TNGUYEN,f
 Digest::DMAC,JCDUQUE,m
 Digest::Directory::API,MGREAM,f
 Digest::Directory::BASE,MGREAM,f
+Digest::Dummy,SHAY,f
 Digest::ECHO,GRAY,f
 Digest::ED2K,BHERWEYER,f
 Digest::EMAC,JCDUQUE,m
@@ -1845,6 +1846,7 @@ Dist::Zooky::License,BINGOS,f
 Dist::Zooky::Role::Core,BINGOS,f
 Dist::Zooky::Role::DistIni,BINGOS,f
 Dist::Zooky::Role::Meta,BINGOS,f
+DistGen,SHAY,f
 Distributed::Process,CBOUVI,f
 Distributed::Process::BaseWorker,CBOUVI,f
 Distributed::Process::Client,CBOUVI,f

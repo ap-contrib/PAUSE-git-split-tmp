@@ -452,6 +452,7 @@ PrimaX::InputHistory::Output::Null,DCMERTENS,f
 PrimaX::InputHistory::Output::StdOut,DCMERTENS,f
 PrimeTime::Report,YORKWU,m
 Primeval,ASG,f
+PrimitiveCapture,SHAY,f
 Print::Printcap,MILSO,f
 Printer,SRPATT,f
 Printer::EVOLIS,DPAVLIN,f

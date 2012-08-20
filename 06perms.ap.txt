@@ -575,6 +575,8 @@ App::Prove::Plugin::Cluster,BRUMMETT,f
 App::Prove::Plugin::ClusterLSF,BRUMMETT,f
 App::Prove::Plugin::ClusterSlave,BRUMMETT,f
 App::Prove::Plugin::Distributed,LSF,f
+App::Prove::Plugin::Dummy,SHAY,f
+App::Prove::Plugin::Dummy2,SHAY,f
 App::Prove::Plugin::HTML,SPURKIS,f
 App::Prove::Plugin::Idempotent,SCHWIGON,f
 App::Prove::Plugin::SetEnv,ILMARI,f

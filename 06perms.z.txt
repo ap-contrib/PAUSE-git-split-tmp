@@ -580,7 +580,13 @@ autodie::exception::system,PJF,f
 autodie::exception::system,TODDR,c
 autodie::hints,PJF,f
 autodie::hints,TODDR,c
+autodie::hints::provider,SHAY,f
+autodie::test::au,SHAY,f
+autodie::test::au::exception,SHAY,f
+autodie::test::badname,SHAY,f
+autodie::test::missing,SHAY,f
 autodie::variables,LEONT,f
+autodie_test_module,SHAY,f
 autodynaload,PATL,f
 autoload,LDS,f
 autolocale,HIDEAKIO,f

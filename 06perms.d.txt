@@ -482,6 +482,8 @@ Dumbbench::Instance::PerlSub,SMUELLER,f
 Dumbbench::Result,SMUELLER,f
 Dumbbench::Stats,SMUELLER,f
 Dummy,PERRAD,f
+Dummy::InlineChild,SHAY,f
+Dummy::Outside,SHAY,f
 DummySerializer,JSWARTZ,f
 Dump,PFEIFFER,f
 DumpMatch,SCHWIGON,f

@@ -650,6 +650,11 @@ Tribunais::TJES,EDUARDOW,m
 Tribunais::TRTES,EDUARDOW,m
 Tridion::BusinessConnector,TJC,f
 Trigger,SUZUKI,f
+TriggerTest::Plugin::After,SHAY,f
+TriggerTest::Plugin::CallbackAllow,SHAY,f
+TriggerTest::Plugin::CallbackDeny,SHAY,f
+TriggerTest::Plugin::Deny,SHAY,f
+TriggerTest::Plugin::Error,SHAY,f
 Triggermail,DYEE,c
 Triggermail,FINN,c
 Triggermail,SGERSTEN,m

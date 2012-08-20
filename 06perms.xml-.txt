@@ -701,6 +701,7 @@ XS::Object::Magic,NUFFIN,f
 XS::Object::Magic::Install::Files,DOY,c
 XS::Object::Magic::Install::Files,FLORA,c
 XS::Object::Magic::Install::Files,NUFFIN,f
+XS::Test,SHAY,f
 XS::Typemap,DAPM,c
 XS::Typemap,FLORA,c
 XS::Typemap,JESSE,c
@@ -718,6 +719,8 @@ XSLoader,SAPER,c
 XSP,MBARBON,f
 XSTEST::RPCB1,DMR,f
 XSTEST::XS1,DMR,f
+XSTest,SHAY,f
+XSUsage,SHAY,f
 XS_C_Visitor,PERRAD,f
 XS_CstubVisitor,PERRAD,f
 XS_PerlStubVisitor,PERRAD,f

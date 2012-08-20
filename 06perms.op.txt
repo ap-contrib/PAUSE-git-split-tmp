@@ -614,6 +614,7 @@ Osgood::Server::Schema,DIZ,c
 Osgood::Server::Schema,GPHAT,f
 Osgood::Server::View::REST,DIZ,c
 Osgood::Server::View::REST,GPHAT,f
+OtherTypes,SHAY,f
 Ouch,RIZEN,f
 OurCal,SIMONW,f
 OurCal::Config,SIMONW,f

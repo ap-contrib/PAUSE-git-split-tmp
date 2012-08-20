@@ -255,6 +255,7 @@ Military::STRP,SOFTDIA,f
 Military::SUM,SOFTDIA,f
 Military::SVD,SOFTDIA,f
 Military::VDD,SOFTDIA,f
+Min::PerlVers,SHAY,f
 Mindcal,MSCHILLI,f
 Minecraft::RCON,DEMMY,m
 MiniPAN,LEV,f
@@ -1257,6 +1258,7 @@ Module::CoreList,KANE,f
 Module::CoreList,RCLAMP,c
 Module::CoreList,RGARCIA,c
 Module::CoreList::DBSchema,BINGOS,f
+Module::CoreList::TieHashDelta,SHAY,f
 Module::Crypt,AAR,f
 Module::CryptSource,AUDREYT,f
 Module::CryptSource,AUTRIJUS,c

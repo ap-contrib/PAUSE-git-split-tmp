@@ -20,6 +20,7 @@ MusicRoom::Zone,SJHAWTIN,f
 Music_Normalize_Fields,ILYAZ,f
 Music_Translate_Fields,ILYAZ,f
 Musicgene,AJGOUGH,f
+MustBe::Loaded,SHAY,f
 Mutt::Addressbook,ANBON,f
 Mutt::Addressbook::Record,ANBON,f
 Mvalve,CODEREPOS,c
@@ -339,6 +340,7 @@ MyConText::URL,JANPAZ,f
 MyConfig,PIERS,f
 MyConfigDump,ICC,f
 MyConsumerClass,JBEVERLY,f
+MyCustom,SHAY,f
 MyCustomButton,EILARA,f
 MyCustomButtonBox,EILARA,f
 MyDB::Schema,PMOONEY,f
@@ -471,6 +473,8 @@ MyExampleData,MARKOV,f
 MyExporter,SCHWIGON,f
 MyFake,GENEHACK,f
 MyFeatureFileLoader,LDS,f
+MyFileSourceHandler,SHAY,f
+MyGrammar,SHAY,f
 MyHTML,CKONG,f
 MyHandler,JONJ,c
 MyHandler,KMACLEOD,f
@@ -560,12 +564,15 @@ MyParser,AUTRIJUS,c
 MyParser,JESSE,c
 MyParser,NUFFIN,c
 MyPassword,CHISEL,f
+MyPerlSourceHandler,SHAY,f
 MyPermissionFactory,AWKAY,f
 MyPktRouter,PIERS,f
 MyPktUser,PIERS,f
 MyPlugin::XMLSupport,ASKSH,c
 MyPodHtml,GAAS,f
 MyPodXhtml,ISHIGAKI,f
+MyResult,SHAY,f
+MyResultFactory,SHAY,f
 MySAXHandler,XERXES,f
 MySAX_Breadcrumbs,ASCOPE,f
 MySAX_Image,ASCOPE,f
@@ -629,6 +636,7 @@ MySessionStart,PIERS,f
 MySimpleElement,BAERGAJ,f
 MySimpleListType,BAERGAJ,f
 MySimpleType,BAERGAJ,f
+MySourceHandler,SHAY,f
 MySpam,MLAWREN,f
 MySpam::Email,MLAWREN,f
 MyStamp,PIERS,f
@@ -778,6 +786,7 @@ MyTestElement2,BAERGAJ,f
 MyTestModule,JESSE,f
 MyTestModule,LBROCARD,c
 MyTestModule,RJBS,c
+MyTestModule2,SHAY,f
 MyTheme,CKONG,f
 MyTimer,JMOORE,c
 MyTimer,SZABGAB,c
@@ -1123,6 +1132,7 @@ NNML::Handle,ULPFR,f
 NNML::Server,ULPFR,m
 NNTP::Server,JOEHIL,m
 NNet,YKOSTYLEV,f
+NOP,SHAY,f
 NOTEDB,TLINDEN,f
 NOTEDB::binary,TLINDEN,f
 NOTEDB::dbm,TLINDEN,f

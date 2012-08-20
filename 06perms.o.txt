@@ -526,6 +526,8 @@ public,MSCHWERN,f
 pugs,AUDREYT,f
 pugs,AUTRIJUS,c
 pugs,JESSE,c
+pujHa::ghach,SHAY,f
+pujHa::ghach::Dotlh,SHAY,f
 punctuation,MJD,f
 qn,JRM,f
 qooxdooserver,MBP,f

@@ -398,6 +398,7 @@ Return::Value,RJBS,c
 ReturnDir,LTOETSCH,f
 ReturnDir,PARROTRE,c
 ReturnES,PERRAD,f
+ReturnsFalse,SHAY,f
 Reuters::SSL,CBARKEY,f
 RevML::Doctype,RBS,f
 RevML::Doctype::v0_26,RBS,f
