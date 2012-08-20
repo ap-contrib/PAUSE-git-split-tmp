@@ -65,6 +65,7 @@ Devel::Trepan::CmdProcessor::Command::Info::Breakpoints,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Files,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Frame,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Functions,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Info::Line,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Macros,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Program,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Return,ROCKY,f
@@ -89,6 +90,9 @@ Devel::Trepan::CmdProcessor::Command::Set::Auto::List,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Basename,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Confirm,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Different,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Display,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Display::COP,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Display::Eval,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::EvalDisplay,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Highlight,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Max,ROCKY,f
@@ -107,12 +111,16 @@ Devel::Trepan::CmdProcessor::Command::Shell,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Abbrev,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Aliases,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Args,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Auto,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Auto::Eval,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Auto::List,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Basename,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Confirm,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Different,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Display,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Display::COP,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Display::Eval,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::EvalDisplay,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Highlight,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Interactive,ROCKY,f
