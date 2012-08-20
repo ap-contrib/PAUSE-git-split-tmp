@@ -267,7 +267,7 @@ Proc::Parallel::Unreliable::Input undef  M/MU/MUIR/modules/Proc-Parallel-0.601.t
 Proc::ParallelLoop                  0.5  B/BD/BDARRAH/Proc-ParallelLoop-0.5.tgz
 Proc::PID::File                    1.27  E/EC/ECALDER/Proc-PID-File-1.27.tar.gz
 Proc::PID::File::Fcntl             1.01  J/JG/JGMYERS/Proc-PID-File-Fcntl-1.01.tar.gz
-Proc::PidChange                   0.001  M/ME/MELO/Proc-PidChange-0.001.tar.gz
+Proc::PidChange                   0.002  M/ME/MELO/Proc-PidChange-0.002.tar.gz
 Proc::Pidfile                     1.005  A/AW/AWRIGLEY/Proc-Pidfile-1.005.tar.gz
 Proc::PidFile::Info               undef  K/KI/KIXX/Proc-PidFile-Info-0.02.tar.gz
 Proc::PidUtil                      0.08  M/MI/MIKER/Proc-PidUtil-0.08.tar.gz

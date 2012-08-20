@@ -130,6 +130,8 @@ Plack::App::DAIA::Test::Suite,VOJ,f
 Plack::App::DAIA::Validator,VOJ,f
 Plack::App::DAV,DANJOU,f
 Plack::App::Directory,MIYAGAWA,f
+Plack::App::Directory::Markdown,SONGMU,f
+Plack::App::Directory::Markdown::Static,SONGMU,f
 Plack::App::Directory::Xslate,KARUPA,f
 Plack::App::FCGIDispatcher,MIYAGAWA,f
 Plack::App::FakeApache,PMAKHOLM,f
