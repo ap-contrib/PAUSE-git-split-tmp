@@ -779,7 +779,7 @@ Tie::StorableDir::BackedScalar    undef  B/BD/BDONLAN/Tie-StorableDir-0.075.tar.
 Tie::StorableDir::Slot            undef  B/BD/BDONLAN/Tie-StorableDir-0.075.tar.gz
 Tie::StoredOrderHash               0.22  T/TF/TFM/Tie-StoredOrderHash-0.22.tar.gz
 Tie::StrictHash                     1.0  K/KV/KVAIL/Tie-StrictHash-1.0.tar.gz
-Tie::Sub                          1.000  S/ST/STEFFENW/Tie-Sub-1.000.tar.gz
+Tie::Sub                          1.001  S/ST/STEFFENW/Tie-Sub-1.001.tar.gz
 Tie::SubstrHash                    1.00  F/FL/FLORA/perl-5.15.4.tar.gz
 Tie::SymlinkTree                    1.1  J/JW/JWALT/Tie-SymlinkTree-1.1.tar.gz
 Tie::SymlinkTree::Array             1.1  J/JW/JWALT/Tie-SymlinkTree-1.1.tar.gz
