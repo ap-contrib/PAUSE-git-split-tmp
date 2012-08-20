@@ -458,6 +458,7 @@ Perl::Critic::Policy,THALJEF,c
 Perl::Critic::Policy,WYANT,c
 Perl::Critic::Policy::Bangs::ProhibitBitwiseOperators,PETDANCE,f
 Perl::Critic::Policy::Bangs::ProhibitCommentedOutCode,PETDANCE,f
+Perl::Critic::Policy::Bangs::ProhibitDebuggingModules,PETDANCE,f
 Perl::Critic::Policy::Bangs::ProhibitFlagComments,PETDANCE,f
 Perl::Critic::Policy::Bangs::ProhibitNoPlan,PETDANCE,f
 Perl::Critic::Policy::Bangs::ProhibitNumberedNames,PETDANCE,f
