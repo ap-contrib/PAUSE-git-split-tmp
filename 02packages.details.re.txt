@@ -140,7 +140,7 @@ Regexp::Keywords                   0.03  V/VI/VITOCO/Regexp-Keywords-0.03.tar.gz
 Regexp::List                       0.13  D/DA/DANKOGAI/Regexp-Optimizer-0.15.tar.gz
 Regexp::Log                        0.06  B/BO/BOOK/Regexp-Log-0.06.tar.gz
 Regexp::Log::BlueCoat              0.03  B/BO/BOOK/Regexp-Log-BlueCoat-0.03.tar.gz
-Regexp::Log::Common                0.06  B/BA/BARBIE/Regexp-Log-Common-0.06.tar.gz
+Regexp::Log::Common                0.07  B/BA/BARBIE/Regexp-Log-Common-0.07.tar.gz
 Regexp::Log::DateRange             0.02  K/KA/KARASIK/Regexp-Log-DateRange-0.02.tar.gz
 Regexp::Log::Helix                 1.04  M/MO/MODULO/Regexp-Log-Helix/Regexp-Log-Helix-1.04.tar.gz
 Regexp::Log::Monster               0.04  M/MS/MSIMERSON/Apache-Logmonster-3.05.tar.gz
