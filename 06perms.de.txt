@@ -1436,6 +1436,7 @@ Dist::Zilla::Plugin::PickyPodWeaver,OLIVER,f
 Dist::Zilla::Plugin::Pinto::Add,THALJEF,f
 Dist::Zilla::Plugin::PkgDist,RJBS,f
 Dist::Zilla::Plugin::PkgVersion,RJBS,f
+Dist::Zilla::Plugin::PkgVersionIfModuleWithPod,JSWARTZ,f
 Dist::Zilla::Plugin::Pod2Html,TULSOFT,f
 Dist::Zilla::Plugin::PodCoverageTests,RJBS,f
 Dist::Zilla::Plugin::PodLinkTests,RWSTAUNER,f
