@@ -935,7 +935,6 @@ Text::EtText::HTML2EtText         undef  J/JM/JMASON/Text-EtText-2.2.tar.gz
 Text::EtText::LinkGlossary        undef  J/JM/JMASON/Text-EtText-2.2.tar.gz
 Text::EtText::Lists               undef  J/JM/JMASON/Text-EtText-2.2.tar.gz
 Text::Extract::MaketextCallPhrases  0.2  D/DM/DMUEY/Text-Extract-MaketextCallPhrases-0.2.tar.gz
-Text::Extract::Stuff               0.03  M/MC/MCANTONI/Text-Extract-Stuff-0.01.tar.gz
 Text::Extract::Word                0.02  S/SN/SNKWATT/Text-Extract-Word-0.04.tar.gz
 Text::ExtractWords                 0.08  H/HD/HDIAS/Text-ExtractWords-0.08.tar.gz
 Text::FakeXML                      0.02  J/JV/JV/Text-FakeXML-0.02.tar.gz
