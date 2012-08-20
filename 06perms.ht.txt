@@ -662,6 +662,7 @@ HTML::FormHandlerX::Field::URI::HTTP,ROMANF,f
 HTML::FormHandlerX::Field::reCAPTCHA,JJNAPIORK,f
 HTML::FormHandlerX::Field::reCAPTCHA,PHAYLON,c
 HTML::FormHandlerX::Form::Contact,CAGAO,m
+HTML::FormHandlerX::Form::JQueryValidator,TEEJAY,f
 HTML::FormHandlerX::Form::Login,CAGAO,m
 HTML::FormHandlerX::Widget::Field::reCAPTCHA,JJNAPIORK,f
 HTML::FormHandlerX::Widget::Field::reCAPTCHA,PHAYLON,c
