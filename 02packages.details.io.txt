@@ -543,7 +543,7 @@ IPC::Run3::Simple                 0.011  A/AY/AYOUNG/IPC-Run3-Simple-0.011.tar.g
 IPC::Run::Debug                    0.90  T/TO/TODDR/IPC-Run-0.91.tar.gz
 IPC::Run::Fused                0.01028806  K/KE/KENTNL/IPC-Run-Fused-0.01028806.tar.gz
 IPC::Run::IO                       0.90  T/TO/TODDR/IPC-Run-0.91.tar.gz
-IPC::Run::SafeHandles              0.02  C/CL/CLKAO/IPC-Run-SafeHandles-0.02.tar.gz
+IPC::Run::SafeHandles              0.03  C/CL/CLKAO/IPC-Run-SafeHandles-0.03.tar.gz
 IPC::Run::Simple                    1.2  S/SF/SFINK/IPC-Run-Simple-1.2.tar.gz
 IPC::Run::Timer                    0.90  T/TO/TODDR/IPC-Run-0.91.tar.gz
 IPC::Run::Win32Helper              0.90  T/TO/TODDR/IPC-Run-0.91.tar.gz
