@@ -147,6 +147,7 @@ App::Serializer::XMLSimple,SPADKINS,f
 App::Serializer::Xml,SPADKINS,f
 App::Serializer::Yaml,SPADKINS,f
 App::Service,SPADKINS,f
+App::Services,SBLANTON,m
 App::Session,SPADKINS,f
 App::Session::Cookie,SPADKINS,f
 App::Session::HTMLHidden,SPADKINS,f

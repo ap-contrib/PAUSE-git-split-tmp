@@ -325,6 +325,7 @@ App::Open::Backend::MailCap,ERIKH,f
 App::Open::Backend::YAML,ERIKH,f
 App::Open::Config,ERIKH,f
 App::OpenVZ::BCWatch,SCHUBIGER,f
+App::Openmake,SBLANTON,m
 App::Options,SPADKINS,m
 App::OrgUtils,SHARYANTO,f
 App::PAUSE::cleanup,ROKR,f
