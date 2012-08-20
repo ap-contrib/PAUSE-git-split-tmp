@@ -148,6 +148,7 @@ MooseX::Declare::Context::WithOptions,ETHER,c
 MooseX::Declare::Context::WithOptions,FLORA,f
 MooseX::Declare::Context::WithOptions,GPHAT,c
 MooseX::Declare::Context::WithOptions,ILMARI,c
+MooseX::Declare::Context::WithOptions::Patch::Extensible,TOBYINK,f
 MooseX::Declare::StackItem,ARCANEZ,c
 MooseX::Declare::StackItem,ASH,c
 MooseX::Declare::StackItem,AUGGY,c
