@@ -1549,7 +1549,8 @@ Crypt::PWSafe3::SHA256,TLINDEN,f
 Crypt::PassGen,TJENNESS,m
 Crypt::Passwd,LUISMUNOZ,m
 Crypt::Passwd::UnixMD5,LUISMUNOZ,f
-Crypt::Passwd::XS,LIGHTSEY,f
+Crypt::Passwd::XS,CPANEL,f
+Crypt::Passwd::XS,LIGHTSEY,c
 Crypt::PasswdMD5,LUISMUNOZ,m
 Crypt::Password,DRSTEVE,m
 Crypt::PerfectPaperPasswords,ANDYA,f
