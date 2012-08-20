@@ -152,7 +152,7 @@ CPAN::Patches                      0.04  J/JK/JKUTEJ/CPAN-Patches-0.04.tar.gz
 CPAN::Patches::Plugin::Debian      0.03  J/JK/JKUTEJ/CPAN-Patches-Plugin-Debian-0.03.tar.gz
 CPAN::Patches::Plugin::Debian::SPc 0.03  J/JK/JKUTEJ/CPAN-Patches-Plugin-Debian-0.03.tar.gz
 CPAN::Patches::SPc                 0.04  J/JK/JKUTEJ/CPAN-Patches-0.04.tar.gz
-CPAN::Perl::Releases               0.66  B/BI/BINGOS/CPAN-Perl-Releases-0.66.tar.gz
+CPAN::Perl::Releases               0.68  B/BI/BINGOS/CPAN-Perl-Releases-0.68.tar.gz
 CPAN::Porters                      0.03  S/SZ/SZABGAB/CPAN-Porters-0.03.tar.gz
 CPAN::Prompt                        5.5  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Queue                      5.5001  A/AN/ANDK/CPAN-1.9800.tar.gz
