@@ -556,6 +556,7 @@ Proc::Parallel::Unreliable,MUIR,f
 Proc::Parallel::Unreliable::Child,MUIR,f
 Proc::Parallel::Unreliable::Input,MUIR,f
 Proc::ParallelLoop,BDARRAH,m
+Proc::PidChange,MELO,f
 Proc::PidFile::Info,KIXX,f
 Proc::PidUtil,MIKER,f
 Proc::Pidfile,AWRIGLEY,f
