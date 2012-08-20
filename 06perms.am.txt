@@ -13,6 +13,7 @@ Amon2::Plugin::Web::WebSocket,TOKUHIROM,f
 Amon2::Setup::Asset::Blueprint,TOKUHIROM,f
 Amon2::Setup::Asset::Bootstrap,TOKUHIROM,f
 Amon2::Setup::Asset::ES5Shim,TOKUHIROM,f
+Amon2::Setup::Asset::MicroLocationJS,TOKUHIROM,f
 Amon2::Setup::Asset::MicroTemplateJS,TOKUHIROM,f
 Amon2::Setup::Asset::SprintfJS,TOKUHIROM,f
 Amon2::Setup::Asset::StrftimeJS,TOKUHIROM,f
