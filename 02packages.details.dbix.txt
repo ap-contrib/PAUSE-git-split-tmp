@@ -389,7 +389,7 @@ DDLock::Server::Client            undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
 DDLock::Server::Client::DBI       undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
 DDLock::Server::Client::DLMFS     undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
 DDLock::Server::Client::Internal  undef  H/HA/HACHI/DDLock-Server-0.51.tar.gz
-DDP                               undef  G/GA/GARU/Data-Printer-0.32.tar.gz
+DDP                               undef  G/GA/GARU/Data-Printer-0.33.tar.gz
 Dead                              undef  K/KH/KHAMPTON/RDF-Helper-0.21.tar.gz
 DebCnt                                0  K/KE/KEICHNER/XML-Reader-0.49.tar.gz
 Debian::Apt::PM                    0.08  J/JK/JKUTEJ/Debian-Apt-PM-0.08.tar.gz
