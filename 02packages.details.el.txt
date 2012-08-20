@@ -46,7 +46,7 @@ Emacs::Run::ExtractDocs            0.03  D/DO/DOOM/Emacs-Run-ExtractDocs-0.03.ta
 Emacs::SIG                         1.02  J/JT/JTOBEY/Emacs-EPL-0.7.tar.gz
 Emacs::Stream                      1.02  J/JT/JTOBEY/Emacs-EPL-0.7.tar.gz
 Email::Abstract                   3.004  R/RJ/RJBS/Email-Abstract-3.004.tar.gz
-Email::Abstract::Courriel          0.29  D/DR/DROLSKY/Courriel-0.29.tar.gz
+Email::Abstract::Courriel          0.30  D/DR/DROLSKY/Courriel-0.30.tar.gz
 Email::Abstract::EMailAcme         1505  R/RJ/RJBS/E-Mail-Acme-1505.tar.gz
 Email::Abstract::EmailMIME        undef  R/RJ/RJBS/Email-Abstract-3.004.tar.gz
 Email::Abstract::EmailSimple      undef  R/RJ/RJBS/Email-Abstract-3.004.tar.gz
