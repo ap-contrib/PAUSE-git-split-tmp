@@ -99,7 +99,6 @@ DynGig::Util::Time                undef  K/KA/KAN/DynGig-Util-1.02.tar.gz
 dynload                           undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
 Dyns::Client                        0.6  J/JO/JOHANVDB/Dyns-Client-0.6.tar.gz
 DynScalar                          1.02  P/PI/PINYAN/DynScalar-1.02.tar.gz
-DZT::Sample                       undef  R/RJ/RJBS/Dist-Zilla-4.300007.tar.gz
 E2                                undef  P/PJ/PJCJ/Devel-Cover-0.72.tar.gz
 E2::ClientVersion                  0.31  J/JO/JOSEWEEKS/E2-Interface-0.34.tar.gz
 E2::E2Node                         0.33  J/JO/JOSEWEEKS/E2-Interface-0.34.tar.gz
