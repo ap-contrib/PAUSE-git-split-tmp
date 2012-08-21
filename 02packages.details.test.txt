@@ -816,7 +816,7 @@ Text::CSV_Multiline                0.01  J/JA/JASLONG/Text-CSV_Multiline-0.02.ta
 Text::CSV_PP                       1.29  M/MA/MAKAMAKA/Text-CSV-1.21.tar.gz
 Text::CSV_PP::Iterator             1.03  R/RS/RSAVAGE/Text-CSV_PP-Iterator-1.03.tgz
 Text::CSV_PP::Simple           0.000005  C/CO/COHTAN/Text-CSV_PP-Simple-0.0.5.tar.gz
-Text::CSV_XS                       0.90  H/HM/HMBRAND/Text-CSV_XS-0.90.tgz
+Text::CSV_XS                       0.91  H/HM/HMBRAND/Text-CSV_XS-0.91.tgz
 Text::Darts                        0.09  D/DA/DANKOGAI/Text-Darts-0.09.tar.gz
 Text::DAWG                        0.001  B/BL/BLGL/Text-DAWG-0.001.tar.gz
 Text::Decorator                    1.65  T/TM/TMTM/Text-Decorator-1.65.tar.gz
