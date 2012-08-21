@@ -1258,7 +1258,8 @@ Module::CoreList,KANE,f
 Module::CoreList,RCLAMP,c
 Module::CoreList,RGARCIA,c
 Module::CoreList::DBSchema,BINGOS,f
-Module::CoreList::TieHashDelta,SHAY,f
+Module::CoreList::TieHashDelta,BINGOS,f
+Module::CoreList::TieHashDelta,SHAY,c
 Module::Crypt,AAR,f
 Module::CryptSource,AUDREYT,f
 Module::CryptSource,AUTRIJUS,c

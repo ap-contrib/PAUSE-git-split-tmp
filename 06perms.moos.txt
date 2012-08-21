@@ -355,6 +355,7 @@ MooseX::Declare::Util,ETHER,c
 MooseX::Declare::Util,FLORA,f
 MooseX::Declare::Util,GPHAT,c
 MooseX::Declare::Util,ILMARI,c
+MooseX::DeclareX,TOBYINK,c
 MooseX::DeepAccessors,RATAXIS,f
 MooseX::Documenter,DSBIKE,m
 MooseX::Dumper,FAYLAND,f
