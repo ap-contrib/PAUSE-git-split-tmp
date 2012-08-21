@@ -328,7 +328,7 @@ Test::FITesque                     0.03  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
 Test::FITesque::Fixture           undef  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
 Test::FITesque::Suite             undef  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
 Test::FITesque::Test              undef  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
-Test::Fixme                        0.04  E/EV/EVDB/Test-Fixme-0.04.tar.gz
+Test::Fixme                        0.05  P/PL/PLICEASE/Test-Fixme-0.05.tar.gz
 Test::Fixture::DBI                 0.07  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.07.tar.gz
 Test::Fixture::DBI::Util           0.01  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.07.tar.gz
 Test::Fixture::DBI::Util::mysql    0.02  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.07.tar.gz
