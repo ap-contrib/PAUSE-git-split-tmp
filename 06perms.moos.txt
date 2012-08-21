@@ -594,6 +594,9 @@ MooseX::InsideOut::Role::Meta::Instance,SARTAK,c
 MooseX::InstanceTracking,SARTAK,f
 MooseX::InstanceTracking::Role::Class,SARTAK,f
 MooseX::InstanceTracking::Role::Constructor,SARTAK,f
+MooseX::Interface,TOBYINK,f
+MooseX::Interface::Trait::Method::Constant,TOBYINK,f
+MooseX::Interface::Trait::Role,TOBYINK,f
 MooseX::Iterator,RLB,f
 MooseX::Iterator::Array,RLB,f
 MooseX::Iterator::Hash,RLB,f
