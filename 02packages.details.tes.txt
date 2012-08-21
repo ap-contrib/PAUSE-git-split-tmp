@@ -79,7 +79,7 @@ Test::CleanNamespaces              0.03  F/FL/FLORA/Test-CleanNamespaces-0.03.ta
 Test::Clustericious                   0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
 Test::Cmd                          1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
 Test::Cmd::Common                  1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
-Test::Code::TidyAll                0.04  J/JS/JSWARTZ/Code-TidyAll-0.04.tar.gz
+Test::Code::TidyAll                0.05  J/JS/JSWARTZ/Code-TidyAll-0.05.tar.gz
 Test::Command                      0.08  D/DA/DANBOO/Test-Command-0.08.tar.gz
 Test::Command::Simple              0.03  D/DM/DMCBRIDE/Test-Command-Simple-0.03.tar.gz
 Test::Common                       0.07  I/IN/INGY/Test-Common-0.07.tar.gz
@@ -328,7 +328,7 @@ Test::FITesque                     0.03  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
 Test::FITesque::Fixture           undef  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
 Test::FITesque::Suite             undef  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
 Test::FITesque::Test              undef  K/KO/KONOBI/Test-FITesque-0.03.tar.gz
-Test::Fixme                        0.05  P/PL/PLICEASE/Test-Fixme-0.05.tar.gz
+Test::Fixme                        0.06  P/PL/PLICEASE/Test-Fixme-0.06.tar.gz
 Test::Fixture::DBI                 0.07  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.07.tar.gz
 Test::Fixture::DBI::Util           0.01  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.07.tar.gz
 Test::Fixture::DBI::Util::mysql    0.02  Z/ZI/ZIGOROU/Test-Fixture-DBI-0.07.tar.gz
