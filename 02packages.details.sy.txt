@@ -634,8 +634,8 @@ SystemTray::Applet::Gnome          0.02  P/PS/PSINNOTT/SystemTray-Applet-Gnome-0
 SystemTray::Applet::Win32          0.02  P/PS/PSINNOTT/SystemTray-Applet-Win32-0.02.tar.gz
 SysTray                            0.13  C/CD/CDRAKE/SysTray-0.13.tar.gz
 SysV::SharedMem                   0.006  L/LE/LEONT/SysV-SharedMem-0.006.tar.gz
-Sysync                             0.23  M/MJ/MJFLICK/Sysync-0.23.tar.gz
-Sysync::File                      undef  M/MJ/MJFLICK/Sysync-0.23.tar.gz
+Sysync                             0.24  M/MJ/MJFLICK/Sysync-0.24.tar.gz
+Sysync::File                      undef  M/MJ/MJFLICK/Sysync-0.24.tar.gz
 t1                                  123  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.20.tar.gz
 t2                                  123  B/BO/BOBTFISH/Catalyst-Plugin-Session-0.20.tar.gz
 T2                                 0.10  S/SA/SAMV/T2-0.10.tar.gz
