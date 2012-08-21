@@ -463,7 +463,7 @@ Audio::RaveMPDaemon                0.01  D/DO/DOUGM/Audio-RaveMP-0.04.tar.gz
 Audio::RaveMPServer                0.01  D/DO/DOUGM/Audio-RaveMP-0.04.tar.gz
 Audio::RaveMPSlotRemote           undef  D/DO/DOUGM/Audio-RaveMP-0.04.tar.gz
 Audio::Resonator                  undef  N/NI/NI-S/Audio-1.029.tar.gz
-Audio::RPLD                       0.004  S/ST/STEPHANJ/Audio-RPLD-0.004.tar.gz
+Audio::RPLD                       0.005  S/ST/STEPHANJ/Audio-RPLD-0.005.tar.gz
 Audio::Scan                        0.93  A/AG/AGRUNDMA/Audio-Scan-0.93.tar.gz
 Audio::ScratchLive                 0.04  C/CA/CAPOEIRAB/Audio-ScratchLive-0.04.tar.gz
 Audio::ScratchLive::Constants      0.03  C/CA/CAPOEIRAB/Audio-ScratchLive-0.04.tar.gz
