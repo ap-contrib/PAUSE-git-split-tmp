@@ -1380,7 +1380,7 @@ DBD::Ovrimos::db                   0.11  D/DS/DSOUFLIS/DBD-Ovrimos-0.12.tgz
 DBD::Ovrimos::dr                   0.11  D/DS/DSOUFLIS/DBD-Ovrimos-0.12.tgz
 DBD::Ovrimos::lowlevel             0.11  D/DS/DSOUFLIS/DBD-Ovrimos-0.12.tgz
 DBD::Ovrimos::st                   0.11  D/DS/DSOUFLIS/DBD-Ovrimos-0.12.tgz
-DBD::Pg                          2.19.2  T/TU/TURNSTEP/DBD-Pg-2.19.2.tar.gz
+DBD::Pg                          2.19.3  T/TU/TURNSTEP/DBD-Pg-2.19.3.tar.gz
 DBD::PgLite                        0.11  G/GR/GRUBER/DBD-PgLite-0.11.tar.gz
 DBD::PgLite::Aggregate::avg        0.11  G/GR/GRUBER/DBD-PgLite-0.11.tar.gz
 DBD::PgLite::db                    0.11  G/GR/GRUBER/DBD-PgLite-0.11.tar.gz
