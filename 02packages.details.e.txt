@@ -229,7 +229,6 @@ EntityModel::Async                0.017  T/TE/TEAM/EntityModel-0.017.tar.gz
 EntityModel::BaseClass            0.011  T/TE/TEAM/EntityModel-Class-0.011.tar.gz
 EntityModel::Cache                0.017  T/TE/TEAM/EntityModel-0.017.tar.gz
 EntityModel::Cache::Memcached::Async 0.001  T/TE/TEAM/EntityModel-Cache-Memcached-Async-0.001.tar.gz
-EntityModel::Cache::MemcachedFast 0.012  T/TE/TEAM/EntityModel-0.012.tar.gz
 EntityModel::Cache::Perl          0.017  T/TE/TEAM/EntityModel-0.017.tar.gz
 EntityModel::Class                0.011  T/TE/TEAM/EntityModel-Class-0.011.tar.gz
 EntityModel::Class::Accessor      0.011  T/TE/TEAM/EntityModel-Class-0.011.tar.gz
