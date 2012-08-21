@@ -896,7 +896,7 @@ BSD::Process                       0.06  D/DL/DLAND/BSD-Process-0.06.tar.gz
 BSD::Process::Affinity             0.04  R/RA/RANDIR/BSD-Process-Affinity-0.04.tar.gz
 BSD::Resource                    1.2904  J/JH/JHI/BSD-Resource-1.2904.tar.gz
 BSD::Socket::Splice                0.04  B/BL/BLUHM/BSD-Socket-Splice-0.04.tar.gz
-BSD::stat                          1.31  D/DA/DANKOGAI/BSD-stat-1.31.tar.gz
+BSD::stat                          1.33  D/DA/DANKOGAI/BSD-stat-1.33.tar.gz
 BSD::Sysctl                        0.10  D/DL/DLAND/BSD-Sysctl-0.10.tar.gz
 BSON                               0.11  M/MI/MINIMAL/BSON-0.11.tar.gz
 BSON::Binary                      undef  M/MI/MINIMAL/BSON-0.11.tar.gz
