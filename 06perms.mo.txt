@@ -1476,6 +1476,8 @@ Moose::Util::TypeConstraints::OptimizedConstraints,STEVAN,f
 MooseX::ABC,DOY,f
 MooseX::ABC::Role::Object,DOY,f
 MooseX::ABC::Trait::Class,DOY,f
+MooseX::ABCD,TOBYINK,f
+MooseX::ABCD::Trait::Class,TOBYINK,f
 MooseX::APIRole,JROCKWAY,f
 MooseX::APIRole::Internals,JROCKWAY,f
 MooseX::APIRole::Meta,JROCKWAY,f

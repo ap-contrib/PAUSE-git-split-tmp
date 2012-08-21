@@ -430,6 +430,8 @@ Moose::Util::TypeConstraints::OptimizedConstraints 2.0004  D/DO/DOY/Moose-2.0004
 MooseX::ABC                        0.06  D/DO/DOY/MooseX-ABC-0.06.tar.gz
 MooseX::ABC::Role::Object          0.06  D/DO/DOY/MooseX-ABC-0.06.tar.gz
 MooseX::ABC::Trait::Class          0.06  D/DO/DOY/MooseX-ABC-0.06.tar.gz
+MooseX::ABCD                      0.001  T/TO/TOBYINK/MooseX-ABCD-0.001.tar.gz
+MooseX::ABCD::Trait::Class        0.001  T/TO/TOBYINK/MooseX-ABCD-0.001.tar.gz
 MooseX::AbstractFactory        0.004001  X/XE/XENO/MooseX-AbstractFactory-0.004001.tar.gz
 MooseX::AbstractFactory::Meta::Class 0.004001  X/XE/XENO/MooseX-AbstractFactory-0.004001.tar.gz
 MooseX::AbstractFactory::Role  0.004001  X/XE/XENO/MooseX-AbstractFactory-0.004001.tar.gz
