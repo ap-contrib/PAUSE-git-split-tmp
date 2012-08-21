@@ -274,7 +274,7 @@ ThreatNet::IRC::Envelope           0.20  A/AD/ADAMK/ThreatNet-0.20.tar.gz
 ThreatNet::Message                 0.20  A/AD/ADAMK/ThreatNet-0.20.tar.gz
 ThreatNet::Message::IPv4           0.20  A/AD/ADAMK/ThreatNet-0.20.tar.gz
 ThreatNet::Topic                   0.20  A/AD/ADAMK/ThreatNet-0.20.tar.gz
-Thrift::API::HiveClient           0.001  S/SS/SSCAFFIDI/Thrift-API-HiveClient-0.001.tar.gz
+Thrift::API::HiveClient           0.002  S/SS/SSCAFFIDI/Thrift-API-HiveClient-0.002.tar.gz
 Thrift::BinaryProtocol         0.006001  G/GS/GSLIN/Thrift-0.6.1.tar.gz
 Thrift::BinaryProtocolFactory  0.006001  G/GS/GSLIN/Thrift-0.6.1.tar.gz
 Thrift::BufferedTransport      0.006001  G/GS/GSLIN/Thrift-0.6.1.tar.gz
