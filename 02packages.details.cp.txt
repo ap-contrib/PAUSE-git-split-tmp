@@ -101,7 +101,7 @@ CPAN::Mini::Webserver::Templates   0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.
 CPAN::Mini::Webserver::Templates::CSS 0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.tar.gz
 CPAN::Mini::Webserver::Templates::Images 0.58  M/MI/MITHALDU/CPAN-Mini-Webserver-0.58.tar.gz
 CPAN::Mirror::Finder               0.01  L/LB/LBROCARD/CPAN-Mirror-Finder-0.01.tar.gz
-CPAN::Mirror::Server::HTTP         0.02  B/BI/BINGOS/CPAN-Mirror-Server-HTTP-0.02.tar.gz
+CPAN::Mirror::Server::HTTP         0.04  B/BI/BINGOS/CPAN-Mirror-Server-HTTP-0.04.tar.gz
 CPAN::Mirrored::By                 5.53  A/AN/ANDK/CPAN-1.9402.tar.gz
 CPAN::Mirrors                    1.9600  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::Module                     5.5001  A/AN/ANDK/CPAN-1.9800.tar.gz
