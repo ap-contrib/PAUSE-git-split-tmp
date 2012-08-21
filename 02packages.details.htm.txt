@@ -988,6 +988,8 @@ HTTP::CheckProxy                    0.4  D/DH/DHUDES/HTTP-CheckProxy-0.4.tar.gz
 HTTP::Client                       1.52  N/NE/NEILB/HTTP-Client-1.52.tar.gz
 HTTP::Client::Parallel             0.02  A/AD/ADAMK/HTTP-Client-Parallel-0.02.tar.gz
 HTTP::Config                       6.00  G/GA/GAAS/HTTP-Message-6.03.tar.gz
+HTTP::CookieMonster                0.01  O/OA/OALDERS/HTTP-CookieMonster-0.01.tar.gz
+HTTP::CookieMonster::Cookie        0.01  O/OA/OALDERS/HTTP-CookieMonster-0.01.tar.gz
 HTTP::Cookies                      6.01  G/GA/GAAS/HTTP-Cookies-6.01.tar.gz
 HTTP::Cookies::Find               1.415  M/MT/MTHURN/HTTP-Cookies-Find-1.415.tar.gz
 HTTP::Cookies::Guess               0.01  Y/YA/YAPPO/HTTP-Cookies-Guess-0.01.tar.gz
