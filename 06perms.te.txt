@@ -405,6 +405,7 @@ ThreatNet::Message,ADAMK,f
 ThreatNet::Message::IPv4,ADAMK,f
 ThreatNet::Topic,ADAMK,f
 ThreeD,ADESC,m
+Thrift::API::HiveClient,SSCAFFIDI,f
 Thrift::BinaryProtocol,GSLIN,f
 Thrift::BinaryProtocolFactory,GSLIN,f
 Thrift::BufferedTransport,GSLIN,f
