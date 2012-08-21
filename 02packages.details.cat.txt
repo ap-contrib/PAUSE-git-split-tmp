@@ -456,14 +456,14 @@ Catmandu::Importer                    0  N/NI/NICS/Catmandu-0.0301.tar.gz
 Catmandu::Importer::Atom              0  N/NI/NICS/Catmandu-0.0301.tar.gz
 Catmandu::Importer::CSV               0  N/NI/NICS/Catmandu-0.0301.tar.gz
 Catmandu::Importer::JSON              0  N/NI/NICS/Catmandu-0.0301.tar.gz
-Catmandu::Importer::LDAP              0  N/NI/NICS/Catmandu-LDAP-0.0101.tar.gz
+Catmandu::Importer::LDAP              0  N/NI/NICS/Catmandu-LDAP-0.0102.tar.gz
 Catmandu::Importer::MARC              0  N/NI/NICS/Catmandu-MARC-0.0103.tar.gz
 Catmandu::Importer::Mock              0  N/NI/NICS/Catmandu-0.0301.tar.gz
 Catmandu::Importer::OAI               0  N/NI/NICS/Catmandu-OAI-0.01.tar.gz
 Catmandu::Importer::YAML              0  N/NI/NICS/Catmandu-0.0301.tar.gz
 Catmandu::Iterable                    0  N/NI/NICS/Catmandu-0.0301.tar.gz
 Catmandu::Iterator                    0  N/NI/NICS/Catmandu-0.0301.tar.gz
-Catmandu::LDAP                   0.0101  N/NI/NICS/Catmandu-LDAP-0.0101.tar.gz
+Catmandu::LDAP                   0.0102  N/NI/NICS/Catmandu-LDAP-0.0102.tar.gz
 Catmandu::MARC                   0.0103  N/NI/NICS/Catmandu-MARC-0.0103.tar.gz
 Catmandu::OAI                      0.01  N/NI/NICS/Catmandu-OAI-0.01.tar.gz
 Catmandu::Pager                       0  N/NI/NICS/Catmandu-0.0301.tar.gz
