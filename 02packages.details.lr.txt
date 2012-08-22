@@ -310,7 +310,7 @@ LWP::Authen::Basic                undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Authen::basic                undef  G/GA/GAAS/LWPng-alpha-0.24.tar.gz
 LWP::Authen::Digest               undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Authen::digest               undef  G/GA/GAAS/LWPng-alpha-0.24.tar.gz
-LWP::Authen::Gooddata             undef  L/LK/LKUNDRAK/WWW-GoodData-1.6.tar.gz
+LWP::Authen::Gooddata             undef  L/LK/LKUNDRAK/WWW-GoodData-1.7.tar.gz
 LWP::Authen::Negotiate             0.08  A/AG/AGROLMS/LWP-Authen-Negotiate-0.08.tar.gz
 LWP::Authen::Ntlm                  6.00  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Authen::OAuth                 1.01  T/TI/TIMBRODY/LWP-Authen-OAuth-1.01.tar.gz
