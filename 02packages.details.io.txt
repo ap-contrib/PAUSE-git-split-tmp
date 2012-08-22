@@ -517,7 +517,7 @@ IPC::PerlSSH::Library::IO          0.16  P/PE/PEVANS/IPC-PerlSSH-0.16.tar.gz
 IPC::PerlSSH::Library::Run         0.16  P/PE/PEVANS/IPC-PerlSSH-0.16.tar.gz
 IPC::PidStat                      1.491  W/WS/WSNYDER/IPC-Locker-1.491.tar.gz
 IPC::PidStat::PidServer           1.491  W/WS/WSNYDER/IPC-Locker-1.491.tar.gz
-IPC::Pipeline                       0.6  C/CP/CPANEL/IPC-Pipeline-0.6.tar.gz
+IPC::Pipeline                       0.7  C/CP/CPANEL/IPC-Pipeline-0.7.tar.gz
 IPC::PubSub                        0.29  A/AL/ALEXMV/IPC-PubSub-0.29.tar.gz
 IPC::PubSub::Cache                undef  A/AL/ALEXMV/IPC-PubSub-0.29.tar.gz
 IPC::PubSub::Cache::DBM_Deep      undef  A/AL/ALEXMV/IPC-PubSub-0.29.tar.gz
