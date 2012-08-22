@@ -1000,6 +1000,9 @@ Devel::IntelliPerl::Editor         0.04  P/PE/PERLER/Devel-IntelliPerl-0.04.tar.
 Devel::IntelliPerl::Editor::TextMate 0.04  P/PE/PERLER/Devel-IntelliPerl-0.04.tar.gz
 Devel::IntelliPerl::Editor::Vim    0.04  P/PE/PERLER/Devel-IntelliPerl-0.04.tar.gz
 Devel::InterpreterSize             0.01  B/BO/BOBTFISH/Devel-InterpreterSize-0.01.tar.gz
+Devel::Kit                          0.1  D/DM/DMUEY/Devel-Kit-0.1.tar.gz
+Devel::Kit::cPanel                  0.1  D/DM/DMUEY/Devel-Kit-0.1.tar.gz
+Devel::Kit::TAP                     0.1  D/DM/DMUEY/Devel-Kit-0.1.tar.gz
 Devel::KYTProf                     0.02  O/ON/ONISHI/Devel-KYTProf-0.02.tar.gz
 Devel::Leak                        0.03  N/NI/NI-S/Devel-Leak-0.03.tar.gz
 Devel::Leak::Cb                    0.04  M/MO/MONS/Devel-Leak-Cb-0.04.tar.gz
