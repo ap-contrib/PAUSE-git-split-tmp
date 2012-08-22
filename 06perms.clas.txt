@@ -951,6 +951,7 @@ Class::groups,DOMIZIO,f
 Class::groups,SKNPP,c
 Class::new,DOMIZIO,f
 Class::new,SKNPP,c
+Class::orMapper,KAZUNORI,f
 Class::props,DOMIZIO,f
 Class::props,SKNPP,c
 Class::props::Tie,DOMIZIO,f
