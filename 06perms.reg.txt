@@ -591,7 +591,7 @@ Rex::SCM::Git,JFRIED,f
 Rex::SCM::Subversion,JFRIED,f
 Rex::Service,JFRIED,f
 Rex::Service::ALT,JFRIED,f
-Rex::Service::ALT::systemd,JFRIED,c
+Rex::Service::ALT::systemd,JFRIED,f
 Rex::Service::Debian,JFRIED,f
 Rex::Service::FreeBSD,JFRIED,f
 Rex::Service::Gentoo,JFRIED,f
@@ -612,7 +612,7 @@ Rex::Shared::Var::Scalar,JFRIED,f
 Rex::Sudo::File,JFRIED,f
 Rex::Task,JFRIED,f
 Rex::TaskList,JFRIED,f
-Rex::TaskList::Base,JFRIED,c
+Rex::TaskList::Base,JFRIED,f
 Rex::Template,JFRIED,f
 Rex::Transaction,JFRIED,f
 Rex::User,JFRIED,f
