@@ -139,7 +139,7 @@ i2c_lpt                            1.00  I/IG/IGERLACH/i2c-0.1.tar.gz
 i2c_ser                            1.00  I/IG/IGERLACH/i2c-0.1.tar.gz
 IBM::LoadLeveler                   1.09  H/HA/HAWKINSM/IBM-LoadLeveler-1.09.tar.gz
 IBM::ThinkPad::ACPI::Extras        0.01  G/GE/GEBELE/IBM-ThinkPad-ACPI-Extras-0.02.tar.gz
-IBM::XCLI                           0.2  L/LT/LTP/IBM-XCLI-0.2.tar.gz
+IBM::XCLI                           0.5  L/LT/LTP/IBM-XCLI-0.5.tar.gz
 ICal::Format::Natural          1.121310  A/AR/ARJONES/ICal-Format-Natural-1.121310.tar.gz
 iCal::Parser                       1.16  R/RF/RFRANKEL/iCal-Parser-1.16.tar.gz
 iCal::Parser::HTML                 1.07  R/RF/RFRANKEL/iCal-Parser-HTML-1.07.tar.gz
