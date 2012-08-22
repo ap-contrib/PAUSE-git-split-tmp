@@ -231,7 +231,8 @@ SemanticWeb::OAI::ORE::ReM,SIMEON,f
 SemanticWeb::OAI::ORE::TriX,SIMEON,f
 Semi::Semicolons,DHA,c
 Semi::Semicolons,MSCHWERN,f
-Sendmail::AccessDB,DREDD,m
+Sendmail::AccessDB,DREDD,c
+Sendmail::AccessDB,STEPHANJ,m
 Sendmail::M4::Mail8,CML,m
 Sendmail::M4::Mail8_daemon,CML,m
 Sendmail::M4::Utils,CML,m
