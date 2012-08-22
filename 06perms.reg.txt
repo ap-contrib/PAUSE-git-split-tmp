@@ -421,8 +421,12 @@ Rex::Apache::Inject::Properties,JFRIED,f
 Rex::Apache::Inject::Template,JFRIED,f
 Rex::Apache::Inject::YAML,JFRIED,f
 Rex::Args,JFRIED,f
+Rex::Args::Integer,JFRIED,f
+Rex::Args::Single,JFRIED,f
+Rex::Args::String,JFRIED,f
 Rex::Augeas,JFRIED,f
 Rex::Batch,JFRIED,f
+Rex::CLI,JFRIED,f
 Rex::Cache,JFRIED,f
 Rex::Cloud,JFRIED,f
 Rex::Cloud::Amazon,JFRIED,f
@@ -567,6 +571,7 @@ Rex::Master::FileTransfer,JFRIED,f
 Rex::Output,JFRIED,f
 Rex::Output::JUnit,JFRIED,f
 Rex::Pkg,JFRIED,f
+Rex::Pkg::ALT,JFRIED,f
 Rex::Pkg::Debian,JFRIED,f
 Rex::Pkg::FreeBSD,JFRIED,f
 Rex::Pkg::Gentoo,JFRIED,f
@@ -580,9 +585,13 @@ Rex::Pkg::SunOS::Blastwave,JFRIED,f
 Rex::Pkg::SunOS::OpenCSW,JFRIED,f
 Rex::Pkg::SunOS::pkg,JFRIED,f
 Rex::Pkg::Ubuntu,JFRIED,f
+Rex::Report,JFRIED,f
+Rex::Report::Base,JFRIED,f
 Rex::SCM::Git,JFRIED,f
 Rex::SCM::Subversion,JFRIED,f
 Rex::Service,JFRIED,f
+Rex::Service::ALT,JFRIED,f
+Rex::Service::ALT::systemd,JFRIED,c
 Rex::Service::Debian,JFRIED,f
 Rex::Service::FreeBSD,JFRIED,f
 Rex::Service::Gentoo,JFRIED,f
@@ -603,6 +612,7 @@ Rex::Shared::Var::Scalar,JFRIED,f
 Rex::Sudo::File,JFRIED,f
 Rex::Task,JFRIED,f
 Rex::TaskList,JFRIED,f
+Rex::TaskList::Base,JFRIED,c
 Rex::Template,JFRIED,f
 Rex::Transaction,JFRIED,f
 Rex::User,JFRIED,f
