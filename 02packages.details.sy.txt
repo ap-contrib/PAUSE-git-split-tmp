@@ -343,6 +343,7 @@ Syntax::Keyword::Junction::Base 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.00
 Syntax::Keyword::Junction::None 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
 Syntax::Keyword::Junction::One 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
 Syntax::X                         undef  V/VM/VMORAL/ikiwiki-plugin-syntax_0.24.tar.gz
+Syringe                            0.01  H/HI/HITAPEX/Syringe.tar.gz
 sys                            0.002000  A/AS/ASKSH/sys-0.2.tar.gz
 Sys::AlarmCall                      1.2  A/AB/ABH/Sys-AlarmCall-1.2.tar.gz
 Sys::Apm                           0.05  R/RL/RLZWART/Sys-Apm-0.05.tar.gz

@@ -345,6 +345,7 @@ Syntax::SourceHighlight::LangMap,MURPHY,f
 Syntax::SourceHighlight::SourceHighlight,MURPHY,f
 Syntax::SourceHighlightc,MURPHY,f
 Syntax::X,VMORAL,f
+Syringe,HITAPEX,f
 Sys::AlarmCall,ABH,m
 Sys::AlarmCall,JACKS,c
 Sys::Apm,RLZWART,f
