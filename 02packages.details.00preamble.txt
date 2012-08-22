@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   119526
-Last-Updated: Wed, 22 Aug 2012 10:58:03 GMT
+Last-Updated: Wed, 22 Aug 2012 11:03:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -320,7 +320,7 @@ Acme::CPANAuthors::Korean          0.09  J/JE/JEEN/Acme-CPANAuthors-Korean-0.09.
 Acme::CPANAuthors::Misanthrope     1.03  A/AS/ASHLEY/Acme-CPANAuthors-Misanthrope-1.03.tar.gz
 Acme::CPANAuthors::Norwegian        0.2  S/SH/SHARIFULN/Acme-CPANAuthors-Norwegian-0.2.tar.gz
 Acme::CPANAuthors::Not             0.01  S/SF/SFINK/Acme-CPANAuthors-Not-0.01.tar.gz
-Acme::CPANAuthors::POE             0.60  B/BI/BINGOS/Acme-CPANAuthors-POE-0.60.tar.gz
+Acme::CPANAuthors::POE             0.62  B/BI/BINGOS/Acme-CPANAuthors-POE-0.62.tar.gz
 Acme::CPANAuthors::Portuguese      0.04  B/BR/BRACETA/AcmeCPANAuthorsPortuguese/Acme-CPANAuthors-Portuguese-0.04.tar.gz
 Acme::CPANAuthors::Pumpkings   2012032201  A/AB/ABIGAIL/Acme-CPANAuthors-Pumpkings-2012032201.tar.gz
 Acme::CPANAuthors::Register       undef  I/IS/ISHIGAKI/Acme-CPANAuthors-0.19.tar.gz
