@@ -274,7 +274,7 @@ Mozilla::Backup                    0.06  R/RR/RRWO/Mozilla-Backup-0.06.tar.gz
 Mozilla::Backup::Plugin::FileCopy  0.03  R/RR/RRWO/Mozilla-Backup-0.06.tar.gz
 Mozilla::Backup::Plugin::Tar       0.02  R/RR/RRWO/Mozilla-Backup-0.06.tar.gz
 Mozilla::Backup::Plugin::Zip       0.03  R/RR/RRWO/Mozilla-Backup-0.06.tar.gz
-Mozilla::CA                    20120309  A/AB/ABH/Mozilla-CA-20120309.tar.gz
+Mozilla::CA                    20120822  A/AB/ABH/Mozilla-CA-20120822.tar.gz
 Mozilla::ConsoleService            0.06  B/BO/BOSU/Mozilla-ConsoleService-0.06.tar.gz
 Mozilla::DOM                       0.23  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
 Mozilla::DOM::AbstractView         0.23  S/SL/SLANNING/Mozilla-DOM-0.23.tar.gz
