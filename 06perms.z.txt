@@ -61,6 +61,7 @@ ZMQ::Declare::ZDCF::Encoder::JSON,SMUELLER,f
 ZMQ::Declare::ZDCF::Encoder::Storable,SMUELLER,f
 ZMQ::Declare::ZDCF::Validator,SMUELLER,f
 ZMQ::LibZMQ2,DMAKI,f
+ZMQ::LibZMQ3,DMAKI,f
 ZMQ::Message,DMAKI,f
 ZMQ::Serializer,DMAKI,f
 ZMQ::Socket,DMAKI,f
