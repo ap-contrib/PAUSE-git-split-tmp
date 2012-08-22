@@ -285,7 +285,7 @@ swig                              undef  D/DB/DBEAZLEY/swig1.1p5.tar.gz
 SWIG                              undef  J/JA/JASONS/XML-Xerces-2.7.0-0.tar.gz
 SwingConstants                    undef  P/PH/PHILCROW/Java-Swing-0.14.tar.gz
 SWISH                              0.08  H/HA/HANK/SWISH-0.08.tar.gz
-SWISH::3                       1.000001  K/KA/KARMAN/SWISH-3-1.000001.tar.gz
+SWISH::3                       1.000002  K/KA/KARMAN/SWISH-3-1.000002.tar.gz
 SWISH::API::Common                 0.04  M/MS/MSCHILLI/SWISH-API-Common-0.04.tar.gz
 SWISH::API::Common::Hit            0.04  M/MS/MSCHILLI/SWISH-API-Common-0.04.tar.gz
 SWISH::API::More                   0.07  K/KA/KARMAN/SWISH-API-More-0.07.tar.gz
