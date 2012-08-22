@@ -646,7 +646,7 @@ ZMQ::Declare::ZDCF::Encoder::DumpEval 0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.g
 ZMQ::Declare::ZDCF::Encoder::JSON  0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::ZDCF::Encoder::Storable 0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
 ZMQ::Declare::ZDCF::Validator      0.02  S/SM/SMUELLER/ZMQ-Declare-0.02.tar.gz
-ZMQ::LibZMQ2                       1.01  D/DM/DMAKI/ZMQ-LibZMQ2-1.01.tar.gz
+ZMQ::LibZMQ2                       1.02  D/DM/DMAKI/ZMQ-LibZMQ2-1.02.tar.gz
 ZMQ::Message                      undef  D/DM/DMAKI/ZMQ-1.01.tar.gz
 ZMQ::Serializer                   undef  D/DM/DMAKI/ZMQ-1.01.tar.gz
 ZMQ::Socket                       undef  D/DM/DMAKI/ZMQ-1.01.tar.gz
