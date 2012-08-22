@@ -358,6 +358,7 @@ MooseX::Declare::Util,ILMARI,c
 MooseX::DeclareX,TOBYINK,f
 MooseX::DeclareX::Keyword::class,TOBYINK,f
 MooseX::DeclareX::Keyword::exception,TOBYINK,f
+MooseX::DeclareX::Keyword::interface,TOBYINK,f
 MooseX::DeclareX::Keyword::namespace,TOBYINK,f
 MooseX::DeclareX::Keyword::role,TOBYINK,f
 MooseX::DeclareX::MethodPrefix,TOBYINK,f
@@ -382,6 +383,8 @@ MooseX::DeclareX::Plugin::protected::Role,TOBYINK,f
 MooseX::DeclareX::Plugin::public,TOBYINK,f
 MooseX::DeclareX::Plugin::public::Parser,TOBYINK,f
 MooseX::DeclareX::Plugin::public::Role,TOBYINK,f
+MooseX::DeclareX::Plugin::test_case,TOBYINK,f
+MooseX::DeclareX::Plugin::test_case::MethodModifier,TOBYINK,f
 MooseX::DeclareX::Registry,TOBYINK,f
 MooseX::DeclareX::RegistryUsing,TOBYINK,f
 MooseX::DeepAccessors,RATAXIS,f
