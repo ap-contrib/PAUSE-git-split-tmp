@@ -313,7 +313,7 @@ CPAN::Testers::Metabase::AWS   1.999002  D/DA/DAGOLDEN/CPAN-Testers-Metabase-AWS
 CPAN::Testers::Metabase::Demo  1.999002  D/DA/DAGOLDEN/CPAN-Testers-Metabase-1.999002.tar.gz
 CPAN::Testers::Metabase::Feed     0.001  D/DA/DAGOLDEN/CPAN-Testers-Metabase-Feed-0.001.tar.gz
 CPAN::Testers::Metabase::MongoDB  0.001  D/DA/DAGOLDEN/CPAN-Testers-Metabase-MongoDB-0.001.tar.gz
-CPAN::Testers::ParseReport       v0.2.3  A/AN/ANDK/CPAN-Testers-ParseReport-0.2.3.tar.bz2
+CPAN::Testers::ParseReport       v0.2.4  A/AN/ANDK/CPAN-Testers-ParseReport-0.2.4.tar.bz2
 CPAN::Testers::Report          1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1.999001.tar.gz
 CPAN::Testers::Reports::Query::JSON 0.04  L/LL/LLAP/CPAN-Testers-Reports-Query-JSON-0.04.tar.gz
 CPAN::Testers::Reports::Query::JSON::Set undef  L/LL/LLAP/CPAN-Testers-Reports-Query-JSON-0.04.tar.gz
