@@ -270,11 +270,11 @@ Test::DoubleEncodedEntities        2.00  M/MA/MARKF/Test-DoubleEncodedEntities-2
 Test::DoubleEncodedEntities::Entities undef  M/MA/MARKF/Test-DoubleEncodedEntities-0.01.tar.gz
 Test::Dynamic                  1.003003  T/TU/TURNSTEP/Test-Dynamic-1.3.3.tar.gz
 Test::DZil                     4.300021  R/RJ/RJBS/Dist-Zilla-4.300021.tar.gz
-Test::EasyMock                     0.02  K/KI/KISEKI/Test-EasyMock-0.02.tar.gz
-Test::EasyMock::Expectation       undef  K/KI/KISEKI/Test-EasyMock-0.02.tar.gz
-Test::EasyMock::ExpectationSetters undef  K/KI/KISEKI/Test-EasyMock-0.02.tar.gz
-Test::EasyMock::MockControl       undef  K/KI/KISEKI/Test-EasyMock-0.02.tar.gz
-Test::EasyMock::MockObject        undef  K/KI/KISEKI/Test-EasyMock-0.02.tar.gz
+Test::EasyMock                     0.03  K/KI/KISEKI/Test-EasyMock-0.03.tar.gz
+Test::EasyMock::Expectation       undef  K/KI/KISEKI/Test-EasyMock-0.03.tar.gz
+Test::EasyMock::ExpectationSetters undef  K/KI/KISEKI/Test-EasyMock-0.03.tar.gz
+Test::EasyMock::MockControl       undef  K/KI/KISEKI/Test-EasyMock-0.03.tar.gz
+Test::EasyMock::MockObject        undef  K/KI/KISEKI/Test-EasyMock-0.03.tar.gz
 Test::Effects                  0.001000  D/DC/DCONWAY/Test-Effects-0.001000.tar.gz
 Test::Effects::ONLY            0.000001  D/DC/DCONWAY/Test-Effects-0.001000.tar.gz
 Test::Effects::TIME            0.000001  D/DC/DCONWAY/Test-Effects-0.001000.tar.gz
