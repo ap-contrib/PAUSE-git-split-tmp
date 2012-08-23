@@ -285,6 +285,12 @@ Incunabulum::Model::Plugin::Test,APEIRON,f
 Incunabulum::View,APEIRON,f
 Incunabulum::View::Plugin::Dumper,APEIRON,f
 Incunabulum::View::Plugin::Test,APEIRON,f
+Indent,SKIM,f
+Indent::Block,SKIM,f
+Indent::Data,SKIM,f
+Indent::String,SKIM,f
+Indent::Utils,SKIM,f
+Indent::Word,SKIM,f
 Index,AVAR,c
 Index,FGLOCK,f
 IndexController,GUGOD,f

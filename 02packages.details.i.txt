@@ -199,6 +199,12 @@ IncludeTester                     undef  S/SH/SHAY/perl-5.17.3.tar.gz
 IncomeTax::IND                     0.03  M/MA/MANWAR/IncomeTax-IND-0.03.tar.gz
 IncomeTax::UK                      0.08  M/MA/MANWAR/IncomeTax-UK-0.08.tar.gz
 IncSub                            undef  P/PJ/PJCJ/Devel-Cover-0.72.tar.gz
+Indent                             0.01  S/SK/SKIM/Indent-0.01.tar.gz
+Indent::Block                      0.01  S/SK/SKIM/Indent-0.01.tar.gz
+Indent::Data                       0.01  S/SK/SKIM/Indent-0.01.tar.gz
+Indent::String                     0.01  S/SK/SKIM/Indent-0.01.tar.gz
+Indent::Utils                      0.01  S/SK/SKIM/Indent-0.01.tar.gz
+Indent::Word                       0.01  S/SK/SKIM/Indent-0.01.tar.gz
 Index                             undef  F/FG/FGLOCK/v6-0.044.tar.gz
 IndexController                    0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
 indirect                           0.26  V/VP/VPIT/indirect-0.26.tar.gz
