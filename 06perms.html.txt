@@ -1109,7 +1109,7 @@ HTTP::Client,LINC,m
 HTTP::Client,NEILB,c
 HTTP::Client::Parallel,ADAMK,f
 HTTP::Config,GAAS,f
-HTTP::CookieMonster,OALDERS,f
+HTTP::CookieMonster,OALDERS,m
 HTTP::CookieMonster::Cookie,OALDERS,f
 HTTP::Cookies,GAAS,c
 HTTP::Cookies,LWWWP,m

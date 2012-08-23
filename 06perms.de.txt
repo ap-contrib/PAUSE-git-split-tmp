@@ -852,7 +852,7 @@ Dir::List,OPITZ,f
 Dir::ListFilesRecursive,AHERNIT,f
 Dir::Project,WSNYDER,f
 Dir::Purge,JV,m
-Dir::Rocknroll,JACQUELIN,f
+Dir::Rocknroll,JACQUELIN,m
 Dir::Self,MAUKE,f
 Dir::Split,SCHUBIGER,f
 Dir::Watch,VVELOX,f
