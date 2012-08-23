@@ -615,7 +615,9 @@ Geo::Coder::Many::Google,DANHGN,f
 Geo::Coder::Many::Google,EDF,c
 Geo::Coder::Many::Google,KAORU,c
 Geo::Coder::Many::Googlev3,EDF,f
+Geo::Coder::Many::Googlev3,KAORU,c
 Geo::Coder::Many::Mapquest,EDF,f
+Geo::Coder::Many::Mapquest,KAORU,c
 Geo::Coder::Many::Multimap,DANHGN,f
 Geo::Coder::Many::Multimap,EDF,c
 Geo::Coder::Many::Multimap,KAORU,c
@@ -623,6 +625,7 @@ Geo::Coder::Many::OSM,DANHGN,f
 Geo::Coder::Many::OSM,EDF,c
 Geo::Coder::Many::OSM,KAORU,c
 Geo::Coder::Many::Ovi,EDF,f
+Geo::Coder::Many::Ovi,KAORU,c
 Geo::Coder::Many::PlaceFinder,DANHGN,f
 Geo::Coder::Many::PlaceFinder,EDF,c
 Geo::Coder::Many::PlaceFinder,KAORU,c
@@ -648,6 +651,7 @@ Geo::Coder::Many::Scheduler::UniquenessScheduler::WeightedRandom,DANHGN,f
 Geo::Coder::Many::Scheduler::UniquenessScheduler::WeightedRandom,EDF,c
 Geo::Coder::Many::Scheduler::UniquenessScheduler::WeightedRandom,KAORU,c
 Geo::Coder::Many::SimpleGeo,EDF,f
+Geo::Coder::Many::SimpleGeo,KAORU,c
 Geo::Coder::Many::Util,DANHGN,f
 Geo::Coder::Many::Util,EDF,c
 Geo::Coder::Many::Util,KAORU,c
