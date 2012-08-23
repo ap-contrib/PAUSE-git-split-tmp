@@ -129,6 +129,7 @@ Plack::App::DAIA::Test,VOJ,f
 Plack::App::DAIA::Test::Suite,VOJ,f
 Plack::App::DAIA::Validator,VOJ,f
 Plack::App::DAV,DANJOU,f
+Plack::App::DataSection,SONGMU,f
 Plack::App::Directory,MIYAGAWA,f
 Plack::App::Directory::Markdown,SONGMU,f
 Plack::App::Directory::Markdown::Static,SONGMU,f
