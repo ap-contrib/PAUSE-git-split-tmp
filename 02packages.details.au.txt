@@ -215,7 +215,7 @@ Authen::Simple::Twitter            0.01  D/DA/DANMOORE/Authen-Simple-Twitter-0.0
 Authen::Simple::WebForm            0.02  U/UN/UNRTST/Authen-Simple-WebForm-0.02.tar.gz
 Authen::SimplePam              0.001024  R/RS/RSD/Authen-SimplePam-0.1.24.tar.gz
 Authen::Smb                        0.91  P/PM/PMKANE/Authen-Smb-0.91.tar.gz
-Authen::TacacsPlus                 0.22  M/MI/MIKEM/Authen-TacacsPlus/Authen-TacacsPlus-0.22.tar.gz
+Authen::TacacsPlus                 0.23  M/MI/MIKEM/Authen-TacacsPlus/Authen-TacacsPlus-0.23.tar.gz
 Authen::Tcpdmatch::Grammar        undef  I/IO/IOANNIS/Authen-Tcpdmatch-0.08.tar.gz
 Authen::Tcpdmatch::Tcpdmatch       0.07  I/IO/IOANNIS/Authen-Tcpdmatch-0.07.tar.gz
 Authen::Tcpdmatch::TcpdmatchRD     0.03  I/IO/IOANNIS/Authen-Tcpdmatch-0.08.tar.gz
