@@ -334,6 +334,7 @@ Number::Phone::UK::IM                 1  D/DC/DCANTRELL/Number-Phone-2.0.tar.gz
 Number::Phone::UK::JE                 1  D/DC/DCANTRELL/Number-Phone-2.0.tar.gz
 Number::Phone::US                   1.5  K/KE/KENNEDYH/Number-Phone-US-1.5.tar.gz
 Number::Range                      0.10  L/LA/LARRYSH/Number-Range-0.10.tar.gz
+Number::Range::Regex               0.01  B/BR/BRIANSKI/Number-Range-Regex-0.01.tgz
 Number::Rangify                1.100860  M/MA/MARCEL/Number-Rangify-1.100860.tar.gz
 Number::RecordLocator             0.005  J/JE/JESSE/Number-RecordLocator-0.005.tar.gz
 Number::RGB                         1.2  C/CW/CWEST/Number-RGB-1.2.tar.gz

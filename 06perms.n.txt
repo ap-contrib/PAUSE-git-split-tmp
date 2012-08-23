@@ -484,6 +484,7 @@ Number::RGB,CWEST,f
 Number::Range,CARCUS,c
 Number::Range,LARRYSH,f
 Number::Range,XENU,c
+Number::Range::Regex,BRIANSKI,f
 Number::Rangify,CODEREPOS,c
 Number::Rangify,MARCEL,f
 Number::RecordLocator,ALEXMV,c
