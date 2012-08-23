@@ -331,7 +331,7 @@ Math::Currency::ja_JP              0.47  J/JP/JPEACOCK/Math-Currency-0.47.tar.gz
 Math::Currency::JPY                0.41  J/JP/JPEACOCK/Math-Currency-0.46.tar.gz
 Math::Curve::Hilbert               0.04  T/TE/TEEJAY/Math-Curve-Hilbert-0.04.tar.gz
 Math::Decimal                     0.003  Z/ZE/ZEFRAM/Math-Decimal-0.003.tar.gz
-Math::Decimal64                    0.02  S/SI/SISYPHUS/Math-Decimal64-0.02.tar.gz
+Math::Decimal64                    0.03  S/SI/SISYPHUS/Math-Decimal64-0.03.tar.gz
 Math::Derivative                  undef  J/JA/JARW/Math-Derivative-0.01.tar.gz
 Math::Disarrange::List            1.004  P/PR/PRBRENAN/Math-Disarrange-List-1.004.tar.gz
 Math::DyckWords                    0.03  M/MM/MMERTEL/Math-DyckWords-0.03.tar.gz
