@@ -321,7 +321,7 @@ App::PassManager::Role::Store  1.113580  O/OL/OLIVER/App-passmanager-1.113580.ta
 App::Pastebin::sprunge            0.009  D/DO/DOHERTY/App-Pastebin-sprunge-0.009.tar.gz
 App::PAUSE::cleanup              0.0012  R/RO/ROKR/App-PAUSE-cleanup-0.0012.tar.gz
 App::perlall                      undef  R/RU/RURBAN/App-perlall-0.17.tar.gz
-App::perlbrew                      0.46  G/GU/GUGOD/App-perlbrew-0.46.tar.gz
+App::perlbrew                      0.47  G/GU/GUGOD/App-perlbrew-0.47.tar.gz
 App::Perldoc::Search               0.11  J/JJ/JJORE/App-Perldoc-Search-0.11.tar.gz
 App::Perldoc::Search::_Parser      0.11  J/JJ/JJORE/App-Perldoc-Search-0.11.tar.gz
 App::perlfind                      2.03  M/MA/MARCEL/App-perlfind-2.03.tar.gz
