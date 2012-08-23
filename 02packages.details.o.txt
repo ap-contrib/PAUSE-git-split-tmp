@@ -106,7 +106,7 @@ OurNet::Template                   0.06  A/AU/AUTRIJUS/OurNet-Query-1.56.tar.gz
 OurNet::Template::Extract          0.06  A/AU/AUTRIJUS/OurNet-Query-1.56.tar.gz
 OurNet::Template::Generate         0.06  A/AU/AUTRIJUS/OurNet-Query-1.56.tar.gz
 OurNet::WebBuilder                 1.21  A/AU/AUTRIJUS/OurNet-Query-1.56.tar.gz
-ouse                              undef  G/GF/GFUJI/Mouse-0.99.tar.gz
+ouse                              undef  G/GF/GFUJI/Mouse-1.00.tar.gz
 Outline                           undef  K/KE/KENFOX/X11-Motif-1.1b3.tar.gz
 Outline::Lua                       0.11  A/AL/ALTREUS/Outline-Lua-0.11.tar.gz
 Output::Buffer                      0.1  R/RO/ROBWALKER/Output-Buffer-0.1.tar.gz
