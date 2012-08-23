@@ -1071,6 +1071,7 @@ Task::SDK::Moose,PERIGRIN,f
 Task::SDK::Perigrin,ETHER,c
 Task::SDK::Perigrin,PERIGRIN,f
 Task::SOSA,GHENRY,f
+Task::Setup,SHARYANTO,f
 Task::Sites::ShlomiFish,SHLOMIF,f
 Task::Smoke,GAAL,f
 Task::Spark::Form,KENTNL,f
