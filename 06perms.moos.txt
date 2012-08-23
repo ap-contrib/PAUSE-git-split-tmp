@@ -383,6 +383,7 @@ MooseX::DeclareX::Plugin::protected::Role,TOBYINK,f
 MooseX::DeclareX::Plugin::public,TOBYINK,f
 MooseX::DeclareX::Plugin::public::Parser,TOBYINK,f
 MooseX::DeclareX::Plugin::public::Role,TOBYINK,f
+MooseX::DeclareX::Plugin::singleton,TOBYINK,f
 MooseX::DeclareX::Plugin::test_case,TOBYINK,f
 MooseX::DeclareX::Plugin::test_case::MethodModifier,TOBYINK,f
 MooseX::DeclareX::Privacy,TOBYINK,f
