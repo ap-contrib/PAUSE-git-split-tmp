@@ -260,8 +260,9 @@ Inline::Befunge                1.001001  J/JQ/JQUELIN/Inline-Befunge-1.1.1.tar.g
 Inline::C                          0.50  S/SI/SISYPHUS/Inline-0.50.tar.gz
 Inline::C::ParseRecDescent        undef  S/SI/SISYPHUS/Inline-0.50.tar.gz
 Inline::C::ParseRegExp            undef  S/SI/SISYPHUS/Inline-0.50.tar.gz
-Inline::CPP                        0.39  D/DA/DAVIDO/Inline-CPP-0.39.tar.gz
-Inline::CPP::grammar               0.39  D/DA/DAVIDO/Inline-CPP-0.39.tar.gz
+Inline::CPP                        0.39  D/DA/DAVIDO/Inline-CPP-0.40.tar.gz
+Inline::CPP::Config                0.39  D/DA/DAVIDO/Inline-CPP-0.40.tar.gz
+Inline::CPP::grammar               0.39  D/DA/DAVIDO/Inline-CPP-0.40.tar.gz
 Inline::CPR                        0.12  I/IN/INGY/Inline-CPR-0.12.tar.gz
 Inline::denter                    undef  S/SI/SISYPHUS/Inline-0.50.tar.gz
 Inline::Echo                       0.01  I/IA/IAMCAL/Inline-Interp-0.06.tar.gz

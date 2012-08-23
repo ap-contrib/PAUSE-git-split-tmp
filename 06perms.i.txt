@@ -364,6 +364,7 @@ Inline::C::grammar,SISYPHUS,c
 Inline::CPP,DAVIDO,c
 Inline::CPP,NEILW,m
 Inline::CPP2XS,SISYPHUS,f
+Inline::CPP::Config,DAVIDO,f
 Inline::CPP::Grammar,DAVIDO,c
 Inline::CPP::Grammar,NEILW,f
 Inline::CPP::grammar,DAVIDO,c
