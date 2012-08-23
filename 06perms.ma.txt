@@ -582,6 +582,7 @@ Math::Logic,ADOPTME,m
 Math::Logic3,BDFOY,f
 Math::Logic::Predicate,LPALMER,m
 Math::Logic::Ternary,MHASCH,m
+Math::LongDouble,SISYPHUS,f
 Math::Lsoda,SYNCLOVER,m
 Math::MPC,SISYPHUS,f
 Math::MPFI,SISYPHUS,f
