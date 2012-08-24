@@ -96,7 +96,7 @@ Plack::Middleware::XForwardedFor 0.103060  G/GB/GBARR/Plack-Middleware-XForwarde
 Plack::Middleware::XFrameOptions::All 0.2  G/GS/GSLIN/Plack-Middleware-XFrameOptions-All-0.2.tar.gz
 Plack::Middleware::XFramework     undef  M/MI/MIYAGAWA/Plack-1.0002.tar.gz
 Plack::Middleware::XSendfile      undef  M/MI/MIYAGAWA/Plack-1.0002.tar.gz
-Plack::Middleware::XSLT         0.10003  N/NW/NWELLNHOF/Plack-Middleware-XSLT-0.10003.tar.gz
+Plack::Middleware::XSLT         0.20000  N/NW/NWELLNHOF/Plack-Middleware-XSLT-0.20000.tar.gz
 Plack::MIME                       undef  M/MI/MIYAGAWA/Plack-1.0002.tar.gz
 Plack::Recursive::ForwardRequest  undef  M/MI/MIYAGAWA/Plack-1.0002.tar.gz
 Plack::Request                   1.0002  M/MI/MIYAGAWA/Plack-1.0002.tar.gz
