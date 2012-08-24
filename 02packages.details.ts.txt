@@ -98,11 +98,11 @@ TV::ProgrammesSchedules::ZEE       0.03  M/MA/MANWAR/TV-ProgrammesSchedules-ZEE-
 TVDB::API                          0.33  B/BE/BEHANW/TVDB-API-0.33.tar.gz
 TVGuide::NL                        0.14  B/BA/BAS/TVGuide-NL-0.14.tar.gz
 tw                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
-Tweet::ToDelicious                 0.07  Y/YS/YSASAKI/Tweet-ToDelicious-0.07.tar.gz
-Tweet::ToDelicious::Entity        undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.07.tar.gz
-Tweet::ToDelicious::Entity::Interface undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.07.tar.gz
-Tweet::ToDelicious::Entity::OnEvent undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.07.tar.gz
-Tweet::ToDelicious::Entity::OnTweet undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.07.tar.gz
+Tweet::ToDelicious                 0.08  Y/YS/YSASAKI/Tweet-ToDelicious-0.08.tar.gz
+Tweet::ToDelicious::Entity        undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.08.tar.gz
+Tweet::ToDelicious::Entity::Interface undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.08.tar.gz
+Tweet::ToDelicious::Entity::OnEvent undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.08.tar.gz
+Tweet::ToDelicious::Entity::OnTweet undef  Y/YS/YSASAKI/Tweet-ToDelicious-0.08.tar.gz
 TweetHook::API                    undef  R/RE/REDS/TweetHook-API-0.01.tgz
 Twiggy                           0.1020  M/MI/MIYAGAWA/Twiggy-0.1020.tar.gz
 Twiggy::Prefork                    0.02  K/KA/KAZEBURO/Twiggy-Prefork-0.02.tar.gz
