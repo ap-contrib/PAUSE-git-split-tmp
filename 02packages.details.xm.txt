@@ -392,8 +392,8 @@ XML::LibXML::Attr                2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
 XML::LibXML::AttributeHash       2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
 XML::LibXML::Augment              0.001  T/TO/TOBYINK/XML-LibXML-Augment-0.001.tar.gz
 XML::LibXML::Boolean             2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
-XML::LibXML::Cache                 0.11  N/NW/NWELLNHOF/XML-LibXML-Cache-0.11.tar.gz
-XML::LibXML::Cache::Base           0.11  N/NW/NWELLNHOF/XML-LibXML-Cache-0.11.tar.gz
+XML::LibXML::Cache                 0.12  N/NW/NWELLNHOF/XML-LibXML-Cache-0.12.tar.gz
+XML::LibXML::Cache::Base           0.12  N/NW/NWELLNHOF/XML-LibXML-Cache-0.12.tar.gz
 XML::LibXML::CDATASection        2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
 XML::LibXML::Comment             2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
 XML::LibXML::Common              2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
@@ -447,7 +447,7 @@ XML::LibXML::Transformer          undef  S/ST/STILLWELL/XML-LibXML-Enhanced-0.01
 XML::LibXML::XPathContext        2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
 XML::LibXML::XPathExpression     2.0004  S/SH/SHLOMIF/XML-LibXML-2.0004.tar.gz
 XML::LibXSLT                       1.77  S/SH/SHLOMIF/XML-LibXSLT-1.77.tar.gz
-XML::LibXSLT::Cache                0.11  N/NW/NWELLNHOF/XML-LibXML-Cache-0.11.tar.gz
+XML::LibXSLT::Cache                0.12  N/NW/NWELLNHOF/XML-LibXML-Cache-0.12.tar.gz
 XML::LibXSLT::Easy                 0.03  N/NU/NUFFIN/XML-LibXSLT-Easy-0.03.tar.gz
 XML::LibXSLT::Easy::Batch         undef  N/NU/NUFFIN/XML-LibXSLT-Easy-0.03.tar.gz
 XML::LibXSLT::Easy::Batch::CLI    undef  N/NU/NUFFIN/XML-LibXSLT-Easy-0.03.tar.gz
