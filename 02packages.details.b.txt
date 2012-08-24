@@ -776,7 +776,7 @@ Business::PayPal::API::RecurringPayments 0.02  H/HE/HEMBREED/Business-PayPal-API
 Business::PayPal::API::RefundTransaction 0.11  H/HE/HEMBREED/Business-PayPal-API-0.69.tar.gz
 Business::PayPal::API::TransactionSearch 0.11  H/HE/HEMBREED/Business-PayPal-API-0.69.tar.gz
 Business::PayPal::API::VoidRequest 0.12  H/HE/HEMBREED/Business-PayPal-API-0.69.tar.gz
-Business::PayPal::EWP              1.02  T/TB/TBUSCH/Business-PayPal-EWP-1.02.tar.gz
+Business::PayPal::EWP              1.03  T/TB/TBUSCH/Business-PayPal-EWP-1.03.tar.gz
 Business::PayPal::IPN              1.94  S/SH/SHERZODR/Business-PayPal-IPN-1.94.tar.gz
 Business::PayPal::NVP              1.08  S/SC/SCOTTW/Business-PayPal-NVP-1.08.tar.gz
 Business::PayPal::SDK              0.14  L/LI/LINNIN/Business-PayPal-SDK-0.14.tar.gz
