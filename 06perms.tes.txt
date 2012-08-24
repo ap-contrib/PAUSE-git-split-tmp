@@ -390,6 +390,7 @@ Test::Pcuke::Report,CRUSOE,f
 Test::Pcuke::StepDefinition,CRUSOE,f
 Test::Pcuke::World,CRUSOE,f
 Test::Perinci::Sub::Wrapper,SHARYANTO,f
+Test::Perinci::Tx::Manager,SHARYANTO,f
 Test::Perl::Critic,CDOLAN,c
 Test::Perl::Critic,CRITICRE,f
 Test::Perl::Critic,ELLIOTJS,c
