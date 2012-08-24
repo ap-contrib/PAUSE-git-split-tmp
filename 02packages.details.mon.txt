@@ -265,7 +265,7 @@ Moose::Meta::Attribute::Custom::Trait::Reflex::Trait::EmitsOnChange 0.098  R/RC/
 Moose::Meta::Attribute::Custom::Trait::Reflex::Trait::Observed 0.098  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Reflex::Trait::Watched 0.098  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Moose::Meta::Attribute::Custom::Trait::RememberHistory 0.001  J/JB/JBERGER/MooseX-RememberHistory-0.001.tar.gz
-Moose::Meta::Attribute::Custom::Trait::Semantic 0  K/KB/KBA/MooseX-Semantic-0.004.tar.gz
+Moose::Meta::Attribute::Custom::Trait::Semantic 0  K/KB/KBA/MooseX-Semantic-0.005.tar.gz
 Moose::Meta::Attribute::Custom::Trait::Serializable undef  M/MA/MAROS/Business-UPS-Tracking-1.07.tar.gz
 Moose::Meta::Attribute::Custom::Trait::SetOnce 0.200001  R/RJ/RJBS/MooseX-SetOnce-0.200001.tar.gz
 Moose::Meta::Attribute::Custom::Trait::StormArray undef  J/JH/JHALLOCK/Storm-0.10-withoutworldwriteables.tar.gz
