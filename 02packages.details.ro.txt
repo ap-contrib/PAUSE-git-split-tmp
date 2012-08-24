@@ -430,7 +430,7 @@ RT::Extension::EscalationDates      0.4  B/BH/BHEISIG/RT-Extension-EscalationDat
 RT::Extension::ExtractCustomFieldValues 3.07  F/FA/FALCONE/RT-Extension-ExtractCustomFieldValues-3.07.tar.gz
 RT::Extension::ExtractSubjectTagOnTransaction 0.01  K/KE/KEVINR/RT-Extension-ExtractSubjectTagOnTransaction-0.01.tar.gz
 RT::Extension::Gravatar            0.03  C/CL/CLOOS/RT-Extension-Gravatar-0.03.tar.gz
-RT::Extension::GroupBroadcast  0.001001  W/WE/WESAL/RT-Extension-GroupBroadcast-0.1.1.tar.gz
+RT::Extension::GroupBroadcast  0.001002  W/WE/WESAL/RT-Extension-GroupBroadcast-0.1.2.tar.gz
 RT::Extension::HistoryFilter       0.03  C/CL/CLOOS/RT-Extension-HistoryFilter-0.03.tar.gz
 RT::Extension::JSGantt             0.18  S/SU/SUNNAVY/RT-Extension-JSGantt-0.18.tar.gz
 RT::Extension::LDAPImport          0.33  T/TS/TSIBLEY/RT-Extension-LDAPImport-0.33.tar.gz
