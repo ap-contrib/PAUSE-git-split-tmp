@@ -981,12 +981,12 @@ RDF::KML::Exporter                0.003  T/TO/TOBYINK/RDF-KML-Exporter-0.003.tar
 RDF::Laces                         0.02  A/AW/AWIN/RDF-Laces-0.02.tar.gz
 RDF::Laces::Impl                   0.02  A/AW/AWIN/RDF-Laces-0.02.tar.gz
 RDF::Laces::Tie                    0.02  A/AW/AWIN/RDF-Laces-0.02.tar.gz
-RDF::Lazy                         0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
-RDF::Lazy::Blank                  0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
-RDF::Lazy::Literal                0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
+RDF::Lazy                          0.07  V/VO/VOJ/RDF-Lazy-0.07.tar.gz
+RDF::Lazy::Blank                   0.07  V/VO/VOJ/RDF-Lazy-0.07.tar.gz
+RDF::Lazy::Literal                 0.07  V/VO/VOJ/RDF-Lazy-0.07.tar.gz
 RDF::Lazy::Nil                    0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
-RDF::Lazy::Node                   0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
-RDF::Lazy::Resource               0.063  V/VO/VOJ/RDF-Lazy-0.063.tar.gz
+RDF::Lazy::Node                    0.07  V/VO/VOJ/RDF-Lazy-0.07.tar.gz
+RDF::Lazy::Resource                0.07  V/VO/VOJ/RDF-Lazy-0.07.tar.gz
 RDF::LinkedData                    0.56  K/KJ/KJETILK/RDF-LinkedData-0.56.tar.gz
 RDF::MicroTurtle::Context         0.001  T/TO/TOBYINK/RDF-MicroTurtle-0.001.tar.gz
 RDF::MicroTurtle::Context::StatusNet 0.001  T/TO/TOBYINK/RDF-MicroTurtle-0.001.tar.gz
