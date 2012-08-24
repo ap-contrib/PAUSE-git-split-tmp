@@ -941,10 +941,10 @@ Build::alpha                       1.02  M/MU/MUNROER/kif/kif-1.02.tar.gz
 Build::Daily                       0.01  J/JK/JKUTEJ/Build-Daily-0.01.tar.gz
 Build::ix86                        1.02  M/MU/MUNROER/kif/kif-1.02.tar.gz
 Build::ppc                         1.02  M/MU/MUNROER/kif/kif-1.02.tar.gz
-build::Wx::XSP::Enum              undef  M/MD/MDOOTSON/Wx-0.9909.tar.gz
-build::Wx::XSP::Event             undef  M/MD/MDOOTSON/Wx-0.9909.tar.gz
-build::Wx::XSP::Overload          undef  M/MD/MDOOTSON/Wx-0.9909.tar.gz
-build::Wx::XSP::Virtual           undef  M/MD/MDOOTSON/Wx-0.9909.tar.gz
+build::Wx::XSP::Enum              undef  M/MD/MDOOTSON/Wx-0.9911.tar.gz
+build::Wx::XSP::Event             undef  M/MD/MDOOTSON/Wx-0.9911.tar.gz
+build::Wx::XSP::Overload          undef  M/MD/MDOOTSON/Wx-0.9911.tar.gz
+build::Wx::XSP::Virtual           undef  M/MD/MDOOTSON/Wx-0.9911.tar.gz
 BuildCache                        undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
 BuildCache::Entry                 undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
 BuildCacheControl                 undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
