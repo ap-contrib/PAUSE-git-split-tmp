@@ -785,8 +785,8 @@ Pod::POM::View::SPIP               0.03  J/JF/JFENAL/Pod-POM-View-SPIP-0.03.tar.
 Pod::POM::View::Text               1.03  A/AN/ANDREWF/Pod-POM-0.27.tar.gz
 Pod::POM::View::TextBasic           0.1  L/LG/LGODDARD/Pod-Spelling-0.15.tar.gz
 Pod::POM::View::TOC                0.02  P/PE/PERLER/Pod-POM-View-TOC-0.02.tar.gz
-Pod::POM::Web                      1.17  D/DA/DAMI/Pod-POM-Web-1.17.tar.gz
-Pod::POM::Web::Indexer                0  D/DA/DAMI/Pod-POM-Web-1.17.tar.gz
+Pod::POM::Web                      1.18  D/DA/DAMI/Pod-POM-Web-1.18.tar.gz
+Pod::POM::Web::Indexer                0  D/DA/DAMI/Pod-POM-Web-1.18.tar.gz
 Pod::POM::Web::PSGI               0.002  D/DO/DOLMEN/Pod-POM-Web-PSGI-0.002.tar.gz
 Pod::PP                           0.102  R/RA/RAM/Pod-PP-0.1.2.tar.gz
 Pod::PP::Env                      undef  R/RA/RAM/Pod-PP-0.1.2.tar.gz
