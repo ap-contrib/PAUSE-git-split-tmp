@@ -408,7 +408,7 @@ App::Booklist::DB::BookTag        undef  G/GE/GENEHACK/App-Booklist-0.5.tar.gz
 App::Booklist::DB::Reading        undef  G/GE/GENEHACK/App-Booklist-0.5.tar.gz
 App::Booklist::DB::Tag            undef  G/GE/GENEHACK/App-Booklist-0.5.tar.gz
 App::Bootstrap                     0.02  S/SK/SKUD/App-Bootstrap-0.02.tar.gz
-App::Bootstrap::Perl               0.02  S/SC/SCHWIGON/bootstrap-perl/App-Bootstrap-Perl-0.02.tar.gz
+App::Bootstrap::Perl               0.03  S/SC/SCHWIGON/App-Bootstrap-Perl-0.03.tar.gz
 App::Bot::BasicBot::Pluggable      0.97  D/DI/DIZ/Bot-BasicBot-Pluggable-0.97.tar.gz
 App::Bot::BasicBot::Pluggable::Terminal 0.97  D/DI/DIZ/Bot-BasicBot-Pluggable-0.97.tar.gz
 App::Build                         0.74  M/MB/MBARBON/App-Build-0.74.tar.gz
