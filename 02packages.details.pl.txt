@@ -53,7 +53,7 @@ Plack::Middleware::Scrutiny::Child undef  A/AW/AWWAIID/Plack-Middleware-Scrutiny
 Plack::Middleware::Scrutiny::IOWrap undef  A/AW/AWWAIID/Plack-Middleware-Scrutiny-0.02.tar.gz
 Plack::Middleware::Scrutiny::Util undef  A/AW/AWWAIID/Plack-Middleware-Scrutiny-0.02.tar.gz
 Plack::Middleware::ServerName      0.02  A/AS/ASP/Plack-Middleware-ServerName-0.02.tar.gz
-Plack::Middleware::ServerStatus::Lite 0.07  K/KA/KAZEBURO/Plack-Middleware-ServerStatus-Lite-0.07.tar.gz
+Plack::Middleware::ServerStatus::Lite 0.08  K/KA/KAZEBURO/Plack-Middleware-ServerStatus-Lite-0.08.tar.gz
 Plack::Middleware::Session         0.14  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
 Plack::Middleware::Session::Cookie undef  M/MI/MIYAGAWA/Plack-Middleware-Session-0.14.tar.gz
 Plack::Middleware::Session::RemoveCookies 0.011  W/WR/WREIS/Plack-Middleware-Session-RemoveCookies-0.011.tar.gz
