@@ -974,6 +974,7 @@ RT::Extension::ExtractSubjectTagOnTransaction,RSPIER,c
 RT::Extension::ExtractSubjectTagOnTransaction,RUZ,c
 RT::Extension::ExtractSubjectTagOnTransaction,TSIBLEY,c
 RT::Extension::Gravatar,CLOOS,f
+RT::Extension::GroupBroadcast,WESAL,f
 RT::Extension::HistoryFilter,CLOOS,f
 RT::Extension::JSGantt,ALEXMV,c
 RT::Extension::JSGantt,CBRANDT,c
