@@ -984,7 +984,7 @@ Crypt::PGP2                        0.03  J/JB/JBRIGGS/Crypt-PGP2-0.03.tar.gz
 Crypt::PGP5                        1.38  A/AG/AGUL/Crypt-PGP5-1.38.tar.gz
 Crypt::PGPSimple                   0.13  J/JH/JHINKLE/Crypt-PGPSimple-0.13.tar.gz
 Crypt::PPDES                      undef  V/VI/VIPUL/Crypt-TripleDES-0.24.tar.gz
-Crypt::Present                     0.01  G/GO/GODE/Crypt/Crypt-Present-0.01.tar.gz
+Crypt::Present                     0.02  G/GO/GODE/Crypt/Crypt-Present-0.02.tar.gz
 Crypt::Primes                      0.50  V/VI/VIPUL/Crypt-Primes-0.50.tar.gz
 Crypt::PW44                        0.13  B/BR/BRIAND/Crypt-PW44-0.13.tar.gz
 Crypt::Pwsafe                       1.2  T/TA/TANGENT/Crypt-Pwsafe-1.2.tar.gz
