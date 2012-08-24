@@ -1070,8 +1070,8 @@ Sque::Job                         0.007  W/WW/WWOLF/Sque-0.007.tar.gz
 Sque::Worker                      0.007  W/WW/WWOLF/Sque-0.007.tar.gz
 Squid::Guard                       0.15  L/LU/LUX/Squid-Guard-0.15.tar.gz
 Squid::Guard::Request              0.15  L/LU/LUX/Squid-Guard-0.15.tar.gz
-Squirrel                          undef  G/GF/GFUJI/Mouse-1.00.tar.gz
-Squirrel::Role                    undef  G/GF/GFUJI/Mouse-1.00.tar.gz
+Squirrel                          undef  G/GF/GFUJI/Mouse-1.01.tar.gz
+Squirrel::Role                    undef  G/GF/GFUJI/Mouse-1.01.tar.gz
 SrcParser                          0.01  R/RO/ROBERTMAY/Win32-GUI/Win32-GUI-1.06.tar.gz
 SRS::EPP::Command                 undef  C/CH/CHILTS/SRS-EPP-Proxy-0.21.tar.gz
 SRS::EPP::Command::Check          undef  C/CH/CHILTS/SRS-EPP-Proxy-0.21.tar.gz
