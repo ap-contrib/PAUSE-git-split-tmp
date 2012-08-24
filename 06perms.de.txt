@@ -71,6 +71,7 @@ Devel::Trepan::CmdProcessor::Command::Info::Program,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Return,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Signals,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Variables,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Info::Variables::Dump,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Variables::Lexicals,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Variables::My,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Variables::Our,ROCKY,f
