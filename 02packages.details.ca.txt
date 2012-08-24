@@ -47,7 +47,7 @@ Catalyst::Model::Net::Amazon    0.01002  C/CF/CFRANKS/Catalyst-Model-Net-Amazon-
 Catalyst::Model::NetBlogger     0.04001  C/CL/CLACO/Catalyst-Model-NetBlogger-0.04001.tar.gz
 Catalyst::Model::Orochi         0.00002  D/DM/DMAKI/Catalyst-Model-Orochi-0.00002.tar.gz
 Catalyst::Model::Oryx              0.01  R/RH/RHUNDT/Catalyst-Model-Oryx-0.01.tar.gz
-Catalyst::Model::PayPal::API       0.31  D/DJ/DJZORT/Catalyst-Model-PayPal-API-0.31.tar.gz
+Catalyst::Model::PayPal::API       0.31  D/DJ/DJZORT/Catalyst-Model-PayPal-API-0.32.tar.gz
 Catalyst::Model::PayPal::IPN       0.02  R/RK/RKITOVER/Catalyst-Model-PayPal-IPN-0.02.tar.gz
 Catalyst::Model::PayPal::IPN::ErrorHandle 0.02  R/RK/RKITOVER/Catalyst-Model-PayPal-IPN-0.02.tar.gz
 Catalyst::Model::Plucene           0.02  M/MR/MRAMBERG/Catalyst-Model-Plucene-0.02.tar.gz
