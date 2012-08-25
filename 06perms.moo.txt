@@ -459,6 +459,7 @@ MooseX::Clone::Meta::Attribute::Trait::NoClone,STEVAN,c
 MooseX::Clone::Meta::Attribute::Trait::StrableClone,DOY,c
 MooseX::Clone::Meta::Attribute::Trait::StrableClone,FLORA,c
 MooseX::Clone::Meta::Attribute::Trait::StrableClone,NUFFIN,f
+MooseX::CoercePerAttribute,MRF,f
 MooseX::Collect,AAR,f
 MooseX::Collect::Method,AAR,f
 MooseX::Compile,AUDREYT,c

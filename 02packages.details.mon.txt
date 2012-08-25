@@ -636,6 +636,7 @@ MooseX::Clone::Meta::Attribute::Trait::Clone::Std undef  N/NU/NUFFIN/MooseX-Clon
 MooseX::Clone::Meta::Attribute::Trait::Copy undef  N/NU/NUFFIN/MooseX-Clone-0.05.tar.gz
 MooseX::Clone::Meta::Attribute::Trait::NoClone undef  N/NU/NUFFIN/MooseX-Clone-0.05.tar.gz
 MooseX::Clone::Meta::Attribute::Trait::StrableClone undef  N/NU/NUFFIN/MooseX-Clone-0.05.tar.gz
+MooseX::CoercePerAttribute        0.801  M/MR/MRF/MooseX-CoercePerAttribute-0.801.tar.gz
 MooseX::Collect                    0.92  A/AA/AAR/MooseX-Collect-0.92.tar.gz
 MooseX::Compile                   undef  N/NU/NUFFIN/MooseX-Compile-0.01.tar.gz
 MooseX::Compile::Base              0.01  N/NU/NUFFIN/MooseX-Compile-0.01.tar.gz
