@@ -166,7 +166,7 @@ Getopt::LongUsage                  0.10  R/RG/RGLAUE/Getopt-LongUsage-0.10.tgz
 Getopt::Lucid                      1.01  D/DA/DAGOLDEN/Getopt-Lucid-1.01.tar.gz
 Getopt::Lucid::Exception           1.01  D/DA/DAGOLDEN/Getopt-Lucid-1.01.tar.gz
 Getopt::Lucid::Spec                1.01  D/DA/DAGOLDEN/Getopt-Lucid-1.01.tar.gz
-Getopt::Mixed                      1.10  C/CJ/CJM/Getopt-Mixed-1.10.tar.gz
+Getopt::Mixed                      1.11  C/CJ/CJM/Getopt-Mixed-1.11.tar.gz
 Getopt::Mixed::Help                0.26  D/DO/DORNER/Getopt-Mixed-Help-0.26.tar.gz
 Getopt::Modular                    0.08  D/DM/DMCBRIDE/Getopt-Modular-0.08.tar.gz
 Getopt::OO                         0.07  S/SJ/SJSMITH/Getopt-OO-0.07.tar.gz
