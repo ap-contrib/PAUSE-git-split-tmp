@@ -83,6 +83,7 @@ My::Chatbot::Eliza,BYRNE,c
 My::Chatbot::Eliza,KULCHENKO,f
 My::Chatbot::Eliza,MKUTTER,c
 My::Codec,GGARAND,f
+My::Collision,BEROV,f
 My::Common,CWINTERS,f
 My::CommonResources,CWINTERS,f
 My::Crypt,RETOH,f
@@ -137,6 +138,7 @@ My::Serializer,ETWOECMA,f
 My::SessionIterator,BYRNE,c
 My::SessionIterator,KULCHENKO,f
 My::SessionIterator,MKUTTER,c
+My::SiteUser,BEROV,f
 My::SubCodec,GGARAND,f
 My::Sympa,COUDOT,c
 My::Sympa,GUIMARD,f
