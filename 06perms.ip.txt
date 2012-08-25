@@ -837,6 +837,7 @@ Image::ExifTool::PSP,EXIFTOOL,f
 Image::ExifTool::Panasonic,EXIFTOOL,f
 Image::ExifTool::PanasonicRaw,EXIFTOOL,f
 Image::ExifTool::Pentax,EXIFTOOL,f
+Image::ExifTool::PhotoCD,EXIFTOOL,f
 Image::ExifTool::PhotoMechanic,EXIFTOOL,f
 Image::ExifTool::Photoshop,EXIFTOOL,f
 Image::ExifTool::PostScript,EXIFTOOL,f
