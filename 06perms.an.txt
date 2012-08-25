@@ -234,6 +234,7 @@ Apache2::Command,GOZER,c
 Apache2::Command,PGOLLUCCI,c
 Apache2::Command,PHRED,c
 Apache2::Command,SHAY,c
+Apache2::CondProxy,DORIAN,f
 Apache2::Connection,APML,f
 Apache2::Connection,GEOFF,c
 Apache2::Connection,GOZER,c
