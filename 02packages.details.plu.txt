@@ -610,7 +610,7 @@ Pod::Elemental::MakeSelector       0.02  C/CJ/CJM/Pod-Elemental-MakeSelector-0.0
 Pod::Elemental::Node           0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Objectifier    0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Paragraph      0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
-Pod::Elemental::PerlMunger     0.093331  R/RJ/RJBS/Pod-Elemental-PerlMunger-0.093331.tar.gz
+Pod::Elemental::PerlMunger     0.093332  R/RJ/RJBS/Pod-Elemental-PerlMunger-0.093332.tar.gz
 Pod::Elemental::Selectors      0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Transformer    0.102362  R/RJ/RJBS/Pod-Elemental-0.102362.tar.gz
 Pod::Elemental::Transformer::Codebox 0.100890  R/RJ/RJBS/Pod-Elemental-Transformer-SynHi-0.100890.tar.gz
