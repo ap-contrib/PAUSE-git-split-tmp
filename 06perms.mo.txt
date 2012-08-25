@@ -75,6 +75,7 @@ MongoDB,DOY,c
 MongoDB,DRUOSO,c
 MongoDB,EDENC,c
 MongoDB,FLORA,f
+MongoDB,FRIEDO,c
 MongoDB,KRISTINA,c
 MongoDB::Admin,KHEMICALS,m
 MongoDB::Async,NYAKNYAN,m
@@ -101,6 +102,7 @@ MongoDB::Collection,DOY,c
 MongoDB::Collection,DRUOSO,c
 MongoDB::Collection,EDENC,c
 MongoDB::Collection,FLORA,f
+MongoDB::Collection,FRIEDO,c
 MongoDB::Collection,KRISTINA,c
 MongoDB::Connection,ARCANEZ,c
 MongoDB::Connection,ASH,c
@@ -110,6 +112,7 @@ MongoDB::Connection,DOY,c
 MongoDB::Connection,DRUOSO,c
 MongoDB::Connection,EDENC,c
 MongoDB::Connection,FLORA,f
+MongoDB::Connection,FRIEDO,c
 MongoDB::Connection,KRISTINA,c
 MongoDB::Cursor,ARCANEZ,c
 MongoDB::Cursor,ASH,c
@@ -119,6 +122,7 @@ MongoDB::Cursor,DOY,c
 MongoDB::Cursor,DRUOSO,c
 MongoDB::Cursor,EDENC,c
 MongoDB::Cursor,FLORA,f
+MongoDB::Cursor,FRIEDO,c
 MongoDB::Cursor,KRISTINA,c
 MongoDB::Database,ARCANEZ,c
 MongoDB::Database,ASH,c
@@ -128,6 +132,7 @@ MongoDB::Database,DOY,c
 MongoDB::Database,DRUOSO,c
 MongoDB::Database,EDENC,c
 MongoDB::Database,FLORA,f
+MongoDB::Database,FRIEDO,c
 MongoDB::Database,KRISTINA,c
 MongoDB::GridFS,FRIEDO,f
 MongoDB::GridFS,KRISTINA,c
@@ -141,6 +146,7 @@ MongoDB::OID,DOY,c
 MongoDB::OID,DRUOSO,c
 MongoDB::OID,EDENC,c
 MongoDB::OID,FLORA,f
+MongoDB::OID,FRIEDO,c
 MongoDB::OID,KRISTINA,c
 MongoDB::Timestamp,FRIEDO,f
 MongoDB::Timestamp,KRISTINA,c
