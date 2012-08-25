@@ -602,7 +602,7 @@ B::Fathom                          0.07  K/KS/KSTAR/B-Fathom-0.07.tar.gz
 B::FindAmpersand                   0.04  A/AN/ANDK/Devel-SawAmpersand-0.32.tar.gz
 B::Flags                           0.06  R/RU/RURBAN/B-Flags-0.06.tar.gz
 B::Foreach::Iterator               0.07  G/GF/GFUJI/B-Foreach-Iterator-0.07.tar.gz
-B::Generate                        1.45  R/RU/RURBAN/B-Generate-1.45.tar.gz
+B::Generate                        1.46  R/RU/RURBAN/B-Generate-1.46.tar.gz
 B::Graph                           0.51  S/SM/SMCCAM/B-Graph-0.51.tar.gz
 B::Hooks::AtRuntime                   1  B/BM/BMORROW/B-Hooks-AtRuntime-1.tar.gz
 B::Hooks::EndOfScope               0.11  F/FL/FLORA/B-Hooks-EndOfScope-0.11.tar.gz
