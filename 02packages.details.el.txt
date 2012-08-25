@@ -67,9 +67,14 @@ Email::Address::Loose              0.10  T/TO/TOMITA/Email-Address-Loose-0.10.ta
 Email::Address::Loose::EmailAddress 1.892  T/TO/TOMITA/Email-Address-Loose-0.10.tar.gz
 Email::Address::Loose::EmailValidLoose 0.05  T/TO/TOMITA/Email-Address-Loose-0.10.tar.gz
 Email::AddressParser               0.04  A/AW/AWKAY/Email-AddressParser-0.04.tar.gz
-Email::Archive                     0.02  A/AP/APEIRON/Email-Archive-0.02.tar.gz
-Email::Archive::Storage           undef  A/AP/APEIRON/Email-Archive-0.02.tar.gz
-Email::Archive::Storage::DBI      undef  A/AP/APEIRON/Email-Archive-0.02.tar.gz
+Email::Archive                     0.03  A/AP/APEIRON/Email-Archive-0.03.tar.gz
+Email::Archive::Storage           undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
+Email::Archive::Storage::DBI      undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
+Email::Archive::Storage::DBIC     undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
+Email::Archive::Storage::DBIC::Schema undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
+Email::Archive::Storage::DBIC::Schema::Result::Messages undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
+Email::Archive::Storage::DBIC::Schema::Result::Metadata undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
+Email::Archive::Storage::MongoDB  undef  A/AP/APEIRON/Email-Archive-0.03.tar.gz
 Email::ARF                        0.006  R/RJ/RJBS/Email-ARF-0.006.tar.gz
 Email::ARF::Hotmail                0.08  M/MS/MSTEVENS/Email-ARF-Hotmail-0.08.tar.gz
 Email::ARF::Report                0.006  R/RJ/RJBS/Email-ARF-0.006.tar.gz

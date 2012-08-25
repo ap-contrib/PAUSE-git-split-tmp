@@ -125,6 +125,11 @@ Email::Archive::Storage,APEIRON,f
 Email::Archive::Storage,ETHER,c
 Email::Archive::Storage::DBI,APEIRON,f
 Email::Archive::Storage::DBI,ETHER,c
+Email::Archive::Storage::DBIC,APEIRON,f
+Email::Archive::Storage::DBIC::Schema,APEIRON,f
+Email::Archive::Storage::DBIC::Schema::Result::Messages,APEIRON,f
+Email::Archive::Storage::DBIC::Schema::Result::Metadata,APEIRON,f
+Email::Archive::Storage::MongoDB,APEIRON,f
 Email::Auth::AddressHash,AURUM,f
 Email::AutoReply,AMONSEN,m
 Email::AutoReply::DB,AMONSEN,f
