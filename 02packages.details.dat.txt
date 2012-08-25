@@ -888,7 +888,7 @@ Data::Validate                     0.08  S/SO/SONNEN/Data-Validate-0.08.tar.gz
 Data::Validate::Common              0.3  N/NO/NORBU/Data-Validate-Common-0.3.tar.gz
 Data::Validate::Domain             0.10  N/NE/NEELY/Data-Validate-Domain-0.10.tar.gz
 Data::Validate::Email              0.04  S/SO/SONNEN/Data-Validate-Email-0.04.tar.gz
-Data::Validate::Image             0.006  N/NO/NOBODY/Data-Validate-Image-0.006.tar.gz
+Data::Validate::Image             0.007  N/NO/NOBODY/Data-Validate-Image-0.007.tar.gz
 Data::Validate::IP                 0.14  N/NE/NEELY/Data-Validate-IP-0.14.tar.gz
 Data::Validate::Japanese        0.01001  D/DM/DMAKI/Data-Validate-Japanese-0.01001.tar.gz
 Data::Validate::MySQL              0.03  S/SO/SONNEN/Data-Validate-MySQL-0.03.tar.gz
