@@ -588,7 +588,7 @@ ESPPlus::Storage::Util            undef  J/JJ/JJORE/ESPPlus-Storage-0.01.tar.gz
 ESPPlus::Storage::Writer          undef  J/JJ/JJORE/ESPPlus-Storage-0.01.tar.gz
 ESTier                             0.11  L/LA/LAMPRECHT/Tk-EntrySet-0.11.tar.gz
 eSummary                          undef  C/CH/CHI/link_NCBI.zip
-eta                               1.001  B/BO/BOOK/Acme-MetaSyntactic-1.005.tar.gz
+eta                               1.001  B/BO/BOOK/Acme-MetaSyntactic-1.006.tar.gz
 Ethiopic::Convert                  0.10  D/DY/DYACOB/Convert-Ethiopic-0.20-210102.tar.gz
 Etk                                0.09  L/LE/LEVIATHAN/Etk-Perl-0.09.tar.gz
 Etk::Button                       undef  L/LE/LEVIATHAN/Etk-Perl-0.09.tar.gz

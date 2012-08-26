@@ -502,7 +502,7 @@ Test::Memory::Cycle                1.04  P/PE/PETDANCE/Test-Memory-Cycle-1.04.ta
 Test::Memory::Usage            0.000004001  C/CH/CHISEL/Test-Memory-Usage-0.0.4.1.tar.gz
 Test::MemoryGrowth                 0.01  P/PE/PEVANS/Test-MemoryGrowth-0.01.tar.gz
 Test::Metadata                      1.7  M/MA/MARKWKM/Test-Parser-1.9.tar.gz
-Test::MetaSyntactic               1.002  B/BO/BOOK/Acme-MetaSyntactic-1.005.tar.gz
+Test::MetaSyntactic               1.002  B/BO/BOOK/Acme-MetaSyntactic-1.006.tar.gz
 Test::Mimic                    0.009007  B/BR/BRENDAN/Test-Mimic-0.009007.tar.gz
 Test::Mimic::Generator         0.009005  B/BR/BRENDAN/Test-Mimic-Generator-0.009005.tar.gz
 Test::Mimic::Generator::_Implementation 0.009005  B/BR/BRENDAN/Test-Mimic-Generator-0.009005.tar.gz
