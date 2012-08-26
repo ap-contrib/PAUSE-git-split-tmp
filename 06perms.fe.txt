@@ -577,6 +577,7 @@ File::IfModified,GRIAN,f
 File::Ignore,RKRIMEN,c
 File::Ignore,ROKR,f
 File::IgnoreReadonly,ADAMK,f
+File::Index,GRAHJENK,f
 File::Info,FLUFFY,f
 File::Inplace,CHIPT,f
 File::Irenamer,BHECKEL,f
