@@ -90,6 +90,10 @@ Devel::Trepan::CmdProcessor::Command::Set::Auto::Eval,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Auto::List,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Basename,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Confirm,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Debug,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Debug::Except,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Debug::Macro,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Debug::Skip,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Different,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Display,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Display::COP,ROCKY,f
@@ -118,6 +122,10 @@ Devel::Trepan::CmdProcessor::Command::Show::Auto::Eval,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Auto::List,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Basename,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Confirm,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Debug,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Debug::Except,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Debug::Macro,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Debug::Skip,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Different,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Display,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Display::COP,ROCKY,f
@@ -178,6 +186,7 @@ Devel::Trepan::Options,ROCKY,f
 Devel::Trepan::Shell,ROCKY,f
 Devel::Trepan::SigHandler,ROCKY,f
 Devel::Trepan::SigMgr,ROCKY,f
+Devel::Trepan::Terminated,ROCKY,f
 Devel::Trepan::Util,ROCKY,f
 Devel::Trepan::WatchMgr,ROCKY,f
 Devel::Truth_Table,MJCARMAN,m
