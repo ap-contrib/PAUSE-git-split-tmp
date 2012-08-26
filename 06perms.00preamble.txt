@@ -5,7 +5,7 @@ Description: CSV file of upload permission to the CPAN per namespace
 Columns:     package,userid,best-permission
 Line-Count:  219876
 Written-By:  PAUSE version 1.14
-Date:        Sun, 26 Aug 2012 07:35:29 GMT
+Date:        Sun, 26 Aug 2012 10:23:17 GMT
 
 A,ADAMK,f
 A::B,CODEREPOS,c
