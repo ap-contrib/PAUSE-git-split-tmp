@@ -221,11 +221,11 @@ WWW::TypePad::Users               undef  S/SA/SAYMEDIA/WWW-TypePad-0.4002.tar.gz
 WWW::TypePad::Util                undef  S/SA/SAYMEDIA/WWW-TypePad-0.4002.tar.gz
 WWW::UPS::Detail                    0.2  S/ST/STEFANOS/WWW-UPS-Detail-0.2.tar.gz
 WWW::URLToys                       1.28  J/JD/JDRAGO/WWW-URLToys-1.28.tar.gz
-WWW::UsePerl::Journal              0.23  B/BA/BARBIE/WWW-UsePerl-Journal-0.23.tar.gz
-WWW::UsePerl::Journal::Comment     0.12  B/BA/BARBIE/WWW-UsePerl-Journal-Thread-0.12.tar.gz
-WWW::UsePerl::Journal::Entry       0.23  B/BA/BARBIE/WWW-UsePerl-Journal-0.23.tar.gz
+WWW::UsePerl::Journal              0.24  B/BA/BARBIE/WWW-UsePerl-Journal-0.24.tar.gz
+WWW::UsePerl::Journal::Comment     0.13  B/BA/BARBIE/WWW-UsePerl-Journal-Thread-0.13.tar.gz
+WWW::UsePerl::Journal::Entry       0.24  B/BA/BARBIE/WWW-UsePerl-Journal-0.24.tar.gz
 WWW::UsePerl::Journal::Post        0.23  B/BA/BARBIE/WWW-UsePerl-Journal-0.23.tar.gz
-WWW::UsePerl::Journal::Thread      0.12  B/BA/BARBIE/WWW-UsePerl-Journal-Thread-0.12.tar.gz
+WWW::UsePerl::Journal::Thread      0.13  B/BA/BARBIE/WWW-UsePerl-Journal-Thread-0.13.tar.gz
 WWW::UsePerl::Server               0.36  L/LB/LBROCARD/WWW-UsePerl-Server-0.36.tar.gz
 WWW::UsePerl::Server::Controller::Root 0  L/LB/LBROCARD/WWW-UsePerl-Server-0.36.tar.gz
 WWW::UsePerl::Server::Model::DB       0  L/LB/LBROCARD/WWW-UsePerl-Server-0.36.tar.gz
