@@ -1141,7 +1141,7 @@ DBD::Chart::db                     0.82  D/DA/DARNOLD/DBD-Chart-0.82.tar.gz
 DBD::Chart::dr                     0.82  D/DA/DARNOLD/DBD-Chart-0.82.tar.gz
 DBD::Chart::Plot                   0.81  D/DA/DARNOLD/DBD-Chart-0.82.tar.gz
 DBD::Chart::st                     0.82  D/DA/DARNOLD/DBD-Chart-0.82.tar.gz
-DBD::CSV                           0.35  H/HM/HMBRAND/DBD-CSV-0.35.tgz
+DBD::CSV                           0.36  H/HM/HMBRAND/DBD-CSV-0.36.tgz
 DBD::CSV::db                       0.22  J/JZ/JZUCKER/DBD-CSV-0.22.tar.gz
 DBD::CSV::dr                       0.22  J/JZ/JZUCKER/DBD-CSV-0.22.tar.gz
 DBD::CSV::st                       0.22  J/JZ/JZUCKER/DBD-CSV-0.22.tar.gz
