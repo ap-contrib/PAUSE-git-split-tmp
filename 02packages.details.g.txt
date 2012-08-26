@@ -175,7 +175,7 @@ Gtk2::Unique                       0.05  P/PO/POTYL/Gtk2-Unique-0.05.tar.gz
 Gtk2::WebKit                       0.09  F/FL/FLORA/Gtk2-WebKit-0.09.tar.gz
 Gtk2::WebKit::Mechanize            0.01  B/BO/BOSU/Gtk2-WebKit-Mechanize-0.01.tar.gz
 Gtk2Fu                             0.11  D/DA/DAMS/Gtk2Fu-0.11.tar.gz
-Gtk3                              0.007  T/TS/TSCH/Gtk3-0.007.tar.gz
+Gtk3                              0.008  T/TS/TSCH/Gtk3-0.008.tar.gz
 Gtk3::WebKit                       0.02  P/PO/POTYL/Gtk3-WebKit-0.02.tar.gz
 Gtk::_LazyLoader                 0.7009  M/ML/MLEHMANN/Gtk-Perl-0.7009.tar.gz
 Gtk::Atoms                        undef  L/LU/LUPUS/Gtk-Perl-0.7008.tar.gz
