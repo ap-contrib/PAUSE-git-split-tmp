@@ -787,6 +787,7 @@ RDF::Crypt::Signer,TOBYINK,f
 RDF::Crypt::Verifier,TOBYINK,f
 RDF::DOAP::ChangeSets,TOBYINK,f
 RDF::Dumper,VOJ,f
+RDF::EARL,GWILLIAMS,f
 RDF::Endpoint,GWILLIAMS,f
 RDF::Everywhere,TOBYINK,f
 RDF::Flow,VOJ,f
