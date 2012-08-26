@@ -338,8 +338,8 @@ Class::XML::Parser                0.901  M/MM/MMORGAN/Class-XML-Parser-0.901.tgz
 Class::XML::Parser::Internal      0.901  M/MM/MMORGAN/Class-XML-Parser-0.901.tgz
 Class::XML::Parser::Stack         0.901  M/MM/MMORGAN/Class-XML-Parser-0.901.tgz
 Class::XPath                        1.4  S/SA/SAMTREGAR/Class-XPath-1.4.tar.gz
-Class::XSAccessor                  1.13  S/SM/SMUELLER/Class-XSAccessor-1.13.tar.gz
-Class::XSAccessor::Array           1.13  S/SM/SMUELLER/Class-XSAccessor-1.13.tar.gz
+Class::XSAccessor                  1.14  S/SM/SMUELLER/Class-XSAccessor-1.14.tar.gz
+Class::XSAccessor::Array           1.14  S/SM/SMUELLER/Class-XSAccessor-1.14.tar.gz
 Class::XSAccessor::Compat          0.01  S/SM/SMUELLER/Class-XSAccessor-Compat-0.01.tar.gz
 class_name                            2  S/SA/SAKOHT/UR-0.38.1.tar.gz
 classes                           0.944  R/RM/RMUHLE/classes-0.944.tar.gz
