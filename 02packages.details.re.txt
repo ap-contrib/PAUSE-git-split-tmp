@@ -494,6 +494,7 @@ Rex::File::Parser::Ini            undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::Fork::Manager                undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::Fork::Task                   undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::FS::File                     undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
+Rex::Gearman                   0.032000  J/JF/JFRIED/Rex-Gearman-0.32.0.tar.gz
 Rex::Group                        undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::Group::Entry::Server         undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::Group::Lookup::File          undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
@@ -630,6 +631,7 @@ Rex::Sudo::File                   undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::Task                         undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::TaskList                     undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::TaskList::Base               undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
+Rex::TaskList::Gearman            undef  J/JF/JFRIED/Rex-Gearman-0.32.0.tar.gz
 Rex::Template                     undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::Transaction                  undef  J/JF/JFRIED/Rex-0.32.0.tar.gz
 Rex::User                         undef  J/JF/JFRIED/Rex-0.32.0.tar.gz

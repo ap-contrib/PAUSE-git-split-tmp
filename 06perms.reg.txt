@@ -474,6 +474,7 @@ Rex::File::Parser::Data,JFRIED,f
 Rex::File::Parser::Ini,JFRIED,f
 Rex::Fork::Manager,JFRIED,f
 Rex::Fork::Task,JFRIED,f
+Rex::Gearman,JFRIED,f
 Rex::Group,JFRIED,f
 Rex::Group::Entry::Server,JFRIED,f
 Rex::Group::Lookup::File,JFRIED,f
@@ -613,6 +614,7 @@ Rex::Sudo::File,JFRIED,f
 Rex::Task,JFRIED,f
 Rex::TaskList,JFRIED,f
 Rex::TaskList::Base,JFRIED,f
+Rex::TaskList::Gearman,JFRIED,f
 Rex::Template,JFRIED,f
 Rex::Transaction,JFRIED,f
 Rex::User,JFRIED,f
