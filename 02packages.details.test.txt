@@ -46,7 +46,6 @@ Test::Script::Run                  0.05  S/SU/SUNNAVY/Test-Script-Run-0.05.tar.g
 Test::Script::Shebang              0.02  X/XA/XAICRON/Test-Script-Shebang-0.02.tar.gz
 Test::SerialFork                   0.01  P/PM/PMH/Test-SerialFork-0.01.tar.gz
 Test::Server                       0.06  J/JK/JKUTEJ/Test-Server-0.06.tar.gz
-Test::Setup                        1.02  S/SH/SHARYANTO/Test-Setup-1.02.tar.gz
 Test::SFTP                         1.10  X/XS/XSAWYERX/Test-SFTP-1.10.tar.gz
 test::shared                      undef  G/GM/GMPASSOS/Safe-World-0.14.tar.gz
 Test::SharedFork                   0.20  T/TO/TOKUHIROM/Test-SharedFork-0.20.tar.gz

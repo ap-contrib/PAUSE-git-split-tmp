@@ -638,7 +638,6 @@ Dumbbench::Stats                  undef  S/SM/SMUELLER/Dumbbench-0.08.tar.gz
 Dummy::InlineChild                5.562  S/SH/SHAY/perl-5.17.3.tar.gz
 Dummy::Outside                    undef  S/SH/SHAY/perl-5.17.3.tar.gz
 DummySerializer                    0.39  J/JS/JSWARTZ/CHI-0.39.tar.gz
-DumpMatch                         undef  S/SC/SCHWIGON/perl-formance/Benchmark-Perl-Formance-0.27.tar.gz
 Dumpvalue                          1.16  F/FL/FLORA/Dumpvalue-1.16.tar.gz
 Dunce::Files                       0.04  M/MS/MSCHWERN/Dunce-0.04.tar.gz
 Dunce::time                        0.02  M/MI/MIYAGAWA/Dunce-time-0.02.tar.gz

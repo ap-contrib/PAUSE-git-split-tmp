@@ -118,7 +118,6 @@ MyApp::system                     undef  M/MA/MAKAMAKA/JSON-RPC-0.94.tar.gz
 MyApplication::State              undef  S/SH/SHEVEK/Apache-Action-0.02.tar.gz
 MyBot                             undef  F/FR/FRANC/Games-EternalLands-0.04.tar.gz
 MyBuild                           undef  P/PH/PHILCROW/Java-Build-0.05.tar.gz
-MyBuilder                         undef  S/SC/SCHWIGON/perl-formance/Benchmark-Perl-Formance-0.27.tar.gz
 mycache                           undef  R/RY/RYBSKEJ/Apache-forks-0.03.tar.gz
 MyCatalystApp                      0.01  G/GS/GSHANK/HTML-FormHandler-0.40013.tar.gz
 MyCatalystApp::Controller::Captcha undef  G/GS/GSHANK/HTML-FormHandler-0.40013.tar.gz
