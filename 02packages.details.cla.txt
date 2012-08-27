@@ -492,9 +492,9 @@ Clustericious::Command::start         0  B/BD/BDUGGAN/Clustericious-0.9902.tar.g
 Clustericious::Command::status        0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
 Clustericious::Command::stop          0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
 Clustericious::Commands               0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
-Clustericious::Config              0.11  B/BD/BDUGGAN/Clustericious-Config-0.11.tar.gz
-Clustericious::Config::Password       0  B/BD/BDUGGAN/Clustericious-Config-0.11.tar.gz
-Clustericious::Config::Plugin         0  B/BD/BDUGGAN/Clustericious-Config-0.11.tar.gz
+Clustericious::Config              0.12  B/BD/BDUGGAN/Clustericious-Config-0.12.tar.gz
+Clustericious::Config::Password       0  B/BD/BDUGGAN/Clustericious-Config-0.12.tar.gz
+Clustericious::Config::Plugin         0  B/BD/BDUGGAN/Clustericious-Config-0.12.tar.gz
 Clustericious::Controller             0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
 Clustericious::HelloWorld             0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
 Clustericious::Log                 0.10  B/BD/BDUGGAN/Clustericious-Log-0.10.tar.gz
