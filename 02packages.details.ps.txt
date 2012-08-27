@@ -1008,8 +1008,8 @@ RDF::Notation3::Template::TTriples undef  P/PC/PCIMPRICH/RDF-Notation3-0.91.tar.
 RDF::Notation3::Template::TXML    undef  P/PC/PCIMPRICH/RDF-Notation3-0.91.tar.gz
 RDF::Notation3::Triples           undef  P/PC/PCIMPRICH/RDF-Notation3-0.91.tar.gz
 RDF::Notation3::XML               undef  P/PC/PCIMPRICH/RDF-Notation3-0.91.tar.gz
-RDF::NS                        20120521  V/VO/VOJ/RDF-NS-20120521.tar.gz
-RDF::NS::Trine                 20120521  V/VO/VOJ/RDF-NS-20120521.tar.gz
+RDF::NS                        20120827  V/VO/VOJ/RDF-NS-20120827.tar.gz
+RDF::NS::Trine                 20120827  V/VO/VOJ/RDF-NS-20120827.tar.gz
 RDF::Prefixes                     0.003  T/TO/TOBYINK/RDF-Prefixes-0.003.tar.gz
 RDF::Query                        2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Algebra               2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
