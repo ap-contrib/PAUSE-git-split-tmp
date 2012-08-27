@@ -1310,7 +1310,7 @@ Data::Walker,JNOLAN,m
 Data::Webalizer::Hist,YORHEL,f
 Data::WeightedRoundRobin,XAICRON,f
 Data::XDumper,XMATH,f
-Data::XHash,BKATZUNG,f
+Data::XHash,BKATZUNG,m
 Data::XML::Variant,OVID,f
 Data::XML::Variant::Build,OVID,f
 Data::XML::Variant::Output,OVID,f
