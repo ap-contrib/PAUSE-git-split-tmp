@@ -208,6 +208,7 @@ HTML::Video::Embed::Site::MetaCafe,NOBODY,f
 HTML::Video::Embed::Site::SpikedHumor,NOBODY,f
 HTML::Video::Embed::Site::Vimeo,NOBODY,f
 HTML::Video::Embed::Site::Yahoo,NOBODY,f
+HTML::Video::Embed::Site::YahooScreen,NOBODY,f
 HTML::Video::Embed::Site::Youtu_be,NOBODY,f
 HTML::Video::Embed::Site::Youtube,NOBODY,f
 HTML::WTweb,GMG,f
