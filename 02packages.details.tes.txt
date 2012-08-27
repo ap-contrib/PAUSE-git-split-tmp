@@ -603,7 +603,7 @@ Test::Mojo                        undef  S/SR/SRI/Mojolicious-3.34.tar.gz
 Test::MonitorSites                 0.15  H/HE/HESCO/Test-MonitorSites-0.15.tar.gz
 Test::Moose                      2.0603  D/DO/DOY/Moose-2.0603.tar.gz
 Test::Moose::MockObjectCompile 0.002001  Z/ZA/ZAPHAR/Test-Moose-MockObjectCompile-0.2.1.tar.gz
-Test::Moose::More                 0.010  R/RS/RSRCHBOY/Test-Moose-More-0.010.tar.gz
+Test::Moose::More                 0.011  R/RS/RSRCHBOY/Test-Moose-More-0.011.tar.gz
 Test::MooseX::Daemonize            0.15  M/MI/MICHAELR/MooseX-Daemonize-0.15.tar.gz
 Test::MooseX::Daemonize::Testable  0.15  M/MI/MICHAELR/MooseX-Daemonize-0.15.tar.gz
 Test::More                         0.98  M/MS/MSCHWERN/Test-Simple-0.98.tar.gz
