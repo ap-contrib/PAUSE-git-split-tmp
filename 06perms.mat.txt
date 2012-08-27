@@ -1085,6 +1085,16 @@ Message::Passing::DSL,BOBTFISH,c
 Message::Passing::DSL,GHENRY,f
 Message::Passing::DSL::Factory,BOBTFISH,c
 Message::Passing::DSL::Factory,GHENRY,f
+Message::Passing::Exception,BOBTFISH,c
+Message::Passing::Exception,GHENRY,f
+Message::Passing::Exception::ConnectionDisconnected,BOBTFISH,c
+Message::Passing::Exception::ConnectionDisconnected,GHENRY,f
+Message::Passing::Exception::ConnectionTimeout,BOBTFISH,c
+Message::Passing::Exception::ConnectionTimeout,GHENRY,f
+Message::Passing::Exception::Decoding,BOBTFISH,c
+Message::Passing::Exception::Decoding,GHENRY,f
+Message::Passing::Exception::Encoding,BOBTFISH,c
+Message::Passing::Exception::Encoding,GHENRY,f
 Message::Passing::Filter::All,BOBTFISH,c
 Message::Passing::Filter::All,GHENRY,f
 Message::Passing::Filter::Decoder::Bzip2,BOBTFISH,c
