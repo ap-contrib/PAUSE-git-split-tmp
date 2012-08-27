@@ -462,7 +462,7 @@ EPublisher::Source::Plugin::Module 0.04  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Target                 0.01  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Target::Base         0.0101  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Target::Plugin::EPub    0.4  R/RE/RENEEB/EPublisher-Target-Plugin-EPub-0.4.tar.gz
-EPublisher::Target::Plugin::Mobi    0.3  B/BO/BORISD/EPublisher-Target-Plugin-Mobi-0.3.tar.gz
+EPublisher::Target::Plugin::Mobi    0.4  B/BO/BORISD/EPublisher-Target-Plugin-Mobi-0.4.tar.gz
 EPublisher::Target::Plugin::Text   0.02  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Utils::PPI              0.2  R/RE/RENEEB/EPublisher-0.7.tar.gz
 ERG::line_formatter                1.13  P/PH/PHOENIXL/extensible_report_generator_1.13.zip
