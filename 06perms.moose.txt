@@ -817,6 +817,8 @@ MooseX::Role::WithOverloading::Meta::Role::Composite,ETHER,c
 MooseX::Role::WithOverloading::Meta::Role::Composite,FLORA,f
 MooseX::Role::WithWorkingDirectory,RHOELZ,f
 MooseX::Role::XMLRPC::Client,RSRCHBOY,f
+MooseX::RoleFor,TOBYINK,f
+MooseX::RoleFor::Meta::Role::Trait::RoleFor,TOBYINK,f
 MooseX::Runnable,BOBTFISH,c
 MooseX::Runnable,FLORA,c
 MooseX::Runnable,JROCKWAY,f
