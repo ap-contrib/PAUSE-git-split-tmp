@@ -2,12 +2,6 @@ WWW::Facebook::API::Video         undef  U/UN/UNOBE/WWW-Facebook-API-0.4.18.tar.
 WWW::Facebook::FQL                 0.03  S/SE/SEANO/WWW-Facebook-FQL-0.03.tar.gz
 WWW::Facebook::FQL::Simple        undef  A/AJ/AJCT/WWW-Facebook-FQL-Simple-0.03.tar.gz
 WWW::Facebook::Go::SGF              1.0  D/DC/DCANTRELL/WWW-Facebook-Go-SGF-1.0.tar.gz
-WWW::Fandango                  0.000001001  D/DA/DAMOG/WWW-Fandango-0.0.1.1.tar.gz
-WWW::Fandango::Location           undef  D/DA/DAMOG/WWW-Fandango-0.0.1.1.tar.gz
-WWW::Fandango::Movie              undef  D/DA/DAMOG/WWW-Fandango-0.0.1.1.tar.gz
-WWW::Fandango::Search             undef  D/DA/DAMOG/WWW-Fandango-0.0.1.1.tar.gz
-WWW::Fandango::Showtime           undef  D/DA/DAMOG/WWW-Fandango-0.0.1.1.tar.gz
-WWW::Fandango::Theater            undef  D/DA/DAMOG/WWW-Fandango-0.0.1.1.tar.gz
 WWW::FastPass                      0.03  T/TO/TOMHRR/WWW-FastPass-0.03.tar.gz
 WWW::Favicon                    0.03001  T/TY/TYPESTER/WWW-Favicon-0.03001.tar.gz
 WWW::FetchStory                  0.1810  R/RU/RUBYKAT/WWW-FetchStory-0.1810.tar.gz

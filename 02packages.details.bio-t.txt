@@ -135,12 +135,6 @@ Blog::Article                     undef  J/JS/JSWARTZ/Poet-0.12.tar.gz
 Blog::BlogML::Reader               1.03  M/MM/MMATHEWS/Blog-BlogML-Reader-1.03.tar.gz
 Blog::Blosxom                      0.10  A/AL/ALTREUS/Blog-Blosxom-0.10.tar.gz
 Blog::DB                          undef  J/JS/JSWARTZ/Poet-0.12.tar.gz
-Blog::Normalize                     0.0  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
-Blog::Normalize::Blogger          undef  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
-Blog::Normalize::MovableType        0.0  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
-Blog::Normalize::TextMotion       undef  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
-Blog::Normalize::Tumblr             0.1  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
-Blog::Normalize::Wordpress          0.0  D/DA/DAMOG/Blog-Normalize-0.0rc2.tar.gz
 Blog::Simple::HTMLOnly             0.05  L/LG/LGODDARD/Blog-Simple-HTMLOnly-0.05.tar.gz
 Blog::Spam::API                   undef  S/SK/SKX/Blog-Spam-1.0.2.tar.gz
 Blog::Spam::Plugin::00blacklist   undef  S/SK/SKX/Blog-Spam-1.0.2.tar.gz
