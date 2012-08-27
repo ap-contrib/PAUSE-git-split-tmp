@@ -277,6 +277,10 @@ EBook::Generator::Exporter::XHTML,KITOMER,f
 EBook::Generator::Parser,KITOMER,f
 EBook::Generator::Reader,KITOMER,f
 EBook::MOBI,BORISD,m
+EBook::MOBI::Converter,BORISD,f
+EBook::MOBI::Driver,BORISD,f
+EBook::MOBI::Driver::Example,BORISD,f
+EBook::MOBI::Driver::POD,BORISD,f
 EBook::MOBI::Mhtml2Mobi,BORISD,f
 EBook::Tools,AZED,m
 EBook::Tools::EReader,AZED,f
