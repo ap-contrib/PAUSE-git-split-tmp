@@ -862,7 +862,7 @@ CGI::AppToolkit::Template::TemplateC 0.01  G/GI/GISEBURT/CGI-AppToolkit-0.051.tg
 CGI::ArgChecker                    0.02  D/DL/DLOWE/CGI-ArgChecker-0.02.tar.gz
 CGI::Auth                          3.00  C/CC/CCWALLACE/CGI-Auth-3.00.tar.gz
 CGI::Auth::Auto                    1.21  L/LE/LEOCHARRE/CGI-Auth-Auto-1.21.tar.gz
-CGI::Auth::Basic                   1.21  B/BU/BURAK/CGI-Auth-Basic-1.21.tar.gz
+CGI::Auth::Basic                   1.22  B/BU/BURAK/CGI-Auth-Basic-1.22.tar.gz
 CGI::Auth::FOAF_SSL               1.003  T/TO/TOBYINK/CGI-Auth-FOAF_SSL-1.003.tar.gz
 CGI::Auth::FOAF_SSL::Agent        1.003  T/TO/TOBYINK/CGI-Auth-FOAF_SSL-1.003.tar.gz
 CGI::Authen::Simple                 1.0  O/OP/OPIATE/CGI-Authen-Simple-1.0.tar.gz
