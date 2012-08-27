@@ -174,7 +174,7 @@ App::Nopaste::Command             undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
 App::Nopaste::Service             undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
 App::Nopaste::Service::AnyPastebin 0.04  J/JM/JMMILLS/App-Nopaste-Service-AnyPastebin-0.04.tar.gz
 App::Nopaste::Service::Codepeek   undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
-App::Nopaste::Service::Dancebin   0.003  W/WW/WWOLF/App-Nopaste-Service-Dancebin-0.003.tar.gz
+App::Nopaste::Service::Dancebin   0.004  W/WW/WWOLF/App-Nopaste-Service-Dancebin-0.004.tar.gz
 App::Nopaste::Service::Debian     undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
 App::Nopaste::Service::Gist       undef  S/SA/SARTAK/App-Nopaste-0.35.tar.gz
 App::Nopaste::Service::Hpaste     undef  D/DR/DRBEAN/App-Nopaste-Service-Hpaste-0.03.tar.gz
