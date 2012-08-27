@@ -1468,6 +1468,7 @@ Dist::Zilla::Plugin::PortabilityTests,ABRAXXA,c
 Dist::Zilla::Plugin::PortabilityTests,DOHERTY,c
 Dist::Zilla::Plugin::PortabilityTests,MARCEL,f
 Dist::Zilla::Plugin::PortabilityTests,XENO,c
+Dist::Zilla::Plugin::PrePAN,OALDERS,f
 Dist::Zilla::Plugin::Prepender,JQUELIN,f
 Dist::Zilla::Plugin::Prereq,RJBS,f
 Dist::Zilla::Plugin::Prereqs,RJBS,f
