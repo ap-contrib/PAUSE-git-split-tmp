@@ -288,6 +288,7 @@ Net::Google::Spreadsheets::Row    undef  D/DA/DANJOU/Net-Google-Spreadsheets-0.1
 Net::Google::Spreadsheets::Spreadsheet undef  D/DA/DANJOU/Net-Google-Spreadsheets-0.1501.tar.gz
 Net::Google::Spreadsheets::Table  undef  D/DA/DANJOU/Net-Google-Spreadsheets-0.1501.tar.gz
 Net::Google::Spreadsheets::Worksheet undef  D/DA/DANJOU/Net-Google-Spreadsheets-0.1501.tar.gz
+Net::GoogleDrive                   0.02  B/BP/BPMEDLEY/Net-GoogleDrive-0.02.tar.gz
 Net::GPSD                          0.39  M/MR/MRDVT/Net-GPSD-0.39.tar.gz
 Net::GPSD3                         0.18  M/MR/MRDVT/Net-GPSD3-0.18.tar.gz
 Net::GPSD3::Base                   0.12  M/MR/MRDVT/Net-GPSD3-0.18.tar.gz
