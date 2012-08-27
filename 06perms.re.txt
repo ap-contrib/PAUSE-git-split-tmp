@@ -245,6 +245,8 @@ Redis::Dump::Config,TBR,f
 Redis::Dump::Restore,TBR,f
 Redis::Handle,TRON,f
 Redis::Hash,MELO,f
+Redis::JobQueue,SGLADKOV,f
+Redis::JobQueue::Job,SGLADKOV,f
 Redis::List,MELO,f
 Redis::Object,UKAUTZ,m
 Redis::Object::SearchResult,UKAUTZ,c
