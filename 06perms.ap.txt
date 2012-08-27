@@ -357,6 +357,8 @@ App::PPBuild::Session::Variable,EXODIST,f
 App::PPBuild::Task,EXODIST,f
 App::PPBuild::Task::File,EXODIST,f
 App::PPI::Dumper,BDFOY,f
+App::PPK,CPANEL,f
+App::PPK::Deptool,CPANEL,f
 App::Packer,MBARBON,f
 App::Packer::Backend::DemoPack,MBARBON,f
 App::Packer::Backend::PAR,AUDREYT,f

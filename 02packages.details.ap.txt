@@ -497,6 +497,8 @@ App::PodLinkCheck::ParseSections      9  K/KR/KRYDE/podlinkcheck-9.tar.gz
 App::PodPreview                   0.002  P/PS/PSHANGOV/App-PodPreview-0.002.tar.gz
 App::podweaver                     1.00  S/SG/SGRAHAM/App-podweaver-1.00.tar.gz
 App::PPI::Dumper                   0.12  B/BD/BDFOY/App-PPI-Dumper-0.12.tar.gz
+App::PPK                          undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+App::PPK::Deptool                 undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
 App::Prima::REPL                   0.03  D/DC/DCMERTENS/App-Prima-REPL-0.03.tar.gz
 App::Prolix                       undef  G/GA/GAAL/App-Prolix-0.03.tar.gz
 App::Prolix::ConfigFileRole       undef  G/GA/GAAL/App-Prolix-0.03.tar.gz

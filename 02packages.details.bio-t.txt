@@ -941,6 +941,16 @@ Build::alpha                       1.02  M/MU/MUNROER/kif/kif-1.02.tar.gz
 Build::Daily                       0.01  J/JK/JKUTEJ/Build-Daily-0.01.tar.gz
 Build::ix86                        1.02  M/MU/MUNROER/kif/kif-1.02.tar.gz
 Build::ppc                         1.02  M/MU/MUNROER/kif/kif-1.02.tar.gz
+Build::PPK                         0.01  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Bundle                undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Deptool               undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Deptool::CPAN         undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Deptool::Git          undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Deptool::HTTP         undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Deptool::Util         undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Dist                  undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Exec                  undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
+Build::PPK::Pipeline              undef  C/CP/CPANEL/Build-PPK-0.01.tar.gz
 build::Wx::XSP::Enum              undef  M/MD/MDOOTSON/Wx-0.9911.tar.gz
 build::Wx::XSP::Event             undef  M/MD/MDOOTSON/Wx-0.9911.tar.gz
 build::Wx::XSP::Overload          undef  M/MD/MDOOTSON/Wx-0.9911.tar.gz

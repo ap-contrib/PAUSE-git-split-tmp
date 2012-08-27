@@ -467,7 +467,7 @@ Params::Attr                       1.00  F/FL/FLUFFY/Params-Attr-1.00.tar.gz
 Params::Callback                   1.20  D/DW/DWHEELER/Params-CallbackRequest-1.20.tar.gz
 Params::CallbackRequest            1.20  D/DW/DWHEELER/Params-CallbackRequest-1.20.tar.gz
 Params::CallbackRequest::Exceptions 1.20  D/DW/DWHEELER/Params-CallbackRequest-1.20.tar.gz
-Params::Callbacks                  1.14  C/CP/CPANIC/Params-Callbacks-1.14.tar.gz
+Params::Callbacks                  1.15  C/CP/CPANIC/Params-Callbacks-1.15.tar.gz
 Params::Check                      0.36  B/BI/BINGOS/Params-Check-0.36.tar.gz
 Params::Check::Faster              0.03  D/DA/DAMS/Params-Check-Faster-0.03.tar.gz
 Params::Classify                  0.013  Z/ZE/ZEFRAM/Params-Classify-0.013.tar.gz
