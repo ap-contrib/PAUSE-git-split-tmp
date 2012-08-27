@@ -623,6 +623,7 @@ Math::ModInt::ChineseRemainder,MHASCH,f
 Math::ModInt::Event,MHASCH,f
 Math::ModInt::Event::Trap,MHASCH,f
 Math::ModInt::GF2,MHASCH,f
+Math::ModInt::GF3,MHASCH,f
 Math::ModInt::Perl,MHASCH,f
 Math::ModInt::Trivial,MHASCH,f
 Math::Modular::SquareRoot,PRBRENAN,f
