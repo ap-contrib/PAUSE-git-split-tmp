@@ -148,7 +148,7 @@ Sub::Spy                           0.04  Z/ZE/ZENTOOO/Sub-Spy-0.04.tar.gz
 Sub::Spy::Call                    undef  Z/ZE/ZENTOOO/Sub-Spy-0.04.tar.gz
 Sub::Spy::Result                  undef  Z/ZE/ZENTOOO/Sub-Spy-0.04.tar.gz
 Sub::Starter                     v1.0.6  S/SH/SHCOREY/Sub-Starter-v1.0.6.tar.gz
-Sub::StopCalls                     0.01  R/RU/RUZ/Sub-StopCalls-0.01.tar.gz
+Sub::StopCalls                     0.02  R/RU/RUZ/Sub-StopCalls-0.02.tar.gz
 Sub::StrictDecl                   0.003  Z/ZE/ZEFRAM/Sub-StrictDecl-0.003.tar.gz
 Sub::Stubber                       0.04  M/MN/MNUNBERG/Sub-Stubber-0.04.tar.gz
 Sub::Stubber::Stubs                0.04  M/MN/MNUNBERG/Sub-Stubber-0.04.tar.gz
