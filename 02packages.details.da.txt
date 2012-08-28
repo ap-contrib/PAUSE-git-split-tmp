@@ -1065,7 +1065,7 @@ DB::Introspector::Types::String   undef  M/MA/MASAHJI/DB-Introspector-0.01a.tgz
 DB::Introspector::Util::RelInspect undef  M/MA/MASAHJI/DB-Introspector-0.08.tgz
 DB::IntrospectorBaseTest          undef  M/MA/MASAHJI/DB-Introspector-0.08.tgz
 DB::IntrospectorTest              undef  M/MA/MASAHJI/DB-Introspector-0.08.tgz
-DB::LineCache                         0  R/RO/ROCKY/Devel-Trepan-0.34.tar.gz
+DB::LineCache                         0  R/RO/ROCKY/Devel-Trepan-0.35.tar.gz
 Db::Mediasurface                   0.03  N/NW/NWETTERS/Db-Mediasurface-0.03.tar.gz
 Db::Mediasurface::Cache            0.04  N/NW/NWETTERS/Db-Mediasurface-Cache-0.04.tar.gz
 Db::Mediasurface::ReadConfig       0.01  N/NW/NWETTERS/Db-Mediasurface-ReadConfig-0.01.tar.gz
@@ -1106,7 +1106,7 @@ DB_RO                              0.01  T/TH/THOSPEL/Video-TeletextDB-0.01.tar.
 DB_RW                              0.01  T/TH/THOSPEL/Video-TeletextDB-0.01.tar.gz
 DBA                                0.02  S/SE/SEANQ/DBA-0.02.tar.gz
 DBass                              0.53  S/SP/SPIDERBOY/DBass-0.53.tar.gz
-DBBreak                               0  R/RO/ROCKY/Devel-Trepan-0.34.tar.gz
+DBBreak                               0  R/RO/ROCKY/Devel-Trepan-0.35.tar.gz
 DBD                                 1.0  G/GM/GMPASSOS/HDB-1.05.tar.gz
 DBD::Adabas                      0.2003  J/JW/JWIED/DBD-Adabas-0.2003.tar.gz
 DBD::Adabas::db                  0.2003  J/JW/JWIED/DBD-Adabas-0.2003.tar.gz

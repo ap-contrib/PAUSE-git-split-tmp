@@ -1016,7 +1016,7 @@ Watchdog::HTTP                     0.02  C/CL/CLEMENSG/Watchdog-0.10.tar.gz
 Watchdog::Mysql                    0.01  C/CL/CLEMENSG/Watchdog-0.10.tar.gz
 Watchdog::Process                 undef  C/CL/CLEMENSG/Watchdog-0.10.tar.gz
 Watchdog::Util                    undef  C/CL/CLEMENSG/Watchdog-0.10.tar.gz
-WatchPoint                            0  R/RO/ROCKY/Devel-Trepan-0.34.tar.gz
+WatchPoint                            0  R/RO/ROCKY/Devel-Trepan-0.35.tar.gz
 Water                              0.01  S/SA/SARAVANAN/Water_0.01.tar.gz
 WateringConfigDialog              undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 WbRules                            1.10  P/PE/PERRAD/WAP-wbxml-1.10.tar.gz
