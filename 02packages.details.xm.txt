@@ -29,9 +29,9 @@ XML::Essex::Filter::OutputMonitor 0.0001  R/RB/RBS/XML-Filter-Essex-0.01.tar.gz
 XML::Essex::Model                0.0001  R/RB/RBS/XML-Filter-Essex-0.01.tar.gz
 XML::Essex::NamespaceMap         0.0001  R/RB/RBS/XML-Filter-Essex-0.01.tar.gz
 XML::Excel                         0.01  I/IS/ISTERIN/XML-Excel-0.02.tar.gz
-XML::eXistDB                       0.11  M/MA/MARKOV/XML-ExistDB-0.11.tar.gz
-XML::eXistDB::RPC                  0.11  M/MA/MARKOV/XML-ExistDB-0.11.tar.gz
-XML::eXistDB::Util                 0.11  M/MA/MARKOV/XML-ExistDB-0.11.tar.gz
+XML::eXistDB                       0.12  M/MA/MARKOV/XML-ExistDB-0.12.tar.gz
+XML::eXistDB::RPC                  0.12  M/MA/MARKOV/XML-ExistDB-0.12.tar.gz
+XML::eXistDB::Util                 0.12  M/MA/MARKOV/XML-ExistDB-0.12.tar.gz
 XML::ExtOn                         0.17  Z/ZA/ZAG/XML-ExtOn-0.17.tar.gz
 XML::ExtOn::Attributes            undef  Z/ZA/ZAG/XML-ExtOn-0.17.tar.gz
 XML::ExtOn::Context               undef  Z/ZA/ZAG/XML-ExtOn-0.17.tar.gz
