@@ -526,10 +526,10 @@ Bio::Genex::UserSec               undef  J/JA/JASONS/Bio-Genex-2.6.0.tar.gz
 Bio::Genex::UserSequenceFeature   undef  J/JA/JASONS/Bio-Genex-2.6.0.tar.gz
 Bio::Genex::USF_ExternalDBLink    undef  J/JA/JASONS/Bio-Genex-2.6.0.tar.gz
 Bio::Genex::USF_Type              undef  J/JA/JASONS/Bio-Genex-2.6.0.tar.gz
-Bio::GFF3::LowLevel                 1.3  R/RB/RBUELS/Bio-GFF3-1.3.tar.gz
-Bio::GFF3::LowLevel::Parser         1.3  R/RB/RBUELS/Bio-GFF3-1.3.tar.gz
-Bio::GFF3::LowLevel::Parser::1_0_backcompat 1.3  R/RB/RBUELS/Bio-GFF3-1.3.tar.gz
-Bio::GFF3::Transform::FromFasta     1.3  R/RB/RBUELS/Bio-GFF3-1.3.tar.gz
+Bio::GFF3::LowLevel                 1.4  R/RB/RBUELS/Bio-GFF3-1.4.tar.gz
+Bio::GFF3::LowLevel::Parser         1.4  R/RB/RBUELS/Bio-GFF3-1.4.tar.gz
+Bio::GFF3::LowLevel::Parser::1_0_backcompat 1.4  R/RB/RBUELS/Bio-GFF3-1.4.tar.gz
+Bio::GFF3::Transform::FromFasta     1.4  R/RB/RBUELS/Bio-GFF3-1.4.tar.gz
 Bio::GFF3::Transform::SyncDirectives 1.0  R/RB/RBUELS/Bio-GFF3-1.0.tar.gz
 Bio::Glite                         0.10  G/GA/GAOU/Bio-Glite-0.10.tar.gz
 Bio::GMOD                         0.028  T/TW/TWH/Bio-GMOD-0.028.tar.gz
