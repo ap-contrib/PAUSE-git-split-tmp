@@ -284,7 +284,7 @@ GunghoX::FollowLinks::Rule::Fresh::Memory undef  D/DM/DMAKI/GunghoX-FollowLinks-
 GunghoX::FollowLinks::Rule::HTML::SelectedTags undef  D/DM/DMAKI/GunghoX-FollowLinks-0.00006.tar.gz
 GunghoX::FollowLinks::Rule::MIME  undef  D/DM/DMAKI/GunghoX-FollowLinks-0.00006.tar.gz
 GunghoX::FollowLinks::Rule::URI   undef  D/DM/DMAKI/GunghoX-FollowLinks-0.00006.tar.gz
-gurpmi                            undef  T/TV/TVIGNAUD/urpmi-7.2.tar.gz
+gurpmi                            undef  T/TV/TVIGNAUD/urpmi-7.4.tar.gz
 Gwybodaeth                         0.02  D/DY/DYLUNIO/Gwybodaeth-0.02.tar.gz
 Gwybodaeth::Escape                undef  D/DY/DYLUNIO/Gwybodaeth-0.02.tar.gz
 Gwybodaeth::NamespaceManager      undef  D/DY/DYLUNIO/Gwybodaeth-0.02.tar.gz
