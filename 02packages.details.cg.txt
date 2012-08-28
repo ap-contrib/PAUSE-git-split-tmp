@@ -15,7 +15,7 @@ CGI::Untaint::countrycode3        undef  D/DA/DAVEBAIRD/CGI-Untaint-country-0.2.
 CGI::Untaint::countryname         undef  D/DA/DAVEBAIRD/CGI-Untaint-country-0.2.tar.gz
 CGI::Untaint::countrynumber       undef  D/DA/DAVEBAIRD/CGI-Untaint-country-0.2.tar.gz
 CGI::Untaint::CountyStateProvince  0.05  N/NH/NHORNE/CGI-Untaint-CountyStateProvince-0.05.tar.gz
-CGI::Untaint::CountyStateProvince::GB 0.08  N/NH/NHORNE/CGI-Untaint-CountyStateProvince-GB-0.08.tar.gz
+CGI::Untaint::CountyStateProvince::GB 0.09  N/NH/NHORNE/CGI-Untaint-CountyStateProvince-GB-0.09.tar.gz
 CGI::Untaint::CountyStateProvince::US 0.02  N/NH/NHORNE/CGI-Untaint-CountyStateProvince-US-0.02.tar.gz
 CGI::Untaint::creditcard           1.00  T/TM/TMTM/CGI-Untaint-creditcard-1.00.tar.gz
 CGI::Untaint::date                 1.00  T/TM/TMTM/CGI-Untaint-date-1.00.tar.gz
