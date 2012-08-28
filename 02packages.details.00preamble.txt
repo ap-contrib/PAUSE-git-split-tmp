@@ -5,7 +5,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   PAUSE version 1.14
 Line-Count:   119622
-Last-Updated: Tue, 28 Aug 2012 17:35:03 GMT
+Last-Updated: Tue, 28 Aug 2012 18:27:03 GMT
 
 A_Third_Package                   undef  C/CL/CLEMBURG/Test-Unit-0.13.tar.gz
 a_to_z                            undef  A/AK/AKALINUX/Data-Range-Compare-1.030.tar.gz
@@ -208,8 +208,8 @@ ACL::Lite                        0.0001  H/HO/HORNBURG/ACL-Lite-0.0001.tar.gz
 Acme                           1.111111  I/IN/INGY/Acme-1.111111.tar.gz
 Acme::24                           0.04  C/CO/COSIMO/Acme-24-0.04.tar.gz
 Acme::3mxA                        undef  D/DG/DGL/Acme-3mxA-1337.37.tar.gz
-Acme::6502                         0.76  B/BR/BRICAS/Acme-6502-0.76.tar.gz
-Acme::6502::Tube                   0.76  B/BR/BRICAS/Acme-6502-0.76.tar.gz
+Acme::6502                         0.77  B/BR/BRICAS/Acme-6502-0.77.tar.gz
+Acme::6502::Tube                   0.77  B/BR/BRICAS/Acme-6502-0.77.tar.gz
 Acme::AbhiIsNot                    0.03  A/AB/ABHIISNOT/Acme-AbhiIsNot-0.03.tar.gz
 Acme::Acferen                      0.02  A/AC/ACFEREN/Acme-Acferen-0.02.tar.gz
 Acme::Acotie                       0.02  Y/YA/YAPPO/Acme-Acotie-0.02.tar.gz
