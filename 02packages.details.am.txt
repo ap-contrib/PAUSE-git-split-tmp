@@ -338,7 +338,7 @@ AnyDBM_File::Importer             0.012  M/MA/MAJENSEN/AnyDBM_File-Importer-0.01
 AnyEvent                           7.02  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
 AnyEvent::AggressiveIdle           0.04  U/UN/UNERA/AnyEvent-AggressiveIdle-0.04.tar.gz
 AnyEvent::AIO                       1.1  M/ML/MLEHMANN/AnyEvent-AIO-1.1.tar.gz
-AnyEvent::APNS                     0.08  T/TY/TYPESTER/AnyEvent-APNS-0.08.tar.gz
+AnyEvent::APNS                     0.09  T/TY/TYPESTER/AnyEvent-APNS-0.09.tar.gz
 AnyEvent::Atom::Stream             0.02  M/MI/MIYAGAWA/AnyEvent-Atom-Stream-0.02.tar.gz
 AnyEvent::Atom::Stream::UserAgent undef  M/MI/MIYAGAWA/AnyEvent-Atom-Stream-0.02.tar.gz
 AnyEvent::Base                     7.02  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
