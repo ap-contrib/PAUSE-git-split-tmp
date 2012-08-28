@@ -1055,6 +1055,7 @@ Task::Perl::Critic::IncludingOptionalDependencies,CRITICRE,f
 Task::Perl::Critic::IncludingOptionalDependencies,ELLIOTJS,c
 Task::Perl::Critic::IncludingOptionalDependencies,THALJEF,c
 Task::Perl::Critic::IncludingOptionalDependencies,WYANT,c
+Task::PerlFormance,SCHWIGON,f
 Task::PerlX,GUGOD,f
 Task::Pinto,THALJEF,f
 Task::Plack,MIYAGAWA,f
