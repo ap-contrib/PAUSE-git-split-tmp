@@ -228,6 +228,7 @@ App::Notifier::Client::Notifier_App,SHLOMIF,f
 App::Notifier::Service,SHLOMIF,f
 App::Notifo,MELO,f
 App::OS::Detect::MachineCores,DBR,f
+App::OTRS::CreateTicket,MICHIELB,f
 App::Office::CMS,RSAVAGE,f
 App::Office::CMS::Controller,RSAVAGE,f
 App::Office::CMS::Controller::Backup,RSAVAGE,f
