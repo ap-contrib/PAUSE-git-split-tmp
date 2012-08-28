@@ -401,7 +401,7 @@ Tickit::Test::MockTerm             0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::Utils                      0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::Widget                     0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::Widget::Box                0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
-Tickit::Widget::Entry              0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
+Tickit::Widget::Entry              0.19  P/PE/PEVANS/Tickit-Widgets-0.01.tar.gz
 Tickit::Widget::Frame              0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::Widget::HBox               0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::Widget::LinearBox          0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
@@ -427,6 +427,7 @@ Tickit::Widget::VBox               0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::WidgetRole::Alignable      0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::WidgetRole::Borderable     0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 Tickit::WidgetRole::Penable        0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
+Tickit::Widgets                    0.01  P/PE/PEVANS/Tickit-Widgets-0.01.tar.gz
 Tickit::Window                     0.19  P/PE/PEVANS/Tickit-0.19.tar.gz
 TiddlyWeb::EditPage                0.04  C/CD/CDENT/TiddlyWeb/TiddlyWeb-Wikrad-0.8.tar.gz
 TiddlyWeb::Resting                  0.1  C/CD/CDENT/TiddlyWeb/TiddlyWeb-Wikrad-0.8.tar.gz
