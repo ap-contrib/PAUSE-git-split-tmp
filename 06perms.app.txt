@@ -254,6 +254,7 @@ App::Spirograph,LICHTKIND,m
 App::Sqitch,DWHEELER,f
 App::Sqitch::Command,DWHEELER,f
 App::Sqitch::Command::add,DWHEELER,f
+App::Sqitch::Command::bundle,DWHEELER,f
 App::Sqitch::Command::config,DWHEELER,f
 App::Sqitch::Command::deploy,DWHEELER,f
 App::Sqitch::Command::help,DWHEELER,f
