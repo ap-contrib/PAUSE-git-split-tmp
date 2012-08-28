@@ -857,7 +857,7 @@ Crypt::NSS::PKCS11                undef  C/CL/CLAESJAC/Crypt-NSS-0.04.tar.gz
 Crypt::NSS::PKCS11::Slot          undef  C/CL/CLAESJAC/Crypt-NSS-0.04.tar.gz
 Crypt::NSS::SSL                   undef  C/CL/CLAESJAC/Crypt-NSS-0.04.tar.gz
 Crypt::NULL                        1.02  A/AM/AMS/Crypt-NULL-1.02.tar.gz
-Crypt::OdinAuth                     0.1  M/MP/MPASTERN/Apache2-Authen-OdinAuth-0.3.tar.gz
+Crypt::OdinAuth                     0.2  M/MP/MPASTERN/Apache2-Authen-OdinAuth-0.4.tar.gz
 Crypt::OFB                         0.01  G/GU/GUGOD/Crypt-OFB-0.01.tar.gz
 Crypt::OICQ                         1.1  T/TA/TANGENT/Crypt-OICQ-1.1.tgz
 Crypt::OOEnigma                     0.3  S/SJ/SJBAKER/Crypt-OOEnigma-0.3.tar.gz
