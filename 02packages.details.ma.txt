@@ -236,7 +236,7 @@ Mail::Transport::Receive          2.106  M/MA/MARKOV/Mail-Box-2.106.tar.gz
 Mail::Transport::Send             2.106  M/MA/MARKOV/Mail-Box-2.106.tar.gz
 Mail::Transport::Sendmail         2.106  M/MA/MARKOV/Mail-Box-2.106.tar.gz
 Mail::Transport::SMTP             2.106  M/MA/MARKOV/Mail-Box-2.106.tar.gz
-Mail::Util                         2.09  M/MA/MARKOV/MailTools-2.09.tar.gz
+Mail::Util                         2.10  M/MA/MARKOV/MailTools-2.10.tar.gz
 Mail::Verify                      undef  P/PE/PETEF/Mail-Verify-0.02.tar.gz
 Mail::Verp                         0.06  G/GY/GYEPI/Mail-Verp-0.06.tar.gz
 Mail::Vmailmgr                      0.4  M/MA/MARTIN/Mail-Vmailmgr-0.4.tar.gz

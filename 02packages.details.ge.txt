@@ -359,9 +359,9 @@ Geo::ISO19139                      0.10  M/MA/MARKOV/Geo-ISO19139-0.10.tar.gz
 Geo::ISO19139::2005                0.10  M/MA/MARKOV/Geo-ISO19139-0.10.tar.gz
 Geo::ISO19139::Util                0.10  M/MA/MARKOV/Geo-ISO19139-0.10.tar.gz
 Geo::JapanMesh                 0.000002  K/KO/KOKOGIKO/Geo-JapanMesh-0.0.2.tar.gz
-Geo::KML                           0.93  M/MA/MARKOV/Geo-KML-0.93.tar.gz
+Geo::KML                           0.94  M/MA/MARKOV/Geo-KML-0.94.tar.gz
 Geo::KML::PolyMap                  1.34  I/IH/IHAQUE/KML-PolyMap-1.34.tar.gz
-Geo::KML::Util                     0.93  M/MA/MARKOV/Geo-KML-0.93.tar.gz
+Geo::KML::Util                     0.94  M/MA/MARKOV/Geo-KML-0.94.tar.gz
 Geo::Layer                        undef  A/AJ/AJOLMA/Geo-Raster-0.61.tar.gz
 Geo::Line                          0.93  M/MA/MARKOV/Geo-Point-0.93.tar.gz
 Geo::LocaPoint                    0.0.4  K/KO/KOKOGIKO/Geo-LocaPoint-0.0.4.tar.gz
