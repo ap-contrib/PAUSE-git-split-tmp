@@ -757,7 +757,7 @@ Net::Amazon::EC2::TerminateInstancesResponse undef  J/JK/JKIM/Net-Amazon-EC2-0.1
 Net::Amazon::EC2::UserData        undef  M/MA/MALLEN/Net-Amazon-EC2-0.20.tar.gz
 Net::Amazon::EC2::UserIdGroupPair undef  M/MA/MALLEN/Net-Amazon-EC2-0.20.tar.gz
 Net::Amazon::EC2::Volume          undef  M/MA/MALLEN/Net-Amazon-EC2-0.20.tar.gz
-Net::Amazon::Glacier               0.04  T/TI/TIM/Net-Amazon-Glacier-0.04.tar.gz
+Net::Amazon::Glacier               0.05  T/TI/TIM/Net-Amazon-Glacier-0.05.tar.gz
 Net::Amazon::HadoopEC2             0.02  D/DA/DANJOU/Net-Amazon-HadoopEC2-0.02.tar.gz
 Net::Amazon::HadoopEC2::Cluster   undef  D/DA/DANJOU/Net-Amazon-HadoopEC2-0.02.tar.gz
 Net::Amazon::HadoopEC2::Group     undef  D/DA/DANJOU/Net-Amazon-HadoopEC2-0.02.tar.gz
