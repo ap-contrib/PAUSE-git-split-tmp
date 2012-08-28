@@ -61,8 +61,8 @@ CPAN::Meta::YAML                  0.008  D/DA/DAGOLDEN/CPAN-Meta-YAML-0.008.tar.
 CPAN::Metadata::RDF                1.11  L/LB/LBROCARD/CPAN-Metadata-RDF-1.11.tar.gz
 CPAN::MetaMuncher                 0.006  R/RS/RSRCHBOY/Fedora-App-MaintainerTools-0.006.tar.gz
 CPAN::Metrics                      0.08  A/AD/ADAMK/CPAN-Metrics-0.08.tar.gz
-CPAN::Mini                     1.111008  R/RJ/RJBS/CPAN-Mini-1.111008.tar.gz
-CPAN::Mini::App                1.111008  R/RJ/RJBS/CPAN-Mini-1.111008.tar.gz
+CPAN::Mini                     1.111009  R/RJ/RJBS/CPAN-Mini-1.111009.tar.gz
+CPAN::Mini::App                1.111009  R/RJ/RJBS/CPAN-Mini-1.111009.tar.gz
 CPAN::Mini::Devel                  0.03  D/DA/DAGOLDEN/CPAN-Mini-Devel-0.03.tar.gz
 CPAN::Mini::Devel::Recent          0.06  D/DA/DAGOLDEN/CPAN-Mini-Devel-Recent-0.06.tar.gz
 CPAN::Mini::Extract                1.22  A/AD/ADAMK/CPAN-Mini-Extract-1.22.tar.gz
