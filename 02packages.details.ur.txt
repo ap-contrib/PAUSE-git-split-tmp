@@ -59,6 +59,8 @@ URI::Match                      0.00001  D/DM/DMAKI/URI-Match-0.00001.tar.gz
 URI::mid                           0.02  D/DO/DORIAN/URI-mid-0.02.tar.gz
 URI::mms                          undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::mq                           0.712  M/MK/MKUTTER/SOAP-Transport-MQ-0.712.tar.gz
+URI::Namespace                    undef  K/KJ/KJETILK/URI-NamespaceMap-0.01.tar.gz
+URI::NamespaceMap                  0.01  K/KJ/KJETILK/URI-NamespaceMap-0.01.tar.gz
 URI::news                         undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::nntp                         undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::OpenURL                   0.004006  T/TI/TIMBRODY/URI-OpenURL-0.4.6.tar.gz
