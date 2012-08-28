@@ -679,8 +679,12 @@ Business::OnlinePayment::Cardcom   0.02  I/IV/IVAN/Business-OnlinePayment-Cardco
 Business::OnlinePayment::CardFortress 0.02  I/IV/IVAN/Business-OnlinePayment-CardFortress-0.02.tar.gz
 Business::OnlinePayment::Cardstream 1.00  B/BE/BELCHAM/Business-OnlinePayment-Cardstream-1.0.tar.gz
 Business::OnlinePayment::CashCow   0.09  J/JO/JONASBN/Business-OnlinePayment-CashCow-0.09.tar.gz
-Business::OnlinePayment::CyberSource 2.01  X/XE/XENO/Business-OnlinePayment-CyberSource-2.01.tar.gz
+Business::OnlinePayment::CyberSource 3.000003  X/XE/XENO/Business-OnlinePayment-CyberSource-3.000003.tar.gz
+Business::OnlinePayment::CyberSource::Client 3.000003  X/XE/XENO/Business-OnlinePayment-CyberSource-3.000003.tar.gz
 Business::OnlinePayment::CyberSource::Error 2.01  X/XE/XENO/Business-OnlinePayment-CyberSource-2.01.tar.gz
+Business::OnlinePayment::CyberSource::Role::ErrorReporting 3.000003  X/XE/XENO/Business-OnlinePayment-CyberSource-3.000003.tar.gz
+Business::OnlinePayment::CyberSource::Role::InputHandling 3.000003  X/XE/XENO/Business-OnlinePayment-CyberSource-3.000003.tar.gz
+Business::OnlinePayment::CyberSource::Role::TransactionHandling 3.000003  X/XE/XENO/Business-OnlinePayment-CyberSource-3.000003.tar.gz
 Business::OnlinePayment::ElavonVirtualMerchant 0.02  R/RS/RSIDDALL/Business-OnlinePayment-ElavonVirtualMerchant-0.02.tar.gz
 Business::OnlinePayment::eSec      0.02  I/IV/IVAN/Business-OnlinePayment-eSec-0.02.tar.gz
 Business::OnlinePayment::eSelectPlus 0.03  I/IV/IVAN/Business-OnlinePayment-eSelectPlus-0.03.tar.gz
