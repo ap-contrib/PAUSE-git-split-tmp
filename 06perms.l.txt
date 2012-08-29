@@ -437,6 +437,7 @@ MAB2::Record::lokal,ANDK,f
 MAB2::Record::pnd,ANDK,f
 MAB2::Record::swd,ANDK,f
 MAB2::Record::titel,ANDK,f
+MAD::Loader,BLABOS,f
 MAIL::CONVERT,INTERGURU,f
 MAIN,PING,f
 MARC,BBIRTH,c
