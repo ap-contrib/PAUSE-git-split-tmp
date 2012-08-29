@@ -414,7 +414,7 @@ Mozilla::ObserverService           0.04  B/BO/BOSU/Mozilla-ObserverService-0.04.
 Mozilla::Prefs::Simple             0.01  R/RR/RRWO/Mozilla-Prefs-Simple-0.01.tar.gz
 Mozilla::ProfilesIni               0.02  R/RR/RRWO/Mozilla-Backup-0.06.tar.gz
 Mozilla::PromptService             0.05  B/BO/BOSU/Mozilla-PromptService-0.05.tar.gz
-Mozilla::PublicSuffix          0.001007  R/RS/RSIMOES/Mozilla-PublicSuffix-v0.1.7.tar.gz
+Mozilla::PublicSuffix          0.001008  R/RS/RSIMOES/Mozilla-PublicSuffix-v0.1.8.tar.gz
 Mozilla::SourceViewer              0.06  B/BO/BOSU/Mozilla-SourceViewer-0.06.tar.gz
 MozRepl                            0.06  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MozRepl::AnyEvent                  0.32  C/CO/CORION/MozRepl-RemoteObject-0.32.tar.gz
