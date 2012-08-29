@@ -1094,13 +1094,13 @@ DB::Tutorial::DBIx::Class::PT::BR::Result::Filho undef  H/HE/HERNAN/Tutorial-DBI
 DB::Tutorial::DBIx::Class::PT::BR::Result::Namorada undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
 DB::Tutorial::DBIx::Class::PT::BR::Result::Pai undef  H/HE/HERNAN/Tutorial-DBIx-Class-Perl-ORM-Conexao-Com-Banco-de-Dados-PT-0.01.tar.gz
 db_comparison                       1.7  C/CJ/CJONES/DBIx-Compare-1.7.tar.gz
-DB_File                           1.826  P/PM/PMQS/DB_File-1.826.tar.gz
-DB_File::BTREEINFO                1.826  P/PM/PMQS/DB_File-1.826.tar.gz
+DB_File                           1.827  P/PM/PMQS/DB_File-1.827.tar.gz
+DB_File::BTREEINFO                1.827  P/PM/PMQS/DB_File-1.827.tar.gz
 DB_File::DB_Database              0.031  R/RA/RANN/DB_File-DB_Database-0.031.tar.gz
-DB_File::HASHINFO                 1.826  P/PM/PMQS/DB_File-1.826.tar.gz
+DB_File::HASHINFO                 1.827  P/PM/PMQS/DB_File-1.827.tar.gz
 DB_File::Lock                      0.05  D/DH/DHARRIS/DB_File-Lock-0.05.tar.gz
 DB_File::Lock2                     777.  S/ST/STAS/DocSet-0.19.tar.gz
-DB_File::RECNOINFO                1.826  P/PM/PMQS/DB_File-1.826.tar.gz
+DB_File::RECNOINFO                1.827  P/PM/PMQS/DB_File-1.827.tar.gz
 DB_File::SV18x                     0.06  A/AN/ANDK/DB_File-SV18x-kit-0.06.tar.gz
 DB_RO                              0.01  T/TH/THOSPEL/Video-TeletextDB-0.01.tar.gz
 DB_RW                              0.01  T/TH/THOSPEL/Video-TeletextDB-0.01.tar.gz
