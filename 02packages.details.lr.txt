@@ -738,7 +738,7 @@ Mail::Action::Role::Purge          0.11  J/JF/JFITZ/Mail-Action-Role-Purge-0.11.
 Mail::Action::Storage              0.46  C/CH/CHROMATIC/Mail-Action-0.46.tar.gz
 Mail::Action::StorageTest         undef  C/CH/CHROMATIC/Mail-Action-0.46.tar.gz
 Mail::Action::Test                undef  C/CH/CHROMATIC/Mail-Action-0.46.tar.gz
-Mail::Address                      2.10  M/MA/MARKOV/MailTools-2.10.tar.gz
+Mail::Address                      2.11  M/MA/MARKOV/MailTools-2.11.tar.gz
 Mail::Address::MobileJp            0.09  M/MI/MIYAGAWA/Mail-Address-MobileJp-0.09.tar.gz
 Mail::Address::overload            0.03  M/MI/MIYAGAWA/CGI-Untaint-email-0.03.tar.gz
 Mail::Address::Tagged              0.01  N/NU/NUANCE/Mail-Address-Tagged-0.01.tar.gz
