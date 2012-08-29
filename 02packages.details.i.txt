@@ -458,9 +458,9 @@ Interpolation::S2A                 0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
 Interpolation::Scalar              0.71  J/JE/JENDA/Interpolation-0.71.tar.gz
 Interval                           0.01  K/KT/KTORP/Interval.0.01.tar.gz
 IntervalNode                       0.01  B/BE/BENBOOTH/IntervalTree-0.01.tar.gz
-IntervalTree                       0.04  B/BE/BENBOOTH/IntervalTree-0.04.tar.gz
-IntervalTree::Interval             0.04  B/BE/BENBOOTH/IntervalTree-0.04.tar.gz
-IntervalTree::Node                 0.04  B/BE/BENBOOTH/IntervalTree-0.04.tar.gz
+IntervalTree                       0.05  B/BE/BENBOOTH/IntervalTree-0.05.tar.gz
+IntervalTree::Interval             0.05  B/BE/BENBOOTH/IntervalTree-0.05.tar.gz
+IntervalTree::Node                 0.05  B/BE/BENBOOTH/IntervalTree-0.05.tar.gz
 IntroPage                         undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Introspector                       0.04  M/MD/MDUPONT/Introspector-0.04.tar.gz
 Introspector::BaseType            undef  M/MD/MDUPONT/Introspector-0.04.tar.gz
