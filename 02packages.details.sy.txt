@@ -169,7 +169,7 @@ Syntax::Feature::EachOnArray       0.03  S/SH/SHARYANTO/Syntax-Feature-EachOnArr
 Syntax::Feature::Function         0.002  P/PH/PHAYLON/Syntax-Feature-Function-0.002.tar.gz
 Syntax::Feature::Gather        1.002000  F/FR/FREW/Syntax-Feature-Gather-1.002000.tar.gz
 Syntax::Feature::Io               0.001  P/PH/PHAYLON/Syntax-Feature-Io-0.001.tar.gz
-Syntax::Feature::Junction      0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
+Syntax::Feature::Junction      0.003000  F/FR/FREW/Syntax-Keyword-Junction-0.003000.tar.gz
 Syntax::Feature::KeysOnArray       0.03  S/SH/SHARYANTO/Syntax-Feature-EachOnArray-0.03.tar.gz
 Syntax::Feature::Loop            v1.6.0  I/IK/IKEGAMI/Syntax-Feature-Loop-v1.6.0.tar.gz
 Syntax::Feature::Maybe            0.002  T/TO/TOBYINK/PerlX-Maybe-0.002.tar.gz
@@ -336,12 +336,12 @@ Syntax::Highlight::Shell           0.04  S/SA/SAPER/Syntax-Highlight-Shell-0.04.
 Syntax::Highlight::Universal        0.4  P/PA/PALANT/Syntax-Highlight-Universal-0.4.tar.gz
 Syntax::Keyword::Gather        1.002000  F/FR/FREW/Syntax-Keyword-Gather-1.002000.tar.gz
 Syntax::Keyword::Gather::MagicArrayRef 1.002000  F/FR/FREW/Syntax-Keyword-Gather-1.002000.tar.gz
-Syntax::Keyword::Junction      0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
-Syntax::Keyword::Junction::All 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
-Syntax::Keyword::Junction::Any 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
-Syntax::Keyword::Junction::Base 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
-Syntax::Keyword::Junction::None 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
-Syntax::Keyword::Junction::One 0.002001  F/FR/FREW/Syntax-Keyword-Junction-0.002001.tar.gz
+Syntax::Keyword::Junction      0.003000  F/FR/FREW/Syntax-Keyword-Junction-0.003000.tar.gz
+Syntax::Keyword::Junction::All 0.003000  F/FR/FREW/Syntax-Keyword-Junction-0.003000.tar.gz
+Syntax::Keyword::Junction::Any 0.003000  F/FR/FREW/Syntax-Keyword-Junction-0.003000.tar.gz
+Syntax::Keyword::Junction::Base 0.003000  F/FR/FREW/Syntax-Keyword-Junction-0.003000.tar.gz
+Syntax::Keyword::Junction::None 0.003000  F/FR/FREW/Syntax-Keyword-Junction-0.003000.tar.gz
+Syntax::Keyword::Junction::One 0.003000  F/FR/FREW/Syntax-Keyword-Junction-0.003000.tar.gz
 Syntax::X                         undef  V/VM/VMORAL/ikiwiki-plugin-syntax_0.24.tar.gz
 Syringe                            0.01  H/HI/HITAPEX/Syringe.tar.gz
 sys                            0.002000  A/AS/ASKSH/sys-0.2.tar.gz
