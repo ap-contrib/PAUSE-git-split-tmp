@@ -439,7 +439,7 @@ Image::Compare::EXACT             undef  A/AV/AVIF/Image-Compare-0.9.tar.gz
 Image::Compare::IMAGE             undef  A/AV/AVIF/Image-Compare-0.9.tar.gz
 Image::Compare::THRESHOLD         undef  A/AV/AVIF/Image-Compare-0.9.tar.gz
 Image::Compare::THRESHOLD_COUNT   undef  A/AV/AVIF/Image-Compare-0.9.tar.gz
-Image::DCMTK                       0.04  R/RH/RHAXTON/Image-DCMTK-0.04.tar.gz
+Image::DCMTK                       0.05  R/RH/RHAXTON/Image-DCMTK-0.05.tar.gz
 Image::DeAnim                      0.02  K/KE/KENMACF/Image-DeAnim-0.02.tar.gz
 Image::DecodeQR                    0.01  J/JI/JIRO/Image-DecodeQR-0.01.tar.gz
 Image::Delivery                    0.14  A/AD/ADAMK/Image-Delivery-0.14.tar.gz
