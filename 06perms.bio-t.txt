@@ -561,6 +561,7 @@ Bot::BasicBot::Pluggable::Module::Notes::Store::DBIC::Schema::Result::Tag,JROBIN
 Bot::BasicBot::Pluggable::Module::Notes::Store::SQLite,JROBINSON,f
 Bot::BasicBot::Pluggable::Module::PasteBin,RECSKY,m
 Bot::BasicBot::Pluggable::Module::PathtraqPageCounter,KITANO,f
+Bot::BasicBot::Pluggable::Module::Puppet,DIZ,f
 Bot::BasicBot::Pluggable::Module::RD,IVORW,f
 Bot::BasicBot::Pluggable::Module::RD::Command,IVORW,f
 Bot::BasicBot::Pluggable::Module::RD::Help,IVORW,f
