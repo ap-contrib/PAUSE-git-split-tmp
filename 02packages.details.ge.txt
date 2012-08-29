@@ -336,7 +336,7 @@ Geo::GoogleEarth::Pluggable::StyleMap 0.09  M/MR/MRDVT/Geo-GoogleEarth-Pluggable
 Geo::GoogleMaps::MobileTool    0.000001  K/KO/KOKOGIKO/Geo-GoogleMaps-MobileTool-0.0.1.tar.gz
 Geo::Gpx                           0.26  A/AN/ANDYA/Geo-Gpx-0.26.tar.gz
 Geo::Hash                          0.02  A/AN/ANDYA/Geo-Hash-0.02.tar.gz
-Geo::Hash::XS                   0.00013  D/DM/DMAKI/Geo-Hash-XS-0.00013.tar.gz
+Geo::Hash::XS                   0.00015  D/DM/DMAKI/Geo-Hash-XS-0.00015.tar.gz
 Geo::Hashing                       0.06  Z/ZI/ZIGDON/Geo-Hashing-0.06.tar.gz
 Geo::Hashing::Source::Peeron      undef  Z/ZI/ZIGDON/Geo-Hashing-0.06.tar.gz
 Geo::Hashing::Source::Random      undef  Z/ZI/ZIGDON/Geo-Hashing-0.06.tar.gz
