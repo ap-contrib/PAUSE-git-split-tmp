@@ -493,7 +493,7 @@ File::TinyLock                      1.1  J/JK/JKISTER/File-TinyLock-1.01.tgz
 File::Tools                        0.06  S/SZ/SZABGAB/File-Tools-0.06.tar.gz
 File::Touch                        0.08  N/NW/NWETTERS/File-Touch-0.08.tar.gz
 File::Trash                        1.10  L/LE/LEOCHARRE/File-Trash-1.10.tar.gz
-File::Trash::FreeDesktop           0.07  S/SH/SHARYANTO/File-Trash-FreeDesktop-0.07.tar.gz
+File::Trash::FreeDesktop           0.08  S/SH/SHARYANTO/File-Trash-FreeDesktop-0.08.tar.gz
 File::Trash::Undoable              0.06  S/SH/SHARYANTO/File-Trash-Undoable-0.06.tar.gz
 File::TreeBuilder                  0.02  L/LU/LUCS/File-TreeBuilder-0.02.tar.gz
 File::TreeBuilder_T                0.02  L/LU/LUCS/File-TreeBuilder-0.02.tar.gz
