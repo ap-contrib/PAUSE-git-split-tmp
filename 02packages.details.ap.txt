@@ -477,6 +477,11 @@ App::PM::Announce::Feed::meetup   undef  R/RK/RKRIMEN/App-PM-Announce-0.025.tar.
 App::PM::Announce::Feed::useperl  undef  R/RK/RKRIMEN/App-PM-Announce-0.025.tar.gz
 App::PM::Announce::History        undef  R/RK/RKRIMEN/App-PM-Announce-0.025.tar.gz
 App::PM::Announce::Util           undef  R/RK/RKRIMEN/App-PM-Announce-0.025.tar.gz
+App::PM::Website               0.122420  S/SP/SPAZM/App-PM-Website-0.122420.tar.gz
+App::PM::Website::Command      0.122420  S/SP/SPAZM/App-PM-Website-0.122420.tar.gz
+App::PM::Website::Command::Build 0.122420  S/SP/SPAZM/App-PM-Website-0.122420.tar.gz
+App::PM::Website::Command::Init 0.122420  S/SP/SPAZM/App-PM-Website-0.122420.tar.gz
+App::PM::Website::Command::Install 0.122420  S/SP/SPAZM/App-PM-Website-0.122420.tar.gz
 App::pmcheck                    v1.1.11  X/XA/XANNI/pmcheck-v1.1.11.tar.gz
 App::Pmhack                       0.002  P/PS/PSHANGOV/App-Pmhack-0.002.tar.gz
 App::pmodinfo                      0.10  T/TB/TBR/App-pmodinfo-0.10.tar.gz

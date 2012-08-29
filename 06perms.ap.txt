@@ -349,6 +349,11 @@ App::PM::Announce::History,RKRIMEN,c
 App::PM::Announce::History,ROKR,f
 App::PM::Announce::Util,RKRIMEN,c
 App::PM::Announce::Util,ROKR,f
+App::PM::Website,SPAZM,f
+App::PM::Website::Command,SPAZM,f
+App::PM::Website::Command::Build,SPAZM,f
+App::PM::Website::Command::Init,SPAZM,f
+App::PM::Website::Command::Install,SPAZM,f
 App::PNGCrush,ZOFFIX,f
 App::PPBuild,EXODIST,m
 App::PPBuild::CUI,EXODIST,f
