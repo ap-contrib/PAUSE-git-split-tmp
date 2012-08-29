@@ -592,6 +592,8 @@ FusionInventory::Agent::Task::SNMPQuery::ThreeCom,GROUSSE,c
 FusionInventory::Agent::Task::WakeOnLan,FUSINV,f
 FusionInventory::Agent::Task::WakeOnLan,GONERI,c
 FusionInventory::Agent::Task::WakeOnLan,GROUSSE,c
+FusionInventory::Agent::Threads,FUSINV,c
+FusionInventory::Agent::Threads,GONERI,c
 FusionInventory::Agent::Threads,GROUSSE,f
 FusionInventory::Agent::Tools,FUSINV,f
 FusionInventory::Agent::Tools,GONERI,c
@@ -617,6 +619,8 @@ FusionInventory::Agent::Tools::MacOS,GROUSSE,c
 FusionInventory::Agent::Tools::Network,FUSINV,f
 FusionInventory::Agent::Tools::Network,GONERI,c
 FusionInventory::Agent::Tools::Network,GROUSSE,c
+FusionInventory::Agent::Tools::SNMP,FUSINV,c
+FusionInventory::Agent::Tools::SNMP,GONERI,c
 FusionInventory::Agent::Tools::SNMP,GROUSSE,f
 FusionInventory::Agent::Tools::Screen,FUSINV,f
 FusionInventory::Agent::Tools::Screen,GONERI,c
