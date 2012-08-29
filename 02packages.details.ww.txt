@@ -284,7 +284,7 @@ WWW::Link_Controller::ReadConf     1.04  M/MI/MIKEDLR/Link_Controller-0.037.tar.
 WWW::Link_Controller::ReadConf::utils 1.03  M/MI/MIKEDLR/Link_Controller-0.037.tar.gz
 WWW::Link_Controller::URL          1.08  M/MI/MIKEDLR/Link_Controller-0.037.tar.gz
 WWW::Link_Controller::Version     0.037  M/MI/MIKEDLR/Link_Controller-0.037.tar.gz
-WWW::LinkChecker::Internal       v0.0.1  S/SH/SHLOMIF/WWW-LinkChecker-Internal-v0.0.1.tar.gz
+WWW::LinkChecker::Internal       v0.0.2  S/SH/SHLOMIF/WWW-LinkChecker-Internal-v0.0.2.tar.gz
 WWW::LinkedIn                     0.004  J/JO/JOHND/WWW-LinkedIn-0.004.tar.gz
 WWW::Lipsum::Chinese               0.03  G/GU/GUGOD/WWW-Lipsum-Chinese-0.03.tar.gz
 WWW::Live::Auth                     1.0  J/JE/JENKINSON/WWW-Live-Auth-1.0.0.tar.gz
