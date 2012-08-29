@@ -67,6 +67,7 @@ REST::Google::Search::Video,EJS,f
 REST::Google::Search::Web,EJS,f
 REST::Google::Translate,EJS,f
 REST::Google::Translate2,MOB,f
+REST::Neo4p,MAJENSEN,m
 REST::Request,FROTZ,f
 REST::RequestFast,FROTZ,f
 REST::Resource,FROTZ,f
