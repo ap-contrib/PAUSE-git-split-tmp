@@ -159,6 +159,7 @@ JSON::backportPP::Boolean       2.27200  M/MA/MAKAMAKA/JSON-2.53.tar.gz
 JSON::Boolean                      2.53  M/MA/MAKAMAKA/JSON-2.53.tar.gz
 JSON::Converter                    1.14  M/MA/MAKAMAKA/JSON-1.15.tar.gz
 JSON::CPAN::Meta                  7.001  R/RJ/RJBS/JSON-CPAN-Meta-7.001.tar.gz
+JSON::Diffable                 0.000001  P/PH/PHAYLON/JSON-Diffable-0.000001.tar.gz
 JSON::DWIW                         0.47  D/DO/DOWENS/JSON-DWIW-0.47.tar.gz
 JSON::DWIW::Boolean                1.04  D/DO/DOWENS/JSON-DWIW-0.47.tar.gz
 JSON::DWIW::Exporter               0.47  D/DO/DOWENS/JSON-DWIW-0.47.tar.gz
