@@ -278,6 +278,8 @@ Monitoring::Livestatus::INET,NIERLEIN,f
 Monitoring::Livestatus::MULTI,NIERLEIN,f
 Monitoring::Livestatus::UNIX,NIERLEIN,f
 Monkey::Patch,FRODWITH,f
+Monkey::Patch::Action,SHARYANTO,f
+Monkey::Patch::Action::Handle,SHARYANTO,f
 Monkey::Patch::Context,SHARYANTO,f
 Monkey::Patch::Context::Handle,SHARYANTO,f
 Monkey::Patch::Context::Handle::Class,SHARYANTO,f

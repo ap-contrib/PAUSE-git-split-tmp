@@ -140,6 +140,8 @@ Monitoring::Livestatus::INET      undef  N/NI/NIERLEIN/Monitoring-Livestatus-0.7
 Monitoring::Livestatus::MULTI     undef  N/NI/NIERLEIN/Monitoring-Livestatus-0.74.tar.gz
 Monitoring::Livestatus::UNIX      undef  N/NI/NIERLEIN/Monitoring-Livestatus-0.74.tar.gz
 Monkey::Patch                      0.03  F/FR/FRODWITH/Monkey-Patch-0.03.tar.gz
+Monkey::Patch::Action              0.02  S/SH/SHARYANTO/Monkey-Patch-Action-0.02.tar.gz
+Monkey::Patch::Action::Handle      0.02  S/SH/SHARYANTO/Monkey-Patch-Action-0.02.tar.gz
 Monkey::Patch::Handle              0.03  F/FR/FRODWITH/Monkey-Patch-0.03.tar.gz
 Monkey::Patch::Handle::Class       0.03  F/FR/FRODWITH/Monkey-Patch-0.03.tar.gz
 Monkey::Patch::Handle::Object      0.03  F/FR/FRODWITH/Monkey-Patch-0.03.tar.gz
