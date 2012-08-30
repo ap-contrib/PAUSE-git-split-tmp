@@ -1429,6 +1429,7 @@ Bio::SeqIO::ztr,BIRNEY,c
 Bio::SeqIO::ztr,CJFIELDS,c
 Bio::SeqIO::ztr,SENDU,c
 Bio::SeqIO::ztr,STAJICH,c
+Bio::SeqReader,JAC,m
 Bio::SeqUtils,BIOPERLML,f
 Bio::SeqUtils,BIRNEY,c
 Bio::SeqUtils,CJFIELDS,c

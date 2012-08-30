@@ -564,7 +564,7 @@ Class::Meta::Types::Perl,DWHEELER,f
 Class::Meta::Types::String,DWHEELER,f
 Class::Method::Auto,BAUERB,f
 Class::Method::Debug,MARCEL,f
-Class::Method::Delegate,JONTAYLOR,f
+Class::Method::Delegate,JONTAYLOR,m
 Class::Method::Modifiers,ETHER,c
 Class::Method::Modifiers,MSTROUT,c
 Class::Method::Modifiers,SARTAK,f

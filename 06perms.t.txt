@@ -648,6 +648,7 @@ Triangul,CECALA,f
 Tribunais,EDUARDOW,m
 Tribunais::TJES,EDUARDOW,m
 Tribunais::TRTES,EDUARDOW,m
+Triceps,BABKIN,m
 Tridion::BusinessConnector,TJC,f
 Trigger,SUZUKI,f
 TriggerTest::Plugin::After,SHAY,f
