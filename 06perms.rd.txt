@@ -68,6 +68,13 @@ REST::Google::Search::Web,EJS,f
 REST::Google::Translate,EJS,f
 REST::Google::Translate2,MOB,f
 REST::Neo4p,MAJENSEN,m
+REST::Neo4p::Agent,MAJENSEN,f
+REST::Neo4p::Entity,MAJENSEN,f
+REST::Neo4p::Exceptions,MAJENSEN,f
+REST::Neo4p::Index,MAJENSEN,f
+REST::Neo4p::Node,MAJENSEN,f
+REST::Neo4p::Query,MAJENSEN,f
+REST::Neo4p::Relationship,MAJENSEN,f
 REST::Request,FROTZ,f
 REST::RequestFast,FROTZ,f
 REST::Resource,FROTZ,f
