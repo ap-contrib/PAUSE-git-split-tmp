@@ -758,7 +758,7 @@ Microsoft::AdCenter::V8::CampaignManagementService::SetAdExtensionsToCampaignsRe
 Microsoft::AdCenter::V8::CampaignManagementService::SetAdRotationToAdGroupsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetAnalyticsTypeResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetCampaignAdExtensionsResponse,XERXES,f
-Microsoft::AdCenter::V8::CampaignManagementService::SetExclusionsToAssociatedEntitiesResponse,XERXES,c
+Microsoft::AdCenter::V8::CampaignManagementService::SetExclusionsToAssociatedEntitiesResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetNegativeKeywordsToAdGroupsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetNegativeKeywordsToCampaignsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetNegativeSitesToAdGroupsResponse,XERXES,f
