@@ -1015,7 +1015,6 @@ RT::Extension::MenuBarSearches,TSIBLEY,c
 RT::Extension::MenuBarUserTickets,DUMB,f
 RT::Extension::MenubarUserTickets,DUMB,m
 RT::Extension::MergeUsers,ALEXMV,c
-RT::Extension::MergeUsers,CLKAO,c
 RT::Extension::MergeUsers,FALCONE,f
 RT::Extension::MergeUsers,JESSE,c
 RT::Extension::MergeUsers,KEVINR,c

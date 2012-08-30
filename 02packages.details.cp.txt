@@ -331,7 +331,6 @@ CPAN::Testers::WWW::Statistics::Excel 0.02  B/BA/BARBIE/CPAN-Testers-WWW-Statist
 CPAN::Testers::WWW::Statistics::Graphs 1.00  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-1.00.tar.gz
 CPAN::Testers::WWW::Statistics::Leaderboard 1.00  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-1.00.tar.gz
 CPAN::Testers::WWW::Statistics::Page 1.00  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-1.00.tar.gz
-CPAN::Testers::WWW::Statistics::Pages 0.97  B/BA/BARBIE/CPAN-Testers-WWW-Statistics-0.97.tar.gz
 CPAN::Testers::WWW::Wiki           1.05  B/BA/BARBIE/CPAN-Testers-WWW-Wiki-1.05.tar.gz
 CPAN::Unpack                       0.31  L/LB/LBROCARD/CPAN-Unpack-0.31.tar.gz
 CPAN::Unwind                       0.06  M/MS/MSCHILLI/CPAN-Unwind-0.06.tar.gz
@@ -345,8 +344,6 @@ CPAN::WAIT                         0.27  U/UL/ULPFR/CPAN-WAIT-0.27-2.tar.gz
 CPAN::Webserver                    0.01  L/LB/LBROCARD/CPAN-Webserver-0.01.tar.gz
 CPAN::WWW::Testers                 0.50  B/BA/BARBIE/CPAN-WWW-Testers-0.50.tar.gz
 CPAN::WWW::Testers::Generator      0.31  B/BA/BARBIE/CPAN-WWW-Testers-Generator-0.31.tar.gz
-CPAN::WWW::Testers::Generator::Article 0.30  B/BA/BARBIE/CPAN-WWW-Testers-Generator-0.30.tar.gz
-CPAN::WWW::Testers::Generator::Database 0.30  B/BA/BARBIE/CPAN-WWW-Testers-Generator-0.30.tar.gz
 CPAN::WWW::Top100::Generator       0.10  A/AD/ADAMK/CPAN-WWW-Top100-Generator-0.10.tar.gz
 CPAN::WWW::Top100::Retrieve        0.01  A/AP/APOCAL/CPAN-WWW-Top100-Retrieve-0.01.tar.gz
 CPAN::WWW::Top100::Retrieve::Dist  0.01  A/AP/APOCAL/CPAN-WWW-Top100-Retrieve-0.01.tar.gz
