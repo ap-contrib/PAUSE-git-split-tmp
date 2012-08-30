@@ -75,7 +75,7 @@ Date::Ethiopic::ET::zgu           undef  D/DY/DYACOB/Date-Ethiopic-0.13.tar.gz
 Date::Ethiopic::gez               undef  D/DY/DYACOB/Date-Ethiopic-0.13.tar.gz
 Date::Ethiopic::ti                undef  D/DY/DYACOB/Date-Ethiopic-0.13.tar.gz
 Date::Extract                      0.04  S/SA/SARTAK/Date-Extract-0.04.tar.gz
-Date::Extract::P800Picture        0.100  I/IP/IPENBURG/Date-Extract-P800Picture-0.100.tar.gz
+Date::Extract::P800Picture        0.101  I/IP/IPENBURG/Date-Extract-P800Picture-0.101.tar.gz
 Date::Extract::P800Picture::TypeDef 0.01  I/IP/IPENBURG/Date-Extract-P800Picture-0.04.tar.gz
 Date::Extract::Surprise           0.006  S/SS/SSCAFFIDI/Date-Extract-Surprise-0.006.tar.gz
 Date::EzDate                       1.11  M/MI/MIKO/Date-EzDate-1.11.tar.gz
