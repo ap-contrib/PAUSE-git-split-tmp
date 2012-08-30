@@ -703,6 +703,7 @@ Encode::CN::HZ,DANKOGAI,f
 Encode::CN::Utility,SAL,f
 Encode::CNMap,QJZHOU,f
 Encode::Config,DANKOGAI,f
+Encode::Deep,SEWI,f
 Encode::Detect,JGMYERS,m
 Encode::Detect::CJK,FOOLFISH,m
 Encode::Detect::Detector,JGMYERS,m

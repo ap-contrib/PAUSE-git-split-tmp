@@ -495,6 +495,7 @@ Encode::compat::Alias              0.05  A/AU/AUTRIJUS/Encode-compat-0.07.tar.gz
 Encode::compat::common             0.06  A/AU/AUTRIJUS/Encode-compat-0.07.tar.gz
 Encode::compat::MIME::Header::ISO_2022_JP 0.01  K/KA/KAZUHO/Encode-compat-MIME-Header-ISO_2022_JP-0.01.tar.gz
 Encode::Config                     2.05  D/DA/DANKOGAI/Encode-2.47.tar.gz
+Encode::Deep                       0.01  S/SE/SEWI/Encode-Deep-0.01.tar.gz
 Encode::Detect                     1.01  J/JG/JGMYERS/Encode-Detect-1.01.tar.gz
 Encode::Detect::CJK            2.000002  F/FO/FOOLFISH/Encode-Detect-CJK-2.0.2.tar.gz
 Encode::Detect::Detector           1.01  J/JG/JGMYERS/Encode-Detect-1.01.tar.gz
