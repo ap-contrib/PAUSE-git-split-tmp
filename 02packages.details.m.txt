@@ -637,7 +637,7 @@ nes_top_container                  1.03  N/NE/NES/Nes-1.03.tar.gz
 nes_txt                            1.03  N/NE/NES/Nes-1.03.tar.gz
 nes_unknown                        1.03  N/NE/NES/Nes-1.03.tar.gz
 NestedMap                           1.0  D/DC/DCANTRELL/NestedMap-1.0.tar.gz
-Net::Abuse::Utils                  0.11  M/MI/MIKEGRB/Net-Abuse-Utils-0.11.tar.gz
+Net::Abuse::Utils                  0.12  M/MI/MIKEGRB/Net-Abuse-Utils-0.12.tar.gz
 Net::Abuse::Utils::Spamhaus        0.03  S/SA/SAXJAZMAN/net/Net-Abuse-Utils-Spamhaus-0.03.tar.gz
 Net::ACAP                         undef  K/KJ/KJOHNSON/NetxAP-0.01.tar.gz
 Net::ACAP::Response               undef  K/KJ/KJOHNSON/NetxAP-0.01.tar.gz
