@@ -689,7 +689,9 @@ Log::Report::Dispatcher::Perl,MARKOV,f
 Log::Report::Dispatcher::Syslog,MARKOV,f
 Log::Report::Dispatcher::Try,MARKOV,f
 Log::Report::Exception,MARKOV,f
+Log::Report::Extract,MARKOV,f
 Log::Report::Extract::PerlPPI,MARKOV,f
+Log::Report::Extract::Template,MARKOV,f
 Log::Report::Lexicon::Index,MARKOV,f
 Log::Report::Lexicon::PO,MARKOV,f
 Log::Report::Lexicon::POT,MARKOV,f
