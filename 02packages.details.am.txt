@@ -564,7 +564,7 @@ AnyEvent::ReadLine::Gnu             1.0  M/ML/MLEHMANN/AnyEvent-ReadLine-Gnu-1.0
 AnyEvent::Redis                    0.23  D/DG/DGL/AnyEvent-Redis-0.23.tar.gz
 AnyEvent::Redis::Federated         0.06  J/JZ/JZAWODNY/AnyEvent-Redis-Federated-0.06.tar.gz
 AnyEvent::Redis::Protocol         undef  D/DG/DGL/AnyEvent-Redis-0.23.tar.gz
-AnyEvent::Redis::RipeRedis        1.009  I/IP/IPH/AnyEvent-Redis-RipeRedis-1.009.tar.gz
+AnyEvent::Redis::RipeRedis        1.100  I/IP/IPH/AnyEvent-Redis-RipeRedis-1.100.tar.gz
 AnyEvent::Retry                    0.03  J/JR/JROCKWAY/AnyEvent-Retry-0.03.tar.gz
 AnyEvent::Retry::Coro              0.03  J/JR/JROCKWAY/AnyEvent-Retry-0.03.tar.gz
 AnyEvent::Retry::Interval          0.03  J/JR/JROCKWAY/AnyEvent-Retry-0.03.tar.gz
