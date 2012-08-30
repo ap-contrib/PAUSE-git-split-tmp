@@ -185,6 +185,7 @@ MongoDBx::Class::ParsedAttribute::DateTime,IDOPEREL,f
 MongoDBx::Class::Reference,IDOPEREL,f
 MongoDBx::KeyValue,IDOPEREL,f
 MongoDBx::Protocol,TADAM,f
+MongoDBx::Queue,DAGOLDEN,f
 MongoX,DOGGY,f
 MongoX::Context,DOGGY,f
 MongoX::Helper,DOGGY,f
