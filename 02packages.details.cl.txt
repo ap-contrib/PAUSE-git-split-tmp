@@ -395,6 +395,7 @@ Class::Meta::Types::Perl           0.66  D/DW/DWHEELER/Class-Meta-0.66.tar.gz
 Class::Meta::Types::String         0.66  D/DW/DWHEELER/Class-Meta-0.66.tar.gz
 Class::Method::Auto                1.00  B/BA/BAUERB/Class-Method-Auto-1.00.tar.gz
 Class::Method::Debug           1.101420  M/MA/MARCEL/Class-Method-Debug-1.101420.tar.gz
+Class::Method::Delegate            0.01  J/JO/JONTAYLOR/Class-Method-Delegate-0.01.zip
 Class::Method::Modifiers           1.09  S/SA/SARTAK/Class-Method-Modifiers-1.09.tar.gz
 Class::Method::Modifiers::Fast    0.041  K/KI/KITANO/Class-Method-Modifiers-Fast-0.041.tar.gz
 Class::MethodCache                 0.05  F/FL/FLORA/Class-MethodCache-0.05.tar.gz
