@@ -442,7 +442,7 @@ RT::Extension::MandatoryRequestor  0.02  E/EL/ELACOUR/RT-Extension-MandatoryRequ
 RT::Extension::MandatorySubject    0.05  E/EL/ELACOUR/RT-Extension-MandatorySubject-0.05.tar.gz
 RT::Extension::MenuBarSearches     0.06  J/JE/JESSE/RT-Extension-MenubarSearches-0.06.tar.gz
 RT::Extension::MenuBarUserTickets   1.1  D/DU/DUMB/RT-Extension-MenubarUserTickets/RT-Extension-MenubarUserTickets-1.1.tar.gz
-RT::Extension::MergeUsers          0.06  T/TS/TSIBLEY/RT-Extension-MergeUsers-0.06.tar.gz
+RT::Extension::MergeUsers          0.07  S/SU/SUNNAVY/RT-Extension-MergeUsers-0.07.tar.gz
 RT::Extension::MobileUI            1.03  F/FA/FALCONE/RT-Extension-MobileUI-1.03.tar.gz
 RT::Extension::MoveRules           0.01  R/RU/RUZ/RT-Extension-MoveRules-0.01.tar.gz
 RT::Extension::MoveRules::Test    undef  R/RU/RUZ/RT-Extension-MoveRules-0.01.tar.gz
