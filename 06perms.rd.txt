@@ -73,6 +73,7 @@ REST::Neo4p::Entity,MAJENSEN,f
 REST::Neo4p::Exceptions,MAJENSEN,f
 REST::Neo4p::Index,MAJENSEN,f
 REST::Neo4p::Node,MAJENSEN,f
+REST::Neo4p::Path,MAJENSEN,f
 REST::Neo4p::Query,MAJENSEN,f
 REST::Neo4p::Relationship,MAJENSEN,f
 REST::Request,FROTZ,f
