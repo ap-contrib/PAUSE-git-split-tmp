@@ -342,7 +342,7 @@ JSTAPd::Server::Contents::js      undef  Y/YA/YAPPO/JSTAPd-0.03.tar.gz
 JSTAPd::Server::controller        undef  Y/YA/YAPPO/JSTAPd-0.03.tar.gz
 JSTAPd::Suite                     undef  Y/YA/YAPPO/JSTAPd-0.03.tar.gz
 JSTAPd::TAP                       undef  Y/YA/YAPPO/JSTAPd-0.03.tar.gz
-JSYNC                              0.13  I/IN/INGY/JSYNC-0.13.tar.gz
+JSYNC                              0.14  I/IN/INGY/JSYNC-0.14.tar.gz
 Judy                               0.40  J/JJ/JJORE/Judy-0.40.tar.gz
 Judy::1                           undef  J/JJ/JJORE/Judy-0.40.tar.gz
 Judy::HS                          undef  J/JJ/JJORE/Judy-0.40.tar.gz
