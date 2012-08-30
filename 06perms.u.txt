@@ -10,6 +10,7 @@ Unix::Mknod,PIRZYK,m
 Unix::MyPathToInc,HAG,f
 Unix::PID,DMUEY,m
 Unix::PID::Tiny,DMUEY,f
+Unix::Passwd::File,SHARYANTO,f
 Unix::PasswdFile,SSNODGRA,f
 Unix::PasswdFileOps,BMAYNARD,f
 Unix::Process,JETTERO,f

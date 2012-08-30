@@ -1020,6 +1020,7 @@ RT::Extension::MergeUsers,FALCONE,f
 RT::Extension::MergeUsers,JESSE,c
 RT::Extension::MergeUsers,KEVINR,c
 RT::Extension::MergeUsers,RUZ,c
+RT::Extension::MergeUsers,SUNNAVY,c
 RT::Extension::MergeUsers,TSIBLEY,c
 RT::Extension::MobileUI,FALCONE,f
 RT::Extension::MobileUI,JESSE,c

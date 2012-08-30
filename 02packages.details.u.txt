@@ -274,6 +274,7 @@ Unix::Lsof                     0.000009  M/MA/MARCB/Unix-Lsof/Unix-Lsof-0.0.9.ta
 Unix::Lsof::Result             0.000009  M/MA/MARCB/Unix-Lsof/Unix-Lsof-0.0.9.tar.gz
 Unix::Mknod                        0.04  P/PI/PIRZYK/Unix-Mknod-0.04.tar.gz
 Unix::MyPathToInc                   0.1  H/HA/HAG/Unix-MyPathToInc-0.1.tar.gz
+Unix::Passwd::File                 0.01  S/SH/SHARYANTO/Unix-Passwd-File-0.01.tar.gz
 Unix::PasswdFile                   0.06  S/SS/SSNODGRA/Unix-ConfigFile-0.06.tar.gz
 Unix::PasswdFileOps                 0.4  B/BM/BMAYNARD/Unix-PasswdFileOps-0.4.tar.gz
 Unix::PID                          0.23  D/DM/DMUEY/Unix-PID-0.23.tar.gz
