@@ -371,6 +371,7 @@ File::Repl                         1.29  D/DR/DROBERTS/File-Repl-1.29-withoutwor
 File::Revision                     1.04  S/SO/SOFTDIA/File-Revision-0.03.tar.gz
 File::Rotate::Backup               0.13  D/DO/DOWENS/File-Rotate-Backup-0.13.tar.gz
 File::Rotate::Backup::Copy         1.10  D/DO/DOWENS/File-Rotate-Backup-0.13.tar.gz
+File::RotateLogs                   0.01  K/KA/KAZEBURO/File-RotateLogs-0.01.tar.gz
 File::RoundRobin                   0.04  H/HO/HOREA/File-RoundRobin/File-RoundRobin-0.04.tar.gz
 File::RsyBak                       0.18  S/SH/SHARYANTO/File-RsyBak-0.18.tar.gz
 File::Rsync                        0.43  L/LE/LEAKIN/File-Rsync-0.43.tar.gz

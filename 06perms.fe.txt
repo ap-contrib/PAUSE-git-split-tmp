@@ -783,6 +783,7 @@ File::Repl,DROBERTS,m
 File::Revision,SOFTDIA,f
 File::Rotate::Backup,DOWENS,f
 File::Rotate::Backup::Copy,DOWENS,f
+File::RotateLogs,KAZEBURO,f
 File::RoundRobin,EVOZON,c
 File::RoundRobin,HOREA,m
 File::RsyBak,SHARYANTO,f
