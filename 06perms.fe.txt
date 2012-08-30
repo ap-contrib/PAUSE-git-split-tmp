@@ -993,6 +993,7 @@ File::Transaction::Atomic,NCLEATON,f
 File::Trash,LEOCHARRE,f
 File::Trash::FreeDesktop,SHARYANTO,f
 File::Trash::Undoable,SHARYANTO,f
+File::Tree::Snapshot,PHAYLON,f
 File::TreeBuilder,LUCS,f
 File::TreeBuilder_T,LUCS,f
 File::Type,PMISON,f

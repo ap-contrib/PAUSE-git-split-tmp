@@ -496,6 +496,7 @@ File::Touch                        0.08  N/NW/NWETTERS/File-Touch-0.08.tar.gz
 File::Trash                        1.10  L/LE/LEOCHARRE/File-Trash-1.10.tar.gz
 File::Trash::FreeDesktop           0.09  S/SH/SHARYANTO/File-Trash-FreeDesktop-0.09.tar.gz
 File::Trash::Undoable              0.07  S/SH/SHARYANTO/File-Trash-Undoable-0.07.tar.gz
+File::Tree::Snapshot           0.000001  P/PH/PHAYLON/File-Tree-Snapshot-0.000001.tar.gz
 File::TreeBuilder                  0.02  L/LU/LUCS/File-TreeBuilder-0.02.tar.gz
 File::TreeBuilder_T                0.02  L/LU/LUCS/File-TreeBuilder-0.02.tar.gz
 File::TTX                          0.03  M/MI/MICHAEL/File-TTX-0.03.tar.gz
