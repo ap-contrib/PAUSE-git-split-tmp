@@ -1026,7 +1026,7 @@ Bundle::DBD::Informix          2011.0612  J/JO/JOHNL/DBD-Informix-2011.0612.tar.
 Bundle::DBD::InterBase             0.30  E/ED/EDPRATOMO/DBD-InterBase-0.43.tar.gz
 Bundle::DBD::JDBC                  0.71  V/VI/VIZDOM/DBD-JDBC-0.71.tar.gz
 Bundle::DBD::mSQL                2.0419  J/JW/JWIED/Msql-Mysql-modules-1.2219.tar.gz
-Bundle::DBD::mysql                4.004  C/CA/CAPTTOFU/DBD-mysql-4.021.tar.gz
+Bundle::DBD::mysql                4.004  C/CA/CAPTTOFU/DBD-mysql-4.022.tar.gz
 Bundle::DBD::Pg                  2.19.3  T/TU/TURNSTEP/DBD-Pg-2.19.3.tar.gz
 Bundle::DBD::PO                    2.10  S/ST/STEFFENW/Bundle-DBD-PO-2.10.tar.gz
 Bundle::DBD::Sys                  0.102  R/RE/REHSACK/DBD-Sys-0.102.tar.gz
