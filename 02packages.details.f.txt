@@ -143,7 +143,7 @@ FusionInventory::Agent::Task::Inventory::Input::Win32::Videos undef  F/FU/FUSINV
 FusionInventory::Agent::Task::Inventory::Inventory undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Task::NetDiscovery 2.1  F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-2.1.tar.gz
 FusionInventory::Agent::Task::NetDiscovery::Dico undef  F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-1.5.tar.gz
-FusionInventory::Agent::Task::NetDiscovery::Dictionary undef  G/GR/GROUSSE/FusionInventory-Agent-Task-Network-1.0.0.tar.gz
+FusionInventory::Agent::Task::NetDiscovery::Dictionary undef  G/GO/GONERI/FusionInventory-Agent-Task-Network-1.0.1.tar.gz
 FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Alcatel undef  F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-2.1.tar.gz
 FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Axis undef  F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-2.1.tar.gz
 FusionInventory::Agent::Task::NetDiscovery::Manufacturer::Ddwrt undef  F/FU/FUSINV/FusionInventory-Agent-Task-NetDiscovery-2.1.tar.gz
@@ -163,7 +163,7 @@ FusionInventory::Agent::Task::NetInventory::Manufacturer::Cisco undef  F/FU/FUSI
 FusionInventory::Agent::Task::NetInventory::Manufacturer::Nortel undef  F/FU/FUSINV/FusionInventory-Agent-Task-NetInventory-2.1.tar.gz
 FusionInventory::Agent::Task::NetInventory::Manufacturer::Procurve undef  F/FU/FUSINV/FusionInventory-Agent-Task-NetInventory-2.1.tar.gz
 FusionInventory::Agent::Task::WakeOnLan 1.0  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
-FusionInventory::Agent::Threads   undef  G/GR/GROUSSE/FusionInventory-Agent-Task-Network-1.0.0.tar.gz
+FusionInventory::Agent::Threads   undef  G/GO/GONERI/FusionInventory-Agent-Task-Network-1.0.1.tar.gz
 FusionInventory::Agent::Tools     undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Tools::AIX undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Tools::Generic undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
@@ -173,7 +173,7 @@ FusionInventory::Agent::Tools::Linux undef  F/FU/FUSINV/FusionInventory-Agent-2.
 FusionInventory::Agent::Tools::MacOS undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Tools::Network undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Tools::Screen undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
-FusionInventory::Agent::Tools::SNMP undef  G/GR/GROUSSE/FusionInventory-Agent-Task-Network-1.0.0.tar.gz
+FusionInventory::Agent::Tools::SNMP undef  G/GO/GONERI/FusionInventory-Agent-Task-Network-1.0.1.tar.gz
 FusionInventory::Agent::Tools::Solaris undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Tools::Unix undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Tools::Win32 undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
