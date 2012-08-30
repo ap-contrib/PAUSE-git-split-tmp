@@ -550,7 +550,7 @@ Chess::ICC                         0.02  T/TB/TBONE/Chess-ICC-0.02.tar.gz
 Chess::Mbox                         1.3  T/TB/TBONE/Chess-Mbox-1.3.tar.gz
 Chess::NumberMoves                 0.03  T/TB/TBONE/Chess-NumberMoves-0.03.tar.gz
 Chess::Pgn                         0.03  M/MA/MAIRE/Chess-Pgn-0.03.tar.gz
-Chess::PGN::EPD                    0.30  H/HS/HSMYERS/Chess-PGN-EPD-0.30.tar.gz
+Chess::PGN::EPD                    0.31  H/HS/HSMYERS/Chess-PGN-EPD-0.31.tar.gz
 Chess::PGN::Filter                 0.15  H/HS/HSMYERS/Chess-PGN-Filter-0.15.tar.gz
 Chess::PGN::Moves                  0.05  H/HS/HSMYERS/Chess-PGN-Moves-0.05.tar.gz
 Chess::PGN::Parse                  0.19  G/GM/GMAX/Chess-PGN-Parse-0.19.tar.gz
