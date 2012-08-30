@@ -438,7 +438,7 @@ Bot::BasicBot::Pluggable::Module::Notes::Store::DBIC::Schema::Result::Tag undef 
 Bot::BasicBot::Pluggable::Module::Notes::Store::SQLite 0.02  J/JR/JROBINSON/Bot-BasicBot-Pluggable-Module-Notes-0.02.tar.gz
 Bot::BasicBot::Pluggable::Module::PasteBin 0.01  R/RE/RECSKY/Bot-BasicBot-Pluggable-Module-Pastebin-0.01.tar.gz
 Bot::BasicBot::Pluggable::Module::PathtraqPageCounter 0.01  K/KI/KITANO/Bot-BasicBot-Pluggable-Module-Collection-0.01.tar.gz
-Bot::BasicBot::Pluggable::Module::Puppet 1.00  D/DI/DIZ/Bot-BasicBot-Pluggable-Module-Puppet-1.00.tar.gz
+Bot::BasicBot::Pluggable::Module::Puppet 1.01  D/DI/DIZ/Bot-BasicBot-Pluggable-Module-Puppet-1.01.tar.gz
 Bot::BasicBot::Pluggable::Module::RD 0.02  I/IV/IVORW/Bot-BasicBot-Pluggable-Module-RD-0.02.tar.gz
 Bot::BasicBot::Pluggable::Module::RD::Command 0.02  I/IV/IVORW/Bot-BasicBot-Pluggable-Module-RD-0.02.tar.gz
 Bot::BasicBot::Pluggable::Module::RD::Help 0.01  I/IV/IVORW/Bot-BasicBot-Pluggable-Module-RD-0.01.tar.gz
