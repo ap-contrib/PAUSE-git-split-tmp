@@ -372,6 +372,7 @@ Queue::Base,ARPADF,f
 Queue::Base,RUSSOZ,c
 Queue::Beanstalk,LUNATIC,m
 Queue::DBI,AUBERTG,m
+Queue::DBI::Admin,AUBERTG,f
 Queue::DBI::Element,AUBERTG,f
 Queue::Dir,LUISMUNOZ,f
 Queue::Fork,SALVA,c
