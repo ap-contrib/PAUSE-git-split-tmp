@@ -880,6 +880,7 @@ Games::Solitaire::Verify::Foundations,SHLOMIF,f
 Games::Solitaire::Verify::Freecells,SHLOMIF,f
 Games::Solitaire::Verify::Move,SHLOMIF,f
 Games::Solitaire::Verify::Solution,SHLOMIF,f
+Games::Solitaire::Verify::Solution::ExpandMultiCardMoves,SHLOMIF,f
 Games::Solitaire::Verify::State,SHLOMIF,f
 Games::Solitaire::Verify::VariantParams,SHLOMIF,f
 Games::Solitaire::Verify::VariantsMap,SHLOMIF,f
