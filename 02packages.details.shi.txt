@@ -661,7 +661,7 @@ SMS::Send::DE::Sipgate             0.02  T/TE/TEX/SMS-Send-DE-Sipgate-0.02.tar.g
 SMS::Send::DeviceGsm               1.06  B/BI/BINGOS/SMS-Send-DeviceGsm-1.06.tar.gz
 SMS::Send::DistributeSMS           0.01  D/DS/DSOBON/SMS-Send-DistributeSMS-0.01.tar.gz
 SMS::Send::Driver                  0.06  A/AD/ADAMK/SMS-Send-1.06.tar.gz
-SMS::Send::Nexmo                  undef  M/MI/MICHIELB/SMS-Send-Nexmo-0.12.tar.gz
+SMS::Send::Nexmo                   0.20  M/MI/MICHIELB/SMS-Send-Nexmo-0.20.tar.gz
 SMS::Send::NexmoUnicode            0.01  J/JN/JNLIN/SMS-Send-NexmoUnicode-0.01.tar.gz
 SMS::Send::NL::Mollie              0.01  B/BL/BLOM/SMS-Send-NL-Mollie-0.01.tar.gz
 SMS::Send::NL::MyVodafone          0.04  B/BL/BLOM/SMS-Send-NL-MyVodafone-0.04.tar.gz
