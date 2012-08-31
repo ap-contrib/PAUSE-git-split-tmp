@@ -353,7 +353,7 @@ Test::WWW::Mechanize::Catalyst     0.58  B/BO/BOBTFISH/Test-WWW-Mechanize-Cataly
 Test::WWW::Mechanize::Catalyst::Aux 0.45  L/LB/LBROCARD/Test-WWW-Mechanize-Catalyst-0.45.tar.gz
 Test::WWW::Mechanize::CGI           0.1  M/MR/MRAMBERG/Test-WWW-Mechanize-CGI-0.1.tar.gz
 Test::WWW::Mechanize::CGIApp       0.05  H/HA/HARTZELL/Test-WWW-Mechanize-CGIApp-0.05.tar.gz
-Test::WWW::Mechanize::Dancer      0.002  W/WW/WWOLF/Test-WWW-Mechanize-Dancer-0.002.tar.gz
+Test::WWW::Mechanize::Dancer      0.003  W/WW/WWOLF/Test-WWW-Mechanize-Dancer-0.003.tar.gz
 Test::WWW::Mechanize::Declare  0.000000  A/AP/APEIRON/Test-WWW-Mechanize-Declare-0.000000.tar.gz
 Test::WWW::Mechanize::Driver        0.6  D/DU/DUELAFN/Test-WWW-Mechanize-Driver-0.6.tar.gz
 Test::WWW::Mechanize::Driver::Util  0.2  D/DU/DUELAFN/Test-WWW-Mechanize-Driver-0.6.tar.gz
