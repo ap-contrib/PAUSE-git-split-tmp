@@ -333,7 +333,7 @@ Process::Serializable              0.30  A/AD/ADAMK/Process-0.30.tar.gz
 Process::SizeLimit::Core         0.9501  A/AU/AUDREYT/Process-SizeLimit-Core-0.9501.tar.gz
 Process::Storable                  0.30  A/AD/ADAMK/Process-0.30.tar.gz
 Process::YAML                      0.04  S/SM/SMUELLER/Process-YAML-0.04.tar.gz
-Proclet                            0.09  K/KA/KAZEBURO/Proclet-0.09.tar.gz
+Proclet                            0.10  K/KA/KAZEBURO/Proclet-0.10.tar.gz
 produce                            0.01  D/DB/DBEAZLEY/swig1.1p5.tar.gz
 Profile                           0.061  M/MA/MARKWIN/CNC-Cog-0.061.tar.gz
 Profile::Log                       0.02  S/SA/SAMV/Profile-Log-0.02.tar.gz
