@@ -1430,6 +1430,8 @@ Bio::SeqIO::ztr,CJFIELDS,c
 Bio::SeqIO::ztr,SENDU,c
 Bio::SeqIO::ztr,STAJICH,c
 Bio::SeqReader,JAC,m
+Bio::SeqReader::Fastq,JAC,f
+Bio::SeqReader::FastqRecord,JAC,f
 Bio::SeqUtils,BIOPERLML,f
 Bio::SeqUtils,BIRNEY,c
 Bio::SeqUtils,CJFIELDS,c
