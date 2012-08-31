@@ -714,6 +714,7 @@ Perl::Squish                       1.06  A/AD/ADAMK/Perl-Squish-1.06.tar.gz
 Perl::Staff                        0.03  S/SE/SEWI/Perl-Staff-0.03.tar.gz
 Perl::Strip                         1.1  M/ML/MLEHMANN/Perl-Strip-1.1.tar.gz
 Perl::SVCount                      0.01  R/RG/RGARCIA/Perl-SVCount-0.01.tar.gz
+Perl::Syntax                       1.00  R/RO/ROCKY/Perl-Syntax-1.00.tar.gz
 Perl::Tags                         0.28  O/OS/OSFAMERON/Perl-Tags-0.28.tar.gz
 Perl::Tags::ClassDot           1.005000  A/AS/ASKSH/Class-Dot-1.5.0.tar.gz
 Perl::Tags::ClassDot::Tag::Property 1.005000  A/AS/ASKSH/Class-Dot-1.5.0.tar.gz
