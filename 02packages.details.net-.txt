@@ -36,7 +36,6 @@ Net::Gandi::Operation          1.122180  H/HO/HOBBESTIG/Net-Gandi-1.122180.tar.g
 Net::Gandi::Role::XMLRPC       1.122180  H/HO/HOBBESTIG/Net-Gandi-1.122180.tar.gz
 Net::Gandi::Transport::XMLRPC  1.122180  H/HO/HOBBESTIG/Net-Gandi-1.122180.tar.gz
 Net::Gandi::Types              1.122180  H/HO/HOBBESTIG/Net-Gandi-1.122180.tar.gz
-Net::GDrive                        0.01  B/BP/BPMEDLEY/Net-GDrive-0.01.tar.gz
 Net::Gen                          1.011  S/SP/SPIDB/Net-ext-1.011.tar.gz
 Net::GenCassandra::AccessLevel    undef  T/TE/TEODOR/Net-Cassandra-Easy-0.15.tar.gz
 Net::GenCassandra::AuthenticationException undef  T/TE/TEODOR/Net-Cassandra-Easy-0.15.tar.gz

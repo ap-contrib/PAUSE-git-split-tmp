@@ -973,7 +973,6 @@ Games::PangZero::TutorialGame         0  F/FR/FROGGS/Games-PangZero-v1.4.1.tar.g
 Games::PangZero::UpsideDownBall       0  F/FR/FROGGS/Games-PangZero-v1.4.1.tar.gz
 Games::PangZero::WaterBall            0  F/FR/FROGGS/Games-PangZero-v1.4.1.tar.gz
 Games::PangZero::XmasBall             0  F/FR/FROGGS/Games-PangZero-v1.4.1.tar.gz
-Games::Pentago                     0.01  T/TI/TIM/Games-Pentago-0.01.tar.gz
 Games::Pentominos                   1.0  D/DA/DAMI/Games-Pentominos-1.0.tar.gz
 Games::Perlwar                     0.03  Y/YA/YANICK/Games-Perlwar-0.03.tar.gz
 Games::Perlwar::AgentEval          0.03  Y/YA/YANICK/Games-Perlwar-0.03.tar.gz

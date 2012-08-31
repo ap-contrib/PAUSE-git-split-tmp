@@ -871,7 +871,6 @@ Wx::Perl::PodEditor::PodParser     0.01  R/RE/RENEEB/Wx-Perl-PodEditor-0.03.tar.
 Wx::Perl::PodEditor::XMLParser     0.01  R/RE/RENEEB/Wx-Perl-PodEditor-0.03.tar.gz
 Wx::Perl::PodRichText                 2  K/KR/KRYDE/Wx-Perl-PodBrowser-2.tar.gz
 Wx::Perl::PodRichText::ChangedEvent   2  K/KR/KRYDE/Wx-Perl-PodBrowser-2.tar.gz
-Wx::Perl::PodRichText::PodParser      1  K/KR/KRYDE/Wx-Perl-PodBrowser-1.tar.gz
 Wx::Perl::PodRichText::SimpleParser   2  K/KR/KRYDE/Wx-Perl-PodBrowser-2.tar.gz
 Wx::Perl::ProcessStream            0.32  M/MD/MDOOTSON/Wx-Perl-ProcessStream-0.32.tar.gz
 Wx::Perl::ProcessStream::Process   0.32  M/MD/MDOOTSON/Wx-Perl-ProcessStream-0.32.tar.gz
