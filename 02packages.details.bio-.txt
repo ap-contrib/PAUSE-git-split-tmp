@@ -370,7 +370,7 @@ Bio::SeqFeature::AnnotationAdaptor 1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.g
 Bio::SeqFeature::Collection    1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SeqFeature::CollectionI   1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SeqFeature::Computation   1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
-Bio::SeqFeature::Coverage             0  L/LD/LDS/Bio-SamTools-1.35.tar.gz
+Bio::SeqFeature::Coverage             0  L/LD/LDS/Bio-SamTools-1.36.tar.gz
 Bio::SeqFeature::FeaturePair   1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SeqFeature::Gene::Exon    1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SeqFeature::Gene::ExonI   1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
