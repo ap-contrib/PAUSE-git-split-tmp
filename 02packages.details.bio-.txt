@@ -457,6 +457,9 @@ Bio::SeqIO::tigrxml            1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SeqIO::tinyseq            1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SeqIO::tinyseq::tinyseqHandler 1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SeqIO::ztr                1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
+Bio::SeqReader                 0.000002  J/JA/JAC/Bio-SeqReader-0.0.2.tar.gz
+Bio::SeqReader::Fastq             undef  J/JA/JAC/Bio-SeqReader-0.0.2.tar.gz
+Bio::SeqReader::FastqRecord       undef  J/JA/JAC/Bio-SeqReader-0.0.2.tar.gz
 Bio::SeqUtils                  1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::SFF                          0.005  L/LE/LEONT/Bio-SFF-0.005.tar.gz
 Bio::SFF::Entry                   0.005  L/LE/LEONT/Bio-SFF-0.005.tar.gz
