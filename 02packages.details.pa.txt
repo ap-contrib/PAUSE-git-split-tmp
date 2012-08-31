@@ -1,5 +1,5 @@
 Passwd::Unix                      0.621  S/ST/STRZELEC/Passwd-Unix-0.621.tar.gz
-Passwd::Unix::Alt                0.5212  S/SH/SHARYANTO/Passwd-Unix-Alt-0.5212.tar.gz
+Passwd::Unix::Alt                0.5213  S/SH/SHARYANTO/Passwd-Unix-Alt-0.5213.tar.gz
 Password::Policy                   0.02  A/AN/ANELSON/Password-Policy-0.02.tar.gz
 Password::Policy::Encryption       0.02  A/AN/ANELSON/Password-Policy-0.02.tar.gz
 Password::Policy::Encryption::MD5  0.02  A/AN/ANELSON/Password-Policy-Encryption-MD5-0.02.tar.gz
