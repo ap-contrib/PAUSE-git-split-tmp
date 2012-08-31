@@ -433,9 +433,9 @@ MooseX::ABCD::Trait::Class        0.001  T/TO/TOBYINK/MooseX-ABCD-0.001.tar.gz
 MooseX::AbstractFactory        0.004001  X/XE/XENO/MooseX-AbstractFactory-0.004001.tar.gz
 MooseX::AbstractFactory::Meta::Class 0.004001  X/XE/XENO/MooseX-AbstractFactory-0.004001.tar.gz
 MooseX::AbstractFactory::Role  0.004001  X/XE/XENO/MooseX-AbstractFactory-0.004001.tar.gz
-MooseX::AbstractMethod            0.003  R/RS/RSRCHBOY/MooseX-AbstractMethod-0.003.tar.gz
-MooseX::AbstractMethod::Trait::Class 0.003  R/RS/RSRCHBOY/MooseX-AbstractMethod-0.003.tar.gz
-MooseX::AbstractMethod::Trait::Method 0.003  R/RS/RSRCHBOY/MooseX-AbstractMethod-0.003.tar.gz
+MooseX::AbstractMethod            0.004  R/RS/RSRCHBOY/MooseX-AbstractMethod-0.004.tar.gz
+MooseX::AbstractMethod::Trait::Class 0.004  R/RS/RSRCHBOY/MooseX-AbstractMethod-0.004.tar.gz
+MooseX::AbstractMethod::Trait::Method 0.004  R/RS/RSRCHBOY/MooseX-AbstractMethod-0.004.tar.gz
 MooseX::Accessors::ReadWritePrivate v1.4.0  E/EL/ELLIOTJS/MooseX-Accessors-ReadWritePrivate-v1.4.0.tar.gz
 MooseX::Accessors::ReadWritePrivate::Role::Attribute v1.4.0  E/EL/ELLIOTJS/MooseX-Accessors-ReadWritePrivate-v1.4.0.tar.gz
 MooseX::Adopt::Class::Accessor::Fast 0.00200  F/FL/FLORA/MooseX-Emulate-Class-Accessor-Fast-0.00903.tar.gz
