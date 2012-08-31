@@ -319,9 +319,9 @@ WWW::Mechanize::Cached             1.41  O/OA/OALDERS/WWW-Mechanize-Cached-1.41.
 WWW::Mechanize::Cached::GZip       0.12  P/PE/PEGI/WWW-Mechanize-Cached-GZip-0.12.tar.gz
 WWW::Mechanize::CGI                 0.3  M/MR/MRAMBERG/WWW-Mechanize-CGI-0.3.tar.gz
 WWW::Mechanize::DecodedContent     0.02  M/MI/MIYAGAWA/WWW-Mechanize-DecodedContent-0.02.tar.gz
-WWW::Mechanize::Firefox            0.66  C/CO/CORION/WWW-Mechanize-Firefox-0.66.tar.gz
-WWW::Mechanize::Firefox::DSL       0.66  C/CO/CORION/WWW-Mechanize-Firefox-0.66.tar.gz
-WWW::Mechanize::Firefox::Examples  0.66  C/CO/CORION/WWW-Mechanize-Firefox-0.66.tar.gz
+WWW::Mechanize::Firefox            0.67  C/CO/CORION/WWW-Mechanize-Firefox-0.67.tar.gz
+WWW::Mechanize::Firefox::DSL       0.67  C/CO/CORION/WWW-Mechanize-Firefox-0.67.tar.gz
+WWW::Mechanize::Firefox::Examples  0.67  C/CO/CORION/WWW-Mechanize-Firefox-0.67.tar.gz
 WWW::Mechanize::FormFiller         0.10  C/CO/CORION/WWW-Mechanize-FormFiller-0.10.tar.gz
 WWW::Mechanize::FormFiller::Value  0.10  C/CO/CORION/WWW-Mechanize-FormFiller-0.10.tar.gz
 WWW::Mechanize::FormFiller::Value::Ask 0.52  C/CO/CORION/WWW-Mechanize-Shell-0.52.tar.gz
