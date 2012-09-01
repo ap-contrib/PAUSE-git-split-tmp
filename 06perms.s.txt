@@ -216,6 +216,7 @@ Sybase::TdsSocket,BDULFER,c
 Sybase::TdsSocket,JFROEBE,f
 Sybase::Xfer,SPRAGST,m
 Sybsource,RVAZ,f
+SymObj,SDAODEN,m
 SymTab,CHM,f
 SymTab,LUKKA,c
 Symantec::PCAnywhere::Profile,KULP,f
