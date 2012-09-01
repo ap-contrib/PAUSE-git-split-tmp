@@ -417,12 +417,12 @@ Mozilla::PromptService             0.05  B/BO/BOSU/Mozilla-PromptService-0.05.ta
 Mozilla::PublicSuffix          0.001008  R/RS/RSIMOES/Mozilla-PublicSuffix-v0.1.8.tar.gz
 Mozilla::SourceViewer              0.06  B/BO/BOSU/Mozilla-SourceViewer-0.06.tar.gz
 MozRepl                            0.06  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
-MozRepl::AnyEvent                  0.32  C/CO/CORION/MozRepl-RemoteObject-0.32.tar.gz
+MozRepl::AnyEvent                  0.33  C/CO/CORION/MozRepl-RemoteObject-0.33.tar.gz
 MozRepl::Client                    0.03  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MozRepl::Log                       0.01  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MozRepl::Plugin::Base              0.03  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MozRepl::Plugin::JSON              0.04  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
-MozRepl::Plugin::JSON2             0.32  C/CO/CORION/MozRepl-RemoteObject-0.32.tar.gz
+MozRepl::Plugin::JSON2             0.33  C/CO/CORION/MozRepl-RemoteObject-0.33.tar.gz
 MozRepl::Plugin::LinkExtor         0.01  Z/ZI/ZIGOROU/MozRepl-Plugin-LinkTools-0.01.tar.gz
 MozRepl::Plugin::Location          0.01  Z/ZI/ZIGOROU/MozRepl-Plugin-LinkTools-0.01.tar.gz
 MozRepl::Plugin::OpenNewTab        0.01  Z/ZI/ZIGOROU/MozRepl-Plugin-LinkTools-0.01.tar.gz
@@ -438,8 +438,8 @@ MozRepl::Plugin::Repl::Search      0.01  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MozRepl::Plugin::Repl::Util::DocFor 0.01  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MozRepl::Plugin::Repl::Util::HelpUrlFor 0.01  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MozRepl::Plugin::Restart           0.02  Z/ZI/ZIGOROU/MozRepl-Plugin-Restart-0.02.tar.gz
-MozRepl::RemoteObject              0.32  C/CO/CORION/MozRepl-RemoteObject-0.32.tar.gz
-MozRepl::RemoteObject::Methods     0.32  C/CO/CORION/MozRepl-RemoteObject-0.32.tar.gz
+MozRepl::RemoteObject              0.33  C/CO/CORION/MozRepl-RemoteObject-0.33.tar.gz
+MozRepl::RemoteObject::Methods     0.33  C/CO/CORION/MozRepl-RemoteObject-0.33.tar.gz
 MozRepl::Util                      0.01  Z/ZI/ZIGOROU/MozRepl-0.06.tar.gz
 MP3::Album                         0.14  B/BM/BMAVT/MP3-Album-0.14.tar.gz
 MP3::Album::Layout                 0.01  B/BM/BMAVT/MP3-Album-0.14.tar.gz
