@@ -243,9 +243,9 @@ DBIx::RetryOverDisconnects         0.07  S/SY/SYBER/DBIx-RetryOverDisconnects-0.
 DBIx::RetryOverDisconnects::db     0.07  S/SY/SYBER/DBIx-RetryOverDisconnects-0.07.tar.gz
 DBIx::RetryOverDisconnects::st     0.07  S/SY/SYBER/DBIx-RetryOverDisconnects-0.07.tar.gz
 DBIx::RewriteDSN                   0.05  S/SA/SATOH/DBIx-RewriteDSN-0.05.tar.gz
-DBIx::RoboQuery                   0.020  R/RW/RWSTAUNER/DBIx-RoboQuery-0.020.tar.gz
-DBIx::RoboQuery::ResultSet        0.020  R/RW/RWSTAUNER/DBIx-RoboQuery-0.020.tar.gz
-DBIx::RoboQuery::Util             0.020  R/RW/RWSTAUNER/DBIx-RoboQuery-0.020.tar.gz
+DBIx::RoboQuery                   0.021  R/RW/RWSTAUNER/DBIx-RoboQuery-0.021.tar.gz
+DBIx::RoboQuery::ResultSet        0.021  R/RW/RWSTAUNER/DBIx-RoboQuery-0.021.tar.gz
+DBIx::RoboQuery::Util             0.021  R/RW/RWSTAUNER/DBIx-RoboQuery-0.021.tar.gz
 DBIx::Roles                        1.04  K/KA/KARASIK/DBIx-Roles-1.04.tar.gz
 DBIx::Roles::AutoReconnect         1.00  K/KA/KARASIK/DBIx-Roles-1.04.tar.gz
 DBIx::Roles::Buffered              1.00  K/KA/KARASIK/DBIx-Roles-1.04.tar.gz
