@@ -293,7 +293,9 @@ App::perlall,RURBAN,f
 App::perlbrew,GUGOD,f
 App::perlfind,MARCEL,f
 App::perlfind::Plugin::FoundIn,MARCEL,f
+App::perlfind::Plugin::Functions,MARCEL,f
 App::perlfind::Plugin::Label,MARCEL,f
+App::perlfind::Plugin::Perlvar,MARCEL,f
 App::perlfind::Plugin::SpecialPackages,MARCEL,f
 App::perlfind::Plugin::UseModule,MARCEL,f
 App::perlhl,DOHERTY,m

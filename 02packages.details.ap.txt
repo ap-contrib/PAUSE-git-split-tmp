@@ -325,11 +325,13 @@ App::perlall                      undef  R/RU/RURBAN/App-perlall-0.17.tar.gz
 App::perlbrew                      0.50  G/GU/GUGOD/App-perlbrew-0.50.tar.gz
 App::Perldoc::Search               0.11  J/JJ/JJORE/App-Perldoc-Search-0.11.tar.gz
 App::Perldoc::Search::_Parser      0.11  J/JJ/JJORE/App-Perldoc-Search-0.11.tar.gz
-App::perlfind                      2.03  M/MA/MARCEL/App-perlfind-2.03.tar.gz
-App::perlfind::Plugin::FoundIn     2.03  M/MA/MARCEL/App-perlfind-2.03.tar.gz
-App::perlfind::Plugin::Label       2.03  M/MA/MARCEL/App-perlfind-2.03.tar.gz
-App::perlfind::Plugin::SpecialPackages 2.03  M/MA/MARCEL/App-perlfind-2.03.tar.gz
-App::perlfind::Plugin::UseModule   2.03  M/MA/MARCEL/App-perlfind-2.03.tar.gz
+App::perlfind                      2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
+App::perlfind::Plugin::FoundIn     2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
+App::perlfind::Plugin::Functions   2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
+App::perlfind::Plugin::Label       2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
+App::perlfind::Plugin::Perlvar     2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
+App::perlfind::Plugin::SpecialPackages 2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
+App::perlfind::Plugin::UseModule   2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
 App::perlhl                       0.004  D/DO/DOHERTY/App-perlhl-0.004.tar.gz
 App::PerlLocalEnv                 undef  M/MA/MART/perl-local-env-0.03.tar.gz
 App::perlmv                        0.43  S/SH/SHARYANTO/App-perlmv-0.43.tar.gz
@@ -366,7 +368,7 @@ App::perlrocks                    undef  G/GU/GUGOD/perlrocks-0.02.tar.gz
 App::perlrocks::Helpers           undef  G/GU/GUGOD/perlrocks-0.02.tar.gz
 App::perlrocks::Install           undef  G/GU/GUGOD/perlrocks-0.02.tar.gz
 App::perlrocks::Search            undef  G/GU/GUGOD/perlrocks-0.02.tar.gz
-App::perlzonji                     2.03  M/MA/MARCEL/App-perlfind-2.03.tar.gz
+App::perlzonji                     2.04  M/MA/MARCEL/App-perlfind-2.04.tar.gz
 App::perlzonji::Plugin::FoundIn    2.00  M/MA/MARCEL/App-perlzonji-2.00.tar.gz
 App::perlzonji::Plugin::Label      2.00  M/MA/MARCEL/App-perlzonji-2.00.tar.gz
 App::perlzonji::Plugin::SpecialPackages 2.00  M/MA/MARCEL/App-perlzonji-2.00.tar.gz
