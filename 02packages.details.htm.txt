@@ -986,7 +986,7 @@ HTTP::CDN::CSS::LESSp               0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
 HTTP::CDN::CSS::Minifier::XS        0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
 HTTP::CDN::JavaScript::Minifier::XS 0.7  M/MS/MSMITH/HTTP-CDN-0.7.tar.gz
 HTTP::CheckProxy                    0.4  D/DH/DHUDES/HTTP-CheckProxy-0.4.tar.gz
-HTTP::Client                       1.52  N/NE/NEILB/HTTP-Client-1.52.tar.gz
+HTTP::Client                       1.53  N/NE/NEILB/HTTP-Client-1.53.tar.gz
 HTTP::Client::Parallel             0.02  A/AD/ADAMK/HTTP-Client-Parallel-0.02.tar.gz
 HTTP::Config                       6.00  G/GA/GAAS/HTTP-Message-6.03.tar.gz
 HTTP::CookieMonster                0.03  O/OA/OALDERS/HTTP-CookieMonster-0.03.tar.gz
