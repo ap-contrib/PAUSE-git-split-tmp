@@ -54,7 +54,7 @@ File::Dircmp                      undef  S/SC/SCHULTE/File-Dircmp-1.30.tar.gz
 File::DirCompare                    0.6  G/GA/GAVINC/File-DirCompare-0.6.tar.gz
 File::DirList                      0.04  T/TP/TPABA/File-DirList/File-DirList-0.04.tar.gz
 File::DirSync                      1.22  B/BB/BBB/File-DirSync-1.22.tar.gz
-File::DirWalk                       0.3  J/JE/JENSL/File-DirWalk-0.3.tar.gz
+File::DirWalk                       0.4  J/JE/JENSL/File-DirWalk-0.4.tar.gz
 File::DosGlob                      1.05  F/FL/FLORA/perl-5.15.4.tar.gz
 File::Download                      0.3  B/BY/BYRNE/File-Download-0.3.zip
 File::Drawing                      0.01  S/SO/SOFTDIA/File-Drawing-0.01.tar.gz
