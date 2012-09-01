@@ -321,6 +321,17 @@ Git::Demo::Story                   0.01  R/RC/RCL/Git-Demo-0.02.tar.gz
 Git::Demo::Story::Character       undef  R/RC/RCL/Git-Demo-0.02.tar.gz
 Git::Demo::Story::Event           undef  R/RC/RCL/Git-Demo-0.02.tar.gz
 Git::Demo::Story::EventHandler    undef  R/RC/RCL/Git-Demo-0.02.tar.gz
+Git::Deploy                        6.00  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Hook                 undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Hook::CheckPermissions undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Hook::ConfigtestHTTPD undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Hook::ControlLoadBalancer undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Hook::LoadBalancerCheck undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Hook::NobranchRollout undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Hook::RestartHTTPD   undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Question             undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Say                  undef  A/AV/AVAR/git-deploy-6.00.tar.gz
+Git::Deploy::Timing               undef  A/AV/AVAR/git-deploy-6.00.tar.gz
 Git::DescribeVersion              1.015  R/RW/RWSTAUNER/Git-DescribeVersion-1.015.tar.gz
 Git::DescribeVersion::App         1.015  R/RW/RWSTAUNER/Git-DescribeVersion-1.015.tar.gz
 Git::Error::Command               undef  C/CO/CORNELIUS/App-gh-0.553.tar.gz
