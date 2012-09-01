@@ -505,7 +505,7 @@ XML::Compile::SOAP::Trace          2.29  M/MA/MARKOV/XML-Compile-SOAP-2.29.tar.g
 XML::Compile::SOAP::Util           2.29  M/MA/MARKOV/XML-Compile-SOAP-2.29.tar.gz
 XML::Compile::SOAP::WSA            0.12  M/MA/MARKOV/XML-Compile-SOAP-WSA-0.12.tar.gz
 XML::Compile::SOAP::WSA::Util      0.12  M/MA/MARKOV/XML-Compile-SOAP-WSA-0.12.tar.gz
-XML::Compile::SOAP::WSS            0.91  M/MA/MARKOV/XML-Compile-WSS-0.91.tar.gz
+XML::Compile::SOAP::WSS           0.911  M/MA/MARKOV/XML-Compile-WSS-0.911.tar.gz
 XML::Compile::Tester               0.90  M/MA/MARKOV/XML-Compile-Tester-0.90.tar.gz
 XML::Compile::Translate            1.27  M/MA/MARKOV/XML-Compile-1.27.tar.gz
 XML::Compile::Translate::Reader    1.27  M/MA/MARKOV/XML-Compile-1.27.tar.gz
@@ -517,8 +517,8 @@ XML::Compile::Transport::SOAPHTTP_AnyEvent 0.01  M/MA/MARKOV/XML-Compile-SOAP-An
 XML::Compile::Util                 1.27  M/MA/MARKOV/XML-Compile-1.27.tar.gz
 XML::Compile::WSDL11               2.29  M/MA/MARKOV/XML-Compile-SOAP-2.29.tar.gz
 XML::Compile::WSDL11::Operation    0.78  M/MA/MARKOV/XML-Compile-SOAP-0.78.tar.gz
-XML::Compile::WSS                  0.91  M/MA/MARKOV/XML-Compile-WSS-0.91.tar.gz
-XML::Compile::WSS::Util            0.91  M/MA/MARKOV/XML-Compile-WSS-0.91.tar.gz
+XML::Compile::WSS                 0.911  M/MA/MARKOV/XML-Compile-WSS-0.911.tar.gz
+XML::Compile::WSS::Util           0.911  M/MA/MARKOV/XML-Compile-WSS-0.911.tar.gz
 XML::Compile::XOP                  2.29  M/MA/MARKOV/XML-Compile-SOAP-2.29.tar.gz
 XML::Compile::XOP::Include         2.29  M/MA/MARKOV/XML-Compile-SOAP-2.29.tar.gz
 XML::CompileX::Transport::SOAPXMPP  1.0  D/DR/DRUOSO/XML-CompileX-Tranport-SOAPXMPP-1.0.tar.gz
