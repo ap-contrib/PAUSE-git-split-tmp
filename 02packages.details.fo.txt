@@ -513,8 +513,8 @@ FTDI                               0.01  M/MV/MVOELKER/FTDI/FTDI-D2XX-0.06.tar.g
 FTDI::D2XX                         0.06  M/MV/MVOELKER/FTDI/FTDI-D2XX-0.06.tar.gz
 FTN::Addr                      20090704  V/VA/VAL/FTN-Addr-20090704.tar.gz
 FTN::Address                       1.03  S/ST/STRO/FTN-Address-1.03.tar.gz
-FTN::Database                      0.30  J/JA/JAME/FTN-Database-0.30.tar.gz
-FTN::Database::Nodelist            0.30  J/JA/JAME/FTN-Database-0.30.tar.gz
+FTN::Database                      0.34  J/JA/JAME/FTN-Database-0.34.tar.gz
+FTN::Database::Nodelist            0.34  J/JA/JAME/FTN-Database-0.34.tar.gz
 FTN::JAM                           0.14  J/JA/JAME/FTN-JAM-0.14.tar.gz
 FTN::JAM::Attr                     0.14  J/JA/JAME/FTN-JAM-0.14.tar.gz
 FTN::JAM::Errnum                   0.14  J/JA/JAME/FTN-JAM-0.14.tar.gz
