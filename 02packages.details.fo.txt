@@ -528,9 +528,10 @@ FTN::Pkt                           1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
 FTN::Pkt::utils                    1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
 FTN::SRIF                          0.05  J/JA/JAME/FTN-SRIF-0.05.tar.gz
 FTN::Utils::OS_features            1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
-FTNDB                              0.30  J/JA/JAME/FTN-Database-0.30.tar.gz
-FTNDB::Command::create            undef  J/JA/JAME/FTN-Database-0.30.tar.gz
-FTNDB::Command::drop              undef  J/JA/JAME/FTN-Database-0.30.tar.gz
+FTNDB                              0.35  J/JA/JAME/ftndb-0.35.zip
+FTNDB::Command::create            undef  J/JA/JAME/ftndb-0.35.zip
+FTNDB::Command::drop              undef  J/JA/JAME/ftndb-0.35.zip
+FTNDB::Nodelist                    0.35  J/JA/JAME/ftndb-0.35.zip
 FtpWindow                         undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Fukurama::Class                   0.032  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
 Fukurama::Class::Abstract         undef  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
