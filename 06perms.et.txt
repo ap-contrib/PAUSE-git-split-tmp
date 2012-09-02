@@ -477,6 +477,7 @@ Expect::Angel::Linux,MINGZHANG,f
 Expect::Simple,DJERIUS,f
 ExpenseTracker,TCONST,f
 ExpenseTracker::Controllers::Base,TCONST,f
+ExpenseTracker::Controllers::Category,TCONST,f
 ExpenseTracker::Controllers::Currency,TCONST,f
 ExpenseTracker::Controllers::Login,TCONST,f
 ExpenseTracker::Controllers::Site,TCONST,f
