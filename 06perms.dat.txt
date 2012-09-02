@@ -677,6 +677,7 @@ Data::Enumerator::Product,HDAICHI,f
 Data::Enumerator::Range,HDAICHI,f
 Data::Enumerator::Repeat,HDAICHI,f
 Data::Enumerator::Where,HDAICHI,f
+Data::FR::Town,AASSAD,f
 Data::Faker,JASONK,f
 Data::Faker,WSHELDAHL,c
 Data::Faker::Company,JASONK,f
