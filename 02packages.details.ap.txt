@@ -497,7 +497,7 @@ App::Pocosi                        0.03  H/HI/HINRIK/App-Pocosi-0.03.tar.gz
 App::Pocosi::ReadLine              0.03  H/HI/HINRIK/App-Pocosi-0.03.tar.gz
 App::Pocosi::Status                0.03  H/HI/HINRIK/App-Pocosi-0.03.tar.gz
 App::Pod2CpanHtml                  0.02  J/JM/JMCNAMARA/App-Pod2CpanHtml-0.02.tar.gz
-App::Pod2Epub                      0.04  J/JM/JMCNAMARA/App-Pod2Epub-0.04.tar.gz
+App::Pod2Epub                      0.05  J/JM/JMCNAMARA/App-Pod2Epub-0.05.tar.gz
 App::pod2pdf                       0.42  J/JO/JONALLEN/pod2pdf-0.42.tar.gz
 App::Pod::Example                  0.03  S/SK/SKIM/App-Pod-Example-0.03.tar.gz
 App::PodLinkCheck                     9  K/KR/KRYDE/podlinkcheck-9.tar.gz
