@@ -338,6 +338,7 @@ App::perlzonji::Plugin::Label,MARCEL,f
 App::perlzonji::Plugin::SpecialPackages,MARCEL,f
 App::perlzonji::Plugin::UseModule,MARCEL,f
 App::pfswatch,YSASAKI,f
+App::ph,TOKUHIROM,f
 App::pherkin,SARGIE,f
 App::pmcheck,XANNI,m
 App::pmodinfo,TBR,f
