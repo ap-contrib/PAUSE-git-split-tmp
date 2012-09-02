@@ -994,6 +994,10 @@ CouchDB::Deploy,RBERJON,f
 CouchDB::Deploy::Process,RBERJON,f
 CouchDB::ExternalProcess,FANSIPANS,m
 CouchDB::Simple,KHUSSEIN,f
+CouchDB::Utils,BARTENDER,f
+CouchDB::Utils::App,BARTENDER,f
+CouchDB::Utils::App::Command::dump,BARTENDER,f
+CouchDB::Utils::App::Command::load,BARTENDER,f
 CouchDB::View,HDP,f
 CouchDB::View::Document,HDP,f
 CouchDB::View::Server,HDP,f
