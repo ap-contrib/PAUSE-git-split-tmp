@@ -737,8 +737,8 @@ Test::Ping::Ties::PROTO            0.04  X/XS/XSAWYERX/Test-Ping-0.17.tar.gz
 Test::Ping::Ties::SERVICE_CHECK    0.01  X/XS/XSAWYERX/Test-Ping-0.17.tar.gz
 Test::Ping::Ties::SOURCE_VERIFY    0.01  X/XS/XSAWYERX/Test-Ping-0.17.tar.gz
 Test::Ping::Ties::TIMEOUT          0.03  X/XS/XSAWYERX/Test-Ping-0.17.tar.gz
-Test::Plack::Handler::Stomp        1.02  D/DA/DAKKAR/Plack-Handler-Stomp-1.02.tar.gz
-Test::Plack::Handler::Stomp::FakeStomp 1.02  D/DA/DAKKAR/Plack-Handler-Stomp-1.02.tar.gz
+Test::Plack::Handler::Stomp        1.03  D/DA/DAKKAR/Plack-Handler-Stomp-1.03.tar.gz
+Test::Plack::Handler::Stomp::FakeStomp 1.03  D/DA/DAKKAR/Plack-Handler-Stomp-1.03.tar.gz
 Test::Plan                         0.03  G/GE/GEOFF/Test-Plan-0.03.tar.gz
 Test::Pockito                      0.02  E/EX/EXUSSUM/Test-Pockito-0.02.tar.gz
 Test::Pockito::DefaultMatcher     undef  E/EX/EXUSSUM/Test-Pockito-0.02.tar.gz
