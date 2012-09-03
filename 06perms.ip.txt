@@ -431,6 +431,8 @@ IRC::RemoteControl::Proxy::SOCKS,WOOSTER,f
 IRC::RemoteControl::Proxy::SSH,WOOSTER,f
 IRC::RemoteControl::Proxy::Tunnel,WOOSTER,f
 IRC::RemoteControl::Util,WOOSTER,f
+IRC::Server::Tree,AVENJ,f
+IRC::Server::Tree::Network,AVENJ,f
 IRC::Utils,HINRIK,f
 IRR,TCAINE,f
 IS::Conf,STEVEGT,f
