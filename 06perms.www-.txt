@@ -747,6 +747,14 @@ WebService::Aladdin::Item::Music,JEEN,f
 WebService::Aladdin::Items,JEEN,f
 WebService::Aladdin::Parser,JEEN,f
 WebService::Amazon::CloudSearch,SALTBREEZ,m
+WebService::Amazon::Glacier,CWIMMER,f
+WebService::Amazon::Glacier::CreateVault,CWIMMER,f
+WebService::Amazon::Glacier::DeleteVault,CWIMMER,f
+WebService::Amazon::Glacier::DeleteVaultNotifications,CWIMMER,f
+WebService::Amazon::Glacier::GetVaultNotifications,CWIMMER,f
+WebService::Amazon::Glacier::GlacierError,CWIMMER,f
+WebService::Amazon::Glacier::ListVaults,CWIMMER,f
+WebService::Amazon::Glacier::SetVaultNotifications,CWIMMER,f
 WebService::Amazon::Route53,ODYNIEC,m
 WebService::AngelXML::Auth,MRDVT,f
 WebService::Antigate,OLEG,f

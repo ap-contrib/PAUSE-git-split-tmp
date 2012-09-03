@@ -1329,6 +1329,14 @@ WebService::Aladdin::Item::DVD    undef  J/JE/JEEN/WebService-Aladdin-0.0706.tar
 WebService::Aladdin::Item::Music  undef  J/JE/JEEN/WebService-Aladdin-0.0706.tar.gz
 WebService::Aladdin::Items        undef  J/JE/JEEN/WebService-Aladdin-0.0706.tar.gz
 WebService::Aladdin::Parser       undef  J/JE/JEEN/WebService-Aladdin-0.0706.tar.gz
+WebService::Amazon::Glacier       0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
+WebService::Amazon::Glacier::CreateVault 0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
+WebService::Amazon::Glacier::DeleteVault 0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
+WebService::Amazon::Glacier::DeleteVaultNotifications 0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
+WebService::Amazon::Glacier::GetVaultNotifications 0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
+WebService::Amazon::Glacier::GlacierError 0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
+WebService::Amazon::Glacier::ListVaults 0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
+WebService::Amazon::Glacier::SetVaultNotifications 0.001  C/CW/CWIMMER/WebService-Amazon-Glacier-0.001.tar.gz
 WebService::Amazon::Route53       0.013  O/OD/ODYNIEC/WebService-Amazon-Route53-0.013.tar.gz
 WebService::AngelXML::Auth         0.14  M/MR/MRDVT/WebService-AngelXML-Auth-0.14.tar.gz
 WebService::Antigate               0.05  O/OL/OLEG/WebService-Antigate-0.05.tar.gz
