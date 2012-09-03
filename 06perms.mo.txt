@@ -370,6 +370,7 @@ MooseX::DeclareX::Plugin::guard,TOBYINK,f
 MooseX::DeclareX::Plugin::guard::MethodModifier,TOBYINK,f
 MooseX::DeclareX::Plugin::having,TOBYINK,f
 MooseX::DeclareX::Plugin::having::Role,TOBYINK,f
+MooseX::DeclareX::Plugin::imports,TOBYINK,f
 MooseX::DeclareX::Plugin::postprocess,TOBYINK,f
 MooseX::DeclareX::Plugin::postprocess::MethodModifier,TOBYINK,f
 MooseX::DeclareX::Plugin::preprocess,TOBYINK,f
