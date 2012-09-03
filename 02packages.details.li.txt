@@ -936,7 +936,7 @@ Locale::Object::Currency::Converter 0.78  J/JR/JROBINSON/Locale-Object-0.78.tar.
 Locale::Object::DB                 0.78  J/JR/JROBINSON/Locale-Object-0.78.tar.gz
 Locale::Object::Language           0.78  J/JR/JROBINSON/Locale-Object-0.78.tar.gz
 Locale::PGetText                   0.16  M/MS/MSHOYHER/Locale-PGetText-0.16.tar.gz
-Locale::PO                         0.21  K/KE/KEN/Locale-PO-0.21.tar.gz
+Locale::PO                         0.22  C/CO/COSIMO/Locale-PO-0.22.tar.gz
 Locale::PO::Callback               0.04  M/MA/MARNANEL/Locale-PO-Callback-0.04.tar.gz
 Locale::POFile                    undef  G/GU/GUIDO/libintl-perl-1.19.tar.gz
 Locale::POFileManager              0.04  D/DO/DOY/Locale-POFileManager-0.04.tar.gz
