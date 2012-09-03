@@ -31,6 +31,17 @@ Human,MUENALAN,f
 Human::Group,MUENALAN,f
 Human::Role,MUENALAN,f
 Hypatia,JACKMANEY,m
+Hypatia::Base,JACKMANEY,f
+Hypatia::Chart::Clicker,JACKMANEY,f
+Hypatia::Chart::Clicker::Area,JACKMANEY,f
+Hypatia::Chart::Clicker::Bar,JACKMANEY,f
+Hypatia::Chart::Clicker::Bubble,JACKMANEY,f
+Hypatia::Chart::Clicker::Line,JACKMANEY,f
+Hypatia::Chart::Clicker::Pie,JACKMANEY,f
+Hypatia::Chart::Clicker::Point,JACKMANEY,f
+Hypatia::Chart::Clicker::XYDataSet,JACKMANEY,f
+Hypatia::Columns,JACKMANEY,f
+Hypatia::DBI,JACKMANEY,f
 Hyper,ACID,m
 Hyper::Application,ACID,f
 Hyper::Application::Default,ACID,f
