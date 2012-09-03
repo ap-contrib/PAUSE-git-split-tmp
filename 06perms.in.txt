@@ -707,6 +707,7 @@ JSON::T::SpiderMonkey,TOBYINK,f
 JSON::Tiny,MORITZ,f
 JSON::Tiny::Actions,MORITZ,c
 JSON::Tiny::Grammar,MORITZ,c
+JSON::Types,TYPESTER,f
 JSON::Util,JKUTEJ,f
 JSON::XS,MLEHMANN,f
 JSON::XS::Boolean,MLEHMANN,f

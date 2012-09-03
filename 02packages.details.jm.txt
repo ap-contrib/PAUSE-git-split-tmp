@@ -273,6 +273,7 @@ JSON::Syck                         0.43  T/TO/TODDR/YAML-Syck-1.20.tar.gz
 JSON::T                           0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
 JSON::T::JE                       0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
 JSON::T::SpiderMonkey             0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
+JSON::Types                        0.01  T/TY/TYPESTER/JSON-Types-0.01.tar.gz
 JSON::Util                         0.05  J/JK/JKUTEJ/JSON-Util-0.05.tar.gz
 JSON::XS                           2.33  M/ML/MLEHMANN/JSON-XS-2.33.tar.gz
 JSON::XS::Boolean                  2.33  M/ML/MLEHMANN/JSON-XS-2.33.tar.gz
