@@ -797,7 +797,7 @@ POSIX::RT::MQ                      0.03  I/IL/ILJATABAC/POSIX-RT-MQ-0.03.tar.gz
 POSIX::RT::Scheduler              0.003  L/LE/LEONT/POSIX-RT-Scheduler-0.003.tar.gz
 POSIX::RT::Semaphore               0.05  M/MJ/MJP/POSIX-RT-Semaphore-0.05.tar.gz
 POSIX::RT::SharedMem               0.08  L/LE/LEONT/POSIX-RT-SharedMem-0.08.tar.gz
-POSIX::RT::Signal                 0.011  L/LE/LEONT/POSIX-RT-Signal-0.011.tar.gz
+POSIX::RT::Signal                 0.012  L/LE/LEONT/POSIX-RT-Signal-0.012.tar.gz
 POSIX::RT::Spawn                   0.11  G/GR/GRAY/POSIX-RT-Spawn-0.11.tar.gz
 POSIX::RT::Timer                  0.014  L/LE/LEONT/POSIX-RT-Timer-0.014.tar.gz
 POSIX::SchedYield              0.000002  M/MA/MARCB/POSIX-SchedYield/POSIX-SchedYield-0.0.2.tar.gz
