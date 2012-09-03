@@ -487,9 +487,9 @@ Hash::AutoHash::Args::helper          0  N/NA/NATG/Hash-AutoHash-Args-1.13.tar.g
 Hash::AutoHash::Args::tie          1.12  N/NA/NATG/Hash-AutoHash-Args-1.12.tar.gz
 Hash::AutoHash::Args::V0           1.11  N/NA/NATG/Hash-AutoHash-Args-1.12.tar.gz
 Hash::AutoHash::Args::V0::helper      0  N/NA/NATG/Hash-AutoHash-Args-1.13.tar.gz
-Hash::AutoHash::AVPairsMulti       1.12  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.12.tar.gz
-Hash::AutoHash::AVPairsMulti::helper  0  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.12.tar.gz
-Hash::AutoHash::AVPairsMulti::tie  1.11  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.11.tar.gz
+Hash::AutoHash::AVPairsMulti       1.13  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.13.tar.gz
+Hash::AutoHash::AVPairsMulti::helper 1.13  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.13.tar.gz
+Hash::AutoHash::AVPairsMulti::tie  1.13  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.13.tar.gz
 Hash::AutoHash::AVPairsSingle      1.12  N/NA/NATG/Hash-AutoHash-AVPairsSingle-1.12.tar.gz
 Hash::AutoHash::AVPairsSingle::helper 0  N/NA/NATG/Hash-AutoHash-AVPairsSingle-1.12.tar.gz
 Hash::AutoHash::AVPairsSingle::tie 1.11  N/NA/NATG/Hash-AutoHash-AVPairsSingle-1.11.tar.gz
