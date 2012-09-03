@@ -273,7 +273,7 @@ Net::Lyskom::TextStat             undef  C/CD/CDYBED/Net-Lyskom-1.2.tar.gz
 Net::Lyskom::Time                 undef  C/CD/CDYBED/Net-Lyskom-1.2.tar.gz
 Net::Lyskom::Util                 undef  C/CD/CDYBED/Net-Lyskom-1.2.tar.gz
 Net::MAC                       2.103622  O/OL/OLIVER/Net-MAC-2.103622.tar.gz
-Net::MAC::Vendor                   1.18  B/BD/BDFOY/Net-MAC-Vendor-1.18.tar.gz
+Net::MAC::Vendor                 1.1901  B/BD/BDFOY/Net-MAC-Vendor-1.1901.tar.gz
 Net::MacMap                        0.01  C/CL/CLINTDW/Net-MacMap-0.01.tar.gz
 Net::Magrathea                     0.03  G/GH/GHENRY/Net-Magrathea-0.03.tar.gz
 Net::ManageSieve                   0.12  S/SK/SKA/Net-ManageSieve-0.12.tar.gz
