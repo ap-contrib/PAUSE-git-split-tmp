@@ -318,7 +318,7 @@ CPAN::Testers::Report          1.999001  D/DA/DAGOLDEN/CPAN-Testers-Report-1.999
 CPAN::Testers::Reports::Query::JSON 0.04  L/LL/LLAP/CPAN-Testers-Reports-Query-JSON-0.04.tar.gz
 CPAN::Testers::Reports::Query::JSON::Set undef  L/LL/LLAP/CPAN-Testers-Reports-Query-JSON-0.04.tar.gz
 CPAN::Testers::WWW::Blog           1.04  B/BA/BARBIE/CPAN-Testers-WWW-Blog-1.04.tar.gz
-CPAN::Testers::WWW::Reports        3.37  B/BA/BARBIE/CPAN-Testers-WWW-Reports-3.37.tar.gz
+CPAN::Testers::WWW::Reports        3.38  B/BA/BARBIE/CPAN-Testers-WWW-Reports-3.38.tar.gz
 CPAN::Testers::WWW::Reports::Mailer 0.27  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Mailer-0.27.tar.gz
 CPAN::Testers::WWW::Reports::Parser 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Parser-0.03.tar.gz
 CPAN::Testers::WWW::Reports::Parser::JSON 0.03  B/BA/BARBIE/CPAN-Testers-WWW-Reports-Parser-0.03.tar.gz
