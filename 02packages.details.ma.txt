@@ -486,8 +486,8 @@ MARC::File::MicroLIF              undef  G/GM/GMCHARLT/MARC-Record-2.0.3.tar.gz
 MARC::File::SAX                   undef  G/GM/GMCHARLT/MARC-XML-0.93.tar.gz
 MARC::File::USMARC                undef  G/GM/GMCHARLT/MARC-Record-2.0.3.tar.gz
 MARC::File::XML                    0.93  G/GM/GMCHARLT/MARC-XML-0.93.tar.gz
-MARC::Lint                         1.45  E/EI/EIJABB/MARC-Lint-1.45.tar.gz
-MARC::Lint::CodeData               1.31  E/EI/EIJABB/MARC-Lint-1.45.tar.gz
+MARC::Lint                         1.46  E/EI/EIJABB/MARC-Lint-1.46.tar.gz
+MARC::Lint::CodeData               1.32  E/EI/EIJABB/MARC-Lint-1.46.tar.gz
 MARC::Loader                   0.004001  R/RE/REIVEUNE/MARC-Loader-0.004001.tar.gz
 MARC::Loop                         0.01  N/NK/NKUITSE/MARC-Loop-0.01.tar.gz
 MARC::MIR                           0.0  M/MA/MARCC/marc-mir-0.0.tar.gz
