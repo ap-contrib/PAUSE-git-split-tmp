@@ -903,6 +903,7 @@ Net::Amazon::Signature::V4         0.07  T/TI/TIM/Net-Amazon-Signature-V4-0.07.t
 Net::Amazon::SignatureVersion4    0.001  C/CW/CWIMMER/Net-Amazon-SignatureVersion4-0.001.tar.gz
 Net::Amazon::SimpleQueue           0.30  L/LB/LBROCARD/Net-Amazon-SimpleQueue-0.30.tar.gz
 Net::Amazon::Thumbnail             0.06  I/IT/ITYNDALL/Net-Amazon-Thumbnail-0.06.tar.gz
+Net::Amazon::TreeHash              0.71  V/VS/VSESPB/Net-Amazon-TreeHash-0.71.tar.gz
 Net::Amazon::Validate::ItemSearch undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
 Net::Amazon::Validate::ItemSearch::ca::Actor undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
 Net::Amazon::Validate::ItemSearch::ca::Artist undef  B/BO/BOUMENOT/Net-Amazon-0.61.tar.gz
