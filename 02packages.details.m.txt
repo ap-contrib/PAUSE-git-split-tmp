@@ -900,7 +900,7 @@ Net::Amazon::S3::Request::SetObjectAccessControl undef  P/PF/PFIG/Net-Amazon-S3-
 Net::Amazon::S3::Tools             0.07  M/MR/MRA/Net-Amazon-S3-Tools-0.08.tar.gz
 Net::Amazon::Signature             0.03  R/RA/RACHEL/Net-Amazon-Signature-0.03.tar.gz
 Net::Amazon::Signature::V4         0.07  T/TI/TIM/Net-Amazon-Signature-V4-0.07.tar.gz
-Net::Amazon::SignatureVersion4    0.001  C/CW/CWIMMER/Net-Amazon-SignatureVersion4-0.001.tar.gz
+Net::Amazon::SignatureVersion4    0.003  C/CW/CWIMMER/Net-Amazon-SignatureVersion4-0.003.tar.gz
 Net::Amazon::SimpleQueue           0.30  L/LB/LBROCARD/Net-Amazon-SimpleQueue-0.30.tar.gz
 Net::Amazon::Thumbnail             0.06  I/IT/ITYNDALL/Net-Amazon-Thumbnail-0.06.tar.gz
 Net::Amazon::TreeHash              0.71  V/VS/VSESPB/Net-Amazon-TreeHash-0.71.tar.gz
