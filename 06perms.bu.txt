@@ -242,6 +242,7 @@ Bundle::WWW::Scraper::ISBN::Drivers,BARBIE,f
 Bundle::WWW::Search,MTHURN,f
 Bundle::WWW::Search::ALL,MTHURN,f
 Bundle::WWW::Search::Scraper::Housing,GLENNWOOD,f
+Bundle::WeBWorK,AUBREYJA,f
 Bundle::WebDyne,ASPEER,f
 Bundle::WebDyne::Dist,ASPEER,f
 Bundle::WikiConverter,DIBERRI,f

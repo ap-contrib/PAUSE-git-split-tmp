@@ -1182,6 +1182,7 @@ Bundle::TreeDumper                 0.18  N/NK/NKH/Bundle-TreeDumper-0.18.tar.gz
 Bundle::Urchin                      0.1  E/ES/ESUMMERS/Bundle-Urchin-0.1.tar.gz
 Bundle::W3C::Validator              1.3  S/SC/SCOP/Bundle-W3C-Validator-1.3.tar.gz
 Bundle::WebDyne                   1.001  A/AS/ASPEER/Bundle-WebDyne-1.004.tar.gz
+Bundle::WeBWorK                    0.01  A/AU/AUBREYJA/Bundle-WeBWorK-0.01.tar.gz
 Bundle::WING                       0.11  S/SI/SIMON/Bundle-WING-0.11.tar.gz
 Bundle::Wizard                     0.01  J/JW/JWIED/Wizard-0.1006.tar.gz
 Bundle::Wizard::LDAP               0.01  J/JW/JWIED/Wizard-LDAP-0.1008.tar.gz
