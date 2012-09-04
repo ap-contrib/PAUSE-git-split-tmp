@@ -979,7 +979,7 @@ Text::Forge::Mail                 undef  M/MA/MAURICE/Text-Forge-4.01.tar.gz
 Text::Forge::ModPerl               2.04  M/MA/MAURICE/Text-Forge-4.01.tar.gz
 Text::Forge::Shell                undef  M/MA/MAURICE/Text-Forge-2.16.tar.gz
 Text::Forge::Util                  4.01  M/MA/MAURICE/Text-Forge-4.01.tar.gz
-Text::Format                       0.56  S/SH/SHLOMIF/Text-Format-0.56.tar.gz
+Text::Format                       0.57  S/SH/SHLOMIF/Text-Format-0.57.tar.gz
 Text::Format::Interview            0.03  Z/ZA/ZARQUON/Text-Format-Interview-0.03.tar.gz
 Text::Format::Screenplay           0.01  K/KI/KITOMER/Text-Format-Screenplay-0.01.tar.gz
 Text::FormatTable                  1.03  T/TR/TREY/Text-FormatTable-1.03.tar.gz
