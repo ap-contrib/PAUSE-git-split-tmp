@@ -245,7 +245,7 @@ Thread::Tie::Handle                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Hash                  0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Scalar                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
 Thread::Tie::Thread                0.13  E/EL/ELIZABETH/Thread-Tie-0.13.tar.gz
-Thread::Workers                    0.02  P/PA/PANIKAL/Thread-Workers-0.02.tar.gz
+Thread::Workers                    0.03  P/PA/PANIKAL/Thread-Workers-0.03.tar.gz
 threads                            1.86  J/JD/JDHEDDEN/threads-1.86.tar.gz
 threads::lite                     0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
 threads::lite::list               0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
