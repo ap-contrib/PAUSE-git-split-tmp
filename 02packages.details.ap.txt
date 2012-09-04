@@ -369,10 +369,6 @@ App::perlrocks::Helpers           undef  G/GU/GUGOD/perlrocks-0.02.tar.gz
 App::perlrocks::Install           undef  G/GU/GUGOD/perlrocks-0.02.tar.gz
 App::perlrocks::Search            undef  G/GU/GUGOD/perlrocks-0.02.tar.gz
 App::perlzonji                     2.05  M/MA/MARCEL/App-perlfind-2.05.tar.gz
-App::perlzonji::Plugin::FoundIn    2.00  M/MA/MARCEL/App-perlzonji-2.00.tar.gz
-App::perlzonji::Plugin::Label      2.00  M/MA/MARCEL/App-perlzonji-2.00.tar.gz
-App::perlzonji::Plugin::SpecialPackages 2.00  M/MA/MARCEL/App-perlzonji-2.00.tar.gz
-App::perlzonji::Plugin::UseModule  2.00  M/MA/MARCEL/App-perlzonji-2.00.tar.gz
 App::PersistentSSH                 0.04  N/NU/NUFFIN/App-PersistentSSH-0.04.tar.gz
 App::pfswatch                      0.07  Y/YS/YSASAKI/App-pfswatch-0.07.tar.gz
 App::PgCryobit                     0.02  J/JE/JETEVE/App-PgCryobit-0.02.tar.gz

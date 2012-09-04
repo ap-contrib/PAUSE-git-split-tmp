@@ -562,7 +562,6 @@ Test::Mock::LWP::Conditional       0.03  M/MA/MASAKI/Test-Mock-LWP-Conditional-0
 Test::Mock::LWP::Conditional::Stubs   0  M/MA/MASAKI/Test-Mock-LWP-Conditional-0.03.tar.gz
 Test::Mock::LWP::Dispatch          0.03  T/TA/TADAM/Test-Mock-LWP-Dispatch-0.03.tar.gz
 Test::Mock::LWP::UserAgent         0.01  L/LU/LUKEC/Test-Mock-LWP-0.06.tar.gz
-Test::Mock::LWP::UserAgent::ButAwesome 0.003  E/ET/ETHER/Test-Mock-LWP-UserAgent-ButAwesome-0.003.tar.gz
 Test::Mock::Net::FTP               0.02  T/TS/TSUCCHI/Test-Mock-Net-FTP-0.02.tar.gz
 Test::Mock::Recorder               0.01  K/KZ/KZYS/Test-Mock-Recorder-0.01.tar.gz
 Test::Mock::Recorder::Expectation undef  K/KZ/KZYS/Test-Mock-Recorder-0.01.tar.gz
