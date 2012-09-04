@@ -510,6 +510,7 @@ Bio::SFF::Reader,LEONT,f
 Bio::SFF::Reader::Random,LEONT,f
 Bio::SFF::Reader::Sequential,LEONT,f
 Bio::SSA,MBRANDON,m
+Bio::SSRTool,KCLARK,f
 Bio::Search::BlastStatistics,BIOPERLML,f
 Bio::Search::BlastStatistics,CJFIELDS,c
 Bio::Search::BlastStatistics,SENDU,c
