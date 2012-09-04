@@ -824,7 +824,7 @@ Music::ABC::Archive                0.02  W/WE/WELTYJJ/Music-ABC-Archive-0.02.tar
 Music::ABC::Song                   0.01  W/WE/WELTYJJ/Music-ABC-Song-0.01.tar.gz
 Music::Album                      undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
 Music::Artist                     undef  J/JR/JRED/Gtk2-Ex-FormFactory-0.67.tar.gz
-Music::AtonalUtil                  0.14  J/JM/JMATES/Music-AtonalUtil-0.14.tar.gz
+Music::AtonalUtil                  0.15  J/JM/JMATES/Music-AtonalUtil-0.15.tar.gz
 Music::Audioscrobbler::MPD         0.13  E/EA/EALLENIII/Music-Audioscrobbler-MPD-0.13.tar.gz
 Music::Audioscrobbler::Submit      0.05  E/EA/EALLENIII/Music-Audioscrobbler-Submit-0.05.tar.gz
 Music::Chord::Namer                0.01  J/JI/JIMI/Music-Chord-Namer-0.01.tar.gz

@@ -597,7 +597,7 @@ Test::ModuleVersion::JSON::PP      0.16  K/KI/KIMOTO/Test-ModuleVersion-0.16.tar
 Test::ModuleVersion::JSON::PP::Boolean 0.16  K/KI/KIMOTO/Test-ModuleVersion-0.16.tar.gz
 Test::ModuleVersion::JSON::PP::IncrParser 0.16  K/KI/KIMOTO/Test-ModuleVersion-0.16.tar.gz
 Test::Mojibake                      0.4  S/SY/SYP/Test-Mojibake-0.4.tar.gz
-Test::Mojo                        undef  S/SR/SRI/Mojolicious-3.36.tar.gz
+Test::Mojo                        undef  M/MR/MRAMBERG/Mojolicious-3.37.tar.gz
 Test::MonitorSites                 0.15  H/HE/HESCO/Test-MonitorSites-0.15.tar.gz
 Test::Moose                      2.0603  D/DO/DOY/Moose-2.0603.tar.gz
 Test::Moose::MockObjectCompile 0.002001  Z/ZA/ZAPHAR/Test-Moose-MockObjectCompile-0.2.1.tar.gz
