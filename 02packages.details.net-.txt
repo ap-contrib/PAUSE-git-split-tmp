@@ -374,7 +374,7 @@ Net::HTTP::API::Role::Format       0.14  F/FR/FRANCKC/Net-HTTP-API-0.14.tar.gz
 Net::HTTP::API::Role::Request      0.14  F/FR/FRANCKC/Net-HTTP-API-0.14.tar.gz
 Net::HTTP::API::Role::Serialization 0.14  F/FR/FRANCKC/Net-HTTP-API-0.14.tar.gz
 Net::HTTP::API::Role::UserAgent    0.14  F/FR/FRANCKC/Net-HTTP-API-0.14.tar.gz
-Net::HTTP::Factual             0.110030  S/SP/SPAZM/Net-HTTP-Factual-0.110030.tar.gz
+Net::HTTP::Factual             0.122480  S/SP/SPAZM/Net-HTTP-Factual-0.122480.tar.gz
 Net::HTTP::Methods                 6.00  G/GA/GAAS/Net-HTTP-6.03.tar.gz
 Net::HTTP::Methods::Patch::LogRequest 0.07  S/SH/SHARYANTO/Net-HTTP-Methods-Patch-LogRequest-0.07.tar.gz
 Net::HTTP::NB                      6.00  G/GA/GAAS/Net-HTTP-6.03.tar.gz
