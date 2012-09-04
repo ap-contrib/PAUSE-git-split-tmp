@@ -964,6 +964,7 @@ Task::Elkhound,SKI,m
 Task::Email::PEP::All,RJBS,f
 Task::Email::PEP::NoStore,RJBS,f
 Task::FreecellSolver::Testing,SHLOMIF,f
+Task::Function::Tx,SHARYANTO,f
 Task::Gtk2,KIMMEL,m
 Task::HTML5,TOBYINK,f
 Task::Hatena,SKI,f
