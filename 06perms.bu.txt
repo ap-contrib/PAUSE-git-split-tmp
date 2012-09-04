@@ -248,6 +248,7 @@ Bundle::WebDyne::Dist,ASPEER,f
 Bundle::WikiConverter,DIBERRI,f
 Bundle::Wombat,IX,f
 Bundle::WormBase,TWH,f
+Bundle::Wx::Perl,LICHTKIND,m
 Bundle::X11amp,DOUGM,f
 Bundle::XML,MULL,f
 Bundle::XML::Devel,SKI,m

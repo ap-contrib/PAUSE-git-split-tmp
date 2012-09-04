@@ -1,7 +1,7 @@
 Amon2::Plugin::Web::CSRFDefender,TOKUHIROM,f
 Amon2::Plugin::Web::FillInForm,TOKUHIROM,f
 Amon2::Plugin::Web::FillInFormLite,TOKUHIROM,f
-Amon2::Plugin::Web::FormValidator::Simple,DELPHINUS,f
+Amon2::Plugin::Web::FormValidator::Simple,DELPHINUS,m
 Amon2::Plugin::Web::HTTPSession,TOKUHIROM,f
 Amon2::Plugin::Web::JSON,TOKUHIROM,f
 Amon2::Plugin::Web::MobileAgent,TOKUHIROM,f

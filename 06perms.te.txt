@@ -390,7 +390,7 @@ Thread::Tie::Hash,ELIZABETH,f
 Thread::Tie::Scalar,ELIZABETH,f
 Thread::Tie::Thread,ELIZABETH,f
 Thread::Use,ELIZABETH,f
-Thread::Workers,PANIKAL,f
+Thread::Workers,PANIKAL,m
 ThreadTree,TOMC,f
 ThreatNet,ADAMK,f
 ThreatNet::Bot::AmmoBot,ADAMK,f

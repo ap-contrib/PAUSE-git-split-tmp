@@ -444,7 +444,7 @@ Google::AJAX::Library,ROKR,f
 Google::AJAX::Library::Carp,RKRIMEN,c
 Google::AJAX::Library::Carp,ROKR,f
 Google::Ads::AdWords::AuthTokenHandler,DTORRES,f
-Google::Ads::AdWords::Client,DTORRES,f
+Google::Ads::AdWords::Client,DTORRES,m
 Google::Ads::AdWords::Constants,DTORRES,f
 Google::Ads::AdWords::Deserializer,DTORRES,f
 Google::Ads::AdWords::FaultDetail,DTORRES,f
