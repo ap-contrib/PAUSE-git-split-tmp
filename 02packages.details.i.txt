@@ -574,9 +574,9 @@ IO::Async::Protocol                0.53  P/PE/PEVANS/IO-Async-0.53.tar.gz
 IO::Async::Protocol::LineStream    0.53  P/PE/PEVANS/IO-Async-0.53.tar.gz
 IO::Async::Protocol::Stream        0.53  P/PE/PEVANS/IO-Async-0.53.tar.gz
 IO::Async::Resolver                0.53  P/PE/PEVANS/IO-Async-0.53.tar.gz
-IO::Async::Resolver::DNS           0.02  P/PE/PEVANS/IO-Async-Resolver-DNS-0.02.tar.gz
-IO::Async::Resolver::DNS::LibResolvImpl 0.02  P/PE/PEVANS/IO-Async-Resolver-DNS-0.02.tar.gz
-IO::Async::Resolver::DNS::NetDNSImpl 0.02  P/PE/PEVANS/IO-Async-Resolver-DNS-0.02.tar.gz
+IO::Async::Resolver::DNS           0.03  P/PE/PEVANS/IO-Async-Resolver-DNS-0.03.tar.gz
+IO::Async::Resolver::DNS::LibResolvImpl 0.03  P/PE/PEVANS/IO-Async-Resolver-DNS-0.03.tar.gz
+IO::Async::Resolver::DNS::NetDNSImpl 0.03  P/PE/PEVANS/IO-Async-Resolver-DNS-0.03.tar.gz
 IO::Async::Routine                 0.53  P/PE/PEVANS/IO-Async-0.53.tar.gz
 IO::Async::Sequencer               0.53  P/PE/PEVANS/IO-Async-0.53.tar.gz
 IO::Async::Signal                  0.53  P/PE/PEVANS/IO-Async-0.53.tar.gz
