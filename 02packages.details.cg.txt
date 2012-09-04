@@ -4,7 +4,7 @@ CGI::Test::Page::Real             undef  T/TO/TOKAREV/CGI-Test-0.3.tar.gz
 CGI::Test::Page::Text             undef  T/TO/TOKAREV/CGI-Test-0.3.tar.gz
 CGI::Thin                          0.52  R/RG/RGEOFFREY/CGI-Thin-0.52.tar.gz
 CGI::Thin::Cookies                 0.52  R/RG/RGEOFFREY/CGI-Thin-0.52.tar.gz
-CGI::Toggle                           0  L/LD/LDS/GBrowse-2.49.tar.gz
+CGI::Toggle                           0  L/LD/LDS/GBrowse-2.50.tar.gz
 CGI::ToXML                         0.02  M/MN/MNEYLON/CGI-ToXML-0.02.tar.gz
 CGI::Untaint                       1.26  T/TM/TMTM/CGI-Untaint-1.26.tar.gz
 CGI::Untaint::asin                 1.02  T/TM/TMTM/CGI-Untaint-asin-1.02.tar.gz

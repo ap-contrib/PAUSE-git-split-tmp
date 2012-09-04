@@ -288,7 +288,7 @@ MyExampleApp::Parameters          undef  F/FW/FWILES/ModPerl-ParamBuilder-0.08.t
 MyExampleCalls                     3.05  M/MA/MARKOV/XML-Compile-SOAP-Daemon-3.05.tar.gz
 MyExampleData                      3.05  M/MA/MARKOV/XML-Compile-SOAP-Daemon-3.05.tar.gz
 MyFake                             1.04  G/GE/GENEHACK/App-GitGot-1.04.tar.gz
-MyFeatureFileLoader                   0  L/LD/LDS/GBrowse-2.49.tar.gz
+MyFeatureFileLoader                   0  L/LD/LDS/GBrowse-2.50.tar.gz
 MyFileSourceHandler               undef  S/SH/SHAY/perl-5.17.3.tar.gz
 MyGrammar                         undef  S/SH/SHAY/perl-5.17.3.tar.gz
 MyHandler                         undef  K/KM/KMACLEOD/libxml-perl-0.08.tar.gz
