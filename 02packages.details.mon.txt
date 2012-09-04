@@ -498,9 +498,9 @@ MooseX::App::Role::Common         undef  M/MA/MAROS/MooseX-App-1.07.tar.gz
 MooseX::App::Role::Simple         undef  M/MA/MAROS/MooseX-App-1.07.tar.gz
 MooseX::App::Simple                1.05  M/MA/MAROS/MooseX-App-1.07.tar.gz
 MooseX::App::Utils                undef  M/MA/MAROS/MooseX-App-1.07.tar.gz
-MooseX::ArrayRef                  0.001  T/TO/TOBYINK/MooseX-ArrayRef-0.001.tar.gz
-MooseX::ArrayRef::Meta::Class     0.001  T/TO/TOBYINK/MooseX-ArrayRef-0.001.tar.gz
-MooseX::ArrayRef::Meta::Instance  0.001  T/TO/TOBYINK/MooseX-ArrayRef-0.001.tar.gz
+MooseX::ArrayRef                  0.002  T/TO/TOBYINK/MooseX-ArrayRef-0.002.tar.gz
+MooseX::ArrayRef::Meta::Class     0.002  T/TO/TOBYINK/MooseX-ArrayRef-0.002.tar.gz
+MooseX::ArrayRef::Meta::Instance  0.002  T/TO/TOBYINK/MooseX-ArrayRef-0.002.tar.gz
 MooseX::Async                      0.07  P/PE/PERIGRIN/MooseX-Async-0.07.tar.gz
 MooseX::Async::Meta::Class        undef  P/PE/PERIGRIN/MooseX-Async-0.07.tar.gz
 MooseX::Async::Meta::Method::State undef  P/PE/PERIGRIN/MooseX-Async-0.07.tar.gz
