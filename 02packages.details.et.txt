@@ -365,7 +365,7 @@ Exception::Warning               0.0401  D/DE/DEXTER/Exception-Warning-0.0401.ta
 Exceptions                        undef  P/PS/PSEIBEL/Exceptions-0.01.tar.gz
 ExecCmds                            1.1  M/MA/MARKPF/cisco/Cisco-ShowIPRoute-Parser-1.02.tar.gz
 ExecCmds::Utility                   1.1  M/MA/MARKPF/cisco/Cisco-ShowIPRoute-Parser-1.02.tar.gz
-Exherbo::Packager                 undef  W/WO/WORR/Exherbo-Packager-1.122420.tar.gz
+Exherbo::Packager                 undef  W/WO/WORR/Exherbo-Packager-1.122480.tar.gz
 EXIF                               0.22  A/AS/ASCOPE/Image-Shoehorn-Gallery-0.22.tar.gz
 Exim::SpoolMessage                 0.04  K/KI/KIRILLM/Exim-SpoolMessage-0.04.tgz
 Exodist::Util                     0.007  E/EX/EXODIST/Exodist-Util-0.007.tar.gz
