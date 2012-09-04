@@ -1625,6 +1625,7 @@ Template::Flute::Filter::Date,HORNBURG,f
 Template::Flute::Filter::Eol,HORNBURG,f
 Template::Flute::Filter::LanguageName,HORNBURG,f
 Template::Flute::Filter::NobreakSingle,HORNBURG,f
+Template::Flute::Filter::Replace,HORNBURG,f
 Template::Flute::Filter::Upper,HORNBURG,f
 Template::Flute::Form,HORNBURG,f
 Template::Flute::HTML,HORNBURG,f
