@@ -92,6 +92,7 @@ MongoDB::Async::Pool,NYAKNYAN,f
 MongoDB::Async::Timestamp,NYAKNYAN,f
 MongoDB::BSON,FRIEDO,f
 MongoDB::BSON,KRISTINA,c
+MongoDB::BSON::Binary,FRIEDO,f
 MongoDB::Code,FRIEDO,f
 MongoDB::Code,KRISTINA,c
 MongoDB::Collection,ARCANEZ,c

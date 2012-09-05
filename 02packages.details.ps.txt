@@ -271,8 +271,8 @@ QListBoxPixmap                     1.03  A/AW/AWIN/PerlQt-1.06.tar.gz
 QListBoxText                       1.03  A/AW/AWIN/PerlQt-1.06.tar.gz
 Qmail::Control                     0.01  T/TE/TECH/Qmail-Control-0.01.tar.gz
 Qmail::Control::Lock               0.01  T/TE/TECH/Qmail-Control-0.01.tar.gz
-Qmail::Deliverable                 1.06  J/JU/JUERD/Qmail-Deliverable-1.06.tar.gz
-Qmail::Deliverable::Client        undef  J/JU/JUERD/Qmail-Deliverable-1.06.tar.gz
+Qmail::Deliverable                 1.07  J/JU/JUERD/Qmail-Deliverable-1.07.tar.gz
+Qmail::Deliverable::Client        undef  J/JU/JUERD/Qmail-Deliverable-1.07.tar.gz
 Qmail::Envelope                    0.53  M/MJ/MJA/Qmail-Envelope-0.53.tar.gz
 Qmail::Mysql                       0.02  E/EB/EBRUNI/Qmail-Mysql-0.02.tar.gz
 QMake::Project                     0.84  R/RO/ROHANPM/QMake-Project-0.84.tar.gz
