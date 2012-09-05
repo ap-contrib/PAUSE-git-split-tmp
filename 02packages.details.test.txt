@@ -209,9 +209,9 @@ Test::Trap::Builder              v0.2.2  E/EB/EBHANSSEN/Test-Trap-v0.2.2.tar.gz
 Test::Trap::Builder::PerlIO      v0.2.2  E/EB/EBHANSSEN/Test-Trap-v0.2.2.tar.gz
 Test::Trap::Builder::SystemSafe  v0.2.2  E/EB/EBHANSSEN/Test-Trap-v0.2.2.tar.gz
 Test::Trap::Builder::TempFile    v0.2.2  E/EB/EBHANSSEN/Test-Trap-v0.2.2.tar.gz
-Test::Trivial                       1.7  C/CO/CORYB/Test-Trivial-1.7.tar.gz
-Test::Trivial::Builder              1.7  C/CO/CORYB/Test-Trivial-1.7.tar.gz
-Test::Trivial::IO::Tee              1.7  C/CO/CORYB/Test-Trivial-1.7.tar.gz
+Test::Trivial                       1.8  C/CO/CORYB/Test-Trivial-1.8.tar.gz
+Test::Trivial::Builder              1.8  C/CO/CORYB/Test-Trivial-1.8.tar.gz
+Test::Trivial::IO::Tee              1.8  C/CO/CORYB/Test-Trivial-1.8.tar.gz
 Test::TT                           0.01  B/BO/BOLAV/Test-TT-0.01.tar.gz
 Test::ttserver                    0.003  C/CR/CRAFTWORK/Test-ttserver-0.003.tar.gz
 Test::Type                       v1.0.1  A/AU/AUBERTG/Test-Type-1.0.1.tar.gz
