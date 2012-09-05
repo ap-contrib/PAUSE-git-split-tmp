@@ -5,7 +5,7 @@ File::Copy                         2.21  F/FL/FLORA/perl-5.15.4.tar.gz
 File::Copy::Link                   0.04  R/RM/RMBARKER/File-Copy-Link-0.113.tar.gz
 File::Copy::Recursive              0.38  D/DM/DMUEY/File-Copy-Recursive-0.38.tar.gz
 File::Copy::Reliable               0.32  L/LB/LBROCARD/File-Copy-Reliable-0.32.tar.gz
-File::Copy::Undoable               0.01  S/SH/SHARYANTO/File-Copy-Undoable-0.01.tar.gz
+File::Copy::Undoable               0.02  S/SH/SHARYANTO/File-Copy-Undoable-0.02.tar.gz
 File::Copy::Vigilant                1.2  K/KI/KILNA/File-Copy-Vigilant-1.2.tar.gz
 File::Corresponding               0.003  J/JO/JOHANL/File-Corresponding-0.003.tar.gz
 File::Corresponding::Config::Find undef  J/JO/JOHANL/File-Corresponding-0.003.tar.gz
