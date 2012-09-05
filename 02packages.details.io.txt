@@ -42,8 +42,8 @@ IO::Default                        1.03  N/NW/NWIGER/IO-Default-1.03.tar.gz
 IO::Default::DEFERR                1.03  N/NW/NWIGER/IO-Default-1.03.tar.gz
 IO::Default::DEFIN                 1.03  N/NW/NWIGER/IO-Default-1.03.tar.gz
 IO::Default::DEFOUT                1.03  N/NW/NWIGER/IO-Default-1.03.tar.gz
-IO::Detect                        0.004  T/TO/TOBYINK/IO-Detect-0.004.tar.gz
-IO::Detect::SmartMatcher          0.004  T/TO/TOBYINK/IO-Detect-0.004.tar.gz
+IO::Detect                        0.005  T/TO/TOBYINK/IO-Detect-0.005.tar.gz
+IO::Detect::SmartMatcher          0.005  T/TO/TOBYINK/IO-Detect-0.005.tar.gz
 IO::Digest                         0.10  C/CL/CLKAO/IO-Digest-0.10.tar.gz
 IO::Dir                            1.07  G/GB/GBARR/IO-1.25.tar.gz
 IO::Dir::Dirfd                     0.01  G/GR/GRUBER/IO-Dir-Dirfd-0.01.tar.gz
