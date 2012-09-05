@@ -397,6 +397,7 @@ Plack::Middleware::MethodOverride,DWHEELER,c
 Plack::Middleware::MethodOverride,MIYAGAWA,f
 Plack::Middleware::Mirror,RWSTAUNER,f
 Plack::Middleware::NanoResponse,BAYASHI,f
+Plack::Middleware::Negotiate,VOJ,f
 Plack::Middleware::NeverExpire,ARISTOTLE,f
 Plack::Middleware::NoDeflate,OALDERS,f
 Plack::Middleware::NoMultipleSlashes,XSAWYERX,f
