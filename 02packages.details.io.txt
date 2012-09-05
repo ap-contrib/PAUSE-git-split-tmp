@@ -709,8 +709,8 @@ IRC::RemoteControl::Proxy::SOCKS  undef  W/WO/WOOSTER/IRC-RemoteControl-0.04.tar
 IRC::RemoteControl::Proxy::SSH    undef  W/WO/WOOSTER/IRC-RemoteControl-0.04.tar.gz
 IRC::RemoteControl::Proxy::Tunnel undef  W/WO/WOOSTER/IRC-RemoteControl-0.04.tar.gz
 IRC::RemoteControl::Util          undef  W/WO/WOOSTER/IRC-RemoteControl-0.04.tar.gz
-IRC::Server::Tree                  0.03  A/AV/AVENJ/IRC-Server-Tree-0.03.tar.gz
-IRC::Server::Tree::Network            0  A/AV/AVENJ/IRC-Server-Tree-0.03.tar.gz
+IRC::Server::Tree                  0.04  A/AV/AVENJ/IRC-Server-Tree-0.04.tar.gz
+IRC::Server::Tree::Network            0  A/AV/AVENJ/IRC-Server-Tree-0.04.tar.gz
 IRC::Utils                         0.12  H/HI/HINRIK/IRC-Utils-0.12.tar.gz
 IronMan::Schema                    0.03  I/ID/IDN/IronMan-Schema-0.03.tar.gz
 IronMan::Schema::Result::Feed     undef  I/ID/IDN/IronMan-Schema-0.03.tar.gz
