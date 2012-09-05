@@ -686,6 +686,7 @@ File::Mork,SIMONW,f
 File::Mork::Entry,SIMONW,f
 File::Mosaic,BOUMENOT,f
 File::Mountpoint,JHOBLITT,f
+File::Move::Undoable,SHARYANTO,f
 File::MultiCat,MBSTE,f
 File::MultiTail,SGMIANO,m
 File::Munger,COG,f
