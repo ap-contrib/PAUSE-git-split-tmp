@@ -93,8 +93,8 @@ Test::CompanionClasses         1.101370  M/MA/MARCEL/Test-CompanionClasses-1.101
 Test::CompanionClasses::Base   1.101370  M/MA/MARCEL/Test-CompanionClasses-1.101370.tar.gz
 Test::CompanionClasses::Engine 1.101370  M/MA/MARCEL/Test-CompanionClasses-1.101370.tar.gz
 Test::CompanionClasses::Engine_TEST 1.101370  M/MA/MARCEL/Test-CompanionClasses-1.101370.tar.gz
-Test::Compile                      0.20  E/EG/EGILES/Test-Compile-0.20.tar.gz
-Test::Compile::Internal            0.20  E/EG/EGILES/Test-Compile-0.20.tar.gz
+Test::Compile                      0.21  E/EG/EGILES/Test-Compile-0.21.tar.gz
+Test::Compile::Internal            0.21  E/EG/EGILES/Test-Compile-0.21.tar.gz
 Test::Config::System               0.63  I/IA/IANK/Test-Config-System-0.63.tar.gz
 Test::ConsistentVersion          v0.2.3  C/CE/CEBJYRE/Test-ConsistentVersion-v0.2.3.tar.gz
 Test::Continuous                   0.73  G/GU/GUGOD/Test-Continuous-0.73.tar.gz
