@@ -1001,9 +1001,9 @@ DB::Batch::Do                     undef  C/CL/CLBECKER/DB-Batch-0.11.tar.gz
 DB::Batch::Fetch                  undef  C/CL/CLBECKER/DB-Batch-0.11.tar.gz
 DB::Batch::Main                   undef  C/CL/CLBECKER/DB-Batch-0.11.tar.gz
 DB::Batch::Query                  undef  C/CL/CLBECKER/DB-Batch-0.11.tar.gz
-DB::Color                          0.08  O/OV/OVID/DB-Color-0.08.tar.gz
-DB::Color::Config                  0.08  O/OV/OVID/DB-Color-0.08.tar.gz
-DB::Color::Highlight               0.08  O/OV/OVID/DB-Color-0.08.tar.gz
+DB::Color                          0.09  O/OV/OVID/DB-Color-0.09.tar.gz
+DB::Color::Config                  0.08  O/OV/OVID/DB-Color-0.09.tar.gz
+DB::Color::Highlight               0.09  O/OV/OVID/DB-Color-0.09.tar.gz
 DB::CouchDB                         0.2  Z/ZA/ZAPHAR/DB-CouchDB-Schema-0.3.04_remove_blib.tar.gz
 DB::CouchDB::Iter                   0.2  Z/ZA/ZAPHAR/DB-CouchDB-Schema-0.3.04_remove_blib.tar.gz
 DB::CouchDB::Result                 0.2  Z/ZA/ZAPHAR/DB-CouchDB-Schema-0.3.04_remove_blib.tar.gz
