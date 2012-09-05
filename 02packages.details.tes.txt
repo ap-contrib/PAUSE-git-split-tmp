@@ -844,9 +844,9 @@ Test::Run::Base::Plugger              0  S/SH/SHLOMIF/Test-Run-0.0126.tar.gz
 Test::Run::Base::PlugHelpers          0  S/SH/SHLOMIF/Test-Run-0.0126.tar.gz
 Test::Run::Base::Struct               0  S/SH/SHLOMIF/Test-Run-0.0126.tar.gz
 Test::Run::Class::Hierarchy           0  S/SH/SHLOMIF/Test-Run-0.0126.tar.gz
-Test::Run::CmdLine               0.0124  S/SH/SHLOMIF/Test-Run-CmdLine-0.0124.tar.gz
-Test::Run::CmdLine::Drivers::Default  0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0124.tar.gz
-Test::Run::CmdLine::Iface             0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0124.tar.gz
+Test::Run::CmdLine               0.0125  S/SH/SHLOMIF/Test-Run-CmdLine-0.0125.tar.gz
+Test::Run::CmdLine::Drivers::Default  0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0125.tar.gz
+Test::Run::CmdLine::Iface             0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0125.tar.gz
 Test::Run::CmdLine::Plugin::AlternateInterpreters 0.0121  S/SH/SHLOMIF/Test-Run-Plugin-AlternateInterpreters-0.0121.tar.gz
 Test::Run::CmdLine::Plugin::BreakOnFailure v0.0.1  S/SH/SHLOMIF/Test-Run-Plugin-BreakOnFailure-v0.0.1.tar.gz
 Test::Run::CmdLine::Plugin::ColorFileVerdicts 0.0122  S/SH/SHLOMIF/Test-Run-Plugin-ColorFileVerdicts-0.0122.tar.gz

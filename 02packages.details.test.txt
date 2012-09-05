@@ -1,8 +1,8 @@
 Test::Run::CmdLine::Plugin::TrimDisplayedFilenames 0.0122  S/SH/SHLOMIF/Test-Run-Plugin-TrimDisplayedFilenames-0.0122.tar.gz
-Test::Run::CmdLine::Prove        0.0124  S/SH/SHLOMIF/Test-Run-CmdLine-0.0124.tar.gz
-Test::Run::CmdLine::Prove::App        0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0124.tar.gz
-Test::Run::CmdLine::Trap::Prove       0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0124.tar.gz
-Test::Run::CmdLine::Trap::ProveApp    0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0124.tar.gz
+Test::Run::CmdLine::Prove        0.0124  S/SH/SHLOMIF/Test-Run-CmdLine-0.0125.tar.gz
+Test::Run::CmdLine::Prove::App        0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0125.tar.gz
+Test::Run::CmdLine::Trap::Prove       0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0125.tar.gz
+Test::Run::CmdLine::Trap::ProveApp    0  S/SH/SHLOMIF/Test-Run-CmdLine-0.0125.tar.gz
 Test::Run::Core                  0.0126  S/SH/SHLOMIF/Test-Run-0.0126.tar.gz
 Test::Run::Core_GplArt                0  S/SH/SHLOMIF/Test-Run-0.0126.tar.gz
 Test::Run::Iface                      0  S/SH/SHLOMIF/Test-Run-0.0126.tar.gz
