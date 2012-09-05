@@ -309,6 +309,7 @@ File::Copy,RJBS,c
 File::Copy::Link,RMBARKER,m
 File::Copy::Recursive,DMUEY,m
 File::Copy::Reliable,LBROCARD,f
+File::Copy::Undoable,SHARYANTO,f
 File::Copy::Vigilant,KILNA,f
 File::Corresponding,JOHANL,f
 File::Corresponding::Config::Find,JOHANL,f
