@@ -289,7 +289,7 @@ File::Mork                          0.3  S/SI/SIMONW/File-Mork-0.3.tar.gz
 File::Mork::Entry                   0.3  S/SI/SIMONW/File-Mork-0.3.tar.gz
 File::Mosaic                       0.03  B/BO/BOUMENOT/File-Mosaic-0.03.tar.gz
 File::Mountpoint                   0.01  J/JH/JHOBLITT/File-Mountpoint-0.01.tar.gz
-File::Move::Undoable               0.01  S/SH/SHARYANTO/File-Move-Undoable-0.01.tar.gz
+File::Move::Undoable               0.02  S/SH/SHARYANTO/File-Move-Undoable-0.02.tar.gz
 File::MultiCat                     0.04  M/MB/MBSTE/MultiCat_0.04.tar.gz
 File::Namaste                      1.04  J/JA/JAK/File-Namaste-1.04.tar.gz
 File::Navigate                      1.0  M/MS/MSCHMITT/File-Navigate-1.0.tar.gz
