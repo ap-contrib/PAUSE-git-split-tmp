@@ -464,6 +464,7 @@ Catalyst::TraitFor::Model::DBIC::Schema::PerRequestSchema undef  R/RK/RKITOVER/C
 Catalyst::TraitFor::Model::DBIC::Schema::QueryLog 0.03  F/FA/FAYLAND/Catalyst-TraitFor-Model-DBIC-Schema-QueryLog-0.03.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::QueryLog::AdoptPlack 0.07  J/JJ/JJNAPIORK/Catalyst-TraitFor-Model-DBIC-Schema-QueryLog-AdoptPlack-0.07.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::Replicated undef  R/RK/RKITOVER/Catalyst-Model-DBIC-Schema-0.60.tar.gz
+Catalyst::TraitFor::Model::DBIC::Schema::RequestConnectionPool undef  G/GB/GBJK/Catalyst-TraitFor-Model-DBIC-Schema-RequestConnectionPool-0.1000.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::ResultRoles 0.011  L/LU/LUKAST/Catalyst-TraitFor-Model-DBIC-Schema-ResultRoles-0.011.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy undef  R/RK/RKITOVER/Catalyst-Model-DBIC-Schema-0.60.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::WithCurrentUser 0.06  A/AM/AMIRI/Catalyst-TraitFor-Model-DBIC-Schema-WithCurrentUser-0.06.tar.gz

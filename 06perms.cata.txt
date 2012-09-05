@@ -671,6 +671,7 @@ Catalyst::TraitFor::Model::DBIC::Schema::Replicated,RKINYON,c
 Catalyst::TraitFor::Model::DBIC::Schema::Replicated,RKITOVER,c
 Catalyst::TraitFor::Model::DBIC::Schema::Replicated,SSCAFFIDI,c
 Catalyst::TraitFor::Model::DBIC::Schema::Replicated,WSHELDAHL,c
+Catalyst::TraitFor::Model::DBIC::Schema::RequestConnectionPool,GBJK,f
 Catalyst::TraitFor::Model::DBIC::Schema::ResultRoles,LUKAST,f
 Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy,APEIRON,c
 Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy,ILMARI,c
