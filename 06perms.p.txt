@@ -851,6 +851,7 @@ RDF::MicroTurtle::Parser,TOBYINK,f
 RDF::MicroTurtle::Parser::Literal,TOBYINK,f
 RDF::NS,VOJ,f
 RDF::NS::Trine,VOJ,f
+RDF::NS::URIS,VOJ,f
 RDF::Notation3,PCIMPRICH,f
 RDF::Notation3::PrefTriples,PCIMPRICH,f
 RDF::Notation3::RDFCore,PCIMPRICH,f
