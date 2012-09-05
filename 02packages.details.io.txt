@@ -188,10 +188,10 @@ IO::NestedCapture                  1.03  H/HA/HANENKAMP/IO-NestedCapture-1.03.ta
 IO::NonBlocking                   1.035  R/RO/ROMERUN/IO-NonBlocking-1.035.tar.gz
 IO::Null                           1.01  S/SB/SBURKE/IO-Null-1.01.tar.gz
 IO::Page                           0.02  R/RM/RMITZ/io-page-0.02.tar.gz
-IO::Pager                          0.24  J/JP/JPIERCE/IO-Pager-0.24.tgz
-IO::Pager::Buffered                0.24  J/JP/JPIERCE/IO-Pager-0.24.tgz
-IO::Pager::Page                    0.16  J/JP/JPIERCE/IO-Pager-0.24.tgz
-IO::Pager::Unbuffered               0.2  J/JP/JPIERCE/IO-Pager-0.24.tgz
+IO::Pager                           0.3  J/JP/JPIERCE/IO-Pager-0.30.tgz
+IO::Pager::Buffered                 0.3  J/JP/JPIERCE/IO-Pager-0.30.tgz
+IO::Pager::Page                    0.16  J/JP/JPIERCE/IO-Pager-0.30.tgz
+IO::Pager::Unbuffered               0.3  J/JP/JPIERCE/IO-Pager-0.30.tgz
 IO::Pipe                           1.13  G/GB/GBARR/IO-1.25.tar.gz
 IO::Pipe::End                      1.13  G/GB/GBARR/IO-1.25.tar.gz
 IO::Pipe::Producer                  1.5  R/RO/ROBLEACH/IO-Pipe-Producer-1.5.tar.gz

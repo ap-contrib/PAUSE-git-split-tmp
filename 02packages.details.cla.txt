@@ -607,7 +607,7 @@ Coat::Types                       undef  D/DA/DAMS/Coat-0.502.tar.gz
 Cobalt::LCD                        0.02  J/JE/JEFFW/Cobalt-LCD-0.02.tar.gz
 Cobweb                             0.02  L/LE/LEPREVOST/Cobweb-0.02.tar.gz
 Cobweb::SignalLine                undef  L/LE/LEPREVOST/Cobweb-0.02.tar.gz
-Cocoa::BatteryInfo                 0.01  T/TY/TYPESTER/Cocoa-BatteryInfo-0.01.tar.gz
+Cocoa::BatteryInfo                 0.02  T/TY/TYPESTER/Cocoa-BatteryInfo-0.02.tar.gz
 Cocoa::EventLoop                   0.04  T/TY/TYPESTER/Cocoa-EventLoop-0.04.tar.gz
 Cocoa::Growl                       0.05  T/TY/TYPESTER/Cocoa-Growl-0.05.tar.gz
 CODE                                0.5  S/SW/SWALTERS/autobox-Core-0.5.tar.gz
