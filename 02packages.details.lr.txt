@@ -409,8 +409,8 @@ LWP::Protocol::https::socks::Socket 1.6  S/SC/SCR/LWP-Protocol-socks-1.6.tar.gz
 LWP::Protocol::https::SocksChain    1.8  G/GO/GOSHA/LWP-Protocol-https-SocksChain-1.8.tar.gz
 LWP::Protocol::https::SocksChain10  1.7  G/GO/GOSHA/LWP-Protocol-https-SocksChain10-1.7.tar.gz
 LWP::Protocol::https::SocksChain::Socket 1.8  G/GO/GOSHA/LWP-Protocol-https-SocksChain-1.8.tar.gz
-LWP::Protocol::ldap                1.11  M/MA/MARSCHAP/perl-ldap-0.45.tar.gz
-LWP::Protocol::ldaps              undef  M/MA/MARSCHAP/perl-ldap-0.45.tar.gz
+LWP::Protocol::ldap                1.11  M/MA/MARSCHAP/perl-ldap-0.46.tar.gz
+LWP::Protocol::ldaps              undef  M/MA/MARSCHAP/perl-ldap-0.46.tar.gz
 LWP::Protocol::loopback           undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::mailto             undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
 LWP::Protocol::MyFTP              undef  G/GA/GAAS/libwww-perl-6.04.tar.gz
