@@ -54,7 +54,7 @@ MongoDBx::Class::ParsedAttribute::DateTime 0.91  I/ID/IDOPEREL/MongoDBx-Class-0.
 MongoDBx::Class::Reference         0.91  I/ID/IDOPEREL/MongoDBx-Class-0.91.tar.gz
 MongoDBx::KeyValue             0.001001  I/ID/IDOPEREL/MongoDBx-KeyValue-0.001001.tar.gz
 MongoDBx::Protocol                 0.03  T/TA/TADAM/MongoDBx-Protocol-0.03.tar.gz
-MongoDBx::Queue                   0.001  D/DA/DAGOLDEN/MongoDBx-Queue-0.001.tar.gz
+MongoDBx::Queue                   0.002  D/DA/DAGOLDEN/MongoDBx-Queue-0.002.tar.gz
 Mongoose                           0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz
 Mongoose::Class                    0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz
 Mongoose::Cursor                   0.13  R/RO/RODRIGO/Mongoose-0.13.tar.gz
