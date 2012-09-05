@@ -1125,6 +1125,8 @@ Message::Passing::Filter::Null,BOBTFISH,c
 Message::Passing::Filter::Null,GHENRY,f
 Message::Passing::Filter::T,BOBTFISH,c
 Message::Passing::Filter::T,GHENRY,f
+Message::Passing::Filter::ToLogstash,BOBTFISH,c
+Message::Passing::Filter::ToLogstash,GHENRY,f
 Message::Passing::Input::AMQP,BOBTFISH,c
 Message::Passing::Input::AMQP,GHENRY,f
 Message::Passing::Input::FileTail,BOBTFISH,c
