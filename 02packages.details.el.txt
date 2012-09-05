@@ -292,7 +292,7 @@ Email::Sender::Transport::Redirect 0.0001  H/HO/HORNBURG/Email-Sender-Transport-
 Email::Sender::Transport::Sendmail 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
 Email::Sender::Transport::SMTP 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
 Email::Sender::Transport::SMTP::Persistent 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
-Email::Sender::Transport::SMTP::TLS 0.10  F/FA/FAYLAND/Email-Sender-Transport-SMTP-TLS-0.10.tar.gz
+Email::Sender::Transport::SMTP::TLS 0.11  F/FA/FAYLAND/Email-Sender-Transport-SMTP-TLS-0.11.tar.gz
 Email::Sender::Transport::SQLite 0.092000  R/RJ/RJBS/Email-Sender-Transport-SQLite-0.092000.tar.gz
 Email::Sender::Transport::Test 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
 Email::Sender::Transport::Wrapper 0.120001  R/RJ/RJBS/Email-Sender-0.120001.tar.gz
