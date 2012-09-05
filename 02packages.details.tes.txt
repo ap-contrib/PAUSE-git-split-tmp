@@ -170,7 +170,7 @@ Test::DBIx::Class::Example::Schema::Result::Phone undef  J/JJ/JJNAPIORK/Test-DBI
 Test::DBIx::Class::Example::Schema::ResultSet undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.34.tar.gz
 Test::DBIx::Class::FixtureCommand::Populate undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.34.tar.gz
 Test::DBIx::Class::FixtureCommand::PopulateMore undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.34.tar.gz
-Test::DBIx::Class::FixtureCommand::Population undef  J/JJ/JJNAPIORK/DBIx-Class-Migration-0.028.tar.gz
+Test::DBIx::Class::FixtureCommand::Population undef  J/JJ/JJNAPIORK/DBIx-Class-Migration-0.029.tar.gz
 Test::DBIx::Class::Role::FixtureCommand undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.34.tar.gz
 Test::DBIx::Class::Schema      1.000002  C/CH/CHISEL/Test-DBIx-Class-Schema-1.0.2.tar.gz
 Test::DBIx::Class::SchemaManager  undef  J/JJ/JJNAPIORK/Test-DBIx-Class-0.34.tar.gz

@@ -458,8 +458,8 @@ Catalyst::TraitFor::Controller::SpecialAction::Trail 0.01  M/ME/MENDEL/Catalyst-
 Catalyst::TraitFor::Log::Audio     0.02  R/RJ/RJURNEY/Catalyst-TraitFor-Log-Audio-0.02.tar.gz
 Catalyst::TraitFor::Model::DBIC::ConfigPerSite undef  T/TE/TEEJAY/Catalyst-TraitFor-Component-ConfigPerSite-0.10.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::Caching undef  R/RK/RKITOVER/Catalyst-Model-DBIC-Schema-0.60.tar.gz
-Catalyst::TraitFor::Model::DBIC::Schema::FromMigration undef  J/JJ/JJNAPIORK/DBIx-Class-Migration-0.028.tar.gz
-Catalyst::TraitFor::Model::DBIC::Schema::FromMigration::_MigrationHelper undef  J/JJ/JJNAPIORK/DBIx-Class-Migration-0.028.tar.gz
+Catalyst::TraitFor::Model::DBIC::Schema::FromMigration undef  J/JJ/JJNAPIORK/DBIx-Class-Migration-0.029.tar.gz
+Catalyst::TraitFor::Model::DBIC::Schema::FromMigration::_MigrationHelper undef  J/JJ/JJNAPIORK/DBIx-Class-Migration-0.029.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::PerRequestSchema undef  R/RK/RKITOVER/Catalyst-Model-DBIC-Schema-0.60.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::QueryLog 0.03  F/FA/FAYLAND/Catalyst-TraitFor-Model-DBIC-Schema-QueryLog-0.03.tar.gz
 Catalyst::TraitFor::Model::DBIC::Schema::QueryLog::AdoptPlack 0.07  J/JJ/JJNAPIORK/Catalyst-TraitFor-Model-DBIC-Schema-QueryLog-AdoptPlack-0.07.tar.gz
