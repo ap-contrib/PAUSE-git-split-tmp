@@ -523,7 +523,7 @@ FTN::Log                           0.06  J/JA/JAME/FTN-Log-0.06.tar.gz
 FTN::Msg                           1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
 FTN::Nodelist                      1.07  S/ST/STRO/FTN-Nodelist-1.07.tar.gz
 FTN::Nodelist::Node                1.01  S/ST/STRO/FTN-Nodelist-1.07.tar.gz
-FTN::Packet                        0.13  J/JA/JAME/FTN-Packet-0.13.tar.gz
+FTN::Packet                        0.20  J/JA/JAME/FTN-Packet-0.20.tar.gz
 FTN::Pkt                           1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
 FTN::Pkt::utils                    1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
 FTN::SRIF                          0.05  J/JA/JAME/FTN-SRIF-0.05.tar.gz
