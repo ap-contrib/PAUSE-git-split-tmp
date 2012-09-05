@@ -857,8 +857,8 @@ Devel::DTrace::DOF::Header        undef  C/CH/CHRISA/Devel-DTrace-Provider-0.02.
 Devel::DTrace::DOF::Section       undef  C/CH/CHRISA/Devel-DTrace-Provider-0.02.tar.gz
 Devel::DTrace::DOF::Section::Strtab undef  C/CH/CHRISA/Devel-DTrace-Provider-0.02.tar.gz
 Devel::DTrace::Probe              undef  C/CH/CHRISA/Devel-DTrace-Provider-0.02.tar.gz
-Devel::DTrace::Provider            1.00  C/CH/CHRISA/Devel-DTrace-Provider-1.00.tar.gz
-Devel::DTrace::Provider::Builder  undef  C/CH/CHRISA/Devel-DTrace-Provider-1.00.tar.gz
+Devel::DTrace::Provider            1.01  C/CH/CHRISA/Devel-DTrace-Provider-1.01.tar.gz
+Devel::DTrace::Provider::Builder  undef  C/CH/CHRISA/Devel-DTrace-Provider-1.01.tar.gz
 Devel::DTrace::Provider::ProbeDef undef  C/CH/CHRISA/Devel-DTrace-Provider-0.02.tar.gz
 Devel::DumpSizes                   0.01  C/CG/CGAUTAM/Devel-DumpSizes-0.01.tar.gz
 Devel::DumpStack                  undef  J/JA/JACKS/DumpStack-1.1.tar.gz
