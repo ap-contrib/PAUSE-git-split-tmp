@@ -571,9 +571,9 @@ App::Wx::PodEditor::Actions::File  0.01  R/RE/RENEEB/App-Wx-PodEditor-0.01.tar.g
 App::Wx::PodEditor::Actions::Format 0.01  R/RE/RENEEB/App-Wx-PodEditor-0.01.tar.gz
 App::Wx::PodEditor::Frame          0.01  R/RE/RENEEB/App-Wx-PodEditor-0.01.tar.gz
 App::XLSperl                      undef  J/JO/JONALLEN/XLSperl-0.7.tar.gz
-App::XML::DocBook::Builder       0.0400  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.0400.tar.gz
-App::XML::DocBook::Docmake       0.0400  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.0400.tar.gz
-App::XML::DocBook::Docmake::CmdComponent 0  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.0400.tar.gz
+App::XML::DocBook::Builder       0.0401  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.0401.tar.gz
+App::XML::DocBook::Docmake       0.0401  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.0401.tar.gz
+App::XML::DocBook::Docmake::CmdComponent 0  S/SH/SHLOMIF/App-XML-DocBook-Builder-0.0401.tar.gz
 App::Xml_grep2                    undef  M/MI/MIROD/App-xml_grep2-0.14.tar.gz
 App::Xssh                           0.8  E/EG/EGILES/App-Xssh-0.8.tar.gz
 App::Xssh::Config                   0.8  E/EG/EGILES/App-Xssh-0.8.tar.gz
