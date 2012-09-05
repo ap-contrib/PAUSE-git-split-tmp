@@ -33,6 +33,7 @@ PerlSpec,BOSTON,f
 PerlTidy::Options,LEIF,f
 PerlTidy::Run,LEIF,f
 PerlTmp,BRTEAM,f
+PerlX::ArraySkip,TOBYINK,f
 PerlX::Maybe,TOBYINK,f
 PerlX::MethodCallWithBlock,GUGOD,f
 PerlX::Perform,TOBYINK,f

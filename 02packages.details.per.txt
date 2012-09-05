@@ -240,6 +240,7 @@ Perlude::Lazy                         0  M/MA/MARCC/Perlude-0.51.tar.gz
 Perlude::Sh                         0.0  M/MA/MARCC/perlude-sh-0.0.tar.gz
 Perlwikipedia                  1.005002  D/DC/DCOLLINS/Perlwikipedia-1.5.2.tar.gz
 Perlwikipedia::Plugin::ImageTester 0.001002  D/DC/DCOLLINS/Perlwikipedia-Plugin-ImageTester-0.1.2.tar.gz
+PerlX::ArraySkip                  0.001  T/TO/TOBYINK/PerlX-ArraySkip-0.001.tar.gz
 PerlX::Maybe                      0.002  T/TO/TOBYINK/PerlX-Maybe-0.002.tar.gz
 PerlX::MethodCallWithBlock         0.05  G/GU/GUGOD/PerlX-MethodCallWithBlock-0.05.tar.gz
 PerlX::Perform                    0.005  T/TO/TOBYINK/PerlX-Perform-0.005.tar.gz
