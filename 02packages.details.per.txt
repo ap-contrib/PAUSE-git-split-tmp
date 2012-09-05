@@ -234,9 +234,9 @@ perltugues::inteiro               undef  F/FC/FCO/perltugues-0.19.tar.gz
 perltugues::real                  undef  F/FC/FCO/perltugues-0.19.tar.gz
 perltugues::texto                 undef  F/FC/FCO/perltugues-0.19.tar.gz
 perltugues::tipo                  undef  F/FC/FCO/perltugues-0.19.tar.gz
-Perlude                            0.51  M/MA/MARCC/Perlude-0.51.tar.gz
-Perlude::builtins                     0  M/MA/MARCC/Perlude-0.51.tar.gz
-Perlude::Lazy                         0  M/MA/MARCC/Perlude-0.51.tar.gz
+Perlude                            0.51  M/MA/MARCC/perlude-0.53.tar.gz
+Perlude::builtins                     0  M/MA/MARCC/perlude-0.53.tar.gz
+Perlude::Lazy                         0  M/MA/MARCC/perlude-0.53.tar.gz
 Perlude::Sh                         0.0  M/MA/MARCC/perlude-sh-0.0.tar.gz
 Perlwikipedia                  1.005002  D/DC/DCOLLINS/Perlwikipedia-1.5.2.tar.gz
 Perlwikipedia::Plugin::ImageTester 0.001002  D/DC/DCOLLINS/Perlwikipedia-Plugin-ImageTester-0.1.2.tar.gz
