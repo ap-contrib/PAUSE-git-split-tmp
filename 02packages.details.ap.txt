@@ -751,6 +751,7 @@ App::RSS2Leafnode                    65  K/KR/KRYDE/rss2leafnode-65.tar.gz
 App::RSS2Leafnode::Conf              65  K/KR/KRYDE/rss2leafnode-65.tar.gz
 App::RSS2Leafnode::Conf::Tie         65  K/KR/KRYDE/rss2leafnode-65.tar.gz
 App::RSS2Leafnode::XML::Twig::Other  65  K/KR/KRYDE/rss2leafnode-65.tar.gz
+App::Sass                         0.001  W/WW/WWOLF/App-Sass-0.001.tar.gz
 App::scrape                        0.04  C/CO/CORION/App-scrape-0.04.tar.gz
 App::Scrobble                      0.01  A/AJ/AJCT/App-Scrobble-0.01.tar.gz
 App::Scrobble::Role::WithService   0.01  A/AJ/AJCT/App-Scrobble-0.01.tar.gz

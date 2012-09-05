@@ -125,6 +125,7 @@ App::SPG,GERA,m
 App::SVN::Bisect,INFINOID,f
 App::SVNBinarySearch,COKE,f
 App::SVNBinarySearch,PARTICLE,c
+App::Sass,WWOLF,f
 App::Scrobble,AJCT,f
 App::Scrobble::Role::WithService,AJCT,f
 App::Scrobble::Service::Mixcloud,AJCT,f
