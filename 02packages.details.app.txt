@@ -360,6 +360,7 @@ App::VW::Restart                  undef  B/BE/BEPPU/App-VW-0.01.tar.gz
 App::VW::Setup                    undef  B/BE/BEPPU/App-VW-0.01.tar.gz
 App::VW::Start                    undef  B/BE/BEPPU/App-VW-0.01.tar.gz
 App::VW::Stop                     undef  B/BE/BEPPU/App-VW-0.01.tar.gz
+App::Wallflower                   1.000  B/BO/BOOK/App-Wallflower-1.000.tar.gz
 App::War                           0.05  J/JT/JTRAMMELL/App-War-0.05.tar.gz
 App::watcher                       0.08  T/TO/TOKUHIROM/App-watcher-0.08.tar.gz
 App::Wax                       0.003001  C/CH/CHOCOLATE/App-Wax-0.3.1.tar.gz

@@ -565,6 +565,7 @@ App::WWW::CPAN,FERREIRA,f
 App::Wack,SZABGAB,c
 App::Wack::Glade,SZABGAB,c
 App::Wack::Signals,SZABGAB,c
+App::Wallflower,BOOK,f
 App::War,JTRAMMELL,f
 App::Wax,CHOCOLATE,f
 App::Web,CWINTERS,c
