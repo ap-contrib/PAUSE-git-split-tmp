@@ -455,10 +455,10 @@ Draft::TkGui::Entity::Line        undef  B/BP/BPOSTLE/Draft-0.06.tar.gz
 Draft::TkGui::Entity::Reference   undef  B/BP/BPOSTLE/Draft-0.06.tar.gz
 DragLabel                         undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 DragWidget                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
-Driver::BaseClass                 undef  S/SH/SHLOMIF/XML-LibXSLT-1.77.tar.gz
-Driver::LibXSLT                   undef  S/SH/SHLOMIF/XML-LibXSLT-1.77.tar.gz
-Driver::Sablotron                 undef  S/SH/SHLOMIF/XML-LibXSLT-1.77.tar.gz
-Driver::Sablotron::Handler        undef  S/SH/SHLOMIF/XML-LibXSLT-1.77.tar.gz
+Driver::BaseClass                 undef  S/SH/SHLOMIF/XML-LibXSLT-1.78.tar.gz
+Driver::LibXSLT                   undef  S/SH/SHLOMIF/XML-LibXSLT-1.78.tar.gz
+Driver::Sablotron                 undef  S/SH/SHLOMIF/XML-LibXSLT-1.78.tar.gz
+Driver::Sablotron::Handler        undef  S/SH/SHLOMIF/XML-LibXSLT-1.78.tar.gz
 Drogo                              0.12  M/MJ/MJFLICK/Drogo-0.12.tar.gz
 Drogo::Cookie                     undef  M/MJ/MJFLICK/Drogo-0.12.tar.gz
 Drogo::Dispatch                    0.03  M/MJ/MJFLICK/Drogo-0.12.tar.gz
