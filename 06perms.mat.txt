@@ -265,6 +265,7 @@ Math::PlanePath::Corner,KRYDE,f
 Math::PlanePath::CornerReplicate,KRYDE,f
 Math::PlanePath::CretanLabyrinth,KRYDE,f
 Math::PlanePath::CubicBase,KRYDE,f
+Math::PlanePath::DekkingCentres,KRYDE,f
 Math::PlanePath::DekkingCurve,KRYDE,f
 Math::PlanePath::DekkingStraight,KRYDE,f
 Math::PlanePath::DiagonalRationals,KRYDE,f
