@@ -818,6 +818,7 @@ Data::Format::Pretty::YAML,SHARYANTO,f
 Data::Formatter,ZBLAIR,f
 Data::Formatter::Html,ZBLAIR,f
 Data::Formatter::Text,ZBLAIR,f
+Data::Foswiki,SDOWIDEIT,f
 Data::FreezeDry,MIKO,f
 Data::Freezer,JETEVE,f
 Data::Freezer::FreezingBag,JETEVE,f

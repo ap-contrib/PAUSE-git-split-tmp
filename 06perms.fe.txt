@@ -998,6 +998,7 @@ File::Trash::Undoable,SHARYANTO,f
 File::Tree::Snapshot,PHAYLON,f
 File::TreeBuilder,LUCS,f
 File::TreeBuilder_T,LUCS,f
+File::Truncate::Undoable,SHARYANTO,f
 File::Type,PMISON,f
 File::Type::Builder,PMISON,f
 File::Type::WebImages,MARKSTOS,f

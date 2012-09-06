@@ -501,6 +501,7 @@ File::Trash::Undoable              0.08  S/SH/SHARYANTO/File-Trash-Undoable-0.08
 File::Tree::Snapshot           0.000001  P/PH/PHAYLON/File-Tree-Snapshot-0.000001.tar.gz
 File::TreeBuilder                  0.02  L/LU/LUCS/File-TreeBuilder-0.02.tar.gz
 File::TreeBuilder_T                0.02  L/LU/LUCS/File-TreeBuilder-0.02.tar.gz
+File::Truncate::Undoable           0.01  S/SH/SHARYANTO/File-Truncate-Undoable-0.01.tar.gz
 File::TTX                          0.03  M/MI/MICHAEL/File-TTX-0.03.tar.gz
 File::TTX::Content                 0.03  M/MI/MICHAEL/File-TTX-0.03.tar.gz
 File::Type                         0.22  P/PM/PMISON/File-Type-0.22.tar.gz
