@@ -70,6 +70,7 @@ File::Alter,BINGOS,c
 File::Alter,KANE,f
 File::AnySpec,SOFTDIA,f
 File::Append::TempFile,ROAM,f
+File::Append::Undoable,SHARYANTO,f
 File::AptFetch,WHYNOT,m
 File::Archive,RBOW,f
 File::Assets,RKRIMEN,c
