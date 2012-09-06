@@ -1432,6 +1432,7 @@ ByteCache,SWALTERS,f
 ByteLoader,NWCLARK,f
 ByteLoader,RURBAN,c
 Bytes::Random,JOHND,f
+Bytes::Random::Secure,DAVIDO,f
 C3000,XYF,f
 C3000::RepUtils,XYF,f
 C::Analyzer,SREEKANTH,f
