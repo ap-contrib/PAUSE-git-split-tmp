@@ -338,6 +338,7 @@ File::PlainPath                   undef  O/OD/ODYNIEC/File-PlainPath-0.02.tar.gz
 File::PM2File                      1.13  S/SO/SOFTDIA/File-PM2File-0.08.tar.gz
 File::Policy                      1.005  B/BB/BBC/File-Policy-1.005.tar.gz
 File::Policy::Default             1.006  B/BB/BBC/File-Policy-1.005.tar.gz
+File::Prepend::Undoable            0.01  S/SH/SHARYANTO/File-Prepend-Undoable-0.01.tar.gz
 File::Properties                   0.02  W/WO/WOHL/File-Properties-0.02.tar.gz
 File::Properties::Cache            0.01  W/WO/WOHL/File-Properties-0.02.tar.gz
 File::Properties::Compressed       0.02  W/WO/WOHL/File-Properties-0.02.tar.gz
