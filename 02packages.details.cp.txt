@@ -968,7 +968,7 @@ Crypt::Passwd                      0.03  L/LU/LUISMUNOZ/Crypt-Passwd-0.03.tar.gz
 Crypt::Passwd::XS                 0.600  L/LI/LIGHTSEY/Crypt-Passwd-XS-0.600.tar.gz
 Crypt::PasswdMD5                    1.3  L/LU/LUISMUNOZ/Crypt-PasswdMD5-1.3.tar.gz
 Crypt::Password                    0.28  D/DR/DRSTEVE/Crypt-Password-0.28.tgz
-Crypt::Password::Util              0.02  S/SH/SHARYANTO/Crypt-Password-Util-0.02.tar.gz
+Crypt::Password::Util              0.04  S/SH/SHARYANTO/Crypt-Password-Util-0.04.tar.gz
 Crypt::PBC                       0.9000  J/JE/JETTERO/Crypt-PBC-0.9000.tar.gz
 Crypt::PBC::Element              0.9000  J/JE/JETTERO/Crypt-PBC-0.9000.tar.gz
 Crypt::PBC::Pairing              0.9000  J/JE/JETTERO/Crypt-PBC-0.9000.tar.gz
