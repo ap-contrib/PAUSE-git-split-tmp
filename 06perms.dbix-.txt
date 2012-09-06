@@ -25,6 +25,7 @@ DBIx::Simple,JUERD,m
 DBIx::Simple::Batch,AWNCORP,f
 DBIx::Simple::Batch::Map,AWNCORP,f
 DBIx::Simple::Class,BEROV,f
+DBIx::Simple::Class::Schema,BEROV,f
 DBIx::Simple::DataSection,KITANO,f
 DBIx::Simple::DeadObject,JUERD,f
 DBIx::Simple::Dummy,JUERD,f

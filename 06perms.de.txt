@@ -1382,6 +1382,7 @@ Dist::Zilla::Plugin::LocalBrew,RHOELZ,f
 Dist::Zilla::Plugin::LocalInstall,DOHERTY,m
 Dist::Zilla::Plugin::LocaleMsgfmt,JQUELIN,c
 Dist::Zilla::Plugin::LocaleMsgfmt,PDONELAN,f
+Dist::Zilla::Plugin::LocaleTextDomain,DWHEELER,f
 Dist::Zilla::Plugin::MakeMaker,RJBS,f
 Dist::Zilla::Plugin::MakeMaker::Awesome,AVAR,f
 Dist::Zilla::Plugin::MakeMaker::Custom,CJM,f
