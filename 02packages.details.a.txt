@@ -483,11 +483,6 @@ Audio::SPX                         0.02  D/DJ/DJHD/Speech-Recognizer-SPX-0.09.ta
 Audio::SuperTag::Plugin           undef  A/AC/ACG/supertag-0.2.1.tar.gz
 Audio::SuperTag::Plugin::FLAC     undef  A/AC/ACG/supertag-0.2.1.tar.gz
 Audio::SuperTag::Plugin::MP3      undef  A/AC/ACG/supertag-0.2.1.tar.gz
-Audio::Tagger                      0.12  A/AL/ALEXBIO/Audio-Tagger-0.12.tar.gz
-Audio::Tagger::Any                 0.12  A/AL/ALEXBIO/Audio-Tagger-0.12.tar.gz
-Audio::Tagger::Flac                0.12  A/AL/ALEXBIO/Audio-Tagger-0.12.tar.gz
-Audio::Tagger::MP3                 0.12  A/AL/ALEXBIO/Audio-Tagger-0.12.tar.gz
-Audio::Tagger::Ogg                 0.12  A/AL/ALEXBIO/Audio-Tagger-0.12.tar.gz
 Audio::TagLib                      1.61  G/GL/GLEACH/Audio-TagLib-1.61.tar.gz
 Audio::TagLib::APE::Footer         1.61  G/GL/GLEACH/Audio-TagLib-1.61.tar.gz
 Audio::TagLib::APE::Item           1.61  G/GL/GLEACH/Audio-TagLib-1.61.tar.gz
