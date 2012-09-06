@@ -692,7 +692,7 @@ Applications::BackupAndRestore::Helper undef  H/HO/HOOO/Applications-BackupAndRe
 Applications::FileQuickFind       undef  H/HO/HOOO/Applications-BackupAndRestore-0.021.tar.gz
 ApplicationsTab                   undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 ApplicationWindow                 undef  A/AW/AWIN/PerlQt-2.105.tar.gz
-Applify                            0.05  J/JH/JHTHORSEN/Applify-0.05.tar.gz
+Applify                          0.0501  J/JH/JHTHORSEN/Applify-0.0501.tar.gz
 Apply                             undef  F/FG/FGLOCK/v6-0.044.tar.gz
 ApplyTemplate                         1  D/DU/DUELAFN/Test-WWW-Mechanize-Driver-0.6.tar.gz
 Apporo                         0.000001  O/OV/OVERLAST/Apporo-0.000001.tar.gz

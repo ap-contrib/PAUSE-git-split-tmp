@@ -163,6 +163,10 @@ Test::MockCommand::ScalarReadline,KYZ,f
 Test::MockCommand::TiedFH,KYZ,f
 Test::MockDBI,AFF,c
 Test::MockDBI,MLFISHER,m
+Test::MockDBI::Base,AFF,f
+Test::MockDBI::Constants,AFF,f
+Test::MockDBI::Db,AFF,f
+Test::MockDBI::St,AFF,f
 Test::MockFile::Light,MUTOGUZ,c
 Test::MockHTTP,KAPPA,f
 Test::MockModule,SIMONFLK,f
