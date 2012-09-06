@@ -1079,6 +1079,10 @@ Task::Smoke,GAAL,f
 Task::Spark::Form,KENTNL,f
 Task::Sub::Spec,SHARYANTO,f
 Task::Tapper,AMD,f
+Task::Tapper::Client,AMD,f
+Task::Tapper::Installer,AMD,f
+Task::Tapper::Server,AMD,f
+Task::Tapper::Server::Automation,AMD,f
 Task::Template::Benchmark,SGRAHAM,f
 Task::Test,SZABGAB,f
 Task::Test::Run::AllPlugins,SHLOMIF,f
