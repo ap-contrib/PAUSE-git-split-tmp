@@ -618,8 +618,8 @@ Test::More::Prefix::TB1           0.003  S/SA/SARGIE/Test-More-Prefix-0.003.tar.
 Test::More::Prefix::TB2           0.003  S/SA/SARGIE/Test-More-Prefix-0.003.tar.gz
 Test::More::Strict                 0.02  A/AN/ANDYA/Test-More-Strict-0.02.tar.gz
 Test::More::UTF8                   0.03  M/MO/MONS/Test-More-UTF8-0.03.tar.gz
-Test::Most                         0.30  O/OV/OVID/Test-Most-0.30.tar.gz
-Test::Most::Exception              0.30  O/OV/OVID/Test-Most-0.30.tar.gz
+Test::Most                         0.31  O/OV/OVID/Test-Most-0.31.tar.gz
+Test::Most::Exception              0.31  O/OV/OVID/Test-Most-0.31.tar.gz
 Test::Mouse                       undef  G/GF/GFUJI/Mouse-1.02.tar.gz
 Test::MTA::Exim4                   0.04  N/NI/NIGELM/Test-MTA-Exim4-0.04.tar.gz
 Test::MultiFork                     0.6  M/MU/MUIR/modules/Test-MultiFork-0.6.tar.gz
