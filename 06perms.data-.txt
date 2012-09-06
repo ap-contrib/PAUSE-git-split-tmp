@@ -688,6 +688,7 @@ Data::StreamDeserializer,UNERA,f
 Data::StreamSerializer,UNERA,f
 Data::Strify,SOFTDIA,f
 Data::Struct,JV,f
+Data::Structure::Compare,SSQQ,f
 Data::Structure::Util,ANDYA,c
 Data::Structure::Util,FOTANGO,c
 Data::Structure::Util,PDENIS,f
