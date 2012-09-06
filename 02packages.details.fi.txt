@@ -323,7 +323,7 @@ File::Path::Collapse               0.03  N/NK/NKH/File-Path-Collapse-0.03.7.tar.
 File::Path::Expand                 1.02  R/RC/RCLAMP/File-Path-Expand-1.02.tar.gz
 File::Path::Localize                1.0  D/DA/DANBERR/File-Path-Localize-1.0.1.tar.gz
 File::Path::Stderr                 2.00  M/MA/MARKF/File-Path-Stderr-2.00.tar.gz
-File::Path::Tiny                    0.4  D/DM/DMUEY/File-Path-Tiny-0.4.tar.gz
+File::Path::Tiny                    0.5  D/DM/DMUEY/File-Path-Tiny-0.5.tar.gz
 File::PathConvert                   0.9  R/RB/RBS/File-PathConvert-0.9.tar.gz
 File::PathInfo                     1.27  L/LE/LEOCHARRE/File-PathInfo-1.27.tar.gz
 File::PathInfo::Ext                1.30  L/LE/LEOCHARRE/File-PathInfo-Ext-1.30.tar.gz
