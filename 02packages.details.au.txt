@@ -126,7 +126,7 @@ Authen::Passphrase::NTHash        0.008  Z/ZE/ZEFRAM/Authen-Passphrase-0.008.tar
 Authen::Passphrase::PHPass        0.008  Z/ZE/ZEFRAM/Authen-Passphrase-0.008.tar.gz
 Authen::Passphrase::RejectAll     0.008  Z/ZE/ZEFRAM/Authen-Passphrase-0.008.tar.gz
 Authen::Passphrase::SaltedDigest  0.008  Z/ZE/ZEFRAM/Authen-Passphrase-0.008.tar.gz
-Authen::Passphrase::SaltedSHA512   0.03  D/DA/DAVIDO/Authen-Passphrase-SaltedSHA512-0.03.tar.gz
+Authen::Passphrase::SaltedSHA512   0.04  D/DA/DAVIDO/Authen-Passphrase-SaltedSHA512-0.04.tar.gz
 Authen::Passphrase::VMSPurdy      0.008  Z/ZE/ZEFRAM/Authen-Passphrase-0.008.tar.gz
 Authen::Perl::NTLM                 0.12  U/UM/UMVUE/Authen-Perl-NTLM-0.12.tar.gz
 Authen::PhoneChallenge             0.02  S/SP/SPESHAK/Authen-PhoneChallenge-0.02.tar.gz
