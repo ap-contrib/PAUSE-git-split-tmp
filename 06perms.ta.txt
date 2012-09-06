@@ -1078,6 +1078,7 @@ Task::Sites::ShlomiFish,SHLOMIF,f
 Task::Smoke,GAAL,f
 Task::Spark::Form,KENTNL,f
 Task::Sub::Spec,SHARYANTO,f
+Task::Tapper,AMD,f
 Task::Template::Benchmark,SGRAHAM,f
 Task::Test,SZABGAB,f
 Task::Test::Run::AllPlugins,SHLOMIF,f
