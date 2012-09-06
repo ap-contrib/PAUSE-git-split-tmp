@@ -144,7 +144,7 @@ Catalyst::Plugin::Authentication::Store::RDBO::Backend 0.001  U/UV/UVOELKER/Cata
 Catalyst::Plugin::Authentication::Store::RDBO::User 0.002  U/UV/UVOELKER/Catalyst-Plugin-Authentication-Store-RDBO-0.002.tar.gz
 Catalyst::Plugin::Authentication::User undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10021.tar.gz
 Catalyst::Plugin::Authentication::User::Hash undef  B/BO/BOBTFISH/Catalyst-Plugin-Authentication-0.10021.tar.gz
-Catalyst::Plugin::Authorization::Abilities 0.02  I/ID/IDOPEREL/Catalyst-Plugin-Authorization-Abilities-0.02.tar.gz
+Catalyst::Plugin::Authorization::Abilities 0.031000  I/ID/IDOPEREL/Catalyst-Plugin-Authorization-Abilities-v0.31.0.tar.gz
 Catalyst::Plugin::Authorization::ACL 0.15  R/RK/RKITOVER/Catalyst-Plugin-Authorization-ACL-0.15.tar.gz
 Catalyst::Plugin::Authorization::ACL::Engine undef  R/RK/RKITOVER/Catalyst-Plugin-Authorization-ACL-0.15.tar.gz
 Catalyst::Plugin::Authorization::CDBI::GroupToken 0.01  S/SS/SSC/Catalyst-Plugin-Authorization-CDBI-GroupToken-0.01.tar.gz
