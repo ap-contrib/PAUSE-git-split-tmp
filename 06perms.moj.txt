@@ -180,6 +180,7 @@ MongoDBx::Class::Document,IDOPEREL,f
 MongoDBx::Class::EmbeddedDocument,IDOPEREL,f
 MongoDBx::Class::Meta::AttributeTraits,IDOPEREL,f
 MongoDBx::Class::Meta::AttributeTraits::Parsed,IDOPEREL,f
+MongoDBx::Class::Meta::AttributeTraits::Transient,IDOPEREL,f
 MongoDBx::Class::Moose,IDOPEREL,f
 MongoDBx::Class::ParsedAttribute,IDOPEREL,f
 MongoDBx::Class::ParsedAttribute::DateTime,IDOPEREL,f
@@ -729,6 +730,7 @@ Moose::Meta::Attribute::Custom::Trait::State,GORAXE,c
 Moose::Meta::Attribute::Custom::Trait::StormArray,JHALLOCK,f
 Moose::Meta::Attribute::Custom::Trait::TAEB::GoodStatus,SARTAK,f
 Moose::Meta::Attribute::Custom::Trait::TAEB::Persistent,SARTAK,f
+Moose::Meta::Attribute::Custom::Trait::Transient,IDOPEREL,f
 Moose::Meta::Attribute::Custom::Trait::TreeInherit,CJM,f
 Moose::Meta::Attribute::Custom::Trait::TypeConstraint::CustomizeFatal,AVAR,f
 Moose::Meta::Attribute::Custom::Trait::XML,ETHER,c
