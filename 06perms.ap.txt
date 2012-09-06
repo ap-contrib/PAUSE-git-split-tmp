@@ -835,6 +835,7 @@ App::Rgit::Policy::Keep,VPIT,f
 App::Rgit::Repository,VPIT,f
 App::Rgit::Utils,VPIT,f
 App::Rolling,BAYASHI,f
+App::Run,VOJ,f
 App::SD,SPANG,f
 App::SD,TSIBLEY,c
 App::SD::CLI,SPANG,f
