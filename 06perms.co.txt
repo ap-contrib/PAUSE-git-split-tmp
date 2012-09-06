@@ -1557,6 +1557,7 @@ Crypt::Passwd::XS,CPANEL,f
 Crypt::Passwd::XS,LIGHTSEY,c
 Crypt::PasswdMD5,LUISMUNOZ,m
 Crypt::Password,DRSTEVE,m
+Crypt::Password::Util,SHARYANTO,f
 Crypt::PerfectPaperPasswords,ANDYA,f
 Crypt::Present,GODE,m
 Crypt::Primes,VIPUL,f
