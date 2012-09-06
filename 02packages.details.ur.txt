@@ -242,6 +242,7 @@ UUID::Generator::PurePerl::Util   undef  B/BA/BANB/UUID-Generator-PurePerl-0.80.
 UUID::Generator::PurePerl::Util::PseudoDigester undef  B/BA/BANB/UUID-Generator-PurePerl-0.80.tar.gz
 UUID::Object                       0.81  B/BA/BANB/UUID-Object-0.81.tar.gz
 UUID::Random                       0.04  P/PE/PERLER/UUID-Random-0.04.tar.gz
+UUID::Random::Patch::UseMRS        0.01  S/SH/SHARYANTO/UUID-Random-Patch-UseMRS-0.01.tar.gz
 UUID::Tiny                         1.03  C/CA/CAUGUSTIN/UUID-Tiny-1.03.tar.gz
 V                                  0.13  A/AB/ABELTJE/V-0.13.tar.gz
 v6                                0.044  F/FG/FGLOCK/v6-0.044.tar.gz

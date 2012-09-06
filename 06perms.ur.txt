@@ -259,6 +259,7 @@ UUID::Generator::PurePerl::Util,BANB,f
 UUID::Generator::PurePerl::Util::PseudoDigester,BANB,f
 UUID::Object,BANB,f
 UUID::Random,PERLER,f
+UUID::Random::Patch::UseMRS,SHARYANTO,f
 UUID::Tiny,CAUGUSTIN,m
 UberBot::Factoid,MSERGEANT,f
 UberBot::Joiner,MSERGEANT,f
