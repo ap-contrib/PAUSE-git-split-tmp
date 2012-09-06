@@ -214,11 +214,11 @@ RegisterPage                      undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 RegularEvent                       2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 RegularInterface                   2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 RegularValue                       2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
-Reindeer                          0.013  R/RS/RSRCHBOY/Reindeer-0.013.tar.gz
-Reindeer::Builder                 0.013  R/RS/RSRCHBOY/Reindeer-0.013.tar.gz
-Reindeer::Role                    0.013  R/RS/RSRCHBOY/Reindeer-0.013.tar.gz
-Reindeer::Types                   0.013  R/RS/RSRCHBOY/Reindeer-0.013.tar.gz
-Reindeer::Util                    0.013  R/RS/RSRCHBOY/Reindeer-0.013.tar.gz
+Reindeer                          0.015  R/RS/RSRCHBOY/Reindeer-0.015.tar.gz
+Reindeer::Builder                 0.015  R/RS/RSRCHBOY/Reindeer-0.015.tar.gz
+Reindeer::Role                    0.015  R/RS/RSRCHBOY/Reindeer-0.015.tar.gz
+Reindeer::Types                   0.015  R/RS/RSRCHBOY/Reindeer-0.015.tar.gz
+Reindeer::Util                    0.015  R/RS/RSRCHBOY/Reindeer-0.015.tar.gz
 Relations                          0.95  G/GA/GAFFER/Relations-0.95.tar.gz
 Relations::Abstract                0.94  G/GA/GAFFER/Relations-Abstract-0.94.tar.gz
 Relations::Display                 0.92  G/GA/GAFFER/Relations-Display-0.92.tar.gz
