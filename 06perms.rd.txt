@@ -52,6 +52,8 @@ REST::Application::Routes,LUKEC,f
 REST::Application::Routes,MOCONNOR,c
 REST::Client,MCRAWFOR,f
 REST::Client::Simple,LEV,f
+REST::Consumer,TRAVIS,f
+REST::Consumer::RequestException,TRAVIS,f
 REST::Google,EJS,f
 REST::Google::Apps::EmailSettings,SSCHNEID,m
 REST::Google::Apps::Provisioning,SSCHNEID,m

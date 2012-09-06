@@ -403,6 +403,8 @@ REST::Application                 0.992  M/MO/MOCONNOR/REST-Application-0.992.ta
 REST::Application::Routes         undef  M/MO/MOCONNOR/REST-Application-0.992.tar.gz
 REST::Client                        249  M/MC/MCRAWFOR/REST-Client-249.tar.gz
 REST::Client::Simple                0.2  L/LE/LEV/REST-Client-Simple-0.2.tar.gz
+REST::Consumer                     0.07  T/TR/TRAVIS/REST-Consumer-0.07.tar.gz
+REST::Consumer::RequestException  undef  T/TR/TRAVIS/REST-Consumer-0.07.tar.gz
 REST::Google                      1.0.8  E/EJ/EJS/REST-Google-1.0.8.tar.gz
 REST::Google::Apps::EmailSettings 1.001006  S/SS/SSCHNEID/REST-Google-Apps-EmailSettings-1.1.6.tar.gz
 REST::Google::Apps::Provisioning 1.001010  S/SS/SSCHNEID/REST-Google-Apps-Provisioning-1.1.10.tar.gz
