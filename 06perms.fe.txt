@@ -748,6 +748,7 @@ File::PidSimple,BORISZ,f
 File::PlainPath,ODYNIEC,m
 File::Policy,BBC,f
 File::Policy::Default,BBC,f
+File::Prepend::Undoable,SHARYANTO,f
 File::Properties,WOHL,m
 File::Properties::Cache,WOHL,f
 File::Properties::Compressed,WOHL,f
