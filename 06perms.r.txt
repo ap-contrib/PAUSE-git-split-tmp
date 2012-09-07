@@ -453,6 +453,7 @@ testthread,SANTEX,f
 testzz,SFLEX,f
 text,DBEAZLEY,f
 text_block,ZAPHAR,f
+thanks,TOBYINK,f
 the,INGY,f
 theme,SFLEX,f
 then,MSTROUT,f
