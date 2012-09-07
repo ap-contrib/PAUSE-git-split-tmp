@@ -318,6 +318,7 @@ File::PackageIndexer::PPI::ClassXSAccessor 0.01  S/SM/SMUELLER/File-PackageIndex
 File::PackageIndexer::PPI::Inheritance 0.01  S/SM/SMUELLER/File-PackageIndexer-0.02.tar.gz
 File::PackageIndexer::PPI::Util    0.01  S/SM/SMUELLER/File-PackageIndexer-0.02.tar.gz
 File::Pairtree                     1.02  J/JA/JAK/File-Pairtree-1.02.tar.gz
+File::Patch::Undoable              0.01  S/SH/SHARYANTO/File-Patch-Undoable-0.01.tar.gz
 File::Path                         2.08  D/DL/DLAND/File-Path-2.08.tar.gz
 File::Path::Collapse               0.03  N/NK/NKH/File-Path-Collapse-0.03.7.tar.gz
 File::Path::Expand                 1.02  R/RC/RCLAMP/File-Path-Expand-1.02.tar.gz

@@ -723,6 +723,7 @@ File::PackageIndexer::PPI::ClassXSAccessor,SMUELLER,f
 File::PackageIndexer::PPI::Inheritance,SMUELLER,f
 File::PackageIndexer::PPI::Util,SMUELLER,f
 File::Pairtree,JAK,f
+File::Patch::Undoable,SHARYANTO,f
 File::Path,DLAND,c
 File::Path,FLORA,c
 File::Path,P5P,m
