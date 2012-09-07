@@ -1,5 +1,5 @@
-DateTime::Format::Natural::Utils   0.05  S/SC/SCHUBIGER/DateTime-Format-Natural-1.00.tar.gz
-DateTime::Format::Natural::Wrappers 0.03  S/SC/SCHUBIGER/DateTime-Format-Natural-1.00.tar.gz
+DateTime::Format::Natural::Utils   0.05  S/SC/SCHUBIGER/DateTime-Format-Natural-1.01.tar.gz
+DateTime::Format::Natural::Wrappers 0.03  S/SC/SCHUBIGER/DateTime-Format-Natural-1.01.tar.gz
 DateTime::Format::Oracle           0.06  K/KO/KOLIBRIE/DateTime-Format-Oracle-0.06.tar.gz
 DateTime::Format::Pg            0.16007  D/DM/DMAKI/DateTime-Format-Pg-0.16007.tar.gz
 DateTime::Format::RFC3339      1.000005  I/IK/IKEGAMI/DateTime-Format-RFC3339-v1.0.5.tar.gz
