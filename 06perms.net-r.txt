@@ -690,6 +690,7 @@ Net::SenderBase::Query::HTTP,JOENIO,c
 Net::SenderBase::Query::HTTP,MSERGEANT,f
 Net::SenderBase::Results,JOENIO,c
 Net::SenderBase::Results,MSERGEANT,f
+Net::Sentry::Client,KIO,f
 Net::Server,BBB,c
 Net::Server,RHANDOM,m
 Net::Server::Coro,ALEXMV,f
