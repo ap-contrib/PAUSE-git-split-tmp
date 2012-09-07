@@ -160,7 +160,7 @@ Syndication::NITF::urgency         0.02  B/BQ/BQUINN/Syndication-NITF-0.02.tar.g
 Syndication::NITF::virtloc         0.02  B/BQ/BQUINN/Syndication-NITF-0.02.tar.gz
 Synopsis                          undef  W/WI/WINTRU/Class-Homonymous_Union-0.03.tar.gz
 syntax                            0.004  P/PH/PHAYLON/syntax-0.004.tar.gz
-Syntax::Collector                 0.003  T/TO/TOBYINK/Syntax-Collector-0.003.tar.gz
+Syntax::Collector                 0.004  T/TO/TOBYINK/Syntax-Collector-0.004.tar.gz
 Syntax::Collector::Example        undef  T/TO/TOBYINK/Syntax-Collector-0.003.tar.gz
 Syntax::Feature::CatalystAction    0.01  J/JJ/JJNAPIORK/CatalystX-Syntax-Action-0.01.tar.gz
 Syntax::Feature::Corolocal     0.001002  W/WI/WINTER/Coro-Localize-0.1.2.tar.gz
