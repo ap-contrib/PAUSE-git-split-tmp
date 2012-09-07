@@ -459,7 +459,7 @@ Data::Stream::Bulk::Util           0.11  D/DO/DOY/Data-Stream-Bulk-0.11.tar.gz
 Data::StreamDeserializer           0.06  U/UN/UNERA/Data-StreamDeserializer-0.06.tar.gz
 Data::StreamSerializer             0.07  U/UN/UNERA/Data-StreamSerializer-0.07.tar.gz
 Data::Struct                      1.701  J/JV/JV/Data-Struct-1.701.tar.gz
-Data::Structure::Compare           0.01  S/SS/SSQQ/Data-Structure-Compare-0.01.tar.gz
+Data::Structure::Compare           0.02  S/SS/SSQQ/Data-Structure-Compare-0.02.tar.gz
 Data::Structure::Util              0.15  A/AN/ANDYA/Data-Structure-Util-0.15.tar.gz
 Data::Swap                         0.08  X/XM/XMATH/Data-Swap-0.08.tar.gz
 Data::Sync                         0.08  C/CC/CCOLBOURN/Data-Sync/Data-Sync-0.08.tar.gz
