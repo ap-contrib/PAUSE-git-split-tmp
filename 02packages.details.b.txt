@@ -705,9 +705,9 @@ Business::OnlinePayment::Iridium::Action::ThreeDSecureAuthentication undef  G/GH
 Business::OnlinePayment::Jettis    0.02  I/IV/IVAN/Business-OnlinePayment-Jettis-0.02.tar.gz
 Business::OnlinePayment::Jety      0.09  I/IV/IVAN/Business-OnlinePayment-Jety-0.09.tar.gz
 Business::OnlinePayment::LinkPoint 0.10  I/IV/IVAN/Business-OnlinePayment-LinkPoint-0.10.tar.gz
-Business::OnlinePayment::Litle    0.910  J/JA/JAYCE/Business-OnlinePayment-Litle-0.910.tar.gz
-Business::OnlinePayment::Litle::ErrorCodes 0.01  J/JA/JAYCE/Business-OnlinePayment-Litle-0.910.tar.gz
-Business::OnlinePayment::Litle::UpdaterResponse undef  J/JA/JAYCE/Business-OnlinePayment-Litle-0.910.tar.gz
+Business::OnlinePayment::Litle    0.912  J/JA/JAYCE/Business-OnlinePayment-Litle-0.912.tar.gz
+Business::OnlinePayment::Litle::ErrorCodes 0.01  J/JA/JAYCE/Business-OnlinePayment-Litle-0.912.tar.gz
+Business::OnlinePayment::Litle::UpdaterResponse undef  J/JA/JAYCE/Business-OnlinePayment-Litle-0.912.tar.gz
 Business::OnlinePayment::MerchantCommerce 0.01  T/TM/TMAC/Business-OnlinePayment-MerchantCommerce-0.01.tar.gz
 Business::OnlinePayment::Multiplex 0.01  M/MO/MOCK/Business-OnlinePayment-Multiplex-0.01.tar.gz
 Business::OnlinePayment::Network1Financial 0.02  I/IV/IVAN/Business-OnlinePayment-Network1Financial-002targ/Business-OnlinePayment-Network1Financial-0.02.tar.gz
