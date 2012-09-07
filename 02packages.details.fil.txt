@@ -255,7 +255,7 @@ Finance::OFX::Parse::Simple        0.06  J/JJ/JJONES/Finance-OFX-Parse-Simple-0.
 Finance::Optical::StrongBuy        0.08  S/SA/SANTEX/Finance-Optical-StrongBuy-0.08.tar.gz
 Finance::Options::Calc              0.9  C/CC/CCZ/Finance-Options-Calc-0.90.tar.gz
 Finance::Performance::Calc         1.01  P/PE/PERSICOM/Finance-Performance-Calc-1.01.tar.gz
-Finance::PremiumBonds              0.05  B/BI/BIGPRESH/Finance-PremiumBonds-0.05.tar.gz
+Finance::PremiumBonds              0.06  B/BI/BIGPRESH/Finance-PremiumBonds-0.06.tar.gz
 Finance::QIF                       3.02  M/MM/MMCGILLIS/Finance-QIF-3.02.tar.gz
 Finance::QIF::Transaction          1.03  N/NM/NMCFARL/Finance-QIF-1.03.tar.gz
 Finance::Quant                     0.09  S/SA/SANTEX/Finance-Quant-0.09.tar.gz
