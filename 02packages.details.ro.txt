@@ -456,7 +456,7 @@ RT::Extension::QueueWizard          0.7  K/KE/KEVINR/RT-Extension-QueueWizard-0.
 RT::Extension::QuickCalls          0.04  F/FA/FALCONE/RT-Extension-QuickCalls-0.04.tar.gz
 RT::Extension::QuickDelete         0.05  F/FA/FALCONE/RT-Extension-QuickDelete-0.05.tar.gz
 RT::Extension::ReassignOwner       0.01  F/FA/FALCONE/RT-Extension-ReassignOwner-0.01.tar.gz
-RT::Extension::ReferenceIDoitObjects 0.9  B/BH/BHEISIG/RT-Extension-ReferenceIDoitObjects-0.9.tar.gz
+RT::Extension::ReferenceIDoitObjects 0.91  B/BH/BHEISIG/RT-Extension-ReferenceIDoitObjects-0.91.tar.gz
 RT::Extension::ReminderImproved    0.04  C/CL/CLOOS/RT-Extension-ReminderImproved-0.04.tar.gz
 RT::Extension::ReportSpam          0.03  R/RU/RUZ/RT-Extension-ReportSpam-0.03.tar.gz
 RT::Extension::ResetPassword       0.05  F/FA/FALCONE/RT-Extension-ResetPassword-0.05.tar.gz
