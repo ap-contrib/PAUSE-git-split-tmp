@@ -54,7 +54,7 @@ Crypt::TEA                         1.25  A/AM/AMS/Crypt-TEA-1.25.tar.gz
 Crypt::Tea                         2.12  P/PJ/PJB/Crypt-Tea-2.12.tar.gz
 Crypt::Tea_JS                      2.23  P/PJ/PJB/Crypt-Tea_JS-2.23.tar.gz
 Crypt::TripleDES                   0.24  V/VI/VIPUL/Crypt-TripleDES-0.24.tar.gz
-Crypt::Twofish                     2.14  A/AM/AMS/Crypt-Twofish-2.14.tar.gz
+Crypt::Twofish                     2.15  A/AM/AMS/Crypt-Twofish-2.15.tar.gz
 Crypt::Twofish2                    1.02  M/ML/MLEHMANN/Crypt-Twofish2-1.02.tar.gz
 Crypt::Twofish_PP                  0.17  G/GU/GUIDO/Crypt-Twofish_PP-0.17.tar.gz
 Crypt::Twofish_PP::Key16          undef  G/GU/GUIDO/Crypt-Twofish_PP-0.17.tar.gz
