@@ -443,7 +443,7 @@ Symbol::Table::Tie                 1.01  G/GS/GSLONDON/Symbol-Table-1.01.tar.gz
 Symbol::Util                     0.0203  D/DE/DEXTER/Symbol-Util-0.0203.tar.gz
 Symbol::Values                     1.07  K/KM/KMIYAZAKI/Symbol-Values-1.07.tar.gz
 SymbolicMode                      undef  C/CW/CWEST/ppt-0.14.tar.gz
-SymObj                         0.006000  S/SD/SDAODEN/S-SymObj-0.6.0.tar.gz
+SymObj                         0.006001  S/SD/SDAODEN/S-SymObj-0.6.1.tar.gz
 SymTab                            undef  C/CH/CHM/PDL-2.4.11.tar.gz
 Synapse::CLI::Config                0.1  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.gz
 Synapse::CLI::Config::Object      undef  J/JH/JHIVER/Synapse-CLI-Config-0.1.tar.gz
