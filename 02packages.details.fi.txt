@@ -206,7 +206,7 @@ File::HTTP                         0.88  T/TD/TDRUGEON/File-HTTP-0.88.tar.gz
 File::IfModified                   0.20  G/GR/GRIAN/File-IfModified-0.20.tar.gz
 File::Ignore                      0.021  R/RK/RKRIMEN/File-Ignore-0.021.tar.gz
 File::IgnoreReadonly               0.01  A/AD/ADAMK/File-IgnoreReadonly-0.01.tar.gz
-File::Index                        0.02  G/GR/GRAHJENK/File-Index-0.02.tar.gz
+File::Index                        0.03  G/GR/GRAHJENK/File-Index-0.03.tar.gz
 File::Info                         1.02  F/FL/FLUFFY/File-Info-1.02.tar.gz
 File::Inplace                      0.20  C/CH/CHIPT/File-Inplace-0.20.tar.gz
 File::Irenamer                     1.03  B/BH/BHECKEL/File-Irenamer-1.03.tar.gz
