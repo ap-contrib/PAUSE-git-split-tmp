@@ -452,7 +452,7 @@ Catalyst::TraitFor::Controller::jQuery::jqGrid 0.04  I/IC/ICYDEE/Catalyst-TraitF
 Catalyst::TraitFor::Controller::LocaleSelect 0.03  D/DI/DIEGOK/Catalyst-TraitFor-Controller-LocaleSelect-0.03.tar.gz
 Catalyst::TraitFor::Controller::PermissionCheck 0.04  J/JS/JSHIRLEY/Catalyst-TraitFor-Controller-PermissionCheck-0.04.tar.gz
 Catalyst::TraitFor::Controller::Ping 0.001  N/NP/NPEREZ/Catalyst-TraitFor-Controller-Ping-0.001.tar.gz
-Catalyst::TraitFor::Controller::reCAPTCHA 1.113630  D/DI/DIEGOK/Catalyst-TraitFor-Controller-reCAPTCHA-1.113630.tar.gz
+Catalyst::TraitFor::Controller::reCAPTCHA 1.122510  D/DI/DIEGOK/Catalyst-TraitFor-Controller-reCAPTCHA-1.122510.tar.gz
 Catalyst::TraitFor::Controller::RenderView 0.002  B/BO/BOBTFISH/Catalyst-TraitFor-Controller-RenderView-0.002.tar.gz
 Catalyst::TraitFor::Controller::SpecialAction::Trail 0.01  M/ME/MENDEL/Catalyst-Plugin-SpecialAction-Trail-0.01.tar.gz
 Catalyst::TraitFor::Log::Audio     0.02  R/RJ/RJURNEY/Catalyst-TraitFor-Log-Audio-0.02.tar.gz
