@@ -1159,6 +1159,7 @@ Message::Passing::Output::File,BOBTFISH,c
 Message::Passing::Output::File,GHENRY,f
 Message::Passing::Output::IO::Handle,BOBTFISH,c
 Message::Passing::Output::IO::Handle,GHENRY,f
+Message::Passing::Output::Log::Any::Adapter,ABRAXXA,f
 Message::Passing::Output::MongoDB,ICIBIN,f
 Message::Passing::Output::Null,BOBTFISH,c
 Message::Passing::Output::Null,GHENRY,f
