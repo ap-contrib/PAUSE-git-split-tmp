@@ -130,6 +130,7 @@ WSDL::Generator                    0.04  P/PD/PDENIS/WSDL-Generator-0.04.tar.gz
 WSDL::Generator::Base              0.01  P/PD/PDENIS/WSDL-Generator-0.04.tar.gz
 WSDL::Generator::Binding           0.01  P/PD/PDENIS/WSDL-Generator-0.04.tar.gz
 WSDL::Generator::Schema            0.01  P/PD/PDENIS/WSDL-Generator-0.04.tar.gz
+WSDL::XML::Generator               0.01  L/LI/LINUS/WSDL-XML-Generator.zip
 WSDLTest                          undef  P/PD/PDENIS/WSDL-Generator-0.04.tar.gz
 WSO2::WSF                           1.1  C/CH/CHINTANA/WSO2-WSF-Perl-1.1.tar.gz
 WSO2::WSF::C                      undef  C/CH/CHINTANA/WSO2-WSF-Perl-1.1.tar.gz
