@@ -573,6 +573,10 @@ AudioFile::Info::MP3::Tag          1.06  D/DA/DAVECROSS/AudioFile-Info-MP3-Tag-1
 AudioFile::Info::MP4::Info          0.6  S/SI/SIMONW/AudioFile-Info-MP4-Info-0.6.tar.gz
 AudioFile::Info::Ogg::Vorbis::Header 22  D/DA/DAVECROSS/AudioFile-Info-Ogg-Vorbis-Header-1.08.tar.gz
 AudioFile::Info::Ogg::Vorbis::Header::PurePerl 17  D/DA/DAVECROSS/AudioFile-Info-Ogg-Vorbis-Header-PurePerl-1.05.tar.gz
+Audit::DBI                       v1.4.0  A/AU/AUBERTG/Audit-DBI-1.4.0.tar.gz
+Audit::DBI::Event                v1.4.0  A/AU/AUBERTG/Audit-DBI-1.4.0.tar.gz
+Audit::DBI::TT2                  v1.4.0  A/AU/AUBERTG/Audit-DBI-1.4.0.tar.gz
+Audit::DBI::Utils                v1.4.0  A/AU/AUBERTG/Audit-DBI-1.4.0.tar.gz
 AuditLog                          undef  M/MR/MRJC/cvswebedit-v2.0b1.tar.gz
 Aut                                0.11  O/OE/OESTERHOL/Aut-0.11.tar.gz
 Aut::Backend::Conf                undef  O/OE/OESTERHOL/Aut-0.11.tar.gz
