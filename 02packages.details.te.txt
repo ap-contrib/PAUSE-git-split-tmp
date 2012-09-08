@@ -253,7 +253,7 @@ threads::lite::list               0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
 threads::lite::queue              0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
 threads::lite::tid                0.031  L/LE/LEONT/threads-lite-0.031.tar.gz
 threads::posix                    0.002  L/LE/LEONT/threads-posix-0.002.tar.gz
-threads::shared                    1.40  J/JD/JDHEDDEN/threads-shared-1.40.tar.gz
+threads::shared                    1.41  J/JD/JDHEDDEN/threads-shared-1.41.tar.gz
 threads::shared::array             0.34  R/RY/RYBSKEJ/forks-0.34.tar.gz
 threads::shared::handle            0.34  R/RY/RYBSKEJ/forks-0.34.tar.gz
 threads::shared::hash              0.34  R/RY/RYBSKEJ/forks-0.34.tar.gz
