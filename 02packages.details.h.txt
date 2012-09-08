@@ -105,8 +105,8 @@ Human                             0.002  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 Human::Group                      0.002  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 Human::Role                       0.002  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 HWND                               0.02  I/IL/ILYAZ/os2/OS2-WinObject-0.02.tar.gz
-Hypatia                           0.011  J/JA/JACKMANEY/Hypatia-0.011.tar.gz
-Hypatia::Base                     0.011  J/JA/JACKMANEY/Hypatia-0.011.tar.gz
+Hypatia                           0.012  J/JA/JACKMANEY/Hypatia-0.012.tar.gz
+Hypatia::Base                     0.012  J/JA/JACKMANEY/Hypatia-0.012.tar.gz
 Hypatia::Chart::Clicker            0.01  J/JA/JACKMANEY/Hypatia-Chart-Clicker-0.01.tar.gz
 Hypatia::Chart::Clicker::Area      0.01  J/JA/JACKMANEY/Hypatia-Chart-Clicker-0.01.tar.gz
 Hypatia::Chart::Clicker::Bar       0.01  J/JA/JACKMANEY/Hypatia-Chart-Clicker-0.01.tar.gz
@@ -115,8 +115,8 @@ Hypatia::Chart::Clicker::Line      0.01  J/JA/JACKMANEY/Hypatia-Chart-Clicker-0.
 Hypatia::Chart::Clicker::Pie       0.01  J/JA/JACKMANEY/Hypatia-Chart-Clicker-0.01.tar.gz
 Hypatia::Chart::Clicker::Point     0.01  J/JA/JACKMANEY/Hypatia-Chart-Clicker-0.01.tar.gz
 Hypatia::Chart::Clicker::XYDataSet 0.01  J/JA/JACKMANEY/Hypatia-Chart-Clicker-0.01.tar.gz
-Hypatia::Columns                  0.011  J/JA/JACKMANEY/Hypatia-0.011.tar.gz
-Hypatia::DBI                      0.011  J/JA/JACKMANEY/Hypatia-0.011.tar.gz
+Hypatia::Columns                  0.012  J/JA/JACKMANEY/Hypatia-0.012.tar.gz
+Hypatia::DBI                      0.012  J/JA/JACKMANEY/Hypatia-0.012.tar.gz
 Hyper::Developer                  0.070  A/AC/ACID/Hyper-Developer-0.07.tar.gz
 Hyper::Developer::Generator       0.010  A/AC/ACID/Hyper-Developer-0.07.tar.gz
 Hyper::Developer::Generator::Control 0.010  A/AC/ACID/Hyper-Developer-0.07.tar.gz
