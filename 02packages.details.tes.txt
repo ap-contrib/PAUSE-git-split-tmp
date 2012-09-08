@@ -289,7 +289,7 @@ Test::Environment::Plugin::Apache2::Apache2::Request 0.06  J/JK/JKUTEJ/Test-Envi
 Test::Environment::Plugin::Apache2::Apache2::RequestRec 0.06  J/JK/JKUTEJ/Test-Environment-0.06.tar.gz
 Test::Environment::Plugin::Dump    0.01  J/JK/JKUTEJ/Test-Environment-0.06.tar.gz
 Test::Environment::Plugin::PostgreSQL 0.03  J/JK/JKUTEJ/Test-Environment-0.06.tar.gz
-Test::EOL                           1.3  B/BO/BOBTFISH/Test-EOL-1.3.tar.gz
+Test::EOL                           1.4  B/BO/BOBTFISH/Test-EOL-1.4.tar.gz
 Test::Excel                        1.24  M/MA/MANWAR/Test-Excel-1.24.tar.gz
 Test::Excel::Template::Plus        0.02  S/ST/STEVAN/Excel-Template-Plus-0.05.tar.gz
 Test::Exception                    0.31  A/AD/ADIE/Test-Exception-0.31.tar.gz
