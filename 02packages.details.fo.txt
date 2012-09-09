@@ -515,10 +515,10 @@ FTN::Addr                      20090704  V/VA/VAL/FTN-Addr-20090704.tar.gz
 FTN::Address                       1.03  S/ST/STRO/FTN-Address-1.03.tar.gz
 FTN::Database                      0.34  J/JA/JAME/FTN-Database-0.34.tar.gz
 FTN::Database::Nodelist            0.34  J/JA/JAME/FTN-Database-0.34.tar.gz
-FTN::JAM                           0.14  J/JA/JAME/FTN-JAM-0.14.tar.gz
-FTN::JAM::Attr                     0.14  J/JA/JAME/FTN-JAM-0.14.tar.gz
-FTN::JAM::Errnum                   0.14  J/JA/JAME/FTN-JAM-0.14.tar.gz
-FTN::JAM::Subfields                0.14  J/JA/JAME/FTN-JAM-0.14.tar.gz
+FTN::JAM                           0.20  J/JA/JAME/FTN-JAM-0.20.tar.gz
+FTN::JAM::Attr                     0.20  J/JA/JAME/FTN-JAM-0.20.tar.gz
+FTN::JAM::Errnum                   0.20  J/JA/JAME/FTN-JAM-0.20.tar.gz
+FTN::JAM::Subfields                0.20  J/JA/JAME/FTN-JAM-0.20.tar.gz
 FTN::Log                           0.06  J/JA/JAME/FTN-Log-0.06.tar.gz
 FTN::Msg                           1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
 FTN::Nodelist                      1.07  S/ST/STRO/FTN-Nodelist-1.07.tar.gz
