@@ -307,6 +307,7 @@ lib::core::only,WSHELDAHL,c
 lib::findbin,DMUEY,f
 lib::glob,SALVA,f
 lib::http,GMPASSOS,f
+lib::if::dev,RSRCHBOY,f
 lib::restrict,DMUEY,f
 lib::sql::Category,BPOSTLE,f
 lib::sql::DBH,BPOSTLE,f
