@@ -655,7 +655,7 @@ Log::Dispatch::Colorful            0.03  T/TA/TARO/Log-Dispatch-Colorful-0.03.ta
 Log::Dispatch::Config              1.04  M/MI/MIYAGAWA/Log-Dispatch-Config-1.04.tar.gz
 Log::Dispatch::Config::TestLog     0.02  N/NU/NUFFIN/Log-Dispatch-Config-TestLog-0.02.tar.gz
 Log::Dispatch::Configurator        1.00  M/MI/MIYAGAWA/Log-Dispatch-Config-1.04.tar.gz
-Log::Dispatch::Configurator::Any 1.110690  O/OL/OLIVER/Log-Dispatch-Configurator-Any-1.110690.tar.gz
+Log::Dispatch::Configurator::Any 1.122530  O/OL/OLIVER/Log-Dispatch-Configurator-Any-1.122530.tar.gz
 Log::Dispatch::Configurator::AppConfig 1.00  M/MI/MIYAGAWA/Log-Dispatch-Config-1.04.tar.gz
 Log::Dispatch::Configurator::Perl 0.013  B/BA/BAYASHI/Log-Dispatch-Configurator-Perl-0.013.tar.gz
 Log::Dispatch::Configurator::YAML  0.03  F/FM/FMERGES/Log-Dispatch-Configurator-YAML-0.03.tar.gz
