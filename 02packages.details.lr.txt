@@ -513,7 +513,7 @@ M3::ServerView::RootView          undef  M/MA/MARWIL/M3-ServerView-0.04.tar.gz
 M3::ServerView::ServerEntry       undef  M/MA/MARWIL/M3-ServerView-0.04.tar.gz
 M3::ServerView::ServerView        undef  M/MA/MARWIL/M3-ServerView-0.04.tar.gz
 M3::ServerView::View              undef  M/MA/MARWIL/M3-ServerView-0.04.tar.gz
-M3U8                              undef  M/MR/MRSLX/M3U8-0.00.tar.gz
+M3U8                              undef  M/MR/MRSLX/Video-M3U8-0.0.tar.gz
 ma_plot                             1.5  C/CJ/CJONES/Microarray-0.45c.zip
 MAB2::Record::Base                 0.03  A/AN/ANDK/MAB2-0.06.tar.gz
 MAB2::Record::gkd                  0.01  A/AN/ANDK/MAB2-0.06.tar.gz
