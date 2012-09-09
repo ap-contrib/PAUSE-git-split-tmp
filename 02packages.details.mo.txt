@@ -464,10 +464,10 @@ MP3::ID3Lib::Frame                 0.10  L/LB/LBROCARD/MP3-ID3Lib-0.12.tar.gz
 MP3::ID3v1Tag                      1.11  S/SV/SVANZOEST/MP3-ID3v1Tag-1.11.tar.gz
 MP3::Info                          1.24  D/DA/DANIEL/MP3-Info-1.24.tar.gz
 MP3::M3U                           0.01  I/IL/ILIAL/MP3-M3U-0.01.tar.gz
-MP3::M3U::Parser                   2.30  B/BU/BURAK/MP3-M3U-Parser-2.30.tar.gz
-MP3::M3U::Parser::Constants        2.30  B/BU/BURAK/MP3-M3U-Parser-2.30.tar.gz
-MP3::M3U::Parser::Dummy            2.30  B/BU/BURAK/MP3-M3U-Parser-2.30.tar.gz
-MP3::M3U::Parser::Export           2.30  B/BU/BURAK/MP3-M3U-Parser-2.30.tar.gz
+MP3::M3U::Parser                   2.31  B/BU/BURAK/MP3-M3U-Parser-2.31.tar.gz
+MP3::M3U::Parser::Constants        2.31  B/BU/BURAK/MP3-M3U-Parser-2.31.tar.gz
+MP3::M3U::Parser::Dummy            2.31  B/BU/BURAK/MP3-M3U-Parser-2.31.tar.gz
+MP3::M3U::Parser::Export           2.31  B/BU/BURAK/MP3-M3U-Parser-2.31.tar.gz
 MP3::Mplib                         0.02  V/VP/VPARSEVAL/MP3-Mplib-0.02.tar.gz
 MP3::Player::PktConcert            0.01  M/MI/MIKEWONG/MP3-Player-PktConcert-0.01.tar.gz
 MP3::PodcastFetch                  1.04  L/LD/LDS/MP3-PodcastFetch-1.04.tar.gz

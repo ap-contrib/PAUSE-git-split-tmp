@@ -237,10 +237,10 @@ Lingua::tlhInganHol::yIghun    20090601  M/MS/MSCHWERN/Lingua-tlhInganHol-yIghun
 Lingua::TokenParse               0.1601  G/GE/GENE/Lingua-TokenParse-0.1601.tar.gz
 Lingua::TokiPona::Numbers          0.03  P/PA/PATCH/Lingua-Conlang-Numbers-0.04.tar.gz
 Lingua::Tolkien::BURL              0.50  R/RJ/RJE/Lingua-Tolkien-BURL-0.50.tar.gz
-Lingua::TR::ASCII                  0.12  B/BU/BURAK/Lingua-TR-ASCII-0.12.tar.gz
-Lingua::TR::ASCII::Data            0.12  B/BU/BURAK/Lingua-TR-ASCII-0.12.tar.gz
+Lingua::TR::ASCII                  0.13  B/BU/BURAK/Lingua-TR-ASCII-0.13.tar.gz
+Lingua::TR::ASCII::Data            0.13  B/BU/BURAK/Lingua-TR-ASCII-0.13.tar.gz
 Lingua::TR::Hyphenate              0.01  E/EN/ENGIN/Lingua-TR-Hyphenate-0.01.tar.gz
-Lingua::TR::Numbers                0.23  B/BU/BURAK/Lingua-TR-Numbers-0.23.tar.gz
+Lingua::TR::Numbers                0.31  B/BU/BURAK/Lingua-TR-Numbers-0.31.tar.gz
 Lingua::Translate                  0.09  S/SA/SAMV/Lingua-Translate-0.09.tar.gz
 Lingua::Translate::Babelfish      undef  S/SA/SAMV/Lingua-Translate-0.09.tar.gz
 Lingua::Translate::Google          0.22  D/DY/DYLAN/Lingua-Translate-Google-0.22.tar.gz
