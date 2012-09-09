@@ -376,6 +376,7 @@ Parse::HTTP::UserAgent::Constants,BURAK,f
 Parse::HTTP::UserAgent::Dumper,BURAK,f
 Parse::HTTP::UserAgent::IS,BURAK,f
 Parse::HTTP::UserAgent::Parsers,BURAK,f
+Parse::Highlife,KITOMER,m
 Parse::IASLog,BINGOS,f
 Parse::IRC,BINGOS,f
 Parse::IRCLog,RJBS,f

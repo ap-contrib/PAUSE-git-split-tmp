@@ -453,6 +453,7 @@ Data::Couplet::Role::Plugin,KENTNL,f
 Data::Couplet::Types,KENTNL,f
 Data::Currency,CLACO,f
 Data::Currency,GPHAT,c
+Data::DEC,KITOMER,m
 Data::DPath,SCHWIGON,f
 Data::DPath::Attrs,SCHWIGON,f
 Data::DPath::Context,SCHWIGON,f
