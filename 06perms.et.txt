@@ -378,6 +378,7 @@ Excel::Writer::XLSX::Package::Packager,JMCNAMARA,f
 Excel::Writer::XLSX::Package::Relationships,JMCNAMARA,f
 Excel::Writer::XLSX::Package::SharedStrings,JMCNAMARA,f
 Excel::Writer::XLSX::Package::Styles,JMCNAMARA,f
+Excel::Writer::XLSX::Package::Table,JMCNAMARA,f
 Excel::Writer::XLSX::Package::Theme,JMCNAMARA,f
 Excel::Writer::XLSX::Package::VML,JMCNAMARA,f
 Excel::Writer::XLSX::Package::XMLwriter,JMCNAMARA,f
