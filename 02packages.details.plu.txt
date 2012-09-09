@@ -521,7 +521,7 @@ PoCoPostback                      undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 POCSAG::Encode                     1.00  H/HE/HESSU/POCSAG/POCSAG-Encode-1.00.tar.gz
 POCSAG::PISS                       1.00  H/HE/HESSU/POCSAG/POCSAG-Encode-1.00.tar.gz
 POD2::Base                        0.043  F/FE/FERREIRA/POD2-Base-0.043.tar.gz
-POD2::ES                       5.016001002  E/EN/ENELL/POD2-ES-5.16.1.02.tar.gz
+POD2::ES                       5.016001003  E/EN/ENELL/POD2-ES-5.16.1.03.tar.gz
 POD2::FR                           0.03  P/PO/POLGAB/POD2-FR-0.03.tar.gz
 POD2::IT                           0.13  E/EN/ENRYS/POD2-IT-0.13.tar.gz
 POD2::IT::Getopt::Long             1.02  E/EN/ENRYS/POD2-IT-Getopt-Long-1.02.tar.gz
