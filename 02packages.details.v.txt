@@ -222,6 +222,7 @@ Video::Info::MPEG::Video          undef  A/AL/ALLENDAY/Video-Info-0.993.tar.gz
 Video::Info::Quicktime             0.02  A/AL/ALLENDAY/Video-Info-0.993.tar.gz
 Video::Info::Quicktime_PL          0.07  S/SH/SHOGE/video-info/Video-Info-Quicktime_PL-0.07.tar.gz
 Video::Info::RIFF                  1.07  A/AL/ALLENDAY/Video-Info-0.993.tar.gz
+Video::M3U8                       undef  M/MR/MRSLX/Video-M3U8-0.0.2.tar.gz
 Video::Manip                       0.01  H/HV/HVC/Video-Manip-0.03.tar.gz
 Video::OpenQuicktime               1.02  A/AL/ALLENDAY/Video-OpenQuicktime-1.02.tar.gz
 Video::PlaybackMachine             0.06  S/ST/STEPHEN/Video-PlaybackMachine-0.06.tar.gz
