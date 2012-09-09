@@ -831,7 +831,7 @@ Devel::Decouple                0.000003  M/MC/MCONNER/Devel-Decouple-v0.0.3.tar.
 Devel::Decouple::DB            0.000002  M/MC/MCONNER/Devel-Decouple-v0.0.3.tar.gz
 Devel::Depend::Cl                  0.04  N/NK/NKH/Devel-Depend-Cl-0.04.tar.gz
 Devel::Depend::Cpp                 0.09  N/NK/NKH/Devel-Depend-Cpp-0.09.tar.gz
-Devel::Dependencies                1.01  N/NE/NEILB/Devel-Dependencies-1.01.tar.gz
+Devel::Dependencies                1.02  N/NE/NEILB/Devel-Dependencies-1.02.tar.gz
 Devel::Deprecate                   0.01  O/OV/OVID/Devel-Deprecate-0.01.tar.gz
 Devel::Diagram                     1.00  G/GL/GLENNWOOD/Devel-Diagram-1.00.tar.gz
 Devel::Diagram::Render::UXF20      1.00  G/GL/GLENNWOOD/Devel-Diagram-1.00.tar.gz
