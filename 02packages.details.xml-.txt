@@ -613,7 +613,7 @@ XSUsage                            0.01  S/SH/SHAY/perl-5.17.3.tar.gz
 XT::Business                      undef  J/JT/JTANG/Module-Pluggable-Singleton-0.02.3.tar.gz
 XT::Business::Plugin::Bar         undef  J/JT/JTANG/Module-Pluggable-Singleton-0.02.3.tar.gz
 xt::Utils::mysql                  undef  K/KT/KTAT/Teng-Plugin-SearchBySQLAbstractMore-0.01.tar.gz
-XTerm::Conf                        0.07  S/SR/SREZIC/XTerm-Conf-0.07.tar.gz
+XTerm::Conf                        0.08  S/SR/SREZIC/XTerm-Conf-0.08.tar.gz
 Xtract                             0.16  A/AD/ADAMK/Xtract-0.16.tar.gz
 Xtract::Column                     0.16  A/AD/ADAMK/Xtract-0.16.tar.gz
 Xtract::LZMA                       0.16  A/AD/ADAMK/Xtract-0.16.tar.gz
