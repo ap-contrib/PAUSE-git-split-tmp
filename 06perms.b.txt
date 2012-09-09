@@ -362,6 +362,8 @@ ctkWidgetOption,MMARCO,f
 ctkWidgetTreeView,MMARCO,f
 ctkWork,MMARCO,f
 ctkXPM,MMARCO,f
+curry,MSTROUT,f
+curry::weak,MSTROUT,f
 cwd,VIDUL,f
 cyrillic,AMICHAUER,f
 dTemplate,DLUX,m

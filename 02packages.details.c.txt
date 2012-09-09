@@ -219,6 +219,8 @@ CTime                             undef  M/MU/MUIR/scripts/frogbak.tar.gz
 Ctype                              0.02  S/SA/SAMUELL/Ctype-0.02.tar.gz
 Curia                               1.0  M/MI/MIKIO/qdbm-perl-1.8.14.tar.gz
 CURRENT                            0.01  T/TA/TAMASHIRO/CURRENT-0.01.tar.gz
+curry                          1.000000  M/MS/MSTROUT/curry-1.000000.tar.gz
+curry::weak                       undef  M/MS/MSTROUT/curry-1.000000.tar.gz
 Curses                             1.28  G/GI/GIRAFFED/Curses-1.28.tgz
 Curses::Application                 0.2  C/CO/CORLISS/CursesApplication-0.2.tar.gz
 Curses::Field                      1.28  G/GI/GIRAFFED/Curses-1.28.tgz
