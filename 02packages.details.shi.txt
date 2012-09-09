@@ -735,11 +735,6 @@ SNMP::DEBUG_INTERNALS            5.0401  H/HA/HARDAKER/SNMP-5.0401.tar.gz
 SNMP::DEBUGGING                  5.0401  H/HA/HARDAKER/SNMP-5.0401.tar.gz
 SNMP::DUMP_PACKET                5.0401  H/HA/HARDAKER/SNMP-5.0401.tar.gz
 SNMP::Effective                     1.1  J/JH/JHTHORSEN/SNMP-Effective-1.10.tar.gz
-SNMP::Effective::Dispatch          1.05  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
-SNMP::Effective::Host              1.05  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
-SNMP::Effective::HostList          1.05  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
-SNMP::Effective::Logger           undef  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
-SNMP::Effective::VarList           1.05  J/JH/JHTHORSEN/SNMP-Effective-1.07.tar.gz
 SNMP::Extension::PassPersist       0.06  S/SA/SAPER/SNMP-Extension-PassPersist-0.06.tar.gz
 SNMP::Info                         2.08  O/OL/OLIVER/SNMP-Info-2.08.tar.gz
 SNMP::Info::AdslLine               2.08  O/OL/OLIVER/SNMP-Info-2.08.tar.gz

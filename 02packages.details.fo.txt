@@ -583,12 +583,6 @@ Fuse::PDF::ImageTemplate           0.09  C/CD/CDOLAN/Fuse-PDF-0.09.tar.gz
 Fuse::PDF::MountPDF                0.09  C/CD/CDOLAN/Fuse-PDF-0.09.tar.gz
 FUSE::Server                       1.19  I/IA/IAMCAL/FUSE-Server-1.19.tar.gz
 Fuse::Simple                       1.00  N/NO/NOSEYNICK/Fuse-Simple-1.00.tar.gz
-Fuse::Template                   0.0201  J/JH/JHTHORSEN/Fuse-Template-0.0201.tar.gz
-Fuse::Template::App               undef  J/JH/JHTHORSEN/Fuse-Template-0.0201.tar.gz
-Fuse::Template::Root              undef  J/JH/JHTHORSEN/Fuse-Template-0.0201.tar.gz
-Fuse::Template::Schema            undef  J/JH/JHTHORSEN/Fuse-Template-0.0201.tar.gz
-Fuse::Template::Sys               undef  J/JH/JHTHORSEN/Fuse-Template-0.0201.tar.gz
-Fuse::Template::TT                undef  J/JH/JHTHORSEN/Fuse-Template-0.0201.tar.gz
 Fuse::TM                            1.4  A/AL/ALPHAZULU/Fuse-TM-0.2.tar.gz
 FusionInventory::Agent         2.002005  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
 FusionInventory::Agent::Config    undef  F/FU/FUSINV/FusionInventory-Agent-2.2.5.tar.gz
