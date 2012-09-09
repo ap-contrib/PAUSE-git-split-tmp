@@ -429,6 +429,7 @@ M3::ServerView::RootView,MARWIL,f
 M3::ServerView::ServerEntry,MARWIL,f
 M3::ServerView::ServerView,MARWIL,f
 M3::ServerView::View,MARWIL,f
+M3U8,MRSLX,f
 M4::Test,LTOETSCH,f
 M4::Test,PARROTRE,c
 MAB2::Record::Base,ANDK,f
