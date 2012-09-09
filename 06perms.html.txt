@@ -1329,6 +1329,7 @@ HTTP::Headers::ActionPack::AuthenticationInfo,STEVAN,f
 HTTP::Headers::ActionPack::Authorization,STEVAN,f
 HTTP::Headers::ActionPack::Authorization::Basic,STEVAN,f
 HTTP::Headers::ActionPack::Authorization::Digest,STEVAN,f
+HTTP::Headers::ActionPack::ContentNegotiation,STEVAN,f
 HTTP::Headers::ActionPack::Core::Base,STEVAN,f
 HTTP::Headers::ActionPack::Core::BaseAuthHeader,STEVAN,f
 HTTP::Headers::ActionPack::Core::BaseHeaderList,STEVAN,f
