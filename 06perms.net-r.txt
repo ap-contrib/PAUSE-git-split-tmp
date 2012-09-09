@@ -1100,6 +1100,9 @@ Net::Trackback::Message,TIMA,f
 Net::Trackback::Ping,TIMA,f
 Net::Trackback::Server,TIMA,f
 Net::Trustico,CLIFFORDJ,f
+Net::Tshark,ZBLAIR,f
+Net::Tshark::Field,ZBLAIR,f
+Net::Tshark::Packet,ZBLAIR,f
 Net::Twitpic,HEDWIG,f
 Net::Twitter,MMIMS,f
 Net::Twitter::API,MMIMS,f
