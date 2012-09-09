@@ -292,7 +292,7 @@ WebService::PagerDuty::Incidents,CUB,f
 WebService::PagerDuty::Request,CUB,f
 WebService::PagerDuty::Response,CUB,f
 WebService::PagerDuty::Schedules,CUB,f
-WebService::Pastefire,DELPHINUS,f
+WebService::Pastefire,DELPHINUS,m
 WebService::Pathtraq::API::NormalizeURL,ZIGOROU,f
 WebService::PhotoZou,JIRO,f
 WebService::Pocket,WWOLF,f
