@@ -480,6 +480,7 @@ Class::ObjectTemplate::DB          0.27  J/JA/JASONS/Class-ObjectTemplate-DB-0.2
 Class::Observable                  1.04  C/CW/CWINTERS/Class-Observable-1.04.tar.gz
 Class::OOorNO                     0.011  T/TO/TOMMY/Class-OOorNO-0.011.tar.gz
 Class::orMapper                    0.05  K/KA/KAZUNORI/Class-orMapper-0.05.tar.gz
+Class::orMapper::Memcached         0.01  K/KA/KAZUNORI/Class-orMapper-Memcached-0.01.tar.gz
 Class::OWL                     0.000006  L/LE/LEIFJ/Class-OWL-0.0.6.tar.gz
 Class::OWL::MOP                0.000006  L/LE/LEIFJ/Class-OWL-0.0.6.tar.gz
 Class::OWL::Property           0.000006  L/LE/LEIFJ/Class-OWL-0.0.6.tar.gz
