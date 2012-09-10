@@ -842,7 +842,7 @@ Log::Message::Structured::Event::ScriptRun undef  D/DA/DAMS/Log-Message-Structur
 Log::Message::Structured::Stringify::AsJSON undef  D/DA/DAMS/Log-Message-Structured-0.011.tar.gz
 Log::Message::Structured::Stringify::AsYAML undef  D/DA/DAMS/Log-Message-Structured-0.011.tar.gz
 Log::Message::Structured::Stringify::Sprintf undef  D/DA/DAMS/Log-Message-Structured-0.011.tar.gz
-Log::Minimal                       0.10  K/KA/KAZEBURO/Log-Minimal-0.10.tar.gz
+Log::Minimal                       0.11  K/KA/KAZEBURO/Log-Minimal-0.11.tar.gz
 Log::NullLogLite                   0.82  R/RA/RANI/Log-LogLite-0.82.tar.gz
 Log::Parallel                     0.303  M/MU/MUIR/modules/Log-Parallel-0.303.tar.gz
 Log::Parallel::ApacheCLF          undef  M/MU/MUIR/modules/Log-Parallel-0.303.tar.gz
