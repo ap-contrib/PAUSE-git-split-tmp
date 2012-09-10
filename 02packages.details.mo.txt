@@ -21,9 +21,10 @@ MooX::Options::Role                3.71  C/CE/CELOGEEK/MooX-Options-3.71.tar.gz
 MooX::Role                        0.101  G/GE/GETTY/MooX-0.101.tar.gz
 MooX::Singleton                1.121160  A/AJ/AJGB/MooX-Singleton-1.121160.tar.gz
 MooX::Types::CLike                 0.90  B/BB/BBYRD/MooX-Types-CLike-0.90.tar.gz
-MooX::Types::MooseLike             0.10  M/MA/MATEU/MooX-Types-MooseLike-0.10.tar.gz
-MooX::Types::MooseLike::Base      undef  M/MA/MATEU/MooX-Types-MooseLike-0.10.tar.gz
-MooX::Types::MooseLike::Numeric   undef  M/MA/MATEU/MooX-Types-MooseLike-0.10.tar.gz
+MooX::Types::MooseLike             0.11  M/MA/MATEU/MooX-Types-MooseLike-0.11.tar.gz
+MooX::Types::MooseLike::Base      undef  M/MA/MATEU/MooX-Types-MooseLike-0.11.tar.gz
+MooX::Types::MooseLike::Numeric   undef  M/MA/MATEU/MooX-Types-MooseLike-0.11.tar.gz
+MooX::Types::SetObject            undef  M/MA/MATEU/MooX-Types-MooseLike-0.11.tar.gz
 MOP::MetaModule                   undef  O/OR/ORTALO/MOP-1.00.tar.gz
 MOP::MOP                           1.00  O/OR/ORTALO/MOP-1.00.tar.gz
 MOP::Remote                        0.80  O/OR/ORTALO/MOP-1.00.tar.gz

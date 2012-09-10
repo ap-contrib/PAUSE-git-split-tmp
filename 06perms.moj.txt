@@ -388,6 +388,7 @@ MooX::Types::CLike,BBYRD,f
 MooX::Types::MooseLike,MATEU,f
 MooX::Types::MooseLike::Base,MATEU,f
 MooX::Types::MooseLike::Numeric,MATEU,f
+MooX::Types::SetObject,MATEU,f
 Moon,SYAMAL,f
 Moonshot::Album,PSIONIC,f
 Moonshot::Connection,PSIONIC,f
