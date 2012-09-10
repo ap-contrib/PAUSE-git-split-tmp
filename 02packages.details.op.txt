@@ -362,7 +362,7 @@ ORDB::CPAN::Mageia::Module     1.121690  J/JQ/JQUELIN/ORDB-CPAN-Mageia-1.121690.
 ORDB::CPAN::Mandriva           1.100230  J/JQ/JQUELIN/ORDB-CPAN-Mandriva-1.100230.tar.gz
 ORDB::CPAN::Mandriva::Module   1.100230  J/JQ/JQUELIN/ORDB-CPAN-Mandriva-1.100230.tar.gz
 ORDB::CPANMeta                     0.10  A/AD/ADAMK/ORDB-CPANMeta-0.10.tar.gz
-ORDB::CPANMeta::Generator          0.11  A/AD/ADAMK/ORDB-CPANMeta-Generator-0.11.tar.gz
+ORDB::CPANMeta::Generator          0.12  A/AD/ADAMK/ORDB-CPANMeta-Generator-0.12.tar.gz
 ORDB::CPANRelease                  0.01  A/AD/ADAMK/ORDB-CPANRelease-0.01.tar.gz
 ORDB::CPANRT                       0.04  A/AD/ADAMK/ORDB-CPANRT-0.04.tar.gz
 ORDB::CPANTesters                  0.09  A/AD/ADAMK/ORDB-CPANTesters-0.09.tar.gz

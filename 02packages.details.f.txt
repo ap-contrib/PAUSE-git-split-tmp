@@ -827,10 +827,10 @@ Games::Mastermind::Cracker::Role::Elimination undef  S/SA/SARTAK/Games-Mastermin
 Games::Mastermind::Cracker::Sequential undef  S/SA/SARTAK/Games-Mastermind-Cracker-0.03.tar.gz
 Games::Mastermind::Solver          0.02  M/MB/MBARBON/Games-Mastermind-Solver-0.02.tar.gz
 Games::Mastermind::Solver::BruteForce 0.02  M/MB/MBARBON/Games-Mastermind-Solver-0.02.tar.gz
-Games::Maze                        1.07  J/JG/JGAMBLE/Games-Maze-1.07.tar.gz
+Games::Maze                        1.08  J/JG/JGAMBLE/Games-Maze-1.08.tar.gz
 Games::Maze::FirstPerson           0.03  O/OV/OVID/Games-Maze-FirstPerson-0.03.tar.gz
-Games::Maze::Hex                   1.07  J/JG/JGAMBLE/Games-Maze-1.07.tar.gz
-Games::Maze::Quad                  1.07  J/JG/JGAMBLE/Games-Maze-1.07.tar.gz
+Games::Maze::Hex                   1.08  J/JG/JGAMBLE/Games-Maze-1.08.tar.gz
+Games::Maze::Quad                  1.08  J/JG/JGAMBLE/Games-Maze-1.08.tar.gz
 Games::Maze::SVG                   0.75  G/GW/GWADEJ/Games-Maze-SVG-0.75.tar.gz
 Games::Maze::SVG::Hex              0.71  G/GW/GWADEJ/Games-Maze-SVG-0.75.tar.gz
 Games::Maze::SVG::HexCells         0.72  G/GW/GWADEJ/Games-Maze-SVG-0.75.tar.gz
