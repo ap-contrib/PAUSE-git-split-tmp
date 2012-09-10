@@ -311,6 +311,10 @@ Ser::BinRPC,TMA,m
 Serabi,SHARYANTO,f
 Serasa::RX25::Layout::Output,TBR,f
 Serdisp,FUZZ,f
+Sereal::Decoder,SMUELLER,f
+Sereal::Decoder::Constants,SMUELLER,f
+Sereal::Encoder,SMUELLER,f
+Sereal::Encoder::Constants,SMUELLER,f
 Serengeti,CLAESJAC,f
 Serengeti::Backend::Native,CLAESJAC,f
 Serengeti::Backend::Native::Document,CLAESJAC,f
