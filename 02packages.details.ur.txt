@@ -78,7 +78,7 @@ URI::PathAbstract                  0.01  R/RK/RKRIMEN/URI-PathAbstract-0.01.tar.
 URI::Platonic                      0.03  M/MA/MASAKI/URI-Platonic-0.03.tar.gz
 URI::poe                          undef  G/GW/GWYN/POEx-URI-0.0301.tar.gz
 URI::pop                          undef  G/GA/GAAS/URI-1.60.tar.gz
-URI::Query                         0.09  G/GA/GAVINC/URI-Query-0.09.tar.gz
+URI::Query                         0.10  G/GA/GAVINC/URI-Query-0.10.tar.gz
 URI::QueryParam                   undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::rlogin                       undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::rsync                        undef  G/GA/GAAS/URI-1.60.tar.gz
