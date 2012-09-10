@@ -42,6 +42,7 @@ Plack::Middleware::Reproxy      0.00003  D/DM/DMAKI/Plack-Middleware-Reproxy-0.0
 Plack::Middleware::Reproxy::Callback undef  D/DM/DMAKI/Plack-Middleware-Reproxy-0.00003.tar.gz
 Plack::Middleware::Reproxy::Furl  undef  D/DM/DMAKI/Plack-Middleware-Reproxy-0.00003.tar.gz
 Plack::Middleware::RequestHeaders 0.031  W/WR/WREIS/Plack-Middleware-RequestHeaders-0.031.tar.gz
+Plack::Middleware::REST            0.01  V/VO/VOJ/Plack-Middleware-REST-0.01.tar.gz
 Plack::Middleware::ReverseProxy    0.14  M/MI/MIYAGAWA/Plack-Middleware-ReverseProxy-0.14.tar.gz
 Plack::Middleware::ReverseProxyPath 0.03  B/BO/BOWMANBS/Plack-Middleware-ReverseProxyPath-0.03.tar.gz
 Plack::Middleware::Rewrite        1.005  A/AR/ARISTOTLE/Plack-Middleware-Rewrite-1.005.tar.gz

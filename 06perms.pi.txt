@@ -445,6 +445,7 @@ Plack::Middleware::ProxyMap,INGY,f
 Plack::Middleware::QRCode,CORNELIUS,f
 Plack::Middleware::RDF::Flow,VOJ,f
 Plack::Middleware::REPL,MIYAGAWA,f
+Plack::Middleware::REST,VOJ,f
 Plack::Middleware::RealIP,SHERWIN,f
 Plack::Middleware::RearrangeHeaders,MIYAGAWA,f
 Plack::Middleware::Recorder,RHOELZ,f
