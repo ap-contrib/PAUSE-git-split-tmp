@@ -50,7 +50,6 @@ my::autodie                       undef  S/SH/SHAY/perl-5.17.3.tar.gz
 My::CDBI                          undef  B/BO/BOZO/Fry-Lib-CDBI-Basic-0.15.tar.gz
 My::Chat                          undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 My::Codec                         undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
-My::Collision                     undef  B/BE/BEROV/DBIx-Simple-Class-0.69.1.tar.gz
 My::Common                         3.02  C/CW/CWINTERS/SPOPS-0.87.tar.gz
 My::CommonResources                3.01  C/CW/CWINTERS/SPOPS-0.87.tar.gz
 My::DBI                            0.04  W/WR/WROSS/Class-DBI-Factory-0.994.tar.gz
@@ -76,7 +75,6 @@ My::SecureToken                   undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.1.
 My::Security                       3.04  C/CW/CWINTERS/SPOPS-0.87.tar.gz
 My::Serializer                     1.01  E/ET/ETWOECMA/MRS/promessaging-MRS-1.01.tar.gz
 My::SessionIterator               undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
-My::SiteUser                      undef  B/BE/BEROV/DBIx-Simple-Class-0.69.1.tar.gz
 My::SubCodec                      undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
 My::Sympa                         undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.1.tar.gz
 My::Tagger                          2.0  S/SI/SIMON/Lingua-EN-Keywords-2.0.tar.gz
