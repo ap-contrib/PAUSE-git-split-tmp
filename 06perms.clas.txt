@@ -1301,10 +1301,13 @@ Code::TidyAll::Git::Precommit,JSWARTZ,f
 Code::TidyAll::Git::Prereceive,JSWARTZ,f
 Code::TidyAll::Git::Util,JSWARTZ,f
 Code::TidyAll::Plugin,JSWARTZ,f
+Code::TidyAll::Plugin::JSBeautify,JSWARTZ,f
+Code::TidyAll::Plugin::JSHint,JSWARTZ,f
 Code::TidyAll::Plugin::Perl::AlignMooseAttributes,JSWARTZ,f
 Code::TidyAll::Plugin::Perl::IgnoreMethodSignaturesSimple,JSWARTZ,f
 Code::TidyAll::Plugin::PerlCritic,JSWARTZ,f
 Code::TidyAll::Plugin::PerlTidy,JSWARTZ,f
+Code::TidyAll::Plugin::PodChecker,JSWARTZ,f
 Code::TidyAll::Plugin::PodTidy,JSWARTZ,f
 Code::TidyAll::Result,JSWARTZ,f
 Code::TidyAll::SVN::Precommit,JSWARTZ,f
