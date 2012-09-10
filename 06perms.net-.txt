@@ -874,6 +874,7 @@ Net::PulseMeter::Sensor::Timelined::Indicator,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Max,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Median,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Min,MOTONAROL,f
+Net::PulseMeter::Sensor::Timelined::MultiPercentile,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::Percentile,MOTONAROL,f
 Net::PulseMeter::Sensor::Timelined::UniqCounter,MOTONAROL,f
 Net::PulseMeter::Sensor::UniqCounter,MOTONAROL,f
