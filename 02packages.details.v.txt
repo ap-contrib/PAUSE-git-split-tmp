@@ -73,13 +73,13 @@ Verilog::Std                      3.316  W/WS/WSNYDER/Verilog-Perl-3.316.tar.gz
 Verilog::VCD                       0.03  G/GS/GSULLIVAN/Verilog-VCD-0.03.tar.gz
 VerilogGrammar                     1.08  G/GS/GSLONDON/Parse-Nibbler-1.10.tar.gz
 Verity::Collection                 0.02  S/SR/SRL/Verity-Collection-0.02.tar.gz
-version                            0.99  J/JP/JPEACOCK/version-0.99.tar.gz
+version                          0.9901  J/JP/JPEACOCK/version-0.9901.tar.gz
 version::AlphaBeta                 0.06  J/JP/JPEACOCK/version-AlphaBeta-0.06.tar.gz
 version::Limit                   0.0301  J/JP/JPEACOCK/version-Limit-0.0301.tar.gz
 Version::Next                     0.002  D/DA/DAGOLDEN/Version-Next-0.002.tar.gz
 Version::Requirements          0.101022  R/RJ/RJBS/Version-Requirements-0.101022.tar.gz
-version::vpp                       0.99  J/JP/JPEACOCK/version-0.99.tar.gz
-version::vxs                       0.99  J/JP/JPEACOCK/version-0.99.tar.gz
+version::vpp                     0.9901  J/JP/JPEACOCK/version-0.9901.tar.gz
+version::vxs                     0.9901  J/JP/JPEACOCK/version-0.9901.tar.gz
 Versionify::Dispatch             v0.2.4  C/CE/CEBJYRE/Versionify-Dispatch-v0.2.4.tar.gz
 VFS                                0.01  S/SH/SHEVEK/VFS-0.01.tar.gz
 VFS::File                         undef  S/SH/SHEVEK/VFS-0.01.tar.gz

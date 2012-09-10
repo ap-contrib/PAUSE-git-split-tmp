@@ -159,7 +159,7 @@ CharacterLiteral                   2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 CharacterWidget                   undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 charnames                          1.23  F/FL/FLORA/perl-5.15.4.tar.gz
 CharsetDetector                2.000002  F/FO/FOOLFISH/CharsetDetector-2.0.2.tar.gz
-charstar                           0.99  J/JP/JPEACOCK/version-0.99.tar.gz
+charstar                         0.9901  J/JP/JPEACOCK/version-0.9901.tar.gz
 chart                              0.09  S/SA/SANTEX/Finance-Quant-0.09.tar.gz
 Chart::Bars                    2.004005  C/CH/CHARTGRP/Chart-2.4.5.tar.gz
 Chart::Base                    2.004005  C/CH/CHARTGRP/Chart-2.4.5.tar.gz
