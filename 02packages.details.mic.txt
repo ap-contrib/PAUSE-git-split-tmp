@@ -543,11 +543,11 @@ MLDBM::Sync::SDBM_File             0.17  C/CH/CHAMAS/MLDBM-Sync-0.30.tar.gz
 MLDBM::TinyDB                      0.20  D/DA/DADAMK/MLDBM-TinyDB-0.20.tar.gz
 MM                                 6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz
 Mmap                               0.10  M/MI/MICB/Mmap-a2.tar.gz
-MMapDB                             0.14  O/OP/OPI/MMapDB-0.14.tar.gz
-MMapDB::Data                       0.14  O/OP/OPI/MMapDB-0.14.tar.gz
-MMapDB::IDIndex                    0.14  O/OP/OPI/MMapDB-0.14.tar.gz
-MMapDB::Index                      0.14  O/OP/OPI/MMapDB-0.14.tar.gz
-MMapDB::Iterator                   0.14  O/OP/OPI/MMapDB-0.14.tar.gz
+MMapDB                             0.15  O/OP/OPI/MMapDB-0.15.tar.gz
+MMapDB::Data                       0.15  O/OP/OPI/MMapDB-0.15.tar.gz
+MMapDB::IDIndex                    0.15  O/OP/OPI/MMapDB-0.15.tar.gz
+MMapDB::Index                      0.15  O/OP/OPI/MMapDB-0.15.tar.gz
+MMapDB::Iterator                   0.15  O/OP/OPI/MMapDB-0.15.tar.gz
 MmapHandler                       undef  F/FL/FLETCH/Apache-Mmap-0.05.tar.gz
 MMDS::Common                      undef  J/JV/JV/mmds-1.902.tar.gz
 MMDS::Output::Html                undef  J/JV/JV/mmds-1.902.tar.gz
