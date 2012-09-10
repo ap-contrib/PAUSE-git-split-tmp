@@ -794,7 +794,7 @@ Test::Random                   20100119.173355  M/MS/MSCHWERN/Test-Random-201001
 Test::RandomResults                0.03  C/CO/COG/Test-RandomResults-0.03.tar.gz
 Test::Ranger                     v0.0.4  X/XI/XIONG/developer-tools/Test-Ranger-v0.0.4.tar.gz
 Test::Ranger::List               v0.0.4  X/XI/XIONG/developer-tools/Test-Ranger-v0.0.4.tar.gz
-Test::RDF                          1.00  K/KJ/KJETILK/Test-RDF-1.00.tar.gz
+Test::RDF                          1.10  K/KJ/KJETILK/Test-RDF-1.10.tar.gz
 Test::RDF::DOAP::Version          0.008  T/TO/TOBYINK/Test-RDF-DOAP-Version-0.008.tar.gz
 Test::RDF::Trine::Store           1.000  G/GW/GWILLIAMS/RDF-Trine-1.000.tar.gz
 Test::Recent                       2.02  M/MA/MARKF/Test-Recent-2.02.tar.gz
