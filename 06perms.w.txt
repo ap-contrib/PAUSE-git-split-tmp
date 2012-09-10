@@ -552,6 +552,7 @@ X11::Protocol::Ext::XFIXES,KRYDE,f
 X11::Protocol::Ext::XFree86_DGA,KRYDE,f
 X11::Protocol::Ext::XFree86_Misc,SMCCAM,f
 X11::Protocol::Ext::XINERAMA,KRYDE,f
+X11::Protocol::Ext::XTEST,KRYDE,f
 X11::Protocol::Ext::X_Resource,KRYDE,f
 X11::Protocol::GrabServer,KRYDE,f
 X11::Protocol::Other,KRYDE,f
