@@ -872,6 +872,7 @@ Games::Solitaire::BlackHole::Solver,SHLOMIF,f
 Games::Solitaire::BlackHole::Solver::App,SHLOMIF,f
 Games::Solitaire::Verify,SHLOMIF,f
 Games::Solitaire::Verify::App::CmdLine,SHLOMIF,f
+Games::Solitaire::Verify::App::CmdLine::Expand,SHLOMIF,f
 Games::Solitaire::Verify::Base,SHLOMIF,f
 Games::Solitaire::Verify::Card,SHLOMIF,f
 Games::Solitaire::Verify::Column,SHLOMIF,f
