@@ -352,9 +352,9 @@ CPAN::YACSmoke                     0.03  R/RR/RRWO/CPAN-YACSmoke-0.03.tar.gz
 CPAN::YACSmoke::Plugin::Phalanx100 0.02  R/RR/RRWO/CPAN-YACSmoke-Plugin-Phalanx100-0.02.tar.gz
 CPAN::YACSmoke::Plugin::Recent     0.02  R/RR/RRWO/CPAN-YACSmoke-0.03.tar.gz
 CPAN::YACSmoke::Plugin::SmokeDB    0.01  R/RR/RRWO/CPAN-YACSmoke-0.03.tar.gz
-CPANDB                             0.17  A/AD/ADAMK/CPANDB-0.17.tar.gz
-CPANDB::Author                     0.16  A/AD/ADAMK/CPANDB-0.17.tar.gz
-CPANDB::Distribution               0.16  A/AD/ADAMK/CPANDB-0.17.tar.gz
+CPANDB                             0.18  A/AD/ADAMK/CPANDB-0.18.tar.gz
+CPANDB::Author                     0.18  A/AD/ADAMK/CPANDB-0.18.tar.gz
+CPANDB::Distribution               0.18  A/AD/ADAMK/CPANDB-0.18.tar.gz
 CPANDB::Generator                  0.19  A/AD/ADAMK/CPANDB-Generator-0.19.tar.gz
 CPANDB::Generator::GetIndex        0.19  A/AD/ADAMK/CPANDB-Generator-0.19.tar.gz
 cPanel                         0.000001  D/DM/DMUEY/cPanel-v0.0.1.tar.gz
