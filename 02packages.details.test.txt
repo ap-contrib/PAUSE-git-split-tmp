@@ -646,7 +646,7 @@ Text                               0.01  A/AK/AKHOBOV/Business-OnlinePayment-Sur
 TEXT                               1.93  S/SH/SHERZODR/Class-PObject-2.17.tar.gz
 text                              undef  D/DB/DBEAZLEY/swig1.1p5.tar.gz
 Text::AAlib                        0.01  S/SY/SYOHEX/Text-AAlib-0.01.tar.gz
-Text::Abbrev                       1.01  F/FL/FLORA/Text-Abbrev-1.01.tar.gz
+Text::Abbrev                       1.02  F/FL/FLORA/Text-Abbrev-1.02.tar.gz
 Text::Abbreviate                   0.01  P/PI/PINYAN/Text-Abbreviate-0.01.tar.gz
 Text::Affixes                      0.07  C/CO/COG/Text-Affixes-0.07.tar.gz
 Text::AI::CRM114                   0.05  M/MS/MSCHUETT/Text-AI-CRM114-0.05.tar.gz
