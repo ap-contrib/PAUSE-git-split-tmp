@@ -698,7 +698,7 @@ macro::filter                     undef  G/GF/GFUJI/macro-0.06.tar.gz
 Macro::Micro                      0.053  R/RJ/RJBS/Macro-Micro-0.053.tar.gz
 Macro::Micro::perl56              undef  R/RJ/RJBS/Macro-Micro-0.052.tar.gz
 Macro::Micro::Template            0.053  R/RJ/RJBS/Macro-Micro-0.053.tar.gz
-MAD::Loader                    0.000001  B/BL/BLABOS/MAD-Loader-0.000001.tar.gz
+MAD::Loader                    0.000002  B/BL/BLABOS/MAD-Loader-0.000002.tar.gz
 Magic                             undef  S/SR/SRIRAM/examples.tar.gz
 Magical::Hooker::Decorate          0.03  N/NU/NUFFIN/Magical-Hooker-Decorate-0.03.tar.gz
 Magical::Hooker::Decorate::Install::Files undef  N/NU/NUFFIN/Magical-Hooker-Decorate-0.03.tar.gz
