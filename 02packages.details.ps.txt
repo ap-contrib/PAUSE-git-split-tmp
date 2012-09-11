@@ -1073,7 +1073,7 @@ RDF::Query::Expression::Unary     2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Federate              2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Federate::Plan        2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
 RDF::Query::Functions             2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
-RDF::Query::Functions::Buzzword::DateTime 0.001  T/TO/TOBYINK/RDF-Query-Functions-Buzzword-DateTime-0.001.tar.gz
+RDF::Query::Functions::Buzzword::DateTime 0.002  T/TO/TOBYINK/RDF-Query-Functions-Buzzword-DateTime-0.002.tar.gz
 RDF::Query::Functions::Buzzword::GB 0.001  T/TO/TOBYINK/RDF-Query-Functions-Buzzword-GB-0.001.tar.gz
 RDF::Query::Functions::Buzzword::Util 0.003  T/TO/TOBYINK/RDF-Query-Functions-Buzzword-Util-0.003.tar.gz
 RDF::Query::Functions::Geo        2.908  G/GW/GWILLIAMS/RDF-Query-2.908.tar.gz
