@@ -409,8 +409,10 @@ Inline::Java::PerlNatives,PATL,f
 Inline::Java::Portable,PATL,f
 Inline::Java::Protocol,PATL,f
 Inline::Java::Server,PATL,f
-Inline::Lua,VPARSEVAL,f
-Inline::Lua::Boolean,VPARSEVAL,f
+Inline::Lua,RHOELZ,f
+Inline::Lua,VPARSEVAL,c
+Inline::Lua::Boolean,RHOELZ,f
+Inline::Lua::Boolean,VPARSEVAL,c
 Inline::MakeMaker,INGY,f
 Inline::MakeMaker,SISYPHUS,c
 Inline::MakePdlppInstallable,CHM,c
