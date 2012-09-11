@@ -365,7 +365,7 @@ AutoSQL::LazyLoader               undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::Schema                   undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::SQLGenerator             undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::TableModel               undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
-autouse                            1.06  F/FL/FLORA/autouse-1.06.tar.gz
+autouse                            1.07  F/FL/FLORA/autouse-1.07.tar.gz
 autovivification                   0.10  V/VP/VPIT/autovivification-0.10.tar.gz
 AutoXS                             0.04  S/SM/SMUELLER/AutoXS-0.04.tar.gz
 AutoXS::Accessor                   0.03  S/SM/SMUELLER/AutoXS-0.04.tar.gz
