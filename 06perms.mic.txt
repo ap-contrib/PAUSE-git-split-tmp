@@ -606,6 +606,8 @@ Microsoft::AdCenter::V8::CampaignManagementService::AgeTargetBid,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::AnalyticsApiFaultDetail,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::AnalyticsType,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::ApiFaultDetail,XERXES,f
+Microsoft::AdCenter::V8::CampaignManagementService::AppealEditorialRejectionsResponse,XERXES,f
+Microsoft::AdCenter::V8::CampaignManagementService::AppealStatus,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::ApplicationFault,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::BatchError,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::Bid,XERXES,f
@@ -692,8 +694,10 @@ Microsoft::AdCenter::V8::CampaignManagementService::GetBusinessesInfoResponse,XE
 Microsoft::AdCenter::V8::CampaignManagementService::GetCampaignAdExtensionsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::GetCampaignsByAccountIdResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::GetCampaignsByIdsResponse,XERXES,f
+Microsoft::AdCenter::V8::CampaignManagementService::GetDestinationUrlByKeywordIdsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::GetDeviceOSTargetsByIdsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::GetDownloadStatusResponse,XERXES,f
+Microsoft::AdCenter::V8::CampaignManagementService::GetEditorialReasonsByIdsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::GetExclusionsByAssociatedEntityIdsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::GetGoalsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::GetKeywordEditorialReasonsByIdsResponse,XERXES,f
@@ -723,6 +727,7 @@ Microsoft::AdCenter::V8::CampaignManagementService::HoursOfOperation,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::ImpressionsPerDayRange,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::IncrementalBidPercentage,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::Keyword,XERXES,f
+Microsoft::AdCenter::V8::CampaignManagementService::KeywordDestinationUrl,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::KeywordEditorialStatus,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::KeywordStatus,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::LocationExclusion,XERXES,f
@@ -758,6 +763,7 @@ Microsoft::AdCenter::V8::CampaignManagementService::SetAdExtensionsToCampaignsRe
 Microsoft::AdCenter::V8::CampaignManagementService::SetAdRotationToAdGroupsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetAnalyticsTypeResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetCampaignAdExtensionsResponse,XERXES,f
+Microsoft::AdCenter::V8::CampaignManagementService::SetDestinationUrlToKeywordsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetExclusionsToAssociatedEntitiesResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetNegativeKeywordsToAdGroupsResponse,XERXES,f
 Microsoft::AdCenter::V8::CampaignManagementService::SetNegativeKeywordsToCampaignsResponse,XERXES,f
