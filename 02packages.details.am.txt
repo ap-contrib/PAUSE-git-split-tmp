@@ -507,7 +507,7 @@ AnyEvent::Loop                    undef  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
 AnyEvent::mDNS                     0.05  M/MI/MIYAGAWA/AnyEvent-mDNS-0.05.tar.gz
 AnyEvent::Memcached                0.05  M/MO/MONS/AnyEvent-Memcached-0.05.tar.gz
 AnyEvent::Memcached::Hash::WithNext undef  M/MO/MONS/AnyEvent-Memcached-0.05.tar.gz
-AnyEvent::MessagePack             undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.16.tar.gz
+AnyEvent::MessagePack             undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.17.tar.gz
 AnyEvent::MockTCPServer        1.113250  B/BE/BEANZ/AnyEvent-MockTCPServer-1.113250.tar.gz
 AnyEvent::Monitor                  0.32  C/CL/CLKAO/AnyEvent-Monitor-0.32.tar.gz
 AnyEvent::Monitor::CPU              0.3  M/ME/MELO/AnyEvent-Monitor-CPU-0.3.tar.gz
@@ -522,11 +522,11 @@ AnyEvent::MP::Node::Direct        undef  M/ML/MLEHMANN/AnyEvent-MP-1.30.tar.gz
 AnyEvent::MP::Node::External      undef  M/ML/MLEHMANN/AnyEvent-MP-1.30.tar.gz
 AnyEvent::MP::Node::Self          undef  M/ML/MLEHMANN/AnyEvent-MP-1.30.tar.gz
 AnyEvent::MP::Transport           undef  M/ML/MLEHMANN/AnyEvent-MP-1.30.tar.gz
-AnyEvent::MPRPC                    0.16  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.16.tar.gz
-AnyEvent::MPRPC::Client           undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.16.tar.gz
-AnyEvent::MPRPC::CondVar          undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.16.tar.gz
-AnyEvent::MPRPC::Constant         undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.16.tar.gz
-AnyEvent::MPRPC::Server           undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.16.tar.gz
+AnyEvent::MPRPC                    0.17  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.17.tar.gz
+AnyEvent::MPRPC::Client           undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.17.tar.gz
+AnyEvent::MPRPC::CondVar          undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.17.tar.gz
+AnyEvent::MPRPC::Constant         undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.17.tar.gz
+AnyEvent::MPRPC::Server           undef  T/TO/TOKUHIROM/AnyEvent-MPRPC-0.17.tar.gz
 AnyEvent::MQTT                 1.112340  B/BE/BEANZ/AnyEvent-MQTT-1.112340.tar.gz
 AnyEvent::MSN                     0.002  S/SA/SANKO/AnyEvent-MSN-0.002.tar.gz
 AnyEvent::MSN::Protocol           0.002  S/SA/SANKO/AnyEvent-MSN-0.002.tar.gz
