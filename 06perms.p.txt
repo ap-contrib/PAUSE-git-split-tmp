@@ -800,6 +800,7 @@ RDF::Flow::Pipeline,VOJ,f
 RDF::Flow::Source,VOJ,f
 RDF::Flow::Union,VOJ,f
 RDF::Generator::Void,KJETILK,f
+RDF::Generator::Void::Meta::Attribute::ObjectList,KJETILK,f
 RDF::Generator::Void::Stats,KJETILK,f
 RDF::Helper,KHAMPTON,f
 RDF::Helper::API,KHAMPTON,f
