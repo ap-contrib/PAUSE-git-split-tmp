@@ -622,8 +622,8 @@ B::JVM::Jasmin::Emit               0.02  B/BK/BKUHN/B-JVM-Jasmin-0.02.tar.gz
 B::JVM::Utils                      0.02  B/BK/BKUHN/B-JVM-Jasmin-0.02.tar.gz
 B::Keywords                        1.12  R/RU/RURBAN/B-Keywords-1.12.tar.gz
 B::LexInfo                         0.02  D/DO/DOUGM/B-LexInfo-0.02.tar.gz
-B::Lint                            1.13  F/FL/FLORA/B-Lint-1.13.tar.gz
-B::Lint::Debug                     1.12  F/FL/FLORA/B-Lint-1.13.tar.gz
+B::Lint                            1.14  F/FL/FLORA/B-Lint-1.14.tar.gz
+B::Lint::Debug                     1.14  F/FL/FLORA/B-Lint-1.14.tar.gz
 B::Lint::Pluggable                  2.0  J/JJ/JJORE/B-Lint-Pluggable-2.0.tar.gz
 B::Lint::Plugin::Test             undef  R/RG/RGARCIA/perl-5.9.5.tar.gz
 B::Lint::StrictOO                  0.04  J/JJ/JJORE/B-Lint-StrictOO-0.04.tar.gz
