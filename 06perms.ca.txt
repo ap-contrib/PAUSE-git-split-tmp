@@ -33,7 +33,6 @@ Catalyst::Model::DBIC::Schema,MRAMBERG,c
 Catalyst::Model::DBIC::Schema,MSTROUT,m
 Catalyst::Model::DBIC::Schema,RIBASUSHI,c
 Catalyst::Model::DBIC::Schema,RKINYON,c
-Catalyst::Model::DBIC::Schema,RKITOVER,c
 Catalyst::Model::DBIC::Schema,SSCAFFIDI,c
 Catalyst::Model::DBIC::Schema,WDH,c
 Catalyst::Model::DBIC::Schema,WSHELDAHL,c

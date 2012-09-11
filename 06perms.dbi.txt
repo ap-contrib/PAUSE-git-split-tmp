@@ -138,7 +138,6 @@ DBIx::Class::Schema::Loader::DBI::DB2,JROBINSON,c
 DBIx::Class::Schema::Loader::DBI::DB2,MRAMBERG,c
 DBIx::Class::Schema::Loader::DBI::DB2,MSTROUT,c
 DBIx::Class::Schema::Loader::DBI::DB2,RIBASUSHI,c
-DBIx::Class::Schema::Loader::DBI::DB2,RKITOVER,c
 DBIx::Class::Schema::Loader::DBI::DB2,WDH,c
 DBIx::Class::Schema::Loader::DBI::Firebird,ILMARI,f
 DBIx::Class::Schema::Loader::DBI::Informix,ARCANEZ,c

@@ -583,7 +583,7 @@ XPT::InterfaceDirectoryEntry      undef  P/PE/PERRAD/CORBA-XPIDL-0.21.tar.gz
 XPT::MethodDescriptor             undef  P/PE/PERRAD/CORBA-XPIDL-0.21.tar.gz
 XPT::ParamDescriptor              undef  P/PE/PERRAD/CORBA-XPIDL-0.21.tar.gz
 XPT::TypeDescriptor               undef  P/PE/PERRAD/CORBA-XPIDL-0.21.tar.gz
-XRD::Parser                       0.200  T/TO/TOBYINK/XRD-Parser-0.200.tar.gz
+XRD::Parser                       0.201  T/TO/TOBYINK/XRD-Parser-0.201.tar.gz
 XRI                            0.002004  F/FE/FEN/XRI-0.2.4.tar.gz
 XRI::Descriptor                     0.1  F/FE/FEN/XRI-0.2.4.tar.gz
 XRI::Descriptor::LocalAccess        0.1  F/FE/FEN/XRI-0.2.4.tar.gz
