@@ -714,8 +714,8 @@ Xymon::Server::ExcelOutages        0.03  D/DA/DAVIDP/Xymon-Server-ExcelOutages-0
 Xymon::Server::History             0.20  D/DA/DAVIDP/Xymon-Server-History-0.20.tar.gz
 Xymon::Server::Status              0.01  D/DA/DAVIDP/Xymon-Server-Status-0.01.tar.gz
 y2k                                 0.1  M/MS/MSCHWERN/D-oh-Year-0.06.tar.gz
-YADA                              0.026  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.026.tar.gz
-YADA::Worker                      0.026  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.026.tar.gz
+YADA                              0.027  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.027.tar.gz
+YADA::Worker                      0.027  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.027.tar.gz
 Yada::Yada::Yada                   1.00  T/TM/TMTM/Yada-Yada-Yada-1.00.tar.gz
 yagg::Config                       0.01  D/DC/DCOPPIT/yagg-1.4003.tar.gz
 yagg::Grammar                     undef  D/DC/DCOPPIT/yagg-1.4003.tar.gz

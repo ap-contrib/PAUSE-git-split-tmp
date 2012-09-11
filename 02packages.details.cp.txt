@@ -657,7 +657,7 @@ CQL::Utils                        undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 CQL::Visitor                      undef  B/BR/BRICAS/CQL-Parser-1.10.tar.gz
 cr                                undef  K/KA/KARASIK/Prima-1.35.tar.gz
 crap                               0.02  B/BI/BINGOS/crap-0.02.tar.gz
-CrawlApache                       undef  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.026.tar.gz
+CrawlApache                       undef  S/SY/SYP/AnyEvent-Net-Curl-Queued-0.027.tar.gz
 Creature                          undef  M/MS/MSCHLUE/Class-Classgen-classgen-3.03.tar.gz
 CreditCard                         0.01  A/AK/AKHOBOV/Business-OnlinePayment-SurePay-0.01.tar.gz
 Criteria::Compile                0.0461  A/AL/ALUCAS/Criteria-Compile-0.047.tar.gz
