@@ -293,8 +293,8 @@ Inline::Java::Portable             0.53  P/PA/PATL/Inline-Java-0.53.tar.gz
 Inline::Java::Protocol             0.53  P/PA/PATL/Inline-Java-0.53.tar.gz
 Inline::Java::Server               0.53  P/PA/PATL/Inline-Java-0.53.tar.gz
 Inline::JSON                     v1.0.4  K/KI/KILNA/Inline-JSON-v1.0.4.tar.gz
-Inline::Lua                        0.04  V/VP/VPARSEVAL/Inline-Lua-0.04.tar.gz
-Inline::Lua::Boolean               0.04  V/VP/VPARSEVAL/Inline-Lua-0.04.tar.gz
+Inline::Lua                        0.05  R/RH/RHOELZ/Inline-Lua-0.05.tar.gz
+Inline::Lua::Boolean               0.05  R/RH/RHOELZ/Inline-Lua-0.05.tar.gz
 Inline::MakeMaker                  0.50  S/SI/SISYPHUS/Inline-0.50.tar.gz
 Inline::MakePdlppInstallable      undef  C/CH/CHM/PDL-2.4.11.tar.gz
 Inline::Mason                      0.07  X/XE/XERN/Inline-Mason-0.07.tar.gz
