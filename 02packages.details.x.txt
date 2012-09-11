@@ -181,7 +181,7 @@ xDash::Receiver                    1.00  J/JW/JWACH/xDash-1.02.tar.gz
 xDash::Sender                      1.00  J/JW/JWACH/xDash-1.02.tar.gz
 xDash::Spool::Dir                  1.00  J/JW/JWACH/xDash-1.02.tar.gz
 xDash::Spool::Dummy                1.00  J/JW/JWACH/xDash-1.02.tar.gz
-XDI                                0.01  H/HO/HORST/XDI-0.01.tar.gz
+XDI                                0.02  H/HO/HORST/XDI-0.02.tar.gz
 XDI::SPIT                          1.11  E/EE/EEKIM/XDI-SPIT-1.11.tar.gz
 XDR                                0.03  G/GO/GORD/XDR-0.03.tar.gz
 XDR::CallReply                    undef  G/GO/GORD/XDR-0.03.tar.gz
