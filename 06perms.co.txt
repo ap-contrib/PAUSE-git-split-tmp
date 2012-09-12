@@ -28,6 +28,7 @@ Config::INI::Access,ANDY,f
 Config::INI::MVP::Reader,RJBS,f
 Config::INI::OnDrugs,SHARYANTO,f
 Config::INI::Reader,RJBS,f
+Config::INI::Reader::LibIni,PSHANGOV,f
 Config::INI::Reader::Ordered,HDP,f
 Config::INI::Reader::Ordered,RJBS,c
 Config::INI::Serializer,SCHWIGON,f

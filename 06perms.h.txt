@@ -308,6 +308,11 @@ lib::findbin,DMUEY,f
 lib::glob,SALVA,f
 lib::http,GMPASSOS,f
 lib::if::dev,RSRCHBOY,f
+lib::ini,PSHANGOV,f
+lib::ini::plugin,PSHANGOV,f
+lib::ini::plugin::dir,PSHANGOV,f
+lib::ini::plugin::libdir,PSHANGOV,f
+lib::ini::plugin::rlib,PSHANGOV,f
 lib::restrict,DMUEY,f
 lib::sql::Category,BPOSTLE,f
 lib::sql::DBH,BPOSTLE,f
