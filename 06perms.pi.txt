@@ -266,6 +266,7 @@ Plack::Middleware::Auth::QueryString,SONGMU,f
 Plack::Middleware::Auth::WebID,TOBYINK,f
 Plack::Middleware::AutoRefresh,MGRIMES,f
 Plack::Middleware::AutoReloadCSS,KENTARO,f
+Plack::Middleware::AxsLog,KAZEBURO,f
 Plack::Middleware::BufferedStreaming,MIYAGAWA,f
 Plack::Middleware::CSRFBlock,RINTARO,f
 Plack::Middleware::Cache,INGY,f
