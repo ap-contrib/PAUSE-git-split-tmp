@@ -1220,7 +1220,7 @@ Devel::RingBuffer                  0.31  D/DA/DARNOLD/Devel-RingBuffer-0.31.tar.
 Devel::RingBuffer::Ring            0.31  D/DA/DARNOLD/Devel-RingBuffer-0.31.tar.gz
 Devel::RingBuffer::ThreadFacade    0.31  D/DA/DARNOLD/Devel-RingBuffer-0.31.tar.gz
 Devel::RunBlock                    0.01  H/HI/HIO/Devel-RunBlock-0.01.tar.gz
-Devel::SawAmpersand                0.32  A/AN/ANDK/Devel-SawAmpersand-0.32.tar.gz
+Devel::SawAmpersand                0.33  A/AN/ANDK/Devel-SawAmpersand-0.33.tar.gz
 Devel::Scooby                      4.12  B/BA/BARRYPJ/Devel-Scooby-4.12.tar.gz
 Devel::SearchINC               2.103460  M/MA/MARCEL/Devel-SearchINC-2.103460.tar.gz
 Devel::SelfStubber                 1.05  F/FL/FLORA/Devel-SelfStubber-1.05.tar.gz
