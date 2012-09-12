@@ -315,7 +315,7 @@ Net::Fluidinfo::Value::Set        undef  F/FX/FXN/Net-Fluidinfo-0.43.tar.gz
 Net::Fluidinfo::Value::String     undef  F/FX/FXN/Net-Fluidinfo-0.45.tar.gz
 Net::Frame                         1.09  G/GO/GOMOR/Net-Frame-1.09.tar.gz
 Net::Frame::ARP                   undef  G/GO/GOMOR/Net-Frame-1.00.tar.gz
-Net::Frame::Device                 1.07  G/GO/GOMOR/Net-Frame-Device-1.07.tar.gz
+Net::Frame::Device                 1.08  G/GO/GOMOR/Net-Frame-Device-1.08.tar.gz
 Net::Frame::Dump                   1.10  G/GO/GOMOR/Net-Frame-Dump-1.10.tar.gz
 Net::Frame::Dump::Offline         undef  G/GO/GOMOR/Net-Frame-Dump-1.10.tar.gz
 Net::Frame::Dump::Online          undef  G/GO/GOMOR/Net-Frame-Dump-1.10.tar.gz
