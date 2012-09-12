@@ -594,6 +594,7 @@ Setup::Dir,SHARYANTO,f
 Setup::File,SHARYANTO,f
 Setup::File::Dir,SHARYANTO,f
 Setup::File::Symlink,SHARYANTO,f
+Setup::File::TextFragment,SHARYANTO,f
 Setup::Multi,SHARYANTO,f
 Setup::Symlink,SHARYANTO,f
 Setup::Test,SHARYANTO,f
