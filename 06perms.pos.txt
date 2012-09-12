@@ -534,8 +534,10 @@ Proc::JobQueue::Sequence::Command,MUIR,f
 Proc::JobQueue::Sequence::Startup,MUIR,f
 Proc::JobQueue::Sort,MUIR,f
 Proc::Killall,DURIST,f
+Proc::Killall,JSWARTZ,c
 Proc::Killall,REHSACK,c
 Proc::Killfam,DURIST,f
+Proc::Killfam,JSWARTZ,c
 Proc::Killfam,REHSACK,c
 Proc::Launcher,VVU,f
 Proc::Launcher::Manager,VVU,f
@@ -562,8 +564,10 @@ Proc::PidFile::Info,KIXX,f
 Proc::PidUtil,MIKER,f
 Proc::Pidfile,AWRIGLEY,f
 Proc::ProcessTable,DURIST,m
+Proc::ProcessTable,JSWARTZ,c
 Proc::ProcessTable,REHSACK,c
 Proc::ProcessTable::Process,DURIST,f
+Proc::ProcessTable::Process,JSWARTZ,c
 Proc::ProcessTable::Process,REHSACK,c
 Proc::Queue,SALVA,m
 Proc::Reliable,DGOLD,m
