@@ -394,7 +394,7 @@ Test::HTML::Form                   0.05  T/TE/TEEJAY/Test-HTML-Form-0.05.tar.gz
 Test::HTML::Lint                   2.20  P/PE/PETDANCE/HTML-Lint-2.20.tar.gz
 Test::HTML::Tidy                   1.00  P/PE/PETDANCE/Test-HTML-Tidy-1.00.tar.gz
 Test::HTML::W3C                    0.04  V/VI/VICTORF/Test-HTML-W3C-0.04.tar.gz
-Test::HTTP                         0.17  L/LU/LUKEC/Test-HTTP-0.17.tar.gz
+Test::HTTP                         0.18  L/LU/LUKEC/Test-HTTP-0.18.tar.gz
 Test::HTTP::Response               0.04  T/TE/TEEJAY/Test-HTTP-Response-0.04.tar.gz
 Test::HTTP::Router                undef  M/MA/MASAKI/HTTP-Router-0.05.tar.gz
 Test::HTTP::Server                 0.03  S/SP/SPARKY/Test-HTTP-Server-0.03.tar.gz
@@ -402,7 +402,7 @@ Test::HTTP::Server::Connection     0.03  S/SP/SPARKY/Test-HTTP-Server-0.03.tar.g
 Test::HTTP::Server::Request        0.03  S/SP/SPARKY/Test-HTTP-Server-0.03.tar.gz
 Test::HTTP::Server::Simple         0.11  A/AL/ALEXMV/Test-HTTP-Server-Simple-0.11.tar.gz
 Test::HTTP::Server::Simple::StashWarnings 0.04  J/JE/JESSE/Test-HTTP-Server-Simple-StashWarnings-0.04.tar.gz
-Test::HTTP::Syntax                undef  L/LU/LUKEC/Test-HTTP-0.17.tar.gz
+Test::HTTP::Syntax                undef  L/LU/LUKEC/Test-HTTP-0.18.tar.gz
 Test::Httpd::Apache2               0.09  K/KA/KAZUHO/Test-Httpd-Apache2-0.09.tar.gz
 Test::HTTPStatus                   1.08  B/BD/BDFOY/Test-HTTPStatus-1.08.tar.gz
 Test::Identity                     0.01  P/PE/PEVANS/Test-Identity-0.01.tar.gz
