@@ -387,7 +387,7 @@ RT::Condition::CIFMinimal_Stale   undef  S/SA/SAXJAZMAN/RT/RT-CIFMinimal-0.01.ta
 RT::Condition::Complex             0.03  R/RU/RUZ/RT-Condition-Complex-0.03.tar.gz
 RT::Condition::Complex::Test      undef  R/RU/RUZ/RT-Condition-Complex-0.03.tar.gz
 RT::Condition::IODEF              undef  S/SA/SAXJAZMAN/RT/RT-IODEF-0.08.tar.gz
-RT::Condition::NotStartedInBusinessHours 0.2  B/BH/BHEISIG/RT-Condition-NotStartedInBusinessHours-0.2.tar.gz
+RT::Condition::NotStartedInBusinessHours 0.3  B/BH/BHEISIG/RT-Condition-NotStartedInBusinessHours-0.3.tar.gz
 RT::Condition::OnAbandoned        undef  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
 RT::Condition::OnOwned            undef  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
 RT::Condition::OwnershipChanges    0.01  F/FA/FALCONE/RT-Condition-OwnershipChanges-0.01.tar.gz
