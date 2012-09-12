@@ -207,7 +207,7 @@ Net::LDAPxs::Search                1.00  P/PA/PANYU/Net-LDAPxs-1.31.tar.gz
 Net::LibAsyncNS                    0.01  P/PE/PEVANS/Net-LibAsyncNS-0.01.tar.gz
 Net::LibAsyncNS::Constants         0.01  P/PE/PEVANS/Net-LibAsyncNS-0.01.tar.gz
 Net::Libdnet                       0.96  G/GO/GOMOR/Net-Libdnet-0.96.tar.gz
-Net::Libdnet6                      0.24  G/GO/GOMOR/Net-Libdnet6-0.24.tar.gz
+Net::Libdnet6                      0.25  G/GO/GOMOR/Net-Libdnet6-0.25.tar.gz
 Net::Libdnet::Arp                 undef  G/GO/GOMOR/Net-Libdnet-0.96.tar.gz
 Net::Libdnet::Entry::Intf         undef  G/GO/GOMOR/Net-Libdnet-0.96.tar.gz
 Net::Libdnet::Eth                 undef  G/GO/GOMOR/Net-Libdnet-0.96.tar.gz
