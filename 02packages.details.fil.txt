@@ -251,7 +251,14 @@ Finance::MtGox                     0.03  M/MN/MNDRIX/Finance-MtGox-0.03.tar.gz
 Finance::NASDAQ::Markets           0.01  S/SA/SANTEX/Finance-NASDAQ-Markets-0.06.tar.gz
 Finance::NASDAQ::Quote             0.06  I/IA/IANK/Finance-NASDAQ-Quote-0.06.tar.gz
 Finance::OATS                      0.11  R/RM/RMGIROUX/Finance-OATS-0.11.tar.gz
+Finance::OFX                          2  B/BF/BFOZ/Finance-OFX-2a.tar.gz
+Finance::OFX::Account                 2  B/BF/BFOZ/Finance-OFX-2a.tar.gz
+Finance::OFX::Institution             2  B/BF/BFOZ/Finance-OFX-2a.tar.gz
+Finance::OFX::Parse                   2  B/BF/BFOZ/Finance-OFX-2a.tar.gz
 Finance::OFX::Parse::Simple        0.06  J/JJ/JJONES/Finance-OFX-Parse-Simple-0.06.tar.gz
+Finance::OFX::Response                2  B/BF/BFOZ/Finance-OFX-2a.tar.gz
+Finance::OFX::Tree                    2  B/BF/BFOZ/Finance-OFX-2a.tar.gz
+Finance::OFX::UserAgent               2  B/BF/BFOZ/Finance-OFX-2a.tar.gz
 Finance::Optical::StrongBuy        0.08  S/SA/SANTEX/Finance-Optical-StrongBuy-0.08.tar.gz
 Finance::Options::Calc              0.9  C/CC/CCZ/Finance-Options-Calc-0.90.tar.gz
 Finance::Performance::Calc         1.01  P/PE/PERSICOM/Finance-Performance-Calc-1.01.tar.gz
