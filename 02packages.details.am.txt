@@ -347,7 +347,7 @@ AnyEvent::Beanstalk            1.121460  G/GB/GBARR/AnyEvent-Beanstalk-1.121460.
 AnyEvent::Beanstalk::Job       1.121460  G/GB/GBARR/AnyEvent-Beanstalk-1.121460.tar.gz
 AnyEvent::Beanstalk::Stats     1.121460  G/GB/GBARR/AnyEvent-Beanstalk-1.121460.tar.gz
 AnyEvent::BitTorrent             v0.1.9  S/SA/SANKO/AnyEvent-BitTorrent-v0.1.9.tar.gz
-AnyEvent::Blackboard             v0.3.4  T/TA/TAG/AnyEvent-Blackboard-v0.3.4.tar.gz
+AnyEvent::Blackboard             v0.4.0  T/TA/TAG/AnyEvent-Blackboard-v0.4.0.tar.gz
 AnyEvent::CacheDNS                 0.07  P/PO/POTYL/AnyEvent-CacheDNS-0.07.tar.gz
 AnyEvent::Callback                 0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.gz
 AnyEvent::Callback::Stack          0.05  U/UN/UNERA/AnyEvent-Callback-0.05.tar.gz
