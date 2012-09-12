@@ -635,6 +635,7 @@ Process::YAML,SMUELLER,f
 ProcessHandle,DORMANDO,f
 Processor::DHTMLX,LUCAS,f
 Proclet,KAZEBURO,f
+Proclet::Declare,KAZEBURO,f
 Profile,MARKWIN,f
 Profile::Log,SAMV,f
 Profile::Log::Config,SAMV,f
