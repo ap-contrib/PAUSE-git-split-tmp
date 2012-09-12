@@ -700,6 +700,7 @@ Geo::Coordinates::Converter::Format::Degree,YAPPO,f
 Geo::Coordinates::Converter::Format::Dms,YAPPO,f
 Geo::Coordinates::Converter::Format::Geohash,YAPPO,f
 Geo::Coordinates::Converter::Format::IArea,TOKUHIROM,f
+Geo::Coordinates::Converter::Format::Milliseconds,YAPPO,f
 Geo::Coordinates::Converter::Point,YAPPO,f
 Geo::Coordinates::Converter::Point::Geohash,YAPPO,f
 Geo::Coordinates::Converter::iArea,TOKUHIROM,f
