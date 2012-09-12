@@ -1003,7 +1003,7 @@ HTTP::Cookies::Omniweb             1.13  B/BD/BDFOY/HTTP-Cookies-Omniweb-1.13.ta
 HTTP::Cookies::Opera               0.07  G/GR/GRAY/HTTP-Cookies-Opera-0.07.tar.gz
 HTTP::Cookies::Safari              1.15  B/BD/BDFOY/HTTP-Cookies-Safari-1.15.tar.gz
 HTTP::Cookies::w3m                 0.01  Y/YA/YAPPO/HTTP-Cookies-w3m-0.01.tar.gz
-HTTP::Cookies::Wget              0.1810  R/RU/RUBYKAT/WWW-FetchStory-0.1810.tar.gz
+HTTP::Cookies::Wget              0.1812  R/RU/RUBYKAT/WWW-FetchStory-0.1812.tar.gz
 HTTP::CryptoCookie                 1.14  D/DP/DPARIS/HTTP-CryptoCookie-1.14.tar.gz
 HTTP::Daemon                       6.01  G/GA/GAAS/HTTP-Daemon-6.01.tar.gz
 HTTP::Daemon::App              0.000009  D/DM/DMUEY/HTTP-Daemon-App-v0.0.9.tar.gz
