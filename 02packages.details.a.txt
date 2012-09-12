@@ -131,6 +131,7 @@ Astroboy::AlbumDir                 1.09  L/LE/LEOCHARRE/Astroboy-1.06.tar.gz
 Astroboy::AlbumFile                1.06  L/LE/LEOCHARRE/Astroboy-1.06.tar.gz
 Astroboy::Base                     1.07  L/LE/LEOCHARRE/Astroboy-1.06.tar.gz
 Async                              0.10  M/MJ/MJD/Async-0.10.tar.gz
+Async::Blackboard                v0.3.4  T/TA/TAG/Async-Blackboard-v0.3.4.tar.gz
 Async::Defer                   0.009000  P/PO/POWERMAN/Async-Defer-0.9.0.tar.gz
 Async::Defer::Parallel         0.000001  P/PO/POWERMAN/Async-Defer-0.0.3.tar.gz
 Async::Group                        1.2  D/DD/DDUMONT/Async-Group-0.3.tar.gz

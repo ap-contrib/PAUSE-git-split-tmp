@@ -175,6 +175,7 @@ Astroboy::AlbumDir,LEOCHARRE,f
 Astroboy::AlbumFile,LEOCHARRE,f
 Astroboy::Base,LEOCHARRE,f
 Async,MJD,f
+Async::Blackboard,TAG,f
 Async::Callback,DMLLOYD,f
 Async::Callback::Test,DMLLOYD,f
 Async::Defer,POWERMAN,f
