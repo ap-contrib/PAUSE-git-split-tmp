@@ -420,7 +420,7 @@ Net::HTTPServer::Response      1.000003  R/RE/REATMON/Net-HTTPServer-1.1.1.tar.g
 Net::HTTPServer::Session       1.000003  R/RE/REATMON/Net-HTTPServer-1.1.1.tar.gz
 Net::HTTPTunnel                    0.51  R/RW/RWAHBY/Net-HTTPTunnel-0.51.tar.gz
 Net::Hulu                          0.03  J/JL/JLOPHTY/Net-Hulu-0.03.tar.gz
-Net::IANA::Services            0.003000  L/LE/LESPEA/Net-IANA-Services-0.003000.tar.gz
+Net::IANA::Services            0.003001  L/LE/LESPEA/Net-IANA-Services-0.003001.tar.gz
 Net::ICal                          0.15  S/SR/SRL/Net-ICal-0.15.tar.gz
 Net::ICal::Alarm                  undef  S/SR/SRL/Net-ICal-0.15.tar.gz
 Net::ICal::Attendee               undef  S/SR/SRL/Net-ICal-0.15.tar.gz
