@@ -616,6 +616,7 @@ MySQL::Replication,ALFIE,m
 MySQL::Replication::Client,ALFIE,f
 MySQL::Replication::Command,ALFIE,f
 MySQL::Replication::Server,ALFIE,f
+MySQL::RunSQL,GEEKLADY,f
 MySQL::Sandbox,GMAX,m
 MySQL::Sandbox::Recipes,GMAX,f
 MySQL::Sandbox::Scripts,GMAX,f
