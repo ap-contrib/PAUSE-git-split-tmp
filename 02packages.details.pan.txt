@@ -398,8 +398,6 @@ PAR::Repository::Zip               0.20  S/SM/SMUELLER/PAR-Repository-0.20.tar.g
 PAR::SetupProgname                1.002  R/RS/RSCHUPP/PAR-1.005.tar.gz
 PAR::SetupTemp                    1.002  R/RS/RSCHUPP/PAR-1.005.tar.gz
 PAR::StrippedPARL::Base           0.975  R/RS/RSCHUPP/PAR-Packer-1.013.tar.gz
-PAR::StrippedPARL::Dynamic        0.958  R/RS/RSCHUPP/PAR-Packer-1.009.tar.gz
-PAR::StrippedPARL::Static         0.958  R/RS/RSCHUPP/PAR-Packer-1.009.tar.gz
 PAR::WebStart                      0.19  I/IS/ISHIGAKI/PAR-WebStart-0.20.tar.gz
 PAR::WebStart::PNLP                0.19  I/IS/ISHIGAKI/PAR-WebStart-0.20.tar.gz
 PAR::WebStart::Util                0.19  I/IS/ISHIGAKI/PAR-WebStart-0.20.tar.gz
