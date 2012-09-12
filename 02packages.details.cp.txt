@@ -16,7 +16,7 @@ CPAN::Index::Package               0.01  A/AD/ADAMK/CPAN-Index-0.01.tar.gz
 CPAN::Indexer::Mirror              0.05  A/AD/ADAMK/CPAN-Indexer-Mirror-0.05.tar.gz
 CPAN::IndexPod                     0.25  L/LB/LBROCARD/CPAN-IndexPod-0.25.tar.gz
 CPAN::InfoObj                       5.5  A/AN/ANDK/CPAN-1.9800.tar.gz
-CPAN::Inject                       1.13  A/AD/ADAMK/CPAN-Inject-1.13.tar.gz
+CPAN::Inject                       1.14  P/PS/PSHANGOV/CPAN-Inject-1.14.tar.gz
 CPAN::Kwalify                      5.50  A/AN/ANDK/CPAN-1.9800.tar.gz
 CPAN::LinksToDocs                 0.001  Z/ZO/ZOFFIX/CPAN-LinksToDocs-0.001.tar.gz
 CPAN::LinksToDocs::No404s         0.003  Z/ZO/ZOFFIX/CPAN-LinksToDocs-No404s-0.003.tar.gz
