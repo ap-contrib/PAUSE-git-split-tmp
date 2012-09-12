@@ -1536,6 +1536,7 @@ Text::Format::Screenplay,KITOMER,m
 Text::FormatTable,DSCHWEI,f
 Text::FormatTable,TREY,c
 Text::Fracture,JNW,m
+Text::Fragment,SHARYANTO,f
 Text::FromAny,ZERODOGG,f
 Text::Fuzzy,BKB,f
 Text::GaleChurch,ACHIMRU,f
