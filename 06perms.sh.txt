@@ -563,6 +563,7 @@ SimpleIdentifier,GSLONDON,f
 SimpleMood,DMUEY,f
 SimpleMySQL,LINNIN,f
 SimpleObjectClass,SHERZODR,f
+SimplePermutation,JNQUINTIN,f
 SimpleRadarControls,ZINCDEV,f
 SimpleStringsService::Client,DARBYR,m
 SimpleSuperClass,DOMIZIO,f
