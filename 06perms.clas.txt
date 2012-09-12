@@ -1304,6 +1304,8 @@ Code::TidyAll::Git::Util,JSWARTZ,f
 Code::TidyAll::Plugin,JSWARTZ,f
 Code::TidyAll::Plugin::JSBeautify,JSWARTZ,f
 Code::TidyAll::Plugin::JSHint,JSWARTZ,f
+Code::TidyAll::Plugin::JSLint,JSWARTZ,f
+Code::TidyAll::Plugin::MasonTidy,JSWARTZ,f
 Code::TidyAll::Plugin::Perl::AlignMooseAttributes,JSWARTZ,f
 Code::TidyAll::Plugin::Perl::IgnoreMethodSignaturesSimple,JSWARTZ,f
 Code::TidyAll::Plugin::PerlCritic,JSWARTZ,f
