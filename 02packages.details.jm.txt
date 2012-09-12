@@ -186,8 +186,8 @@ JSON::Literal::true                0.96  M/MA/MAKAMAKA/JSON-1.14.tar.gz
 JSON::NotString                    1.07  M/MA/MAKAMAKA/JSON-1.15.tar.gz
 JSON::Parse                        0.14  B/BK/BKB/JSON-Parse-0.14.tar.gz
 JSON::Parser                       1.07  M/MA/MAKAMAKA/JSON-1.15.tar.gz
-JSON::Path                        0.200  T/TO/TOBYINK/JSON-Path-0.200.tar.gz
-JSON::Path::Helper                0.200  T/TO/TOBYINK/JSON-Path-0.200.tar.gz
+JSON::Path                        0.201  T/TO/TOBYINK/JSON-Path-0.201.tar.gz
+JSON::Path::Helper                0.201  T/TO/TOBYINK/JSON-Path-0.201.tar.gz
 JSON::PP                        2.27200  M/MA/MAKAMAKA/JSON-PP-2.27200.tar.gz
 JSON::PP5005                       1.10  M/MA/MAKAMAKA/JSON-2.27.tar.gz
 JSON::PP56                         1.08  M/MA/MAKAMAKA/JSON-2.27.tar.gz
