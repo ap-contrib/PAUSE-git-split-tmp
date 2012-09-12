@@ -556,6 +556,7 @@ Device::XBee::API,JEAGLE,f
 DeviceLibs::DesignName,WVDB,f
 Dezi,KARMAN,f
 Dezi::Client,KARMAN,f
+Dezi::Config,KARMAN,f
 Dezi::Doc,KARMAN,f
 Dezi::Response,KARMAN,f
 Dezi::Server,KARMAN,f
