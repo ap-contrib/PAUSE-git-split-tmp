@@ -1535,6 +1535,7 @@ Bio::Symbol::SymbolI,BIRNEY,c
 Bio::Symbol::SymbolI,CJFIELDS,c
 Bio::Symbol::SymbolI,SENDU,c
 Bio::Symbol::SymbolI,STAJICH,c
+Bio::Tapioca,JAC,m
 Bio::Taxon,BIOPERLML,f
 Bio::Taxon,CJFIELDS,c
 Bio::Taxon,SENDU,c

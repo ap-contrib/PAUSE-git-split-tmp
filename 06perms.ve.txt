@@ -803,7 +803,7 @@ Video::FrameGrab,MSCHILLI,f
 Video::Frequencies,MLEHMANN,f
 Video::Function,HVC,f
 Video::Info::Quicktime_PL,SHOGE,f
-Video::M3U8,MRSLX,f
+Video::M3U8,MRSLX,m
 Video::Manip,HVC,f
 Video::OpenQuicktime,ALLENDAY,f
 Video::PlaybackMachine,STEPHEN,f

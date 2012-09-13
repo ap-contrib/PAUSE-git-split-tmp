@@ -859,7 +859,7 @@ Dimedis::SqlDriver::Oracle,JRED,f
 Dimedis::SqlDriver::Pg,JRED,f
 Dimedis::SqlDriver::Sybase,JRED,f
 Dimedis::SqlDriver::mysql,JRED,f
-Dir::Iterate,BRENTDAX,f
+Dir::Iterate,BRENTDAX,m
 Dir::List,OPITZ,f
 Dir::ListFilesRecursive,AHERNIT,f
 Dir::Project,WSNYDER,f

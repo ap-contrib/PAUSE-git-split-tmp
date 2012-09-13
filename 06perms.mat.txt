@@ -553,6 +553,7 @@ Math::SimpleHisto::XS::CLI,SMUELLER,f
 Math::SimpleHisto::XS::Named,SMUELLER,f
 Math::SimpleHisto::XS::RNG,SMUELLER,f
 Math::SimpleInterest,BYOURTH,m
+Math::SimplePermutation,JNQUINTIN,m
 Math::SimpleVariable,WIMV,f
 Math::SnapTo,JFREEMAN,f
 Math::SparseMatrix,JMAHESH,m
