@@ -491,8 +491,8 @@ Spreadsheet::ParseExcel::SaveParser::Workbook 0.59  J/JM/JMCNAMARA/Spreadsheet-P
 Spreadsheet::ParseExcel::SaveParser::Worksheet 0.59  J/JM/JMCNAMARA/Spreadsheet-ParseExcel-0.59.tar.gz
 Spreadsheet::ParseExcel::Simple    1.04  T/TM/TMTM/Spreadsheet-ParseExcel-Simple-1.04.tar.gz
 Spreadsheet::ParseExcel::Simple::_Sheet 1.04  T/TM/TMTM/Spreadsheet-ParseExcel-Simple-1.04.tar.gz
-Spreadsheet::ParseExcel::Stream    0.07  D/DO/DOUGW/Spreadsheet-ParseExcel-Stream-0.07.tar.gz
-Spreadsheet::ParseExcel::Stream::Sheet 0.07  D/DO/DOUGW/Spreadsheet-ParseExcel-Stream-0.07.tar.gz
+Spreadsheet::ParseExcel::Stream    0.08  D/DO/DOUGW/Spreadsheet-ParseExcel-Stream-0.08.tar.gz
+Spreadsheet::ParseExcel::Stream::Sheet 0.08  D/DO/DOUGW/Spreadsheet-ParseExcel-Stream-0.08.tar.gz
 Spreadsheet::ParseExcel::Utility   0.59  J/JM/JMCNAMARA/Spreadsheet-ParseExcel-0.59.tar.gz
 Spreadsheet::ParseExcel::Workbook  0.59  J/JM/JMCNAMARA/Spreadsheet-ParseExcel-0.59.tar.gz
 Spreadsheet::ParseExcel::Worksheet 0.59  J/JM/JMCNAMARA/Spreadsheet-ParseExcel-0.59.tar.gz
