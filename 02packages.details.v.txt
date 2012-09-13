@@ -394,7 +394,7 @@ VJF::Emphase                       0.11  H/HE/HERVE/VJF-Emphase-0.11.tar.gz
 VJF::MITDT                         1.01  H/HE/HERVE/VJF-MITDT-1.01.tar.gz
 VK                                 0.04  L/LE/LEONMEDIA/VK-0.04.tar.gz
 VK::App                            0.08  M/MA/MAG/VK-App-0.08.tar.gz
-VK::MP3                            0.04  E/EA/EAX/VK-MP3-0.04.tar.gz
+VK::MP3                            0.05  E/EA/EAX/VK-MP3-0.05.tar.gz
 VKontakte::API                     0.04  A/AS/ASDEEVA/VKontakte-API-0.04.tar.gz
 VKontakte::API::OAuth              0.02  A/AS/ASDEEVA/VKontakte-API-0.04.tar.gz
 VLGal::Directory                   0.01  Z/ZO/ZOCCAV/VLGal-Directory-0.01.tar.gz
