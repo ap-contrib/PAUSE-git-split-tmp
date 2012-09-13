@@ -727,7 +727,7 @@ Net::IP::Match::Bin::Perl          0.01  T/TO/TOMO/src/Net-IP-Match-Bin-0.06.tar
 Net::IP::Match::Regexp             1.01  C/CD/CDOLAN/Net-IP-Match-Regexp-1.01.tar.gz
 Net::IP::Match::XS                 0.03  B/BE/BEAU/Net-IP-Match-XS-0.03.tar.gz
 Net::IP::Match::XS2                0.01  T/TO/TOMO/src/Net-IP-Match-XS2-0.01.tar.gz
-Net::IP::Minimal                   0.02  B/BI/BINGOS/Net-IP-Minimal-0.02.tar.gz
+Net::IP::Minimal                   0.04  B/BI/BINGOS/Net-IP-Minimal-0.04.tar.gz
 Net::IP::RangeCompare             4.025  A/AK/AKALINUX/Net-IP-RangeCompare-4.025.tar.gz
 Net::IP::RangeCompare::Simple     4.025  A/AK/AKALINUX/Net-IP-RangeCompare-4.025.tar.gz
 Net::IP::Resolver                  0.02  A/AD/ADAMK/Net-IP-Resolver-0.02.tar.gz

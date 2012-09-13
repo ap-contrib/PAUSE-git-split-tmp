@@ -235,6 +235,7 @@ Math::PartialOrder::Loader,MOOCOW,f
 Math::PartialOrder::Std,MOOCOW,f
 Math::Pell,WSDOOKADR,f
 Math::PercentChange,MBAAS,m
+Math::Permute::Array,JNQUINTIN,f
 Math::Permute::List,PRBRENAN,f
 Math::PlanePath,KRYDE,f
 Math::PlanePath::AR2W2Curve,KRYDE,f
