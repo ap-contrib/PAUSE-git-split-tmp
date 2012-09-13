@@ -260,6 +260,7 @@ WebService::NFSN::Member,CJM,f
 WebService::NFSN::Object,CJM,f
 WebService::NFSN::Site,CJM,f
 WebService::NMA,SHUFF,f
+WebService::NZBMatrix,CPORTMAN,f
 WebService::Nestoria::Search,EDF,c
 WebService::Nestoria::Search,KAORU,f
 WebService::Nestoria::Search,MTMAIL,c
