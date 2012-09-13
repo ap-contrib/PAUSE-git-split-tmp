@@ -409,6 +409,10 @@ Tickit::Widget::Entry              0.19  P/PE/PEVANS/Tickit-Widgets-0.01.tar.gz
 Tickit::Widget::Frame              0.20  P/PE/PEVANS/Tickit-0.20.tar.gz
 Tickit::Widget::HBox               0.20  P/PE/PEVANS/Tickit-0.20.tar.gz
 Tickit::Widget::LinearBox          0.20  P/PE/PEVANS/Tickit-0.20.tar.gz
+Tickit::Widget::Menu               0.01  P/PE/PEVANS/Tickit-Widget-Menu-0.01.tar.gz
+Tickit::Widget::Menu::base         0.01  P/PE/PEVANS/Tickit-Widget-Menu-0.01.tar.gz
+Tickit::Widget::Menu::Item         0.01  P/PE/PEVANS/Tickit-Widget-Menu-0.01.tar.gz
+Tickit::Widget::MenuBar            0.01  P/PE/PEVANS/Tickit-Widget-Menu-0.01.tar.gz
 Tickit::Widget::Progressbar       0.002  T/TE/TEAM/Tickit-Widget-Progressbar-0.002.tar.gz
 Tickit::Widget::Progressbar::Horizontal 0.001  T/TE/TEAM/Tickit-Widget-Progressbar-0.002.tar.gz
 Tickit::Widget::Progressbar::Vertical 0.001  T/TE/TEAM/Tickit-Widget-Progressbar-0.002.tar.gz
