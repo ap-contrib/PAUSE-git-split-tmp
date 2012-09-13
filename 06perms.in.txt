@@ -729,6 +729,9 @@ JSONRPC::Transport::HTTP::Client,MAKAMAKA,f
 JSONRPC::Transport::HTTP::Daemon,MAKAMAKA,f
 JSONRPC::Transport::HTTP::Server,MAKAMAKA,f
 JSONRPC::Transport::TCP,TYPESTER,f
+JSONY,INGY,f
+JSONY::Grammar,INGY,f
+JSONY::Receiver,INGY,f
 JSORB,STEVAN,f
 JSORB::Client::Compiler,STEVAN,f
 JSORB::Client::Compiler::Javascript,STEVAN,f
