@@ -1088,6 +1088,7 @@ File::Which,PEREINAR,m
 File::Which::Cached,LEOCHARRE,f
 File::Wildcard,IVORW,m
 File::Wildcard::Find,IVORW,f
+File::XDG,AERDAN,f
 File::Xcopy,GEOTIGER,m
 File::Zglob,TOKUHIROM,f
 File::chdir,DAGOLDEN,c

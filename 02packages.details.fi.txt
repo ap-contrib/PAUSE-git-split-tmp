@@ -554,6 +554,7 @@ File::Which::Cached                1.03  L/LE/LEOCHARRE/File-Which-Cached-1.03.t
 File::Wildcard                     0.11  I/IV/IVORW/File-Wildcard-0.11.tar.gz
 File::Wildcard::Find               0.01  I/IV/IVORW/File-Wildcard-0.11.tar.gz
 File::Xcopy                        0.12  G/GE/GEOTIGER/File-Xcopy-0.12.tar.gz
+File::XDG                          0.01  A/AE/AERDAN/File-XDG-0.01.tar.gz
 File::Zglob                        0.11  T/TO/TOKUHIROM/File-Zglob-0.11.tar.gz
 File_manager                      undef  G/GR/GROMMIER/Text-Editor-Easy-0.01.tar.gz
 file_reporter                     undef  P/PH/PHOENIXL/extensible_report_generator_1.13.zip
