@@ -129,6 +129,7 @@ inc::latest::private,DAGOLDEN,f
 inc::latest::private,LEONT,c
 indexVisitor,PERRAD,f
 indirect,VPIT,f
+init::defaults,MSTROUT,f
 init::headers,LTOETSCH,f
 init::headers,PARROTRE,c
 init::hinits::irix,LTOETSCH,f
@@ -143,6 +144,7 @@ init::hints::darwin,LTOETSCH,f
 init::hints::darwin,PARROTRE,c
 init::hints::dec_osf,LTOETSCH,f
 init::hints::dec_osf,PARROTRE,c
+init::hints::dragonfly,MSTROUT,f
 init::hints::freebsd,LTOETSCH,f
 init::hints::freebsd,PARROTRE,c
 init::hints::hpux,LTOETSCH,f
@@ -153,6 +155,8 @@ init::hints::mswin32,LTOETSCH,f
 init::hints::mswin32,PARROTRE,c
 init::hints::msys,LTOETSCH,f
 init::hints::msys,PARROTRE,c
+init::hints::netbsd,MSTROUT,f
+init::hints::nto,MSTROUT,f
 init::hints::openbsd,LTOETSCH,f
 init::hints::openbsd,PARROTRE,c
 init::hints::os2,LTOETSCH,f
@@ -161,6 +165,7 @@ init::hints::solaris,LTOETSCH,f
 init::hints::solaris,PARROTRE,c
 init::hints::vms,LTOETSCH,f
 init::hints::vms,PARROTRE,c
+init::install,MSTROUT,f
 init::manifest,LTOETSCH,f
 init::manifest,PARROTRE,c
 init::miniparrot,LTOETSCH,f
