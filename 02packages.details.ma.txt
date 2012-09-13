@@ -303,6 +303,7 @@ Make                               1.00  N/NI/NI-S/Make-1.00.tar.gz
 Make::Rule                         1.00  N/NI/NI-S/Make-1.00.tar.gz
 Make::Rule::Vars                   1.00  N/NI/NI-S/Make-1.00.tar.gz
 Make::Target                       1.00  N/NI/NI-S/Make-1.00.tar.gz
+Make_VERSION_File                 undef  M/MS/MSTROUT/Rakudo-Star-2012.08002.tar.gz
 Makecmds                          undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
 MakeEvent                         undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
 MakeEvent::Process                undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz

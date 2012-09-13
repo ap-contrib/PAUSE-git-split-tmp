@@ -1239,6 +1239,7 @@ MakeMaker::Test::Setup::SAS,SHAY,f
 MakeMaker::Test::Setup::XS,SHAY,f
 MakeMaker::Test::Utils,ABERGMAN,f
 MakeUtil,RGARCIA,f
+Make_VERSION_File,MSTROUT,f
 Makecmds,PFEIFFER,f
 Makefile,PARDUS,c
 Makefile,PFEIFFER,f

@@ -727,6 +727,8 @@ Railsish::View                     0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
 Railsish::View::Helpers::TextHelper 0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
 Railsish::View::tt2                0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
 Railsish::ViewHelpers              0.21  G/GU/GUGOD/Railsish-0.21.tar.gz
+Rakudo::Star                   2012.08002  M/MS/MSTROUT/Rakudo-Star-2012.08002.tar.gz
+Rakudo::Star::Paths               undef  M/MS/MSTROUT/Rakudo-Star-2012.08002.tar.gz
 Rand::MersenneTwister               1.0  J/JE/JESUS/MersenneTwister-1.0.1.tar.gz
 random                             0.02  J/JM/JMELTZER/random-0.02.tar.gz
 Random::PoissonDisc                0.01  C/CO/CORION/Random-PoissonDisc-0.01.tar.gz

@@ -312,6 +312,7 @@ Sample::AuthCookieHandler           1.2  B/BA/BARTLEY/Apache-AuthCookie-1.4.tar.
 Sample::Schema                    undef  N/NE/NEKOKAK/DBIx-Skinny-0.03.tar.gz
 SampleModule                      undef  C/CT/CTILMES/Log-Log4perl-CommandLine-0.07.tar.gz
 SampleModule2                     undef  C/CT/CTILMES/Log-Log4perl-CommandLine-0.07.tar.gz
+samples                           undef  M/MS/MSTROUT/Rakudo-Star-2012.08002.tar.gz
 Sane                               0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz
 sane                               0.99  P/PU/PUNYTAN/sane-0.99.tar.gz
 Sane::Device                       0.05  R/RA/RATCLIFFE/Sane-0.05.tar.gz

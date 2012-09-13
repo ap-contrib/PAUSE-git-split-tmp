@@ -325,6 +325,7 @@ Perl::Critic::Policy::CodeLayout::RequireTrailingCommaAtNewline 73  K/KR/KRYDE/P
 Perl::Critic::Policy::CodeLayout::RequireTrailingCommas 1.118  T/TH/THALJEF/Perl-Critic-1.118.tar.gz
 Perl::Critic::Policy::CodeLayout::RequireUseUTF8 1.000003  E/EL/ELLIOTJS/Perl-Critic-Swift-v1.0.3.tar.gz
 Perl::Critic::Policy::CodeLayout::TabIndentSpaceAlign v1.0.0  A/AU/AUBERTG/Perl-Critic-Policy-CodeLayout-TabIndentSpaceAlign-1.0.0.tar.gz
+Perl::Critic::Policy::CodeLayout::UseParrotCoda 0.1  M/MS/MSTROUT/Rakudo-Star-2012.08002.tar.gz
 Perl::Critic::Policy::Compatibility::ConstantLeadingUnderscore 73  K/KR/KRYDE/Perl-Critic-Pulp-73.tar.gz
 Perl::Critic::Policy::Compatibility::ConstantPragmaHash 73  K/KR/KRYDE/Perl-Critic-Pulp-73.tar.gz
 Perl::Critic::Policy::Compatibility::Gtk2Constants 73  K/KR/KRYDE/Perl-Critic-Pulp-73.tar.gz

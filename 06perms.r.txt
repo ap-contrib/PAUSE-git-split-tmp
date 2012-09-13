@@ -9,6 +9,7 @@ rop,KARASIK,f
 routine,CHIPS,f
 rowcol_plate_file,CJONES,f
 rubyisms,PETDANCE,f
+samples,MSTROUT,f
 samples::site::EditControlRule,AWKAY,f
 samples::site::MyPermissionFactory,AWKAY,f
 samples::site::StringUserFactory,AWKAY,f
