@@ -67,6 +67,8 @@ Bio::Annotation::Tree          1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::Annotation::TypeManager   1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::AnnotationCollectionI     1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
 Bio::AnnotationI               1.006901  C/CJ/CJFIELDS/BioPerl-1.6.901.tar.gz
+Bio::App::SELEX::RNAmotifAnalysis undef  M/MO/MOLECULES/Bio-App-SELEX-RNAmotifAnalysis-0.0084.tar.gz
+Bio::App::SELEX::Stockholm        undef  M/MO/MOLECULES/Bio-App-SELEX-RNAmotifAnalysis-0.0084.tar.gz
 Bio::ASN1::EntrezGene              1.10  M/MI/MINGYILIU/Bio-ASN1-EntrezGene-1.10-withoutworldwriteables.tar.gz
 Bio::ASN1::EntrezGene::Indexer     1.09  M/MI/MINGYILIU/Bio-ASN1-EntrezGene-1.10-withoutworldwriteables.tar.gz
 Bio::ASN1::Sequence                1.10  M/MI/MINGYILIU/Bio-ASN1-EntrezGene-1.10-withoutworldwriteables.tar.gz

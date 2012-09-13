@@ -212,10 +212,10 @@ File::Inplace                      0.20  C/CH/CHIPT/File-Inplace-0.20.tar.gz
 File::Irenamer                     1.03  B/BH/BHECKEL/File-Irenamer-1.03.tar.gz
 File::is                           0.03  J/JK/JKUTEJ/File-is-0.03.tar.gz
 File::Iterator                     0.14  S/SW/SWHITAKER/File-Iterator-0.14.tar.gz
-File::KeePass                      0.03  R/RH/RHANDOM/File-KeePass-0.03.tar.gz
-File::KeePass::Agent               0.03  R/RH/RHANDOM/File-KeePass-Agent-0.03.tar.gz
-File::KeePass::Agent::linux       undef  R/RH/RHANDOM/File-KeePass-Agent-0.03.tar.gz
-File::KeePass::Agent::unix        undef  R/RH/RHANDOM/File-KeePass-Agent-0.03.tar.gz
+File::KeePass                      2.00  R/RH/RHANDOM/File-KeePass-2.00.tar.gz
+File::KeePass::Agent               2.00  R/RH/RHANDOM/File-KeePass-Agent-2.00.tar.gz
+File::KeePass::Agent::linux       undef  R/RH/RHANDOM/File-KeePass-Agent-2.00.tar.gz
+File::KeePass::Agent::unix        undef  R/RH/RHANDOM/File-KeePass-Agent-2.00.tar.gz
 File::KGlob                       undef  T/TY/TYEMQ/FileKGlob.tar.gz
 File::KGlob2RE                    undef  T/TY/TYEMQ/FileKGlob.tar.gz
 File::lchown                       0.02  P/PE/PEVANS/File-lchown-0.02.tar.gz
