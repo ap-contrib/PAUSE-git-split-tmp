@@ -142,6 +142,7 @@ Plack::App::File::DirectoryIndex,JHTHORSEN,f
 Plack::App::File::Range,AUDREYT,f
 Plack::App::Gearman::Status,MSTOCK,m
 Plack::App::GitSmartHttp,YAMAMOTO,f
+Plack::App::Hash,ARISTOTLE,f
 Plack::App::ImageMagick,AJGB,f
 Plack::App::JSON::RPC,RIZEN,f
 Plack::App::JSON::RPC::Procedure,RIZEN,f
