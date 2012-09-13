@@ -213,9 +213,9 @@ File::Irenamer                     1.03  B/BH/BHECKEL/File-Irenamer-1.03.tar.gz
 File::is                           0.03  J/JK/JKUTEJ/File-is-0.03.tar.gz
 File::Iterator                     0.14  S/SW/SWHITAKER/File-Iterator-0.14.tar.gz
 File::KeePass                      2.02  R/RH/RHANDOM/File-KeePass-2.02.tar.gz
-File::KeePass::Agent               2.00  R/RH/RHANDOM/File-KeePass-Agent-2.00.tar.gz
-File::KeePass::Agent::linux       undef  R/RH/RHANDOM/File-KeePass-Agent-2.00.tar.gz
-File::KeePass::Agent::unix        undef  R/RH/RHANDOM/File-KeePass-Agent-2.00.tar.gz
+File::KeePass::Agent               2.01  R/RH/RHANDOM/File-KeePass-Agent-2.01.tar.gz
+File::KeePass::Agent::linux       undef  R/RH/RHANDOM/File-KeePass-Agent-2.01.tar.gz
+File::KeePass::Agent::unix        undef  R/RH/RHANDOM/File-KeePass-Agent-2.01.tar.gz
 File::KGlob                       undef  T/TY/TYEMQ/FileKGlob.tar.gz
 File::KGlob2RE                    undef  T/TY/TYEMQ/FileKGlob.tar.gz
 File::lchown                       0.02  P/PE/PEVANS/File-lchown-0.02.tar.gz
