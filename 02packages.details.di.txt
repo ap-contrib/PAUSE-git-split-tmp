@@ -111,6 +111,8 @@ DJabberd::Util                    undef  M/MA/MART/DJabberd-0.85.tar.gz
 DJabberd::VHost                   undef  M/MA/MART/DJabberd-0.85.tar.gz
 DJabberd::XMLElement              undef  M/MA/MART/DJabberd-0.85.tar.gz
 DJabberd::XMLParser                1.00  M/MA/MART/DJabberd-0.85.tar.gz
+DJSON                          0.000001  I/IN/INGY/DJSON-0.0.1.tar.gz
+DJSON::Receiver                0.000001  I/IN/INGY/DJSON-0.0.1.tar.gz
 dlg                               undef  S/SH/SHERWOOD/xisofs-1.3.tar.gz
 DLM::Client                        0.02  K/KO/KOORCHIK/DLM-Client-0.02.tar.gz
 DLM::Client::Simple                0.01  K/KO/KOORCHIK/DLM-Client-0.02.tar.gz
