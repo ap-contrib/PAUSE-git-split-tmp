@@ -130,9 +130,9 @@ Email::Delete::Mbox               2.001  R/RJ/RJBS/Email-Delete-2.001.tar.gz
 Email::ECGListe                    0.07  H/HA/HAVI/Email-ECGListe-0.07.tar.gz
 Email::Enkoder                 1.120831  M/MI/MITHALDU/Email-Enkoder-1.120831.tar.gz
 Email::Envelope                    0.01  K/KU/KUNGFUFTR/Email-Envelope-0.01.tar.gz
-Email::ExactTarget               v1.3.3  A/AU/AUBERTG/Email-ExactTarget-1.3.3.tar.gz
-Email::ExactTarget::Subscriber   v1.3.3  A/AU/AUBERTG/Email-ExactTarget-1.3.3.tar.gz
-Email::ExactTarget::SubscriberOperations v1.3.3  A/AU/AUBERTG/Email-ExactTarget-1.3.3.tar.gz
+Email::ExactTarget               v1.3.4  A/AU/AUBERTG/Email-ExactTarget-1.3.4.tar.gz
+Email::ExactTarget::Subscriber   v1.3.4  A/AU/AUBERTG/Email-ExactTarget-1.3.4.tar.gz
+Email::ExactTarget::SubscriberOperations v1.3.4  A/AU/AUBERTG/Email-ExactTarget-1.3.4.tar.gz
 Email::Filter                     1.032  R/RJ/RJBS/Email-Filter-1.032.tar.gz
 Email::Filter::AutoReply          undef  A/AM/AMONSEN/Email-AutoReply-1.04.tar.gz
 Email::Filter::Rules                1.2  J/JB/JBISBEE/Email-Filter-Rules-1.2.tar.gz
