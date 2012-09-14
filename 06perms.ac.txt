@@ -37,6 +37,7 @@ Acme::Web20::Validator::Rule::XHtmlStrict,NAOYA,f
 Acme::What,TOBYINK,f
 Acme::WheresYourDaddy,JSTOWE,f
 Acme::Working::Out::Dependencies::From::META::files::Will::Be::Wrong::At::Some::Point::Like::This::Module::For::Instance,BINGOS,f
+Acme::XKCD::DebianRandom,CAVAC,f
 Acme::XSS,TOKUHIROM,f
 Acme::YARROW,YARROW,f
 Acme::Yoda,GREP,f
