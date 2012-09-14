@@ -495,7 +495,7 @@ Test::Mail                         0.06  S/SK/SKUD/Test-Mail-0.06.tar.gz
 Test::Manifest                     1.23  B/BD/BDFOY/Test-Manifest-1.23.tar.gz
 Test::ManyParams                   0.10  B/BI/BIGJ/Test-ManyParams-0.10.tar.gz
 Test::Markdent                     0.17  D/DR/DROLSKY/Markdent-0.17.tar.gz
-Test::MBD                             0  B/BD/BDUGGAN/Module-Build-Database-0.34.tar.gz
+Test::MBD                             0  B/BD/BDUGGAN/Module-Build-Database-0.35.tar.gz
 Test::Memcached                 0.00004  D/DM/DMAKI/Test-Memcached-0.00004.tar.gz
 Test::Memory::Cycle                1.04  P/PE/PETDANCE/Test-Memory-Cycle-1.04.tar.gz
 Test::Memory::Usage            0.000004001  C/CH/CHISEL/Test-Memory-Usage-0.0.4.1.tar.gz
