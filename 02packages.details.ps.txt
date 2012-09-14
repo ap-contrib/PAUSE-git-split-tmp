@@ -924,8 +924,6 @@ RDF::Crypt                        0.002  T/TO/TOBYINK/RDF-Crypt-0.002.tar.gz
 RDF::Crypt::Decrypter             0.002  T/TO/TOBYINK/RDF-Crypt-0.002.tar.gz
 RDF::Crypt::Encrypter             0.002  T/TO/TOBYINK/RDF-Crypt-0.002.tar.gz
 RDF::Crypt::ManifestItem          0.002  T/TO/TOBYINK/RDF-Crypt-0.002.tar.gz
-RDF::Crypt::PrivateKeyFunction    0.001  T/TO/TOBYINK/RDF-Crypt-0.001.tar.gz
-RDF::Crypt::PublicKeyFunction     0.001  T/TO/TOBYINK/RDF-Crypt-0.001.tar.gz
 RDF::Crypt::Role::DoesDecrypt     0.002  T/TO/TOBYINK/RDF-Crypt-0.002.tar.gz
 RDF::Crypt::Role::DoesEncrypt     0.002  T/TO/TOBYINK/RDF-Crypt-0.002.tar.gz
 RDF::Crypt::Role::DoesSign        0.002  T/TO/TOBYINK/RDF-Crypt-0.002.tar.gz
