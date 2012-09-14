@@ -664,9 +664,9 @@ CGI::Application::Demo::Dispatch::Base 1.05  R/RS/RSAVAGE/CGI-Application-Demo-D
 CGI::Application::Demo::Dispatch::Menu 1.05  R/RS/RSAVAGE/CGI-Application-Demo-Dispatch-1.05.tgz
 CGI::Application::Demo::Dispatch::Organization 1.05  R/RS/RSAVAGE/CGI-Application-Demo-Dispatch-1.05.tgz
 CGI::Application::Demo::Dispatch::Person 1.05  R/RS/RSAVAGE/CGI-Application-Demo-Dispatch-1.05.tgz
-CGI::Application::Dispatch         3.10  M/MA/MARKSTOS/CGI-Application-Dispatch-3.10.tar.gz
-CGI::Application::Dispatch::PSGI   3.10  M/MA/MARKSTOS/CGI-Application-Dispatch-3.10.tar.gz
-CGI::Application::Dispatch::Regexp 3.04  M/MA/MARKSTOS/CGI-Application-Dispatch-3.10.tar.gz
+CGI::Application::Dispatch         3.11  M/MA/MARKSTOS/CGI-Application-Dispatch-3.11.tar.gz
+CGI::Application::Dispatch::PSGI   3.11  M/MA/MARKSTOS/CGI-Application-Dispatch-3.11.tar.gz
+CGI::Application::Dispatch::Regexp 3.04  M/MA/MARKSTOS/CGI-Application-Dispatch-3.11.tar.gz
 CGI::Application::Dispatch::Server 0.53  M/MA/MARKSTOS/CGI-Application-Dispatch-Server-0.53.tar.gz
 CGI::Application::Emulate::PSGI    0.02  K/KA/KAZUHO/CGI-Application-Emulate-PSGI-0.02.tar.gz
 CGI::Application::FastCGI          0.02  N/NA/NAOYA/CGI-Application-FastCGI-0.02.tar.gz
