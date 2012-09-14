@@ -507,6 +507,7 @@ Hash::Case::Upper                  1.02  M/MA/MARKOV/Hash-Case-1.02.tar.gz
 Hash::Compact                      0.05  K/KE/KENTARO/Hash-Compact-0.05.tar.gz
 Hash::ConsistentHash               0.05  K/KA/KARAVELOV/Hash-ConsistentHash-0.05.tar.gz
 Hash::DefaultValue                0.001  T/TO/TOBYINK/Hash-DefaultValue-0.001.tar.gz
+Hash::DefHash                      0.01  S/SH/SHARYANTO/Hash-DefHash-0.01.tar.gz
 Hash::Diff                        0.005  B/BO/BOLAV/Hash-Diff-0.005.tar.gz
 Hash::Dirty                       0.023  R/RK/RKRIMEN/Hash-Dirty-0.023.tar.gz
 Hash::Dispatch                   0.0010  R/RO/ROKR/Hash-Dispatch-0.0010.tar.gz
