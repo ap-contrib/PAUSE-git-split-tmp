@@ -75,7 +75,7 @@ EV::Loop::Async                    1.01  M/ML/MLEHMANN/EV-Loop-Async-1.01.tar.gz
 EV::MakeMaker                     undef  M/ML/MLEHMANN/EV-4.11.tar.gz
 EV::Watcher::Bind               0.00001  D/DM/DMAKI/EV-Watcher-Bind-0.00001.tar.gz
 Eval::Closure                      0.08  D/DO/DOY/Eval-Closure-0.08.tar.gz
-Eval::Compile                      0.10  G/GR/GRIAN/Eval-Compile-0.10.tar.gz
+Eval::Compile                      0.11  G/GR/GRIAN/Eval-Compile-0.11.tar.gz
 Eval::Context                      0.09  N/NK/NKH/Eval-Context-0.09.11.tar.gz
 Eval::LineNumbers                  0.31  M/MU/MUIR/modules/Eval-LineNumbers-0.31.tar.gz
 Eval::WithLexicals             1.002000  D/DG/DGL/Eval-WithLexicals-1.002000.tar.gz

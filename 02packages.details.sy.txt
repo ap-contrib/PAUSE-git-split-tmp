@@ -490,9 +490,9 @@ Sys::Statistics::Linux::ProcStats  0.20  B/BL/BLOONIX/Sys-Statistics-Linux-0.66.
 Sys::Statistics::Linux::SockStats  0.09  B/BL/BLOONIX/Sys-Statistics-Linux-0.66.tar.gz
 Sys::Statistics::Linux::SysInfo    0.13  B/BL/BLOONIX/Sys-Statistics-Linux-0.66.tar.gz
 Sys::Syscall                       0.23  B/BR/BRADFITZ/Sys-Syscall-0.23.tar.gz
-Sys::Syslog                        0.31  S/SA/SAPER/Sys-Syslog-0.31.tar.gz
+Sys::Syslog                        0.32  S/SA/SAPER/Sys-Syslog-0.32.tar.gz
 Sys::Syslog::OO                    1.00  M/MA/MAXSCHUBE/Sys-Syslog-OO-1.00.tar.gz
-Sys::Syslog::Win32                undef  S/SA/SAPER/Sys-Syslog-0.31.tar.gz
+Sys::Syslog::Win32                undef  S/SA/SAPER/Sys-Syslog-0.32.tar.gz
 Sys::SyslogMessages                0.02  J/JU/JUDITH/Sys-SyslogMessages-0.02.tar.gz
 Sys::SyslogMessages::syslog        0.02  J/JU/JUDITH/Sys-SyslogMessages-0.02.tar.gz
 Sys::SyslogMessages::syslogng      0.02  J/JU/JUDITH/Sys-SyslogMessages-0.02.tar.gz
