@@ -420,6 +420,7 @@ Exporter::Declare::Specs              0  E/EX/EXODIST/Exporter-Declare-0.105.tar
 Exporter::Dispatch                  2.1  J/JR/JRYAN/Exporter-Dispatch-2.10.tar.gz
 Exporter::Easiest                 undef  F/FD/FDALY/Exporter-Easy-0.16.tar.gz
 Exporter::Easy                     0.16  F/FD/FDALY/Exporter-Easy-0.16.tar.gz
+Exporter::Everything              0.001  T/TO/TOBYINK/Exporter-Everything-0.001.tar.gz
 Exporter::Heavy                    5.60  T/TO/TODDR/Exporter-5.65.tar.gz
 Exporter::Lite                     0.02  M/MS/MSCHWERN/Exporter-Lite-0.02.tar.gz
 Exporter::NoWork                   0.03  B/BM/BMORROW/Exporter-NoWork-0.03.tar.gz
