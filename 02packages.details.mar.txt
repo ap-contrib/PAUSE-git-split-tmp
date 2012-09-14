@@ -174,7 +174,7 @@ Mason::PluginManager               2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 Mason::PluginRole                  2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 Mason::Request                     2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 Mason::Result                      2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
-Mason::Tidy                        2.50  J/JS/JSWARTZ/Mason-Tidy-2.50.tar.gz
+Mason::Tidy                        2.51  J/JS/JSWARTZ/Mason-Tidy-2.51.tar.gz
 Mason::TieHandle                   2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 Mason::Types                       2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 MasonX::Apache2Handler             0.05  B/BE/BEAU/MasonX-Apache2Handler-0.05.tar.gz
