@@ -243,7 +243,7 @@ Test::Depends                      0.06  S/SA/SAMV/Test-Depends-0.06.tar.gz
 Test::Device::SerialPort           0.05  C/CO/COSIMO/Test-Device-SerialPort-0.05.tar.gz
 Test::Differences                  0.61  O/OV/OVID/Test-Differences-0.61.tar.gz
 Test::Differences::Color           0.05  A/AL/ALEC/Test-Differences-Color-0.05.tar.gz
-Test::Difflet                         0  T/TO/TOKUHIROM/Data-Difflet-0.04.tar.gz
+Test::Difflet                         0  T/TO/TOKUHIROM/Data-Difflet-0.05.tar.gz
 Test::Dir                         1.014  M/MT/MTHURN/Test-Dir-1.014.tar.gz
 Test::Dir::Base                   1.005  M/MT/MTHURN/Test-Dir-1.014.tar.gz
 Test::Dirs                         0.03  J/JK/JKUTEJ/Test-Dirs-0.03.tar.gz
