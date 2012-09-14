@@ -1810,6 +1810,7 @@ Perl::Staff,PLAVEN,c
 Perl::Staff,SEWI,f
 Perl::Staff,SZABGAB,c
 Perl::Strip,MLEHMANN,f
+Perl::Stripper,SHARYANTO,f
 Perl::Syntax,ROCKY,f
 Perl::Tags,OSFAMERON,f
 Perl::Tags::ClassDot,ASKSH,f
