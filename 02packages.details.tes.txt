@@ -431,7 +431,7 @@ Test::ISBN                         2.01  B/BD/BDFOY/Test-ISBN-2.01.tar.gz
 Test::JavaScript                   0.06  K/KE/KEVINJ/Test-JavaScript-0.06.tar.gz
 Test::JavaScript::More            undef  C/CL/CLAESJAC/JavaScript-1.16.tar.gz
 Test::JSON                         0.11  O/OV/OVID/Test-JSON-0.11.tar.gz
-Test::JSON::Entails                 0.1  V/VO/VOJ/Test-JSON-Entails-0.1.tar.gz
+Test::JSON::Entails                 0.2  V/VO/VOJ/Test-JSON-Entails-0.2.tar.gz
 Test::JSON::Meta                   0.11  B/BA/BARBIE/Test-JSON-Meta-0.11.tar.gz
 Test::JSYNC                        0.02  P/PA/PATCH/Test-JSYNC-0.02.tar.gz
 Test::Kit                         0.101  O/OV/OVID/Test-Kit-0.101.tar.gz
