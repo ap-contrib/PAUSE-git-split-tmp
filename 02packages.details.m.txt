@@ -403,7 +403,7 @@ MySQL::Replication             0.000002  A/AL/ALFIE/MySQL-Replication-0.0.2.tar.
 MySQL::Replication::Client        undef  A/AL/ALFIE/MySQL-Replication-0.0.2.tar.gz
 MySQL::Replication::Command    0.000001  A/AL/ALFIE/MySQL-Replication-0.0.2.tar.gz
 MySQL::Replication::Server        undef  A/AL/ALFIE/MySQL-Replication-0.0.2.tar.gz
-MySQL::RunSQL                       1.0  G/GE/GEEKLADY/MySQL-RunSQL-1.0.tar.gz
+MySQL::RunSQL                       1.1  G/GE/GEEKLADY/MySQL-RunSQL-1.1.tar.gz
 MySQL::Sandbox                 3.000025  G/GM/GMAX/MySQL-Sandbox-3.0.25.tar.gz
 MySQL::Sandbox::Recipes        3.000025  G/GM/GMAX/MySQL-Sandbox-3.0.25.tar.gz
 MySQL::Sandbox::Scripts        3.000025  G/GM/GMAX/MySQL-Sandbox-3.0.25.tar.gz
