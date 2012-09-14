@@ -480,7 +480,7 @@ LWP::UserAgent::Snapshot           v0.2  N/NP/NPW/LWP-UserAgent-Snapshot-v0.2.ta
 LWP::UserAgent::WithCache          0.12  S/SE/SEKIMURA/LWP-UserAgent-WithCache-0.12.tar.gz
 LWP::Version                       0.24  G/GA/GAAS/LWPng-alpha-0.24.tar.gz
 LWPx::ParanoidAgent                1.07  B/BR/BRADFITZ/LWPx-ParanoidAgent-1.07.tar.gz
-LWPx::ParanoidHandler              0.01  T/TO/TOKUHIROM/LWPx-ParanoidHandler-0.01.tar.gz
+LWPx::ParanoidHandler              0.02  T/TO/TOKUHIROM/LWPx-ParanoidHandler-0.02.tar.gz
 LWPx::Protocol::http_paranoid     undef  B/BR/BRADFITZ/LWPx-ParanoidAgent-1.07.tar.gz
 LWPx::Protocol::http_paranoid::Socket undef  B/BR/BRADFITZ/LWPx-ParanoidAgent-1.07.tar.gz
 LWPx::Protocol::http_paranoid::SocketMethods undef  B/BR/BRADFITZ/LWPx-ParanoidAgent-1.07.tar.gz
