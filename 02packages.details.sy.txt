@@ -517,7 +517,7 @@ Sys::Virt::Secret                 undef  D/DA/DANBERR/Sys-Virt-0.9.13.tar.gz
 Sys::Virt::StoragePool            undef  D/DA/DANBERR/Sys-Virt-0.9.13.tar.gz
 Sys::Virt::StorageVol             undef  D/DA/DANBERR/Sys-Virt-0.9.13.tar.gz
 Sys::Virt::Stream                 undef  D/DA/DANBERR/Sys-Virt-0.9.13.tar.gz
-Sysadm::Install                    0.39  M/MS/MSCHILLI/Sysadm-Install-0.39.tar.gz
+Sysadm::Install                    0.40  M/MS/MSCHILLI/Sysadm-Install-0.40.tar.gz
 SysAdmin                           0.11  M/MA/MARR/SysAdmin-0.11.tar.gz
 SysAdmin::Date                     0.03  M/MA/MARR/SysAdmin-0.11.tar.gz
 SysAdmin::DB                       0.09  M/MA/MARR/SysAdmin-0.11.tar.gz
