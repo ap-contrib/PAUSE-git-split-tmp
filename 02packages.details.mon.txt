@@ -622,8 +622,8 @@ MooseX::BuildArgs                  0.04  B/BL/BLUEFEET/MooseX-BuildArgs-0.04.tar
 MooseX::BuildArgs::Role            0.03  B/BL/BLUEFEET/MooseX-BuildArgs-0.03.tar.gz
 MooseX::CachingProxy              0.001  K/KA/KABLAMO/MooseX-CachingProxy-0.001.tar.gz
 MooseX::Callbacks                  0.01  R/RE/REVMISCHA/MooseX-Callbacks-0.01.tar.gz
-MooseX::CascadeClearing            0.04  R/RS/RSRCHBOY/MooseX-CascadeClearing-0.04.tar.gz
-MooseX::CascadeClearing::Role::Meta::Attribute undef  R/RS/RSRCHBOY/MooseX-CascadeClearing-0.04.tar.gz
+MooseX::CascadeClearing            0.05  R/RS/RSRCHBOY/MooseX-CascadeClearing-0.05.tar.gz
+MooseX::CascadeClearing::Role::Meta::Attribute 0.05  R/RS/RSRCHBOY/MooseX-CascadeClearing-0.05.tar.gz
 MooseX::ChainedAccessors         v1.0.1  P/PE/PERLER/MooseX-Attribute-Chained-1.0.1.tar.gz
 MooseX::ChainedAccessors::Accessor v1.0.1  P/PE/PERLER/MooseX-Attribute-Chained-1.0.1.tar.gz
 MooseX::ClassAttribute             0.26  D/DR/DROLSKY/MooseX-ClassAttribute-0.26.tar.gz
