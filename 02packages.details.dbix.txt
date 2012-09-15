@@ -717,7 +717,7 @@ Devel::CallerStack::Level         undef  E/EX/EXODIST/Devel-CallerStack-0.003.ta
 Devel::CallParser                 0.001  Z/ZE/ZEFRAM/Devel-CallParser-0.001.tar.gz
 Devel::CallSequence               undef  P/PH/PHILCROW/UML-Sequence-0.08.tar.gz
 Devel::callsfrom                  undef  S/SA/SAKOHT/UR-0.38.1.tar.gz
-Devel::Callsite                    0.04  T/TE/TEODOR/Devel-Callsite-0.04.tar.gz
+Devel::Callsite                    0.05  R/RO/ROCKY/Devel-Callsite-0.05.tar.gz
 Devel::CallStack                   0.19  J/JH/JHI/Devel-CallStack-0.19.tar.gz
 Devel::CallTrace                    1.2  J/JE/JESSE/Devel-CallTrace-1.2.tar.gz
 Devel::Carnivore                   0.09  M/MA/MALTEU/Devel-Carnivore-0.09.tar.gz
