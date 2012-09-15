@@ -36,7 +36,7 @@ Acme::Web20::Validator::Rule::XHtmlStrict undef  N/NA/NAOYA/Acme-Web20-Validator
 Acme::What                        0.002  T/TO/TOBYINK/Acme-What-0.002.tar.gz
 Acme::Working::Out::Dependencies::From::META::files::Will::Be::Wrong::At::Some::Point::Like::This::Module::For::Instance 9.99  B/BI/BINGOS/Acme-Working-Out-Dependencies-From-META-files-Will-Be-Wrong-At-Some-Point-Like-This-Module-For-Instance-9.99.tar.gz
 Acme::WTF                          0.03  B/BE/BEAST/Acme-WTF-0.03.tar.gz
-Acme::XKCD::DebianRandom           1.00  C/CA/CAVAC/Acme-XKCD-DebianRandom-1.00.tar.gz
+Acme::XKCD::DebianRandom           2.00  C/CA/CAVAC/Acme-XKCD-DebianRandom-2.00.tar.gz
 Acme::XSS                          0.01  T/TO/TOKUHIROM/Acme-XSS-0.01.tar.gz
 ACME::YAPC::NA::2012               0.02  J/JA/JARICH/ACME-YAPC-NA-2012-0.02.tar.gz
 Acme::Yoda                         0.02  G/GR/GREP/Acme-Yoda-0.02.tar.gz
