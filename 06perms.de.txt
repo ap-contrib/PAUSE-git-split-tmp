@@ -78,6 +78,9 @@ Devel::Trepan::CmdProcessor::Command::Info::Variables::Our,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Info::Watch,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Kill,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::List,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Load,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Load::Command,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Load::Module,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Macro,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Next,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Quit,ROCKY,f
@@ -98,6 +101,7 @@ Devel::Trepan::CmdProcessor::Command::Set::Different,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Display,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Display::COP,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Display::Eval,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Set::Display::OP,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::EvalDisplay,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Highlight,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Set::Max,ROCKY,f
@@ -130,6 +134,7 @@ Devel::Trepan::CmdProcessor::Command::Show::Different,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Display,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Display::COP,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Display::Eval,ROCKY,f
+Devel::Trepan::CmdProcessor::Command::Show::Display::OP,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::EvalDisplay,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Highlight,ROCKY,f
 Devel::Trepan::CmdProcessor::Command::Show::Interactive,ROCKY,f
@@ -183,6 +188,7 @@ Devel::Trepan::Interface::Script,ROCKY,f
 Devel::Trepan::Interface::Server,ROCKY,f
 Devel::Trepan::Interface::User,ROCKY,f
 Devel::Trepan::Options,ROCKY,f
+Devel::Trepan::Pod2Text,ROCKY,f
 Devel::Trepan::Shell,ROCKY,f
 Devel::Trepan::SigHandler,ROCKY,f
 Devel::Trepan::SigMgr,ROCKY,f
