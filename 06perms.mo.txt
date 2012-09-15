@@ -615,6 +615,7 @@ MooseX::Iterator::Meta::Iterable,RLB,f
 MooseX::Iterator::Role,RLB,f
 MooseX::KeyedMutex,CODEREPOS,c
 MooseX::KeyedMutex,DMAKI,f
+MooseX::LazyCoercion,KBA,f
 MooseX::LazyLogDispatch,BLBLACK,c
 MooseX::LazyLogDispatch,BOBTFISH,c
 MooseX::LazyLogDispatch,STEVAN,f
