@@ -57,11 +57,11 @@ Class::DBI::Plugin::Iterator::mysql4 undef  A/AS/ASAKURA/Class-DBI-Plugin-Iterat
 Class::DBI::Plugin::Iterator::subquery undef  A/AS/ASAKURA/Class-DBI-Plugin-Iterator-0.13.tar.gz
 Class::DBI::Plugin::MultiDatabases  0.1  M/MA/MAKAMAKA/Class-DBI-Plugin-MultiDatabases-0.1.tar.gz
 Class::DBI::Plugin::NoCache        0.03  L/LY/LYOKATO/Class-DBI-Plugin-NoCache-0.03.tar.gz
-Class::DBI::Plugin::Pager         0.564  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.564.tar.gz
-Class::DBI::Plugin::Pager::LimitOffset undef  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.564.tar.gz
-Class::DBI::Plugin::Pager::LimitXY undef  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.564.tar.gz
-Class::DBI::Plugin::Pager::LimitYX undef  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.564.tar.gz
-Class::DBI::Plugin::Pager::RowsTo undef  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.564.tar.gz
+Class::DBI::Plugin::Pager         0.566  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.566.tar.gz
+Class::DBI::Plugin::Pager::LimitOffset 0  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.566.tar.gz
+Class::DBI::Plugin::Pager::LimitXY    0  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.566.tar.gz
+Class::DBI::Plugin::Pager::LimitYX    0  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.566.tar.gz
+Class::DBI::Plugin::Pager::RowsTo     0  M/MA/MAJESTIC/Class-DBI-Plugin-Pager-0.566.tar.gz
 Class::DBI::Plugin::Param          0.03  N/NA/NAOYA/Class-DBI-Plugin-Param-0.03.tar.gz
 Class::DBI::Plugin::PseudoColumns  0.03  T/TA/TANIGUCHI/Class-DBI-Plugin-PseudoColumns-0.03.tar.gz
 Class::DBI::Plugin::QueriesTime    0.01  N/NE/NEKOKAK/Class-DBI-Plugin-QueriesTime-0.01.tar.gz
