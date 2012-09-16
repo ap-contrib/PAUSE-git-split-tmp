@@ -309,6 +309,7 @@ Plack::Middleware::Debug::Dancer::Version,FRANCKC,f
 Plack::Middleware::Debug::Environment,MARCEL,f
 Plack::Middleware::Debug::Environment,MIYAGAWA,c
 Plack::Middleware::Debug::LazyLoadModules,BAYASHI,f
+Plack::Middleware::Debug::Log4perl,MIKET,f
 Plack::Middleware::Debug::Memory,MARCEL,f
 Plack::Middleware::Debug::Memory,MIYAGAWA,c
 Plack::Middleware::Debug::ModuleVersions,MARCEL,f
