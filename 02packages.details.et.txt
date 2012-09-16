@@ -316,8 +316,8 @@ Exception::Assertion             0.0504  D/DE/DEXTER/Test-Assert-0.0504.tar.gz
 Exception::AUTH_REQUIRED            0.3  W/WR/WROSS/Class-DBI-Factory-0.994.tar.gz
 Exception::Base                  0.2401  D/DE/DEXTER/Exception-Base-0.2401.tar.gz
 Exception::Caught                 undef  F/FR/FRODWITH/Exception-Caught-0.01.tar.gz
-Exception::Class                   1.32  D/DR/DROLSKY/Exception-Class-1.32.tar.gz
-Exception::Class::Base             1.32  D/DR/DROLSKY/Exception-Class-1.32.tar.gz
+Exception::Class                   1.33  D/DR/DROLSKY/Exception-Class-1.33.tar.gz
+Exception::Class::Base             1.33  D/DR/DROLSKY/Exception-Class-1.33.tar.gz
 Exception::Class::DBI              1.01  D/DW/DWHEELER/Exception-Class-DBI-1.01.tar.gz
 Exception::Class::DBI::DBH            0  D/DW/DWHEELER/Exception-Class-DBI-1.01.tar.gz
 Exception::Class::DBI::H              0  D/DW/DWHEELER/Exception-Class-DBI-1.01.tar.gz
