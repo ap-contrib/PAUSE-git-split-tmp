@@ -587,7 +587,7 @@ AnyEvent::RPC::Enc::YAML           0.04  M/MO/MONS/AnyEvent-RPC-0.05.tar.gz
 AnyEvent::RTPG                     0.01  G/GU/GUGOD/AnyEvent-RTPG-0.01.tar.gz
 AnyEvent::Run                      0.01  A/AG/AGRUNDMA/AnyEvent-Run-0.01.tar.gz
 AnyEvent::SCGI                      1.1  K/KE/KEVINJ/AnyEvent-SCGI-1.1.tar.gz
-AnyEvent::Sereal                  0.002  M/MA/MAXS/AnyEvent-Sereal-0.002.tar.gz
+AnyEvent::Sereal                  0.003  M/MA/MAXS/AnyEvent-Sereal-0.003.tar.gz
 AnyEvent::Serialize                0.05  U/UN/UNERA/AnyEvent-Serialize-0.05.tar.gz
 AnyEvent::Server::PSGI            undef  M/MI/MIYAGAWA/Twiggy-0.1020.tar.gz
 AnyEvent::SMTP                     0.08  M/MO/MONS/AnyEvent-SMTP-0.08.tar.gz
