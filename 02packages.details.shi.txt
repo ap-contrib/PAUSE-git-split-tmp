@@ -359,7 +359,6 @@ SimpleDB::POSIX                     1.0  B/BE/BENL/SimpleCDB-1.0.tar.gz
 SimpleException                   undef  P/PS/PSEIBEL/Exceptions-0.01.tar.gz
 SimpleIdentifier                   0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
 SimpleObjectClass                  1.54  S/SH/SHERZODR/CGI-Session-4.10.tar.gz
-SimplePermutation                 undef  J/JN/JNQUINTIN/SimplePermutation-0.01.tar.gz
 SimpleRadarControls                1.02  Z/ZI/ZINCDEV/tk-zinc-3.303.tar.gz
 SimpleSuperClass                  undef  D/DO/DOMIZIO/CGI-Builder-1.36.tar.gz
 SimpleXlsx                         0.04  J/JE/JESTOCK/SimpleXlsx-0.0.4.tar.gz
