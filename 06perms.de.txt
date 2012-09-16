@@ -1602,6 +1602,7 @@ Dist::Zilla::Plugin::Test::CPAN::Changes,DOHERTY,f
 Dist::Zilla::Plugin::Test::CPAN::Meta::JSON,DOHERTY,f
 Dist::Zilla::Plugin::Test::ChangesHasContent,DAGOLDEN,f
 Dist::Zilla::Plugin::Test::CheckChanges,DOHERTY,f
+Dist::Zilla::Plugin::Test::CheckDeps,ETHER,c
 Dist::Zilla::Plugin::Test::CheckDeps,LEONT,f
 Dist::Zilla::Plugin::Test::CheckManifest,ALEXBIO,f
 Dist::Zilla::Plugin::Test::Compile,JQUELIN,f
