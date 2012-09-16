@@ -248,6 +248,12 @@ WWW::ArsenalFC::TicketInformation::Match 1.122590  A/AR/ARJONES/WWW-ArsenalFC-Ti
 WWW::ArsenalFC::TicketInformation::Match::Availability 1.122590  A/AR/ARJONES/WWW-ArsenalFC-TicketInformation-1.122590.tar.gz
 WWW::ArsenalFC::TicketInformation::Util 1.122590  A/AR/ARJONES/WWW-ArsenalFC-TicketInformation-1.122590.tar.gz
 WWW::Asg                           0.05  F/FU/FUKATA/WWW-Asg-0.05.tar.gz
+WWW::ASN                           0.01  M/MS/MSTRAT/WWW-ASN-0.01.tar.gz
+WWW::ASN::Document                undef  M/MS/MSTRAT/WWW-ASN-0.01.tar.gz
+WWW::ASN::Downloader              undef  M/MS/MSTRAT/WWW-ASN-0.01.tar.gz
+WWW::ASN::Jurisdiction            undef  M/MS/MSTRAT/WWW-ASN-0.01.tar.gz
+WWW::ASN::Standard                undef  M/MS/MSTRAT/WWW-ASN-0.01.tar.gz
+WWW::ASN::Subject                 undef  M/MS/MSTRAT/WWW-ASN-0.01.tar.gz
 WWW::AtMovies                      0.03  A/AL/ALEC/WWW-AtMovies-0.03.tar.gz
 WWW::AtMovies::TV                  0.04  A/AL/ALEC/WWW-AtMovies-TV-0.04.tar.gz
 WWW::AUR                           0.15  J/JU/JUSTER/WWW-AUR-0.15.tar.gz
