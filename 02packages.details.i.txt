@@ -94,6 +94,7 @@ Imager::Graph::Pie                undef  T/TO/TONYC/Imager-Graph-0.10.tar.gz
 Imager::Graph::StackedColumn      undef  T/TO/TONYC/Imager-Graph-0.10.tar.gz
 Imager::Graph::Util               undef  T/TO/TONYC/Imager-Graph-0.10.tar.gz
 Imager::Graph::Vertical            0.10  T/TO/TONYC/Imager-Graph-0.10.tar.gz
+Imager::Heatmap                    0.02  K/KA/KAWAMURAY/Imager-Heatmap-0.02.tar.gz
 Imager::Matrix2d                  1.010  T/TO/TONYC/Imager-0.92.tar.gz
 Imager::Montage                    0.02  C/CO/CORNELIUS/Imager-Montage-0.02.tar.gz
 Imager::Plot                       0.09  A/AD/ADDI/Imager-Plot-0.09.tar.gz

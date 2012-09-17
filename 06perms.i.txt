@@ -173,6 +173,7 @@ Imager::Graph::Util,PMICHAUD,c
 Imager::Graph::Util,TONYC,f
 Imager::Graph::Vertical,PMICHAUD,c
 Imager::Graph::Vertical,TONYC,f
+Imager::Heatmap,KAWAMURAY,f
 Imager::Matrix2d,ADDI,f
 Imager::Matrix2d,TONYC,c
 Imager::Montage,CLKAO,c
