@@ -291,9 +291,9 @@ JSONRPC::Transport::HTTP::Client   1.02  M/MA/MAKAMAKA/JSON-1.15.tar.gz
 JSONRPC::Transport::HTTP::Daemon   1.02  M/MA/MAKAMAKA/JSON-1.15.tar.gz
 JSONRPC::Transport::HTTP::Server   1.02  M/MA/MAKAMAKA/JSON-1.15.tar.gz
 JSONRPC::Transport::TCP            0.04  T/TY/TYPESTER/JSONRPC-Transport-TCP-0.04.tar.gz
-JSONY                          0.000002  I/IN/INGY/JSONY-0.0.2.tar.gz
-JSONY::Grammar                    undef  I/IN/INGY/JSONY-0.0.2.tar.gz
-JSONY::Receiver                   undef  I/IN/INGY/JSONY-0.0.2.tar.gz
+JSONY                          0.000003  I/IN/INGY/JSONY-0.0.3.tar.gz
+JSONY::Grammar                    undef  I/IN/INGY/JSONY-0.0.3.tar.gz
+JSONY::Receiver                   undef  I/IN/INGY/JSONY-0.0.3.tar.gz
 JSORB                              0.04  S/ST/STEVAN/JSORB-0.04.tar.gz
 JSORB::Client::Compiler            0.04  S/ST/STEVAN/JSORB-0.04.tar.gz
 JSORB::Client::Compiler::Javascript 0.04  S/ST/STEVAN/JSORB-0.04.tar.gz
