@@ -415,7 +415,7 @@ Win32::Security::SID              undef  T/TE/TEVERETT/Win32-Security-0.50.tar.g
 Win32::Semaphore                   1.09  C/CJ/CJM/Win32-IPC-1.09.tar.gz
 Win32::SerialPort                  0.22  B/BB/BBIRTH/Win32-SerialPort-0.22.tar.gz
 Win32::Service                     0.06  J/JD/JDB/Win32-Service-0.06.tar.gz
-Win32::Setupsup                    1.03  C/CJ/CJM/Win32-Setupsup-1.03.tar.gz
+Win32::Setupsup                    1.10  C/CJ/CJM/Win32-Setupsup-1.10.tar.gz
 Win32::SharedFileOpen              3.43  S/SH/SHAY/Win32-SharedFileOpen-3.43.tar.gz
 Win32::SharedFileOpen::_NaturalNumber 3.43  S/SH/SHAY/Win32-SharedFileOpen-3.43.tar.gz
 Win32::ShellExt                     0.1  J/JB/JBNIVOIT/Win32-ShellExt-0.1.zip
