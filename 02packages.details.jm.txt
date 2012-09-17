@@ -259,10 +259,10 @@ JSON::Schema::Helper              0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
 JSON::Schema::Null                0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
 JSON::Schema::Result              0.012  T/TO/TOBYINK/JSON-Schema-0.012.tar.gz
 JSON::Shell                         1.0  M/MA/MARKPASC/JSON-Shell-1.0.tar.gz
-JSON::SL                           0.06  M/MN/MNUNBERG/JSON-SL-0.06.tar.gz
-JSON::SL::Boolean                  0.06  M/MN/MNUNBERG/JSON-SL-0.06.tar.gz
-JSON::SL::EscapeTH                undef  M/MN/MNUNBERG/JSON-SL-0.06.tar.gz
-JSON::SL::Tuba                    undef  M/MN/MNUNBERG/JSON-SL-0.06.tar.gz
+JSON::SL                           0.07  M/MN/MNUNBERG/JSON-SL-0.07.tar.gz
+JSON::SL::Boolean                  0.07  M/MN/MNUNBERG/JSON-SL-0.07.tar.gz
+JSON::SL::EscapeTH                undef  M/MN/MNUNBERG/JSON-SL-0.07.tar.gz
+JSON::SL::Tuba                    undef  M/MN/MNUNBERG/JSON-SL-0.07.tar.gz
 JSON::Streaming::Reader            0.05  M/MA/MART/JSON-Streaming-Reader-0.05.tar.gz
 JSON::Streaming::Reader::EventWrapper undef  M/MA/MART/JSON-Streaming-Reader-0.05.tar.gz
 JSON::Streaming::Reader::TestUtil undef  M/MA/MART/JSON-Streaming-Reader-0.05.tar.gz
