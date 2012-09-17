@@ -987,7 +987,7 @@ Devel::GDB::Reflect::PrettyPrinter undef  A/AF/AFN/Devel-GDB-Reflect-0.2.tar.gz
 Devel::Gladiator                   0.01  N/NU/NUFFIN/Devel-Gladiator-0.01.tar.gz
 Devel::GlobalDestruction           0.09  R/RI/RIBASUSHI/Devel-GlobalDestruction-0.09.tar.gz
 Devel::Graph                       0.12  T/TE/TELS/devel/Devel-Graph-0.12.tar.gz
-Devel::GraphVizProf                2.10  R/RS/RSAVAGE/GraphViz-2.10.tgz
+Devel::GraphVizProf                2.11  R/RS/RSAVAGE/GraphViz-2.11.tgz
 Devel::Hexdump                     0.02  M/MO/MONS/Devel-Hexdump-0.02.tar.gz
 Devel::Hide                      0.0008  F/FE/FERREIRA/Devel-Hide-0.0008.tar.gz
 Devel::Hints                       0.21  A/AU/AUDREYT/Devel-Hints-0.21.tar.gz
