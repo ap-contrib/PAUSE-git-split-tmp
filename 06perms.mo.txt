@@ -435,6 +435,11 @@ MooseX::FileAttribute,SARTAK,c
 MooseX::File_or_DB::Storage,SETITESUK,f
 MooseX::FollowPBP,DROLSKY,f
 MooseX::FollowPBP::Role::Attribute,DROLSKY,f
+MooseX::FunkyAttributes,TOBYINK,f
+MooseX::FunkyAttributes::Meta::Accessor,TOBYINK,f
+MooseX::FunkyAttributes::Role::Attribute,TOBYINK,f
+MooseX::FunkyAttributes::Role::Attribute::Delegated,TOBYINK,f
+MooseX::FunkyAttributes::Role::Attribute::InsideOut,TOBYINK,f
 MooseX::Getopt,BLBLACK,c
 MooseX::Getopt,BOBTFISH,c
 MooseX::Getopt,DROLSKY,c

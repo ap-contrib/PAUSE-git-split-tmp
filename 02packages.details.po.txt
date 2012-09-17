@@ -146,8 +146,8 @@ POE::Component::RSS                3.01  S/SU/SUNGO/POE-Component-RSS-0.09.tar.g
 POE::Component::RSSAggregator      1.11  J/JB/JBISBEE/POE-Component-RSSAggregator-1.11.tar.gz
 POE::Component::SASLAuthd          0.03  K/KI/KIRILLM/POE-Component-SASLAuthd-0.03.tgz
 POE::Component::Schedule           0.95  D/DO/DOLMEN/POE-Component-Schedule-0.95.tar.gz
-POE::Component::Sequence           0.01  E/EW/EWATERS/POE-Component-Sequence-0.01.tar.gz
-POE::Component::Sequence::Nested      0  E/EW/EWATERS/POE-Component-Sequence-0.01.tar.gz
+POE::Component::Sequence           0.02  E/EW/EWATERS/POE-Component-Sequence-0.02.tar.gz
+POE::Component::Sequence::Nested      0  E/EW/EWATERS/POE-Component-Sequence-0.02.tar.gz
 POE::Component::Server::AsyncEndpoint 0.10  A/AI/AIMASS/POE-Component-Server-AsyncEndpoint-0.10_a.tar.gz
 POE::Component::Server::AsyncEndpoint::ChannelAdapter 0.10  A/AI/AIMASS/POE-Component-Server-AsyncEndpoint-0.10_a.tar.gz
 POE::Component::Server::AsyncEndpoint::ChannelAdapter::Config 0.10  A/AI/AIMASS/POE-Component-Server-AsyncEndpoint-0.10_a.tar.gz
