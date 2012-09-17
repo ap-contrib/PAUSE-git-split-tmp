@@ -46,6 +46,7 @@ MY                                 6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.t
 My::Album                         undef  W/WR/WROSS/Class-DBI-Factory-0.994.tar.gz
 My::App                           undef  C/CO/CORION/DBIx-VersionedSubs-0.07.tar.gz
 My::Artist                        undef  W/WR/WROSS/Class-DBI-Factory-0.994.tar.gz
+My::AuthBasic                     undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.2.tar.gz
 my::autodie                       undef  S/SH/SHAY/perl-5.17.3.tar.gz
 My::CDBI                          undef  B/BO/BOZO/Fry-Lib-CDBI-Basic-0.15.tar.gz
 My::Chat                          undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
@@ -62,8 +63,8 @@ My::Handler                        0.02  W/WR/WROSS/Class-DBI-Factory-0.994.tar.
 My::LDAPConnect                    3.00  C/CW/CWINTERS/SPOPS-0.87.tar.gz
 My::LineFilter                    1.351  R/RC/RCAPUTO/POE-Test-Loops-1.351.tar.gz
 My::Name::Space                    1.06  M/MA/MARKOV/OODoc-1.06.tar.gz
-My::Package                       undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.1.tar.gz
-My::Package::UpdateCookie         undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.1.tar.gz
+My::Package                       undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.2.tar.gz
+My::Package::UpdateCookie         undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.2.tar.gz
 My::Parameters                    undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 My::PersistentIterator            undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 My::PH                             0.01  J/JS/JSMITH/Authen-Ticket-0.02.tar.gz
@@ -71,12 +72,12 @@ My::PH::Client                     0.01  J/JS/JSMITH/Authen-Ticket-0.02.tar.gz
 My::PH::Server                     0.01  J/JS/JSMITH/Authen-Ticket-0.02.tar.gz
 My::PingPong                      undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 My::Pod::Simple::HTML              0.22  P/PE/PETDANCE/Apache-Pod-0.22.tar.gz
-My::SecureToken                   undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.1.tar.gz
+My::SecureToken                   undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.2.tar.gz
 My::Security                       3.04  C/CW/CWINTERS/SPOPS-0.87.tar.gz
 My::Serializer                     1.01  E/ET/ETWOECMA/MRS/promessaging-MRS-1.01.tar.gz
 My::SessionIterator               undef  M/MK/MKUTTER/SOAP-Lite-0.715.tar.gz
 My::SubCodec                      undef  G/GG/GGARAND/PerlQt-3.008.tar.gz
-My::Sympa                         undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.1.tar.gz
+My::Sympa                         undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.2.tar.gz
 My::Tagger                          2.0  S/SI/SIMON/Lingua-EN-Keywords-2.0.tar.gz
 My::TAP::Parser::Iterator::Process::LSF undef  S/SA/SAKOHT/UR-0.38.1.tar.gz
 My::TAP::Parser::IteratorFactory::LSF undef  S/SA/SAKOHT/UR-0.38.1.tar.gz
@@ -87,7 +88,7 @@ My::Track                         undef  W/WR/WROSS/Class-DBI-Factory-0.994.tar.
 My::User                           3.03  C/CW/CWINTERS/SPOPS-0.87.tar.gz
 My::View                          undef  T/TK/TKEEFER/Gantry-3.64.tar.gz
 My::WaflPhrase                     0.01  G/GU/GUGOD/Kwiki-PageInclude-0.01.tar.gz
-My::Zimbra                        undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.1.tar.gz
+My::Zimbra                        undef  C/CO/COUDOT/Lemonldap-NG-Handler-1.2.2.tar.gz
 my_cgifile_handler                undef  S/ST/STODGHIL/SOAP-Clean-0.02.tar.gz
 My_XML_Parser                      0.07  J/JZ/JZUCKER/DBD-RAM-0.072.tar.gz
 MyAGI                             undef  J/JA/JAYWHY/Asterisk-FastAGI-0.02.tar.gz

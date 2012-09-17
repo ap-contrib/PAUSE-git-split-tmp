@@ -72,6 +72,7 @@ Mvalve::Writer,DMAKI,f
 My::Album,WROSS,f
 My::App,CORION,f
 My::Artist,WROSS,f
+My::AuthBasic,COUDOT,f
 My::Bar,SCHWIGON,f
 My::Baz,MRDVT,f
 My::CDBI,BOZO,f
