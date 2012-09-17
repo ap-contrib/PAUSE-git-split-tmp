@@ -588,7 +588,7 @@ Treex::Tool::Segment::RuleBased 0.08170  T/TK/TKR/Treex-Unilang-0.08170.tar.gz
 Treex::Tool::Tagger::Featurama  0.08170  T/TK/TKR/Treex-Unilang-0.08170.tar.gz
 Treex::Tool::Tagger::Featurama::EN 0.08171  T/TK/TKR/Treex-EN-0.08171.tar.gz
 Treex::Unilang                  0.08170  T/TK/TKR/Treex-Unilang-0.08170.tar.gz
-TrepanPosition                        0  R/RO/ROCKY/Devel-Trepan-0.39.tar.gz
+TrepanPosition                        0  R/RO/ROCKY/Devel-Trepan-0.40.tar.gz
 Triangul                              1  C/CE/CECALA/CECALA.tar.gz
 Tribunais::TJES                   undef  E/ED/EDUARDOW/Tribunais-TJES-0.006.tar.gz
 Tribunais::TRTES                  undef  E/ED/EDUARDOW/Tribunais-TRTES-0.003.tar.gz
