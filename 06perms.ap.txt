@@ -468,6 +468,7 @@ App::Pinto::Command::index,THALJEF,f
 App::Pinto::Command::init,THALJEF,f
 App::Pinto::Command::install,THALJEF,f
 App::Pinto::Command::list,THALJEF,f
+App::Pinto::Command::log,THALJEF,f
 App::Pinto::Command::manual,THALJEF,f
 App::Pinto::Command::merge,THALJEF,f
 App::Pinto::Command::mirror,THALJEF,f
@@ -477,6 +478,7 @@ App::Pinto::Command::pin,THALJEF,f
 App::Pinto::Command::props,THALJEF,f
 App::Pinto::Command::pull,THALJEF,f
 App::Pinto::Command::remove,THALJEF,f
+App::Pinto::Command::revert,THALJEF,f
 App::Pinto::Command::stacks,THALJEF,f
 App::Pinto::Command::statistics,THALJEF,f
 App::Pinto::Command::unpin,THALJEF,f
