@@ -219,6 +219,7 @@ Plack::Handler::Feersum,STASH,f
 Plack::Handler::Fliggy,VTI,f
 Plack::Handler::Gepok,SHARYANTO,f
 Plack::Handler::HTTP::Server::PSGI,MIYAGAWA,f
+Plack::Handler::HTTP::Server::PSGI::Mortal,DAMI,f
 Plack::Handler::HTTP::Server::Simple,MIYAGAWA,f
 Plack::Handler::HTTP::Server::Simple::PSGIServer,MIYAGAWA,f
 Plack::Handler::Message::Passing,BOBTFISH,c

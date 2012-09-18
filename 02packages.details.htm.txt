@@ -1421,6 +1421,7 @@ HTTP::Server::EV::MultipartFile     0.4  N/NY/NYAKNYAN/HTTP-Server-EV-0.4.tar.gz
 HTTP::Server::EV::PortListener      0.4  N/NY/NYAKNYAN/HTTP-Server-EV-0.4.tar.gz
 HTTP::Server::Multiplex            0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
 HTTP::Server::PSGI                undef  M/MI/MIYAGAWA/Plack-1.0003.tar.gz
+HTTP::Server::PSGI::Mortal         0.01  D/DA/DAMI/HTTP-Server-PSGI-Mortal-0.01.tar.gz
 HTTP::Server::PSGI::Net::Server::PreFork undef  M/MI/MIYAGAWA/Starman-0.3001.tar.gz
 HTTP::Server::Session              0.11  M/MA/MARKOV/HTTP-Server-Multiplex-0.11.tar.gz
 HTTP::Server::Simple               0.44  J/JE/JESSE/HTTP-Server-Simple-0.44.tar.gz
