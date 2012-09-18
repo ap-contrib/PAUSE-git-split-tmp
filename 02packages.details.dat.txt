@@ -173,13 +173,13 @@ Data::Rx::FailureSet           0.200002  R/RJ/RJBS/Data-Rx-0.200002.tar.gz
 Data::Rx::Tools::ShareDirValidator v0.1.1  K/KE/KENTNL/Data-Rx-Tools-ShareDirValidator-0.1.1.tar.gz
 Data::Rx::Type::MooseTC           0.003  R/RJ/RJBS/Data-Rx-Type-MooseTC-0.003.tar.gz
 Data::Rx::Type::PCRE              0.003  R/RJ/RJBS/Data-Rx-Type-PCRE-0.003.tar.gz
-Data::Rx::Type::Perl::Code        0.005  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.005.tar.gz
-Data::Rx::Type::Perl::Obj         0.005  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.005.tar.gz
-Data::Rx::Type::Perl::Ref         0.005  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.005.tar.gz
+Data::Rx::Type::Perl::Code        0.006  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.006.tar.gz
+Data::Rx::Type::Perl::Obj         0.006  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.006.tar.gz
+Data::Rx::Type::Perl::Ref         0.006  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.006.tar.gz
 Data::Rx::Type::Rx             0.103520  H/HA/HANENKAMP/Data-Rx-TypeBundle-Rx-0.103520.tar.gz
 Data::Rx::TypeBundle           0.200002  R/RJ/RJBS/Data-Rx-0.200002.tar.gz
 Data::Rx::TypeBundle::Core     0.200002  R/RJ/RJBS/Data-Rx-0.200002.tar.gz
-Data::Rx::TypeBundle::Perl        0.005  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.005.tar.gz
+Data::Rx::TypeBundle::Perl        0.006  R/RJ/RJBS/Data-Rx-TypeBundle-Perl-0.006.tar.gz
 Data::Rx::TypeBundle::Rx       0.103520  H/HA/HANENKAMP/Data-Rx-TypeBundle-Rx-0.103520.tar.gz
 Data::Rx::Util                 0.200002  R/RJ/RJBS/Data-Rx-0.200002.tar.gz
 Data::Sah                          0.04  S/SH/SHARYANTO/Data-Sah-0.04.tar.gz
