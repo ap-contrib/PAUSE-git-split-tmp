@@ -426,6 +426,7 @@ Algorithm::ConsistentHash::Ketama,DMAKI,f
 Algorithm::ConsistentHash::Ketama::Bucket,DMAKI,f
 Algorithm::ContextVector,AIMBERT,m
 Algorithm::CouponCode,GRANTM,f
+Algorithm::Cron,PEVANS,f
 Algorithm::CurveFit,SMUELLER,m
 Algorithm::DecisionTree,AVIKAK,f
 Algorithm::Dependency,ADAMK,f
