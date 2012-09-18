@@ -25,7 +25,7 @@ HTML::FormFu::OutputProcessor::Indent undef  P/PE/PERLER/HTML-FormFu-0.09007.tar
 HTML::FormFu::OutputProcessor::StripWhitespace undef  P/PE/PERLER/HTML-FormFu-0.09007.tar.gz
 HTML::FormFu::OutputProcessor::StripWhitespace::_iter undef  P/PE/PERLER/HTML-FormFu-0.09007.tar.gz
 HTML::FormFu::Plugin              undef  P/PE/PERLER/HTML-FormFu-0.09007.tar.gz
-HTML::FormFu::Plugin::RequestToken undef  P/PE/PERLER/Catalyst-Controller-HTML-FormFu-0.09003.tar.gz
+HTML::FormFu::Plugin::RequestToken undef  C/CF/CFRANKS/Catalyst-Controller-HTML-FormFu-0.09004.tar.gz
 HTML::FormFu::Plugin::StashValid  undef  P/PE/PERLER/HTML-FormFu-0.09007.tar.gz
 HTML::FormFu::Preload             undef  P/PE/PERLER/HTML-FormFu-0.09007.tar.gz
 HTML::FormFu::Processor           undef  P/PE/PERLER/HTML-FormFu-0.09007.tar.gz
