@@ -954,7 +954,7 @@ ByteCache                         undef  S/SI/SIMON/ByteCache-0.01.tar.gz
 ByteLoader                         0.09  R/RU/RURBAN/B-C-1.42.tar.gz
 bytes                              1.04  F/FL/FLORA/perl-5.15.4.tar.gz
 Bytes::Random                      0.02  J/JO/JOHND/Bytes-Random-0.02.tar.gz
-Bytes::Random::Secure              0.02  D/DA/DAVIDO/Bytes-Random-Secure-0.02.tar.gz
+Bytes::Random::Secure              0.03  D/DA/DAVIDO/Bytes-Random-Secure-0.03.tar.gz
 BZ::Client                         1.04  J/JW/JWIED/BZ-Client-1.04.tar.gz
 BZ::Client::API                       1  J/JW/JWIED/BZ-Client-1.04.tar.gz
 BZ::Client::Bug                       1  J/JW/JWIED/BZ-Client-1.04.tar.gz
