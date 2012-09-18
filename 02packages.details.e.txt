@@ -186,7 +186,7 @@ Encode::UTR22::Regexp::Element     0.03  M/MH/MHOSKEN/Encode-UTR22-0.14.tar.gz
 Encode::UTR22::Regexp::EOS         0.03  M/MH/MHOSKEN/Encode-UTR22-0.14.tar.gz
 Encode::UTR22::Regexp::Group       0.03  M/MH/MHOSKEN/Encode-UTR22-0.14.tar.gz
 Encode::Win32                     undef  M/MH/MHOSKEN/Encode-Registry-0.13.tar.gz
-Encode::X11                          19  K/KR/KRYDE/X11-Protocol-Other-19.tar.gz
+Encode::X11                          20  K/KR/KRYDE/X11-Protocol-Other-20.tar.gz
 Encode::ZapCP1252                  0.33  D/DW/DWHEELER/Encode-ZapCP1252-0.33.tar.gz
 EncodeConverter                     1.0  M/MS/MSERGEANT/Matts-Message-Parser-1.0.tar.gz
 encoding                           2.06  D/DA/DANKOGAI/Encode-2.23.tar.gz
