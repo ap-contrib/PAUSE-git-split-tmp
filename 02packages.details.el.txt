@@ -209,7 +209,7 @@ Email::MIME::Kit::Role::ManifestDesugarer 2.102011  R/RJ/RJBS/Email-MIME-Kit-2.1
 Email::MIME::Kit::Role::ManifestReader 2.102011  R/RJ/RJBS/Email-MIME-Kit-2.102011.tar.gz
 Email::MIME::Kit::Role::Renderer 2.102011  R/RJ/RJBS/Email-MIME-Kit-2.102011.tar.gz
 Email::MIME::Kit::Role::Validator 2.102011  R/RJ/RJBS/Email-MIME-Kit-2.102011.tar.gz
-Email::MIME::Kit::Validator::Rx 0.102010  R/RJ/RJBS/Email-MIME-Kit-Validator-Rx-0.102010.tar.gz
+Email::MIME::Kit::Validator::Rx 0.200000  R/RJ/RJBS/Email-MIME-Kit-Validator-Rx-0.200000.tar.gz
 Email::MIME::MobileJP              0.06  T/TO/TOKUHIROM/Email-MIME-MobileJP-0.06.tar.gz
 Email::MIME::MobileJP::Creator        0  T/TO/TOKUHIROM/Email-MIME-MobileJP-0.06.tar.gz
 Email::MIME::MobileJP::Parser         0  T/TO/TOKUHIROM/Email-MIME-MobileJP-0.06.tar.gz
