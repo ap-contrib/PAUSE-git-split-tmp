@@ -744,8 +744,8 @@ Log::Handler::Output::Socket       0.08  B/BL/BLOONIX/Log-Handler-0.75.tar.gz
 Log::Handler::Pattern              0.07  B/BL/BLOONIX/Log-Handler-0.75.tar.gz
 Log::Handler::Plugin::Config::General 0.02  B/BL/BLOONIX/Log-Handler-0.75.tar.gz
 Log::Handler::Plugin::Config::Properties 0.03  B/BL/BLOONIX/Log-Handler-0.75.tar.gz
-Log::Handler::Plugin::DBI          1.00  R/RS/RSAVAGE/Log-Handler-Plugin-DBI-1.00.tgz
-Log::Handler::Plugin::DBI::CreateTable 1.00  R/RS/RSAVAGE/Log-Handler-Plugin-DBI-1.00.tgz
+Log::Handler::Plugin::DBI          1.01  R/RS/RSAVAGE/Log-Handler-Plugin-DBI-1.01.tgz
+Log::Handler::Plugin::DBI::CreateTable 1.01  R/RS/RSAVAGE/Log-Handler-Plugin-DBI-1.01.tgz
 Log::Handler::Plugin::YAML         0.03  B/BL/BLOONIX/Log-Handler-0.75.tar.gz
 Log::Info                          2.00  F/FL/FLUFFY/Log-Info-2.00.tar.gz
 Log::Info::Fork                   undef  F/FL/FLUFFY/Log-Info-2.00.tar.gz
