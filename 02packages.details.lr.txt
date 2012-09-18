@@ -5,7 +5,7 @@ LRpt::JarReader                   undef  P/PK/PKALUSKI/LRpt_0.16.tar.gz
 LRpt::KeySubst                    undef  P/PK/PKALUSKI/LRpt_0.16.tar.gz
 LRpt::RKeysRdr                    undef  P/PK/PKALUSKI/LRpt_0.16.tar.gz
 LRpt::XMLReport                   undef  P/PK/PKALUSKI/LRpt_0.16.tar.gz
-LRUCache                              0  L/LD/LDS/GBrowse-2.50.tar.gz
+LRUCache                              0  L/LD/LDS/GBrowse-2.51.tar.gz
 LS                             1.001007  E/EK/EKAWAS/lsid-perl-1.1.7.tar.gz
 LS::Assigning::Client             undef  E/EK/EKAWAS/lsid-perl-1.1.7.tar.gz
 LS::Assigning::Serializer         undef  E/EK/EKAWAS/lsid-perl-1.1.7.tar.gz
