@@ -631,6 +631,7 @@ ShardedKV::Storage::Redis::String,NPEREZ,c
 ShardedKV::Storage::Redis::String,SMUELLER,f
 SharePoint::SOAPHandler,DBMOLESTA,m
 Shared::Queue,IEFREMOV,f
+Shatterproof,SGOVIND,m
 Shebangml,EWILHELM,f
 Shebangml::Attrs,EWILHELM,c
 Shebangml::FromHTML,EWILHELM,f
