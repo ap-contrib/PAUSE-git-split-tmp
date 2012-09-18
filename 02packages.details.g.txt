@@ -491,14 +491,14 @@ Hash::AutoHash::Args::V0::helper   1.14  N/NA/NATG/Hash-AutoHash-Args-1.14-1.tar
 Hash::AutoHash::AVPairsMulti       1.14  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.14.tar.gz
 Hash::AutoHash::AVPairsMulti::helper 1.13  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.13.tar.gz
 Hash::AutoHash::AVPairsMulti::tie  1.13  N/NA/NATG/Hash-AutoHash-AVPairsMulti-1.13.tar.gz
-Hash::AutoHash::AVPairsSingle      1.13  N/NA/NATG/Hash-AutoHash-AVPairsSingle-1.13.tar.gz
+Hash::AutoHash::AVPairsSingle      1.14  N/NA/NATG/Hash-AutoHash-AVPairsSingle-1.14.tar.gz
 Hash::AutoHash::AVPairsSingle::helper 1.13  N/NA/NATG/Hash-AutoHash-AVPairsSingle-1.13.tar.gz
 Hash::AutoHash::AVPairsSingle::tie 1.13  N/NA/NATG/Hash-AutoHash-AVPairsSingle-1.13.tar.gz
 Hash::AutoHash::helper                0  N/NA/NATG/Hash-AutoHash-1.15.tar.gz
-Hash::AutoHash::MultiValued        1.13  N/NA/NATG/Hash-AutoHash-MultiValued-1.13.tar.gz
+Hash::AutoHash::MultiValued        1.14  N/NA/NATG/Hash-AutoHash-MultiValued-1.14.tar.gz
 Hash::AutoHash::MultiValued::helper 1.13  N/NA/NATG/Hash-AutoHash-MultiValued-1.13.tar.gz
 Hash::AutoHash::MultiValued::tie   1.13  N/NA/NATG/Hash-AutoHash-MultiValued-1.13.tar.gz
-Hash::AutoHash::Record             1.13  N/NA/NATG/Hash-AutoHash-Record-1.13.tar.gz
+Hash::AutoHash::Record             1.14  N/NA/NATG/Hash-AutoHash-Record-1.14.tar.gz
 Hash::AutoHash::Record::helper     1.13  N/NA/NATG/Hash-AutoHash-Record-1.13.tar.gz
 Hash::AutoHash::Record::tie        1.13  N/NA/NATG/Hash-AutoHash-Record-1.13.tar.gz
 Hash::Case                         1.02  M/MA/MARKOV/Hash-Case-1.02.tar.gz
