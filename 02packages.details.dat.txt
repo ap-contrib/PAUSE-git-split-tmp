@@ -11,7 +11,7 @@ Data::Queue::Persistent            0.13  R/RE/REVMISCHA/Data-Queue-Persistent-0.
 Data::Rand                     0.000004  D/DM/DMUEY/Data-Rand-0.0.4.tar.gz
 Data::Rand::Obscure               0.021  R/RK/RKRIMEN/Data-Rand-Obscure-0.021.tar.gz
 Data::Rand::Obscure::Generator    undef  R/RK/RKRIMEN/Data-Rand-Obscure-0.021.tar.gz
-Data::Random                       0.07  B/BA/BAREFOOT/Data-Random-0.07.tar.gz
+Data::Random                       0.08  B/BA/BAREFOOT/Data-Random-0.08.tar.gz
 Data::Random::Contact              0.05  D/DR/DROLSKY/Data-Random-Contact-0.05.tar.gz
 Data::Random::Contact::Country::US 0.05  D/DR/DROLSKY/Data-Random-Contact-0.05.tar.gz
 Data::Random::Contact::Language::EN 0.05  D/DR/DROLSKY/Data-Random-Contact-0.05.tar.gz
@@ -19,7 +19,7 @@ Data::Random::Contact::Types       0.05  D/DR/DROLSKY/Data-Random-Contact-0.05.t
 Data::Random::Contact::Types::Internal 0.05  D/DR/DROLSKY/Data-Random-Contact-0.05.tar.gz
 Data::Random::Nucleotides           0.1  A/AG/AGORDON/Data-Random-Nucleotides-0.1.tar.gz
 Data::Random::String               0.03  M/MA/MAKIS/Data-Random-String-0.03.tar.gz
-Data::Random::WordList             0.07  B/BA/BAREFOOT/Data-Random-0.07.tar.gz
+Data::Random::WordList             0.08  B/BA/BAREFOOT/Data-Random-0.08.tar.gz
 Data::RandomKeep                   0.02  L/LU/LUCS/Data-RandomKeep-0.02.tar.gz
 Data::RandomKeep_T                undef  L/LU/LUCS/Data-RandomKeep-0.02.tar.gz
 Data::RandomPerson                  0.4  P/PE/PETERHI/Data-RandomPerson-0.4.tar.gz
