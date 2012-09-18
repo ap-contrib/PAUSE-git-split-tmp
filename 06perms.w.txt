@@ -1001,6 +1001,8 @@ XCAP::Client::Document,TBR,f
 XCAP::Client::Element,TBR,f
 XCAP::Client::Packager,TBR,f
 XDI,HORST,f
+XDI::Connection,HORST,f
+XDI::Message,HORST,f
 XDI::SPIT,EEKIM,f
 XDR,GORD,f
 XDR::CallReply,GORD,f
