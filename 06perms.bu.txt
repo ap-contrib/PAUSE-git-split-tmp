@@ -1090,11 +1090,13 @@ Business::OnlinePayment::CardFortress,IVAN,f
 Business::OnlinePayment::Cardcom,IVAN,f
 Business::OnlinePayment::Cardstream,BELCHAM,f
 Business::OnlinePayment::CashCow,JONASBN,f
+Business::OnlinePayment::CyberSource,HGDEV,c
 Business::OnlinePayment::CyberSource,JAYCE,c
 Business::OnlinePayment::CyberSource,PBOWEN,f
 Business::OnlinePayment::CyberSource,XENO,c
 Business::OnlinePayment::CyberSource::Client,HGDEV,c
 Business::OnlinePayment::CyberSource::Client,XENO,f
+Business::OnlinePayment::CyberSource::Error,HGDEV,c
 Business::OnlinePayment::CyberSource::Error,JAYCE,c
 Business::OnlinePayment::CyberSource::Error,PBOWEN,f
 Business::OnlinePayment::CyberSource::Error,XENO,c
@@ -1104,6 +1106,7 @@ Business::OnlinePayment::CyberSource::Role::InputHandling,HGDEV,c
 Business::OnlinePayment::CyberSource::Role::InputHandling,XENO,f
 Business::OnlinePayment::CyberSource::Role::TransactionHandling,HGDEV,c
 Business::OnlinePayment::CyberSource::Role::TransactionHandling,XENO,f
+Business::OnlinePayment::Cybersource,HGDEV,c
 Business::OnlinePayment::Cybersource,JAYCE,c
 Business::OnlinePayment::Cybersource,PBOWEN,m
 Business::OnlinePayment::E2Payments,AIDAN,m
