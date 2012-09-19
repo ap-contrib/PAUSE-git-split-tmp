@@ -75,6 +75,7 @@ WWW::Promotion,SNEMAROV,f
 WWW::ProximoBus,KIMBREL,f
 WWW::Proxy4FreeCom,ZOFFIX,f
 WWW::ProxyChecker,ZOFFIX,m
+WWW::PunchTab,FAYLAND,f
 WWW::Purolator::TrackingInfo,ZOFFIX,f
 WWW::Pusher,SQUEEK,f
 WWW::Qaiku,AJAYRES,m

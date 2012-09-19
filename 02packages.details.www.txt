@@ -149,6 +149,7 @@ WWW::Promotion                     5.20  S/SN/SNEMAROV/WWW-Promotion-5.20.tar.gz
 WWW::ProximoBus                    0.01  K/KI/KIMBREL/WWW-ProximoBus-0.01.tar.gz
 WWW::Proxy4FreeCom                0.001  Z/ZO/ZOFFIX/WWW-Proxy4FreeCom-0.001.tar.gz
 WWW::ProxyChecker                 0.002  Z/ZO/ZOFFIX/WWW-ProxyChecker-0.002.tar.gz
+WWW::PunchTab                      0.01  F/FA/FAYLAND/WWW-PunchTab-0.01.tar.gz
 WWW::Purolator::TrackingInfo     0.0101  Z/ZO/ZOFFIX/WWW-Purolator-TrackingInfo-0.0101.tar.gz
 WWW::Pusher                        0.06  S/SQ/SQUEEK/WWW-Pusher-0.06.tar.gz
 WWW::Rafb                          0.02  A/AM/AMITSIDES/WWW-Rafb-0.02.tar.gz
