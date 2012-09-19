@@ -767,7 +767,7 @@ Business::Payment::Processor::Test::True undef  G/GP/GPHAT/Business-Payment-0.02
 Business::Payment::Result         undef  G/GP/GPHAT/Business-Payment-0.02.tar.gz
 Business::Payment::SSL            undef  G/GP/GPHAT/Business-Payment-0.02.tar.gz
 Business::Payment::Types          undef  G/GP/GPHAT/Business-Payment-0.02.tar.gz
-Business::PayPal                   0.07  S/SZ/SZABGAB/Business-PayPal-0.07.tar.gz
+Business::PayPal                   0.08  S/SZ/SZABGAB/Business-PayPal-0.08.tar.gz
 Business::PayPal::API              0.69  H/HE/HEMBREED/Business-PayPal-API-0.69.tar.gz
 Business::PayPal::API::AuthorizationRequest 0.11  H/HE/HEMBREED/Business-PayPal-API-0.69.tar.gz
 Business::PayPal::API::CaptureRequest 0.11  H/HE/HEMBREED/Business-PayPal-API-0.69.tar.gz
