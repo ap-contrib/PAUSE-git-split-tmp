@@ -8,7 +8,7 @@ POE::Component::IRC::Plugin::Unicode::UCD 0.001  Z/ZO/ZOFFIX/POE-Component-IRC-P
 POE::Component::IRC::Plugin::URI::Find 1.10  B/BI/BINGOS/POE-Component-IRC-Plugin-URI-Find-1.10.tar.gz
 POE::Component::IRC::Plugin::Validator::CSS 0.02  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-Validator-CSS-0.02.tar.gz
 POE::Component::IRC::Plugin::Validator::HTML 0.002  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-Validator-HTML-0.002.tar.gz
-POE::Component::IRC::Plugin::Whois 6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz
+POE::Component::IRC::Plugin::Whois 6.79  B/BI/BINGOS/POE-Component-IRC-6.79.tar.gz
 POE::Component::IRC::Plugin::WubWubWub 0.1  S/SI/SIRMXE/POE-Component-IRC-Plugin-WubWubWub-0.1.tar.gz
 POE::Component::IRC::Plugin::WWW::Alexa::TrafficRank 0.0101  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-WWW-Alexa-TrafficRank-0.0101.tar.gz
 POE::Component::IRC::Plugin::WWW::Cache::Google 0.0101  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-WWW-Cache-Google-0.0101.tar.gz
@@ -24,12 +24,12 @@ POE::Component::IRC::Plugin::WWW::OhNoRobotCom::Search 0.001  Z/ZO/ZOFFIX/POE-Co
 POE::Component::IRC::Plugin::WWW::XKCD::AsText 0.002  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-WWW-XKCD-AsText-0.002.tar.gz
 POE::Component::IRC::Plugin::YouAreDoingItWrong 0.02  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-YouAreDoingItWrong-0.02.tar.gz
 POE::Component::IRC::Plugin::YouTube::MovieFindStore 0.02  Z/ZO/ZOFFIX/POE-Component-IRC-Plugin-YouTube-MovieFindStore-0.02.tar.gz
-POE::Component::IRC::Qnet          6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz
-POE::Component::IRC::Qnet::State   6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz
+POE::Component::IRC::Qnet          6.79  B/BI/BINGOS/POE-Component-IRC-6.79.tar.gz
+POE::Component::IRC::Qnet::State   6.79  B/BI/BINGOS/POE-Component-IRC-6.79.tar.gz
 POE::Component::IRC::Service      0.996  B/BI/BINGOS/POE-Component-IRC-Service-0.996.tar.gz
 POE::Component::IRC::Service::Hybrid 0.996  B/BI/BINGOS/POE-Component-IRC-Service-0.996.tar.gz
 POE::Component::IRC::Service::P10 0.996  B/BI/BINGOS/POE-Component-IRC-Service-0.996.tar.gz
-POE::Component::IRC::State         6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz
+POE::Component::IRC::State         6.79  B/BI/BINGOS/POE-Component-IRC-6.79.tar.gz
 POE::Component::Jabber             3.00  N/NP/NPEREZ/POE-Component-Jabber-3.00.tar.gz
 POE::Component::Jabber::Events     3.00  N/NP/NPEREZ/POE-Component-Jabber-3.00.tar.gz
 POE::Component::Jabber::J14        3.00  N/NP/NPEREZ/POE-Component-Jabber-3.00.tar.gz
@@ -403,8 +403,8 @@ POE::Filter::HTTPHead             0.947  R/RC/RCAPUTO/POE-Component-Client-HTTP-
 POE::Filter::HTTPHead_Line        0.947  R/RC/RCAPUTO/POE-Component-Client-HTTP-0.947.tar.gz
 POE::Filter::IASLog                1.08  B/BI/BINGOS/POE-Filter-IASLog-1.08.tar.gz
 POE::Filter::Ident                 1.16  B/BI/BINGOS/POE-Component-Client-Ident-1.16.tar.gz
-POE::Filter::IRC                   6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz
-POE::Filter::IRC::Compat           6.78  H/HI/HINRIK/POE-Component-IRC-6.78.tar.gz
+POE::Filter::IRC                   6.79  B/BI/BINGOS/POE-Component-IRC-6.79.tar.gz
+POE::Filter::IRC::Compat           6.79  B/BI/BINGOS/POE-Component-IRC-6.79.tar.gz
 POE::Filter::IRC::Hybrid          0.996  B/BI/BINGOS/POE-Component-IRC-Service-0.996.tar.gz
 POE::Filter::IRC::P10             0.996  B/BI/BINGOS/POE-Component-IRC-Service-0.996.tar.gz
 POE::Filter::IRCD                  2.42  B/BI/BINGOS/POE-Filter-IRCD-2.42.tar.gz
