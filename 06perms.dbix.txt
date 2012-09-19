@@ -844,7 +844,8 @@ DBIx::SQLite::Deploy::Connection,RKRIMEN,c
 DBIx::SQLite::Deploy::Connection,ROKR,f
 DBIx::SQLite::Simple,GOMOR,f
 DBIx::SQLite::Simple::Table,GOMOR,f
-DBIx::Safe,SYBER,m
+DBIx::Safe,SYBER,c
+DBIx::Safe,TURNSTEP,m
 DBIx::ScaleOut,JAMCC,m
 DBIx::Schema,JMAC,f
 DBIx::Schema::UpToDate,RWSTAUNER,f
