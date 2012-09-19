@@ -604,6 +604,7 @@ DBIx::Placeholder::Named::db,IZUT,f
 DBIx::Placeholder::Named::st,IZUT,f
 DBIx::Portable,DUNCAND,f
 DBIx::Pquery,PCHINES,m
+DBIx::PreQL,DAOTOAD,f
 DBIx::Printf,KAZUHO,f
 DBIx::Printf::Named,KAZEBURO,f
 DBIx::Procedure::Oracle,MSOUTHERN,f
