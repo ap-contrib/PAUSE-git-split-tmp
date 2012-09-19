@@ -410,7 +410,7 @@ Metabase::User::Secret            0.021  D/DA/DAGOLDEN/Metabase-Fact-0.021.tar.g
 Metabase::Web                     0.001  R/RJ/RJBS/Metabase-Web-0.001.tar.gz
 Metabase::Web::Controller::Root   0.001  R/RJ/RJBS/Metabase-Web-0.001.tar.gz
 Metabase::Web::Model::Metabase    0.001  R/RJ/RJBS/Metabase-Web-0.001.tar.gz
-metaclass                        2.0603  D/DO/DOY/Moose-2.0603.tar.gz
+metaclass                        2.0604  D/DO/DOY/Moose-2.0604.tar.gz
 MetaCPAN::API                      0.43  X/XS/XSAWYERX/MetaCPAN-API-0.43.tar.gz
 MetaCPAN::API::Author              0.43  X/XS/XSAWYERX/MetaCPAN-API-0.43.tar.gz
 MetaCPAN::API::CPANRatings         0.02  X/XS/XSAWYERX/MetaCPAN-API-0.02.tar.gz

@@ -438,7 +438,7 @@ Scalar::Construct                     0  Z/ZE/ZEFRAM/Scalar-Construct-0.000.tar.
 Scalar::Cycle::Manual              0.03  N/NK/NKH/Scalar-Cycle-Manual-0.03.6.tar.gz
 Scalar::Defer                      0.23  J/JE/JESSE/Scalar-Defer-0.23.tar.gz
 Scalar::Defer::Deferred           undef  J/JE/JESSE/Scalar-Defer-0.23.tar.gz
-Scalar::Does                      0.002  T/TO/TOBYINK/Scalar-Does-0.002.tar.gz
+Scalar::Does                      0.003  T/TO/TOBYINK/Scalar-Does-0.003.tar.gz
 Scalar::Induce                     0.04  L/LE/LEONT/Scalar-Induce-0.04.tar.gz
 Scalar::Lazy                       0.03  D/DA/DANKOGAI/Scalar-Lazy-0.03.tar.gz
 Scalar::Listify                    0.02  T/TB/TBONE/Scalar-Listify-0.02.tar.gz
