@@ -370,7 +370,7 @@ AutoLoader                         5.72  S/SM/SMUELLER/AutoLoader-5.72.tar.gz
 autolocale                         0.02  H/HI/HIDEAKIO/autolocale-0.02.tar.gz
 autolocale::Tie::Scalar            0.02  H/HI/HIDEAKIO/autolocale-0.02.tar.gz
 AutomakeFixer                     undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
-autopackage                       0.001  D/DM/DMCBRIDE/autopackage-0.001.tar.gz
+autopackage                        0.01  D/DM/DMCBRIDE/autopackage-0.01.tar.gz
 autorequire                        0.08  P/PA/PATL/autorequire-0.08.tar.gz
 AutoRole                           0.04  R/RH/RHANDOM/AutoRole-0.04.tar.gz
 AutoSession                        0.01  G/GM/GMPASSOS/AutoSession-0.01.tar.gz
