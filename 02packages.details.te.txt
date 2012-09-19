@@ -55,6 +55,7 @@ Text::XmlMatch                   1.0006  L/LE/LEEJA/Text-XmlMatch-1.0006.tar.gz
 Text::Xslate                     1.5017  G/GF/GFUJI/Text-Xslate-1.5017.tar.gz
 Text::Xslate::Bridge              undef  G/GF/GFUJI/Text-Xslate-1.5017.tar.gz
 Text::Xslate::Bridge::Alloy      1.0001  G/GF/GFUJI/Text-Xslate-Bridge-Alloy-1.0001.tar.gz
+Text::Xslate::Bridge::FillInForm::Lite 0.01  Y/YS/YSASAKI/Text-Xslate-Bridge-FillInForm-Lite-0.01.tar.gz
 Text::Xslate::Bridge::MultiMarkdown 0.001  W/WW/WWOLF/Text-Xslate-Bridge-MultiMarkdown-0.001.tar.gz
 Text::Xslate::Bridge::Star        undef  G/GF/GFUJI/Text-Xslate-1.5017.tar.gz
 Text::Xslate::Bridge::TT2        1.0002  G/GF/GFUJI/Text-Xslate-Bridge-TT2-1.0002.tar.gz

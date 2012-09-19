@@ -65,6 +65,7 @@ Text::Xslate::Bridge,GFUJI,f
 Text::Xslate::Bridge,TOKUHIROM,c
 Text::Xslate::Bridge::Alloy,GFUJI,f
 Text::Xslate::Bridge::Alloy,TOKUHIROM,c
+Text::Xslate::Bridge::FillInForm::Lite,YSASAKI,f
 Text::Xslate::Bridge::MultiMarkdown,WWOLF,f
 Text::Xslate::Bridge::Star,GFUJI,f
 Text::Xslate::Bridge::Star,TOKUHIROM,c
