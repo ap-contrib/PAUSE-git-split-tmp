@@ -485,8 +485,13 @@ Number::Range,CARCUS,c
 Number::Range,LARRYSH,f
 Number::Range,XENU,c
 Number::Range::Regex,BRIANSKI,f
+Number::Range::Regex::CompoundRange,BRIANSKI,f
+Number::Range::Regex::EmptyRange,BRIANSKI,f
+Number::Range::Regex::Iterator,BRIANSKI,f
 Number::Range::Regex::Range,BRIANSKI,f
+Number::Range::Regex::SimpleRange,BRIANSKI,f
 Number::Range::Regex::TrivialRange,BRIANSKI,f
+Number::Range::Regex::Util,BRIANSKI,f
 Number::Rangify,CODEREPOS,c
 Number::Rangify,MARCEL,f
 Number::RecordLocator,ALEXMV,c
