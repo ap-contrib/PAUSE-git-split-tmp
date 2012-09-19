@@ -96,6 +96,7 @@ IO::File::Cached                    1.0  D/DA/DANBERR/IO-File-Cached-1.0.1.tar.g
 IO::File::CompressOnClose          0.11  J/JF/JFITZ/IO-File-CompressOnClose-0.11.tar.gz
 IO::File::CompressOnClose::Gzip   undef  J/JF/JFITZ/IO-File-CompressOnClose-0.11.tar.gz
 IO::File::CompressOnClose::Zip    undef  J/JF/JFITZ/IO-File-CompressOnClose-0.11.tar.gz
+IO::File::Cycle                    0.01  N/NI/NICWOLFF/IO-File-Cycle-0.01.tar.gz
 IO::File::fcntl                    0.31  M/MA/MAKOTO/IO-File-Lockable-0.34.tar.gz
 IO::File::flock                    0.31  M/MA/MAKOTO/IO-File-Lockable-0.34.tar.gz
 IO::File::Lockable                 0.34  M/MA/MAKOTO/IO-File-Lockable-0.34.tar.gz
