@@ -572,6 +572,7 @@ Net::SSH::Perl::Util::Term,DBROBINS,c
 Net::SSH::Perl::Util::Term,TURNSTEP,f
 Net::SSH::Perl::WithSocks,BDFOY,c
 Net::SSH::Perl::WithSocks,RKINYON,f
+Net::SSH::Tunnel,SYAGI,f
 Net::SSH::W32Perl,SCOTTS,f
 Net::SSH::W32Perl::SSH2,SCOTTS,f
 Net::SSL,BDFOY,c
