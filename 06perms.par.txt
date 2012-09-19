@@ -273,6 +273,7 @@ Parrot::Revision::Utils,PARTICLE,c
 Parrot::Revision::Utils,PMIC,c
 Parrot::Revision::Utils,SMASH,c
 Parrot::SHA1,MSTROUT,f
+Parrot::SHA1,PHAYLON,c
 Parrot::SearchOps,ARANDAL,c
 Parrot::SearchOps,BSCHMAL,c
 Parrot::SearchOps,PARROTRE,f
@@ -409,7 +410,9 @@ Parrot::Test::Perl6,PMIC,c
 Parrot::Test::Perl6,RGRJR,c
 Parrot::Test::Perl6,SMASH,c
 Parrot::Test::Pod,MSTROUT,f
+Parrot::Test::Pod,PHAYLON,c
 Parrot::Test::Pod::Utils,MSTROUT,f
+Parrot::Test::Pod::Utils,PHAYLON,c
 Parrot::Test::Punie,ARANDAL,c
 Parrot::Test::Punie,BSCHMAL,c
 Parrot::Test::Punie,CHROMATIC,c
@@ -455,6 +458,7 @@ Parrot::Test::Tcl,PMIC,c
 Parrot::Test::Tcl,RGRJR,c
 Parrot::Test::Tcl,SMASH,c
 Parrot::Test::Util,MSTROUT,f
+Parrot::Test::Util,PHAYLON,c
 Parrot::Test::Util::Runloop,ARANDAL,c
 Parrot::Test::Util::Runloop,BSCHMAL,c
 Parrot::Test::Util::Runloop,CHROMATIC,c

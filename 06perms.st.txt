@@ -471,6 +471,7 @@ Sub::Defer,ILMARI,c
 Sub::Defer,JJNAPIORK,c
 Sub::Defer,MITHALDU,c
 Sub::Defer,MSTROUT,f
+Sub::Defer,PHAYLON,c
 Sub::Defer,RIBASUSHI,c
 Sub::Defer,SSCAFFIDI,c
 Sub::Defer,WSHELDAHL,c
@@ -562,6 +563,7 @@ Sub::Quote,ILMARI,c
 Sub::Quote,JJNAPIORK,c
 Sub::Quote,MITHALDU,c
 Sub::Quote,MSTROUT,f
+Sub::Quote,PHAYLON,c
 Sub::Quote,RIBASUSHI,c
 Sub::Quote,SSCAFFIDI,c
 Sub::Quote,WSHELDAHL,c

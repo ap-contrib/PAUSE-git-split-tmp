@@ -40,6 +40,7 @@ Catalyst::View::HTML::Template,JJNAPIORK,c
 Catalyst::View::HTML::Template,MITHALDU,c
 Catalyst::View::HTML::Template,MRAMBERG,c
 Catalyst::View::HTML::Template,MSTROUT,f
+Catalyst::View::HTML::Template,PHAYLON,c
 Catalyst::View::HTML::Template,RIBASUSHI,c
 Catalyst::View::HTML::Template,SRI,c
 Catalyst::View::HTML::Template,SSCAFFIDI,c
@@ -77,6 +78,7 @@ Catalyst::View::Mason,JROCKWAY,c
 Catalyst::View::Mason,MITHALDU,c
 Catalyst::View::Mason,MRAMBERG,c
 Catalyst::View::Mason,MSTROUT,f
+Catalyst::View::Mason,PHAYLON,c
 Catalyst::View::Mason,RIBASUSHI,c
 Catalyst::View::Mason,SSCAFFIDI,c
 Catalyst::View::Mason,WSHELDAHL,c
@@ -110,6 +112,7 @@ Catalyst::View::PSP,JROCKWAY,c
 Catalyst::View::PSP,MITHALDU,c
 Catalyst::View::PSP,MRAMBERG,c
 Catalyst::View::PSP,MSTROUT,f
+Catalyst::View::PSP,PHAYLON,c
 Catalyst::View::PSP,RIBASUSHI,c
 Catalyst::View::PSP,SRI,c
 Catalyst::View::PSP,SSCAFFIDI,c
@@ -129,6 +132,7 @@ Catalyst::View::Petal,JJNAPIORK,c
 Catalyst::View::Petal,MITHALDU,c
 Catalyst::View::Petal,MRAMBERG,c
 Catalyst::View::Petal,MSTROUT,f
+Catalyst::View::Petal,PHAYLON,c
 Catalyst::View::Petal,RIBASUSHI,c
 Catalyst::View::Petal,SRI,c
 Catalyst::View::Petal,SSCAFFIDI,c
@@ -150,6 +154,7 @@ Catalyst::View::REST::XML,KRAIH,c
 Catalyst::View::REST::XML,MITHALDU,c
 Catalyst::View::REST::XML,MRAMBERG,c
 Catalyst::View::REST::XML,MSTROUT,f
+Catalyst::View::REST::XML,PHAYLON,c
 Catalyst::View::REST::XML,RIBASUSHI,c
 Catalyst::View::REST::XML,SRI,c
 Catalyst::View::REST::XML,SSCAFFIDI,c
@@ -169,6 +174,7 @@ Catalyst::View::REST::YAML,KRAIH,c
 Catalyst::View::REST::YAML,MITHALDU,c
 Catalyst::View::REST::YAML,MRAMBERG,c
 Catalyst::View::REST::YAML,MSTROUT,f
+Catalyst::View::REST::YAML,PHAYLON,c
 Catalyst::View::REST::YAML,RIBASUSHI,c
 Catalyst::View::REST::YAML,SRI,c
 Catalyst::View::REST::YAML,SSCAFFIDI,c
@@ -199,6 +205,7 @@ Catalyst::View::TT,LSAUNDERS,c
 Catalyst::View::TT,MITHALDU,c
 Catalyst::View::TT,MRAMBERG,c
 Catalyst::View::TT,MSTROUT,m
+Catalyst::View::TT,PHAYLON,c
 Catalyst::View::TT,RIBASUSHI,c
 Catalyst::View::TT,SRI,c
 Catalyst::View::TT,SSCAFFIDI,c

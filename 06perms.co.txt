@@ -96,6 +96,7 @@ Config::Loader,JJNAPIORK,c
 Config::Loader,LSAUNDERS,c
 Config::Loader,MITHALDU,c
 Config::Loader,MSTROUT,f
+Config::Loader,PHAYLON,c
 Config::Loader,RIBASUSHI,c
 Config::Loader,RKINYON,c
 Config::Loader,SSCAFFIDI,c
@@ -117,6 +118,7 @@ Config::Loader::Perl,JJNAPIORK,c
 Config::Loader::Perl,LSAUNDERS,c
 Config::Loader::Perl,MITHALDU,c
 Config::Loader::Perl,MSTROUT,f
+Config::Loader::Perl,PHAYLON,c
 Config::Loader::Perl,RIBASUSHI,c
 Config::Loader::Perl,RKINYON,c
 Config::Loader::Perl,SSCAFFIDI,c

@@ -607,6 +607,7 @@ Perl::Critic::Policy::CodeLayout::RequireUseUTF8,ELLIOTJS,f
 Perl::Critic::Policy::CodeLayout::TabIndentSpaceAlign,AUBERTG,f
 Perl::Critic::Policy::CodeLayout::UseParrotCoda,CHIPS,c
 Perl::Critic::Policy::CodeLayout::UseParrotCoda,MSTROUT,f
+Perl::Critic::Policy::CodeLayout::UseParrotCoda,PHAYLON,c
 Perl::Critic::Policy::CodeLayout::inprogressProhibitFatCommaAfterNewline,KRYDE,f
 Perl::Critic::Policy::Compatibility::ConstantLeadingUnderscore,KRYDE,f
 Perl::Critic::Policy::Compatibility::ConstantPragmaHash,KRYDE,f

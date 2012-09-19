@@ -693,6 +693,7 @@ SQL::Abstract,JJNAPIORK,c
 SQL::Abstract,MITHALDU,c
 SQL::Abstract,MSTROUT,m
 SQL::Abstract,NWIGER,c
+SQL::Abstract,PHAYLON,c
 SQL::Abstract,RIBASUSHI,c
 SQL::Abstract,RKINYON,c
 SQL::Abstract,SSCAFFIDI,c
@@ -729,6 +730,7 @@ SQL::Abstract::Test,ILMARI,c
 SQL::Abstract::Test,JJNAPIORK,c
 SQL::Abstract::Test,MITHALDU,c
 SQL::Abstract::Test,MSTROUT,f
+SQL::Abstract::Test,PHAYLON,c
 SQL::Abstract::Test,RIBASUSHI,c
 SQL::Abstract::Test,RKINYON,c
 SQL::Abstract::Test,SSCAFFIDI,c
@@ -745,6 +747,7 @@ SQL::Abstract::Tree,ILMARI,c
 SQL::Abstract::Tree,JJNAPIORK,c
 SQL::Abstract::Tree,MITHALDU,c
 SQL::Abstract::Tree,MSTROUT,f
+SQL::Abstract::Tree,PHAYLON,c
 SQL::Abstract::Tree,RIBASUSHI,c
 SQL::Abstract::Tree,SSCAFFIDI,c
 SQL::Abstract::Tree,WSHELDAHL,c

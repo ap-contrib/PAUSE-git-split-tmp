@@ -129,6 +129,7 @@ Data::Store,ILMARI,c
 Data::Store,JJNAPIORK,c
 Data::Store,MITHALDU,c
 Data::Store,MSTROUT,f
+Data::Store,PHAYLON,c
 Data::Store,RIBASUSHI,c
 Data::Store,RKINYON,c
 Data::Store,SSCAFFIDI,c
@@ -147,6 +148,7 @@ Data::Stream,ILMARI,c
 Data::Stream,JJNAPIORK,c
 Data::Stream,MITHALDU,c
 Data::Stream,MSTROUT,f
+Data::Stream,PHAYLON,c
 Data::Stream,RIBASUSHI,c
 Data::Stream,RKINYON,c
 Data::Stream,SSCAFFIDI,c

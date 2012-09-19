@@ -598,6 +598,7 @@ gen::icu,PARROTRE,c
 gen::makefiles,LTOETSCH,f
 gen::makefiles,PARROTRE,c
 gen::opengl,MSTROUT,f
+gen::opengl,PHAYLON,c
 gen::parrot_include,LTOETSCH,f
 gen::parrot_include,PARROTRE,c
 gen::platform,LTOETSCH,f

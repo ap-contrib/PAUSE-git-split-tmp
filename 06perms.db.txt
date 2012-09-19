@@ -179,6 +179,7 @@ DBIx::Class::Journal::EvalWrap,ILMARI,c
 DBIx::Class::Journal::EvalWrap,JJNAPIORK,c
 DBIx::Class::Journal::EvalWrap,MITHALDU,c
 DBIx::Class::Journal::EvalWrap,MSTROUT,f
+DBIx::Class::Journal::EvalWrap,PHAYLON,c
 DBIx::Class::Journal::EvalWrap,RIBASUSHI,c
 DBIx::Class::Journal::EvalWrap,SSCAFFIDI,c
 DBIx::Class::Journal::EvalWrap,WSHELDAHL,c

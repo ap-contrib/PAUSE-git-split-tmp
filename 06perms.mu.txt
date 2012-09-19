@@ -370,6 +370,7 @@ MyDatabase::Main,ILMARI,c
 MyDatabase::Main,JJNAPIORK,c
 MyDatabase::Main,MITHALDU,c
 MyDatabase::Main,MSTROUT,f
+MyDatabase::Main,PHAYLON,c
 MyDatabase::Main,RIBASUSHI,c
 MyDatabase::Main,SSCAFFIDI,c
 MyDatabase::Main,WSHELDAHL,c
@@ -386,6 +387,7 @@ MyDatabase::Main::Result::Artist,ILMARI,c
 MyDatabase::Main::Result::Artist,JJNAPIORK,c
 MyDatabase::Main::Result::Artist,MITHALDU,c
 MyDatabase::Main::Result::Artist,MSTROUT,f
+MyDatabase::Main::Result::Artist,PHAYLON,c
 MyDatabase::Main::Result::Artist,RIBASUSHI,c
 MyDatabase::Main::Result::Artist,SSCAFFIDI,c
 MyDatabase::Main::Result::Artist,WSHELDAHL,c
@@ -402,6 +404,7 @@ MyDatabase::Main::Result::Cd,ILMARI,c
 MyDatabase::Main::Result::Cd,JJNAPIORK,c
 MyDatabase::Main::Result::Cd,MITHALDU,c
 MyDatabase::Main::Result::Cd,MSTROUT,f
+MyDatabase::Main::Result::Cd,PHAYLON,c
 MyDatabase::Main::Result::Cd,RIBASUSHI,c
 MyDatabase::Main::Result::Cd,SSCAFFIDI,c
 MyDatabase::Main::Result::Cd,WSHELDAHL,c
@@ -418,6 +421,7 @@ MyDatabase::Main::Result::Track,ILMARI,c
 MyDatabase::Main::Result::Track,JJNAPIORK,c
 MyDatabase::Main::Result::Track,MITHALDU,c
 MyDatabase::Main::Result::Track,MSTROUT,f
+MyDatabase::Main::Result::Track,PHAYLON,c
 MyDatabase::Main::Result::Track,RIBASUSHI,c
 MyDatabase::Main::Result::Track,SSCAFFIDI,c
 MyDatabase::Main::Result::Track,WSHELDAHL,c
@@ -685,6 +689,7 @@ MyTest::HasAttrs,JJNAPIORK,c
 MyTest::HasAttrs,LSAUNDERS,c
 MyTest::HasAttrs,MITHALDU,c
 MyTest::HasAttrs,MSTROUT,f
+MyTest::HasAttrs,PHAYLON,c
 MyTest::HasAttrs,RIBASUSHI,c
 MyTest::HasAttrs,RKINYON,c
 MyTest::HasAttrs,SSCAFFIDI,c
@@ -705,6 +710,7 @@ MyTest::MultiChild,JJNAPIORK,c
 MyTest::MultiChild,LSAUNDERS,c
 MyTest::MultiChild,MITHALDU,c
 MyTest::MultiChild,MSTROUT,f
+MyTest::MultiChild,PHAYLON,c
 MyTest::MultiChild,RIBASUSHI,c
 MyTest::MultiChild,RKINYON,c
 MyTest::MultiChild,SSCAFFIDI,c
@@ -740,6 +746,7 @@ MyTest::SingleChild,JJNAPIORK,c
 MyTest::SingleChild,LSAUNDERS,c
 MyTest::SingleChild,MITHALDU,c
 MyTest::SingleChild,MSTROUT,f
+MyTest::SingleChild,PHAYLON,c
 MyTest::SingleChild,RIBASUSHI,c
 MyTest::SingleChild,RKINYON,c
 MyTest::SingleChild,SSCAFFIDI,c
@@ -760,6 +767,7 @@ MyTest::SuperAttrs,JJNAPIORK,c
 MyTest::SuperAttrs,LSAUNDERS,c
 MyTest::SuperAttrs,MITHALDU,c
 MyTest::SuperAttrs,MSTROUT,f
+MyTest::SuperAttrs,PHAYLON,c
 MyTest::SuperAttrs,RIBASUSHI,c
 MyTest::SuperAttrs,RKINYON,c
 MyTest::SuperAttrs,SSCAFFIDI,c
@@ -780,6 +788,7 @@ MyTest::TopNode,JJNAPIORK,c
 MyTest::TopNode,LSAUNDERS,c
 MyTest::TopNode,MITHALDU,c
 MyTest::TopNode,MSTROUT,f
+MyTest::TopNode,PHAYLON,c
 MyTest::TopNode,RIBASUSHI,c
 MyTest::TopNode,RKINYON,c
 MyTest::TopNode,SSCAFFIDI,c
@@ -1147,6 +1156,7 @@ NOTEDB::pwsafe3,TLINDEN,f
 NOTEDB::text,TLINDEN,f
 NPRG,IFROL,f
 NQP::Configure,MSTROUT,f
+NQP::Configure,PHAYLON,c
 NRD::Client,JLMARTIN,f
 NRD::Daemon,JLMARTIN,f
 NRD::Packet,JLMARTIN,f

@@ -931,6 +931,7 @@ Class::XML,LSAUNDERS,c
 Class::XML,MITHALDU,c
 Class::XML,MSTROUT,f
 Class::XML,PERIGRIN,c
+Class::XML,PHAYLON,c
 Class::XML,RIBASUSHI,c
 Class::XML,RKINYON,c
 Class::XML,SSCAFFIDI,c
@@ -952,6 +953,7 @@ Class::XML::DummyLayer,LSAUNDERS,c
 Class::XML::DummyLayer,MITHALDU,c
 Class::XML::DummyLayer,MSTROUT,f
 Class::XML::DummyLayer,PERIGRIN,c
+Class::XML::DummyLayer,PHAYLON,c
 Class::XML::DummyLayer,RIBASUSHI,c
 Class::XML::DummyLayer,RKINYON,c
 Class::XML::DummyLayer,SSCAFFIDI,c

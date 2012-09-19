@@ -10,6 +10,7 @@ routine,CHIPS,f
 rowcol_plate_file,CJONES,f
 rubyisms,PETDANCE,f
 samples,MSTROUT,f
+samples,PHAYLON,c
 samples::site::EditControlRule,AWKAY,f
 samples::site::MyPermissionFactory,AWKAY,f
 samples::site::StringUserFactory,AWKAY,f
@@ -143,6 +144,7 @@ ss,KARASIK,f
 start,ILMARI,c
 start,MITHALDU,c
 start,MSTROUT,f
+start,PHAYLON,c
 startPage,DRUOSO,f
 stash,FWILES,c
 stash,PHILCROW,c
@@ -182,6 +184,7 @@ strictures,ILMARI,c
 strictures,JJNAPIORK,c
 strictures,MITHALDU,c
 strictures,MSTROUT,f
+strictures,PHAYLON,c
 strictures,RIBASUSHI,c
 strictures,SSCAFFIDI,c
 strictures,WSHELDAHL,c
@@ -458,6 +461,7 @@ thanks,TOBYINK,f
 the,INGY,f
 theme,SFLEX,f
 then,MSTROUT,f
+then,PHAYLON,c
 thermometer,LARSLUND,f
 threads,ABERGMAN,f
 threads,JDHEDDEN,c

@@ -351,6 +351,7 @@ App::Tak,ILMARI,c
 App::Tak,JJNAPIORK,c
 App::Tak,MITHALDU,c
 App::Tak,MSTROUT,f
+App::Tak,PHAYLON,c
 App::Tak,WSHELDAHL,c
 App::TarColor,MSABRAMO,m
 App::TaskBuilder,HDP,f

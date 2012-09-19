@@ -26,6 +26,7 @@ Eval::WithLexicals,ILMARI,c
 Eval::WithLexicals,JJNAPIORK,c
 Eval::WithLexicals,MITHALDU,c
 Eval::WithLexicals,MSTROUT,f
+Eval::WithLexicals,PHAYLON,c
 Eval::WithLexicals,RIBASUSHI,c
 Eval::WithLexicals,WSHELDAHL,c
 Eval::WithLexicals::Util,APEIRON,c
@@ -38,6 +39,7 @@ Eval::WithLexicals::Util,ILMARI,c
 Eval::WithLexicals::Util,JJNAPIORK,c
 Eval::WithLexicals::Util,MITHALDU,c
 Eval::WithLexicals::Util,MSTROUT,f
+Eval::WithLexicals::Util,PHAYLON,c
 Eval::WithLexicals::Util,RIBASUSHI,c
 Eval::WithLexicals::Util,WSHELDAHL,c
 Eval::WithLexicals::VarScope,APEIRON,c
@@ -50,6 +52,7 @@ Eval::WithLexicals::VarScope,ILMARI,c
 Eval::WithLexicals::VarScope,JJNAPIORK,c
 Eval::WithLexicals::VarScope,MITHALDU,c
 Eval::WithLexicals::VarScope,MSTROUT,f
+Eval::WithLexicals::VarScope,PHAYLON,c
 Eval::WithLexicals::VarScope,RIBASUSHI,c
 Eval::WithLexicals::VarScope,WSHELDAHL,c
 Eval::WithLexicals::WithHintPersistence,DGL,f
@@ -210,14 +213,17 @@ ExampleMooRoleWithAttribute,APEIRON,c
 ExampleMooRoleWithAttribute,ILMARI,c
 ExampleMooRoleWithAttribute,MITHALDU,c
 ExampleMooRoleWithAttribute,MSTROUT,f
+ExampleMooRoleWithAttribute,PHAYLON,c
 ExampleMooseRoleOne,APEIRON,c
 ExampleMooseRoleOne,ILMARI,c
 ExampleMooseRoleOne,MITHALDU,c
 ExampleMooseRoleOne,MSTROUT,f
+ExampleMooseRoleOne,PHAYLON,c
 ExampleMooseRoleTwo,APEIRON,c
 ExampleMooseRoleTwo,ILMARI,c
 ExampleMooseRoleTwo,MITHALDU,c
 ExampleMooseRoleTwo,MSTROUT,f
+ExampleMooseRoleTwo,PHAYLON,c
 ExampleObject,RCAPUTO,f
 ExampleProject,LUSHE,f
 ExampleProject::D,LUSHE,f

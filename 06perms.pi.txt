@@ -345,6 +345,7 @@ Plack::Middleware::Dispatch,ILMARI,c
 Plack::Middleware::Dispatch,JJNAPIORK,c
 Plack::Middleware::Dispatch,MITHALDU,c
 Plack::Middleware::Dispatch,MSTROUT,f
+Plack::Middleware::Dispatch,PHAYLON,c
 Plack::Middleware::Dispatch,RIBASUSHI,c
 Plack::Middleware::Dispatch,WSHELDAHL,c
 Plack::Middleware::DoCoMoGUID,YOSHIMI,f

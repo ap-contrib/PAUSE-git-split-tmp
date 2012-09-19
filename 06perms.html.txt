@@ -751,6 +751,7 @@ HTML::Zoom,ILMARI,c
 HTML::Zoom,JJNAPIORK,c
 HTML::Zoom,MITHALDU,c
 HTML::Zoom,MSTROUT,f
+HTML::Zoom,PHAYLON,c
 HTML::Zoom,RIBASUSHI,c
 HTML::Zoom,SSCAFFIDI,c
 HTML::Zoom,WSHELDAHL,c
@@ -764,6 +765,7 @@ HTML::Zoom::ArrayStream,ILMARI,c
 HTML::Zoom::ArrayStream,JJNAPIORK,c
 HTML::Zoom::ArrayStream,MITHALDU,c
 HTML::Zoom::ArrayStream,MSTROUT,f
+HTML::Zoom::ArrayStream,PHAYLON,c
 HTML::Zoom::ArrayStream,RIBASUSHI,c
 HTML::Zoom::ArrayStream,SSCAFFIDI,c
 HTML::Zoom::ArrayStream,WSHELDAHL,c
@@ -780,6 +782,7 @@ HTML::Zoom::CodeStream,ILMARI,c
 HTML::Zoom::CodeStream,JJNAPIORK,c
 HTML::Zoom::CodeStream,MITHALDU,c
 HTML::Zoom::CodeStream,MSTROUT,f
+HTML::Zoom::CodeStream,PHAYLON,c
 HTML::Zoom::CodeStream,RIBASUSHI,c
 HTML::Zoom::CodeStream,SSCAFFIDI,c
 HTML::Zoom::CodeStream,WSHELDAHL,c
@@ -796,6 +799,7 @@ HTML::Zoom::FilterBuilder,ILMARI,c
 HTML::Zoom::FilterBuilder,JJNAPIORK,c
 HTML::Zoom::FilterBuilder,MITHALDU,c
 HTML::Zoom::FilterBuilder,MSTROUT,f
+HTML::Zoom::FilterBuilder,PHAYLON,c
 HTML::Zoom::FilterBuilder,RIBASUSHI,c
 HTML::Zoom::FilterBuilder,SSCAFFIDI,c
 HTML::Zoom::FilterBuilder,WSHELDAHL,c
@@ -812,6 +816,7 @@ HTML::Zoom::FilterStream,ILMARI,c
 HTML::Zoom::FilterStream,JJNAPIORK,c
 HTML::Zoom::FilterStream,MITHALDU,c
 HTML::Zoom::FilterStream,MSTROUT,f
+HTML::Zoom::FilterStream,PHAYLON,c
 HTML::Zoom::FilterStream,RIBASUSHI,c
 HTML::Zoom::FilterStream,SSCAFFIDI,c
 HTML::Zoom::FilterStream,WSHELDAHL,c
@@ -825,6 +830,7 @@ HTML::Zoom::FlattenedStream,ILMARI,c
 HTML::Zoom::FlattenedStream,JJNAPIORK,c
 HTML::Zoom::FlattenedStream,MITHALDU,c
 HTML::Zoom::FlattenedStream,MSTROUT,f
+HTML::Zoom::FlattenedStream,PHAYLON,c
 HTML::Zoom::FlattenedStream,RIBASUSHI,c
 HTML::Zoom::FlattenedStream,SSCAFFIDI,c
 HTML::Zoom::FlattenedStream,WSHELDAHL,c
@@ -838,6 +844,7 @@ HTML::Zoom::MappedStream,ILMARI,c
 HTML::Zoom::MappedStream,JJNAPIORK,c
 HTML::Zoom::MappedStream,MITHALDU,c
 HTML::Zoom::MappedStream,MSTROUT,f
+HTML::Zoom::MappedStream,PHAYLON,c
 HTML::Zoom::MappedStream,RIBASUSHI,c
 HTML::Zoom::MappedStream,SSCAFFIDI,c
 HTML::Zoom::MappedStream,WSHELDAHL,c
@@ -854,6 +861,7 @@ HTML::Zoom::MatchWithoutFilter,ILMARI,c
 HTML::Zoom::MatchWithoutFilter,JJNAPIORK,c
 HTML::Zoom::MatchWithoutFilter,MITHALDU,c
 HTML::Zoom::MatchWithoutFilter,MSTROUT,f
+HTML::Zoom::MatchWithoutFilter,PHAYLON,c
 HTML::Zoom::MatchWithoutFilter,RIBASUSHI,c
 HTML::Zoom::MatchWithoutFilter,SSCAFFIDI,c
 HTML::Zoom::MatchWithoutFilter,WSHELDAHL,c
@@ -867,6 +875,7 @@ HTML::Zoom::MaybeDebug,ILMARI,c
 HTML::Zoom::MaybeDebug,JJNAPIORK,c
 HTML::Zoom::MaybeDebug,MITHALDU,c
 HTML::Zoom::MaybeDebug,MSTROUT,f
+HTML::Zoom::MaybeDebug,PHAYLON,c
 HTML::Zoom::MaybeDebug,RIBASUSHI,c
 HTML::Zoom::MaybeDebug,SSCAFFIDI,c
 HTML::Zoom::MaybeDebug,WSHELDAHL,c
@@ -883,6 +892,7 @@ HTML::Zoom::Parser::BuiltIn,ILMARI,c
 HTML::Zoom::Parser::BuiltIn,JJNAPIORK,c
 HTML::Zoom::Parser::BuiltIn,MITHALDU,c
 HTML::Zoom::Parser::BuiltIn,MSTROUT,f
+HTML::Zoom::Parser::BuiltIn,PHAYLON,c
 HTML::Zoom::Parser::BuiltIn,RIBASUSHI,c
 HTML::Zoom::Parser::BuiltIn,SSCAFFIDI,c
 HTML::Zoom::Parser::BuiltIn,WSHELDAHL,c
@@ -900,6 +910,7 @@ HTML::Zoom::Producer::BuiltIn,ILMARI,c
 HTML::Zoom::Producer::BuiltIn,JJNAPIORK,c
 HTML::Zoom::Producer::BuiltIn,MITHALDU,c
 HTML::Zoom::Producer::BuiltIn,MSTROUT,f
+HTML::Zoom::Producer::BuiltIn,PHAYLON,c
 HTML::Zoom::Producer::BuiltIn,RIBASUSHI,c
 HTML::Zoom::Producer::BuiltIn,SSCAFFIDI,c
 HTML::Zoom::Producer::BuiltIn,WSHELDAHL,c
@@ -916,6 +927,7 @@ HTML::Zoom::ReadFH,ILMARI,c
 HTML::Zoom::ReadFH,JJNAPIORK,c
 HTML::Zoom::ReadFH,MITHALDU,c
 HTML::Zoom::ReadFH,MSTROUT,f
+HTML::Zoom::ReadFH,PHAYLON,c
 HTML::Zoom::ReadFH,RIBASUSHI,c
 HTML::Zoom::ReadFH,SSCAFFIDI,c
 HTML::Zoom::ReadFH,WSHELDAHL,c
@@ -932,6 +944,7 @@ HTML::Zoom::SelectorParser,ILMARI,c
 HTML::Zoom::SelectorParser,JJNAPIORK,c
 HTML::Zoom::SelectorParser,MITHALDU,c
 HTML::Zoom::SelectorParser,MSTROUT,f
+HTML::Zoom::SelectorParser,PHAYLON,c
 HTML::Zoom::SelectorParser,RIBASUSHI,c
 HTML::Zoom::SelectorParser,SSCAFFIDI,c
 HTML::Zoom::SelectorParser,WSHELDAHL,c
@@ -948,6 +961,7 @@ HTML::Zoom::StreamBase,ILMARI,c
 HTML::Zoom::StreamBase,JJNAPIORK,c
 HTML::Zoom::StreamBase,MITHALDU,c
 HTML::Zoom::StreamBase,MSTROUT,f
+HTML::Zoom::StreamBase,PHAYLON,c
 HTML::Zoom::StreamBase,RIBASUSHI,c
 HTML::Zoom::StreamBase,SSCAFFIDI,c
 HTML::Zoom::StreamBase,WSHELDAHL,c
@@ -964,6 +978,7 @@ HTML::Zoom::StreamUtils,ILMARI,c
 HTML::Zoom::StreamUtils,JJNAPIORK,c
 HTML::Zoom::StreamUtils,MITHALDU,c
 HTML::Zoom::StreamUtils,MSTROUT,f
+HTML::Zoom::StreamUtils,PHAYLON,c
 HTML::Zoom::StreamUtils,RIBASUSHI,c
 HTML::Zoom::StreamUtils,SSCAFFIDI,c
 HTML::Zoom::StreamUtils,WSHELDAHL,c
@@ -980,6 +995,7 @@ HTML::Zoom::SubObject,ILMARI,c
 HTML::Zoom::SubObject,JJNAPIORK,c
 HTML::Zoom::SubObject,MITHALDU,c
 HTML::Zoom::SubObject,MSTROUT,f
+HTML::Zoom::SubObject,PHAYLON,c
 HTML::Zoom::SubObject,RIBASUSHI,c
 HTML::Zoom::SubObject,SSCAFFIDI,c
 HTML::Zoom::SubObject,WSHELDAHL,c
@@ -993,6 +1009,7 @@ HTML::Zoom::Transform,ILMARI,c
 HTML::Zoom::Transform,JJNAPIORK,c
 HTML::Zoom::Transform,MITHALDU,c
 HTML::Zoom::Transform,MSTROUT,f
+HTML::Zoom::Transform,PHAYLON,c
 HTML::Zoom::Transform,RIBASUSHI,c
 HTML::Zoom::Transform,SSCAFFIDI,c
 HTML::Zoom::Transform,WSHELDAHL,c
@@ -1006,6 +1023,7 @@ HTML::Zoom::TransformBuilder,ILMARI,c
 HTML::Zoom::TransformBuilder,JJNAPIORK,c
 HTML::Zoom::TransformBuilder,MITHALDU,c
 HTML::Zoom::TransformBuilder,MSTROUT,f
+HTML::Zoom::TransformBuilder,PHAYLON,c
 HTML::Zoom::TransformBuilder,RIBASUSHI,c
 HTML::Zoom::TransformBuilder,SSCAFFIDI,c
 HTML::Zoom::TransformBuilder,WSHELDAHL,c
@@ -1019,6 +1037,7 @@ HTML::Zoom::TransformedStream,ILMARI,c
 HTML::Zoom::TransformedStream,JJNAPIORK,c
 HTML::Zoom::TransformedStream,MITHALDU,c
 HTML::Zoom::TransformedStream,MSTROUT,f
+HTML::Zoom::TransformedStream,PHAYLON,c
 HTML::Zoom::TransformedStream,RIBASUSHI,c
 HTML::Zoom::TransformedStream,SSCAFFIDI,c
 HTML::Zoom::TransformedStream,WSHELDAHL,c
@@ -1035,6 +1054,7 @@ HTML::Zoom::ZConfig,ILMARI,c
 HTML::Zoom::ZConfig,JJNAPIORK,c
 HTML::Zoom::ZConfig,MITHALDU,c
 HTML::Zoom::ZConfig,MSTROUT,f
+HTML::Zoom::ZConfig,PHAYLON,c
 HTML::Zoom::ZConfig,RIBASUSHI,c
 HTML::Zoom::ZConfig,SSCAFFIDI,c
 HTML::Zoom::ZConfig,WSHELDAHL,c

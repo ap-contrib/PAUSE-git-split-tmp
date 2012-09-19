@@ -588,6 +588,7 @@ Class::MethodFilter,JJNAPIORK,c
 Class::MethodFilter,LSAUNDERS,c
 Class::MethodFilter,MITHALDU,c
 Class::MethodFilter,MSTROUT,m
+Class::MethodFilter,PHAYLON,c
 Class::MethodFilter,RIBASUSHI,c
 Class::MethodFilter,RKINYON,c
 Class::MethodFilter,SSCAFFIDI,c

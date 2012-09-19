@@ -627,6 +627,7 @@ Test::WWW::Mechanize::Catalyst,LBROCARD,c
 Test::WWW::Mechanize::Catalyst,MATTP,c
 Test::WWW::Mechanize::Catalyst,MITHALDU,c
 Test::WWW::Mechanize::Catalyst,MSTROUT,f
+Test::WWW::Mechanize::Catalyst,PHAYLON,c
 Test::WWW::Mechanize::Catalyst,RIBASUSHI,c
 Test::WWW::Mechanize::Catalyst,RKINYON,c
 Test::WWW::Mechanize::Catalyst,SSCAFFIDI,c
@@ -648,6 +649,7 @@ Test::WWW::Mechanize::Catalyst::Aux,LBROCARD,c
 Test::WWW::Mechanize::Catalyst::Aux,MATTP,c
 Test::WWW::Mechanize::Catalyst::Aux,MITHALDU,c
 Test::WWW::Mechanize::Catalyst::Aux,MSTROUT,f
+Test::WWW::Mechanize::Catalyst::Aux,PHAYLON,c
 Test::WWW::Mechanize::Catalyst::Aux,RIBASUSHI,c
 Test::WWW::Mechanize::Catalyst::Aux,RKINYON,c
 Test::WWW::Mechanize::Catalyst::Aux,SSCAFFIDI,c
@@ -909,6 +911,7 @@ TestBed6,DCONWAY,f
 TestBridge,ILMARI,c
 TestBridge,MITHALDU,c
 TestBridge,MSTROUT,f
+TestBridge,PHAYLON,c
 TestBusted1,BWARFIELD,f
 TestBusted2,BWARFIELD,f
 TestC,DNEIL,f
@@ -926,6 +929,7 @@ TestChunks,NUFFIN,c
 TestClass,ILMARI,c
 TestClass,MITHALDU,c
 TestClass,MSTROUT,f
+TestClass,PHAYLON,c
 TestCompiler,SFINK,f
 TestConfig,TBONE,f
 TestConstants,BIGJ,f
@@ -935,6 +939,7 @@ TestFile,CHIPS,f
 TestFindUser,ILMARI,c
 TestFindUser,MITHALDU,c
 TestFindUser,MSTROUT,f
+TestFindUser,PHAYLON,c
 TestFramework,JDB,f
 TestFuncs,CJM,f
 TestGen4Web::Runner,MACKERS,f

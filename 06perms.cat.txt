@@ -23,6 +23,7 @@ Catalyst::Plugin::FillInForm,JJNAPIORK,c
 Catalyst::Plugin::FillInForm,MITHALDU,c
 Catalyst::Plugin::FillInForm,MRAMBERG,c
 Catalyst::Plugin::FillInForm,MSTROUT,f
+Catalyst::Plugin::FillInForm,PHAYLON,c
 Catalyst::Plugin::FillInForm,RIBASUSHI,c
 Catalyst::Plugin::FillInForm,SRI,c
 Catalyst::Plugin::FillInForm,SSCAFFIDI,c
@@ -56,6 +57,7 @@ Catalyst::Plugin::FormValidator,JJNAPIORK,c
 Catalyst::Plugin::FormValidator,MITHALDU,c
 Catalyst::Plugin::FormValidator,MRAMBERG,c
 Catalyst::Plugin::FormValidator,MSTROUT,f
+Catalyst::Plugin::FormValidator,PHAYLON,c
 Catalyst::Plugin::FormValidator,RIBASUSHI,c
 Catalyst::Plugin::FormValidator,SRI,c
 Catalyst::Plugin::FormValidator,SSCAFFIDI,c
@@ -87,6 +89,7 @@ Catalyst::Plugin::Geography,JROCKWAY,c
 Catalyst::Plugin::Geography,MITHALDU,c
 Catalyst::Plugin::Geography,MRAMBERG,c
 Catalyst::Plugin::Geography,MSTROUT,f
+Catalyst::Plugin::Geography,PHAYLON,c
 Catalyst::Plugin::Geography,RIBASUSHI,c
 Catalyst::Plugin::Geography,SRI,c
 Catalyst::Plugin::Geography,SSCAFFIDI,c
@@ -108,6 +111,7 @@ Catalyst::Plugin::Geography::Implementation,JROCKWAY,c
 Catalyst::Plugin::Geography::Implementation,MITHALDU,c
 Catalyst::Plugin::Geography::Implementation,MRAMBERG,c
 Catalyst::Plugin::Geography::Implementation,MSTROUT,f
+Catalyst::Plugin::Geography::Implementation,PHAYLON,c
 Catalyst::Plugin::Geography::Implementation,RIBASUSHI,c
 Catalyst::Plugin::Geography::Implementation,SRI,c
 Catalyst::Plugin::Geography::Implementation,SSCAFFIDI,c
@@ -129,6 +133,7 @@ Catalyst::Plugin::HTML::Widget,KRAIH,c
 Catalyst::Plugin::HTML::Widget,MITHALDU,c
 Catalyst::Plugin::HTML::Widget,MRAMBERG,c
 Catalyst::Plugin::HTML::Widget,MSTROUT,f
+Catalyst::Plugin::HTML::Widget,PHAYLON,c
 Catalyst::Plugin::HTML::Widget,RIBASUSHI,c
 Catalyst::Plugin::HTML::Widget,SRI,c
 Catalyst::Plugin::HTML::Widget,SSCAFFIDI,c
@@ -160,6 +165,7 @@ Catalyst::Plugin::I18N,JJNAPIORK,c
 Catalyst::Plugin::I18N,MITHALDU,c
 Catalyst::Plugin::I18N,MRAMBERG,c
 Catalyst::Plugin::I18N,MSTROUT,f
+Catalyst::Plugin::I18N,PHAYLON,c
 Catalyst::Plugin::I18N,RIBASUSHI,c
 Catalyst::Plugin::I18N,SRI,c
 Catalyst::Plugin::I18N,SSCAFFIDI,c
@@ -261,6 +267,7 @@ Catalyst::Plugin::Observe,JROCKWAY,c
 Catalyst::Plugin::Observe,MITHALDU,c
 Catalyst::Plugin::Observe,MRAMBERG,c
 Catalyst::Plugin::Observe,MSTROUT,f
+Catalyst::Plugin::Observe,PHAYLON,c
 Catalyst::Plugin::Observe,RIBASUSHI,c
 Catalyst::Plugin::Observe,SRI,c
 Catalyst::Plugin::Observe,SSCAFFIDI,c
@@ -335,6 +342,7 @@ Catalyst::Plugin::Pluggable,KRAIH,c
 Catalyst::Plugin::Pluggable,MITHALDU,c
 Catalyst::Plugin::Pluggable,MRAMBERG,c
 Catalyst::Plugin::Pluggable,MSTROUT,f
+Catalyst::Plugin::Pluggable,PHAYLON,c
 Catalyst::Plugin::Pluggable,RIBASUSHI,c
 Catalyst::Plugin::Pluggable,SRI,c
 Catalyst::Plugin::Pluggable,SSCAFFIDI,c
@@ -355,6 +363,7 @@ Catalyst::Plugin::Prototype,JJNAPIORK,c
 Catalyst::Plugin::Prototype,MITHALDU,c
 Catalyst::Plugin::Prototype,MRAMBERG,c
 Catalyst::Plugin::Prototype,MSTROUT,f
+Catalyst::Plugin::Prototype,PHAYLON,c
 Catalyst::Plugin::Prototype,RIBASUSHI,c
 Catalyst::Plugin::Prototype,SRI,c
 Catalyst::Plugin::Prototype,SSCAFFIDI,c
@@ -486,6 +495,7 @@ Catalyst::Plugin::Session::DynamicExpiry,MITHALDU,c
 Catalyst::Plugin::Session::DynamicExpiry,MRAMBERG,c
 Catalyst::Plugin::Session::DynamicExpiry,MSTROUT,f
 Catalyst::Plugin::Session::DynamicExpiry,NUFFIN,c
+Catalyst::Plugin::Session::DynamicExpiry,PHAYLON,c
 Catalyst::Plugin::Session::DynamicExpiry,RIBASUSHI,c
 Catalyst::Plugin::Session::DynamicExpiry,SRI,c
 Catalyst::Plugin::Session::DynamicExpiry,SSCAFFIDI,c
@@ -505,6 +515,7 @@ Catalyst::Plugin::Session::FastMmap,JJNAPIORK,c
 Catalyst::Plugin::Session::FastMmap,MITHALDU,c
 Catalyst::Plugin::Session::FastMmap,MRAMBERG,c
 Catalyst::Plugin::Session::FastMmap,MSTROUT,f
+Catalyst::Plugin::Session::FastMmap,PHAYLON,c
 Catalyst::Plugin::Session::FastMmap,RIBASUSHI,c
 Catalyst::Plugin::Session::FastMmap,SRI,c
 Catalyst::Plugin::Session::FastMmap,SSCAFFIDI,c
@@ -747,6 +758,7 @@ Catalyst::Plugin::Session::Store::FastMmap,MITHALDU,c
 Catalyst::Plugin::Session::Store::FastMmap,MRAMBERG,c
 Catalyst::Plugin::Session::Store::FastMmap,MSTROUT,m
 Catalyst::Plugin::Session::Store::FastMmap,NUFFIN,c
+Catalyst::Plugin::Session::Store::FastMmap,PHAYLON,c
 Catalyst::Plugin::Session::Store::FastMmap,RIBASUSHI,c
 Catalyst::Plugin::Session::Store::FastMmap,SSCAFFIDI,c
 Catalyst::Plugin::Session::Store::FastMmap,WSHELDAHL,c
@@ -767,6 +779,7 @@ Catalyst::Plugin::Session::Store::File,MITHALDU,c
 Catalyst::Plugin::Session::Store::File,MRAMBERG,c
 Catalyst::Plugin::Session::Store::File,MSTROUT,f
 Catalyst::Plugin::Session::Store::File,NUFFIN,c
+Catalyst::Plugin::Session::Store::File,PHAYLON,c
 Catalyst::Plugin::Session::Store::File,RIBASUSHI,c
 Catalyst::Plugin::Session::Store::File,SRI,c
 Catalyst::Plugin::Session::Store::File,SSCAFFIDI,c
@@ -870,6 +883,7 @@ Catalyst::Plugin::Singleton,ILMARI,c
 Catalyst::Plugin::Singleton,JJNAPIORK,c
 Catalyst::Plugin::Singleton,MITHALDU,c
 Catalyst::Plugin::Singleton,MSTROUT,f
+Catalyst::Plugin::Singleton,PHAYLON,c
 Catalyst::Plugin::Singleton,RIBASUSHI,c
 Catalyst::Plugin::Singleton,SRI,c
 Catalyst::Plugin::Singleton,SSCAFFIDI,c
@@ -916,6 +930,7 @@ Catalyst::Plugin::Static,ILMARI,c
 Catalyst::Plugin::Static,JJNAPIORK,c
 Catalyst::Plugin::Static,MITHALDU,c
 Catalyst::Plugin::Static,MSTROUT,f
+Catalyst::Plugin::Static,PHAYLON,c
 Catalyst::Plugin::Static,RIBASUSHI,c
 Catalyst::Plugin::Static,SRI,c
 Catalyst::Plugin::Static,SSCAFFIDI,c

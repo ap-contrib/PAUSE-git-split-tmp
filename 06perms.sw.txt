@@ -536,6 +536,7 @@ Safe::Hole,TODDR,c
 Safe::Hole::User,SEYN,f
 Safe::Hole::User,TODDR,c
 Safe::Isa,MSTROUT,f
+Safe::Isa,PHAYLON,c
 Safe::Logs,LUISMUNOZ,f
 Safe::World,GMPASSOS,f
 Safe::World::Compartment,GMPASSOS,f

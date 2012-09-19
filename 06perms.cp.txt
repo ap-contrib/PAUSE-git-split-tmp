@@ -384,6 +384,7 @@ CSS::Declare,ILMARI,c
 CSS::Declare,JJNAPIORK,c
 CSS::Declare,MITHALDU,c
 CSS::Declare,MSTROUT,f
+CSS::Declare,PHAYLON,c
 CSS::Declare,RIBASUSHI,c
 CSS::Declare,SSCAFFIDI,c
 CSS::Declare,WSHELDAHL,c
@@ -400,6 +401,7 @@ CSS::Declare::Unex,ILMARI,c
 CSS::Declare::Unex,JJNAPIORK,c
 CSS::Declare::Unex,MITHALDU,c
 CSS::Declare::Unex,MSTROUT,f
+CSS::Declare::Unex,PHAYLON,c
 CSS::Declare::Unex,RIBASUSHI,c
 CSS::Declare::Unex,SSCAFFIDI,c
 CSS::Declare::Unex,WSHELDAHL,c

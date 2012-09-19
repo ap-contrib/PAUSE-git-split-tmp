@@ -19,6 +19,7 @@ Data::Query,ILMARI,c
 Data::Query,JJNAPIORK,c
 Data::Query,MITHALDU,c
 Data::Query,MSTROUT,f
+Data::Query,PHAYLON,c
 Data::Query,RIBASUSHI,c
 Data::Query,RKINYON,c
 Data::Query,SSCAFFIDI,c

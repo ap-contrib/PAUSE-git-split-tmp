@@ -54,7 +54,9 @@ Parrot::Docs::Section::Ops,PMIC,c
 Parrot::Docs::Section::Ops,RGRJR,c
 Parrot::Docs::Section::Ops,SMASH,c
 Parrot::Docs::Section::PCT_Tutorial,MSTROUT,f
+Parrot::Docs::Section::PCT_Tutorial,PHAYLON,c
 Parrot::Docs::Section::PDDs,MSTROUT,f
+Parrot::Docs::Section::PDDs,PHAYLON,c
 Parrot::Docs::Section::PMCs,ARANDAL,c
 Parrot::Docs::Section::PMCs,BSCHMAL,c
 Parrot::Docs::Section::PMCs,CHROMATIC,c
@@ -111,6 +113,7 @@ Parrot::Docs::Section::Tools,PMIC,c
 Parrot::Docs::Section::Tools,RGRJR,c
 Parrot::Docs::Section::Tools,SMASH,c
 Parrot::Docs::Text2HTML,MSTROUT,f
+Parrot::Docs::Text2HTML,PHAYLON,c
 Parrot::Embed,ARANDAL,c
 Parrot::Embed,BSCHMAL,c
 Parrot::Embed,CHIPS,c
@@ -123,7 +126,9 @@ Parrot::Embed,PMIC,c
 Parrot::Embed,RGRJR,c
 Parrot::Embed,SMASH,c
 Parrot::Git::Describe,MSTROUT,f
+Parrot::Git::Describe,PHAYLON,c
 Parrot::H2inc,MSTROUT,f
+Parrot::H2inc,PHAYLON,c
 Parrot::Harness::DefaultTests,ARANDAL,c
 Parrot::Harness::DefaultTests,BSCHMAL,c
 Parrot::Harness::DefaultTests,CHROMATIC,c
@@ -149,6 +154,7 @@ Parrot::Harness::Smoke,PMIC,c
 Parrot::Harness::Smoke,RGRJR,c
 Parrot::Harness::Smoke,SMASH,c
 Parrot::Harness::TestSets,MSTROUT,f
+Parrot::Harness::TestSets,PHAYLON,c
 Parrot::Headerizer,ARANDAL,c
 Parrot::Headerizer,BSCHMAL,c
 Parrot::Headerizer,CHROMATIC,c
@@ -159,6 +165,7 @@ Parrot::Headerizer,PMIC,c
 Parrot::Headerizer,RGRJR,c
 Parrot::Headerizer,SMASH,c
 Parrot::Headerizer::Functions,MSTROUT,f
+Parrot::Headerizer::Functions,PHAYLON,c
 Parrot::IO::Capture::Mini,ARANDAL,c
 Parrot::IO::Capture::Mini,BSCHMAL,c
 Parrot::IO::Capture::Mini,CHROMATIC,c
@@ -203,6 +210,7 @@ Parrot::IO::Path,PMIC,c
 Parrot::IO::Path,RGRJR,c
 Parrot::IO::Path,SMASH,c
 Parrot::Install,MSTROUT,f
+Parrot::Install,PHAYLON,c
 Parrot::Interpreter,ARANDAL,c
 Parrot::Interpreter,BSCHMAL,c
 Parrot::Interpreter,CHIPS,c
@@ -563,6 +571,7 @@ Parrot::Pmc2c::ComposedMethod,PMIC,c
 Parrot::Pmc2c::ComposedMethod,RGRJR,c
 Parrot::Pmc2c::ComposedMethod,SMASH,c
 Parrot::Pmc2c::Dumper,MSTROUT,f
+Parrot::Pmc2c::Dumper,PHAYLON,c
 Parrot::Pmc2c::Emitter,ARANDAL,c
 Parrot::Pmc2c::Emitter,BSCHMAL,c
 Parrot::Pmc2c::Emitter,CHROMATIC,c

@@ -267,11 +267,17 @@ HTML::Stream::Latin1,ERYQ,c
 HTML::Stream::LinkRepairForm,MIKEDLR,f
 HTML::Stream::LinkReport,MIKEDLR,f
 HTML::String,MSTROUT,f
+HTML::String,PHAYLON,c
 HTML::String::Overload,MSTROUT,f
+HTML::String::Overload,PHAYLON,c
 HTML::String::TT,MSTROUT,f
+HTML::String::TT,PHAYLON,c
 HTML::String::TT::Directive,MSTROUT,f
+HTML::String::TT::Directive,PHAYLON,c
 HTML::String::TT::_TMPL,MSTROUT,f
+HTML::String::TT::_TMPL,PHAYLON,c
 HTML::String::Value,MSTROUT,f
+HTML::String::Value,PHAYLON,c
 HTML::Strip,DMUEY,c
 HTML::Strip,KILINRAX,f
 HTML::Strip::Whitespace,SHLOMIF,f
@@ -434,6 +440,7 @@ HTML::Tags,ILMARI,c
 HTML::Tags,JJNAPIORK,c
 HTML::Tags,MITHALDU,c
 HTML::Tags,MSTROUT,f
+HTML::Tags,PHAYLON,c
 HTML::Tags,RIBASUSHI,c
 HTML::Tags,SSCAFFIDI,c
 HTML::Tags,WSHELDAHL,c

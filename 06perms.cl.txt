@@ -226,6 +226,7 @@ Class::DBI::Frozen::301,ILMARI,c
 Class::DBI::Frozen::301,JJNAPIORK,c
 Class::DBI::Frozen::301,MITHALDU,c
 Class::DBI::Frozen::301,MSTROUT,f
+Class::DBI::Frozen::301,PHAYLON,c
 Class::DBI::Frozen::301,RIBASUSHI,c
 Class::DBI::Frozen::301,RKINYON,c
 Class::DBI::Frozen::301,SSCAFFIDI,c
@@ -426,6 +427,7 @@ Class::DBI::Sweet::Topping,LSAUNDERS,c
 Class::DBI::Sweet::Topping,MITHALDU,c
 Class::DBI::Sweet::Topping,MRAMBERG,c
 Class::DBI::Sweet::Topping,MSTROUT,f
+Class::DBI::Sweet::Topping,PHAYLON,c
 Class::DBI::Sweet::Topping,PHRED,c
 Class::DBI::Sweet::Topping,RIBASUSHI,c
 Class::DBI::Sweet::Topping,RKINYON,c

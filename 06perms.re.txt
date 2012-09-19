@@ -13,6 +13,7 @@ Reaction::UI::Widget::Value::Collection,ILMARI,c
 Reaction::UI::Widget::Value::Collection,JJNAPIORK,c
 Reaction::UI::Widget::Value::Collection,MITHALDU,c
 Reaction::UI::Widget::Value::Collection,MSTROUT,f
+Reaction::UI::Widget::Value::Collection,PHAYLON,c
 Reaction::UI::Widget::Value::Collection,RIBASUSHI,c
 Reaction::UI::Widget::Value::Collection,RKINYON,c
 Reaction::UI::Widget::Value::Collection,SSCAFFIDI,c
@@ -32,6 +33,7 @@ Reaction::UI::Widget::Value::DateTime,ILMARI,c
 Reaction::UI::Widget::Value::DateTime,JJNAPIORK,c
 Reaction::UI::Widget::Value::DateTime,MITHALDU,c
 Reaction::UI::Widget::Value::DateTime,MSTROUT,f
+Reaction::UI::Widget::Value::DateTime,PHAYLON,c
 Reaction::UI::Widget::Value::DateTime,RIBASUSHI,c
 Reaction::UI::Widget::Value::DateTime,RKINYON,c
 Reaction::UI::Widget::Value::DateTime,SSCAFFIDI,c
@@ -51,6 +53,7 @@ Reaction::UI::Widget::Value::Image,ILMARI,c
 Reaction::UI::Widget::Value::Image,JJNAPIORK,c
 Reaction::UI::Widget::Value::Image,MITHALDU,c
 Reaction::UI::Widget::Value::Image,MSTROUT,f
+Reaction::UI::Widget::Value::Image,PHAYLON,c
 Reaction::UI::Widget::Value::Image,RIBASUSHI,c
 Reaction::UI::Widget::Value::Image,RKINYON,c
 Reaction::UI::Widget::Value::Image,SSCAFFIDI,c
@@ -70,6 +73,7 @@ Reaction::UI::Widget::Value::Number,ILMARI,c
 Reaction::UI::Widget::Value::Number,JJNAPIORK,c
 Reaction::UI::Widget::Value::Number,MITHALDU,c
 Reaction::UI::Widget::Value::Number,MSTROUT,f
+Reaction::UI::Widget::Value::Number,PHAYLON,c
 Reaction::UI::Widget::Value::Number,RIBASUSHI,c
 Reaction::UI::Widget::Value::Number,RKINYON,c
 Reaction::UI::Widget::Value::Number,SSCAFFIDI,c
@@ -89,6 +93,7 @@ Reaction::UI::Widget::Value::RelatedObject,ILMARI,c
 Reaction::UI::Widget::Value::RelatedObject,JJNAPIORK,c
 Reaction::UI::Widget::Value::RelatedObject,MITHALDU,c
 Reaction::UI::Widget::Value::RelatedObject,MSTROUT,f
+Reaction::UI::Widget::Value::RelatedObject,PHAYLON,c
 Reaction::UI::Widget::Value::RelatedObject,RIBASUSHI,c
 Reaction::UI::Widget::Value::RelatedObject,RKINYON,c
 Reaction::UI::Widget::Value::RelatedObject,SSCAFFIDI,c
@@ -108,6 +113,7 @@ Reaction::UI::Widget::Value::String,ILMARI,c
 Reaction::UI::Widget::Value::String,JJNAPIORK,c
 Reaction::UI::Widget::Value::String,MITHALDU,c
 Reaction::UI::Widget::Value::String,MSTROUT,f
+Reaction::UI::Widget::Value::String,PHAYLON,c
 Reaction::UI::Widget::Value::String,RIBASUSHI,c
 Reaction::UI::Widget::Value::String,RKINYON,c
 Reaction::UI::Widget::Value::String,SSCAFFIDI,c
@@ -127,6 +133,7 @@ Reaction::UI::Widget::Value::Text,ILMARI,c
 Reaction::UI::Widget::Value::Text,JJNAPIORK,c
 Reaction::UI::Widget::Value::Text,MITHALDU,c
 Reaction::UI::Widget::Value::Text,MSTROUT,f
+Reaction::UI::Widget::Value::Text,PHAYLON,c
 Reaction::UI::Widget::Value::Text,RIBASUSHI,c
 Reaction::UI::Widget::Value::Text,RKINYON,c
 Reaction::UI::Widget::Value::Text,SSCAFFIDI,c
@@ -146,6 +153,7 @@ Reaction::UI::WidgetClass,ILMARI,c
 Reaction::UI::WidgetClass,JJNAPIORK,c
 Reaction::UI::WidgetClass,MITHALDU,c
 Reaction::UI::WidgetClass,MSTROUT,f
+Reaction::UI::WidgetClass,PHAYLON,c
 Reaction::UI::WidgetClass,RIBASUSHI,c
 Reaction::UI::WidgetClass,RKINYON,c
 Reaction::UI::WidgetClass,SSCAFFIDI,c
@@ -165,6 +173,7 @@ Reaction::UI::WidgetClass::_OVER,ILMARI,c
 Reaction::UI::WidgetClass::_OVER,JJNAPIORK,c
 Reaction::UI::WidgetClass::_OVER,MITHALDU,c
 Reaction::UI::WidgetClass::_OVER,MSTROUT,f
+Reaction::UI::WidgetClass::_OVER,PHAYLON,c
 Reaction::UI::WidgetClass::_OVER,RIBASUSHI,c
 Reaction::UI::WidgetClass::_OVER,RKINYON,c
 Reaction::UI::WidgetClass::_OVER,SSCAFFIDI,c
@@ -184,6 +193,7 @@ Reaction::UI::Window,ILMARI,c
 Reaction::UI::Window,JJNAPIORK,c
 Reaction::UI::Window,MITHALDU,c
 Reaction::UI::Window,MSTROUT,f
+Reaction::UI::Window,PHAYLON,c
 Reaction::UI::Window,RIBASUSHI,c
 Reaction::UI::Window,RKINYON,c
 Reaction::UI::Window,SSCAFFIDI,c

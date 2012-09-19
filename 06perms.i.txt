@@ -222,6 +222,7 @@ Import::Into,APEIRON,c
 Import::Into,ILMARI,c
 Import::Into,MITHALDU,c
 Import::Into,MSTROUT,f
+Import::Into,PHAYLON,c
 ImportAllFoos,PFISCHER,f
 ImportTest,DCONWAY,f
 In::Korean::Numbers::SinoKorean,BRYAN,f

@@ -363,7 +363,9 @@ ctkWidgetTreeView,MMARCO,f
 ctkWork,MMARCO,f
 ctkXPM,MMARCO,f
 curry,MSTROUT,f
+curry,PHAYLON,c
 curry::weak,MSTROUT,f
+curry::weak,PHAYLON,c
 cwd,VIDUL,f
 cyrillic,AMICHAUER,f
 dTemplate,DLUX,m

@@ -371,6 +371,7 @@ Authen::Htpasswd,ILMARI,c
 Authen::Htpasswd,JJNAPIORK,c
 Authen::Htpasswd,MITHALDU,c
 Authen::Htpasswd,MSTROUT,f
+Authen::Htpasswd,PHAYLON,c
 Authen::Htpasswd,WSHELDAHL,c
 Authen::Htpasswd::Trac,NISHIKAWA,f
 Authen::Htpasswd::User,APEIRON,c
@@ -381,6 +382,7 @@ Authen::Htpasswd::User,ILMARI,c
 Authen::Htpasswd::User,JJNAPIORK,c
 Authen::Htpasswd::User,MITHALDU,c
 Authen::Htpasswd::User,MSTROUT,f
+Authen::Htpasswd::User,PHAYLON,c
 Authen::Htpasswd::User,WSHELDAHL,c
 Authen::Htpasswd::Util,APEIRON,c
 Authen::Htpasswd::Util,DKAMHOLZ,c
@@ -390,6 +392,7 @@ Authen::Htpasswd::Util,ILMARI,c
 Authen::Htpasswd::Util,JJNAPIORK,c
 Authen::Htpasswd::Util,MITHALDU,c
 Authen::Htpasswd::Util,MSTROUT,f
+Authen::Htpasswd::Util,PHAYLON,c
 Authen::Htpasswd::Util,WSHELDAHL,c
 Authen::Krb4,JHORWITZ,m
 Authen::Krb5,JHORWITZ,m
