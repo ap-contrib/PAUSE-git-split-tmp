@@ -255,6 +255,7 @@ Devel::bt,FLORA,f
 Devel::callsfrom,BRUMMETT,c
 Devel::callsfrom,NNUTTER,c
 Devel::callsfrom,SAKOHT,f
+Devel::cst,LEONT,f
 Devel::dbg,JLISHEV,c
 Devel::dbg,LORDSPACE,m
 Devel::ebug,AWWAIID,c
