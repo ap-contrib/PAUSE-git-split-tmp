@@ -152,8 +152,8 @@ File::Fingerprint::Huge             1.4  C/CF/CFABER/File-Fingerprint-Huge-1.4.t
 File::Flat                         1.04  A/AD/ADAMK/File-Flat-1.04.tar.gz
 File::Flat::Object                 1.04  A/AD/ADAMK/File-Flat-1.04.tar.gz
 File::Flock                     2008.01  M/MU/MUIR/modules/File-Flock-2008.01.tar.gz
-File::Flock::Tiny                  0.11  Z/ZW/ZWON/File-Flock-Tiny-0.11.tar.gz
-File::Flock::Tiny::Lock            0.11  Z/ZW/ZWON/File-Flock-Tiny-0.11.tar.gz
+File::Flock::Tiny                  0.12  Z/ZW/ZWON/File-Flock-Tiny-0.12.tar.gz
+File::Flock::Tiny::Lock            0.12  Z/ZW/ZWON/File-Flock-Tiny-0.12.tar.gz
 File::FnMatch                      0.02  M/MJ/MJP/File-FnMatch-0.02.tar.gz
 File::Format::CRD                v0.0.1  S/SH/SHLOMIF/File-Format-CRD-v0.0.1.tar.gz
 File::Format::CRD::Reader        v0.0.1  S/SH/SHLOMIF/File-Format-CRD-v0.0.1.tar.gz
