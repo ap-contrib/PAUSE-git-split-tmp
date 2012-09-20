@@ -1093,7 +1093,7 @@ Text::HikiDoc::Plugin::texthighlight 1.007  K/KA/KAWABATA/Text-HikiDoc-1.019.tar
 Text::HikiDoc::Plugin::vimcolor   1.007  K/KA/KAWABATA/Text-HikiDoc-1.019.tar.gz
 Text::Histogram                    0.01  N/NE/NEVES/text-histogram/Text-Histogram-0.01.tar.gz
 Text::HistogramChart              0.005  M/MI/MIKKOI/Text-HistogramChart-0.005.tar.gz
-Text::Hunspell                     2.03  C/CO/COSIMO/Text-Hunspell-2.03.tar.gz
+Text::Hunspell                     2.04  C/CO/COSIMO/Text-Hunspell-2.04.tar.gz
 Text::Hyphen                       0.11  K/KA/KAPPA/Text-Hyphen-0.11.tar.gz
 Text::Hyphen::RU                   0.11  K/KA/KAPPA/Text-Hyphen-RU-0.11.tar.gz
 Text::Hyphenate                    0.02  M/MJ/MJD/Text-Hyphenate-0.02.tar.gz
