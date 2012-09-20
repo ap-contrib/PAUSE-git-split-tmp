@@ -631,7 +631,7 @@ CGI                                3.60  M/MA/MARKSTOS/CGI.pm-3.60.tar.gz
 CGI::AIS::Session                  0.02  D/DA/DAVIDNICO/CGI-AIS-Session-0.02.tar.gz
 CGI::Ajax                         0.707  B/BP/BPEDERSE/CGI-Ajax-0.707.tar.gz
 CGI::Alert                         2.05  E/ES/ESM/CGI-Alert-2.05.tar.gz
-CGI::Apache                        1.01  F/FL/FLORA/perl-5.17.4.tar.bz2
+CGI::Apache                        1.01  M/MA/MARKSTOS/CGI.pm-3.60.tar.gz
 CGI::Apache2::Wrapper             0.215  R/RK/RKOBES/CGI-Apache2-Wrapper-0.215.tar.gz
 CGI::Apache2::Wrapper::Cookie     0.215  R/RK/RKOBES/CGI-Apache2-Wrapper-0.215.tar.gz
 CGI::Apache2::Wrapper::Upload     0.215  R/RK/RKOBES/CGI-Apache2-Wrapper-0.215.tar.gz

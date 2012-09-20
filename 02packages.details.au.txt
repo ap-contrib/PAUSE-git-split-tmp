@@ -366,7 +366,7 @@ autodie_test_module               undef  S/SH/SHAY/perl-5.17.3.tar.gz
 autodynaload                       0.08  P/PA/PATL/autorequire-0.08.tar.gz
 AutoLoad                           0.01  B/BB/BBB/Module-AutoLoad-0.01.tar.gz
 AutoloadComponent                 undef  H/HO/HOLT/makepp-1.19.tar.gz
-AutoLoader                         5.72  F/FL/FLORA/perl-5.17.4.tar.bz2
+AutoLoader                         5.72  S/SM/SMUELLER/AutoLoader-5.72.tar.gz
 autolocale                         0.02  H/HI/HIDEAKIO/autolocale-0.02.tar.gz
 autolocale::Tie::Scalar            0.02  H/HI/HIDEAKIO/autolocale-0.02.tar.gz
 AutomakeFixer                     undef  P/PF/PFEIFFER/makepp-1.50.081214.tgz
@@ -378,7 +378,7 @@ AutoSession::Base64                 1.0  G/GM/GMPASSOS/AutoSession-0.01.tar.gz
 AutoSession::Driver                 1.0  G/GM/GMPASSOS/AutoSession-0.01.tar.gz
 AutoSession::Driver::File           1.0  G/GM/GMPASSOS/AutoSession-0.01.tar.gz
 AutoSession::TieHandle             0.01  G/GM/GMPASSOS/AutoSession-0.01.tar.gz
-AutoSplit                          1.06  F/FL/FLORA/perl-5.17.4.tar.bz2
+AutoSplit                          1.06  S/SM/SMUELLER/AutoLoader-5.72.tar.gz
 AutoSQL::AdaptorFactory           undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::CustomObject             undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::DBModuleFactory          undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
@@ -397,7 +397,7 @@ AutoSQL::LazyLoader               undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::Schema                   undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::SQLGenerator             undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
 AutoSQL::TableModel               undef  J/JU/JUGUANG/AutoSQL-0.2.tar.gz
-autouse                            1.07  F/FL/FLORA/perl-5.17.4.tar.bz2
+autouse                            1.07  F/FL/FLORA/autouse-1.07.tar.gz
 autovivification                   0.10  V/VP/VPIT/autovivification-0.10.tar.gz
 AutoXS                             0.04  S/SM/SMUELLER/AutoXS-0.04.tar.gz
 AutoXS::Accessor                   0.03  S/SM/SMUELLER/AutoXS-0.04.tar.gz
