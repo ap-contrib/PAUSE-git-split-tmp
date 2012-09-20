@@ -679,7 +679,7 @@ Failure::Type                      0.01  M/MU/MUENALAN/Data-Type-0.01.04.tar.gz
 fake                              undef  A/AT/ATOURBIN/rpm-build-perl-0.80.tar.gz
 Fake                              undef  R/RH/RHOELZ/Dist-Zilla-Plugin-Git-ExcludeUntracked-0.01.tar.gz
 fake_sth                           0.91  B/BJ/BJORNARDO/Apache-HTMLView-0.91.tar.gz
-FakeCollectd                     0.1000  F/FA/FAXMODEM/Test-Collectd-Plugins-0.1004.tar.gz
+FakeCollectd                     0.1000  F/FA/FAXMODEM/Test-Collectd-Plugins-0.1005.tar.gz
 FakeConfig                         0.02  D/DR/DROLSKY/CatalystX-Routes-0.02.tar.gz
 FakeDBI                            0.01  N/NA/NATHANL/Spreadsheet-WriteExcel-WebPivot2.tar.gz
 FakeHash                           0.80  M/MJ/MJD/FakeHash-0.80.tar.gz
