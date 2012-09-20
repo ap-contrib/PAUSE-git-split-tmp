@@ -168,6 +168,7 @@ Test::System::Output::Factory      0.03  P/PF/PFISCHER/Test-System-0.17.tar.gz
 Test::System::Test                undef  P/PF/PFISCHER/Test-System-0.02.tar.gz
 Test::t                          0.0031  R/RO/ROKR/Test-t-0.0031.tar.gz
 Test::TableDriven                  0.02  J/JR/JROCKWAY/Test-TableDriven-0.02.tar.gz
+Test::Tabs                        0.001  T/TO/TOBYINK/Test-Tabs-0.001.tar.gz
 Test::Tail::Multi                  0.06  M/MC/MCMAHON/Test-Tail-Multi-0.06.tar.gz
 Test::Taint                        1.04  P/PE/PETDANCE/Test-Taint-1.04.tar.gz
 Test::TAP                          0.03  O/OV/OVID/Test-TAP-0.03.tar.gz

@@ -385,6 +385,7 @@ Test::TableDriven,MRAMBERG,c
 Test::TableDriven,MSTROUT,c
 Test::TableDriven,NUFFIN,c
 Test::TableDriven,SARTAK,c
+Test::Tabs,TOBYINK,f
 Test::Tail::Multi,MCMAHON,f
 Test::Taint,PETDANCE,f
 Test::Tech,SOFTDIA,f
