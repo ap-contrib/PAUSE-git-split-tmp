@@ -1110,7 +1110,7 @@ Bundle::MyLibrary                  0.05  E/ES/ESUMMERS/Bundle-MyLibrary-0.05.tar
 Bundle::Mysql                    1.1835  J/JW/JWIED/Msql-Mysql-modules-1.1835.tar.gz
 Bundle::myxCal                     0.03  O/OU/OUBIWANN/Bundle-myxCal-0.03.tar.gz
 Bundle::Net::Frame                 1.02  G/GO/GOMOR/Bundle-Net-Frame-1.02.tar.gz
-Bundle::Net::LDAP                  0.02  M/MA/MARSCHAP/perl-ldap-0.47.tar.gz
+Bundle::Net::LDAP                  0.02  M/MA/MARSCHAP/perl-ldap-0.48.tar.gz
 Bundle::Net::Nessus                0.02  J/JW/JWIED/Net-Nessus-0.08.tar.gz
 Bundle::Net::Radius::Server       1.003  L/LU/LUISMUNOZ/Bundle-Net-Radius-Server-1.003.tar.gz
 Bundle::Net::SNMP::Mixin           0.11  G/GA/GAISSMAI/Bundle-Net-SNMP-Mixin-0.11.tar.gz
