@@ -270,6 +270,7 @@ Plack::Middleware::AutoRefresh,MGRIMES,f
 Plack::Middleware::AutoReloadCSS,KENTARO,f
 Plack::Middleware::AxsLog,KAZEBURO,f
 Plack::Middleware::BotDetector,CHROMATIC,f
+Plack::Middleware::BrowserDetector,DCPETROV,f
 Plack::Middleware::BufferedStreaming,MIYAGAWA,f
 Plack::Middleware::CSRFBlock,RINTARO,f
 Plack::Middleware::Cache,INGY,f
