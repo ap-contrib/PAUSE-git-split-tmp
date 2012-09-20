@@ -155,6 +155,8 @@ ChainMake::Tester                     0  S/SC/SCHROEER/ChainMake/ChainMake-0.9.0
 Champlain                          0.12  P/PO/POTYL/Champlain-0.12.tar.gz
 change                            undef  A/AL/ALEXE/Opener_chat_0.7_source.zip
 CHAR                               1.93  S/SH/SHERZODR/Class-PObject-2.17.tar.gz
+Char::Eeucjp                       0.82  I/IN/INA/Char/EUCJP/Char-EUCJP-0.82.tar.gz
+Char::EUCJP                        0.82  I/IN/INA/Char/EUCJP/Char-EUCJP-0.82.tar.gz
 CharacterLiteral                   2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 CharacterWidget                   undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 charnames                          1.32  F/FL/FLORA/perl-5.17.4.tar.bz2

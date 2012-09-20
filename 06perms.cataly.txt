@@ -273,6 +273,8 @@ ChainMake::Parallel,SCHROEER,f
 ChainMake::Tester,SCHROEER,f
 Champlain,POTYL,f
 Champlain::MapSourceDesc,POTYL,f
+Char::EUCJP,INA,f
+Char::Eeucjp,INA,f
 CharType,PERRAD,f
 CharacterLiteral,PERRAD,f
 Charset,DANKOGAI,f
