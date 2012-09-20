@@ -195,7 +195,7 @@ use_alias                         1.005  K/KS/KSTEPHENS/UMMF-1.02.tar.gz
 User                                1.9  T/TB/TBONE/User-1.9.tar.gz
 User::AccountChecker               0.02  E/EV/EVI/User-AccountChecker-0.02.tar.gz
 User::getgrouplist             1.000002  B/BA/BASTIAN/User-getgrouplist-1.0.2.tar.gz
-User::grent                        1.01  F/FL/FLORA/perl-5.15.4.tar.gz
+User::grent                        1.01  F/FL/FLORA/perl-5.17.4.tar.gz
 User::Identity                     0.93  M/MA/MARKOV/User-Identity-0.93.tar.gz
 User::Identity::Archive            0.93  M/MA/MARKOV/User-Identity-0.93.tar.gz
 User::Identity::Archive::Plain     0.93  M/MA/MARKOV/User-Identity-0.93.tar.gz
@@ -207,13 +207,13 @@ User::Identity::Collection::Users  0.93  M/MA/MARKOV/User-Identity-0.93.tar.gz
 User::Identity::Item               0.93  M/MA/MARKOV/User-Identity-0.93.tar.gz
 User::Identity::Location           0.93  M/MA/MARKOV/User-Identity-0.93.tar.gz
 User::Identity::System             0.93  M/MA/MARKOV/User-Identity-0.93.tar.gz
-User::pwent                        1.00  F/FL/FLORA/perl-5.15.4.tar.gz
+User::pwent                        1.00  F/FL/FLORA/perl-5.17.4.tar.gz
 User::Simple                       1.43  G/GW/GWOLF/User-Simple-1.43.tar.gz
 User::Simple::Admin               undef  G/GW/GWOLF/User-Simple-1.43.tar.gz
 User::Utmp                          1.8  M/MP/MPIOTR/User-Utmp-1.8.tar.gz
 UserStoryData                     undef  M/MS/MSCHWERN/XPlanner-0.01.tar.gz
 Uses                               2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
-utf8                               1.09  F/FL/FLORA/perl-5.15.4.tar.gz
+utf8                               1.10  F/FL/FLORA/perl-5.17.4.tar.gz
 utf8::all                         0.007  D/DO/DOHERTY/utf8-all-0.007.tar.gz
 UTF8BOM                            1.02  L/LY/LYOKATO/UTF8BOM-1.02.tar.gz
 util                              undef  S/SH/SHAY/perl-5.17.3.tar.gz
@@ -349,7 +349,7 @@ Variable::Watcher::HASH            0.01  K/KA/KANE/Variable-Watcher-0.01.tar.gz
 Variable::Watcher::SCALAR          0.01  K/KA/KANE/Variable-Watcher-0.01.tar.gz
 VariantDelegate                   undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 Varnish::CLI                       0.03  R/RC/RCL/Varnish-CLI-0.03.tar.gz
-vars                               1.02  F/FL/FLORA/perl-5.15.4.tar.gz
+vars                               1.03  F/FL/FLORA/perl-5.17.4.tar.gz
 vars::global                   0.000002  P/PO/POLETTIX/vars-global-0.0.2.tar.gz
 vars::i                            1.01  P/PO/PODMASTER/vars-i-1.01.tar.gz
 VAST                               0.05  P/PM/PMURIAS/Mildew-0.05.tar.gz

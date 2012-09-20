@@ -590,7 +590,7 @@ XRI::Descriptor::LocalAccess        0.1  F/FE/FEN/XRI-0.2.4.tar.gz
 XRI::Parse                          0.1  F/FE/FEN/XRI-0.2.4.tar.gz
 XRI::Resolution::Lite              0.04  Z/ZI/ZIGOROU/XRI-Resolution-Lite-0.04.tar.gz
 XS                                undef  C/CH/CHM/PDL-2.4.11.tar.gz
-XS::APItest                        0.32  F/FL/FLORA/perl-5.15.4.tar.gz
+XS::APItest                        0.43  F/FL/FLORA/perl-5.17.4.tar.gz
 XS::APItest::KeywordRPN           0.004  L/LB/LBROCARD/perl-5.13.0.tar.gz
 XS::Assert                        0.002  G/GF/GFUJI/XS-Assert-0.002.tar.gz
 XS::MagicExt                       0.05  G/GF/GFUJI/XS-MagicExt-0.05.tar.gz
@@ -598,7 +598,7 @@ XS::MRO::Compat                    0.14  G/GF/GFUJI/XS-MRO-Compat-0.14.tar.gz
 XS::Object::Magic                  0.04  F/FL/FLORA/XS-Object-Magic-0.04.tar.gz
 XS::Object::Magic::Install::Files undef  F/FL/FLORA/XS-Object-Magic-0.04.tar.gz
 XS::Test                           1.01  S/SH/SHAY/perl-5.17.3.tar.bz2
-XS::Typemap                        0.07  F/FL/FLORA/perl-5.15.4.tar.gz
+XS::Typemap                        0.08  F/FL/FLORA/perl-5.17.4.tar.gz
 XS::Writer                         0.02  M/MS/MSCHWERN/XS-Writer-0.02.tar.gz
 XSLoader                           0.16  S/SA/SAPER/XSLoader-0.16.tar.gz
 XSLT                               0.20  J/JO/JOSTEN/XML-XSLT-0.20.tar.gz

@@ -27,7 +27,7 @@ Filesys::Virtual::DPAP             0.01  J/JA/JABLKO/Filesys-Virtual-DPAP-0.01.t
 Filesys::Virtual::Plain            0.10  X/XA/XANTUS/Filesys-Virtual-Plain-0.10.tar.gz
 Filesys::Virtual::SSH              0.03  R/RC/RCLAMP/Filesys-Virtual-SSH-0.03.tar.gz
 FileSystem::LL::FAT                0.05  I/IL/ILYAZ/modules/FileSystem-LL-FAT-0.05.tar.gz
-filetest                           1.02  F/FL/FLORA/perl-5.15.4.tar.gz
+filetest                           1.02  F/FL/FLORA/perl-5.17.4.tar.gz
 FileTree                          undef  C/CB/CBUREL/Qt-0.96.0.tar.gz
 FileUpload::Filename               0.02  F/FM/FMERGES/FileUpload-Filename-0.02.tar.gz
 filex                             undef  S/SA/SAMPO/zxid-1.01.tgz
@@ -392,7 +392,7 @@ Finance::YahooJPN::QuoteDetail     0.01  T/TA/TAKASHI/Finance-YahooJPN-QuoteDeta
 Finance::YahooProfile              1.12  S/SM/SMALHOTRA/Finance-YahooProfile-0.12.tar.gz
 Finance::YahooQuote                0.24  E/ED/EDD/Finance-YahooQuote-0.24.tar.gz
 Find::Lib                          1.04  Y/YA/YANNK/Find-Lib-1.04.tar.gz
-FindBin                            1.51  F/FL/FLORA/perl-5.15.4.tar.gz
+FindBin                            1.51  F/FL/FLORA/perl-5.17.4.tar.gz
 FindBin::libs                   v1.62.0  L/LE/LEMBARK/FindBin-libs-1.64.tar.gz
 FindBin::Real                      1.05  S/ST/STRO/FindBin-Real-1.05.tar.gz
 FindDialog                        undef  C/CB/CBUREL/Qt-0.96.0.tar.gz

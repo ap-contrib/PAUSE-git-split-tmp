@@ -187,7 +187,7 @@ Unicode::Support                  0.001  B/BD/BDFOY/Unicode-Support-0.001.tar.gz
 Unicode::Transform                 0.51  S/SA/SADAHIRO/Unicode-Transform-0.51.tar.gz
 Unicode::Transliterate             0.03  J/JH/JHIVER/Unicode-Transliterate.0.3.tgz
 Unicode::Tussle                    1.03  B/BD/BDFOY/Unicode-Tussle-1.03.tar.gz
-Unicode::UCD                       0.36  F/FL/FLORA/perl-5.15.4.tar.gz
+Unicode::UCD                       0.46  F/FL/FLORA/perl-5.17.4.tar.gz
 Unicode::Unihan                    0.04  D/DA/DANKOGAI/Unicode-Unihan-0.04.tar.gz
 Unicode::UTF8                      0.55  C/CH/CHANSEN/Unicode-UTF8-0.55.tar.gz
 Unicode::UTF8simple                1.06  G/GU/GUS/Unicode-UTF8simple-1.06.tar.gz
@@ -211,7 +211,7 @@ Uninstall                         undef  E/ED/EDAVIS/xmltv-0.5.33.tar.gz
 UnionType                          2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 Uniq                               0.01  S/SY/SYAMAL/Uniq-0.01.tar.gz
 Unique                             1.02  S/SA/SALTBREEZ/Unique-1.02.tar.gz
-UNIVERSAL                          1.09  F/FL/FLORA/perl-5.15.4.tar.gz
+UNIVERSAL                          1.11  F/FL/FLORA/perl-5.17.4.tar.gz
 UNIVERSAL::Acme                    0.01  S/SE/SEANO/UNIVERSAL-Acme-0.01.tar.gz
 UNIVERSAL::AUTHORITY              0.005  T/TO/TOBYINK/UNIVERSAL-AUTHORITY-0.005.tar.gz
 UNIVERSAL::AUTHORITY::Lexical     0.002  T/TO/TOBYINK/UNIVERSAL-AUTHORITY-Lexical-0.002.tar.gz

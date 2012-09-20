@@ -111,7 +111,7 @@ Blatte::Syntax::SetVar            undef  B/BO/BOBG/Blatte-0.9.4.tar.gz
 Blatte::Syntax::VarRef            undef  B/BO/BOBG/Blatte-0.9.4.tar.gz
 Blatte::Syntax::While             undef  B/BO/BOBG/Blatte-0.9.4.tar.gz
 Blatte::Ws                        undef  B/BO/BOBG/Blatte-0.9.4.tar.gz
-blib                               1.06  F/FL/FLORA/perl-5.15.4.tar.gz
+blib                               1.06  F/FL/FLORA/perl-5.17.4.tar.gz
 Blikistan                          0.06  L/LU/LUKEC/Blikistan-0.06.tar.gz
 Blikistan::MagicEngine            undef  L/LU/LUKEC/Blikistan-0.06.tar.gz
 Blikistan::MagicEngine::Jemplate  undef  L/LU/LUKEC/Blikistan-0.06.tar.gz

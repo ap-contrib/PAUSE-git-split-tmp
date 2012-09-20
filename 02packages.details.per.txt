@@ -78,7 +78,7 @@ Perldoc::Server::View::Pod2Source undef  J/JO/JONALLEN/Perldoc-Server-0.10.tar.g
 Perldoc::Server::View::TT         undef  J/JO/JONALLEN/Perldoc-Server-0.10.tar.gz
 Perldoc::Writer                   undef  I/IN/INGY/Perldoc-0.20.tar.gz
 perlec                            undef  H/HI/HIO/perlec-0.08.tar.gz
-perlfaq                        5.0150041  L/LL/LLAP/perlfaq-5.0150041.tar.gz
+perlfaq                        5.0150041  F/FL/FLORA/perl-5.17.4.tar.gz
 PerlFM                         0.002000  V/VV/VVELOX/PerlFM-0.2.0.tar.gz
 PerlGSL                           0.002  J/JB/JBERGER/PerlGSL-0.002.tar.gz
 PerlGSL::DiffEq                    0.08  J/JB/JBERGER/PerlGSL-DiffEq-0.08.tar.gz
@@ -87,13 +87,13 @@ PerlGSL::Integration::SingleDim   0.002  J/JB/JBERGER/PerlGSL-Integration-Single
 PerlGSL::RootFinding::SingleDim   0.001  J/JB/JBERGER/PerlGSL-RootFinding-SingleDim-0.001.tar.gz
 Perlilog                            0.3  B/BI/BILLAUER/Perlilog-0.3.tar.gz
 Perlilog::PLerror                 undef  B/BI/BILLAUER/Perlilog-0.3.tar.gz
-PerlIO                             1.07  F/FL/FLORA/perl-5.15.4.tar.gz
+PerlIO                             1.07  F/FL/FLORA/perl-5.17.4.tar.gz
 PerlIO::bitswap                   0.002  Z/ZE/ZEFRAM/PerlIO-bitswap-0.002.tar.gz
 PerlIO::buffersize                0.001  L/LE/LEONT/PerlIO-buffersize-0.001.tar.gz
 PerlIO::code                       0.03  G/GF/GFUJI/PerlIO-code-0.03.tar.gz
 PerlIO::creat                     undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::dir                       undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
-PerlIO::encoding                   0.15  F/FL/FLORA/perl-5.15.4.tar.gz
+PerlIO::encoding                   0.15  F/FL/FLORA/perl-5.17.4.tar.gz
 PerlIO::eol                        0.14  A/AU/AUDREYT/PerlIO-eol-0.14.tar.gz
 PerlIO::excl                      undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::fgets                      0.02  C/CH/CHANSEN/PerlIO-fgets-0.02.tar.gz
@@ -113,7 +113,7 @@ PerlIO::tee                       undef  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
 PerlIO::text                      0.007  L/LE/LEONT/PerlIO-text-0.007.tar.gz
 PerlIO::utf8_strict               0.002  L/LE/LEONT/PerlIO-utf8_strict-0.002.tar.gz
 PerlIO::Util                       0.72  G/GF/GFUJI/PerlIO-Util-0.72.tar.gz
-PerlIO::via                        0.12  F/FL/FLORA/perl-5.15.4.tar.gz
+PerlIO::via                        0.12  F/FL/FLORA/perl-5.17.4.tar.gz
 PerlIO::via::ANSIColor             0.05  M/MA/MASANORIH/PerlIO-via-ANSIColor-0.05.tar.gz
 PerlIO::via::Babelfish             0.01  X/XE/XERN/PerlIO-via-Babelfish-0.01.tar.gz
 PerlIO::via::Base64                0.08  E/EL/ELIZABETH/PerlIO-via-Base64-0.08.tar.gz

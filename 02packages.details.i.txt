@@ -432,7 +432,7 @@ install                            0.01  D/DA/DAGOLDEN/install-0.01.tar.gz
 InstanceName                       0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
 int                                1.11  R/RU/RURBAN/B-C-1.36.tar.gz
 Int                               0.002  B/BR/BRADH/Acme-Modo-0.002.tar.gz
-integer                            1.00  F/FL/FLORA/perl-5.15.4.tar.gz
+integer                            1.00  F/FL/FLORA/perl-5.17.4.tar.gz
 INTEGER                            1.93  S/SH/SHERZODR/Class-PObject-2.17.tar.gz
 Integer::Partition                 0.03  D/DL/DLAND/Integer-Partition-0.03.tar.gz
 Integer::Tiny                       0.3  B/BB/BBKR/Integer-Tiny-0.3.tar.gz

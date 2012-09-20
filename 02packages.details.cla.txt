@@ -157,9 +157,9 @@ Class::STL::Utilities::UnaryNegate 0.18  G/GA/GAFFIE/Class-STL-Containers-0.35.t
 Class::StorageFactory               1.0  C/CH/CHROMATIC/Class-StorageFactory-1.0.tar.gz
 Class::StorageFactory::YAML       undef  C/CH/CHROMATIC/Class-StorageFactory-1.0.tar.gz
 Class::StrongSingleton             0.02  S/ST/STEVAN/Class-StrongSingleton-0.02.tar.gz
-Class::Struct                      0.63  F/FL/FLORA/perl-5.15.4.tar.gz
+Class::Struct                      0.64  F/FL/FLORA/perl-5.17.4.tar.gz
 Class::Struct::FIELDS               1.1  B/BI/BINKLEY/Class-Struct-FIELDS-1.1.tar.gz
-Class::Struct::Tie_ISA             0.63  F/FL/FLORA/perl-5.15.4.tar.gz
+Class::Struct::Tie_ISA             0.64  F/FL/FLORA/perl-5.17.4.tar.gz
 Class::StructTemplate              0.01  H/HE/HEIKOWU/Class-StructTemplate-0.01.tar.gz
 Class::Structured                   0.1  R/RO/ROBWALKER/Class-Structured-0.1.tar.gz
 Class::Superclasses                0.05  R/RE/RENEEB/Class-Superclasses-0.05.tar.gz

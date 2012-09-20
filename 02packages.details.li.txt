@@ -776,7 +776,7 @@ Local::Seamstress::Base           undef  T/TB/TBONE/HTML-Seamstress-6.112830.tar
 Local::Target                     undef  A/AH/AHERNIT/Class-Injection-1.08.tar.gz
 Local::Yenta::MySelf              undef  S/SO/SOLVE/AC-Yenta-1.tar.gz
 LocalConf                         undef  A/AP/APLA/Project-Easy-0.30.tar.gz
-locale                             1.00  F/FL/FLORA/perl-5.15.4.tar.gz
+locale                             1.01  F/FL/FLORA/perl-5.17.4.tar.gz
 Locale::BR                         0.02  G/GA/GARU/Locale-BR-0.02.tar.gz
 Locale::Codes                      3.23  S/SB/SBECK/Locale-Codes-3.23.tar.gz
 Locale::Codes::Constants           3.23  S/SB/SBECK/Locale-Codes-3.23.tar.gz

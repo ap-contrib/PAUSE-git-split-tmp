@@ -333,7 +333,7 @@ AnyData::Storage::FileSys         undef  J/JZ/JZUCKER/AnyData-0.10.tar.gz
 AnyData::Storage::PassThru         0.07  J/JZ/JZUCKER/AnyData-0.10.tar.gz
 AnyData::Storage::RAM              0.08  J/JZ/JZUCKER/AnyData-0.10.tar.gz
 AnyData::Storage::TiedHash        undef  J/JZ/JZUCKER/AnyData-0.10.tar.gz
-AnyDBM_File                        1.01  F/FL/FLORA/perl-5.15.4.tar.gz
+AnyDBM_File                        1.01  F/FL/FLORA/perl-5.17.4.tar.gz
 AnyDBM_File::Importer             0.012  M/MA/MAJENSEN/AnyDBM_File-Importer-0.012.tar.gz
 AnyEvent                           7.02  M/ML/MLEHMANN/AnyEvent-7.02.tar.gz
 AnyEvent::AggressiveIdle           0.04  U/UN/UNERA/AnyEvent-AggressiveIdle-0.04.tar.gz

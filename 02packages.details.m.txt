@@ -127,7 +127,7 @@ MyCDs::Artist                     undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
 MyCDs::Disc                       undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
 MyCDs::Genre                      undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
 MyCDs::Track                      undef  E/EV/EVO/DBIx-DBO2-0.006.tar.gz
-MyClass                            1.00  S/SM/SMUELLER/Attribute-Handlers-0.93.tar.gz
+MyClass                            1.00  F/FL/FLORA/perl-5.17.4.tar.gz
 MyClient                          undef  D/DY/DYACOB/SOAP-Lite-ActiveWorks-0.10.tar.gz
 Myco                               0.01  C/CZ/CZBSD/Myco-0.01.tar.gz
 Myco::Association                 undef  S/SO/SOMMERB/Myco-1.22.tar.gz
@@ -603,7 +603,7 @@ NcFTPd::Log::Parse::Misc          undef  S/SH/SHAW/NcFTPd-Log-Parse-0.001.tar.gz
 NcFTPd::Log::Parse::Session       undef  S/SH/SHAW/NcFTPd-Log-Parse-0.001.tar.gz
 NcFTPd::Log::Parse::Xfer          undef  S/SH/SHAW/NcFTPd-Log-Parse-0.001.tar.gz
 NCustom                            0.07  B/BH/BHARB/NCustom-0.07.tar.gz
-NDBM_File                          1.12  F/FL/FLORA/perl-5.15.4.tar.gz
+NDBM_File                          1.12  F/FL/FLORA/perl-5.17.4.tar.gz
 Neocracy::ORM::Meta::Display::Defaults undef  D/DC/DCHESTER/Norma-0.02.tar.gz
 Nes                                1.03  N/NE/NES/Nes-1.03.tar.gz
 Nes::DB                           undef  N/NE/NES/Nes-1.03.tar.gz

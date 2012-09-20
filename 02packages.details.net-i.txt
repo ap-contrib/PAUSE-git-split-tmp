@@ -389,7 +389,7 @@ Net::Nessus::Message::STOP_WHOLE_MESSAGE 0.03  J/JW/JWIED/Net-Nessus-0.06.tar.gz
 Net::Nessus::Message::STOP_WHOLE_TEST 0.04  T/TS/TSTOCK/Net-Nessus-0.09.tar.gz
 Net::Nessus::ScanLite              0.01  J/JP/JPB/Net-Nessus-ScanLite-0.01.tar.gz
 Net::Nessus::XMLRPC                0.30  K/KO/KOST/Net-Nessus-XMLRPC-0.30.tar.gz
-Net::netent                        1.00  F/FL/FLORA/perl-5.15.4.tar.gz
+Net::netent                        1.00  F/FL/FLORA/perl-5.17.4.tar.gz
 Net::Netfilter::NetFlow::ConntrackFormat 1.113260  O/OL/OLIVER/Net-Netfilter-NetFlow-1.113260.tar.gz
 Net::Netfilter::NetFlow::Process 1.113260  O/OL/OLIVER/Net-Netfilter-NetFlow-1.113260.tar.gz
 Net::Netfilter::NetFlow::Utils 1.113260  O/OL/OLIVER/Net-Netfilter-NetFlow-1.113260.tar.gz
@@ -873,7 +873,7 @@ Net::Prober::smtp                  0.07  C/CO/COSIMO/Net-Prober-0.07.tar.gz
 Net::Prober::ssh                   0.07  C/CO/COSIMO/Net-Prober-0.07.tar.gz
 Net::Prober::tcp                   0.07  C/CO/COSIMO/Net-Prober-0.07.tar.gz
 Net::Protocol::Simple              1.00  S/SA/SAXJAZMAN/Net-Protocol-Simple-1.00.tar.gz
-Net::protoent                      1.00  F/FL/FLORA/perl-5.15.4.tar.gz
+Net::protoent                      1.00  F/FL/FLORA/perl-5.17.4.tar.gz
 Net::Proxmox::VE                  0.006  D/DJ/DJZORT/Net-Proxmox-VE-0.006.tar.gz
 Net::Proxmox::VE::Access            0.3  D/DJ/DJZORT/Net-Proxmox-VE-0.006.tar.gz
 Net::Proxmox::VE::Cluster           0.2  D/DJ/DJZORT/Net-Proxmox-VE-0.006.tar.gz

@@ -1,7 +1,7 @@
 File::Convert::CSV                 0.03  M/MU/MUENALAN/File-Convert-CSV-0.03.tar.gz
 File::Convert::Taqman             undef  M/MU/MUENALAN/File-Convert-CSV-0.03.tar.gz
 File::Convert::Turner_Modulo      undef  M/MU/MUENALAN/File-Convert-CSV-0.03.tar.gz
-File::Copy                         2.21  F/FL/FLORA/perl-5.15.4.tar.gz
+File::Copy                         2.24  F/FL/FLORA/perl-5.17.4.tar.gz
 File::Copy::Link                   0.04  R/RM/RMBARKER/File-Copy-Link-0.113.tar.gz
 File::Copy::Recursive              0.38  D/DM/DMUEY/File-Copy-Recursive-0.38.tar.gz
 File::Copy::Reliable               0.32  L/LB/LBROCARD/File-Copy-Reliable-0.32.tar.gz
@@ -56,7 +56,7 @@ File::DirCompare                    0.6  G/GA/GAVINC/File-DirCompare-0.6.tar.gz
 File::DirList                      0.04  T/TP/TPABA/File-DirList/File-DirList-0.04.tar.gz
 File::DirSync                      1.22  B/BB/BBB/File-DirSync-1.22.tar.gz
 File::DirWalk                       0.4  J/JE/JENSL/File-DirWalk-0.4.tar.gz
-File::DosGlob                      1.05  F/FL/FLORA/perl-5.15.4.tar.gz
+File::DosGlob                      1.08  F/FL/FLORA/perl-5.17.4.tar.gz
 File::Download                      0.3  B/BY/BYRNE/File-Download-0.3.zip
 File::Drawing                      0.01  S/SO/SOFTDIA/File-Drawing-0.01.tar.gz
 File::EmptyDirs                    1.06  L/LE/LEOCHARRE/File-EmptyDirs-1.06.tar.gz
@@ -87,7 +87,7 @@ File::fgets                      v0.0.4  M/MS/MSCHWERN/File-fgets-v0.0.4.tar.gz
 File::Filename                     1.05  L/LE/LEOCHARRE/File-Filename-1.05.tar.gz
 File::Filename::Convention         1.05  L/LE/LEOCHARRE/File-Filename-1.05.tar.gz
 File::FilterFuncs                  0.53  M/MU/MUMIAW/File-FilterFuncs-0.53.tar.gz
-File::Find                         1.20  F/FL/FLORA/perl-5.15.4.tar.gz
+File::Find                         1.22  F/FL/FLORA/perl-5.17.4.tar.gz
 File::Find::Age                    0.01  J/JK/JKUTEJ/File-Find-Age-0.01.tar.gz
 File::Find::Closures               1.09  B/BD/BDFOY/File-Find-Closures-1.09.tar.gz
 File::Find::Declare                0.62  R/RP/RPKELLY/File-Find-Declare-0.62.tar.gz
@@ -174,7 +174,7 @@ File::Gettext                  v0.12.406  P/PJ/PJFL/file-dataclass/File-DataClas
 File::Gettext::Constants       v0.12.406  P/PJ/PJFL/file-dataclass/File-DataClass-0.12.409.tar.gz
 File::Gettext::Storage::MO     v0.12.406  P/PJ/PJFL/file-dataclass/File-DataClass-0.12.409.tar.gz
 File::Gettext::Storage::PO     v0.12.406  P/PJ/PJFL/file-dataclass/File-DataClass-0.12.409.tar.gz
-File::Glob                         1.13  F/FL/FLORA/perl-5.15.4.tar.gz
+File::Glob                         1.17  F/FL/FLORA/perl-5.17.4.tar.gz
 File::Glob::Slurp                  0.02  D/DA/DANKOGAI/File-Glob-Slurp-0.02.tar.gz
 File::Glob::Windows               0.1.5  T/TA/TATE/File-Glob-Windows-0.1.5.tar.gz
 File::GlobMapper                  1.000  P/PM/PMQS/IO-Compress-2.055.tar.gz
@@ -448,7 +448,7 @@ File::Split                        0.30  M/MI/MIDDLETO/File-Split-0.30.tar.gz
 File::Spotlight                    0.05  M/MI/MIYAGAWA/File-Spotlight-0.05.tar.gz
 File::Stamped                      0.02  T/TO/TOKUHIROM/File-Stamped-0.02.tar.gz
 File::Stat                         0.01  M/MA/MAKOTO/File-Stat-0.01.tar.gz
-File::stat                         1.05  F/FL/FLORA/perl-5.15.4.tar.gz
+File::stat                         1.07  F/FL/FLORA/perl-5.17.4.tar.gz
 File::Stat::Bits                   0.19  F/FE/FEDOROV/File-Stat-Bits-1.01.tar.gz
 File::Stat::Bits::dirty            0.19  F/FE/FEDOROV/File-Stat-Bits-1.01.tar.gz
 File::Stat::Ls                    undef  G/GE/GEOTIGER/File-Stat-Ls-0.11.tar.gz
@@ -559,10 +559,10 @@ File::Zglob                        0.11  T/TO/TOKUHIROM/File-Zglob-0.11.tar.gz
 File_manager                      undef  G/GR/GROMMIER/Text-Editor-Easy-0.01.tar.gz
 file_reporter                     undef  P/PH/PHOENIXL/extensible_report_generator_1.13.zip
 File_Transfer                     undef  R/RE/REEDFISH/Net-FullAuto-0.999914.tar.gz
-FileCache                          1.08  F/FL/FLORA/perl-5.15.4.tar.gz
+FileCache                          1.08  F/FL/FLORA/perl-5.17.4.tar.gz
 FileCache::Handle                 0.002  J/JO/JOSEPHW/FileCache-Handle-0.002.tar.gz
 FileContents                          1  D/DU/DUELAFN/Test-WWW-Mechanize-Driver-0.6.tar.gz
-FileHandle                         2.02  F/FL/FLORA/perl-5.15.4.tar.gz
+FileHandle                         2.02  F/FL/FLORA/perl-5.17.4.tar.gz
 FileHandle::Fmode                  0.11  S/SI/SISYPHUS/FileHandle-Fmode-0.11.tar.gz
 FileHandle::Unget                0.1623  D/DC/DCOPPIT/FileHandle-Unget-0.1623.tar.gz
 FileHandle::Unget::Tie           0.1623  D/DC/DCOPPIT/FileHandle-Unget-0.1623.tar.gz

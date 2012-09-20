@@ -313,7 +313,7 @@ Hadoop::Streaming::Reducer::Input::Iterator 0.122420  S/SP/SPAZM/Hadoop-Streamin
 Hadoop::Streaming::Reducer::Input::ValuesIterator 0.122420  S/SP/SPAZM/Hadoop-Streaming-0.122420.tar.gz
 Hadoop::Streaming::Role::Emitter 0.122420  S/SP/SPAZM/Hadoop-Streaming-0.122420.tar.gz
 Hadoop::Streaming::Role::Iterator 0.122420  S/SP/SPAZM/Hadoop-Streaming-0.122420.tar.gz
-Haiku                              0.34  F/FL/FLORA/perl-5.15.4.tar.gz
+Haiku                              0.34  F/FL/FLORA/perl-5.17.4.tar.gz
 Haiku::SysInfo                    0.001  T/TO/TONYC/Haiku-SysInfo-0.001.tar.gz
 hail                                1.0  M/ME/METZZO/TiVo-HME-1.3.tar.gz
 Hailo                              0.70  H/HI/HINRIK/Hailo-0.70.tar.gz
@@ -545,8 +545,8 @@ Hash::Tally                        0.02  A/AD/ADAPAY/Hash-Tally-0.02.tar.gz
 Hash::Transform                    0.01  D/DT/DTRISCHUK/Hash-Transform-0.01.tar.gz
 Hash::Type                         1.08  D/DA/DAMI/Hash-Type-1.08.tar.gz
 Hash::Union                        0.03  L/LO/LONERR/Hash-Union-0.03.tar.gz
-Hash::Util                         0.11  F/FL/FLORA/perl-5.15.4.tar.gz
-Hash::Util::FieldHash              1.10  F/FL/FLORA/perl-5.15.4.tar.gz
+Hash::Util                         0.12  F/FL/FLORA/perl-5.17.4.tar.gz
+Hash::Util::FieldHash              1.10  F/FL/FLORA/perl-5.17.4.tar.gz
 Hash::Util::FieldHash::Compat      0.03  N/NU/NUFFIN/Hash-Util-FieldHash-Compat-0.03.tar.gz
 Hash::Util::FieldHash::Compat::Destroyer undef  N/NU/NUFFIN/Hash-Util-FieldHash-Compat-0.03.tar.gz
 Hash::Util::FieldHash::Compat::Tie::FieldHash undef  N/NU/NUFFIN/Hash-Util-FieldHash-Compat-0.03.tar.gz
