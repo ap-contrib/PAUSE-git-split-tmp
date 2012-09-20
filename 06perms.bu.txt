@@ -329,6 +329,7 @@ Business::BR::CPF,FERREIRA,f
 Business::BR::IE,FERREIRA,f
 Business::BR::Ids,FERREIRA,f
 Business::BR::Ids::Common,FERREIRA,f
+Business::BR::NFe::RPS::TXT,RENTOCRON,f
 Business::BR::PIS,FERREIRA,f
 Business::BR::RG,RENTOCRON,f
 Business::BalancedPayments,IRONCAMEL,c
