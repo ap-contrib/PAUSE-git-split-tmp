@@ -200,6 +200,7 @@ MasonX::Request::WithApacheSession2 0.01  B/BE/BEAU/MasonX-Request-WithApacheSes
 MasonX::Request::WithMulti2Session undef  B/BE/BEAU/MasonX-Request-WithApache2Session-0.04.tar.gz
 MasonX::Request::WithMultiSession undef  B/BL/BLHOTSKY/MasonX-Request-WithApacheSession-0.31.tar.gz
 MasonX::Request::WithMultiSession2 undef  B/BE/BEAU/MasonX-Request-WithApacheSession2-0.01.tar.gz
+MasonX::Resolver::AutoInherit     0.001  R/RJ/RJBS/MasonX-Resolver-AutoInherit-0.001.tar.gz
 MasonX::Resolver::CVS              0.02  K/KO/KORTY/MasonX-Resolver-CVS-0.02.tar.gz
 MasonX::Resolver::ExtendedCompRoot 0.03  S/SG/SGP/MasonX-Request-ExtendedCompRoot-0.03.tar.gz
 MasonX::Resolver::File::Apache2Handler 0.05  B/BE/BEAU/MasonX-Apache2Handler-0.05.tar.gz
