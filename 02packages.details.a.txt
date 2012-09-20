@@ -330,7 +330,7 @@ Bash::Completion::Plugins::pinto  0.003  S/SC/SCHWIGON/Bash-Completion-Plugins-p
 Bash::Completion::Plugins::VimTag 1.110690  M/MA/MARCEL/Bash-Completion-Plugins-VimTag-1.110690.tar.gz
 Bash::Completion::Request         0.008  M/ME/MELO/Bash-Completion-0.008.tar.gz
 Bash::Completion::Utils           0.008  M/ME/MELO/Bash-Completion-0.008.tar.gz
-BasicAuthAgent                    undef  N/NU/NUDDLEGG/WebService-Cmis-0.05.tar.gz
+BasicAuthAgent                    undef  N/NU/NUDDLEGG/WebService-Cmis-0.06.tar.gz
 BasicType                          2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
 basis                           0.05003  S/SK/SKNPP/basis/basis-0.05003.tar.gz
 Basket                            undef  R/RS/RSYMES/CGI-Panel-0.97.tar.gz

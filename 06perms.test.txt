@@ -1658,6 +1658,7 @@ Text::Histogram,NEVES,f
 Text::HistogramChart,MIKKOI,f
 Text::Hunspell,COSIMO,c
 Text::Hunspell,ELEONORA,f
+Text::Hunspell,SHLOMIF,c
 Text::Hyphen,KAPPA,f
 Text::Hyphen::RU,KAPPA,f
 Text::Hyphenate,MJD,f
