@@ -619,6 +619,5 @@ IO::Buffered::Size                 1.00  T/TL/TLBDK/IO-Buffered-1.00.tar.gz
 IO::Buffered::Split                1.00  T/TL/TLBDK/IO-Buffered-1.00.tar.gz
 IO::BufferedSelect                  1.0  A/AF/AFN/IO-BufferedSelect-1.0.tar.gz
 IO::Busy                       0.000003  D/DC/DCONWAY/IO-Busy-0.0.3.tar.gz
-IO::c55Capture                    undef  S/SH/SHAY/perl-5.17.3.tar.gz
 IO::Callback                       1.10  T/TO/TOBYINK/IO-Callback-1.10.tar.gz
 IO::Callback::HTTP                0.001  T/TO/TOBYINK/IO-Callback-HTTP-0.001.tar.gz

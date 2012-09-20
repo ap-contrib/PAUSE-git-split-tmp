@@ -167,8 +167,8 @@ EventServer::TimedClientWrapper     2.3  J/JA/JACKS/EventServer-2.3.tar.gz
 EventyRole                        undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 EventySubSystem                   undef  R/RC/RCAPUTO/Reflex-0.098.tar.gz
 Every                              0.08  T/TE/TEODOR/Every-0.08.tar.gz
-EVERY                              0.65  F/FL/FLORA/perl-5.17.4.tar.bz2
-EVERY::LAST                        0.65  F/FL/FLORA/perl-5.17.4.tar.bz2
+EVERY                              0.65  F/FL/FLORA/NEXT-0.65.tar.gz
+EVERY::LAST                        0.65  F/FL/FLORA/NEXT-0.65.tar.gz
 everywhere                         0.07  A/AW/AWWAIID/everywhere-0.07.tar.gz
 EvilBoss::Address                     1  A/AL/ALEXEVIL/evilboss/EvilBoss-1.01.tar.gz
 EvilBoss::Check                       1  A/AL/ALEXEVIL/evilboss/EvilBoss-1.01.tar.gz
@@ -402,7 +402,7 @@ Experimental::Sample              undef  M/MC/MCAST/Test-Unit-0.25.tar.gz
 Expirable                          0.02  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 Export::Lexical                  v0.0.4  C/CG/CGRAU/Export-Lexical-v0.0.4.tar.gz
 ExportAbove                        0.02  S/SE/SEYN/ExportAbove-0.02.tar.gz
-Exporter                           5.67  F/FL/FLORA/perl-5.17.4.tar.bz2
+Exporter                           5.67  T/TO/TODDR/Exporter-5.66.tar.gz
 Exporter::Auto                     0.01  T/TO/TOKUHIROM/Exporter-Auto-0.01.tar.gz
 Exporter::AutoClean                0.01  T/TY/TYPESTER/Exporter-AutoClean-0.01.tar.gz
 Exporter::Cluster                  0.31  D/DH/DHAGEMAN/Exporter-Cluster-0.31.tar.gz
@@ -457,7 +457,7 @@ ExtUtils::CBuilder::Platform::Windows::BCC 0.280205  D/DA/DAGOLDEN/ExtUtils-CBui
 ExtUtils::CBuilder::Platform::Windows::GCC 0.280205  D/DA/DAGOLDEN/ExtUtils-CBuilder-0.280205.tar.gz
 ExtUtils::CBuilder::Platform::Windows::MSVC 0.280205  D/DA/DAGOLDEN/ExtUtils-CBuilder-0.280205.tar.gz
 ExtUtils::CChecker                 0.08  P/PE/PEVANS/ExtUtils-CChecker-0.08.tar.gz
-ExtUtils::Command                  1.17  F/FL/FLORA/perl-5.17.4.tar.bz2
+ExtUtils::Command                  1.17  F/FL/FLORA/ExtUtils-Command-1.17.tar.gz
 ExtUtils::Command::MM              6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz
 ExtUtils::Config                  0.006  L/LE/LEONT/ExtUtils-Config-0.006.tar.gz
 ExtUtils::configPL                  1.1  P/PE/PEASE/ExtUtils-configPL-1.1.tar.gz
@@ -493,7 +493,7 @@ ExtUtils::MakeMaker::_version      6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.t
 ExtUtils::MakeMaker::Config        6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz
 ExtUtils::MakeMaker::Dist::Zilla::Develop 0.02  D/DO/DOY/ExtUtils-MakeMaker-Dist-Zilla-Develop-0.02.tar.gz
 ExtUtils::MakeMaker::JSONMETA     7.001  R/RJ/RJBS/JSON-CPAN-Meta-7.001.tar.gz
-ExtUtils::Manifest                 1.61  F/FL/FLORA/perl-5.17.4.tar.bz2
+ExtUtils::Manifest                 1.61  F/FL/FLORA/ExtUtils-Manifest-1.61.tar.gz
 ExtUtils::Mkbootstrap              6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz
 ExtUtils::Mksymlists               6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz
 ExtUtils::MM                       6.62  M/MS/MSCHWERN/ExtUtils-MakeMaker-6.62.tar.gz

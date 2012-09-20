@@ -327,9 +327,9 @@ enum::fields::extending               1  D/DM/DMLLOYD/enum-fields-1.0.tar.gz
 enum::hash                         1.00  C/CF/CFRANKS/enum-hash-1.00.tar.gz
 Enumeration                        0.03  R/RO/ROODE/Enumeration-0.03.tar.gz
 EnumType                           2.60  P/PE/PERRAD/CORBA-IDL-2.60.tar.gz
-Env                                1.03  F/FL/FLORA/perl-5.17.4.tar.bz2
-Env::Array                         1.03  F/FL/FLORA/perl-5.17.4.tar.bz2
-Env::Array::VMS                    1.03  F/FL/FLORA/perl-5.17.4.tar.bz2
+Env                                1.03  F/FL/FLORA/Env-1.03.tar.gz
+Env::Array                         1.03  F/FL/FLORA/Env-1.03.tar.gz
+Env::Array::VMS                    1.03  F/FL/FLORA/Env-1.03.tar.gz
 Env::Bash                          0.04  B/BE/BEAU/Env-Bash-0.04.tar.gz
 Env::C                             0.09  M/MS/MSCHOUT/Env-C-0.09.tar.gz
 Env::Export                        0.22  R/RJ/RJRAY/Env-Export-0.22.tar.gz

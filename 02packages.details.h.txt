@@ -131,7 +131,7 @@ HyperWave::CSP::Message           undef  G/GO/GOSSAMER/HyperWave-CSP-0.03.1.tar.
 i18n                               0.10  A/AU/AUDREYT/i18n-0.10.tar.gz
 I18N::AcceptLanguage               1.04  C/CG/CGILMORE/I18N-AcceptLanguage-1.04.tar.gz
 I18N::Charset                     1.401  M/MT/MTHURN/I18N-Charset-1.401.tar.gz
-I18N::Collate                      1.02  F/FL/FLORA/perl-5.17.4.tar.bz2
+I18N::Collate                      1.02  F/FL/FLORA/I18N-Collate-1.02.tar.gz
 I18N::Handle                      0.051  C/CO/CORNELIUS/I18N-Handle-0.051.tar.gz
 I18N::Handle::Abstract            undef  C/CO/CORNELIUS/I18N-Handle-0.051.tar.gz
 I18N::Handle::Base                undef  C/CO/CORNELIUS/I18N-Handle-0.02.tar.gz

@@ -45,7 +45,7 @@ IO::Default::DEFOUT                1.03  N/NW/NWIGER/IO-Default-1.03.tar.gz
 IO::Detect                        0.005  T/TO/TOBYINK/IO-Detect-0.005.tar.gz
 IO::Detect::SmartMatcher          0.005  T/TO/TOBYINK/IO-Detect-0.005.tar.gz
 IO::Digest                         0.10  C/CL/CLKAO/IO-Digest-0.10.tar.gz
-IO::Dir                            1.10  F/FL/FLORA/perl-5.17.4.tar.bz2
+IO::Dir                            1.07  G/GB/GBARR/IO-1.25.tar.gz
 IO::Dir::Dirfd                     0.01  G/GR/GRUBER/IO-Dir-Dirfd-0.01.tar.gz
 IO::Dir::Recursive                 0.03  F/FL/FLORA/IO-Dir-Recursive-0.03.tar.gz
 IO::Dirent                         0.05  S/SC/SCOTTW/IO-Dirent-0.05.tar.gz
@@ -90,7 +90,7 @@ IO::Events::stdout                  0.6  K/KA/KARASIK/IO-Events-0.6.tar.gz
 IO::Events::Timer                   0.6  K/KA/KARASIK/IO-Events-0.6.tar.gz
 IO::ExplicitHandle                    0  Z/ZE/ZEFRAM/IO-ExplicitHandle-0.000.tar.gz
 IO::Extended                        1.0  M/MU/MUENALAN/IO-Extended-0.16.tar.gz
-IO::File                           1.16  F/FL/FLORA/perl-5.17.4.tar.bz2
+IO::File                           1.14  G/GB/GBARR/IO-1.25.tar.gz
 IO::File::AtomicChange             0.03  H/HI/HIROSE/IO-File-AtomicChange-0.03.tar.gz
 IO::File::Cached                    1.0  D/DA/DANBERR/IO-File-Cached-1.0.1.tar.gz
 IO::File::CompressOnClose          0.11  J/JF/JFITZ/IO-File-CompressOnClose-0.11.tar.gz
@@ -106,7 +106,7 @@ IO::File::SE                   0.000002  D/DC/DCONWAY/IO-InSitu-0.0.2.tar.gz
 IO::File::WithFilename             0.01  I/IF/IFOMICHEV/IO-File-WithFilename-0.01.tar.gz
 IO::File::WithPath                 0.08  C/CH/CHIBA/IO-File-WithPath-0.08.tar.gz
 IO::Ftp                            0.05  M/MI/MIKEB/IO-Ftp-0.05.tar.gz
-IO::Handle                         1.33  F/FL/FLORA/perl-5.17.4.tar.bz2
+IO::Handle                         1.28  G/GB/GBARR/IO-1.25.tar.gz
 IO::Handle::Iterator              undef  N/NU/NUFFIN/IO-Handle-Util-0.01.tar.gz
 IO::Handle::Iterator::Buffered    undef  N/NU/NUFFIN/IO-Handle-Util-0.01.tar.gz
 IO::Handle::Prototype             undef  N/NU/NUFFIN/IO-Handle-Util-0.01.tar.gz
@@ -193,8 +193,8 @@ IO::Pager                           0.3  J/JP/JPIERCE/IO-Pager-0.30.tgz
 IO::Pager::Buffered                 0.3  J/JP/JPIERCE/IO-Pager-0.30.tgz
 IO::Pager::Page                    0.16  J/JP/JPIERCE/IO-Pager-0.30.tgz
 IO::Pager::Unbuffered               0.3  J/JP/JPIERCE/IO-Pager-0.30.tgz
-IO::Pipe                           1.15  F/FL/FLORA/perl-5.17.4.tar.bz2
-IO::Pipe::End                      1.15  F/FL/FLORA/perl-5.17.4.tar.bz2
+IO::Pipe                           1.13  G/GB/GBARR/IO-1.25.tar.gz
+IO::Pipe::End                      1.13  G/GB/GBARR/IO-1.25.tar.gz
 IO::Pipe::Producer                  1.5  R/RO/ROBLEACH/IO-Pipe-Producer-1.5.tar.gz
 IO::Pipeline                   0.009002  M/MS/MSTROUT/IO-Pipeline-0.009002.tar.gz
 IO::Pipely                        0.002  R/RC/RCAPUTO/IO-Pipely-0.002.tar.gz
@@ -223,15 +223,15 @@ IO::Pty::HalfDuplex::SysctlPoll   undef  S/SO/SOREAR/IO-Pty-HalfDuplex-0.02.tar.
 IO::React                          1.03  G/GA/GARROW/IO-React-1.03.tar.gz
 IO::Scalar                        2.110  D/DS/DSKOLL/IO-stringy-2.110.tar.gz
 IO::ScalarArray                   2.110  D/DS/DSKOLL/IO-stringy-2.110.tar.gz
-IO::Seekable                       1.10  F/FL/FLORA/perl-5.17.4.tar.bz2
-IO::Select                         1.21  F/FL/FLORA/perl-5.17.4.tar.bz2
+IO::Seekable                       1.10  G/GB/GBARR/IO-1.25.tar.gz
+IO::Select                         1.17  G/GB/GBARR/IO-1.25.tar.gz
 IO::Select::Trap                  0.032  S/SC/SCOTTS/IO-Select-Trap-0.032.tar.gz
 IO::SendFile                       0.01  A/AD/ADDI/IO-SendFile-0.01.tar.gz
 IO::SessionData                    1.02  M/MK/MKUTTER/SOAP-Lite-0.714.tar.gz
 IO::SessionSet                    undef  M/MK/MKUTTER/SOAP-Lite-0.714.tar.gz
 IO::Simple                         0.04  E/ER/ERICJH/IO-Simple-0.04.tar.gz
 IO::Sockatmark                     1.00  L/LD/LDS/IO-Sockatmark-1.00.tar.gz
-IO::Socket                         1.35  F/FL/FLORA/perl-5.17.4.tar.bz2
+IO::Socket                         1.31  G/GB/GBARR/IO-1.25.tar.gz
 IO::Socket::ByteCounter        0.000002  D/DM/DMUEY/IO-Socket-ByteCounter-v0.0.2.tar.gz
 IO::Socket::CLI                    0.02  A/AS/ASHLEYW/IO-Socket-CLI-0.02.tar.gz
 IO::Socket::CLI::IMAP             undef  A/AS/ASHLEYW/IO-Socket-CLI-0.02.tar.gz
