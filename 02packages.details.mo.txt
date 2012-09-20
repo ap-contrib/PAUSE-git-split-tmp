@@ -808,7 +808,7 @@ Muldis::Rosetta::Interface::Value 0.016000  D/DU/DUNCAND/Muldis-Rosetta-0.16.0.t
 Muldis::Rosetta::Validator     0.016000  D/DU/DUNCAND/Muldis-Rosetta-0.16.0.tar.gz
 multi_step                        undef  N/NE/NES/Nes-1.03.tar.gz
 multidimensional                  0.010  I/IL/ILMARI/multidimensional-0.010.tar.gz
-MultipartBuffer                    3.60  F/FL/FLORA/perl-5.17.4.tar.bz2
+MultipartBuffer                    3.60  L/LD/LDS/CGI.pm-3.50.tar.gz
 Multiple::Authors                  0.05  S/SH/SHAY/perl-5.17.3.tar.bz2
 MultiProcFactory                   0.04  A/AA/AAKD/MultiProcFactory-0.04.tar.gz
 MultiProcFactory::Generic          0.01  A/AA/AAKD/MultiProcFactory-0.04.tar.gz

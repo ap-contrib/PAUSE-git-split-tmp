@@ -213,7 +213,7 @@ Thread::Isolate::Thread::EVAL     undef  G/GM/GMPASSOS/Thread-Isolate-0.05.tar.g
 Thread::Iterator                    0.1  M/MI/MICB/ThreadIterator-0.1.tar.gz
 Thread::Pool                       0.33  E/EL/ELIZABETH/Thread-Pool-0.33.tar.gz
 Thread::Pool::Simple               0.25  J/JW/JWU/Thread-Pool-Simple/Thread-Pool-Simple-0.25.tar.gz
-Thread::Queue                      2.12  F/FL/FLORA/perl-5.17.4.tar.bz2
+Thread::Queue                      2.12  J/JD/JDHEDDEN/Thread-Queue-2.12.tar.gz
 Thread::Queue::Any                 1.12  E/EL/ELIZABETH/Thread-Queue-Any-1.12.tar.gz
 Thread::Queue::Any::Monitored      1.02  E/EL/ELIZABETH/Thread-Queue-Any-Monitored-1.02.tar.gz
 Thread::Queue::Duplex              0.92  D/DA/DARNOLD/Thread-Queue-Duplex-0.92.tar.gz
@@ -227,7 +227,7 @@ Thread::Resource::RWLock           2.01  D/DA/DARNOLD/Thread-Resource-RWLock-2.0
 Thread::Resource::RWLock::Array    2.01  D/DA/DARNOLD/Thread-Resource-RWLock-2.01.tar.gz
 Thread::Running                    0.07  E/EL/ELIZABETH/Thread-Running-0.07.tar.gz
 Thread::RWLock                     1.02  A/AF/AFERBER/Thread-RWLock-1.02.tar.gz
-Thread::Semaphore                  2.12  F/FL/FLORA/perl-5.17.4.tar.bz2
+Thread::Semaphore                  2.12  J/JD/JDHEDDEN/Thread-Semaphore-2.12.tar.gz
 Thread::Serialize                  1.00  E/EL/ELIZABETH/Thread-Serialize-1.00.tar.gz
 Thread::Shared                    undef  D/DS/DSNOPEK/Xmldoom-0.0.16.tar.gz
 Thread::Shared::Array             undef  D/DS/DSNOPEK/Xmldoom-0.0.16.tar.gz
@@ -736,8 +736,8 @@ Tie::Redis::Connection             0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
 Tie::Redis::Hash                   0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
 Tie::Redis::List                   0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
 Tie::Redis::Scalar                 0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
-Tie::RefHash                       1.39  F/FL/FLORA/perl-5.17.4.tar.bz2
-Tie::RefHash::Nestable             1.39  F/FL/FLORA/perl-5.17.4.tar.bz2
+Tie::RefHash                       1.39  F/FL/FLORA/Tie-RefHash-1.39.tar.gz
+Tie::RefHash::Nestable             1.39  F/FL/FLORA/Tie-RefHash-1.39.tar.gz
 Tie::RefHash::Weak                 0.09  N/NU/NUFFIN/Tie-RefHash-Weak-0.09.tar.gz
 Tie::RegexpHash                    0.15  R/RC/RCH/Tie-RegexpHash-0.15.tar.gz
 Tie::Registry                      0.15  A/AD/ADAMK/Win32-TieRegistry-0.26.tar.gz
@@ -899,7 +899,7 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                     1.22  A/AH/AHICOX/Time-Interval-1.22.tar.gz
 Time::JulianDay                2011.0505  M/MU/MUIR/modules/Time-modules-2011.0517.tar.gz
-Time::Local                      1.2300  F/FL/FLORA/perl-5.17.4.tar.bz2
+Time::Local                      1.2300  D/DR/DROLSKY/Time-Local-1.2300.tar.gz
 Time::localtime                    1.02  F/FL/FLORA/perl-5.17.4.tar.bz2
 Time::LST                         0.038  R/RG/RGARTON/Time-LST-0.038.tar.gz
 Time::Mock                       v0.0.2  E/EW/EWILHELM/Time-Mock-v0.0.2.tar.gz

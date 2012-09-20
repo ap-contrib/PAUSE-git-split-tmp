@@ -257,7 +257,7 @@ Math::BigInt::Random               0.04  B/BI/BILLH/Math-BigInt-Random-0.04.tar.
 Math::BigInt::Random::OO           0.03  P/PJ/PJACKLAM/Math-BigInt-Random-OO-0.03.tar.gz
 Math::BigInt::Scalar               0.13  F/FL/FLORA/perl-5.17.4.tar.bz2
 Math::BigInt::Trace                0.30  F/FL/FLORA/bignum-0.30.tar.gz
-Math::BigRat                     0.2603  F/FL/FLORA/perl-5.17.4.tar.bz2
+Math::BigRat                     0.2603  P/PJ/PJACKLAM/Math-BigRat-0.2602.tar.gz
 Math::BigSimple                     1.1  S/SP/SPECTRUM/Math-BigSimple-1.1a.tar.gz
 Math::BLAS                         1.01  R/RA/RALPH/Math-BLAS-1.01.tar.gz
 Math::BLAS::Enum                   1.01  R/RA/RALPH/Math-BLAS-1.01.tar.gz
