@@ -1609,6 +1609,7 @@ Dist::Zilla::Plugin::Test::CheckManifest,ALEXBIO,f
 Dist::Zilla::Plugin::Test::Compile,JQUELIN,f
 Dist::Zilla::Plugin::Test::DistManifest,DOHERTY,f
 Dist::Zilla::Plugin::Test::EOL,XENO,f
+Dist::Zilla::Plugin::Test::Fixme,ARJONES,f
 Dist::Zilla::Plugin::Test::Kwalitee,AYOUNG,f
 Dist::Zilla::Plugin::Test::Kwalitee,DOHERTY,c
 Dist::Zilla::Plugin::Test::Legal,AYOUNG,f
