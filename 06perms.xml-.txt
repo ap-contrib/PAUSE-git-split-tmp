@@ -726,6 +726,7 @@ XS_CstubVisitor,PERRAD,f
 XS_PerlStubVisitor,PERRAD,f
 XT::Business,JTANG,f
 XT::Business::Plugin::Bar,JTANG,f
+XT::Util,TOBYINK,f
 XTM,DRRHO,f
 XTM::ATM,DRRHO,f
 XTM::AsTMa,DRRHO,f
