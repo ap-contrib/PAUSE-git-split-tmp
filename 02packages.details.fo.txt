@@ -549,7 +549,7 @@ Fukurama::Class::Implements       undef  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.g
 Fukurama::Class::Rigid             0.02  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
 Fukurama::Class::Tree             undef  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
 Fukurama::Class::Version           0.02  T/TO/TOBIWAN/Fukurama-Class-0.032.tar.gz
-Fun                                0.04  D/DO/DOY/Fun-0.04.tar.gz
+Fun                                0.05  D/DO/DOY/Fun-0.05.tar.gz
 Function::ID                       0.02  R/RO/ROODE/Function_ID-0.02.tar.gz
 Function::Override                 0.03  M/MS/MSCHWERN/Function-Override-0.03.tar.gz
 Function::Parameters               0.08  M/MA/MAUKE/Function-Parameters-0.08.tar.gz
