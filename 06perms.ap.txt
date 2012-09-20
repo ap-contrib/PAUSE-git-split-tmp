@@ -580,8 +580,10 @@ App::Presto::CommandFactory,BPHILLIPS,f
 App::Presto::CommandHasHelp,BPHILLIPS,f
 App::Presto::Config,BPHILLIPS,f
 App::Presto::InstallableCommand,BPHILLIPS,f
+App::Presto::PrettyPrinter,BPHILLIPS,f
 App::Presto::ShellUI,BPHILLIPS,f
 App::Presto::Stash,BPHILLIPS,f
+App::Presto::WithPrettyPrinter,BPHILLIPS,f
 App::Prima::REPL,DCMERTENS,f
 App::ProcIops,JJORE,f
 App::Prolix,GAAL,f
