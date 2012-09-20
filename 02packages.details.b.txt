@@ -53,7 +53,7 @@ Business::BR::CPF                0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.ta
 Business::BR::Ids                0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.tar.gz
 Business::BR::Ids::Common        0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.tar.gz
 Business::BR::IE                 0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.tar.gz
-Business::BR::NFe::RPS::TXT       undef  R/RE/RENTOCRON/Business-BR-NFe-RPS-TXT-0.01.tar.gz
+Business::BR::NFe::RPS::TXT       undef  R/RE/RENTOCRON/Business-BR-NFe-RPS-TXT-0.012.tar.gz
 Business::BR::PIS                0.0022  F/FE/FERREIRA/Business-BR-Ids-0.0022.tar.gz
 Business::BR::RG                  0.001  R/RE/RENTOCRON/Business-BR-RG-0.002.tar.gz
 Business::CA::GST                  1.01  O/OA/OALDERS/Business-CA-GST-1.01.tar.gz
