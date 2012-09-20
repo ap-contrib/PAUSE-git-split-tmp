@@ -351,7 +351,7 @@ Net::HL7::Request                 undef  D/DD/DDOKTER/Net-HL7-0.76.tar.gz
 Net::HL7::Response                undef  D/DD/DDOKTER/Net-HL7-0.76.tar.gz
 Net::HL7::Segment                 undef  D/DD/DDOKTER/Net-HL7-0.76.tar.gz
 Net::HL7::Segments::MSH           undef  D/DD/DDOKTER/Net-HL7-0.76.tar.gz
-Net::hostent                       1.01  F/FL/FLORA/perl-5.17.4.tar.gz
+Net::hostent                       1.01  F/FL/FLORA/perl-5.17.4.tar.bz2
 Net::HostLanguage                 undef  C/CA/CASIANO/Net-ParSCP-0.15.tar.gz
 Net::Hotline                       0.83  J/JS/JSIRACUSA/Net-Hotline-0.83.tar.gz
 Net::Hotline::Client               0.83  J/JS/JSIRACUSA/Net-Hotline-0.83.tar.gz

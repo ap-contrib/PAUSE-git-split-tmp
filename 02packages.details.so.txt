@@ -55,7 +55,7 @@ Sorauta::Device::USB::Synchronizer 0.01  Y/YU/YUKI/Sorauta-Device-USB-Synchroniz
 Sorauta::SVN::AutoCommit           0.02  Y/YU/YUKI/Sorauta-SVN-AutoCommit-0.02.tar.gz
 Sorauta::SVN::Updater              0.01  Y/YU/YUKI/Sorauta-SVN-Updater-0.01.tar.gz
 Sorauta::Utility                   0.02  Y/YU/YUKI/Sorauta-Utility-0.02.tar.gz
-sort                               2.01  F/FL/FLORA/perl-5.17.4.tar.gz
+sort                               2.01  F/FL/FLORA/perl-5.17.4.tar.bz2
 Sort::ArbBiLex                     4.01  S/SB/SBURKE/Sort-ArbBiLex-4.01.tar.gz
 Sort::Array                        0.26  M/MI/MIDI/Sort-Array-0.26.tar.gz
 Sort::ArrayOfArrays                1.00  E/EA/EARL/Sort-ArrayOfArrays-1.00.tar.gz

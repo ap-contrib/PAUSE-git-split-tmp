@@ -597,7 +597,7 @@ Win32API::ProcessStatus            0.01  P/PR/PRANTL/Win32API-ProcessStatus-0.01
 Win32API::Registry                 0.32  B/BL/BLM/Win32API-Registry-0.32.tar.gz
 Win32API::Resources                0.07  B/BS/BSTURNER/Win32API-Resources-0.06.tar.gz
 Win32API::ToolHelp                 0.02  P/PR/PRANTL/Win32API-ToolHelp-0.02.tar.gz
-Win32CORE                          0.03  F/FL/FLORA/perl-5.17.4.tar.gz
+Win32CORE                          0.03  F/FL/FLORA/perl-5.17.4.tar.bz2
 Winamp::Control                0.002001  M/MU/MUENALAN/Winamp-Control-0.2.1.tar.gz
 WinConsole                         0.01  J/JM/JMVILOMET/Term-WinConsole-0.01.tar.gz
 Window                             0.01  J/JG/JGOFF/Games-Shogi-0.03.tar.gz

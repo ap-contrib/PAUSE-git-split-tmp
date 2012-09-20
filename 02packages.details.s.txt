@@ -423,7 +423,7 @@ SybWWW                            undef  M/ME/MEWP/sybperl-2.19.tar.gz
 Symantec::PCAnywhere::Profile      0.06  K/KU/KULP/Symantec-PCAnywhere-Profile-0.06.tar.gz
 Symantec::PCAnywhere::Profile::CHF 0.06  K/KU/KULP/Symantec-PCAnywhere-Profile-0.06.tar.gz
 Symantec::PCAnywhere::Profile::CIF 0.06  K/KU/KULP/Symantec-PCAnywhere-Profile-0.06.tar.gz
-Symbol                             1.07  F/FL/FLORA/perl-5.17.4.tar.gz
+Symbol                             1.07  F/FL/FLORA/perl-5.17.4.tar.bz2
 Symbol::Approx::Sub                  42  D/DA/DAVECROSS/Symbol-Approx-Sub-2.07.tar.gz
 Symbol::Approx::Sub::Random          29  D/DA/DAVECROSS/Symbol-Approx-Sub-2.07.tar.gz
 Symbol::Approx::Sub::String::Approx  29  D/DA/DAVECROSS/Symbol-Approx-Sub-2.07.tar.gz

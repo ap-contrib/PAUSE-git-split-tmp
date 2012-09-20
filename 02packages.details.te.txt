@@ -178,7 +178,7 @@ Thorium::SystemInfo               0.510  A/AF/AFLOTT/Thorium-0.510.tar.gz
 Thorium::Types                    0.510  A/AF/AFLOTT/Thorium-0.510.tar.gz
 Thorium::TypesTests               0.510  A/AF/AFLOTT/Thorium-0.510.tar.gz
 Thorium::Utils                    0.510  A/AF/AFLOTT/Thorium-0.510.tar.gz
-Thread                             3.02  F/FL/FLORA/perl-5.17.4.tar.gz
+Thread                             3.02  F/FL/FLORA/perl-5.17.4.tar.bz2
 Thread::Apartment                  0.51  D/DA/DARNOLD/Thread-Apartment-0.51.tar.gz
 Thread::Apartment::Client          0.51  D/DA/DARNOLD/Thread-Apartment-0.51.tar.gz
 Thread::Apartment::Closure         0.50  D/DA/DARNOLD/Thread-Apartment-0.51.tar.gz
@@ -213,7 +213,7 @@ Thread::Isolate::Thread::EVAL     undef  G/GM/GMPASSOS/Thread-Isolate-0.05.tar.g
 Thread::Iterator                    0.1  M/MI/MICB/ThreadIterator-0.1.tar.gz
 Thread::Pool                       0.33  E/EL/ELIZABETH/Thread-Pool-0.33.tar.gz
 Thread::Pool::Simple               0.25  J/JW/JWU/Thread-Pool-Simple/Thread-Pool-Simple-0.25.tar.gz
-Thread::Queue                      2.12  F/FL/FLORA/perl-5.17.4.tar.gz
+Thread::Queue                      2.12  F/FL/FLORA/perl-5.17.4.tar.bz2
 Thread::Queue::Any                 1.12  E/EL/ELIZABETH/Thread-Queue-Any-1.12.tar.gz
 Thread::Queue::Any::Monitored      1.02  E/EL/ELIZABETH/Thread-Queue-Any-Monitored-1.02.tar.gz
 Thread::Queue::Duplex              0.92  D/DA/DARNOLD/Thread-Queue-Duplex-0.92.tar.gz
@@ -227,7 +227,7 @@ Thread::Resource::RWLock           2.01  D/DA/DARNOLD/Thread-Resource-RWLock-2.0
 Thread::Resource::RWLock::Array    2.01  D/DA/DARNOLD/Thread-Resource-RWLock-2.01.tar.gz
 Thread::Running                    0.07  E/EL/ELIZABETH/Thread-Running-0.07.tar.gz
 Thread::RWLock                     1.02  A/AF/AFERBER/Thread-RWLock-1.02.tar.gz
-Thread::Semaphore                  2.12  F/FL/FLORA/perl-5.17.4.tar.gz
+Thread::Semaphore                  2.12  F/FL/FLORA/perl-5.17.4.tar.bz2
 Thread::Serialize                  1.00  E/EL/ELIZABETH/Thread-Serialize-1.00.tar.gz
 Thread::Shared                    undef  D/DS/DSNOPEK/Xmldoom-0.0.16.tar.gz
 Thread::Shared::Array             undef  D/DS/DSNOPEK/Xmldoom-0.0.16.tar.gz
@@ -462,7 +462,7 @@ Tie::Alias::Hash                   0.01  D/DA/DAVIDNICO/Tie-Alias-Hash-0.01.tar.
 Tie::AliasHash                     1.01  A/AC/ACALPINI/Tie-AliasHash-1.01.tar.gz
 Tie::Amazon::S3                    0.02  Z/ZA/ZAKAME/Tie-Amazon-S3-0.02.tar.gz
 Tie::AppendHash                   undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/AppendHash.pm.gz
-Tie::Array                         1.05  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::Array                         1.05  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::Array::AsHash                 0.11  R/RE/REHSACK/Tie-Array-AsHash-0.11.tar.gz
 Tie::Array::Atomic                 0.01  Y/YU/YURY/Tie-Array-Atomic-0.01.tar.gz
 Tie::Array::Boolean            0.000001  K/KY/KYLE/Tie-Array-Boolean-0.0.1.tar.gz
@@ -563,7 +563,7 @@ Tie::EncryptedHash                  1.8  V/VI/VIPUL/Tie-EncryptedHash-1.24.tar.g
 Tie::Eudora                        0.01  S/SO/SOFTDIA/Tie-Eudora-0.01.tar.gz
 Tie::ExecHash                      0.91  W/WI/WINTER/Tie-ExecHash-0.91.tar.gz
 Tie::Expression                    0.01  D/DA/DANKOGAI/Tie-Expression-0.01.tar.gz
-Tie::ExtraHash                     1.04  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::ExtraHash                     1.04  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::FieldVals                   0.6202  R/RU/RUBYKAT/Tie-FieldVals-0.6202.tar.gz
 Tie::FieldVals::Join             0.6202  R/RU/RUBYKAT/Tie-FieldVals-0.6202.tar.gz
 Tie::FieldVals::Row              0.6202  R/RU/RUBYKAT/Tie-FieldVals-0.6202.tar.gz
@@ -603,7 +603,7 @@ Tie::Function::Examples            0.44  M/MU/MUIR/modules/File-Slurp-Remote-0.4
 Tie::GHash                         0.12  L/LB/LBROCARD/Tie-GHash-0.12.tar.gz
 Tie::Google                        0.03  D/DA/DARREN/Tie-Google-0.03.tar.gz
 Tie::Gzip                          1.15  S/SO/SOFTDIA/Tie-Gzip-0.06.tar.gz
-Tie::Handle                         4.2  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::Handle                         4.2  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::Handle::CSV                   0.14  D/DA/DANBOO/Tie-Handle-CSV-0.14.tar.gz
 Tie::Handle::CSV::Array               0  D/DA/DANBOO/Tie-Handle-CSV-0.14.tar.gz
 Tie::Handle::CSV::Hash                0  D/DA/DANBOO/Tie-Handle-CSV-0.14.tar.gz
@@ -614,7 +614,7 @@ Tie::Handle::Offset               0.003  D/DA/DAGOLDEN/Tie-Handle-Offset-0.003.t
 Tie::Handle::Scalar                 0.1  A/AN/ANWILL/Tie-Handle-Scalar-0.1.tar.gz
 Tie::Handle::SkipHeader           0.003  D/DA/DAGOLDEN/Tie-Handle-Offset-0.003.tar.gz
 Tie::Handle::TtyRec                0.04  S/SA/SARTAK/Tie-Handle-TtyRec-0.04.tar.gz
-Tie::Hash                          1.04  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::Hash                          1.04  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::Hash::Abbrev                   0.1  F/FA/FANY/Tie-Hash-Array-0.1.tar.gz
 Tie::Hash::Abbrev::BibRefs         0.02  F/FA/FANY/Tie-Hash-Abbrev-BibRefs-0.02.tar.gz
 Tie::Hash::Abbrev::Smart           0.01  F/FA/FANY/Tie-Hash-Array-0.1.tar.gz
@@ -640,7 +640,7 @@ Tie::Hash::LRU                     0.05  Z/ZZ/ZZZ/Tie-Hash-LRU-0.05.tar.gz
 Tie::Hash::Method                  0.02  Y/YV/YVES/Tie-Hash-Method-0.02.tar.gz
 Tie::Hash::MongoDB                 0.01  S/SE/SEWI/Tie-Hash-MongoDB-0.01.tar.gz
 Tie::Hash::MultiValue              1.02  M/MC/MCMAHON/Tie-Hash-MultiValue-1.02.tar.gz
-Tie::Hash::NamedCapture            0.08  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::Hash::NamedCapture            0.08  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::Hash::Random                  1.02  M/MA/MATIU/Tie-Hash-Random-1.02.tar.gz
 Tie::Hash::Rank                   undef  D/DC/DCANTRELL/Tie-Hash-Rank-1.0.1.tar.gz
 Tie::Hash::ReadonlyStack            0.2  D/DM/DMUEY/Tie-Hash-ReadonlyStack-0.2.tar.gz
@@ -689,7 +689,7 @@ Tie::MAB2::Id                     1.005  A/AN/ANDK/MAB2-0.06.tar.gz
 Tie::MAB2::Recno                  1.006  A/AN/ANDK/MAB2-0.06.tar.gz
 Tie::MAB2::RecnoViaId              0.30  A/AN/ANDK/MAB2-0.06.tar.gz
 Tie::Math                          0.10  M/MS/MSCHWERN/Tie-Math-0.10.tar.gz
-Tie::Memoize                        1.1  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::Memoize                        1.1  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::MLDBM                         1.04  R/RO/ROBAU/Tie-MLDBM-1.04.tar.gz
 Tie::MLDBM::Lock::File             1.04  R/RO/ROBAU/Tie-MLDBM-1.04.tar.gz
 Tie::MLDBM::Lock::Null             1.04  R/RO/ROBAU/Tie-MLDBM-1.04.tar.gz
@@ -736,8 +736,8 @@ Tie::Redis::Connection             0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
 Tie::Redis::Hash                   0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
 Tie::Redis::List                   0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
 Tie::Redis::Scalar                 0.25  D/DG/DGL/Tie-Redis-0.25.tar.gz
-Tie::RefHash                       1.39  F/FL/FLORA/perl-5.17.4.tar.gz
-Tie::RefHash::Nestable             1.39  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::RefHash                       1.39  F/FL/FLORA/perl-5.17.4.tar.bz2
+Tie::RefHash::Nestable             1.39  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::RefHash::Weak                 0.09  N/NU/NUFFIN/Tie-RefHash-Weak-0.09.tar.gz
 Tie::RegexpHash                    0.15  R/RC/RCH/Tie-RegexpHash-0.15.tar.gz
 Tie::Registry                      0.15  A/AD/ADAMK/Win32-TieRegistry-0.26.tar.gz
@@ -752,7 +752,7 @@ Tie::RevHash                      undef  T/TO/TOMC/scripts/CS-Talk/source/dstruc
 Tie::RevRefHash                   undef  T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/RevRefHash.pm.gz
 Tie::Rowset::InMemory              1.14  B/BB/BBC/SQL-Shell-1.14.tar.gz
 Tie::SaveLater                     0.04  D/DA/DANKOGAI/Tie-SaveLater-0.04.tar.gz
-Tie::Scalar                        1.02  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::Scalar                        1.02  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::Scalar::Decay                undef  D/DC/DCANTRELL/Tie-Scalar-Decay-1.1.1.tar.gz
 Tie::Scalar::MarginOfError         0.03  S/ST/STRYTOAST/Tie-Scalar-MarginOfError-0.03.tar.gz
 Tie::Scalar::OK                    1.06  J/JE/JEFFA/Tie-Scalar-OK-1.06.tar.gz
@@ -777,12 +777,12 @@ Tie::Simple::Scalar               undef  H/HA/HANENKAMP/Tie-Simple-1.03.tar.gz
 Tie::Simple::Util                  1.01  H/HA/HANENKAMP/Tie-Simple-1.03.tar.gz
 Tie::SortHash                      1.01  C/CT/CTWETEN/Tie-SortHash-1.01.tar.gz
 Tie::Static                        0.04  T/TI/TILLY/Tie-Static-0.04.tar.gz
-Tie::StdArray                      1.05  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::StdArray                      1.05  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::STDERR                        0.26  J/JA/JANPAZ/Tie-STDERR-0.26.tar.gz
-Tie::StdHandle                      4.3  F/FL/FLORA/perl-5.17.4.tar.gz
-Tie::StdHash                       1.04  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::StdHandle                      4.3  F/FL/FLORA/perl-5.17.4.tar.bz2
+Tie::StdHash                       1.04  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::STDOUT                      1.0401  D/DC/DCANTRELL/Tie-STDOUT-1.0401.tar.gz
-Tie::StdScalar                     1.02  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::StdScalar                     1.02  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::StdScalar::Tee               undef  C/CL/CLKAO/SVK-v2.2.3.tar.gz
 Tie::Storable                      0.03  D/DA/DANKOGAI/Tie-SaveLater-0.04.tar.gz
 Tie::Storable::More                0.03  D/DA/DANKOGAI/Tie-SaveLater-0.04.tar.gz
@@ -794,7 +794,7 @@ Tie::StorableDir::Slot            undef  B/BD/BDONLAN/Tie-StorableDir-0.075.tar.
 Tie::StoredOrderHash               0.22  T/TF/TFM/Tie-StoredOrderHash-0.22.tar.gz
 Tie::StrictHash                     1.0  K/KV/KVAIL/Tie-StrictHash-1.0.tar.gz
 Tie::Sub                          1.001  S/ST/STEFFENW/Tie-Sub-1.001.tar.gz
-Tie::SubstrHash                    1.00  F/FL/FLORA/perl-5.17.4.tar.gz
+Tie::SubstrHash                    1.00  F/FL/FLORA/perl-5.17.4.tar.bz2
 Tie::SymlinkTree                    1.1  J/JW/JWALT/Tie-SymlinkTree-1.1.tar.gz
 Tie::SymlinkTree::Array             1.1  J/JW/JWALT/Tie-SymlinkTree-1.1.tar.gz
 Tie::SymlinkTree::Hash              1.1  J/JW/JWALT/Tie-SymlinkTree-1.1.tar.gz
@@ -890,7 +890,7 @@ Time::Format                       1.11  R/RO/ROODE/Time-Format-1.11.tar.gz
 Time::Format_XS                    1.03  R/RO/ROODE/Time-Format_XS-1.03.tar.gz
 Time::Frame                    1.002565  P/PI/PIP/Time-PT-1.2.565EHOV.tgz
 Time::Fuzzy                        0.36  J/JQ/JQUELIN/Time-Fuzzy-0.36.tar.gz
-Time::gmtime                       1.03  F/FL/FLORA/perl-5.17.4.tar.gz
+Time::gmtime                       1.03  F/FL/FLORA/perl-5.17.4.tar.bz2
 Time::GPS                         0.003  Z/ZE/ZEFRAM/Time-GPS-0.003.tar.gz
 Time::HiRes                      1.9725  Z/ZE/ZEFRAM/Time-HiRes-1.9725.tar.gz
 Time::HiRes::Value                 0.07  P/PE/PEVANS/Time-HiRes-Value-0.07.tar.gz
@@ -899,8 +899,8 @@ Time::Human                        1.03  J/JH/JHOBLITT/Time-Human-1.03.tar.gz
 Time::Implementation              undef  F/FO/FOTANGO/Froody-42.034.tar.gz
 Time::Interval                     1.22  A/AH/AHICOX/Time-Interval-1.22.tar.gz
 Time::JulianDay                2011.0505  M/MU/MUIR/modules/Time-modules-2011.0517.tar.gz
-Time::Local                      1.2300  F/FL/FLORA/perl-5.17.4.tar.gz
-Time::localtime                    1.02  F/FL/FLORA/perl-5.17.4.tar.gz
+Time::Local                      1.2300  F/FL/FLORA/perl-5.17.4.tar.bz2
+Time::localtime                    1.02  F/FL/FLORA/perl-5.17.4.tar.bz2
 Time::LST                         0.038  R/RG/RGARTON/Time-LST-0.038.tar.gz
 Time::Mock                       v0.0.2  E/EW/EWILHELM/Time-Mock-v0.0.2.tar.gz
 Time::Normalize                    0.08  R/RO/ROODE/Time-Normalize-0.08.tar.gz
@@ -946,7 +946,7 @@ Time::timegm                       0.01  P/PE/PEVANS/Time-timegm-0.01.tar.gz
 Time::TimeTick                     0.06  P/PJ/PJS/Time-TimeTick-0.06.tar.gz
 Time::Timezone                 2006.0814  M/MU/MUIR/modules/Time-modules-2011.0517.tar.gz
 Time::Tiny                         1.05  A/AD/ADAMK/Time-Tiny-1.05.tar.gz
-Time::tm                           1.00  F/FL/FLORA/perl-5.17.4.tar.gz
+Time::tm                           1.00  F/FL/FLORA/perl-5.17.4.tar.bz2
 Time::Tradedates               0.001002  D/DS/DSPIZZ/Time-Tradedates-0.1.2.tar.gz
 Time::TT                          0.005  Z/ZE/ZEFRAM/Time-TT-0.005.tar.gz
 Time::TT::InterpolatingRealisation 0.005  Z/ZE/ZEFRAM/Time-TT-0.005.tar.gz

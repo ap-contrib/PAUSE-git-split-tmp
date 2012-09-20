@@ -28,7 +28,7 @@ MooX::Types::SetObject            undef  M/MA/MATEU/MooX-Types-MooseLike-0.14.ta
 MOP::MetaModule                   undef  O/OR/ORTALO/MOP-1.00.tar.gz
 MOP::MOP                           1.00  O/OR/ORTALO/MOP-1.00.tar.gz
 MOP::Remote                        0.80  O/OR/ORTALO/MOP-1.00.tar.gz
-Moped::Msg                         0.01  F/FL/FLORA/perl-5.17.4.tar.gz
+Moped::Msg                         0.01  F/FL/FLORA/perl-5.17.4.tar.bz2
 Morale                            0.002  G/GR/GREGOR/Morale-0.002.tar.gz
 MorboDB                        0.001001  I/ID/IDOPEREL/MorboDB-0.001001.tar.gz
 MorboDB::Collection            0.001001  I/ID/IDOPEREL/MorboDB-0.001001.tar.gz
@@ -642,7 +642,7 @@ MR::Pending                       undef  Y/YU/YURAN/MR-Tarantool-0.0.24.tar.gz
 MR::Pending::Item                 undef  Y/YU/YURAN/MR-Tarantool-0.0.24.tar.gz
 MR::SilverBox                     undef  Y/YU/YURAN/MR-Tarantool-0.0.24.tar.gz
 Mrequire                          0.006  G/GO/GOEVERT/Mrequire-0.006.tar.gz
-mro                                1.09  F/FL/FLORA/perl-5.17.4.tar.gz
+mro                                1.09  F/FL/FLORA/perl-5.17.4.tar.bz2
 MRO::Compat                        0.11  F/FL/FLORA/MRO-Compat-0.11.tar.gz
 MRO::Define                        0.01  F/FL/FLORA/MRO-Define-0.01.tar.gz
 MRO::Magic                     0.100000  R/RJ/RJBS/MRO-Magic-0.100000.tar.gz
@@ -808,7 +808,7 @@ Muldis::Rosetta::Interface::Value 0.016000  D/DU/DUNCAND/Muldis-Rosetta-0.16.0.t
 Muldis::Rosetta::Validator     0.016000  D/DU/DUNCAND/Muldis-Rosetta-0.16.0.tar.gz
 multi_step                        undef  N/NE/NES/Nes-1.03.tar.gz
 multidimensional                  0.010  I/IL/ILMARI/multidimensional-0.010.tar.gz
-MultipartBuffer                    3.60  F/FL/FLORA/perl-5.17.4.tar.gz
+MultipartBuffer                    3.60  F/FL/FLORA/perl-5.17.4.tar.bz2
 Multiple::Authors                  0.05  S/SH/SHAY/perl-5.17.3.tar.bz2
 MultiProcFactory                   0.04  A/AA/AAKD/MultiProcFactory-0.04.tar.gz
 MultiProcFactory::Generic          0.01  A/AA/AAKD/MultiProcFactory-0.04.tar.gz

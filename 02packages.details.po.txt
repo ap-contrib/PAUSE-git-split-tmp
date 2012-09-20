@@ -766,7 +766,7 @@ PortConnector                      0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
 PortDirectionDeclaration           0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
 PortItem                           0.01  G/GS/GSLONDON/Parse-Nibbler-0.23.tar.gz
 PosCheck_MPCA_record              undef  A/AA/AARDO/combine_4.005.tar.gz
-POSIX                              1.31  F/FL/FLORA/perl-5.17.4.tar.gz
+POSIX                              1.31  F/FL/FLORA/perl-5.17.4.tar.bz2
 POSIX::1003                        0.13  M/MA/MARKOV/POSIX-1003-0.13.tar.gz
 POSIX::1003::Confstr               0.13  M/MA/MARKOV/POSIX-1003-0.13.tar.gz
 POSIX::1003::Events                0.13  M/MA/MARKOV/POSIX-1003-0.13.tar.gz
@@ -801,8 +801,8 @@ POSIX::RT::Signal                 0.012  L/LE/LEONT/POSIX-RT-Signal-0.012.tar.gz
 POSIX::RT::Spawn                   0.11  G/GR/GRAY/POSIX-RT-Spawn-0.11.tar.gz
 POSIX::RT::Timer                  0.014  L/LE/LEONT/POSIX-RT-Timer-0.014.tar.gz
 POSIX::SchedYield              0.000002  M/MA/MARCB/POSIX-SchedYield/POSIX-SchedYield-0.0.2.tar.gz
-POSIX::SigAction                   1.31  F/FL/FLORA/perl-5.17.4.tar.gz
-POSIX::SigRt                       1.31  F/FL/FLORA/perl-5.17.4.tar.gz
+POSIX::SigAction                   1.31  F/FL/FLORA/perl-5.17.4.tar.bz2
+POSIX::SigRt                       1.31  F/FL/FLORA/perl-5.17.4.tar.bz2
 POSIX::SigSet                     undef  M/MA/MARKOV/POSIX-1003-0.02.tar.gz
 POSIX::Socket                      0.08  Y/YU/YURY/POSIX-Socket-0.08.tar.gz
 POSIX::strptime                    0.10  G/GO/GOZER/POSIX-strptime-0.10.tar.gz
