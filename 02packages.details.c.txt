@@ -1,4 +1,4 @@
-Crypt::Rot47                       0.05  Z/ZB/ZBLAIR/Crypt-Rot47-0.05.tar.gz
+Crypt::Rot47                       0.06  Z/ZB/ZBLAIR/Crypt-Rot47-0.06.tar.gz
 Crypt::RSA                         1.99  V/VI/VIPUL/Crypt-RSA-1.99.tar.gz
 Crypt::RSA::DataFormat            undef  V/VI/VIPUL/Crypt-RSA-1.99.tar.gz
 Crypt::RSA::Debug                 undef  V/VI/VIPUL/Crypt-RSA-1.99.tar.gz
