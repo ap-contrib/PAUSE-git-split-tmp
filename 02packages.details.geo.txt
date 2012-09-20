@@ -168,7 +168,7 @@ Getopt::Lucid::Exception           1.01  D/DA/DAGOLDEN/Getopt-Lucid-1.01.tar.gz
 Getopt::Lucid::Spec                1.01  D/DA/DAGOLDEN/Getopt-Lucid-1.01.tar.gz
 Getopt::Mixed                      1.11  C/CJ/CJM/Getopt-Mixed-1.11.tar.gz
 Getopt::Mixed::Help                0.26  D/DO/DORNER/Getopt-Mixed-Help-0.26.tar.gz
-Getopt::Modular                    0.08  D/DM/DMCBRIDE/Getopt-Modular-0.08.tar.gz
+Getopt::Modular                    0.09  D/DM/DMCBRIDE/Getopt-Modular-0.09.tar.gz
 Getopt::OO                         0.07  S/SJ/SJSMITH/Getopt-OO-0.07.tar.gz
 Getopt::Param                  0.000005  D/DM/DMUEY/Getopt-Param-0.0.5.tar.gz
 Getopt::Param::Tiny                 0.5  D/DM/DMUEY/Getopt-Param-Tiny-0.5.tar.gz
