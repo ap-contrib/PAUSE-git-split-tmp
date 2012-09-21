@@ -371,7 +371,7 @@ App::Base64::Command::decode   0.001000  C/CE/CEBJYRE/App-Base64-v0.1.0.tar.gz
 App::BashComplete                 0.008  M/ME/MELO/Bash-Completion-0.008.tar.gz
 App::BCVI::AutoInstall              0.1  P/PU/PUCK/App-BCVI-AutoInstall-0.1.tar.gz
 App::BCVI::InstallManager          1.02  G/GR/GRANTM/App-BCVI-InstallManager-1.02.tar.gz
-App::BCVI::NotifyClient            1.00  G/GR/GRANTM/App-BCVI-NotifyClient-1.00.tar.gz
+App::BCVI::NotifyClient            2.00  G/GR/GRANTM/App-BCVI-NotifyClient-2.00.tar.gz
 App::BCVI::NotifyDesktop           1.00  G/GR/GRANTM/App-BCVI-NotifyDesktop-1.00.tar.gz
 App::Beeminder::Hook                0.1  L/LE/LETO/App-Beeminder-Hook-0.003.tar.gz
 App::Benchmark                 1.102310  M/MA/MARCEL/App-Benchmark-1.102310.tar.gz
