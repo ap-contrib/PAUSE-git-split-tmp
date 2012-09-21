@@ -1300,6 +1300,7 @@ Code::Statistics::Target::Sub,MITHALDU,f
 Code::Statistics::Target::nop,MITHALDU,f
 Code::TidyAll,JSWARTZ,f
 Code::TidyAll::Cache,JSWARTZ,f
+Code::TidyAll::Config::INI::Reader,JSWARTZ,f
 Code::TidyAll::Git::Precommit,JSWARTZ,f
 Code::TidyAll::Git::Prereceive,JSWARTZ,f
 Code::TidyAll::Git::Util,JSWARTZ,f
