@@ -461,7 +461,7 @@ Clock::Server                     undef  J/JE/JESSE/Jifty-0.70117.tar.gz
 Clone                              0.31  R/RD/RDF/Clone-0.31.tar.gz
 Clone::Any                         1.01  E/EV/EVO/Clone-Any-1.01.tar.gz
 Clone::Closure                     0.06  B/BM/BMORROW/Clone-Closure-0.06.tar.gz
-Clone::Fast                        0.96  J/JJ/JJORE/Clone-Fast-0.96.tar.gz
+Clone::Fast                        0.96  W/WA/WAZZUTEKE/Clone-Fast-0.96.1.tar.gz
 Clone::More                    0.090002  W/WA/WAZZUTEKE/Clone-More-0.90.2.tar.gz
 Clone::PP                          1.02  E/EV/EVO/Clone-PP-1.02.tar.gz
 clone_locn_file                     1.8  C/CJ/CJONES/Microarray-0.45c.zip

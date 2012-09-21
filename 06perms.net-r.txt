@@ -1194,6 +1194,7 @@ Net::VNC,BRONG,c
 Net::VNC,LBROCARD,m
 Net::Vitelity,IVAN,f
 Net::Vypress::Chat,ARTURAZ,m
+Net::WMIClient,JMEGERMAN,f
 Net::WOT,XSAWYERX,f
 Net::WSF,SAMPO,m
 Net::WSF::Raw,SAMPO,f
