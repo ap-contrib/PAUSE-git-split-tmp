@@ -189,6 +189,7 @@ App::Music::PlayTab::Note,JV,f
 App::Music::PlayTab::NoteMap,JV,f
 App::Music::PlayTab::PostScript::Preamble,JV,f
 App::Mver,KSURI,f
+App::Myinst,SYAGI,f
 App::Mypp,JHTHORSEN,f
 App::Mypp::ShowINC,JHTHORSEN,f
 App::Nag,DFH,f
