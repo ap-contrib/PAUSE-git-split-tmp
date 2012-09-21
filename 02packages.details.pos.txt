@@ -52,7 +52,7 @@ PowerBuilder::ORCA                 0.05  I/IC/ICHE/PowerBuilder-ORCA-0.05.tar.gz
 PowerDNS::API::Client              0.10  A/AB/ABH/PowerDNS-API-Client-0.10.tar.gz
 PowerDNS::API::Client::Request     0.10  A/AB/ABH/PowerDNS-API-Client-0.10.tar.gz
 PowerDNS::API::Client::Response    0.10  A/AB/ABH/PowerDNS-API-Client-0.10.tar.gz
-PowerDNS::Backend::MySQL           0.11  A/AU/AUGIE/PowerDNS-Backend-MySQL-0.11.tar.gz
+PowerDNS::Backend::MySQL           0.12  A/AU/AUGIE/PowerDNS-Backend-MySQL-0.12.tar.gz
 PowerDNS::Control::Client          0.03  A/AU/AUGIE/PowerDNS-Control-Client-0.03.tar.gz
 PowerDNS::Control::Server          0.03  A/AU/AUGIE/PowerDNS-Control-Server-0.03.tar.gz
 PowerTools::Data                   0.04  G/GB/GBSHOUSE/PowerTools-Data-0.04.tar.gz
