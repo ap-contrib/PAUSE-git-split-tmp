@@ -402,7 +402,7 @@ Experimental::Sample              undef  M/MC/MCAST/Test-Unit-0.25.tar.gz
 Expirable                          0.02  M/MU/MUENALAN/Class-Maker-0.06.tar.gz
 Export::Lexical                  v0.0.4  C/CG/CGRAU/Export-Lexical-v0.0.4.tar.gz
 ExportAbove                        0.02  S/SE/SEYN/ExportAbove-0.02.tar.gz
-Exporter                           5.67  T/TO/TODDR/Exporter-5.66.tar.gz
+Exporter                           5.67  T/TO/TODDR/Exporter-5.67.tar.gz
 Exporter::Auto                     0.01  T/TO/TOKUHIROM/Exporter-Auto-0.01.tar.gz
 Exporter::AutoClean                0.01  T/TY/TYPESTER/Exporter-AutoClean-0.01.tar.gz
 Exporter::Cluster                  0.31  D/DH/DHAGEMAN/Exporter-Cluster-0.31.tar.gz

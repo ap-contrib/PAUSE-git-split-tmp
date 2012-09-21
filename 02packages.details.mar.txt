@@ -172,6 +172,7 @@ Mason::TieHandle                   2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 Mason::Types                       2.20  J/JS/JSWARTZ/Mason-2.20.tar.gz
 MasonX::Apache2Handler             0.05  B/BE/BEAU/MasonX-Apache2Handler-0.05.tar.gz
 MasonX::Buffer2                   undef  B/BE/BEAU/MasonX-Apache2Handler-0.05.tar.gz
+MasonX::Compiler::Strict          0.001  R/RJ/RJBS/MasonX-Compiler-Strict-0.001.tar.gz
 MasonX::Component::CVSBased        0.02  K/KO/KORTY/MasonX-Resolver-CVS-0.02.tar.gz
 MasonX::Component::ParBased       undef  M/MR/MRAMBERG/MasonX-Resolver-PAR-0.2.tar.gz
 MasonX::Interp::WithCallbacks      1.19  D/DW/DWHEELER/MasonX-Interp-WithCallbacks-1.19.tar.gz
