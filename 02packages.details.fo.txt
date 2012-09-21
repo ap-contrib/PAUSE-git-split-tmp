@@ -519,7 +519,7 @@ FTN::JAM                           0.30  J/JA/JAME/FTN-JAM-0.30.tar.gz
 FTN::JAM::Attr                     0.30  J/JA/JAME/FTN-JAM-0.30.tar.gz
 FTN::JAM::Errnum                   0.30  J/JA/JAME/FTN-JAM-0.30.tar.gz
 FTN::JAM::Subfields                0.30  J/JA/JAME/FTN-JAM-0.30.tar.gz
-FTN::Log                           0.06  J/JA/JAME/FTN-Log-0.06.tar.gz
+FTN::Log                           0.10  J/JA/JAME/FTN-Log-0.10.tar.gz
 FTN::Msg                           1.02  K/KE/KEU/FTN-Pkt-1.02.tar.gz
 FTN::Nodelist                      1.07  S/ST/STRO/FTN-Nodelist-1.07.tar.gz
 FTN::Nodelist::Node                1.01  S/ST/STRO/FTN-Nodelist-1.07.tar.gz
