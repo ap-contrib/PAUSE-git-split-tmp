@@ -83,7 +83,7 @@ YAML::Perl::Token::Value          undef  I/IN/INGY/YAML-Perl-0.02.tar.gz
 YAML::Perl::Tokens                undef  I/IN/INGY/YAML-Perl-0.02.tar.gz
 YAML::Perl::Writer                undef  I/IN/INGY/YAML-Perl-0.02.tar.gz
 YAML::Shell                        0.60  I/IN/INGY/YAML-Shell-0.60.tar.gz
-YAML::Syck                         1.20  T/TO/TODDR/YAML-Syck-1.20.tar.gz
+YAML::Syck                         1.21  T/TO/TODDR/YAML-Syck-1.21.tar.gz
 YAML::Tag                          0.84  M/MS/MSTROUT/YAML-0.84.tar.gz
 YAML::Tests                        0.06  I/IN/INGY/YAML-Tests-0.06.tar.gz
 YAML::Tests::Benchmark            undef  I/IN/INGY/YAML-Tests-0.06.tar.gz

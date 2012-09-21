@@ -269,7 +269,7 @@ JSON::Streaming::Reader::TestUtil undef  M/MA/MART/JSON-Streaming-Reader-0.05.ta
 JSON::Streaming::Writer            0.02  M/MA/MART/JSON-Streaming-Writer-0.02.tar.gz
 JSON::Streaming::Writer::TestUtil undef  M/MA/MART/JSON-Streaming-Writer-0.02.tar.gz
 JSON::Streaming::Writer::TestUtil::FakeHandle undef  M/MA/MART/JSON-Streaming-Writer-0.02.tar.gz
-JSON::Syck                         0.43  T/TO/TODDR/YAML-Syck-1.20.tar.gz
+JSON::Syck                         1.21  T/TO/TODDR/YAML-Syck-1.21.tar.gz
 JSON::T                           0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
 JSON::T::JE                       0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
 JSON::T::SpiderMonkey             0.101  T/TO/TOBYINK/JSON-T-0.101.tar.gz
