@@ -351,6 +351,7 @@ App::Authentication,SPADKINS,f
 App::Authentication::Htpasswd,SPADKINS,f
 App::Authorization,SPADKINS,f
 App::AutoBuild,YOBERT,m
+App::BCVI,GRANTM,f
 App::BCVI::AutoInstall,PUCK,f
 App::BCVI::InstallManager,GRANTM,f
 App::BCVI::NotifyClient,GRANTM,f
