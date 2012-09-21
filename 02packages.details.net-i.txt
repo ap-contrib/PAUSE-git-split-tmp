@@ -184,7 +184,7 @@ Net::LDAP::RootDSE                 0.01  M/MA/MARSCHAP/perl-ldap-0.48.tar.gz
 Net::LDAP::Schema                0.9905  M/MA/MARSCHAP/perl-ldap-0.48.tar.gz
 Net::LDAP::Search                  0.13  M/MA/MARSCHAP/perl-ldap-0.48.tar.gz
 Net::LDAP::Server                  0.43  A/AA/AAR/Net-LDAP-Server-0.43.tar.gz
-Net::LDAP::Server::Test            0.14  K/KA/KARMAN/Net-LDAP-Server-Test-0.14.tar.gz
+Net::LDAP::Server::Test            0.15  K/KA/KARMAN/Net-LDAP-Server-Test-0.15.tar.gz
 Net::LDAP::Shell                      2  L/LO/LOOSIFER/ldapsh-2.00.tar.gz
 Net::LDAP::Shell::Completion          1  L/LO/LOOSIFER/ldapsh-2.00.tar.gz
 Net::LDAP::Shell::Desc            undef  L/LO/LOOSIFER/ldapsh-2.00.tar.gz
