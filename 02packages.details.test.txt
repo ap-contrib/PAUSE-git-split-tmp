@@ -803,7 +803,7 @@ Text::CSV::R::Matrix                0.3  L/LI/LIMAONE/Text-CSV-R-0.3.tar.gz
 Text::CSV::Separator               0.20  E/EN/ENELL/Text-CSV-Separator-0.20.tar.gz
 Text::CSV::Simple                  1.00  T/TM/TMTM/Text-CSV-Simple-1.00.tar.gz
 Text::CSV::Simple::__::Base        1.00  T/TM/TMTM/Text-CSV-Simple-1.00.tar.gz
-Text::CSV::Slurp                    0.9  B/BA/BABF/Text-CSV-Slurp-0.9.tar.gz
+Text::CSV::Slurp                      1  B/BA/BABF/Text-CSV-Slurp-1.0.tar.gz
 Text::CSV::SQLhelper                0.0  V/VV/VVELOX/Text-CSV-SQLhelper-0.0.0.tar.gz
 Text::CSV::Track                    0.8  J/JK/JKUTEJ/Text-CSV-Track-0.8.tar.gz
 Text::CSV::Track::Max               0.3  J/JK/JKUTEJ/Text-CSV-Track-0.8.tar.gz
