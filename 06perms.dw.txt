@@ -591,6 +591,7 @@ EPublisher::Source::Plugin::File,RENEEB,f
 EPublisher::Source::Plugin::MetaCPAN,BORISD,c
 EPublisher::Source::Plugin::MetaCPAN,RENEEB,f
 EPublisher::Source::Plugin::Module,RENEEB,f
+EPublisher::Source::Plugin::PerltutsCom,RENEEB,f
 EPublisher::Target,RENEEB,f
 EPublisher::Target::Base,RENEEB,f
 EPublisher::Target::Plugin::EPub,BORISD,c
