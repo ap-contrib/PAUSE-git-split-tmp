@@ -79,7 +79,7 @@ Test::CleanNamespaces              0.03  F/FL/FLORA/Test-CleanNamespaces-0.03.ta
 Test::Clustericious                   0  B/BD/BDUGGAN/Clustericious-0.9902.tar.gz
 Test::Cmd                          1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
 Test::Cmd::Common                  1.05  K/KN/KNIGHT/Test-Cmd-1.05.tar.gz
-Test::Code::TidyAll                0.10  J/JS/JSWARTZ/Code-TidyAll-0.10.tar.gz
+Test::Code::TidyAll                0.11  J/JS/JSWARTZ/Code-TidyAll-0.11.tar.gz
 Test::Collectd::Config           0.1001  F/FA/FAXMODEM/Test-Collectd-Plugins-0.1006.tar.gz
 Test::Collectd::Plugins          0.1006  F/FA/FAXMODEM/Test-Collectd-Plugins-0.1006.tar.gz
 Test::Command                      0.08  D/DA/DANBOO/Test-Command-0.08.tar.gz
