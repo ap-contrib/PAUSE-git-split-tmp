@@ -459,7 +459,7 @@ EPublisher::Source::Plugin::Dir    0.04  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Source::Plugin::File   0.04  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Source::Plugin::MetaCPAN 0.2  B/BO/BORISD/EPublisher-Source-Plugin-MetaCPAN-0.2.tar.gz
 EPublisher::Source::Plugin::Module 0.04  R/RE/RENEEB/EPublisher-0.7.tar.gz
-EPublisher::Source::Plugin::PerltutsCom 0.1  R/RE/RENEEB/EPublisher-Source-Plugin-PerltutsCom-0.1.tar.gz
+EPublisher::Source::Plugin::PerltutsCom 0.2  R/RE/RENEEB/EPublisher-Source-Plugin-PerltutsCom-0.2.tar.gz
 EPublisher::Target                 0.01  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Target::Base         0.0101  R/RE/RENEEB/EPublisher-0.7.tar.gz
 EPublisher::Target::Plugin::EPub    0.4  R/RE/RENEEB/EPublisher-Target-Plugin-EPub-0.4.tar.gz
