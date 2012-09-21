@@ -294,6 +294,16 @@ Tao::DBI::db,FERREIRA,f
 Tao::DBI::st,FERREIRA,f
 Tao::DBI::st_deep,FERREIRA,f
 TapeChanger::MTX,TSKIRVIN,f
+Tapir,EWATERS,f
+Tapir::Exceptions,EWATERS,f
+Tapir::Logger,EWATERS,f
+Tapir::MethodCall,EWATERS,f
+Tapir::Server,EWATERS,f
+Tapir::Server::Handler,EWATERS,f
+Tapir::Server::Handler::Class,EWATERS,f
+Tapir::Server::Handler::Signatures,EWATERS,f
+Tapir::Server::Transport,EWATERS,f
+Tapir::Validator,EWATERS,f
 Tapper,AMD,m
 Tapper,CALDRIN,c
 Tapper,SCHWIGON,c
