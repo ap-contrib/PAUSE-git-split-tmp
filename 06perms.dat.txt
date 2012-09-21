@@ -257,6 +257,7 @@ Date::Range::Forgiving,MSTROUT,c
 Date::Range::Forgiving,NUFFIN,f
 Date::Range::Forgiving,SAMV,c
 Date::Range::Forgiving,STEVAN,c
+Date::RangeParser::EN,AQUILINA,f
 Date::Remind::Event,MLAWREN,f
 Date::Roman,HOBBIT,m
 Date::Say::Czech,HIHIK,m
