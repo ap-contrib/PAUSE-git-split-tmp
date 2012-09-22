@@ -1061,6 +1061,7 @@ RT::Extension::QuickDelete,FALCONE,f
 RT::Extension::QuickDelete,JESSE,c
 RT::Extension::QuickDelete,RUZ,c
 RT::Extension::QuickDelete,TSIBLEY,c
+RT::Extension::QuoteSelection,TSIBLEY,f
 RT::Extension::RT2toRT3,FALCONE,f
 RT::Extension::ReassignOwner,ALEXMV,c
 RT::Extension::ReassignOwner,CLKAO,c
