@@ -432,7 +432,7 @@ AnyEvent::Handle::Writer           0.02  M/MO/MONS/AnyEvent-Handle-Writer-0.02.t
 AnyEvent::Handle::ZeroMQ           0.09  C/CI/CINDY/AnyEvent-Handle-ZeroMQ-0.09.tar.gz
 AnyEvent::Handle::ZeroMQ::Dealer  undef  C/CI/CINDY/AnyEvent-Handle-ZeroMQ-0.09.tar.gz
 AnyEvent::Handle::ZeroMQ::Router  undef  C/CI/CINDY/AnyEvent-Handle-ZeroMQ-0.09.tar.gz
-AnyEvent::Hiredis                  0.02  W/WH/WHITNEY/AnyEvent-Hiredis-0.02.tar.gz
+AnyEvent::Hiredis                  0.03  W/WH/WHITNEY/AnyEvent-Hiredis-0.03.tar.gz
 AnyEvent::HTTP                     2.14  M/ML/MLEHMANN/AnyEvent-HTTP-2.14.tar.gz
 AnyEvent::HTTP::LWP::UserAgent     0.07  T/TA/TADAM/AnyEvent-HTTP-LWP-UserAgent-0.07.tar.gz
 AnyEvent::HTTP::Message           0.301  R/RW/RWSTAUNER/AnyEvent-HTTP-Message-0.301.tar.gz
