@@ -332,6 +332,7 @@ MiscUtils,BPRUDENT,f
 MixWithWords::EN,SHARYANTO,f
 MixWithWords::ID,SHARYANTO,f
 Mixin::Event::Dispatch,TEAM,f
+Mixin::Event::Dispatch::Event,TEAM,f
 Mixin::ExtraFields,RJBS,f
 Mixin::ExtraFields::Driver,RJBS,f
 Mixin::ExtraFields::Driver::DBIC,RJBS,f
@@ -498,4 +499,3 @@ ModPerl::MM,PHRED,c
 ModPerl::MM,SHAY,c
 ModPerl::Manifest,APML,f
 ModPerl::Manifest,GOZER,c
-ModPerl::Manifest,PGOLLUCCI,c
