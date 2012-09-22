@@ -138,10 +138,10 @@ Email::Filter::AutoReply          undef  A/AM/AMONSEN/Email-AutoReply-1.04.tar.g
 Email::Filter::Rules                1.2  J/JB/JBISBEE/Email-Filter-Rules-1.2.tar.gz
 Email::Find                        0.10  M/MI/MIYAGAWA/Email-Find-0.10.tar.gz
 Email::Find::addrspec              0.09  M/MI/MIYAGAWA/Email-Find-0.10.tar.gz
-Email::Fingerprint                 0.44  B/BU/BUDNEY/Email-Fingerprint-0.44.tar.gz
-Email::Fingerprint::App::EliminateDups 0.26  B/BU/BUDNEY/Email-Fingerprint-0.44.tar.gz
-Email::Fingerprint::Cache          0.01  B/BU/BUDNEY/Email-Fingerprint-0.44.tar.gz
-Email::Fingerprint::Cache::AnyDBM  0.01  B/BU/BUDNEY/Email-Fingerprint-0.44.tar.gz
+Email::Fingerprint                 0.45  B/BU/BUDNEY/Email-Fingerprint-0.45.tar.gz
+Email::Fingerprint::App::EliminateDups 0.26  B/BU/BUDNEY/Email-Fingerprint-0.45.tar.gz
+Email::Fingerprint::Cache          0.01  B/BU/BUDNEY/Email-Fingerprint-0.45.tar.gz
+Email::Fingerprint::Cache::AnyDBM  0.01  B/BU/BUDNEY/Email-Fingerprint-0.45.tar.gz
 Email::Fingerprint::Cache::NDBM    0.01  B/BU/BUDNEY/Email-Fingerprint-0.37.tar.gz
 Email::Folder                     0.855  R/RJ/RJBS/Email-Folder-0.855.tar.gz
 Email::Folder::Exchange             2.0  W/WS/WSMITH/Email-Folder-Exchange-2.0.tar.gz
