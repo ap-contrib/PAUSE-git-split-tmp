@@ -36,6 +36,10 @@ DBIx::NoSQL::Stash                undef  R/RO/ROKR/DBIx-NoSQL-0.0018.tar.gz
 DBIx::NoSQL::Storage              undef  R/RO/ROKR/DBIx-NoSQL-0.0018.tar.gz
 DBIx::NoSQL::Storage::Cursor      undef  R/RO/ROKR/DBIx-NoSQL-0.0018.tar.gz
 DBIx::NoSQL::Store                undef  R/RO/ROKR/DBIx-NoSQL-0.0018.tar.gz
+DBIx::NoSQL::Store::Manager      v0.1.0  Y/YA/YANICK/DBIx-NoSQL-Store-Manager-0.1.0.tar.gz
+DBIx::NoSQL::Store::Manager::Model v0.1.0  Y/YA/YANICK/DBIx-NoSQL-Store-Manager-0.1.0.tar.gz
+DBIx::NoSQL::Store::Manager::StoreIndex v0.1.0  Y/YA/YANICK/DBIx-NoSQL-Store-Manager-0.1.0.tar.gz
+DBIx::NoSQL::Store::Manager::StoreKey v0.1.0  Y/YA/YANICK/DBIx-NoSQL-Store-Manager-0.1.0.tar.gz
 DBIx::NoSQL::TypeMap              undef  R/RO/ROKR/DBIx-NoSQL-0.0018.tar.gz
 DBIx::NoSQL::TypeMap::Type        undef  R/RO/ROKR/DBIx-NoSQL-0.0018.tar.gz
 DBIx::NoSQLite                   0.0018  R/RO/ROKR/DBIx-NoSQL-0.0018.tar.gz

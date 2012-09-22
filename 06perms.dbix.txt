@@ -430,6 +430,10 @@ DBIx::NoSQL::Stash,ROKR,f
 DBIx::NoSQL::Storage,ROKR,f
 DBIx::NoSQL::Storage::Cursor,ROKR,f
 DBIx::NoSQL::Store,ROKR,f
+DBIx::NoSQL::Store::Manager,YANICK,f
+DBIx::NoSQL::Store::Manager::Model,YANICK,f
+DBIx::NoSQL::Store::Manager::StoreIndex,YANICK,f
+DBIx::NoSQL::Store::Manager::StoreKey,YANICK,f
 DBIx::NoSQL::TypeMap,ROKR,f
 DBIx::NoSQL::TypeMap::Type,ROKR,f
 DBIx::NoSQLite,ROKR,f
