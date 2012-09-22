@@ -942,6 +942,7 @@ Text::FIGlet                       2.18  J/JP/JPIERCE/Text-FIGlet-2.18.tgz
 Text::FIGlet::Control              2.15  J/JP/JPIERCE/Text-FIGlet-2.18.tgz
 Text::FIGlet::Font                 2.18  J/JP/JPIERCE/Text-FIGlet-2.18.tgz
 Text::FIGlet::Ransom               2.17  J/JP/JPIERCE/Text-FIGlet-2.18.tgz
+Text::FileTree                      0.1  O/OL/OLOF/Text-FileTree-0.1.tar.gz
 Text::FillIn                       0.05  K/KW/KWILLIAMS/Text-FillIn-0.05.tar.gz
 Text::Filter                        1.9  J/JV/JV/Text-Filter-1.9.tar.gz
 Text::Filter::Chain                0.02  W/WI/WIMV/Text-Filter-Chain-0.02.tar.gz

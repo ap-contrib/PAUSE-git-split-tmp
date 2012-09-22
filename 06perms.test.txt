@@ -1482,6 +1482,7 @@ Text::FakeData::StreetAddress,JASONK,f
 Text::FakeXML,JV,f
 Text::FastSearch,RKIES,f
 Text::FastTemplate,BOZZIO,m
+Text::FileTree,OLOF,f
 Text::Fill,MUIR,f
 Text::FillIn,KWILLIAMS,m
 Text::Filter,JV,f
