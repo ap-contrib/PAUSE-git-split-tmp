@@ -426,7 +426,7 @@ CLI::Framework::Command::Menu      0.01  K/KE/KERISMAN/CLI-Framework-0.05.tar.gz
 CLI::Framework::Command::Meta      0.01  K/KE/KERISMAN/CLI-Framework-0.05.tar.gz
 CLI::Framework::Command::Tree      0.01  K/KE/KERISMAN/CLI-Framework-0.05.tar.gz
 CLI::Framework::Exceptions         0.02  K/KE/KERISMAN/CLI-Framework-0.05.tar.gz
-CLI::Startup                       0.06  B/BU/BUDNEY/CLI-Startup-0.06.tar.gz
+CLI::Startup                       0.07  B/BU/BUDNEY/CLI-Startup-0.07.tar.gz
 Client                            undef  E/EE/EESTABROO/Crypt-HCE_SHA-0.70.tar.gz
 Clio                               0.02  A/AJ/AJGB/Clio-0.02.tar.gz
 Clio::Client                       0.02  A/AJ/AJGB/Clio-0.02.tar.gz
