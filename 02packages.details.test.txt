@@ -107,7 +107,7 @@ Test::Spec::Mocks::Stub           undef  P/PH/PHILIP/Test-Spec-0.45.tar.gz
 Test::Spec::SharedHash            undef  P/PH/PHILIP/Test-Spec-0.45.tar.gz
 Test::Spelling                     0.15  S/SA/SARTAK/Test-Spelling-0.15.tar.gz
 Test::SQL::DB                     0.971  M/ML/MLAWREN/SQL-DB-0.971.0.tar.gz
-Test::SQL::Translator              1.59  F/FR/FREW/SQL-Translator-0.11012.tar.gz
+Test::SQL::Translator              1.59  F/FR/FREW/SQL-Translator-0.11013.tar.gz
 Test::Standalone                   0.01  M/MS/MSCHILLI/Test-Standalone-0.01.tar.gz
 Test::STD::PerlSTD                 1.08  S/SO/SOFTDIA/Test-STDmaker-0.23.tar.gz
 Test::STDmaker                     1.21  S/SO/SOFTDIA/Test-STDmaker-0.23.tar.gz
