@@ -145,9 +145,9 @@ Business::CyberSource::Factory::Response 0.006007  X/XE/XENO/Business-CyberSourc
 Business::CyberSource::Factory::Rule 0.006007  X/XE/XENO/Business-CyberSource-0.006007.tar.gz
 Business::CyberSource::Message 0.006007  X/XE/XENO/Business-CyberSource-0.006007.tar.gz
 Business::CyberSource::MessagePart 0.006007  X/XE/XENO/Business-CyberSource-0.006007.tar.gz
-Business::CyberSource::Report    v1.1.4  A/AU/AUBERTG/Business-CyberSource-Report-1.1.4.tar.gz
-Business::CyberSource::Report::PaymentEvents v1.1.4  A/AU/AUBERTG/Business-CyberSource-Report-1.1.4.tar.gz
-Business::CyberSource::Report::SingleTransaction v1.1.4  A/AU/AUBERTG/Business-CyberSource-Report-1.1.4.tar.gz
+Business::CyberSource::Report    v1.1.5  A/AU/AUBERTG/Business-CyberSource-Report-1.1.5.tar.gz
+Business::CyberSource::Report::PaymentEvents v1.1.5  A/AU/AUBERTG/Business-CyberSource-Report-1.1.5.tar.gz
+Business::CyberSource::Report::SingleTransaction v1.1.5  A/AU/AUBERTG/Business-CyberSource-Report-1.1.5.tar.gz
 Business::CyberSource::Request 0.006007  X/XE/XENO/Business-CyberSource-0.006007.tar.gz
 Business::CyberSource::Request::Authorization 0.006007  X/XE/XENO/Business-CyberSource-0.006007.tar.gz
 Business::CyberSource::Request::AuthReversal 0.006007  X/XE/XENO/Business-CyberSource-0.006007.tar.gz
