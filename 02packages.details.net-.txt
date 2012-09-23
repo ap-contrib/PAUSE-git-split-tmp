@@ -14,11 +14,11 @@ Net::FTPTurboSync::RemoteDir      undef  Y/YA/YAITSKOV/Net-FTPTurboSync-0.07.tar
 Net::FTPTurboSync::RemoteFile     undef  Y/YA/YAITSKOV/Net-FTPTurboSync-0.07.tar.gz
 Net::FTPTurboSync::TurboPutCommand undef  Y/YA/YAITSKOV/Net-FTPTurboSync-0.07.tar.gz
 Net::FTPTurboSync::UploadedFiles  undef  Y/YA/YAITSKOV/Net-FTPTurboSync-0.07.tar.gz
-Net::FullAuto                  0.999914  R/RE/REEDFISH/Net-FullAuto-0.999914.tar.gz
-Net::FullAuto::FA_Core            undef  R/RE/REEDFISH/Net-FullAuto-0.999914.tar.gz
-Net::FullAuto::FA_DB              undef  R/RE/REEDFISH/Net-FullAuto-0.999914.tar.gz
-Net::FullAuto::Getline            undef  R/RE/REEDFISH/Net-FullAuto-0.999914.tar.gz
-Net::FullAuto::MemoryHandle       undef  R/RE/REEDFISH/Net-FullAuto-0.999914.tar.gz
+Net::FullAuto                  0.999914  R/RE/REEDFISH/Net-FullAuto-0.999915.tar.gz
+Net::FullAuto::FA_Core            undef  R/RE/REEDFISH/Net-FullAuto-0.999915.tar.gz
+Net::FullAuto::FA_DB              undef  R/RE/REEDFISH/Net-FullAuto-0.999915.tar.gz
+Net::FullAuto::Getline            undef  R/RE/REEDFISH/Net-FullAuto-0.999915.tar.gz
+Net::FullAuto::MemoryHandle       undef  R/RE/REEDFISH/Net-FullAuto-0.999915.tar.gz
 Net::Gadu                           1.9  K/KR/KRZAK/Net-Gadu-1.9.tar.gz
 Net::Gandi                     1.122180  H/HO/HOBBESTIG/Net-Gandi-1.122180.tar.gz
 Net::Gandi::Client             1.122180  H/HO/HOBBESTIG/Net-Gandi-1.122180.tar.gz
