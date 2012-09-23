@@ -115,7 +115,7 @@ Test::STDmaker::Check              1.15  S/SO/SOFTDIA/Test-STDmaker-0.23.tar.gz
 Test::STDmaker::Demo               1.14  S/SO/SOFTDIA/Test-STDmaker-0.23.tar.gz
 Test::STDmaker::STD                1.12  S/SO/SOFTDIA/Test-STDmaker-0.23.tar.gz
 Test::STDmaker::Verify             1.15  S/SO/SOFTDIA/Test-STDmaker-0.23.tar.gz
-Test::Stdout                      undef  B/BU/BUDNEY/Email-Fingerprint-0.45.tar.gz
+Test::Stdout                      undef  B/BU/BUDNEY/Email-Fingerprint-0.46.tar.gz
 Test::Steering                     0.02  A/AN/ANDYA/Test-Steering-0.02.tar.gz
 Test::Steering::Wheel              0.02  A/AN/ANDYA/Test-Steering-0.02.tar.gz
 Test::Stochastic                   0.03  A/AM/AMAHABAL/Test-Stochastic-0.03.tar.gz
