@@ -274,7 +274,7 @@ Perl::Critic::Exception::Fatal::Internal 1.118  T/TH/THALJEF/Perl-Critic-1.118.t
 Perl::Critic::Exception::Fatal::PolicyDefinition 1.118  T/TH/THALJEF/Perl-Critic-1.118.tar.gz
 Perl::Critic::Exception::IO       1.118  T/TH/THALJEF/Perl-Critic-1.118.tar.gz
 Perl::Critic::Exception::Parse    1.118  T/TH/THALJEF/Perl-Critic-1.118.tar.gz
-Perl::Critic::Git                v1.1.0  A/AU/AUBERTG/Perl-Critic-Git-1.1.0.tar.gz
+Perl::Critic::Git                v1.1.1  A/AU/AUBERTG/Perl-Critic-Git-1.1.1.tar.gz
 Perl::Critic::Itch                 0.07  M/MA/MARCELO/Perl-Critic-Itch-0.07.tar.gz
 Perl::Critic::Lax                 0.009  R/RJ/RJBS/Perl-Critic-Lax-0.009.tar.gz
 Perl::Critic::logicLAB             0.05  J/JO/JONASBN/Perl-Critic-logicLAB-0.05.tar.gz
