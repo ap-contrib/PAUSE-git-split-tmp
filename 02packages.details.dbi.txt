@@ -307,7 +307,7 @@ DBIx::Romani::ResultSet           undef  D/DS/DSNOPEK/DBIx-Romani-0.0.16.tar.gz
 DBIx::RunSQL                       0.09  C/CO/CORION/DBIx-RunSQL-0.09.tar.gz
 DBIx::Schema::UpToDate            1.001  R/RW/RWSTAUNER/DBIx-Schema-UpToDate-1.001.tar.gz
 DBIx::SchemaChecksum               0.25  D/DO/DOMM/DBIx-SchemaChecksum-0.25.tar.gz
-DBIx::ScopedTransaction          v1.0.6  A/AU/AUBERTG/DBIx-ScopedTransaction-1.0.6.tar.gz
+DBIx::ScopedTransaction          v1.0.7  A/AU/AUBERTG/DBIx-ScopedTransaction-1.0.7.tar.gz
 DBIx::SearchBuilder                1.63  T/TS/TSIBLEY/DBIx-SearchBuilder-1.63.tar.gz
 DBIx::SearchBuilder::Handle       undef  T/TS/TSIBLEY/DBIx-SearchBuilder-1.63.tar.gz
 DBIx::SearchBuilder::Handle::Informix undef  T/TS/TSIBLEY/DBIx-SearchBuilder-1.63.tar.gz
