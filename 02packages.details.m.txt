@@ -109,9 +109,12 @@ MyApp::Controller::Facebook       undef  M/MA/MAMOD/Net-Facebook-Oauth2-0.02.tar
 MyApp::Controller::Przyklad       undef  Z/ZB/ZBY/WebNano-0.001.tar.gz
 MyApp::Controller::WithAttributes undef  Z/ZB/ZBY/WebNano-0.001.tar.gz
 MyApp::Example                    undef  F/FO/FOOLISH/Pod-Elemental-Transformer-ExampleRunner-0.002.tar.gz
+MyApp::Foo                        undef  Y/YT/YTURTLE/Nephia-0.01.tar.gz
 MyApp::L::Eng                     undef  D/DU/DUNCAND/Locale-KeyedText-v1.73.0.tar.gz
 MyApp::L::Fre                     undef  D/DU/DUNCAND/Locale-KeyedText-v1.73.0.tar.gz
 MyApp::L::Homer                   undef  D/DU/DUNCAND/Locale-KeyedText-v1.73.0.tar.gz
+MyApp::Oreore                     undef  Y/YT/YTURTLE/Nephia-0.01.tar.gz
+MyApp::Root                       undef  Y/YT/YTURTLE/Nephia-0.01.tar.gz
 MyApp::Subclass                   undef  M/MA/MAKAMAKA/JSON-RPC-0.94.tar.gz
 MyApp::system                     undef  M/MA/MAKAMAKA/JSON-RPC-0.94.tar.gz
 MyApplication::State              undef  S/SH/SHEVEK/Apache-Action-0.02.tar.gz
@@ -604,6 +607,12 @@ NcFTPd::Log::Parse::Xfer          undef  S/SH/SHAW/NcFTPd-Log-Parse-0.001.tar.gz
 NCustom                            0.07  B/BH/BHARB/NCustom-0.07.tar.gz
 NDBM_File                          1.12  F/FL/FLORA/perl-5.17.4.tar.bz2
 Neocracy::ORM::Meta::Display::Defaults undef  D/DC/DCHESTER/Norma-0.02.tar.gz
+Nephia                             0.01  Y/YT/YTURTLE/Nephia-0.01.tar.gz
+Nephia::Setup                     undef  Y/YT/YTURTLE/Nephia-0.01.tar.gz
+Nephia::Setup::Base                0.01  Y/YT/YTURTLE/Nephia-0.01.tar.gz
+Nephia::Setup::Default            undef  Y/YT/YTURTLE/Nephia-0.01.tar.gz
+Nephia::View                      undef  Y/YT/YTURTLE/Nephia-0.01.tar.gz
+Nephia::View::Xslate              undef  Y/YT/YTURTLE/Nephia-0.01.tar.gz
 Nes                                1.03  N/NE/NES/Nes-1.03.tar.gz
 Nes::DB                           undef  N/NE/NES/Nes-1.03.tar.gz
 NES::Minimal                      undef  N/NE/NES/Nes-1.02.tar.gz

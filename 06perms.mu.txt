@@ -231,6 +231,7 @@ MyApp::Export,ASKSH,c
 MyApp::Export::Base,ASKSH,c
 MyApp::Export::JSON::Syck,ASKSH,c
 MyApp::Export::YAML::LibYAML,ASKSH,c
+MyApp::Foo,YTURTLE,f
 MyApp::L::Eng,DUNCAND,f
 MyApp::L::Fre,DUNCAND,f
 MyApp::L::Homer,DUNCAND,f
@@ -245,7 +246,9 @@ MyApp::Model::FsaveDate,LUSHE,c
 MyApp::Model::FsaveDate::handler,LUSHE,c
 MyApp::Model::MyAppDB,SMAN,f
 MyApp::Model::Schema,TAKERU,c
+MyApp::Oreore,YTURTLE,f
 MyApp::Root,VTI,c
+MyApp::Root,YTURTLE,f
 MyApp::Util,SMAN,f
 MyApp::View::TT,SMAN,f
 MyAppConfig,OLIVER,f
