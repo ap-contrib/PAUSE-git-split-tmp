@@ -60,6 +60,7 @@ URI::jar,ZIGOROU,f
 URI::ldap,GAAS,f
 URI::ldapi,GAAS,f
 URI::ldaps,GAAS,f
+URI::magnet,GARU,f
 URI::mailto,GAAS,f
 URI::mid,DORIAN,f
 URI::mms,GAAS,f
