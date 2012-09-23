@@ -340,7 +340,7 @@ Kx                                0.039  M/MA/MARKPF/Kx-0.039.tar.gz
 Kx::HASH                          0.039  M/MA/MARKPF/Kx-0.039.tar.gz
 Kx::LIST                          0.039  M/MA/MARKPF/Kx-0.039.tar.gz
 L337                              undef  A/AS/ASTEI/Acme-1337-1.0.tar.gz
-L4pResurrectable                   0.01  M/MS/MSCHILLI/Log-Log4perl-1.37.tar.gz
+L4pResurrectable                   0.01  M/MS/MSCHILLI/Log-Log4perl-1.38.tar.gz
 Lab::Bus                           3.10  A/AK/AKHUETTEL/Lab-Measurement-3.10.tar.gz
 Lab::Bus::DEBUG                    3.10  A/AK/AKHUETTEL/Lab-Measurement-3.10.tar.gz
 Lab::Bus::DEBUG::HumanInstrument   3.10  A/AK/AKHUETTEL/Lab-Measurement-3.10.tar.gz
