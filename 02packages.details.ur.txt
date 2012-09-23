@@ -54,7 +54,7 @@ URI::jar                           0.02  Z/ZI/ZIGOROU/URI-jar-0.02.tar.gz
 URI::ldap                          1.12  G/GA/GAAS/URI-1.60.tar.gz
 URI::ldapi                        undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::ldaps                        undef  G/GA/GAAS/URI-1.60.tar.gz
-URI::magnet                        0.01  G/GA/GARU/URI-magnet-0.01.tar.gz
+URI::magnet                        0.02  G/GA/GARU/URI-magnet-0.02.tar.gz
 URI::mailto                       undef  G/GA/GAAS/URI-1.60.tar.gz
 URI::Match                      0.00001  D/DM/DMAKI/URI-Match-0.00001.tar.gz
 URI::mid                           0.02  D/DO/DORIAN/URI-mid-0.02.tar.gz
