@@ -515,7 +515,7 @@ Algorithm::ConsistentHash::Ketama::Bucket undef  D/DM/DMAKI/Algorithm-Consistent
 Algorithm::ContextVector           0.01  A/AI/AIMBERT/Algorithm-ContextVector-0.01.tar.gz
 Algorithm::CouponCode             1.003  G/GR/GRANTM/Algorithm-CouponCode-1.003.tar.gz
 Algorithm::CRF                     0.04  C/CL/CLSUNG/Algorithm-CRF-0.04.tar.gz
-Algorithm::Cron                    0.01  P/PE/PEVANS/Algorithm-Cron-0.01.tar.gz
+Algorithm::Cron                    0.02  P/PE/PEVANS/Algorithm-Cron-0.02.tar.gz
 Algorithm::CurveFit                1.05  S/SM/SMUELLER/Algorithm-CurveFit-1.05.tar.gz
 Algorithm::DecisionTree             1.6  A/AV/AVIKAK/Algorithm-DecisionTree-1.6.tar.gz
 Algorithm::Dependency             1.110  A/AD/ADAMK/Algorithm-Dependency-1.110.tar.gz
