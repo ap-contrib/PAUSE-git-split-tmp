@@ -280,13 +280,13 @@ Blosxom::Debug,GAVINC,f
 Blosxom::Entry::Twitter,BITMAN,f
 Blosxom::Header,ANAZAWA,m
 Blosxom::Header::Adapter,ANAZAWA,f
-Blosxom::Header::Class,ANAZAWA,f
+Blosxom::Header::Class,ANAZAWA,c
 Blosxom::Header::Entity,ANAZAWA,f
-Blosxom::Header::Hash,ANAZAWA,f
+Blosxom::Header::Hash,ANAZAWA,c
 Blosxom::Header::Object,ANAZAWA,c
 Blosxom::Header::Prototype,ANAZAWA,c
-Blosxom::Header::Proxy,ANAZAWA,f
-Blosxom::Header::Util,ANAZAWA,f
+Blosxom::Header::Proxy,ANAZAWA,c
+Blosxom::Header::Util,ANAZAWA,c
 Blosxom::Include,GAVINC,f
 Blosxom::Plugin,ANAZAWA,m
 Blosxom::Plugin::Core,ANAZAWA,f
