@@ -229,7 +229,7 @@ Lingua::TagSet::Multext           undef  G/GR/GROUSSE/Lingua-TagSet-0.3.2.tar.gz
 Lingua::TagSet::Tag               undef  G/GR/GROUSSE/Lingua-TagSet-0.3.2.tar.gz
 Lingua::TagSet::Talana            undef  G/GR/GROUSSE/Lingua-TagSet-0.3.2.tar.gz
 Lingua::TagSet::TreeTagger        undef  G/GR/GROUSSE/Lingua-TagSet-0.3.2.tar.gz
-Lingua::TH::Numbers              v1.0.4  A/AU/AUBERTG/Lingua-TH-Numbers-1.0.4.tar.gz
+Lingua::TH::Numbers              v1.0.5  A/AU/AUBERTG/Lingua-TH-Numbers-1.0.5.tar.gz
 Lingua::TH::Segmentation           0.08  R/RO/ROMERUN/Lingua-TH-Segmentation-0.08.tar.gz
 Lingua::TL::Numbers                0.02  S/SH/SHERWIN/Lingua-TL-Numbers-0.02.tar.gz
 Lingua::TLH::Numbers               0.01  P/PA/PATCH/Lingua-Conlang-Numbers-0.04.tar.gz
