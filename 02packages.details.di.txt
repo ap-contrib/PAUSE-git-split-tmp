@@ -359,7 +359,7 @@ Don::Mendo::Linea              0.000003  J/JM/JMERELO/Don-Mendo-0.0.7.tar.gz
 Doorman                            0.07  G/GU/GUGOD/Doorman-0.07.tar.gz
 Doorman::PlackMiddleware          undef  G/GU/GUGOD/Doorman-0.07.tar.gz
 Doorman::Scope                    undef  G/GU/GUGOD/Doorman-0.07.tar.gz
-DotCloud::Environment          0.009003  P/PO/POLETTIX/DotCloud-Environment-0.9.3.tar.gz
+DotCloud::Environment          0.009004  P/PO/POLETTIX/DotCloud-Environment-0.9.4.tar.gz
 Dotiac::DTL                         0.8  M/MA/MALUKU/dotiac/Dotiac-0.8.tar.gz
 Dotiac::DTL::Addon                  0.8  M/MA/MALUKU/dotiac/Dotiac-0.8.tar.gz
 Dotiac::DTL::Addon::case_insensitive 0.4  M/MA/MALUKU/dotiac/Dotiac-addon-case-insensitive-0.4.tar.gz
