@@ -250,7 +250,7 @@ Test::Dir                         1.014  M/MT/MTHURN/Test-Dir-1.014.tar.gz
 Test::Dir::Base                   1.005  M/MT/MTHURN/Test-Dir-1.014.tar.gz
 Test::Dirs                         0.03  J/JK/JKUTEJ/Test-Dirs-0.03.tar.gz
 Test::Dist                         0.01  M/MO/MONS/Test-Dist-0.01.tar.gz
-Test::Dist::VersionSync          v1.0.3  A/AU/AUBERTG/Test-Dist-VersionSync-1.0.3.tar.gz
+Test::Dist::VersionSync          v1.0.4  A/AU/AUBERTG/Test-Dist-VersionSync-1.0.4.tar.gz
 Test::DistManifest                1.012  E/ET/ETHER/Test-DistManifest-1.012.tar.gz
 Test::Distribution                 2.00  S/SR/SRSHAH/Test-Distribution-2.00.tar.gz
 Test::Distribution::base           1.21  S/SR/SRSHAH/Test-Distribution-1.21.tar.gz
