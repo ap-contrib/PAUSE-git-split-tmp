@@ -245,7 +245,7 @@ Religion::Islam::PrayMind          1.01  T/TA/TASMIN/PrayMind-1.01.tar.gz
 Religion::Islam::Qibla             1.02  M/ME/MEWSOFT/Religion-Islam-Qibla-1.02.tar.gz
 Religion::Islam::Quran              1.0  M/ME/MEWSOFT/Religion-Islam-Quran-1.0.tar.gz
 RELP                               1.00  I/IT/ITRUNAEV/RELP-1.00.tar.gz
-Rem_Command                       undef  R/RE/REEDFISH/Net-FullAuto-0.999915.tar.gz
+Rem_Command                       undef  R/RE/REEDFISH/Net-FullAuto-0.999916.tar.gz
 Remedy::Ar                        undef  R/RI/RIK/Ar-0.2alpha.tar.gz
 Remedy::Ar::Schema                undef  R/RI/RIK/Ar-0.2alpha.tar.gz
 Remedy::Ar::Server                undef  R/RI/RIK/Ar-0.2alpha.tar.gz
