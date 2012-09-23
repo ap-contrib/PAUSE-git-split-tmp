@@ -19,6 +19,7 @@ Config::GitLike::Git,SPANG,f
 Config::Grammar,DSCHWEI,f
 Config::Grammar::Document,DSCHWEI,f
 Config::Grammar::Dynamic,DSCHWEI,f
+Config::Hash,MINIMAL,m
 Config::Hierarchical,NKH,f
 Config::Hierarchical::Delta,NKH,f
 Config::Hierarchical::Tie::ReadOnly,NKH,f

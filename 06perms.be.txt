@@ -40,6 +40,7 @@ Beanstalk::Client,GBARR,f
 Beanstalk::Job,GBARR,f
 Beanstalk::Stats,GBARR,f
 Beautifier,TEUN,f
+BeeSQL,SCOTTA,m
 Beer::Admin,AUDREYT,f
 Beer::Admin,AUTRIJUS,c
 Beer::Admin,JESSE,c

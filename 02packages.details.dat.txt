@@ -899,7 +899,7 @@ Data::Validate::Japanese        0.01001  D/DM/DMAKI/Data-Validate-Japanese-0.010
 Data::Validate::MySQL              0.03  S/SO/SONNEN/Data-Validate-MySQL-0.03.tar.gz
 Data::Validate::Struct             0.06  T/TL/TLINDEN/Data-Validate-Struct-0.06.tar.gz
 Data::Validate::Structure          0.09  D/DO/DOCTORMO/Data-Validate-XSD-1.05.tar.gz
-Data::Validate::Type             v1.3.0  A/AU/AUBERTG/Data-Validate-Type-1.3.0.tar.gz
+Data::Validate::Type             v1.3.1  A/AU/AUBERTG/Data-Validate-Type-1.3.1.tar.gz
 Data::Validate::URI                0.06  S/SO/SONNEN/Data-Validate-URI-0.06.tar.gz
 Data::Validate::VIN                0.03  C/CS/CSEATON/Data-Validate-VIN-0.03.tar.gz
 Data::Validate::WithYAML           0.09  R/RE/RENEEB/Data-Validate-WithYAML-0.09.tar.gz
