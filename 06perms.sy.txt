@@ -107,6 +107,8 @@ Syntax::Highlight::Engine::Kate::Common_Lisp,HANJE,f
 Syntax::Highlight::Engine::Kate::Common_Lisp,SZABGAB,c
 Syntax::Highlight::Engine::Kate::ComponentminusPascal,HANJE,f
 Syntax::Highlight::Engine::Kate::ComponentminusPascal,SZABGAB,c
+Syntax::Highlight::Engine::Kate::Convert::ToolKit,SZABGAB,f
+Syntax::Highlight::Engine::Kate::Convert::XMLData,SZABGAB,f
 Syntax::Highlight::Engine::Kate::Cplusplus,HANJE,f
 Syntax::Highlight::Engine::Kate::Cplusplus,SZABGAB,c
 Syntax::Highlight::Engine::Kate::D,HANJE,f
@@ -229,6 +231,7 @@ Syntax::Highlight::Engine::Kate::Pascal,HANJE,f
 Syntax::Highlight::Engine::Kate::Pascal,SZABGAB,c
 Syntax::Highlight::Engine::Kate::Perl,HANJE,f
 Syntax::Highlight::Engine::Kate::Perl,SZABGAB,c
+Syntax::Highlight::Engine::Kate::Perl6,SZABGAB,f
 Syntax::Highlight::Engine::Kate::PicAsm,HANJE,f
 Syntax::Highlight::Engine::Kate::PicAsm,SZABGAB,c
 Syntax::Highlight::Engine::Kate::Pike,HANJE,f
