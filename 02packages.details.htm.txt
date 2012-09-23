@@ -72,7 +72,7 @@ HTML::Pager                        0.03  S/SA/SAMTREGAR/HTML-Pager-0.03.tar.gz
 HTML::Paginator                   undef  D/DO/DODGER/HTML-Paginator-0_51.tar.gz
 HTML::Paging::SQL                  1.17  W/WA/WAC/HTML-Paging-SQL-1.11.tar.gz
 HTML::ParagraphSplit               1.05  H/HA/HANENKAMP/HTML-ParagraphSplit-1.05.tar.gz
-HTML::Parse                        5.02  C/CJ/CJM/HTML-Tree-5.02.tar.gz
+HTML::Parse                        5.03  C/CJ/CJM/HTML-Tree-5.03.tar.gz
 HTML::ParseBrowser                 1.05  N/NE/NEILB/HTML-ParseBrowser-1.05.tar.gz
 HTML::Parser                       3.69  G/GA/GAAS/HTML-Parser-3.69.tar.gz
 HTML::Parser::Simple               1.06  R/RS/RSAVAGE/HTML-Parser-Simple-1.06.tgz
@@ -566,8 +566,8 @@ HTML::Transmorgify::MutuallyExclusive undef  M/MU/MUIR/modules/HTML-Transmorgify
 HTML::Transmorgify::ObjectGlue    undef  M/MU/MUIR/modules/HTML-Transmorgify-0.09.tar.gz
 HTML::Transmorgify::Stack         undef  M/MU/MUIR/modules/HTML-Transmorgify-0.09.tar.gz
 HTML::Transmorgify::Symbols       undef  M/MU/MUIR/modules/HTML-Transmorgify-0.09.tar.gz
-HTML::Tree                         5.02  C/CJ/CJM/HTML-Tree-5.02.tar.gz
-HTML::TreeBuilder                  5.02  C/CJ/CJM/HTML-Tree-5.02.tar.gz
+HTML::Tree                         5.03  C/CJ/CJM/HTML-Tree-5.03.tar.gz
+HTML::TreeBuilder                  5.03  C/CJ/CJM/HTML-Tree-5.03.tar.gz
 HTML::TreeBuilder::LibXML          0.17  T/TO/TOKUHIROM/HTML-TreeBuilder-LibXML-0.17.tar.gz
 HTML::TreeBuilder::LibXML::Node   undef  T/TO/TOKUHIROM/HTML-TreeBuilder-LibXML-0.17.tar.gz
 HTML::TreeBuilder::Select         0.111  R/RK/RKRIMEN/HTML-TreeBuilder-Select-0.111.tar.gz

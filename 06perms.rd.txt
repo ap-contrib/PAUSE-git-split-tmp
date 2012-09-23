@@ -71,6 +71,7 @@ REST::Google::Translate,EJS,f
 REST::Google::Translate2,MOB,f
 REST::Neo4p,MAJENSEN,m
 REST::Neo4p::Agent,MAJENSEN,f
+REST::Neo4p::Batch,MAJENSEN,f
 REST::Neo4p::Entity,MAJENSEN,f
 REST::Neo4p::Exceptions,MAJENSEN,f
 REST::Neo4p::Index,MAJENSEN,f
