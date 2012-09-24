@@ -210,7 +210,7 @@ IO::Ppoll                          0.11  P/PE/PEVANS/IO-Ppoll-0.11.tar.gz
 IO::Prompt                     0.997001  D/DC/DCONWAY/IO-Prompt-0.997001.tar.gz
 IO::Prompt::Simple                 0.05  X/XA/XAICRON/IO-Prompt-Simple-0.05.tar.gz
 IO::Prompt::Tiny                  0.001  D/DA/DAGOLDEN/IO-Prompt-Tiny-0.001.tar.gz
-IO::Prompter                   0.004001  D/DC/DCONWAY/IO-Prompter-0.004001.tar.gz
+IO::Prompter                   0.004002  D/DC/DCONWAY/IO-Prompter-0.004002.tar.gz
 IO::Pty                            1.10  T/TO/TODDR/IO-Tty-1.10.tar.gz
 IO::Pty::Easy                      0.09  D/DO/DOY/IO-Pty-Easy-0.09.tar.gz
 IO::Pty::HalfDuplex                0.02  S/SO/SOREAR/IO-Pty-HalfDuplex-0.02.tar.gz
