@@ -23,6 +23,8 @@ Net::Rendezvous::Publish::Service,RCLAMP,f
 Net::Rendezvous::RR,CHLIGE,f
 Net::Rexec,FKOLODNY,f
 Net::Rexster::Client,SHOHEIK,f
+Net::Rexster::Request,SHOHEIK,f
+Net::Rexster::Response,SHOHEIK,f
 Net::Riak,FRANCKC,f
 Net::Riak,RGE,c
 Net::Riak::Bucket,FRANCKC,f

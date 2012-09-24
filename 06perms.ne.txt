@@ -310,6 +310,7 @@ Net::Z3950::UDDI::ResultSet::soap,MIRK,f
 Net::Z3950::UDDI::ResultSet::uddi,MIRK,f
 Net::Z3950::UDDI::Session,MIRK,f
 Net::Z3950::ZOOM,MIRK,f
+Net::ZKMon,MNIKHIL,m
 Net::Zemanta::Method,AVIAN,f
 Net::Zemanta::Preferences,AVIAN,f
 Net::Zemanta::Suggest,AVIAN,f
