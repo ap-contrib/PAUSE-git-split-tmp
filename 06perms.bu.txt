@@ -1145,6 +1145,7 @@ Business::OnlinePayment::Jettis,IVAN,f
 Business::OnlinePayment::Jety,IVAN,f
 Business::OnlinePayment::LinkPoint,IVAN,f
 Business::OnlinePayment::Litle,JAYCE,f
+Business::OnlinePayment::Litle::ChargebackActivityResponse,JAYCE,f
 Business::OnlinePayment::Litle::ErrorCodes,JAYCE,f
 Business::OnlinePayment::Litle::UpdaterResponse,JAYCE,f
 Business::OnlinePayment::MerchantCommerce,TMAC,f
