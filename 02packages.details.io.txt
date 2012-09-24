@@ -499,9 +499,9 @@ IPC::Mmap::Win32                   0.11  A/AD/ADUITSIS/IPC-Mmap-0.21.tar.gz
 IPC::MorseSignals                  0.15  V/VP/VPIT/IPC-MorseSignals-0.15.tar.gz
 IPC::MorseSignals::Emitter         0.15  V/VP/VPIT/IPC-MorseSignals-0.15.tar.gz
 IPC::MorseSignals::Receiver        0.15  V/VP/VPIT/IPC-MorseSignals-0.15.tar.gz
-IPC::MPS                           0.12  K/KN/KNI/IPC-MPS-0.12.tar.gz
-IPC::MPS::EV                       0.12  K/KN/KNI/IPC-MPS-0.12.tar.gz
-IPC::MPS::Event                    0.12  K/KN/KNI/IPC-MPS-0.12.tar.gz
+IPC::MPS                           0.13  K/KN/KNI/IPC-MPS-0.13.tar.gz
+IPC::MPS::EV                       0.13  K/KN/KNI/IPC-MPS-0.13.tar.gz
+IPC::MPS::Event                    0.13  K/KN/KNI/IPC-MPS-0.13.tar.gz
 IPC::Msg                           2.03  M/MH/MHX/IPC-SysV-2.03.tar.gz
 IPC::Msg::stat                     2.03  M/MH/MHX/IPC-SysV-2.03.tar.gz
 IPC::Notify                       0.002  J/JA/JASLONG/IPC-Notify-0.2.tar.gz
