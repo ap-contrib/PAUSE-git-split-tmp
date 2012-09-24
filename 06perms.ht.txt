@@ -1224,6 +1224,7 @@ HTML::Mason::Utils,JSWARTZ,f
 HTML::MasonX::Free,RJBS,f
 HTML::MasonX::Free::Compiler,RJBS,f
 HTML::MasonX::Free::Component,RJBS,f
+HTML::MasonX::Free::Request,RJBS,f
 HTML::MasonX::Free::Resolver,RJBS,f
 HTML::Menu::DateTime,CFRANKS,f
 HTML::Menu::Hierarchical,DOWENS,f

@@ -592,10 +592,11 @@ HTML::Mason::Resolver::Null        1.50  J/JS/JSWARTZ/HTML-Mason-1.50.tar.gz
 HTML::Mason::Tests                    0  D/DR/DROLSKY/HTML-Mason-1.48.tar.gz
 HTML::Mason::Tools                 1.50  J/JS/JSWARTZ/HTML-Mason-1.50.tar.gz
 HTML::Mason::Utils                 1.50  J/JS/JSWARTZ/HTML-Mason-1.50.tar.gz
-HTML::MasonX::Free                0.002  R/RJ/RJBS/HTML-MasonX-Free-0.002.tar.gz
-HTML::MasonX::Free::Compiler      0.002  R/RJ/RJBS/HTML-MasonX-Free-0.002.tar.gz
-HTML::MasonX::Free::Component     0.002  R/RJ/RJBS/HTML-MasonX-Free-0.002.tar.gz
-HTML::MasonX::Free::Resolver      0.002  R/RJ/RJBS/HTML-MasonX-Free-0.002.tar.gz
+HTML::MasonX::Free                0.003  R/RJ/RJBS/HTML-MasonX-Free-0.003.tar.gz
+HTML::MasonX::Free::Compiler      0.003  R/RJ/RJBS/HTML-MasonX-Free-0.003.tar.gz
+HTML::MasonX::Free::Component     0.003  R/RJ/RJBS/HTML-MasonX-Free-0.003.tar.gz
+HTML::MasonX::Free::Request       0.003  R/RJ/RJBS/HTML-MasonX-Free-0.003.tar.gz
+HTML::MasonX::Free::Resolver      0.003  R/RJ/RJBS/HTML-MasonX-Free-0.003.tar.gz
 HTML::Menu::DateTime               1.00  C/CF/CFRANKS/HTML-Menu-DateTime-1.00.tar.gz
 HTML::Menu::Hierarchical           0.13  D/DO/DOWENS/HTML-Menu-Hierarchical-0.13.tar.gz
 HTML::Menu::Hierarchical::Item     1.06  D/DO/DOWENS/HTML-Menu-Hierarchical-0.13.tar.gz
