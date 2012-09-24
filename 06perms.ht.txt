@@ -1221,6 +1221,10 @@ HTML::Mason::Tools,DROLSKY,c
 HTML::Mason::Tools,JSWARTZ,f
 HTML::Mason::Utils,DROLSKY,c
 HTML::Mason::Utils,JSWARTZ,f
+HTML::MasonX::Free,RJBS,f
+HTML::MasonX::Free::Compiler,RJBS,f
+HTML::MasonX::Free::Component,RJBS,f
+HTML::MasonX::Free::Resolver,RJBS,f
 HTML::Menu::DateTime,CFRANKS,f
 HTML::Menu::Hierarchical,DOWENS,f
 HTML::Menu::Hierarchical::Item,DOWENS,f
