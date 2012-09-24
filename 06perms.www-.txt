@@ -483,6 +483,9 @@ Web::Magic::Util,TOBYINK,f
 Web::MicroID,RECLAW,f
 Web::Passwd,EVANK,f
 Web::Query,TOKUHIROM,f
+Web::Request,DOY,f
+Web::Request::Upload,DOY,f
+Web::Response,DOY,f
 Web::Scaffold,MIKER,m
 Web::Scraper,MIYAGAWA,f
 Web::Scraper::Config,CODEREPOS,c

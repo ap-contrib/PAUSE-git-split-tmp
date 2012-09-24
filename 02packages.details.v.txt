@@ -1224,6 +1224,9 @@ Web::oEmbed::Common                0.05  E/EV/EVO/Web-oEmbed-Common-0.05.tar.gz
 Web::oEmbed::Response             undef  M/MI/MIYAGAWA/Web-oEmbed-0.04.tar.gz
 Web::Passwd                        0.03  E/EV/EVANK/Web-Passwd-0.03.tar.gz
 Web::Query                         0.08  T/TO/TOKUHIROM/Web-Query-0.08.tar.gz
+Web::Request                       0.01  D/DO/DOY/Web-Request-0.01.tar.gz
+Web::Request::Upload               0.01  D/DO/DOY/Web-Request-0.01.tar.gz
+Web::Response                      0.01  D/DO/DOY/Web-Request-0.01.tar.gz
 Web::Scaffold                      0.15  M/MI/MIKER/Web-Scaffold-0.15.tar.gz
 Web::Scraper                       0.36  M/MI/MIYAGAWA/Web-Scraper-0.36.tar.gz
 Web::Scraper::Config               0.01  D/DM/DMAKI/Web-Scraper-Config-0.01.tar.gz
