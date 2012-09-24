@@ -1223,6 +1223,7 @@ HTTP::Daemon::patch::ipv6,SHARYANTO,f
 HTTP::Date,GAAS,c
 HTTP::Date,LWWWP,m
 HTTP::DetectUserAgent,NANZOU,f
+HTTP::DetectUserAgent,NEILB,c
 HTTP::DownloadLimit,NANOBIT,f
 HTTP::Engine,YAPPO,f
 HTTP::Engine::Attribute::InterfaceMethod,YAPPO,f
