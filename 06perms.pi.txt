@@ -1,5 +1,6 @@
 Pithub::Response,PLU,f
 Pithub::Result,PLU,f
+Pithub::Search,PLU,f
 Pithub::Users,PLU,f
 Pithub::Users::Emails,PLU,f
 Pithub::Users::Followers,PLU,f
