@@ -570,6 +570,7 @@ App::Podium::PSH,PETDANCE,f
 App::Presto,BPHILLIPS,f
 App::Presto::ArgProcessor,BPHILLIPS,f
 App::Presto::Client,BPHILLIPS,f
+App::Presto::Client::ContentHandlers::HTML,BPHILLIPS,f
 App::Presto::Client::ContentHandlers::JSON,BPHILLIPS,f
 App::Presto::Client::ContentHandlers::XMLSimple,BPHILLIPS,f
 App::Presto::Command::HTTP,BPHILLIPS,f
